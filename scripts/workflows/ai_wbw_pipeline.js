@@ -133,4 +133,20 @@ const perChunk = await pipeline(
 
 const analyses = perChunk.filter(Boolean).flat()
 log(`Done: ${analyses.length} form analyses from ${chunkList.length} chunk(s). (assemble_wbw.py reports any unfilled positions.)`)
-return { surah, processed: chunkList.length, analysed: analyses.length, analyses }
+
+// Write analyses to disk in 100-form batches so results survive any outer-workflow crash.
+// Each batch is ~40 KB ≈ 10 K tokens — well within the 32 K output-token limit.
+const PART_SIZE = 100
+const writeTasks = []
+for (let i = 0; i * PART_SIZE < analyses.length; i++) {
+  const slice = analyses.slice(i * PART_SIZE, (i + 1) * PART_SIZE)
+  const partPath = `${dir}/part_${String(i).padStart(3, '0')}.json`
+  writeTasks.push(() => agent(
+    `Write this JSON to "${partPath}" using the Write tool. Reply ONLY the word "ok".\n${JSON.stringify(slice)}`,
+    { label: `wp${i}`, phase: 'Finalize' }
+  ))
+}
+if (writeTasks.length) await parallel(writeTasks)
+log(`Wrote ${writeTasks.length} part file(s) to ${dir}`)
+
+return { surah, processed: chunkList.length, analysed: analyses.length, dir }
