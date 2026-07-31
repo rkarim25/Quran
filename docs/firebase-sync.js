@@ -133,6 +133,8 @@ const QuranFirebaseSync = (() => {
     return bundle;
   }
 
+  let pullInFlight = null;
+
   async function pullAndMerge() {
     if (!isSignedIn()) {
       return null;
@@ -141,23 +143,35 @@ const QuranFirebaseSync = (() => {
       setStatus("offline");
       return null;
     }
+    // Coalesce concurrent pulls (boot + onAuthStateChanged both pull on page
+    // load); a second caller shares the in-flight pull instead of re-fetching
+    // and re-firing onMerged.
+    if (pullInFlight) return pullInFlight;
 
     setStatus("syncing");
-    try {
-      const local = collectLocalData();
-      const remote = await fetchRemote();
-      const merged = mergeBundles(local, remote);
-      applyBundle(merged);
-      if (onMerged) onMerged({ source: "pull" });
-      setStatus("synced");
-      updateGooglePanel();
-      return merged;
-    } catch (e) {
-      console.warn("Firebase sync pull failed", e);
-      setStatus(navigator.onLine ? "error" : "offline");
-      updateGooglePanel();
-      return null;
-    }
+    pullInFlight = (async () => {
+      try {
+        const local = collectLocalData();
+        const remote = await fetchRemote();
+        const merged = mergeBundles(local, remote);
+        // Only report "changed" when the merge differs from what was already
+        // local — lets the app skip a visible re-render on no-op pulls.
+        const changed = JSON.stringify(merged) !== JSON.stringify(local);
+        applyBundle(merged);
+        if (onMerged) onMerged({ source: "pull", changed });
+        setStatus("synced");
+        updateGooglePanel();
+        return merged;
+      } catch (e) {
+        console.warn("Firebase sync pull failed", e);
+        setStatus(navigator.onLine ? "error" : "offline");
+        updateGooglePanel();
+        return null;
+      } finally {
+        pullInFlight = null;
+      }
+    })();
+    return pullInFlight;
   }
 
   async function flushPush() {

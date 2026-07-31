@@ -3543,12 +3543,15 @@ function applyPrefsToToolbarIfPresent() {
   }
 }
 
-function handleSyncMerged({ source = "pull" } = {}) {
+function handleSyncMerged({ source = "pull", changed } = {}) {
   reloadPrefsFromStorage();
   rebuildMyWorkIndex().catch((err) => console.warn("My-work index rebuild failed", err));
 
   // Background push — page already shows local data; never re-render.
   if (source === "push") return;
+  // Pull that changed nothing locally — nothing new to show; skip the re-render
+  // (this is the common case on every page load and caused a visible blink).
+  if (changed === false) return;
 
   const r = route();
   if (r.view === "surah" && currentSurah) {
@@ -3654,20 +3657,25 @@ async function boot() {
     };
 
     QuranGitHubSync?.init(syncOptions);
-    await QuranFirebaseSync?.init(syncOptions);
 
+    // Paint local content immediately — sync must never delay first render.
+    // If the pull below merges in remote changes, onMerged re-renders (and
+    // skips the re-render when nothing changed, so no blink).
+    render();
+    booted = true; // the app is up; past here, transient errors must not nuke it
+
+    await QuranFirebaseSync?.init(syncOptions);
     await checkSync();
     if (QuranFirebaseSync?.isSignedIn?.()) {
       await QuranFirebaseSync.pullAndMerge();
-      reloadPrefsFromStorage();
     }
-
-    render();
-    booted = true; // the app is up; past here, transient errors must not nuke it
     rebuildMyWorkIndex().catch((err) => console.warn("My-work index rebuild failed", err));
     setTimeout(initOfflineBanner, 1800);
   } catch (err) {
-    showBootError(err);
+    // Once local content is on screen, a sync/init failure must not replace
+    // the reader with "Failed to load".
+    if (booted) console.warn("Post-render boot step failed", err);
+    else showBootError(err);
   }
 }
 
