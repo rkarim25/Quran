@@ -7,6 +7,7 @@ Thumbs.db
 agent-tools/
 scripts/_forms/
 scripts/_context_out/
+scripts/_tafsir/
 # regenerable caches / run logs
 scripts/_canon_qpc.json
 scripts/generate_asbab_log.txt
