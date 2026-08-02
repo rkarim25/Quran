@@ -77,6 +77,27 @@ git add docs/data/ai_wbw/surah_N.json docs/data/surah_N.json && git commit && gi
 `assemble_wbw.py` prints any unfilled positions; `validate_wbw.py` is the final
 gate (must be exit 0 before apply/commit).
 
+The workflow now persists its analyses as crash-safe `part_NNN.json` files in
+the surah dir (step 2 returns only a summary), so step 3 takes
+`--analyses scripts/_forms/surah_N/part_*.json`.
+
+### Gap re-runs — ALWAYS re-extract first
+
+If a run dies part-way (session limit, 529) and you re-run only the missing
+chunks with `args {..., "chunks":[4]}`:
+
+1. The re-run's part files **restart at `part_000.json` and overwrite** the
+   earlier ones. That is safe — every analysis already assembled once lives in
+   the global cache — but it means the part files alone are no longer the full
+   set.
+2. **`asm.json` holds a snapshot of the cache taken at extraction time.**
+   Analyses added to the cache since then are invisible to it, so assembling
+   straight after a gap re-run silently drops them (surah 47 went 526/539 →
+   436/539 this way).
+
+So after any gap re-run, re-run `extract_forms.py --surah N --cache ...` before
+assembling. It should report `NEW to analyse: 0`; then assemble fills 100%.
+
 ## Large surahs (2–9) — slice the workflow
 
 Surah 2 alone is ~2,788 new forms (~233 chunks). To keep each workflow run and its
