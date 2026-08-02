@@ -177,15 +177,5 @@ As for the Hadith of Ibn ` Umar ؓ ، as recorded in Sahihain, that the dead are
 
 That no soul laden with sin will bear another's burden,
 
-## AI Tafsir
-
-**Context:** Allah the Exalted explained what He has revealed in the Scripture of Ibrahim and Musa,
-
-**What this ayah teaches:** This verse further clarifies that in matters, such as these, there is no possibility that one person may commit the sin and another is held accountable to pay the price.
-
-**Classical tafsir:** Ibn Kathir notes: Such a person has stopped giving in charity for righteous causes and did not keep relations with kith and kin because of his miserliness, being stingy and out of fear of poverty.
-
-**From the Sunnah:** This verse also refutes the thinking of the person which was narrated above as Background of Revelation: He had become a Muslim or was going to become one, and his friend rebuked him, saying that if any punishment is meted out to him, he guarantees him that no… (Sahih Muslim)
 ## Personal Reflections
-
 

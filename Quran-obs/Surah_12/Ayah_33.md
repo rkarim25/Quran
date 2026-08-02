@@ -195,13 +195,5 @@ As for the saying of Sayyidna Yusuf (علیہ السلام) : ` And unless you d
 
 Joseph prayed, “My Rabb! I would rather be in jail than do what they invite me to. And if You do not turn their cunning away from me, I might yield to them and fall into ignorance.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Unless You turn away their plot from me, I will feel inclined towards them and be one of the ignorant. And unless You turn their guile away from me, I shall get inclined towards them and shall be among the ignorant.
-
-**Classical tafsir:** Ibn Kathir notes: This indicates the best and most perfect grade in this case, for Yusuf was youthful, beautiful and full of manhood.
-
-**From the Sunnah:** An authentic Hadith stated that the Messenger of Allah passed ﷺ by Prophet Yusuf, during the Night of Isra' in the third heaven and commented, (authentic hadith)
 ## Personal Reflections
-
 

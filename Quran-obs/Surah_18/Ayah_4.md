@@ -182,15 +182,5 @@ The word: عوج ('iwaj) in: وَلَمْ يَجْعَل لَّهُ عِوَجً
 
 and to warn those who claim, “Allah has offspring.”
 
-## AI Tafsir
-
-**Context:** Muhammad bin Ishaq mentioned the reason why this Surah was revealed. He said that an old man from among the people of Egypt who came to them some forty-odd years ago told him, from 'Ikrimah that Ibn 'Abbas said:
-
-**What this ayah teaches:** And to warn those who say, "Allah has begotten a child.")(5. They shall abide therein forever.)(4.
-
-**Classical tafsir:** Ibn Kathir notes: They shall abide therein forever.)(4.
-
-**From the Sunnah:** from Abu Ad-Darda' that the Prophet ﷺ said: (Musnad Ahmad) In his Mustadrak, Al-Hakim recorded from Abu Sa'id that the Prophet ﷺ said: (al-Mustadrak)
 ## Personal Reflections
-
 

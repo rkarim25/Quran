@@ -192,13 +192,5 @@ when a person recites Surah Tin and reaches the verse اَلَيْسَ اللّ�
 
 Is such a Creator unable to bring the dead back to life?
 
-## AI Tafsir
-
-**What this ayah teaches:** This means, 'you deserve to strut like this while you have disbelieved in your Creator and Maker.' This is what is commonly said in this type of situation in order to mock and intimidate (someone).
-
-**Classical tafsir:** Ibn Kathir notes: This means, 'you deserve to strut like this while you have disbelieved in your Creator and Maker.' This is what is commonly said in this type of situation in order to mock and intimidate (someone).
-
-**From the Sunnah:** this to Abu Jahl, then Allah, the Mighty and Sublime, revealed this Ayah.'
 ## Personal Reflections
-
 

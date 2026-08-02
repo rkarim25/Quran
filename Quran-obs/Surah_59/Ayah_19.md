@@ -132,13 +132,5 @@ Therefore, Allah asserts that He will honor the righteous and humiliate the sinn
 
 Do not be like those who forgot Allah, so He made them forget themselves. They are the truly rebellious.
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, Allah is All-Aware of what you do (18)And be not like those who forgot Allah, and He caused them to forget themselves.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** The color of the face of the Messenger of Allah ﷺ underwent a change when he saw them in poverty. (Musnad Ahmad)
 ## Personal Reflections
-
 

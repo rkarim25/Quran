@@ -167,13 +167,5 @@ Ends here
 
 Do they not reflect on camels—how they were masterfully created;
 
-## AI Tafsir
-
-**What this ayah teaches:** Nature has created it uniquely, so that it is perfectly adapted to survive the hazards of the harsh climate of the desert.
-
-**Classical tafsir:** Ibn Kathir notes: They are reminded of this because the most common domestic animal of the Arabs was the camel.
-
-**From the Sunnah:** These are the things Dimam swore by after questioning the Messenger of Allah ﷺ. (Musnad Ahmad) This Hadith was recorded by Al-Bukhari, Muslim, Abu Dawud, At-Tirmidhi, An-Nasa'i and Ibn Majah. (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
-
 

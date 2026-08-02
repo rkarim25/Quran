@@ -148,13 +148,5 @@ The second word is عَزم ` azm (firm resolve) and the same verse says that Sa
 
 And indeed, We once made a covenant with Adam, but he forgot, and so We did not find determination in him.
 
-## AI Tafsir
-
-**Context:** And now we come to the story of Sayyidna 'Adam (علیہ السلام) which has been related earlier in Surah Al-Baqarah and Al-A` raf and partly in Surah Hijr and Al-Kahf, and will also appear later in Surah Sad.
-
-**What this ayah teaches:** He also explains the enmity of Iblis for the Children of Adam and for their father, Adam, before them.
-
-**Classical tafsir:** Ibn Kathir notes: Adam and Iblis Ibn Abi Hatim recorded that Ibn 'Abbas said, "Verily, man was named Insan only because he was given a covenant, but he forgot it (Nasiya)." 'Ali bin Abi Talhah reported the same from Ibn 'Abbas.
 ## Personal Reflections
-
 

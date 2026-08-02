@@ -143,13 +143,5 @@ In the second verse (66), after mentioning the anti-truth stand taken by the Qur
 
 Still your people have rejected this, although it is the truth. Say, “I am not a keeper over you.”
 
-## AI Tafsir
-
-**Context:** (And it has already been revealed to you in the Book that when you hear the Verses of Allah being denied and mocked at, then sit not with them, until they engage in a talk other than that; (but if you stayed with them) c…
-
-**What this ayah teaches:** The truth is that for everything there is a point of time as determined in Divine knowledge.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

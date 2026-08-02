@@ -138,13 +138,5 @@ According to a hadith of the Holy Prophet ﷺ if a Muslim prays to Allah Ta` a1a
 
 So We answered his salah and rescued him from anguish. And so do We save the true believers.
 
-## AI Tafsir
-
-**What this ayah teaches:** He said, 'No, why do you ask?' I said, 'I passed by 'Uthman a short while ago in the Masjid and greeted him, and he stared at me but he did not return my Salam.' 'Umar sent for 'Uthman and asked him, 'Why did you not return your brother's Salam?' He said, 'That is not true.' Sa'd said, 'Yes it is.' It reached the point where they both swore oaths.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** You passed by me a short while ago but I was preoccupied with thoughts of something I had heard from the Messenger of Allah ﷺ, which I never think of but a veil comes down over my eyes and my heart.' Sa'd said: 'And I will tell you what it was. (Musnad Ahmad) the Messenger of Allah ﷺ said: (Sahih Muslim, Jami' at-Tirmidhi)
 ## Personal Reflections
-
 

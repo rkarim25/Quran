@@ -147,11 +147,5 @@ First of all, by using the word: رَبّ (Rabb: Lord) here, the hint given is t
 
 And they even assign to those idols—who know nothing—a share of what We have provided for them. By Allah! You will certainly be questioned about whatever lies you used to fabricate against Allah.
 
-## AI Tafsir
-
-**What this ayah teaches:** Certainly, evil is their decision (59)For those who do not believe in the Hereafter is an evil description, and for Allah is the highest description.
-
-**Classical tafsir:** Ibn Kathir notes: And for themselves (they assign) what they desire (57)And when the news of (the birth of) a female (child) is brought to any of them, his face becomes dark, and he is filled with inner grief (58)He hides himself from the people because of the evil of what he has been informed.
 ## Personal Reflections
-
 

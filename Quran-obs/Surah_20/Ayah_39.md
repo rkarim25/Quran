@@ -179,11 +179,5 @@ Some scholars have answered this query with the argument that although here the 
 
 ‘Put him into a chest, then put it into the river. The river will wash it ashore, and he will be taken by Pharaoh, an enemy of Mine and his.’ And I blessed you with lovability from Me O Moses so that you would be brought up under My watchful Eye.
 
-## AI Tafsir
-
-**What this ayah teaches:** Therefore, with Allah having the great authority and the most perfect power, He determined that Musa would not be raised except upon Fir'awn's own bed. Some scholars have answered this query with the argument that although here the word has been used in the imperative mood which implies a command, it is not really a command but is meant to convey the information that the river would cast the box o…
-
-**Classical tafsir:** Ibn Kathir notes: However some scholars have disputed this explanation and have claimed that the word is really a command and is addressed to the river Nile because everything that Allah Ta` ala has created possesses emotions and a sense of feeling and it is these properties, which according to th…
 ## Personal Reflections
-
 

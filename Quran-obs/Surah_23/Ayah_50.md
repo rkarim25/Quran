@@ -116,11 +116,5 @@ Commentary
 
 And We made the son of Mary and his mother a sign, and gave them refuge on high ground—a suitable place for rest with flowing water.
 
-## AI Tafsir
-
-**What this ayah teaches:** And We made the son of Maryam and his mother as a sign, and We gave them refuge on a Rabwah, Dhat Qarar, and Ma'in . Isa and Maryam Allah tells us about His servant and Messenger 'Isa bin Maryam, peace be upon them both, and that He made them as a sign for mankind, i.e., definitive proof of His ability to do what He wills.
-
-**Classical tafsir:** Ibn Kathir notes: This – and Allah knows best – is the most apparent meaning, because it is mentioned in the other Ayah, and parts of the Qur'an explain other parts, so it is more appropriate to interpret it by another Ayah, then the Sahih Hadiths, then other reports.
 ## Personal Reflections
-
 

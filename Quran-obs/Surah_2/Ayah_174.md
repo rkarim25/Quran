@@ -214,17 +214,5 @@ Verse 175 tells us that a person who changes the injunction of Shari'ah in his g
 
 Those who hide what Allah revealed in the Book and trade it for a small price consume nothing into their bellies but fire. Allah will not speak to them on the Day of Judgment, nor purify them. A painful punishment awaits them.
 
-## AI Tafsir
-
-**Essence** Those who hide what Allah revealed and sell it for a fleeting worldly price are, in truth, swallowing nothing but Fire.
-
-**What it teaches** The ayah condemns concealing (kitman) Allah's revealed Book and bartering its truth for *thamanan qalilan* — a "little price" of worldly gain. The recompense is threefold: what such people consumed becomes fire in their bellies on the Day of Resurrection; Allah will not speak to them; and He will not purify them (*yuzakkihim*) — neither cleansing them of their sins nor declaring them pure with His praise. Beyond this, a painful torment (*adhab alim*) awaits them.
-
-**The scholars** Ibn Kathir explains the primary referents are the Jews who concealed their Book's descriptions of Muhammad ﷺ — descriptions that testified to his truth as Prophet and Messenger — fearing that if the people followed him they would lose the authority, gifts, and honor they enjoyed among the Arabs. So they "sold their souls for this little profit," preferring it over guidance and faith, and thus earned loss in this life and the next; yet Allah made His Messenger's truth known anyway through clear signs, and the very people they feared followed him regardless. On "they eat into their bellies nothing but fire," Ibn Kathir says whatever they consume in return for hiding the truth will turn into a raging fire in their stomachs on the Day of Resurrection — paralleling 4:10 on devouring orphans' wealth. The reason Allah will not speak to or purify them, Ibn Kathir notes, is His fury at their concealing the truth: He will not even look at them. Maarif ul Quran widens the lesson into a warning to the scholars (*ulama*) of this Ummah, citing how some Jewish scholars distorted the Torah to please those who bribed them — they must never fall short in disclosing Allah's true injunctions for any worldly interest. Maarif adds that some perceptive ulama held unlawful wealth is in reality the very fire of Hell, unsensed now but appearing as fire after death.
-
-**From the Sunnah** The Prophet ﷺ said that whoever eats or drinks from vessels of gold and silver is only pouring the fire of Hell into his belly — a vivid parallel to the consuming of unlawful gain in this ayah, where what is swallowed in exchange for hiding the truth becomes fire in the belly. (an authentic Hadith)
-
-**Reflection** Never barter Allah's truth — whether knowledge you must speak or a ruling you must uphold — for any fleeting worldly price.
 ## Personal Reflections
-
 

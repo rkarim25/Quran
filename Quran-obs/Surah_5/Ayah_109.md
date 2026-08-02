@@ -159,13 +159,5 @@ Great is the mercy and affection of Allah Ta` ala. He puts us to a test and He H
 
 The Day Allah will gather the messengers and say, “What response did you receive?” They will reply, “We have no knowledge ! You are indeed the Knower of all unseen.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Surely You have the full knowledge of all that is unseen).
-
-**Classical tafsir:** Ibn Kathir notes: Otherwise, real faith ('Iman) is a secret of the heart which no one can find out with any certitude without a Divine revelation.
-
-**From the Sunnah:** Al-A'mash said that Mujahid said about the Ayah,
 ## Personal Reflections
-
 

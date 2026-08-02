@@ -213,13 +213,5 @@ And on the Day of Resurrection, he will be a witness against them )4:159(. This 
 
 Had We willed, We could have easily replaced you all with angels succeeding one another on earth.
 
-## AI Tafsir
-
-**What this ayah teaches:** We granted Our favor to him, and We made him an example for the Children of Israel (59)And if it were Our will, We would have made angels to replace you on the earth (60)And he shall be a known sign for (the coming of) the Hour. And if it were Our will, We would have made angels to replace you on the earth.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore have Taqwa of Allah and obey me.
-
-**From the Sunnah:** Several others narrated that Ibn 'Abbas, may Allah be pleased with him, Mujahid, 'Ikrimah, As-Suddi and Ad-Dahhak said, "They laughed, i.e., they were astounded by that." Qatadah said, "They were repelled by that and they laughed." Ibrahim An-Nakha'i said, "Th… The Messenger of Allah ﷺ spoke, then An-Nadr bin Al-Harith came up to him and the Messenger of Allah ﷺ spoke to him until he ﷺ defeated him in argument.
 ## Personal Reflections
-
 

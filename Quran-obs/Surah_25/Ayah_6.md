@@ -137,11 +137,5 @@ This is a clear proof of the fact that it is not a work of a human being. Otherw
 
 Say, O Prophet, “This Quran has been revealed by the One Who knows the secrets of the heavens and the earth. Surely He is All-Forgiving, the Rahim — special mercy for believers in the Akhirah — the everlasting life after death.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Because this idea is so foolish and is so patently false, everyone knows that it is not true.
-
-**Classical tafsir:** Ibn Kathir notes: And because he could not read or write, he would get them read out to him day and night, so that he could remember them by heart, then he would repeat them before people and claim that he had received that revelation from Allah Ta’ ala.
 ## Personal Reflections
-
 

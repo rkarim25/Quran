@@ -129,13 +129,5 @@ upon in the matter of the merits of good deeds. (Ruh-ul-Ma’ ani)
 
 It has already been revealed to you—and to those prophets before you—that if you commit shirk, your deeds will certainly be void and you will truly be among the losers.
 
-## AI Tafsir
-
-**Context:** Allah is the Creator of all things, and He is the Trustee over all things (62)To Him belong the Maqalid of the heavens and the earth.
-
-**What this ayah teaches:** Allah is the Creator and Controller, and associating others in worship with Him cancels out Good Deeds Allah tells us that He is the Creator, Lord, Sovereign and Controller of all things; everything is subject to His dominion, power and guardianship.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, the sense of the verse is that the keys to whatever treasures lie hidden in the heavens and the earth are in the hands of Allah and He alone is the custodian and the dispenser in that it is He who gives whenever He wills to whomever He wills and as much as He wills - a…
 ## Personal Reflections
-
 

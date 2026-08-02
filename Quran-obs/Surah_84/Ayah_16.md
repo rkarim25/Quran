@@ -160,13 +160,5 @@ Under the phrase above طَبَقًا عَن طَبَقٍ tabaqan ` an tabaq 'fr
 
 I swear by the twilight,
 
-## AI Tafsir
-
-**What this ayah teaches:** The primitive sense of the word wasaqa means to 'pile, gather, heap up the thing'. By extension, the word would comprehend all things that normally disperse in the light of day and retreat to their own places at night.
-
-**Classical tafsir:** Ibn Kathir notes: The primitive sense of the word wasaqa means to 'pile, gather, heap up the thing'.
-
-**From the Sunnah:** His main goal in this life should be to cultivate for the next life as the Prophet ﷺ said:
 ## Personal Reflections
-
 

@@ -195,13 +195,5 @@ Imam Ahmad recorded that 'Abdullah bin Mas'ud said, "Allah curses women who prac
 
 As for the gains Allah turned over to His Messenger from them—you did not even ride out for them on horse or camel. Allah gives authority to His messengers over whomever He wills. Allah is Most Capable of everything.
 
-## AI Tafsir
-
-**What this ayah teaches:** The Fai' and how it is spent Allah the Exalted explains the regulations for Fai', the booty that the Muslims acquire from the those who reject the truth, without fighting them or using cavalry and camelry in war against them. For instance, the booty collected from Bani An-Nadir was not acquired because of fighting them using horses and camels.
-
-**Classical tafsir:** Ibn Kathir notes: The Fai' and how it is spent Allah the Exalted explains the regulations for Fai', the booty that the Muslims acquire from the those who reject the truth, without fighting them or using cavalry and camelry in war against them.
-
-**From the Sunnah:** Allah the Exalted explains the regulations for Fai', the booty that the Muslims acquire from the those who reject the truth, without fighting them or using cavalry and camelry in war against them.
 ## Personal Reflections
-
 

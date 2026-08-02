@@ -110,13 +110,5 @@ Some of the commentators have analysed that the pronouns of zakka 'He purified' 
 
 When the most wretched among them rose up—
 
-## AI Tafsir
-
-**What this ayah teaches:** This resulted in them killing the she-camel that Allah had brought out of the rock as a sign for them and a proof against them. So their Lord destroyed them because of their sin, Fasawwaha (14)And He feared not the consequences thereof .
-
-**Classical tafsir:** Ibn Kathir notes: So their Lord destroyed them because of their sin, Fasawwaha (14)And He feared not the consequences thereof .
-
-**From the Sunnah:** This is just as Imam Ahmad recorded from 'Abdullah bin Zam'ah. (Musnad Ahmad) This Hadith was recorded by Al-Bukhari in his Book of Tafsir, and Muslim in his Book of the Description of the Hellfire. (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
-
 

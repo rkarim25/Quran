@@ -84,11 +84,5 @@ In the last benefit, ships and boats are also included, because they are also us
 
 He is simply insane, so bear with him for a while.”
 
-## AI Tafsir
-
-**What this ayah teaches:** All types of mounts which are run with wheels may also be added to fulk (boats) because they render the same service. We have never heard of such a thing – i.e., sending a man to our forefathers' – their predecessors in times past.
-
-**Classical tafsir:** Ibn Kathir notes: All types of mounts which are run with wheels may also be added to fulk (boats) because they render the same service.
 ## Personal Reflections
-
 

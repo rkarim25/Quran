@@ -127,11 +127,5 @@ In verse 32, it was said: كَذَّبَ بِالصِّدْقِ (rejects the tru
 
 Who then does more wrong than those who lie about Allah and reject the truth after it has reached them? Is Hell not a fitting home for those who reject the truth?
 
-## AI Tafsir
-
-**What this ayah teaches:** Then, who does more wrong than one who utters a lie against Allah, and denies the truth when it comes to him! Is there not in Hell an abode for the those who reject the truth (32)And he who has brought the truth and (those who) believed therein, they are those who have Taqwa (33)They shall have all that they will desire with their Lord.
-
-**Classical tafsir:** Ibn Kathir notes: The Punishment of the those who reject the truth and Liars, and the Reward of the Sincere Believers The idolators uttered lies against Allah and said that there were other gods besides Him and claimed that the angels were the daughters of Allah and that Allah had a son – glorified be He far ab…
 ## Personal Reflections
-
 

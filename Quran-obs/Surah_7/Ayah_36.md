@@ -102,11 +102,5 @@ As for the appointed time not being late or early as stated in this verse, it is
 
 But those who receive Our revelations with denial and arrogance will be the residents of the Fire. They will be there forever.
 
-## AI Tafsir
-
-**What this ayah teaches:** If there come to you Messengers from among you, reciting to you My Ayat, then whosoever has Taqwa and becomes righteous, on them shall be no fear nor shall they grieve (35)But those who reject Our Ayat and treat them with arrogance, they are the dwellers of the Fire, they will abide therein forever .
-
-**Classical tafsir:** Ibn Kathir notes: The third verse (34) describes their sad end and the punishment they would have in the Hereafter.
 ## Personal Reflections
-
 

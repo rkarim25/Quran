@@ -174,13 +174,5 @@ Channels of Acquiring Knowledge
 
 We created the heavens and the earth and everything between them in six days, and no fatigue touched Us.
 
-## AI Tafsir
-
-**What this ayah teaches:** Could they find any place of refuge (36)Verily, therein is indeed a reminder for him who has a heart or gives ear while he is heedful (37)And indeed We created the heavens and the earth and all between them in six Days and nothing of fatigue touched Us (38)So bear with patience all that they say, and glorify the praises of your Lord, before the rising of the sun and before (its) setting (39)And du…
-
-**Classical tafsir:** Ibn Kathir notes: Some scholars of Qur'an say that "heart" here refers to life, because the axis of life is heart.
-
-**From the Sunnah:** Have what they collected benefited them or averted Allah's torment when it came to them on account of their denial of the Messengers? Qiyam Al-Layl, prayer at night, was a command for the Prophet ﷺ and his followers for sometime but it was later abrogated for the Ummah. (Musnad Ahmad)
 ## Personal Reflections
-
 

@@ -97,11 +97,5 @@ We now move to the sentence: حَتَّىٰ إِذَا لَقِيَا غُلَا
 
 He answered, “Did I not tell you that you cannot have sabr with me?”
 
-## AI Tafsir
-
-**What this ayah teaches:** Then they both proceeded till they met a boy, and he (Khidr) killed him.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

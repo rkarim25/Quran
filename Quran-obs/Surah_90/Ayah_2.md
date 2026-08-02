@@ -298,13 +298,5 @@ This is the end of the Tafsir of Surat Al-Balad, and all praise and blessings ar
 
 Though you, O Prophet, are permitted to live in it while others would be barred from violating what is holy—yet even here you faced abuse.
 
-## AI Tafsir
-
-**What this ayah teaches:** From this point of view, hillun could signify one of two things: One that the pagans of Makkah consider it lawful to do the Holy Prophet ﷺ any harm, even to kill him, in this City of Makkah which is so sacred that the doing of harm to a living creature in its precincts, not to say of killing it or hunting it, is strictly forbidden even according to their own belief system.
-
-**Classical tafsir:** Ibn Kathir notes: Al-Hasan Al-Basri said, "Allah made it lawful (to fight in) for him (the Prophet ﷺ) for one hour of a day." The meaning of what they have said was mentioned in a Hadith that is agreed-upon as being authentic.
-
-**From the Sunnah:** Al-Hasan Al-Basri said, "Allah made it lawful (to fight in) for him (the Prophet ﷺ) for one hour of a day." The meaning of what they have said was mentioned in a Hadith that is agreed-upon as being authentic.
 ## Personal Reflections
-
 

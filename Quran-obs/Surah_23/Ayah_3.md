@@ -212,13 +212,5 @@ Forth Attribute is guarding ones private parts against unlawful liaison. وَا�
 
 those who avoid idle talk;.
 
-## AI Tafsir
-
-**Context:** (And those who pay the Zakah.) Most commentators say that the meaning here is the Zakah that is paid on wealth, even though this Ayah was revealed in Makkah, and Zakah was ordained in Al-Madinah in the year 2 H.
-
-**What this ayah teaches:** Hakim ul-Ummah has written in Bayan ul-Qur'an that while Khushu' is not a necessary condition for the validity of the prayers, yet it is an essential element for the acceptance of the prayers by Allah and from this point of view it is obligatory.
-
-**Classical tafsir:** Ibn Kathir notes: Al-Hasan Al-Basri said, "Their Khushu' was in their hearts." So they lowered their gaze and were humble towards others.
 ## Personal Reflections
-
 

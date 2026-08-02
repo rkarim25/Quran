@@ -215,11 +215,5 @@ Then Allah says:
 
 With Him alone is the knowledge of the Hour. No fruit comes out of its husk, nor does a female conceive or deliver without His knowledge. Consider the Day He will call to them, "Where are My so-called associate-gods?" They will cry, "We declare before you that none of us testifies to that any longer."
 
-## AI Tafsir
-
-**What this ayah teaches:** Whosoever does righteous good deed, it is for himself; and whosoever does evil, it is against himself.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore ` ajamiyy is a person who is non-Arab, even though he may speak eloquently, and a'jamiyy is a person who cannot speak eloquently (Qurtubi).
 ## Personal Reflections
-
 

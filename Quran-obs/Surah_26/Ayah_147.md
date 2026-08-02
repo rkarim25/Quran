@@ -66,11 +66,5 @@ This verse indicates that the construction of houses and buildings without need 
 
 amid gardens and springs,.
 
-## AI Tafsir
-
-**What this ayah teaches:** There is no contradiction between the two views, because they built the houses which they carved in the mountains as a form of extravagant play, with no need for them as dwelling places. A Reminder to Them of Their Circumstances and the Blessings They Enjoyed Salih preached to them, warning them that the punishment of Allah could overtake them and reminding them of the blessings that Allah had bes…
-
-**Classical tafsir:** Ibn Kathir notes: There is no contradiction between the two views, because they built the houses which they carved in the mountains as a form of extravagant play, with no need for them as dwelling places.
 ## Personal Reflections
-
 

@@ -118,11 +118,5 @@ After this, the non-believers are threatened with punishment. Towards the end of
 
 Say: 'He is the Rahman—in Him alone we believe, and in Him alone we trust. You will soon know who is clearly astray.'
 
-## AI Tafsir
-
-**What this ayah teaches:** Knowledge received through hearing and seeing depends on the human 'heart', unlike the theory of the philosophers and scientists who believe that the centre of knowledge is the human 'brain'.
-
-**Classical tafsir:** Ibn Kathir notes: But out of the five physical senses, only two have been mentioned, namely, ears and eyes, because man receives a very limited range of knowledge by smelling, tasting and feeling.
 ## Personal Reflections
-
 

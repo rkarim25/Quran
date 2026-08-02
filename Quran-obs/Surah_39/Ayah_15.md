@@ -150,13 +150,5 @@ Imam Malik (رح) has taken: صَابرین (as-sabirun) in this verse to mean p
 
 Worship then whatever gods you want instead of Him." Say: "The true losers are those who will lose themselves and their families on Judgment Day. That is indeed the clearest loss."
 
-## AI Tafsir
-
-**What this ayah teaches:** So much so that people who had lived their life of the mortal world in perfect peace and comfort would wish, 'alas! When people who had given Sadaqah (charity) come forward, whatever they had given will be weighed, and they will be given their full reward against it.
-
-**Classical tafsir:** Ibn Kathir notes: So much so that people who had lived their life of the mortal world in perfect peace and comfort would wish, 'alas!
-
-**From the Sunnah:** This is a conditional sentence, and if what is referred to here applies to the Prophet ﷺ, it applies even more so to others,
 ## Personal Reflections
-
 

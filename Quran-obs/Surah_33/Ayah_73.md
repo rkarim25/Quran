@@ -152,11 +152,5 @@ With the help of and praise for Allah Ta’ ala
 
 so that Allah will punish one of nifaq men and women and polytheistic men and women, and Allah will turn in mercy to believing men and women. For Allah is All-Forgiving, the Rahim.
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, he was unjust and ignorant (72)So that Allah will punish the hypocrites, men and women, and the men and women who are idolators.
-
-**Classical tafsir:** Ibn Kathir notes: Verily, he was unjust and ignorant.)" 'Ali bin Abi Talhah reported that Ibn 'Abbas said, "Al-Amanah means Al-Fara'id (the obligatory duties). Al-A'mash narrated from Abu Ad-Duha from Masruq that Ubayy bin Ka'b said: "Part of Al-Amanah means that woman was entrusted with her own chastity." Qatadah said: "Al-Amanah means religion, obligatory duties and prescribed punishments." Malik narrated that Zayd…
 ## Personal Reflections
-
 

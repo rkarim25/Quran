@@ -245,13 +245,5 @@ The gist of the objection mentioned in the first and second narrations is essent
 
 When the son of Maryam was cited as an example in argument, your people broke into joyful applause.
 
-## AI Tafsir
-
-**Context:** وَلَمَّا ضُرِ‌بَ ابْنُ مَرْ‌يَمَ مَثَلًا إِذَا قَوْمُكَ مِنْهُ يَصِدُّونَ (And when the example of the son of Maryam was cited, your people started at once shouting at it [ in joy ]...43:57).
-
-**What this ayah teaches:** And when the son of Maryam is quoted as an example, behold, your people cry aloud thereat (57)And say: "Are our gods better or is he?" They quoted not the above example except for argument.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore have Taqwa of Allah and obey me.
 ## Personal Reflections
-
 

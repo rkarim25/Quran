@@ -148,13 +148,5 @@ The point whether Sayyidna Ibrahim (علیہ السلام) had become aware of t
 
 Forgive my father, for he is certainly one of the misguided.
 
-## AI Tafsir
-
-**What this ayah teaches:** Bestow Hukm on me, and join me with the righteous (83)And grant me an honorable mention in later generations (84)And make me one of the inheritors of the Paradise of Delight (85)And forgive my father, verily, he is of the erring (86)And disgrace me not on the Day when they will be resurrected (87)The Day whereon neither wealth nor sons will avail (88)Except him who brings to Al…
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** Paradise to the those who reject the truth. (Sunan an-Nasa'i) This verse clearly lays down the rule that it is not allowed for a Muslim to pray for the forgiveness of the one about whom it is certainly known that he died in the state of kufr. (Sahih Muslim)
 ## Personal Reflections
-
 

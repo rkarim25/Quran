@@ -110,13 +110,5 @@ Some of the commentators have analysed that the pronouns of zakka 'He purified' 
 
 Thamud denied through arrogance—
 
-## AI Tafsir
-
-**What this ayah teaches:** The Rejection of Thamud and Allah's Destruction of Them Allah informs that Thamud rejected their Messenger because of the injustice and transgression they practiced.
-
-**Classical tafsir:** Ibn Kathir notes: So their Lord destroyed them because of their sin, Fasawwaha (14)And He feared not the consequences thereof .
-
-**From the Sunnah:** This is just as Imam Ahmad recorded from 'Abdullah bin Zam'ah. (Musnad Ahmad) This Hadith was recorded by Al-Bukhari in his Book of Tafsir, and Muslim in his Book of the Description of the Hellfire. (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
-
 

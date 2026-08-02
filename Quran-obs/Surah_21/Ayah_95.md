@@ -167,13 +167,5 @@ It was confimred by Hadiths that 'Isa bin Maryam will perform Hajj to the Al-Bay
 
 It is impossible for a society which We have destroyed to ever rise again,.
 
-## AI Tafsir
-
-**What this ayah teaches:** And a ban is laid on every town which We have destroyed that they shall not return (95)Until, when Ya'juj and Ma'juj (Gog and Magog people) are let loose, and they swoop down from every Hadab (96)And the true promise shall draw near.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** Ibn Jarir narrated that 'Ubaydullah bin Abi Yazid said, "Ibn 'Abbas saw some young boys playing and pouncing on one another, and said, this is how Ya'juj and Ma'juj will emerge." Their emergence has been described in numerous Hadiths of the Prophet ﷺ. They will overwhelm the people, and the Muslims will retreat to their cities and strongholds, bringing their flocks with them. (Sunan Ibn Majah)
 ## Personal Reflections
-
 

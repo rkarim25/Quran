@@ -218,15 +218,5 @@ Injunction [ 2]
 
 And do not drive away the beggar—
 
-## AI Tafsir
-
-**Context:** Al-'Awfi reported from Ibn 'Abbas, "When the Qur'an was revealed to the Messenger of Allah ﷺ, Jibril was delayed from coming to him for a number of days (on one occasion).
-
-**What this ayah teaches:** The verb tanhar is derived from nahr which means 'to scold'.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, treat not the orphan with oppression.)(10.
-
-**From the Sunnah:** this Hadith. (Sahih al-Bukhari, Sahih Muslim) Therefore, the Messenger of Allah ﷺ was affected by this.
 ## Personal Reflections
-
 

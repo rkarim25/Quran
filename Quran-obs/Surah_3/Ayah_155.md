@@ -262,13 +262,5 @@ Abridged below is what Hafiz Ibn Taymiyyah (رح) has said in al-'Aqidatul Wasit
 
 Indeed, those who fled on the day when the two armies met were made to slip by Satan because of their misdeeds. But Allah has pardoned them. Surely Allah is All-Forgiving, Most Forbearing.
 
-## AI Tafsir
-
-**What this ayah teaches:** Surely, Allah is Oft-Forgiving, Most Forbearing .
-
-**Classical tafsir:** Ibn Kathir notes: In other words, all deeds - good and bad - have a sort of magnetic pull of their own.
-
-**From the Sunnah:** from Anas that Abu Talhah said, "On the day of Uhud, I raised my head and looked around and found that everyone's head was nodding from slumber." This is the wording of At-Tirmidhi, who said, "Hasan Sahih". (Sahih al-Bukhari, Jami' at-Tirmidhi) As for his statement that I remained behind from participating in Badr, I was nursing Ruqayyah, the daughter of the Messenger of Allah ﷺ, until she passed away.
 ## Personal Reflections
-
 

@@ -138,15 +138,5 @@ Commentary
 
 Whenever they try to escape from Hell—out of anguish—they will be forced back into it, and will be told, “Taste the torment of burning!”
 
-## AI Tafsir
-
-**Context:** (These two opponents dispute with each other about their Lord;) was revealed concerning Hamzah and his two companions, and 'Utbah and his two companions, on the day of Badr when they came forward to engage in single comb…
-
-**What this ayah teaches:** He will raise a hammer that he is carrying and will strike his head with it, and his brains will spill out, then he will pour the brains back into his head. However, the particular event in the background of which it was revealed about two groups of men who faced each other in combat on the battleground of Badr.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** This is the wording of Al-Bukhari in his Tafsir of this Ayah.
 ## Personal Reflections
-
 

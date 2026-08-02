@@ -267,13 +267,5 @@ In the eighth verse, an answer has been given to people who doubted the warnings
 
 And if We delay their punishment until an appointed time, they will definitely say, “What is holding it back?” Indeed, on the Day it overtakes them, it will not be averted from them, and they will be overwhelmed by what they used to ridicule.
 
-## AI Tafsir
-
-**What this ayah teaches:** Not willing to believe them, they used to ask them if they were true, and if they were, why the punishment they warned them of would not come? The Meanings of the Word Ummah The word Ummah is used in the Qur'an and Sunnah with a number of different meanings.
-
-**Classical tafsir:** Ibn Kathir notes: The Meanings of the Word Ummah The word Ummah is used in the Qur'an and Sunnah with a number of different meanings.
-
-**From the Sunnah:** This Hadith has been recorded in the Two Sahihs of Al-Bukhari and Muslim with a variety of wordings. (Sahih al-Bukhari, Sahih Muslim) This is like what has been recorded in Sahih Muslim, (Sahih Muslim)
 ## Personal Reflections
-
 

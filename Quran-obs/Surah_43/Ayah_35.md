@@ -209,15 +209,5 @@ The statement in these verses that if gold and silver had been showered upon all
 
 and ornaments of gold. Yet all this is no more than fleeting enjoyment in this dunya. The Akhirah with your Lord is only for those who live with taqwa.
 
-## AI Tafsir
-
-**Context:** (And they say) means, objecting to that which Allah has revealed to him, (Why is not this Qur'an sent down to some great man of the two towns?) meaning, why was this Qur'an not revealed to some man who was great and prom…
-
-**What this ayah teaches:** And the Hereafter with your Lord is for those who have Taqwa .
-
-**Classical tafsir:** Ibn Kathir notes: Ibn Zayd said, "The word of Islam," which refers to the same thing suggested by the group.
-
-**From the Sunnah:** In as the Two Sahihs and elsewhere, it is reported that the Messenger of Allah ﷺ said:
 ## Personal Reflections
-
 

@@ -184,13 +184,5 @@ Though surprising, Allah Almighty has Himself phrased these very two verses with
 
 But if they choose to separate, Allah will enrich both of them from His bounties. And Allah is Ever-Bountiful, All-Wise.
 
-## AI Tafsir
-
-**Context:** (And if a woman fears cruelty or desertion on her husband's part), that it refers to, "A man who is married to an old woman, and he does not desire her and wants to divorce her.
-
-**What this ayah teaches:** And Allah is Ever All-Sufficient for His creatures' needs, All-Wise.) This is the third case between husband and wife, in which divorce occurs.
-
-**Classical tafsir:** Ibn Kathir notes: 'Ali bin Abi Talhah related that Ibn 'Abbas said that the Ayah refers to, "When the husband gives his wife the choice between staying with him or leaving him, as this is better than the husband preferring other wives to her." However, the apparent wording of the Ayah refers to the settlement where t… This leads us to realize that the inability to maintain equality pointed out in this verse actually…
 ## Personal Reflections
-
 

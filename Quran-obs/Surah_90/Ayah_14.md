@@ -324,13 +324,5 @@ If an orphaned family member is given food to eat, its reward is twofold, for sa
 
 Or feeding, on a day of famine,
 
-## AI Tafsir
-
-**What this ayah teaches:** It means that feeding him in a day when he is hungry will attract more reward.
-
-**Classical tafsir:** Ibn Kathir notes: Al-Hasan Al-Basri said, "Allah made it lawful (to fight in) for him (the Prophet ﷺ) for one hour of a day." The meaning of what they have said was mentioned in a Hadith that is agreed-upon as being authentic. Here the word 'aqabah refers to obedience and devotion.
-
-**From the Sunnah:** Al-Hasan Al-Basri said, "Allah made it lawful (to fight in) for him (the Prophet ﷺ) for one hour of a day." The meaning of what they have said was mentioned in a Hadith that is agreed-upon as being authentic.
 ## Personal Reflections
-
 

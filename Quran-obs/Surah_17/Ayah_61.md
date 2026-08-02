@@ -93,13 +93,5 @@ It also stands proved from this event that the word رُّ‌ؤْيَا (ru'ya) 
 
 And remember when We said to the angels, “Prostrate before Adam,” so they all did—but not Iblîs, who protested, “Should I prostrate to the one You have created from mud?”
 
-## AI Tafsir
-
-**What this ayah teaches:** And (remember) when We said to the angels: "Prostrate yourselves unto Adam." They prostrated themselves except Iblis. This is an ancient hatred, dating from the time that Allah created Adam, when He commanded the angels to prostrate to Adam, and all of them prostrated except Iblis, who was too arrogant and he haughtily refused to prostrate to him.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, the majority of commentators have declared the event of Mi` raj alone as the relevant subject of this verse.
-
-**From the Sunnah:** There were many neo-Muslims who had yet to become staunch in their faith fell into the error of belying his statement and turned apostates.
 ## Personal Reflections
-
 

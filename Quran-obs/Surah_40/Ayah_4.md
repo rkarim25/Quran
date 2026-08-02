@@ -130,13 +130,5 @@ In the last sentence of verse 4, it was said: فَلَا يَغْرُ‌رْ‌�
 
 None disputes Allah's ayahs except those who reject the truth—so do not be deceived by their prosperity throughout the land.
 
-## AI Tafsir
-
-**What this ayah teaches:** This verse declares quarreling in the matter of the Qur'an an act of kufr (disbelief). So let not their ability of going about here and there through the land (for their purposes) deceive you (4)The people of Nuh and the groups after them denied before these; and every nation plotted against their Messenger to seize him, and disputed by means of falsehood to refute therewith the truth.
-
-**Classical tafsir:** Ibn Kathir notes: This verse declares quarreling in the matter of the Qur'an an act of kufr (disbelief).
-
-**From the Sunnah:** He said, 'communities before you were ruined because they had started quarreling in the matter of the Book of Allah.' (Reported by Muslim from ` Abdullah Ibn ` Amr Ibn Shu'aib - Mazhari) (Sahih Muslim) That this state of affairs with them kept continuing despite the challenge from Islam and the Holy Prophet ﷺ was a matter of pride…
 ## Personal Reflections
-
 

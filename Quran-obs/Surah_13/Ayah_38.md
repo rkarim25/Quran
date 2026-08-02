@@ -194,13 +194,5 @@ Therefore, asking the Holy Prophet to insert particular kinds of in-junctions in
 
 We sent messengers before you and gave them wives and offspring. No messenger could bring a sign except by Allah's permission. Every destined matter has its set time.
 
-## AI Tafsir
-
-**Context:** (Say: "I am only a man like you. It has been revealed to me.")[18:110] It is recorded in the Two Sahihs that the Messenger of Allah ﷺ said, Out of the hostile questions the those who reject the truth and polytheists have al-ways been…
-
-**What this ayah teaches:** We have not given such a right to any messenger.' Similar is the case with the demand that he shows to them a particular miracle as identified by them.
-
-**Classical tafsir:** Ibn Kathir notes: Commentary The common thinking of those who reject the truth and polytheists about a prophet and messenger was that he should be from a species other than human, such as a creation like angels so that their supremacy over the general run of human beings becomes clearly pronounced.
 ## Personal Reflections
-
 

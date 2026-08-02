@@ -108,13 +108,5 @@ While stating the sex of children in this verse, Allah Ta’ ala has mentioned f
 
 or grants both sons and daughters to whoever He wills, and leaves whoever He wills infertile. He is indeed All-Knowing, Most Capable.
 
-## AI Tafsir
-
-**What this ayah teaches:** It is Allah Ta’ ala alone who grants female children to whom He wills, and male children to whom He wills; to some He grants both male and female children, and He renders some females barren who do not have any children.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** The earlier three of the above verses state the end of those people who, as against the virtuous Muslims, remained desirous of the delights and luxuries of this world, instead of caring about the Hereafter.
 ## Personal Reflections
-
 

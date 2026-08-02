@@ -142,11 +142,5 @@ So, whatever good there is in gratitude, that is for you alone. There-fore, when
 
 Do you not see how Allah compares a good word to a good tree—root firm, branches reaching the sky,
 
-## AI Tafsir
-
-**What this ayah teaches:** So, whatever good there is in gratitude, that is for you alone.
-
-**Classical tafsir:** Ibn Kathir notes: They stated that this parable describes the believer's deeds, good statements and good actions.
 ## Personal Reflections
-
 

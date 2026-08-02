@@ -282,15 +282,5 @@ An unfortunate tendency is in vogue among the scholars of criticizing each other
 
 And I have selected you for My service.
 
-## AI Tafsir
-
-**Context:** As Sayyidna Musa and Bani Isra'il continued their journey they came across a people who worshipped idols which they themselves had fashioned.
-
-**What this ayah teaches:** This is so that the message may have more effect on the souls, and so it would have deeper and more beneficial results. Islam has therefore laid great emphasis on honesty and integrity, the blessings of which have been witnessed by the world through the centuries.
-
-**Classical tafsir:** Ibn Kathir notes: Rather, they both should remember Allah during their meeting with Fir'awn so that the remembrance of Allah can be an aid for them against him.
-
-**From the Sunnah:** protection from the Muslims. (Sahih Muslim) The very foundation of Muslim polity rests on Islamic nationalism where people of diverse description, race, lineage and culture constitute one single nation. (Sahih Muslim)
 ## Personal Reflections
-
 

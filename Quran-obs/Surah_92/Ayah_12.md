@@ -166,15 +166,5 @@ This is the end of the Tafsir of Surat Al-Layl, and all praise and thanks are du
 
 Guidance is truly upon Us to give—
 
-## AI Tafsir
-
-**Context:** Many of the scholars of Tafsir have mentioned that these Ayat were revealed about Abu Bakr As-Siddiq. Some of them even mentioned that there is a consensus among the Qur'anic commentators concerning this.
-
-**What this ayah teaches:** There is no doubt that he is included in the meaning of these Ayat, and that he is the most deserving of the Ummah to be described with these characteristics in general, for indeed, the wording of these Ayat is general.
-
-**Classical tafsir:** Ibn Kathir notes: The word taradda literally denotes 'to fall into a pit and perish'.
-
-**From the Sunnah:** Paradise, and whoever disobeys me, then he has refused. (Sahih al-Bukhari) For verily, he was truthful, pious, generous, charitable, and he always spent his wealth in obedience of His Master (Allah) and in aiding the Messenger of Allah ﷺ.
 ## Personal Reflections
-
 

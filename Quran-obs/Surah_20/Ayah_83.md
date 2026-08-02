@@ -119,11 +119,5 @@ Sayyidna Musa (علیہ السلام) ، ignorant of Samiri's mischief, answered
 
 Allah asked, “Why have you come with such haste ahead of your people, O Moses?”
 
-## AI Tafsir
-
-**What this ayah teaches:** Ibn 'Abbas said, "Nay, by Allah, the moaning sound of the calf was nothing but wind that would enter into its behind and come out of its mouth, thus causing it to make a sound." In a Hadith of Al-Fitun recorded from Al-Hasan Al-Basri, it is mentioned that this calf's name was Bahmut.
-
-**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas said, "Nay, by Allah, the moaning sound of the calf was nothing but wind that would enter into its behind and come out of its mouth, thus causing it to make a sound." In a Hadith of Al-Fitun recorded from Al-Hasan Al-Basri, it is mentioned that this calf's name was Bahmut.
 ## Personal Reflections
-
 

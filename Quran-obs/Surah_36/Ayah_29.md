@@ -133,13 +133,5 @@ The state of their dying has been expressed through the word: خَامِدُون
 
 All it took was one mighty blast, and they were extinguished at once.
 
-## AI Tafsir
-
-**What this ayah teaches:** It was no more than a single Cry, and in no time they were extinguished.) Mentioned here is the Divine punishment that descended upon the people who had rejected the messengers and had beaten up Habib Najjar until he died a martyr.
-
-**Classical tafsir:** Ibn Kathir notes: And regarding the sending of punishment, it was said that Allah did not have to send an army of angels to seize these people - nor was it the way of Allah to send such an army, because just a single angel of Allah is enough to destroy the greatest, mightiest and the bravest of na…
-
-**From the Sunnah:** When he adopted Constantinople as his city, the Patriarch of Rome moved there, as has been mentioned by several historian, such as Sa'id bin Batriq and others, both People of the Book and Muslims.
 ## Personal Reflections
-
 

@@ -113,13 +113,5 @@ Finally, a note about the statement: سَرَ‌ابِيلَ تَقِيكُمُ 
 
 But if they turn away, then your duty O Prophet is only to deliver the message clearly.
 
-## AI Tafsir
-
-**Context:** Finally, a note about the statement: سَرَ‌ابِيلَ تَقِيكُمُ الْحَرَّ‌ (shirts which protect you from heat - 81). Here, protection from heat has been identified as the purpose of a shirt - though, a shirt protects one from…
-
-**What this ayah teaches:** Thus does He perfect His favor for you, that you may submit yourselves to His will (81)Then, if they turn away, your duty (O Muhammad) is only to convey (the Message) in a clear way (82)They recognize the grace of Allah, yet they deny it (by worshipping others besides Allah) and most of them are those who reject the truth .
-
-**Classical tafsir:** Ibn Kathir notes: Arabia is a hot country where the very thought of snow and winter chill is far-fetched, therefore, the statement was left with the mention of protection from heat as being sufficient.
 ## Personal Reflections
-
 

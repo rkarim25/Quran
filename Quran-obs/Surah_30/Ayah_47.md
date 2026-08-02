@@ -138,13 +138,5 @@ Commentary
 
 We sent before you messengers to their peoples with clear proofs. We punished those who persisted in wickedness. It is Our duty to help believers.
 
-## AI Tafsir
-
-**What this ayah teaches:** They came to them with clear proofs, then, We took vengeance on those who committed crimes; and it was incumbent upon Us to help the believers . They came to them with clear proofs, then, We took vengeance on those who committed crimes;) These are words of consolation from Allah to His servant and Messenger Muhammad ﷺ.
-
-**Classical tafsir:** Ibn Kathir notes: Answer to this confusion is at hand in this very verse, that by the word 'believers' those believers are intended who fight with infidels purely for the sake of Allah.
-
-**From the Sunnah:** On the face of this statement, one would have expected that Muslims would never be defeated against the infidels.
 ## Personal Reflections
-
 

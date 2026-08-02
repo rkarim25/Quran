@@ -226,15 +226,5 @@ After that, it was further explained by saying: إِن كُنتُم مُّؤْم
 
 They ask you about the spoils of war. Say: their distribution belongs to Allah and His Messenger—no one owns them by default. So live with taqwa—as though Allah sees you; settle matters among yourselves fairly; and obey Allah and His Messenger if you are truly people of iman, faith that reshapes how you live.
 
-## AI Tafsir
-
-**Context:** Al-Bukhari recorded that Ibn 'Abbas said, "Al-Anfal are the spoils of war." Al-Bukhari also recorded that Sa'id bin Jubayr said, "I said to Ibn 'Abbas, 'Surat Al-Anfal?' He said, 'It was revealed concerning (the battle o…
-
-**What this ayah teaches:** You tell them that the spoils are for Allah and the Messenger, that is, no one holds a claim on them, or is their owner.
-
-**Classical tafsir:** Ibn Kathir notes: It was also said that the Nafl (singular for Anfal) refers to the portion of the spoils of war that the commander gives to some of the fighters after dividing the bulk of the spoils.
-
-**From the Sunnah:** the Anfal refers to the Fay', the possessions taken from the those who reject the truth without fighting, and the animals, servants or whatever other possessions escape from the those who reject the truth to Muslims.
 ## Personal Reflections
-
 

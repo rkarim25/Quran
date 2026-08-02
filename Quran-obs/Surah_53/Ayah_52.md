@@ -155,11 +155,5 @@ Allah the Exalted said,
 
 and the people of Noah before them—they were the most unjust and transgressing,
 
-## AI Tafsir
-
-**What this ayah teaches:** There are two branches of this people: one of them is known as 'ula [ the first ] and ` ukhra [ the latter or the second ].
-
-**Classical tafsir:** Ibn Kathir notes: This means they are able to use it to their benefit, is this out of the completeness of His favor.
 ## Personal Reflections
-
 

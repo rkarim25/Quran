@@ -284,13 +284,5 @@ The censure on hypocrites appearing earlier continues through the present verses
 
 He has already revealed to you in the Book that when you hear Allah’s revelations being denied or ridiculed, then do not sit in that company unless they engage in a different topic, or else you will be like them. Surely Allah will gather the those living in nifaq—outward acceptance with inward rejection and those who reject the truth all together in Hell.
 
-## AI Tafsir
-
-**Context:** Verily, those who believe, then disbelieve, then believe (again), and (again) disbelieve, and go on increasing in disbelief; Allah will not forgive them, nor guide them on the (right) way (137)Give to the hypocrites the…
-
-**What this ayah teaches:** That is, should some people sitting in a group be engaged in denying and deriding the verses revealed by Allah, then, as long as they stay occupied with this vain exercise, sitting in their company to participate or observe is also forbidden (haram).
-
-**Classical tafsir:** Ibn Kathir notes: The Qur'an has elected not to be explicit on this situation, therefore, on this subject, there is a difference of views among scholars.
 ## Personal Reflections
-
 

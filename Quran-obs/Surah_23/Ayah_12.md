@@ -168,13 +168,5 @@ The supreme beauty and eloquence of the Qur'anic language is evident from the fa
 
 And indeed, We created humankind from an extract of clay,
 
-## AI Tafsir
-
-**What this ayah teaches:** And indeed We created man out of an extract of Tin (12)Thereafter We made him a Nutfah in a safe lodging (13)Then We made the Nutfah into a clot, then We made the clot into a little lump of flesh, then We made out of that little lump of flesh bones, then We clothed the bones with flesh, and then We brought it forth as another creation.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore the first creation has been related to earth after which the seed of one man becomes the means of another man's creation.
-
-**From the Sunnah:** from Abu Musa that the Prophet ﷺ said: (Musnad Ahmad) Paradise until there is no more than a forearm's length between him and it, then the decree will overtake him and he will do the deeds of the people of Hell and thus enter Hell. (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
-
 

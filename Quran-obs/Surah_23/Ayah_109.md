@@ -133,11 +133,5 @@ Then Allah will remind them of their sins in this world and how they used to mak
 
 Indeed, there was a group of My servants who used to pray, ‘Our Rabb! We have believed, so forgive us and have mercy on us, for You are the best of those who show mercy,’
 
-## AI Tafsir
-
-**What this ayah teaches:** We believe, so forgive us and have mercy on us, for You are the Best of all who show mercy!
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

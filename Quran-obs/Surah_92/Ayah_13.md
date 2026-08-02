@@ -170,15 +170,5 @@ This is the end of the Tafsir of Surat Al-Layl, and all praise and thanks are du
 
 And to Us belong this dunya—the temporary worldly life—and the Akhirah, the everlasting life after death.
 
-## AI Tafsir
-
-**Context:** Many of the scholars of Tafsir have mentioned that these Ayat were revealed about Abu Bakr As-Siddiq. Some of them even mentioned that there is a consensus among the Qur'anic commentators concerning this.
-
-**What this ayah teaches:** The word taradda literally denotes 'to fall into a pit and perish'. Truly, on Us is (to give) guidance (12)And truly, unto Us (belong) the last (Hereafter) and the first (this world)(13)Therefore I have warned you of a Fire Talazza (14)None shall enter it save the most wretched (15)Who denies and turns away (16)And those with Taqwa will be far removed from it (17)He who gives of his wealth for sel…
-
-**Classical tafsir:** Ibn Kathir notes: The word taradda literally denotes 'to fall into a pit and perish'.
-
-**From the Sunnah:** Paradise, and whoever disobeys me, then he has refused.
 ## Personal Reflections
-
 

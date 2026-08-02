@@ -173,13 +173,5 @@ This statement could be taken to mean that an investigation would expose the bet
 
 From this, Joseph should know that I did not speak dishonestly about him in his absence, for Allah certainly does not guide the scheming of the dishonest.
 
-## AI Tafsir
-
-**What this ayah teaches:** Also possible here is another meaning, that is, had Sayyidna ~suf~ received the royal honours in the same climate of doubt, it may have occured to all watchers that it was not impossible to betray and be honoured at the same time.
-
-**Classical tafsir:** Ibn Kathir notes: It means: I delayed my release so that the ` Aziz of Misr comes to know for sure that I did not betray him in any way during his absence.
-
-**From the Sunnah:** If I were to stay in prison for such a long time as Yusuf did, I would have accepted the offer.) In another narration collected by Ahmad from Abu Hurayrah, the Prophet ﷺ said about Yusuf's statement,
 ## Personal Reflections
-
 

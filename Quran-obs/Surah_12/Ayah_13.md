@@ -96,11 +96,5 @@ In a narration from Sayyidna ` Abdullah ibn ` Abbas ؓ ، it has been reported t
 
 He responded, “It would truly sadden me if you took him away with you, and I fear that a wolf may devour him while you are negligent of him.”
 
-## AI Tafsir
-
-**What this ayah teaches:** I fear lest a wolf should devour him, while you are careless of him.
-
-**Classical tafsir:** Ibn Kathir notes: This demonstrates the deep love that Ya'qub had for his son, because he saw in Yusuf great goodness and exalted qualities with regards to conduct and physical attractiveness associated with the rank of prophethood.
 ## Personal Reflections
-
 

@@ -94,11 +94,5 @@ In verse 59, it was said: بَلَىٰ قَدْ جَاءَتْكَ آيَاتِ�
 
 And Allah will deliver those who lived with taqwa to their place of ultimate triumph. No evil will touch them, nor will they grieve.
 
-## AI Tafsir
-
-**What this ayah teaches:** Is there not in Hell an abode for the arrogant (60)And Allah will deliver those who have Taqwa to their places of success. Evil shall touch them not, nor shall they grieve .
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, their claim that Allah gave them no guidance was absurd.
 ## Personal Reflections
-
 

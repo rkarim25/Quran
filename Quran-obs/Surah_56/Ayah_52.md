@@ -126,11 +126,5 @@ If we go by the second view of the commentators, who say that both 'earlier' and
 
 will eat from the trees of Zaqqum,
 
-## AI Tafsir
-
-**What this ayah teaches:** You verily, will eat of the trees of Zaqqum. Besides, the words 'many from the later generations' has the scope of being larger in number than the 'many from the earlier generations'.
-
-**Classical tafsir:** Ibn Kathir notes: As-Suddi said "Al-Him is a disease that strikes camels, causing them to feel thirst, and they drink until they die." Therefore, he said, the people of Hell, will never quench their thirst from drinking Hamim.
 ## Personal Reflections
-
 

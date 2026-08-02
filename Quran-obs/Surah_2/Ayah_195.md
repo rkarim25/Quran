@@ -139,27 +139,5 @@ And when it (ihsan احسان) relates to social transactions and dealings, the 
 
 Spend in Allah's cause and do not throw yourselves into ruin with your own hands. Do good — Allah loves those who do good.
 
-## AI Tafsir
-
-**Essence**
-Pour out your wealth in Allah's cause and do everything with excellence — for to withhold from His cause is to throw yourself into ruin, and Allah loves those who do good.
-
-**What it teaches**
-The ayah is the tenth injunction in Surah Al-Baqarah's chain on righteousness (begun at 2:177): Muslims are commanded to spend (infaq) in the way of Allah — above all to strengthen the believers and fund jihad — and warned not to cast themselves "into destruction" (at-tahlukah) with their own hands. It closes with ihsan: doing every deed beautifully and completely, the highest rank of obedience that draws Allah's love.
-
-**The scholars**
-*On spending:* Ibn Kathir reports that Hudhayfah (in Al-Bukhari) said the verse "was revealed about spending," the same being related from Ibn 'Abbas, Mujahid, Qatadah, Ad-Dahhak and others; Ibn 'Abbas stressed it is "not about fighting" but about refraining from spending, "in which case one will be throwing his self into destruction."
-*On jihad:* Abu Ayyub al-Ansari said it warned the Ansar against abandoning jihad once Islam grew strong.
-*On despair:* Al-Bara' ibn 'Azib held that to despair of Allah's mercy and forgiveness is itself self-destruction — and Ath-Thawri and Qays ibn ar-Rabi', relaying from him, added that one who sins and refuses to repent likewise destroys himself.
-*On obligation:* Maarif ul Quran notes that jurists derived from "spend in the way of Allah" a real financial duty beyond Zakah — not fixed in amount or threshold, but binding whenever the need arises — and cites al-Jassas, who reconciles the views by holding that all these rulings can rightly be inferred from the verse. Ibn Kathir adds that ihsan is "the highest part of the acts of obedience."
-
-**From the Sunnah**
-When Islam became strong the Ansar resolved to leave jihad and return to tend their families and estates, so this ayah was revealed — making clear that here "destruction" means abandoning jihad; Abu Ayyub al-Ansari lived out this lesson, spending his life in jihad until he died and was buried at Constantinople. (Abu Dawud, At-Tirmidhi [Hasan Sahih Gharib], An-Nasa'i, Ibn Hibban, Al-Hakim)
-
-Ihsan in worship is to worship Allah as though you see Him, and if you cannot reach that, to know that He sees you (the hadith of Jibril); and ihsan in dealings is to love for others what you love for yourself and dislike for them what you dislike for yourself (Musnad Ahmad, on the authority of Mu'adh).
-
-**Reflection**
-Give freely when the cause of Allah calls, never despair of His forgiveness, and let everything you do — worship and dealings alike — be done as one who knows Allah sees him.
 ## Personal Reflections
-
 

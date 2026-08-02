@@ -155,11 +155,5 @@ It has been mentioned earlier that the Holy Prophet ﷺ had prayed to Allah to p
 
 And ask them, “Who is the Rabb of the seven heavens and the Rabb of the Mighty Throne?”
 
-## AI Tafsir
-
-**What this ayah teaches:** He tells His Messenger Muhammad ﷺ to say to the idolators who worship others besides Him, even though they admit His Lordship, that He has no partner in Lordship.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

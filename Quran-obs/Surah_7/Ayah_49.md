@@ -103,11 +103,5 @@ Explaining this, Sayyidna ` Abdullah ibn ` Abbas ؓ says: When the questions and
 
 Are these the ones you swore would never be shown Allah’s mercy?” “Enter Paradise! There will be no fear for you, nor will you grieve.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Then, there comes an immediate declaration of His mercy when the people of A` raf will be told: Go and enter the Paradise.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

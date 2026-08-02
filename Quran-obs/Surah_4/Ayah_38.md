@@ -190,11 +190,5 @@ Here, a narration from al-Baihaqi adds that, on the Day of Doom, when the reward
 
 Likewise for those who spend their wealth to show off and do not believe in Allah or the Last Day. And whoever takes Satan as an associate—what an evil associate they have!
 
-## AI Tafsir
-
-**What this ayah teaches:** And We have prepared for the those who reject the truth a disgraceful torment (37)And (also) those who spend of their wealth to be seen of men, and believe not in Allah and the Last Day, and whoever takes Shaytan as an intimate; then what a dreadful intimate he has (38)And what loss have they if they had believed in Allah and in the Last Day, and they spend out of what Allah has given them for sustenance?
-
-**Classical tafsir:** Ibn Kathir notes: The apparent wording for this Ayah indicates that it is talking about being stingy with money, even though miserly conduct with knowledge is also included.
 ## Personal Reflections
-
 

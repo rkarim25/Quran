@@ -100,13 +100,5 @@ The essence of the answer given by the polytheists is that they simply refused t
 
 Then the evil consequences of their deeds overtook them, and they were overwhelmed by what they used to ridicule.
 
-## AI Tafsir
-
-**What this ayah teaches:** And Allah did not wrong them, but they were wronging themselves (33)Then, they were afflicted by their evil deeds, and they were surrounded by that which they used to mock . It means that the total curse of their sins has to fall on them anyway on the Day of Judgment, but part of the curse of the evil consequences of their role in misguiding others will also fall on them.
-
-**Classical tafsir:** Ibn Kathir notes: In the present verses, the text describes how they, not content with their own straying, tried that others should also go astray like them.
-
-**From the Sunnah:** Still others take one question to have been asked by the polytheists while the other by Muslims.
 ## Personal Reflections
-
 

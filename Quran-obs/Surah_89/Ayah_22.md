@@ -134,15 +134,5 @@ This is the end of the Tafsir of Surat Al-Fajr, and all praise and blessings are
 
 And your Lord comes—with angels ranked in rows, an image of the Day when hidden realities become visible—
 
-## AI Tafsir
-
-**Context:** He said, "This Ayah was revealed while Abu Bakr was sitting (with the Prophet ﷺ). So he said, 'O Messenger of Allah! There is nothing better than this!' The Prophet ﷺ then replied,
-
-**What this ayah teaches:** The words 'your Lord will come' is an allegorical expression.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** This is similar to what Imam Ahmad bin Hanbal recorded from Muhammad bin Abi 'Amirah, who was one of the Companions of the Messenger of Allah ﷺ. (Musnad Ahmad)
 ## Personal Reflections
-
 

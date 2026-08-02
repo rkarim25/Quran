@@ -165,11 +165,5 @@ In the last sentence of verse 4, it was said: فَلَا يَغْرُ‌رْ‌�
 
 Before them the people of Nuh denied the truth, as did other hostile forces afterward. Every community plotted against its prophet to seize him and argued in falsehood to discredit the truth with it. So I seized them. How horrible was My punishment!
 
-## AI Tafsir
-
-**What this ayah teaches:** So let not their ability of going about here and there through the land (for their purposes) deceive you (4)The people of Nuh and the groups after them denied before these; and every nation plotted against their Messenger to seize him, and disputed by means of falsehood to refute therewith the truth.
-
-**Classical tafsir:** Ibn Kathir notes: This verse declares quarreling in the matter of the Qur'an an act of kufr (disbelief).
 ## Personal Reflections
-
 

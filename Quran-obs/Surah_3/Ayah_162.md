@@ -340,13 +340,5 @@ The same rule applies to mosques, religious schools and institu-tions, khanqahs 
 
 Are those who seek Allah’s pleasure like those who deserve Allah’s wrath? Hell is their home. What an evil destination!
 
-## AI Tafsir
-
-**Context:** (It is not for any Prophet to illegally take a part of the booty,) was revealed in connection with a red robe that was missing from the spoils of war of Badr.
-
-**What this ayah teaches:** This type of person is not similar to one who earns Allah's anger, has no means of escaping it and who will reside in Jahannam on the Day of Resurrection, and what an evil destination it is.
-
-**Classical tafsir:** Ibn Kathir notes: His abode is Hell, and worse indeed is that destination!)[3:162], This refers to those seeking what pleases Allah by obeying His legislation, thus earning His pleasure and tremendous rewards, while being saved from His severe torment.
 ## Personal Reflections
-
 

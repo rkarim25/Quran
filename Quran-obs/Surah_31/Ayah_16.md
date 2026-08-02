@@ -214,13 +214,5 @@ One should irrevocably hold the belief that the knowledge of Allah Ta` a1a surro
 
 Luqman added: My dear son, even if a deed were the weight of a mustard seed — hidden inside a rock, in the heavens, or in the earth — Allah will bring it forth. He is Most Subtle, All-Aware.
 
-## AI Tafsir
-
-**What this ayah teaches:** And whosoever does evil equal to the weight of a speck of dust shall see it.)(99:7-8) Even if this tiny thing were to be hidden inside a solid rock or anywhere in the heavens and the earth, Allah will bring it forth, because nothing is hidden from Him, not even the weight of a speck of dust in the heavens or on the earth.
-
-**Classical tafsir:** Ibn Kathir notes: And whosoever does evil equal to the weight of a speck of dust shall see it.)(99:7-8) Even if this tiny thing were to be hidden inside a solid rock or anywhere in the heavens and the earth, Allah will bring it forth, because nothing is hidden from Him, not even the weight of a sp…
-
-**From the Sunnah:** Likening a loud voice to that of a donkey implies that it is forbidden and extremely blameworthy, because the Messenger of Allah ﷺ said:
 ## Personal Reflections
-
 

@@ -237,13 +237,5 @@ It happens in a variety of ways. Sometimes they are misled by their false belief
 
 He is the One Who created you from a single soul, then from it made its spouse so he may find comfort in her. After he had been united with her, she carried a light burden that developed gradually. When it grew heavy, they prayed to Allah, their Rabb, “If you grant us good offspring, we will certainly be grateful.”
 
-## AI Tafsir
-
-**What this ayah teaches:** The next verse 189 speaks of the most basic belief of Islam that is Tauhid and, at the same time, brings out the falsity of believing in more than one Allah.
-
-**Classical tafsir:** Ibn Kathir notes: It was reported that Al-Hasan, Ibrahim An-Nakha'i and As-Suddi said similarly.
-
-**From the Sunnah:** Ibn Jarir recorded that Al-Hasan commented on this part of the Ayah,
 ## Personal Reflections
-
 

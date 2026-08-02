@@ -82,15 +82,5 @@ The last verse (77): سُنَّةَ مَن قَدْ أَرْ‌سَلْنَا (S
 
 This has been Our way with the messengers We sent before you. And you will never find any change in Our way.
 
-## AI Tafsir
-
-**Context:** This was revealed concerning the those who reject the truth among the Quraysh, when they wanted to expel the Messenger of Allah ﷺ from among themselves.
-
-**What this ayah teaches:** But in that case, they would not have stayed (therein) after you, except for a little while (76)A Sunnah with which We sent Our Messengers before you and you will not find any alteration in Our Sunnah .
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** This was revealed concerning the those who reject the truth among the Quraysh, when they wanted to expel the Messenger of Allah ﷺ from among themselves. If it were not for the fact that the Prophet ﷺ was the Messenger of Mercy, vengeance would have come upon them such as had never been seen before in this world.
 ## Personal Reflections
-
 

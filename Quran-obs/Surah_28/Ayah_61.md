@@ -141,13 +141,5 @@ The very first question infidels and disbelievers will be asked at the Tumultuou
 
 Can those to whom We have made a fine promise—which they will see fulfilled—be like those who We have allowed to enjoy the pleasures of this worldly dunya, but on the Day of Judgment will be brought for punishment?
 
-## AI Tafsir
-
-**Context:** (then on the Day of Resurrection, he will be among those brought up.) Mujahid and Qatadah said: "He will be among those who are punished." It was said that this was revealed concerning the Messenger of Allah ﷺ and Abu Ja…
-
-**What this ayah teaches:** And whatever you have been given is an enjoyment of the life of the world and its adornment, and that which is with Allah is better and will remain forever.
-
-**Classical tafsir:** Ibn Kathir notes: Commentary The very first question infidels and those who reject the truth will be asked at the Tumultuous Place (mahshar) will be about shirk (associating someone else with Allah), that is, ` where are those Shaitans today whom you used to associate with Us?
 ## Personal Reflections
-
 

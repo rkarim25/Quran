@@ -175,11 +175,5 @@ In view of this rule, it should be understood that the Noble Qur'an is such a mi
 
 Or do they say, "He has fabricated a lie about Allah"? If you had, Allah would have sealed your heart if He willed. And Allah wipes out falsehood and establishes the truth by His Words. He certainly knows best what is hidden in the heart.
 
-## AI Tafsir
-
-**What this ayah teaches:** Therefore, had there been, Allah forbid, something forged by the Holy Prophet ﷺ in the Qur'an, Allah would have put a seal on his heart, and he would have never been able to come up with such a miraculous discourse. Verily, Allah is Oft-Forgiving, Most Ready to appreciate (23)Or say they: "He has invented a lie against Allah?" If Allah willed, He could have sealed up your heart.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, had there been, Allah forbid, something forged by the Holy Prophet ﷺ in the Qur'an, Allah would have put a seal on his heart, and he would have never been able to come up with such a miraculous discourse.
 ## Personal Reflections
-
 

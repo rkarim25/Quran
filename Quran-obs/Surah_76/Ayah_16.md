@@ -192,11 +192,5 @@ Sayyidna Ibn ` Abbas said: The blessings given in Paradise have their likes in t
 
 fine silver, filled exactly as desired.
 
-## AI Tafsir
-
-**What this ayah teaches:** Those who have described them as wearing earings in their ears have only interpreted the meaning in such a way because a child is befitting of this description and not an adult man. This refers to Paradise and its beauty, its vastness, its loftiness and the joy and happiness it contains.
-
-**Classical tafsir:** Ibn Kathir notes: This refers to Paradise and its beauty, its vastness, its loftiness and the joy and happiness it contains.
 ## Personal Reflections
-
 

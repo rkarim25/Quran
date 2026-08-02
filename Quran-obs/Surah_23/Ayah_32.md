@@ -124,11 +124,5 @@ An alternative explanation is that the word صَیحَہ (Cry) has been used in 
 
 and sent to them a messenger from among themselves, declaring, “Worship Allah alone. You have no god other than Him. Will you not then fear Him?”
 
-## AI Tafsir
-
-**What this ayah teaches:** It was said that this was 'Ad, because they were the successors of the people of Nuh.
-
-**Classical tafsir:** Ibn Kathir notes: It was said that this was 'Ad, because they were the successors of the people of Nuh.
 ## Personal Reflections
-
 

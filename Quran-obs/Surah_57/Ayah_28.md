@@ -154,13 +154,5 @@ Then the verse promises the People of the Book that believe in the Holy Prophet 
 
 O you who have iman: Have taqwa of Allah and believe in His Messenger. He will give you a double portion of His mercy, grant you a light to walk by, and forgive you. Allah is All-Forgiving, the Rahim.
 
-## AI Tafsir
-
-**What this ayah teaches:** A person who has a slave-girl and he educates her properly and teaches her good manners properly (without violence) and then manumits and marries her, will get a double reward.) This Hadith is recorded in the Two Sahihs.
-
-**Classical tafsir:** Ibn Kathir notes: And Allah is Oft-Forgiving, ar-Rahim (28)So that the People of the Scriptures may know that they have no power whatsoever over the grace of Allah, and that (His) grace is in His Hand to bestow it on whomsoever He wills.
-
-**From the Sunnah:** Earlier we mentioned a Hadith that An-Nasa'i collected from Ibn 'Abbas that this Ayah is about the People of the Scriptures who believe in Islam, and that they will earn double their reward if they do so.
 ## Personal Reflections
-
 

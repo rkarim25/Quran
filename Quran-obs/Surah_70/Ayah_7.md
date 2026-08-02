@@ -148,13 +148,5 @@ Allah says,
 
 but We see it as inevitable.
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, they see it (the torment) afar off.)(7.
-
-**Classical tafsir:** Ibn Kathir notes: Verily, they see it (the torment) afar off.)(7.
-
-**From the Sunnah:** Then the man said, 'O Abu Hurayrah what is this?' Abu Hurayrah replied, 'I heard the Messenger of Allah ﷺ say, In this narration (of Ahmad) the Prophet ﷺ also added,
 ## Personal Reflections
-
 

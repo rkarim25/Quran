@@ -90,11 +90,5 @@ Historical Isra'ili legends describe in great detail the incident of the visit o
 
 But I will certainly send him a gift, and see what response my envoys will return with.”
 
-## AI Tafsir
-
-**What this ayah teaches:** When Bilqis's envoys saw animals standing on the floor of gold bricks, they were embarrassed with the gifts they had brought with them. But he returned all their gifts and presents, and answered all the questions sent up by Bilqis.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

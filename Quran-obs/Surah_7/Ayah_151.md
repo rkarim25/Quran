@@ -124,11 +124,5 @@ Thereafter he turned to the Prophet Harun (علیہ السلام) and grasped th
 
 Moses prayed, “My Rabb! Forgive me and my brother! And admit us into Your mercy. You are the the Rahim of the merciful.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Forgive me and my brother, and admit us into Your mercy, for You are the ar-Rahim of those who show mercy.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

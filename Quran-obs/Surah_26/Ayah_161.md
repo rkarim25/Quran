@@ -60,11 +60,5 @@ This verse indicates that nice vocations are Allah's Graces, and to draw benefit
 
 when their brother Lot said to them, “Will you not fear Allah?
 
-## AI Tafsir
-
-**What this ayah teaches:** Useful vocations are Divine Graces provided they are not employed in bad things This verse indicates that nice vocations are Allah's Graces, and to draw benefit from them is lawful.
-
-**Classical tafsir:** Ibn Kathir notes: Useful vocations are Divine Graces provided they are not employed in bad things This verse indicates that nice vocations are Allah's Graces, and to draw benefit from them is lawful.
 ## Personal Reflections
-
 

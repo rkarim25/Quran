@@ -107,13 +107,5 @@ This is what is known as God gifted awe of truth, veracity and reality. The cont
 
 who seeks to drive you from your land by his magic. So what do you propose?”
 
-## AI Tafsir
-
-**What this ayah teaches:** The purpose of his hitting the Egyptian was to prevent him from harming the Isra'ili but in the process he died, which was not the intention. They wanted to go back to their land but the Pharaoh would not let them.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** The contentions and dialectics of Allah's messengers are also full of truth, veracity and wishing well for the addressee.
 ## Personal Reflections
-
 

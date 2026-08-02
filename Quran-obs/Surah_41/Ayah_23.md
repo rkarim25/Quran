@@ -136,11 +136,5 @@ Sayyidna Ma'qil Ibn Yasar ؓ has narrated that the Holy Prophet ﷺ has said tha
 
 It was that false assumption about your Lord that brought about your doom, so you have become losers."
 
-## AI Tafsir
-
-**What this ayah teaches:** Although it is not expected from the deniers of Oneness of Allah and of prophethood, that it would enter their minds that their organs and limbs would speak up before Allah Almighty and give evidence against themselves, yet any intelligent person could have understood that it is totally impossible that the One who has created him from a lowly matter, given him ability to hear a…
-
-**Classical tafsir:** Ibn Kathir notes: So you should do some good deed before I come to an end, in order that I may give evidence, because once I am gone, you will never find me again.
 ## Personal Reflections
-
 

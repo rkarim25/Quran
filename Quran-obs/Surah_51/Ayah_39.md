@@ -127,11 +127,5 @@ After this, the stories of the people of ` Ad, Thamud and Nuh (علیہم الس
 
 Pharaoh turned away with his armies and said: He is a magician or a madman.
 
-## AI Tafsir
-
-**What this ayah teaches:** This ayah declares: but Pharaoh was carried away by his power, saying ˹of Moses˺, “A magician or a madman!”
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

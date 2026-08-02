@@ -184,11 +184,5 @@ Then the Holy Qur'an has pointed to different demonstrations of His power to pro
 
 Did We not make the earth a resting place,
 
-## AI Tafsir
-
-**What this ayah teaches:** Nay, again, they will come to know!)(6.
-
-**Classical tafsir:** Ibn Kathir notes: Nay, again, they will come to know!)(6.
 ## Personal Reflections
-
 

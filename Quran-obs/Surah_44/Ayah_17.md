@@ -256,13 +256,5 @@ The author of Ruh-ul-Ma` ani, in terms of his preferred interpretation, has expr
 
 Indeed, before them We tested Pharaoh's people: a noble messenger came to them,
 
-## AI Tafsir
-
-**Context:** And indeed We revealed to Mu0sa0 (saying): Travel by night with My servants and strike a dry path for them in the sea, fearing neither to be overtaken nor being afraid (of drowning in the sea).
-
-**What this ayah teaches:** Verily, they are a host to be drowned.) When Musa and the Children of Israel has crossed the sea, Musa wanted to strike it with his staff so that it would go back as it had been, and it would form a barrier between then and Fir'awn and prevent him from reaching them.
-
-**Classical tafsir:** Ibn Kathir notes: This refers to the clear signs and definitive evidence with which Allah sent him.
 ## Personal Reflections
-
 

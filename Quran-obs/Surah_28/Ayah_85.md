@@ -211,15 +211,5 @@ While promising to the Holy Prophet ﷺ that he will be brought back by Allah to
 
 Most certainly, the One Who has ordained the Quran for you will ultimately bring you back home to Mecca. Say, “My Rabb knows best who has come with true guidance and who is clearly astray.”
 
-## AI Tafsir
-
-**Context:** إِنَّ الَّذِي فَرَ‌ضَ عَلَيْكَ الْقُرْ‌آنَ لَرَ‌ادُّكَ إِلَىٰ مَعَادٍ (Surely the One who has enjoined the Qur’ an upon you will surely bring you back to a place of return. - 28:85).
-
-**What this ayah teaches:** He tells him that he will be brought back to the return, which is the Day of Resurrection, where he will be asked about the prophethood he was entrusted with.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** Since the Holy Prophet Muhammad ﷺ faced a similar situation in that he was harassed, and plans were made to kill him, the lives of Muslims were made miserable in Makkah, but following His (Allah) old tradition, Allah graced them with victory over all of them.
 ## Personal Reflections
-
 

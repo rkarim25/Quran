@@ -254,15 +254,5 @@ Even if you have broken (the promise in) your repentance a hundred times, come a
 
 However, repentance is not accepted from those who knowingly persist in sin until they start dying, and then cry, “Now I repent!” nor those who die as those who reject the truth. For them We have prepared a painful punishment.
 
-## AI Tafsir
-
-**Context:** (nor of those who die while they are those who reject the truth), was revealed about the people of Shirk. Imam Ahmad recorded that Usamah bin Salman said that Abu Dharr said that the Messenger of Allah ﷺ said,
-
-**What this ayah teaches:** Repentance is Accepted Until one Faces death Allah states that He accepts repentance of the servant who commits an error in ignorance and then repents, even just before he sees the angel who captures the soul, before his soul reaches his throat.
-
-**Classical tafsir:** Ibn Kathir notes: verse 18) where it is expressly mentioned that repenting, after the sure signs of death are visible, is not accepted.
-
-**From the Sunnah:** This Hadith was also collected by At-Tirmidhi and Ibn Majah, and At-Tirmidhi said, "Hasan Gharib".
 ## Personal Reflections
-
 

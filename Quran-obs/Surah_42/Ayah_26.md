@@ -159,11 +159,5 @@ It is important to note that for all kinds of ` taubah', giving up of sin must b
 
 He responds to those who believe and do good, and increases their reward out of His grace. As for those who reject the truth, they will suffer a severe punishment.
 
-## AI Tafsir
-
-**What this ayah teaches:** And He it is Who accepts repentance from His servants, and forgives sins, and He knows what you do (25)And He answers those who believe and do righteous good deeds, and gives them increase of His bounty.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

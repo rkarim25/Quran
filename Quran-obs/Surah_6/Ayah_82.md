@@ -188,15 +188,5 @@ We also come to know from this verse that Shirk is not restricted to becoming a 
 
 It is those who are faithful and do not tarnish their faith with falsehood who are guaranteed security and are guided.
 
-## AI Tafsir
-
-**Context:** (Verily! Joining others in worship with Allah is a great Zulm (wrong) indeed.)[31:13], was later revealed." Imam Ahmad recorded that 'Abdullah said, "When this Ayah was revealed, In the first (82) of the present verses,…
-
-**What this ayah teaches:** If you but know.) means, which of the two parties is on the truth, those who worship Him in Whose Hand is harm and benefit, or those who worship what cannot bring harm or benefit, without authority to justify worshipping them?
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, how can I ever consider your misguided statements and false doubts?
-
-**From the Sunnah:** And who among us did not commit Zulm against himself? Joining others in worship with Allah is a great Zulm (wrong) indeed.)[31:13], was later revealed." Imam Ahmad recorded that 'Abdullah said, "When this Ayah was revealed, (Musnad Ahmad)
 ## Personal Reflections
-
 

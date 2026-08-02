@@ -96,13 +96,5 @@ This verse refers to a theoretical situation relating to the Apostle of Allah in
 
 We would have seized him by his right hand,
 
-## AI Tafsir
-
-**What this ayah teaches:** The expression 'right hand' is used probably because when a convicted criminal is to be executed, the executioner stands in front facing the condemned person.
-
-**Classical tafsir:** Ibn Kathir notes: A Cautionary Note This verse refers to a theoretical situation relating to the Apostle of Allah in particular that lest, Allah forbid, if he were to concoct a word and impute it to Allah, this is the way he would have been dealt with.
-
-**From the Sunnah:** The argument is to the effect that if the Prophet ﷺ had been a forger of lies against Allah, Allah's strong hand would have seized him by the throat and cut off his life-artery and he would have certainly met with a violent death.
 ## Personal Reflections
-
 

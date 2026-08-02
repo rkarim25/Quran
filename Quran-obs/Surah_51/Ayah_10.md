@@ -126,11 +126,5 @@ Allah the Exalted said,
 
 Condemned are the conjecturers—
 
-## AI Tafsir
-
-**What this ayah teaches:** In this context the word refers to those stubborn and obstinate infidels who, without any reason or evidence, say discordant things about the Messenger ﷺ . Turned aside therefrom is he who is turned aside.)(10.
-
-**Classical tafsir:** Ibn Kathir notes: In this context the word refers to those stubborn and obstinate infidels who, without any reason or evidence, say discordant things about the Messenger ﷺ .
 ## Personal Reflections
-
 

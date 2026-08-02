@@ -186,13 +186,5 @@ In the last sentence of verse 27, it was said: وَيَفْعَلُ اللَّـ
 
 Allah keeps the believers firm with the firm word of faith in this dunya and the Akhirah. He leaves the wrongdoers to stray. Allah does what He wills.
 
-## AI Tafsir
-
-**What this ayah teaches:** Allah will keep firm those who believe, with the word that stands firm in this world, and in the Hereafter. And Allah will cause the wrongdoers to go astray, and Allah does what He wills .
-
-**Classical tafsir:** Ibn Kathir notes: Allah will keep firm those who believe, with the word that stands firm in this world, and in the Hereafter.
-
-**From the Sunnah:** The Messenger of Allah ﷺ sat, and we sat all around him, as if there were birds hovering above our heads. (Sahih Muslim, Musnad Ahmad) They will sit him up and ask him, 'What do you say about this man (Muhammad)?' As for the believer, he will say, 'I bear witness that He is Allah's servant and Messenger.' He will be told, 'Look at your seat in the Fire, Allah has replaced it for you with a se…
 ## Personal Reflections
-
 

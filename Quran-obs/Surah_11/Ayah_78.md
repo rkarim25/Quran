@@ -191,11 +191,5 @@ But, there was no trace of gentility or even humanness left in any of them. So, 
 
 And the men of his people—who were used to shameful deeds—came to him rushing. He pleaded, “O my people! Here are my daughters for marriage—they are pure for you. So fear Allah, and do not humiliate me by disrespecting my guests. Is there not even a single right-minded man among you?”
 
-## AI Tafsir
-
-**What this ayah teaches:** Therefore, he tries to guide them to that which is better for them in this life and the Hereafter.
-
-**Classical tafsir:** Ibn Kathir notes: Their appearance saddened him (Lut) and he felt grief in his soul because of them.
 ## Personal Reflections
-
 

@@ -147,23 +147,5 @@ and disbelief (kufr کفر ) is the greatest misfortune, and that there is darkn
 
 Allah is the ally of those who believe — He brings them out of darkness into light. As for those who reject, their allies are false powers that pull them from light into darkness. They are the people of the Fire, remaining forever.
 
-## AI Tafsir
-
-**Essence**
-
-Allah is the Guardian of those who believe, bringing them out of every darkness into the one light; those who reject Him take false masters as guardians, who drag them from light into darkness and into the Fire.
-
-**What it teaches**
-
-Allah is the Wali — the Protecting Guardian — of those who have faith. He leads the believer out of the darknesses (zulumat) of disbelief, doubt, and hesitation into the nur, the clear and unequivocal light of truth. The disbelievers, by contrast, have no such Guardian: their awliya' are the Taghut — false deities and false leaders — who reverse the movement, pulling them from light into darkness, ending in the Fire forever. Here faith (iman) is named the greatest blessing and disbelief (kufr) the greatest misfortune.
-
-**The scholars**
-
-Ibn Kathir explains that whoever follows what pleases Allah, He guides to the paths of peace — Islam and Paradise — delivering His believing servants from the darkness of disbelief, doubt, and hesitation into the light of the plain, clear, easy, and unequivocal truth; meanwhile Shaytan is the supporter of the disbelievers, beautifying the paths of ignorance and misguidance so they deviate into disbelief and wickedness. He notes a subtle point of language: Allah mentions the light in the singular but the darknesses in the plural, because truth is one while falsehood comes in many false types and branches — the same pattern seen where Allah commands following His one straight path and not the divergent paths (6:153), and where He "originated the darknesses and the light" (6:1). Maarif ul Quran adds that this verse teaches faith is the greatest blessing and disbelief the greatest misfortune, and that there is darkness in friendship with those who disbelieve.
-
-**Reflection**
-
-Whatever you take as your true guardian is the hand that will lead you — toward the one light or into the many darknesses. Keep your allegiance with Allah.
 ## Personal Reflections
-
 

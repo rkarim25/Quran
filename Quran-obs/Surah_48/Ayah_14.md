@@ -111,13 +111,5 @@ Reference in this passage is to those Bedouin tribes who were invited by Allah's
 
 To Allah belongs the dominion of the heavens and the earth. He forgives whom He wills and punishes whom He wills. Allah is All-Forgiving, the Rahim.
 
-## AI Tafsir
-
-**What this ayah teaches:** He forgives whom He wills, and punishes whom He wills. And Allah is Forgiving, ar-Rahim.) with those who repent, return and submit to Him with humiliation.
-
-**Classical tafsir:** Ibn Kathir notes: They asked the Messenger of Allah ﷺ to invoke Allah to forgive them, not because they had faith in the Prophet ﷺ and his invocation, but to show off and pretend.
-
-**From the Sunnah:** Allah informs His Messenger ﷺ of the excuses that the bedouins who lagged behind would offer him, those bedouins who preferred to remain in their homes and possessions and did not join the Messenger of Allah ﷺ. Rather, your lagging behind was because of hypocrisy and because you thought that the Muslims would be killed to the extent of extermination, their lives would be extinguished and none of them will ever come back,'
 ## Personal Reflections
-
 

@@ -164,13 +164,5 @@ The Second View
 
 Among us are the righteous and the less so—we have always been divided into factions.
 
-## AI Tafsir
-
-**Context:** Al-'Awfi reported similar to this from Ibn 'Abbas, and likewise said Mujahid, Sa'id bin Jubayr, Sa'id bin Al-Musayyib, 'Ata, As-Suddi, Muhammad bin Ka'b Al-Qurazi, Qatadah and Ad-Dahhak.
-
-**What this ayah teaches:** 'There are among us some that are righteous, and some the contrary; we are groups having different ways.
-
-**Classical tafsir:** Ibn Kathir notes: However, if Allah intends them to be rightly guided, He has barred the Jinn and Shaitan from having access to the heaven, so that they do not interfere with Divine revelation.
 ## Personal Reflections
-
 

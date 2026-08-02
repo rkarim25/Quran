@@ -143,15 +143,5 @@ As regards the possibility of 'Allah Almighty and the angels coming upon them in
 
 Are they waiting for Allah Himself to come in clouds of shade with the angels — so the matter would be settled at once? To Allah all matters return.
 
-## AI Tafsir
-
-**Essence** A warning to the heedless: do they wait until, on the Day of Judgment, Allah comes to them — as He wills, in a manner beyond our grasp — amid canopies of cloud with the angels, when the matter is sealed and it is too late to believe?
-
-**What it teaches** The verse asks the delayers of faith what they are waiting for: the awesome scene of Resurrection, when "Allah should come to them over the shadows of the clouds and the angels" to judge the first and the last. By then "the matter would be already judged" (wa-quḍiya l-amr) — every account closed, every deed weighed — and "to Allah return all matters" (ilā Allāhi turjaʿu l-umūr) for final decision. The summons is to embrace faith now, completely, before that day leaves no room to accept the truth.
-
-**The scholars** Ibn Kathir explains this as the Day of Resurrection, when Allah will judge the early and the latter creations and reward each according to his deeds — "whoever does good shall see it, and whoever does evil shall see it" — which is why the verse adds that the case will be settled and all matters returned to Him; he links it to "And your Lord comes with the angels in rows" (89:21-23) and "or that your Lord should come" (6:158). He reports from Abu Al-'Aliyah (via Abu Ja'far Razi) that the angels descend upon the shadows of clouds "while Allah comes as He wills," paired with "the heaven shall be rent asunder with clouds, and the angels will be sent down" (25:25). Maarif ul Quran places the verse against its context — a warning against following the footsteps of Satan into something that merely resembles the Faith — and notes that Allah is named Mighty (able to punish) and Wise (so any delay in punishment is His wisdom, not weakness). On the "coming" of Allah, Maarif affirms the method of the Salaf for the Mutashabihat (verses of hidden meaning): the majority of the Companions, the Tabiʿin, and the elders of the ummah believe in its truth and do not probe the "how," for the reality and nature of the Being and Attributes of Allah lie beyond human reason.
-
-**Reflection** Do not gamble on a tomorrow whose verdict is already sealed — surrender to Allah today, fully and sincerely, while faith still avails.
 ## Personal Reflections
-
 

@@ -194,13 +194,5 @@ In the later part of the present verse (181) and in the third verse (182), the t
 
 Indeed, Allah has heard those who said, “Allah is poor; we are rich!” We have certainly recorded their slurs and their killing of prophets unjustly. Then We will say, “Taste the torment of burning!
 
-## AI Tafsir
-
-**What this ayah teaches:** And certainly, Allah is never unjust to (His) servants.) They will be addressed like this as a way of chastising, criticism, disgrace and humiliation.
-
-**Classical tafsir:** Ibn Kathir notes: This absurd argument of theirs being false in itself was not worth responding to because the injunction of Allah Almighty was not for His benefit; it was, rather, for the benefit of the owners of wealth themselves in this world and the hereafter.
-
-**From the Sunnah:** This Hadith was collected by Ibn Marduwyah and Ibn Abi Hatim.
 ## Personal Reflections
-
 

@@ -323,13 +323,5 @@ The word means big, large or great. Here it means that the one who has taken big
 
 Indeed, those who came up with that outrageous slander are a group of you. Do not think this is bad for you. Rather, it is good for you. They will be punished, each according to their share of the sin. As for their mastermind, he will suffer a tremendous punishment.
 
-## AI Tafsir
-
-**Context:** The next ten Ayat were all revealed concerning 'A'ishah, the mother of the believers, may Allah be pleased with her, when the people of slander and falsehood among the hypocrites made their accusations against her and sp…
-
-**What this ayah teaches:** Here it means that the one who has taken big part in the slander, that is who fabricated it and passed on to others, for him is the great punishment.
-
-**Classical tafsir:** Ibn Kathir notes: Imam Ahmad recorded that Az-Zuhri said: Sa'id bin Al-Musayyib, 'Urwah bin Az-Zubayr, 'Alqamah bin Waqqas and 'Ubaydullah bin 'Abdullah bin 'Utbah bin Mas'ud told me about the story of 'A'ishah, the wife of the Prophet ﷺ, when the people of the slander said what they said about her, and Allah declare…
 ## Personal Reflections
-
 

@@ -172,13 +172,5 @@ Out of the authorities of Tafsir, ` Ata and Ibn Zayd said that a person condemne
 
 We have certainly set forth every kind of lesson for people in this Quran, so perhaps they will be mindful.
 
-## AI Tafsir
-
-**Context:** (Yes.) He (Az-Zubayr) said, 'This is a very serious matter.'" Ahmad recorded from Az-Zubayr bin Al-'Awwam, may Allah be pleased with him, that when this Surah was revealed to the Messenger of Allah ﷺ: Ibn Abi Hatim recor…
-
-**What this ayah teaches:** And indeed We have put forth for men, in this Qur'an every kind of parable in order that they may remember (27)An Arabic Qur'an, without any crookedness (therein) in order that they may have Taqwa of Him (28)Allah puts forth a parable: a man belonging to many partners disputing with one another, and a man belonging entirely to one master.
-
-**Classical tafsir:** Ibn Kathir notes: Even if he wished to ward off the punishment in defense, he would have no option but to use his very face as the shield, because he would have been thrown in Jahannam with his hands and feet tied.
 ## Personal Reflections
-
 

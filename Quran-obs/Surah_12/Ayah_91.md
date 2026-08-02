@@ -97,11 +97,5 @@ Now the brothers of Yusuf (علیہ السلام) had no choice left with them b
 
 They admitted, “By Allah! Allah has truly preferred you over us, and we have surely been sinful.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Indeed Allah has preferred you above us, and we certainly have been sinners.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

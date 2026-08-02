@@ -149,15 +149,5 @@ Allah explained the type of torment that these people earn on the Day of Return;
 
 who hears Allah's revelations recited to him, then persists in denial arrogantly as if he did not hear them. So give him news of a painful punishment.
 
-## AI Tafsir
-
-**Context:** وَيْلٌ لِّكُلِّ أَفَّاكٍ أَثِيمٍ ("Woe to every sinful liar... 45:7) " There are several views related to the background of revelation of this verse.
-
-**What this ayah teaches:** For such there will be a humiliating torment (9)In front of them there is Hell.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, if they do not believe in Allah's Ayat nor abide by them, what speech after Allah and His Ayat will they then believe in?
-
-**From the Sunnah:** In the Sahih, Muslim recorded from 'Abdullah bin 'Umar that the Messenger of Allah ﷺ prohibited traveling with the Qur'an to enemy lands for fear that the Qur'an might be desecrated by the enemy. (Sahih Muslim)
 ## Personal Reflections
-
 

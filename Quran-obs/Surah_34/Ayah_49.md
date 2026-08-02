@@ -105,13 +105,5 @@ Verse 48: إِنَّ رَ‌بِّي يَقْذِفُ بِالْحَقِّ عَ�
 
 Say: "The truth has come, and falsehood will vanish and never return."
 
-## AI Tafsir
-
-**What this ayah teaches:** So it happens in the confrontation between truth and falsehood when the later lies shattered. But if I remain guided, it is because of the Revelation of my Lord to me.
-
-**Classical tafsir:** Ibn Kathir notes: But if I remain guided, it is because of the Revelation of my Lord to me.
-
-**From the Sunnah:** When the Messenger of Allah ﷺ entered Al-Masjid Al-Haram on the day of the conquest of Makkah, and found those idols standing around the Ka'bah, he started to hit the idols with his bow, reciting,
 ## Personal Reflections
-
 

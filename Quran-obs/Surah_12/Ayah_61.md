@@ -91,13 +91,5 @@ Then, he made a secret arrangement as well. He ordered his young workers on the 
 
 They promised, “We will try to convince his father to let him come. We will certainly do our best.”
 
-## AI Tafsir
-
-**What this ayah teaches:** They were ten, because Ya'qub peace be upon him kept his son and Yusuf's brother Binyamin with him. However, they did not recognize him because they got rid of him when he was still young, and sold him to a caravan of travelers while unaware of their destination.
-
-**Classical tafsir:** Ibn Kathir notes: They were ten, because Ya'qub peace be upon him kept his son and Yusuf's brother Binyamin with him.
-
-**From the Sunnah:** Prophet Yusuf efficiently guarded the people's harvest and collected it, and what he collected became a great fortune for the people.
 ## Personal Reflections
-
 

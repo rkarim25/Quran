@@ -162,11 +162,5 @@ In the last verse (95), it was said that they, despite being human, can-not dema
 
 Have they not realized that Allah, Who created the heavens and the earth, can easily re-create them? He has already set for them a time, about which there is no doubt. But the wrongdoers persist in denial.
 
-## AI Tafsir
-
-**What this ayah teaches:** And He has decreed for them an appointed term, whereof there is no doubt.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

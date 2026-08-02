@@ -122,11 +122,5 @@ Other historical narrations reported by commentators at this stage tell us that 
 
 Then from the farthest end of the city a man came, rushing. He advised, "O my people! Follow the messengers.
 
-## AI Tafsir
-
-**What this ayah teaches:** Therefore, the expression would mean that a man came running from the farthest part of the city. The event relating to the person coming from the farthest part of the city The noble Qur'an has left this too as ambiguous.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, the expression would mean that a man came running from the farthest part of the city.
 ## Personal Reflections
-
 

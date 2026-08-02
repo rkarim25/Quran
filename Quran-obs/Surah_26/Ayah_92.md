@@ -124,13 +124,5 @@ In accordance with the commonly adopted explanation of the verse it has now beco
 
 And it will be said to them, “Where are those you used to worship
 
-## AI Tafsir
-
-**What this ayah teaches:** Can they help you or help themselves?) meaning, 'the gods and idols whom you used to worship instead of Allah cannot help you today, and they cannot even protect themselves. Therefore, the male children are specifically mentioned in the context of the Hereafter to indicate that even those who were expected to help in the world will not be of any use there.
-
-**Classical tafsir:** Ibn Kathir notes: It may also be noted that "sound heart" literally means a healthy heart.
-
-**From the Sunnah:** In accordance with the commonly adopted explanation of the verse it has now become clear that the wealth of a person could be of help to him on the Dooms Day, provided he is a Muslim. (Sahih Muslim)
 ## Personal Reflections
-
 

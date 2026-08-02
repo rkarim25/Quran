@@ -263,13 +263,5 @@ One more question remains: In this verse idrak [ grasping, comprehending, discer
 
 How then can you dispute with him over what he saw?
 
-## AI Tafsir
-
-**Context:** He has been taught by one mighty in power (5)Dhu Mirrah then he Istawa (6)While he was in the highest part of the horizon (7)Then he approached and came closer (8)And was at a distance of two bows' length or less (9)So (…
-
-**What this ayah teaches:** So some of his companions were asked and one of them said, "Each wing was covering what is between the east and the west." This Hadith has a good chain of narration.
-
-**Classical tafsir:** Ibn Kathir notes: Qalb (heart) here refers to ` aql (intellect) because heart is the centre of intellectual activities.
 ## Personal Reflections
-
 

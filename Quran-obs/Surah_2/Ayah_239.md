@@ -230,19 +230,5 @@ It was through this very verse that talking in salah was forbidden. Earlier, tal
 
 If you are in danger, pray on foot or while riding. When you are safe, remember Allah as He taught you what you did not know.
 
-## AI Tafsir
-
-**Essence**
-Even amid the terror of battle the prayer is never dropped — it is only reshaped — and once safety returns the believer turns back to remember the Allah who taught him how to worship.
-
-**What it teaches**
-After commanding His servants to guard the prayers (2:238), Allah addresses the one case where standing in full devotion is impossible: *khawf* — fear of an enemy in war. The believer then prays *rijalan* (on foot) or *rukbanan* (riding), in whatever posture the danger allows; and when *amintum* (you are secure) returns, he restores the prayer to its complete form and remembers Allah in gratitude for teaching him "what you did not know."
-
-**The scholars**
-Ibn Kathir explains that after stressing the perfection of the prayer, Allah here mentions the case where it cannot be performed perfectly — combat — so one prays as circumstances permit, "whether on foot or riding and whether facing the Qiblah or otherwise." He cites a narration of Ibn 'Umar, reported by Imam Malik from Nafi': in intense fear one prays "on foot, riding, facing the Qiblah and otherwise" — Nafi' adding, "I think that he related that to the Prophet ﷺ," and Ibn Kathir noting al-Bukhari and Muslim recorded it. On "remember Allah as He taught you," he reads it as completing the prayer's bowing, prostration, standing, sitting, with presence of heart and supplication, and thanking Him "just as He has endowed you, guided you and taught you about what benefits you in this life and the Hereafter," linking it to the parallel verse 4:103. Maarif ul Quran adds the fiqh: in fear one may pray fixed in one place, gesturing for *sajdah* lower than for *ruku'*; salah may not be performed while walking, and if even that is impossible (actual fighting), it is delayed and offered later as *qada'*.
-
-**Reflection**
-If the sword at one's throat does not excuse abandoning the prayer, then no busyness of ours ever does — and ease should return us to Allah in deeper gratitude, not in forgetfulness.
 ## Personal Reflections
-
 

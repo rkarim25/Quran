@@ -291,13 +291,5 @@ The censure on hypocrites appearing earlier continues through the present verses
 
 Those who wait to see what happens to you. So if Allah grants you victory, they say, “Were we not on your side?” But if those who reject the truth have a share, they say, “Did we not have the advantage over you, yet we protected you from those who have iman?” Allah will judge between you on the Day of Judgment. And Allah will never grant those who reject the truth a way over those who have iman.
 
-## AI Tafsir
-
-**Context:** In the third verse (140): وَقَدْ نَزَّلَ عَلَيْكُمْ فِي الْكِتَابِ (... and He has revealed to you in the Book), by referring to another verse of the Holy Qur'an which had already been revealed' as a verse of the Surah a…
-
-**What this ayah teaches:** This statement of the hypocrites is an attempt to strengthen relations with the those who reject the truth, because they pretend to be friends with both parties so that they will be safe from their harm, due to their weak faith and lack of certainty.
-
-**Classical tafsir:** Ibn Kathir notes: The Qur'an has elected not to be explicit on this situation, therefore, on this subject, there is a difference of views among scholars.
 ## Personal Reflections
-
 

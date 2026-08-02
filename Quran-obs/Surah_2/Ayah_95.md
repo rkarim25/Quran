@@ -134,17 +134,5 @@ Nor can one suppose that they did make an oral declaration, for the fact has not
 
 They will never wish for it because of what their hands have sent ahead. Allah has full knowledge of the wrongdoers.
 
-## AI Tafsir
-
-**Essence** Those claiming Paradise as theirs alone will never wish for death — what their hands sent ahead forbids it. Allah knows the wrongdoers fully.
-
-**What it teaches** Challenged in 2:94 to wish for death if the Hereafter were theirs alone, the Prophet's ﷺ Jewish contemporaries refused: they knew their own record. Allah is 'Alim of the zalimin who deny a truth they recognize.
-
-**The scholars** Ibn 'Abbas: it meant “Invoke Allah to bring death to the lying camp” — had they asked, “one of them would have choked on his own saliva.” Ibn Kathir calls it a Mubahalah; the refusal exposed their lie. Maarif ul-Quran: a trial costing only words, which they dared not attempt — itself evidence of Islam's truth.
-
-**From the Sunnah** Ibn Jarir relates in his Tafsir, without a full chain (“We were told”), that the Prophet ﷺ said: had the Jews wished for death, they would have died and seen their seats in the Fire.
-
-**Reflection** Live so that meeting Allah is a longing, not a dread.
 ## Personal Reflections
-
 

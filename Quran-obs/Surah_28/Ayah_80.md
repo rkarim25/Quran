@@ -107,13 +107,5 @@ Allah tells us how Qarun went forth one day before his people with his magnifice
 
 But those gifted with knowledge said, “Shame on you! Allah’s reward is far better for those who believe and do good. But none will attain this except the steadfast.”
 
-## AI Tafsir
-
-**What this ayah teaches:** The reward of Allah is better for those who believe and do righteous deeds, and this none shall attain except the patient.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** The reward of Allah is better for those who believe and do righteous deeds,) 'Allah's reward to His believing, righteous servants in the Hereafter is better than what you see,' as is reported in the authentic Hadith: (authentic hadith)
 ## Personal Reflections
-
 

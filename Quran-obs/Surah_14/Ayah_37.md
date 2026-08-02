@@ -199,11 +199,5 @@ However, ثَمَرَۃ thamrah or fruit is also used in the sense of outcome an
 
 Our Rabb, I settled part of my offspring in an uncultivated valley near Your Sacred House, so they may establish salah. Turn the hearts of believing people toward them and provide them fruits, so they may be grateful.
 
-## AI Tafsir
-
-**What this ayah teaches:** Rather, the prayer he has made is for the end product of everything which includes the products and produce and use-worthy things of all kinds, and again, with earnest pleading and humble plaint alongwith the recounting of praises for Allah Ta’ ala, then, this would be a manner in which it can be strongly hoped that the prayer will be answered.
-
-**Classical tafsir:** Ibn Kathir notes: This Ayah indicates that this was different supplication than the first one that Ibrahim said when he left Hajar and her son Isma'il in Makkah, before the Sacred House was built.
 ## Personal Reflections
-
 

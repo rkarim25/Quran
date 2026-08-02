@@ -108,13 +108,5 @@ Since the first sentence contains the word nas (people), the second and the thir
 
 The One humanity truly worships, whether they admit it or not—since whatever people give their ultimate fear, love, and obedience to becomes, in practice, what they serve.
 
-## AI Tafsir
-
-**What this ayah teaches:** The word rabb that refers to nurturer-ship of Allah is a hint to this, because children need nurturing the most. This is because they (the Jinns) are also included in the usage of the word An-Nas (the people) in most cases.
-
-**Classical tafsir:** Ibn Kathir notes: The word rabb that refers to nurturer-ship of Allah is a hint to this, because children need nurturing the most.
-
-**From the Sunnah:** It is also confirmed in the Two Sahihs from Anas, who reported the story of Safiyyah when she came to visit the Prophet ﷺ while he was performing I'tikaf, that he went out with her during the night to walk her back to her house.
 ## Personal Reflections
-
 

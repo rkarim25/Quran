@@ -111,11 +111,5 @@ Although Sayyidna Sulaiman (علیہ السلام) was not an Arab, yet it is no
 
 The Queen later announced, “O chiefs! Indeed, a noble letter has been delivered to me.
 
-## AI Tafsir
-
-**What this ayah teaches:** Literal meaning of Karim is respectable, honorable or esteemed, and idiomatically this word is used for a letter when it is sealed.
-
-**Classical tafsir:** Ibn Kathir notes: It is also probable because Bilqis was an Arab by race, and she read the letter and understood it.
 ## Personal Reflections
-
 

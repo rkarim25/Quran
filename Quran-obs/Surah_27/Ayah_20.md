@@ -130,13 +130,5 @@ The bottom line to understand is that whatever is destined for a person through 
 
 One day he inspected the birds, and wondered, “Why is it that I cannot see the hoopoe? Or could he be absent?
 
-## AI Tafsir
-
-**What this ayah teaches:** Therefore, the meaning of the sentence is ` It is not that my sight has faltered in locating the hoopoe, but in fact it is not present'.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, he made special effort to keep his eyes on the weaker section of his subjects.
-
-**From the Sunnah:** Because of these practices, the entire populace, both Muslims and non-Muslims, used to live in complete harmony and tranquility.
 ## Personal Reflections
-
 

@@ -197,13 +197,5 @@ In sum, the masses of people among the Jews and Christians had ignored Scripture
 
 They have taken their rabbis and monks as well as the Messiah, son of Mary, as lords besides Allah, even though they were commanded to worship none but One Allah. There is no god except Him. Glorified is He above what they associate !
 
-## AI Tafsir
-
-**What this ayah teaches:** And the Jews say: "Uzayr (Ezra) is the son of Allah," and the Christians say: "The Messiah is the son of Allah." That is their saying with their mouths, resembling the saying of those who disbelieved aforetime.
-
-**Classical tafsir:** Ibn Kathir notes: Hibr refers to a religious scholar among the Jews and Christians while a rahib denotes someone who devotes to worship and abstains from a worldly role in life.
-
-**From the Sunnah:** a Hadith via several chains of narration, from 'Adi bin Hatim, may Allah be pleased with him, who became Christian during the time of Jahiliyyah. (Sahih Muslim, Musnad Ahmad) This is how they worshipped them.) The Messenger of Allah ﷺ said to 'Adi,
 ## Personal Reflections
-
 

@@ -131,13 +131,5 @@ Since it is established that Resurrection is a reality and inevitable, the rewar
 
 With eyes downcast, covered in disgrace—they were called to prostrate in the world when they were fully able, but chose not to.
 
-## AI Tafsir
-
-**What this ayah teaches:** The Day when the Shin shall be laid bare and they shall be called to prostrate themselves, but they shall not be able to do so (42)Their eyes will be cast down and ignominy will cover them; they used to be called to prostrate themselves, while they were (43)Then leave Me alone with whoever denies this narration.
-
-**Classical tafsir:** Ibn Kathir notes: The Terror of the Day of Judgement After Allah mentions that those who have Taqwa, will have Gardens of Delight with their Lord, He explains when this will be, and its actual occurrence.
-
-**From the Sunnah:** he heard the Prophet ﷺ saying, (Sahih al-Bukhari)
 ## Personal Reflections
-
 

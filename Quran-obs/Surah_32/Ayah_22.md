@@ -137,13 +137,5 @@ The last sentence of the set of verses cited above reads:إِنَّا مِنَ �
 
 Who does greater wrong than one reminded of Allah's ayahs yet turns away? We will surely punish the wicked.
 
-## AI Tafsir
-
-**Context:** (Is then he who is a believer like him who is a rebellious? Not equal are they.) i.e., before Allah on the Day of Resurrection.
-
-**What this ayah teaches:** But, from some Hadith accounts it appears that there are three sins the punishment of which is experienced - before the Hereafter - right here in this world too.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

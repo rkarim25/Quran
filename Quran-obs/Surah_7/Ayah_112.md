@@ -64,11 +64,5 @@ Some soldiers should be sent to collect and bring the sorcerers for this purpose
 
 They replied, “Let him and his brother wait and send mobilizers to all cities to bring you every clever magician.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Because of this incorrect assumption, they brought all the magicians in order to defeat the miracles that he showed them.
-
-**Classical tafsir:** Ibn Kathir notes: Because of this incorrect assumption, they brought all the magicians in order to defeat the miracles that he showed them.
 ## Personal Reflections
-
 

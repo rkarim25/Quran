@@ -300,13 +300,5 @@ Finally, we can now see that 'the reciter of the Kalimah' (Kalimahgo کلمہ گ
 
 O you who have iman! When you struggle in the cause of Allah, be sure of who you fight. And do not say to those who offer you peace, “You are no believer!”—seeking a fleeting worldly gain. Instead, Allah has infinite bounties. You were initially like them then Allah blessed you. So be sure! Indeed, Allah is All-Aware of what you do.
 
-## AI Tafsir
-
-**Context:** Imam Ahmad recorded that 'Ikrimah said that Ibn 'Abbas said, "A man from Bani Sulaym, who was tending a flock of sheep, passed by some of the Companions of the Prophet ﷺ and said Salam to them.
-
-**What this ayah teaches:** When you go (to fight) in the cause of Allah, verify (the truth), and say not to anyone who greets you: "You are not a believer;" seeking the perishable goods of the worldly life. However, an admonition was considered sufficient and no severe warning was revealed for them against this act because the Companions did not know the rule clearly till that time.
-
-**Classical tafsir:** Ibn Kathir notes: Even as he is now, so were you yourselves before, till Allah conferred on you His Favors, therefore, be cautious in discrimination.
 ## Personal Reflections
-
 

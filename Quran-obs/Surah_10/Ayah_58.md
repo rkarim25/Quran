@@ -108,11 +108,5 @@ At this point it is worth our attention that there is another verse of the Qur'a
 
 Say, O Prophet, “In Allah’s grace and mercy let them rejoice. That is far better than whatever wealth they amass.”
 
-## AI Tafsir
-
-**What this ayah teaches:** There has come to you good advice from your Lord, and a cure for that which is in your breasts, – a guidance and a mercy for the believers (57)Say: "In the bounty of Allah, and in His mercy; therein let them rejoice." That is better than what (the wealth) they amass .
-
-**Classical tafsir:** Ibn Kathir notes: Because, to start with, no matter how much one has, it turns out to be not as much as one would have wished.
 ## Personal Reflections
-
 

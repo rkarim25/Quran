@@ -154,13 +154,5 @@ Ends here
 
 You are not there to compel them.
 
-## AI Tafsir
-
-**What this ayah teaches:** You are not a Musaytir over them) This is how Muslim recorded this Hadith in his Book of Faith, and At-Tirmidhi and An-Nasa'i also recorded it in their Sunans in the Books of Tafsir.
-
-**Classical tafsir:** Ibn Kathir notes: They are reminded of this because the most common domestic animal of the Arabs was the camel.
-
-**From the Sunnah:** These are the things Dimam swore by after questioning the Messenger of Allah ﷺ. (Musnad Ahmad) This Hadith was recorded by Al-Bukhari, Muslim, Abu Dawud, At-Tirmidhi, An-Nasa'i and Ibn Majah. (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
-
 

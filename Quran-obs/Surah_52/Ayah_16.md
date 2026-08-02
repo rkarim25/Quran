@@ -194,15 +194,5 @@ Allah said;
 
 Burn in it. Whether you endure patiently or not, it is the same—you are rewarded only for what you used to do.
 
-## AI Tafsir
-
-**Context:** (And by the Book inscribed), it is said that it means Al-Lawh Al-Mahfuz, (the Preserved Table). It is also said that is refers to the divinely revealed inscribed Books that people recite, and this is why Allah said,
-
-**What this ayah teaches:** This verse describes the violent movement of the heavens on the Day of Resurrection. Is this magic or do you not see?)(16.
-
-**Classical tafsir:** Ibn Kathir notes: This verse describes the violent movement of the heavens on the Day of Resurrection.
-
-**From the Sunnah:** And by Al-Bayt Al-Ma'mur.) In the Two Sahihs it is confirmed that the Messenger of Allah ﷺ said in the Hadith about Al-Isra', after ascending to the seventh heaven:
 ## Personal Reflections
-
 

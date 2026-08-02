@@ -142,11 +142,5 @@ The few Muslims who got involved in the episode in connection with the slander o
 
 Surely those who accuse chaste, unsuspecting, believing women are cursed in this life and the Akhirah. And they will suffer a tremendous punishment
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, those who accuse chaste believing women, who never even think of anything touching their chastity and are good believers – are cursed in this life and in the Hereafter, and for them will be a great torment (23)On the Day when their tongues, their hands, and their legs will bear witness against them as to what they used to do (24)On that Day Allah will pay them the recompense of their deeds…
-
-**Classical tafsir:** Ibn Kathir notes: All of the scholars agree that whoever slanders her or makes accusations against after what has been said in this Ayah, is a those who reject the truth, because of his being obstinate with the Qur'an.
 ## Personal Reflections
-
 

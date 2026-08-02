@@ -256,13 +256,5 @@ Allah said,
 
 possessing great perfection, who assumed his true form
 
-## AI Tafsir
-
-**Context:** He has been taught by one mighty in power (5)Dhu Mirrah then he Istawa (6)While he was in the highest part of the horizon (7)Then he approached and came closer (8)And was at a distance of two bows' length or less (9)So (…
-
-**What this ayah teaches:** Therefore, this verifies the facts mentioned, leaving no doubt or means of refute. This is a tremendous quality that demonstrates the Prophet's firm obedience to Allah, because he only did what was commanded and did ask beyond what he was given.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, this verifies the facts mentioned, leaving no doubt or means of refute.
 ## Personal Reflections
-
 

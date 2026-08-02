@@ -155,11 +155,5 @@ Then there is the other situation. If being of the same age is taken to mean tha
 
 The misleaders will say to one another, "Here is a crowd being thrown in with us. They are not welcome—they too will burn in the Fire."
 
-## AI Tafsir
-
-**What this ayah teaches:** Where they will enter it, and worst (indeed) is that place to rest (56)This is so!
-
-**Classical tafsir:** Ibn Kathir notes: Verily, they shall enter in the Fire!) meaning, because they are of the people of Hell.
 ## Personal Reflections
-
 

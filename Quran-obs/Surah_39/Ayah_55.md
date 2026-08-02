@@ -244,13 +244,5 @@ In verse 55, it was said: وَاتَّبِعُوا أَحْسَنَ مَا أُ�
 
 Follow the Quran, the best of what has been revealed to you from your Lord, before the punishment takes you by surprise while you are unaware,
 
-## AI Tafsir
-
-**What this ayah teaches:** The Call to repent before the Punishment comes This Ayah is a call to all sinners, be they those who reject the truth or others, to repent and turn to Allah.
-
-**Classical tafsir:** Ibn Kathir notes: Or he should say when he sees the torment: "If only I had another chance, then I should indeed be among the doers of good.") means, he will wish that he could go back to this world, so that he could do righteous deeds.
-
-**From the Sunnah:** some of the people of Shirk killed many people and committed Zina (illegal sexual acts) to a great extent; they came to Muhammad ﷺ and said, "What you are saying and calling us to is good; if only you could tell us that there is an expiation for what we have d… (Sahih al-Bukhari) Despair not of the mercy of Allah.) This was also recorded by Muslim, Abu Dawud and An-Nasa'i. (Sahih Muslim, Sunan Abi Dawud)
 ## Personal Reflections
-
 

@@ -138,13 +138,5 @@ Ends here
 
 their Lord on that Day is fully aware of them—nothing deleted, nothing archived beyond reach.
 
-## AI Tafsir
-
-**What this ayah teaches:** Surely your Lord, that day, is fully aware of them.) Divine retribution will be meted out, in the Hereafter, to each person commensurate with his deeds, good or bad, as Allah is well-aware of them.
-
-**Classical tafsir:** Ibn Kathir notes: And that which is in the breasts shall be made known?)(11.
-
-**From the Sunnah:** This is just as the Messenger of Allah ﷺ used to perform raids in the early morning. These two evil qualities are the essential characteristics of unbelievers, and if they are found in a Muslim [ Allah forbid!], he needs to reflect and be careful. (Sahih Muslim)
 ## Personal Reflections
-
 

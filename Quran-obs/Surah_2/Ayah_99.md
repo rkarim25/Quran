@@ -250,17 +250,5 @@ In denying the Holy Prophet ﷺ ، the Jews used to say that no clear evidence o
 
 We have sent down to you clear signs. None reject them except the rebellious.
 
-## AI Tafsir
-
-**Essence** The manifest sign of Muhammad's ﷺ prophethood is the Qur'an itself: an unlettered Prophet reciting what lay hidden in his deniers' own scriptures. Only the fasiqun — those who rebel against Allah's command — reject it.
-
-**What it teaches** Their rejection was a verdict of the will, not the mind. As Maarif ul-Quran notes, they claimed no sign had come yet knew these signs well — habitual disobedience, not lack of evidence.
-
-**The scholars** Ibn Kathir (from Abu Ja'far bin Jarir): the Qur'an exposes what they hid — texts only their rabbis knew, where they altered the Tawrah — enough for anyone truthful with himself. Ibn 'Abbas (via Ad-Dahhak): an ummi who never read a book informing them of their own Books is a proof against them.
-
-**From the Sunnah** Ibn Kathir cites this in the same passage, under 2:102's ruling on magic: "Whoever came to a soothsayer or a sorcerer and believed in what he said, will have disbelieved in what Allah revealed to Muhammad ﷺ." (Al-Bazzar; authentic chain per Ibn Kathir)
-
-**Reflection** Ask not whether the sign is clear — ask whether your will is.
 ## Personal Reflections
-
 

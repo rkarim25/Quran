@@ -145,13 +145,5 @@ What is alluded here is that the righteous servants of God do not care about cor
 
 They are those who pray, “Our Rabb! Bless us with pious spouses and offspring who will be the joy of our hearts, and make us models for the righteous.”
 
-## AI Tafsir
-
-**What this ayah teaches:** But as for those in whose hearts is a disease, it will add doubt to their doubt)(9:124-125).
-
-**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas said, "This means (offspring) who will strive to obey Allah and bring them joy in this world and the Hereafter." Imam Ahmad recorded that Jubayr bin Nufayr said: "We sat with Al-Miqdad bin Al-Aswad one day, and a man passed by and said, "How blessed are these two eyes which saw the Messen…
-
-**From the Sunnah:** Ibn 'Abbas said, "This means (offspring) who will strive to obey Allah and bring them joy in this world and the Hereafter." Imam Ahmad recorded that Jubayr bin Nufayr said: "We sat with Al-Miqdad bin Al-Aswad one day, and a man passed by and said, "How blessed… (Musnad Ahmad) This would be more rewarding and a better end, as it was recorded in Sahih Muslim from Abu Hurayrah, may Allah be pleased with him, that…
 ## Personal Reflections
-
 

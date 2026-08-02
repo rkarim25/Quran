@@ -157,13 +157,5 @@ The use of plural number indicates that amanah does not only refer to 'that whic
 
 They are also those true to their trusts and covenants,
 
-## AI Tafsir
-
-**What this ayah teaches:** Breach of trusts and covenants is dishonesty.
-
-**Classical tafsir:** Ibn Kathir notes: [ 4:58] ' The use of plural number indicates that amanah does not only refer to 'that which people might deposit with a trustee for safe-keeping' but it also refers to 'all obligatory rights that are necessary to fulfill'.
-
-**From the Sunnah:** This is like what is reported in the authentic Hadith, (authentic hadith)
 ## Personal Reflections
-
 

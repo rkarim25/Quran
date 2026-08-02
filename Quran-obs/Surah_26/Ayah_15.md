@@ -151,11 +151,5 @@ This verse proves that it is not possible to know the exact reality of Allah's B
 
 Allah responded, “Certainly not! So go, both of you, with Our signs. We will be with you, listening.
 
-## AI Tafsir
-
-**What this ayah teaches:** But the word is also used for 'unawareness' (which includes unintentional mistakes) It is this meaning that is intended here.
-
-**Classical tafsir:** Ibn Kathir notes: But the word is also used for 'unawareness' (which includes unintentional mistakes) It is this meaning that is intended here.
 ## Personal Reflections
-
 

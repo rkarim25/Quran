@@ -152,11 +152,5 @@ The Story of the People of Nuh (علیہ السلام) and the Lesson Learnt fro
 
 So We opened the gates of the sky with pouring rain,
 
-## AI Tafsir
-
-**What this ayah teaches:** But the sky's gates were opened on them that day, and therefore, the water that came down was not from clouds. As a result, Allah opened the gates of the heaven with torrential rain, and the entire nation was drowned which is mentioned in the forthcoming verse.
-
-**Classical tafsir:** Ibn Kathir notes: The word wazdujira literally denotes 'he was rebuked'.
 ## Personal Reflections
-
 

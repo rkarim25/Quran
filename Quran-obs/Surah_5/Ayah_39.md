@@ -179,13 +179,5 @@ It will be recalled that forgiveness was also mentioned in connection with the P
 
 But whoever repents after their wrongdoing and mends their ways, Allah will surely turn to them in forgiveness. Indeed, Allah is All-Forgiving, the Rahim.
 
-## AI Tafsir
-
-**What this ayah teaches:** Surely, Allah is Most-Forgiving, Very-Merciful.
-
-**Classical tafsir:** Ibn Kathir notes: In other words, the relevant ruler of the time will not abandon the Hadd Pun-ishment because of this repentance, instead of that, Almighty Allah will, by forgiving their crime, grant deliverance to them from the punishment of the Hereafter.
-
-**From the Sunnah:** This is also the view of Imam Ahmad bin Hanbal and Ishaq bin Rahwayh in one of the narrations from him, as well as Abu Thawr, and Dawud bin 'Ali Az-Zahari, may Allah have mercy upon them. (Musnad Ahmad) Usamah said to him, "Ask Allah to forgive me, O Allah's Messenger!" During that night, the Messenger of Allah ﷺ stood up and gave a speech and praised Allah as He deserves to be praised.
 ## Personal Reflections
-
 

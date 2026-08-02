@@ -196,13 +196,5 @@ Ends here
 
 As for those who rejected the truth, they will be told: "Were My revelations not recited to you, yet you acted arrogantly and were a wicked people?
 
-## AI Tafsir
-
-**What this ayah teaches:** This Ayah means, Allah is the Almighty, Worthy of all praise; everything and everyone is subservient and in complete need of and dependent upon Him. The word kitab, according to most commentators, refers to ` book of record' which the angels have been writing in the world.
-
-**Classical tafsir:** Ibn Kathir notes: This Ayah means, Allah is the Almighty, Worthy of all praise; everything and everyone is subservient and in complete need of and dependent upon Him.
-
-**From the Sunnah:** So this Day, they shall not be taken out from there (Hell), nor shall they be returned to the worldly life (35)So all praise is due to Allah, the Lord of the heavens and the Lord of the earth, and the Lord of all that exists (36)And His is the majesty in the h… (al-Mustadrak)
 ## Personal Reflections
-
 

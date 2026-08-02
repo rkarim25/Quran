@@ -263,13 +263,5 @@ Taught here are the highest and noblest traits of character. We can see that Say
 
 The King asked the women, “What did you get when you tried to seduce Joseph?” They replied, “Allah forbid! We know nothing indecent about him.” Then the Chief Minister’s wife admitted, “Now the truth has come to light. It was I who tried to seduce him, and he is surely truthful.
 
-## AI Tafsir
-
-**What this ayah teaches:** No evil know we against him!" The wife of the 'Aziz said: "Now the truth is manifest (to all); it was I who sought to seduce him, and he is surely of the truthful.
-
-**Classical tafsir:** Ibn Kathir notes: At that time, wisdom demanded that the reality of the misconduct for which he was blamed and because of which he was confined into the prison must become fully clear before everyone concerned and no one remains in doubt about his innocence.
-
-**From the Sunnah:** If I were to stay in prison for such a long time as Yusuf did, I would have accepted the offer.) In another narration collected by Ahmad from Abu Hurayrah, the Prophet ﷺ said about Yusuf's statement, An ` Alim whose guidance is relied upon by Muslims should also watch out that he is not suspected by people - even though such a suspicion be totally unfounded.
 ## Personal Reflections
-
 

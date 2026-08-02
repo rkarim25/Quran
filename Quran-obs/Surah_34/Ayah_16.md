@@ -202,11 +202,5 @@ The word: سِدر (sidr) means بیری beri or بَیر ber in Urdu and is tra
 
 But they turned away. So We sent against them a devastating flood and replaced their gardens with two others bearing bitter fruit, barren scrub, and a few thorny trees.
 
-## AI Tafsir
-
-**What this ayah teaches:** So they brought cats for a while, but when the decree came to pass, the rats overran the cats and went into the dam, making a hole in it, and it collapsed." Qatadah and others said, "The large rat is the desert rat.
-
-**Classical tafsir:** Ibn Kathir notes: And never do We requite in such a way except those who are ungrateful.) meaning, 'We punished them for their disbelief.' Mujahid said, "He does not punish anyone except the those who reject the truth." Al-Hasan Al-Basri said, "Allah the Almighty has spoken the truth: no one will be punished in a manner that befit… The Disbelief of Saba' (Sheba) and Their Punishment Saba' refers to the kings and people of the Yeme…
 ## Personal Reflections
-
 

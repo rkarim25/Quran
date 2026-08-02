@@ -120,11 +120,5 @@ Ibn Zayd said, "The Shawa is the marrow of the bones." As for,
 
 and the mountains like tufts of wool.
 
-## AI Tafsir
-
-**What this ayah teaches:** This is because they were, as Allah said, of those who turned their backs and turned away. This means they denied with their hearts and abandoned the performance of deeds with their limbs.
-
-**Classical tafsir:** Ibn Kathir notes: This means they denied with their hearts and abandoned the performance of deeds with their limbs.
 ## Personal Reflections
-
 

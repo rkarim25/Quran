@@ -107,11 +107,5 @@ Verse 94 opens with the words: وَلَمَّا فَصَلَتِ الْعِير�
 
 When the caravan departed from Egypt, their father said to those around him, “You may think I am senile, but I certainly sense the smell of Joseph.”
 
-## AI Tafsir
-
-**What this ayah teaches:** And when the Divine will is not there, the nearest of the near recedes into the farthest.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

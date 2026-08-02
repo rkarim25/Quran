@@ -194,13 +194,5 @@ And it appears in the Sahih of Muslim that Sayyidna Ibn ` Abbas ؓ reports from 
 
 No intercession benefits with Him except for those He permits. When dread is lifted from the hearts of those permitted to intercede, they will ask one another, "What did your Lord just say?" They will answer, "The truth—and He is the Most High, the All-Great."
 
-## AI Tafsir
-
-**What this ayah teaches:** The last part of Verse 22 deals with this group by saying, "And He (Allah) has no helper from among them." There was a third group of people who did not hold the idols as gods or helpers of Allah, but they maintained that these idols are so close to Allah that their intercession is always approved by Him, and whoever has the advantage of their intercession, his desires may well b…
-
-**Classical tafsir:** Ibn Kathir notes: Verse 23 has refuted this belief by saying, "And intercession before Him is of no benefit, but for the one whom He has permitted." The sense is that their assumption that idols are close to Allah is not correct.
-
-**From the Sunnah:** intercede except for him with whom He is pleased. it. (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
-
 

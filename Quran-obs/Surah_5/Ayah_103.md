@@ -202,11 +202,5 @@ In addition to doing what was Shirk, these people were challenging the right of 
 
 Allah has never ordained the baḥîrah, sâ'ibah, waṣîlah, and ḥâm camels. But those who reject the truth just fabricate lies about Allah, and most of them lack understanding.
 
-## AI Tafsir
-
-**What this ayah teaches:** But those who disbelieve invent lies against Allah, and most of them have no understanding (103)And when it is said to them: "Come to what Allah has revealed and unto the Messenger." They say: "Enough for us is that which we found our fathers following," even though their fathers had no knowledge whatsoever and no guidance (104).
-
-**Classical tafsir:** Ibn Kathir notes: As for the Sa'ibah, Mujahid said that it is for sheep, and mentioned a similar meaning as for Bahirah.
 ## Personal Reflections
-
 

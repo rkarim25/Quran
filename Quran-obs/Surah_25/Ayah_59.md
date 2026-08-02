@@ -227,13 +227,5 @@ Then Allah rebukes the idolators who prostrate to idols and rivals instead of Al
 
 He is the One Who created the heavens and the earth and everything in between in six Days, then established Himself on the Throne. He is the the Rahman! Ask none other than the All-Knowledgeable about Himself.
 
-## AI Tafsir
-
-**Context:** (Then He rose over (Istawa) the Throne. The ar-Rahman! Ask Him, as He is the All-Knower.) meaning, find out about Him from one who knows most about Him, and follow him and take him as your example.
-
-**What this ayah teaches:** Then He rose over the Throne.) means, He is running all affairs and He decrees according to the truth, and He is the best of those who decide.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

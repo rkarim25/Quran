@@ -225,13 +225,5 @@ Commentary
 
 Whenever We sent a messenger or a prophet before you O Prophet and he recited Our revelations, Satan would influence people’s understanding of his recitation. But eventually Allah would eliminate Satan’s influence. Then Allah would firmly establish His revelations. And Allah is All-Knowing, All-Wise.
 
-## AI Tafsir
-
-**Context:** (And that those who have been given knowledge may know that it is the truth from your Lord, so that they may believe therein,) means, 'so that those who have been given beneficial knowledge with which they may differenti…
-
-**What this ayah teaches:** And certainly, the wrongdoers are in an opposition far-off (from the truth)(53)And that those who have been given knowledge may know that it (this Qur'an) is the truth from your Lord, so that they may believe therein, and their hearts may submit to it with humility.
-
-**Classical tafsir:** Ibn Kathir notes: This verse explains that the disputes raised by the those who reject the truth in regard to Allah's message is not something new as similar doubts were raised by earlier people as well when their prophets presented to them the message of Truth, and the Shaitan cast doubts about it in the heart…
 ## Personal Reflections
-
 

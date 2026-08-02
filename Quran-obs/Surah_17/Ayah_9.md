@@ -126,13 +126,5 @@ The way to which the Qur'an guides has been called 'aqwam,' the most upright. 'A
 
 Surely this Quran guides to what is most upright, and gives good news to the believers—who do good—that they will have a mighty reward.
 
-## AI Tafsir
-
-**Context:** Allah praises His noble Book, the Qur'an, which He revealed to His Messenger Muhammad ﷺ. It directs people to the best and clearest of ways.
-
-**What this ayah teaches:** Verily, this Qur'an guides to that which is most just and right and gives good news to those who believe, those who do righteous deeds, that they will have a great reward (Paradise)(9)And that those who do not believe in the Hereafter, for them We have prepared a painful torment (Hell).
-
-**Classical tafsir:** Ibn Kathir notes: However, it is a different matter that man may start taking this way to be difficult or dangerous on occasions because of his own lack of comprehension.
 ## Personal Reflections
-
 

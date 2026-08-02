@@ -107,13 +107,5 @@ Imam Malik (رح) has taken: صَابرین (as-sabirun) in this verse to mean p
 
 Say: "I truly fear—if I were to disobey my Lord—the torment of a tremendous Day."
 
-## AI Tafsir
-
-**What this ayah teaches:** So much so that people who had lived their life of the mortal world in perfect peace and comfort would wish, 'alas!
-
-**Classical tafsir:** Ibn Kathir notes: So much so that people who had lived their life of the mortal world in perfect peace and comfort would wish, 'alas!
-
-**From the Sunnah:** This is a conditional sentence, and if what is referred to here applies to the Prophet ﷺ, it applies even more so to others,
 ## Personal Reflections
-
 

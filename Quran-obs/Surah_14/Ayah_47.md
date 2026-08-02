@@ -158,13 +158,5 @@ and that He would definitely retaliate against the enemies of His messengers and
 
 Do not think Allah will fail His promise to His messengers. Allah is Almighty, capable of punishment.
 
-## AI Tafsir
-
-**What this ayah teaches:** So think not that Allah will fail to keep His promise to His Messengers. When the womans discharge is greater than the man's, it becomes a female by Allah's permission.) The Jew said, 'You have told the truth and are indeed a Prophet.' Then he left.
-
-**Classical tafsir:** Ibn Kathir notes: When the womans discharge is greater than the man's, it becomes a female by Allah's permission.) The Jew said, 'You have told the truth and are indeed a Prophet.' Then he left.
-
-**From the Sunnah:** it, and At-Tirmidhi said "Hasan Sahih". (Sahih al-Bukhari, Sahih Muslim) I was standing next to the Messenger of Allah ﷺ when a Jewish rabbi came to him and said, 'Peace be to you, O Muhammad. (Sahih Muslim)
 ## Personal Reflections
-
 

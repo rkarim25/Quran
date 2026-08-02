@@ -148,11 +148,5 @@ After Allah mentions the wrongdoers and their threat, He then commends the pious
 
 But whoever does good and is a believer will have no fear of being wronged or denied their reward.
 
-## AI Tafsir
-
-**What this ayah teaches:** And he who carried wrongdoing, will be indeed a complete failure (111)And he who works deeds of righteousness, while he is a believer, then he will have no fear of injustice, nor of any curtailment . This means that their evils will not be increased and their good deeds will not be decreased.
-
-**Classical tafsir:** Ibn Kathir notes: This means that their evils will not be increased and their good deeds will not be decreased.
 ## Personal Reflections
-
 

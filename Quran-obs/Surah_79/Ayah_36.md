@@ -140,11 +140,5 @@ In the verses that follow, the horrors of the Day of Judgment are depicted. It i
 
 and Hell is displayed for all to see—
 
-## AI Tafsir
-
-**What this ayah teaches:** The phrase 'punishment of the 'akhirah' refers to the punishment of the Hereafter that will be meted out to Fir'aun (the Pharaoh). The phrase 'punishment of the 'al a' refers to the punishment meted out to Fir'aun (the Pharaoh) and his army in this world whereby they were destroyed by drowning.
-
-**Classical tafsir:** Ibn Kathir notes: The phrase 'punishment of the 'akhirah' refers to the punishment of the Hereafter that will be meted out to Fir'aun (the Pharaoh).
 ## Personal Reflections
-
 

@@ -136,11 +136,5 @@ A casual look at the expression: مَا عِندَكُمْ (ma ` indakum: 'what 
 
 Whatever you have will end, but whatever Allah has is everlasting. And We will certainly reward the steadfast according to the best of their deeds.
 
-## AI Tafsir
-
-**What this ayah teaches:** But you shall certainly be called to account for what you used to do (93)And do not make your oaths a means of deception among yourselves, resulting in the slip of a foot after it was firmly planted, and you taste the evil of having hindered from the path of Allah, and you will suffer a terrible punishment (94)And do not use an oath by Allah for the purchase of little value, wh…
-
-**Classical tafsir:** Ibn Kathir notes: This is an analogy describing one who was on the right path but then deviated and slipped from the path of guidance because of an unfulfilled oath that involved hindering people from the path of Allah.
 ## Personal Reflections
-
 

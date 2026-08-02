@@ -142,13 +142,5 @@ While refusing to prostrate before Sayyidna 'Adam (علیہ السلام) ، Ibl
 
 Allah responded, “Be gone! Whoever of them follows you, Hell will surely be the reward for all of you—an ample reward.
 
-## AI Tafsir
-
-**What this ayah teaches:** From this root is also derived the word Jalabah, which means raising voices. Therefore, this question was considered unworthy of an answer and no answer was given.
-
-**Classical tafsir:** Ibn Kathir notes: Mujahid said, "With idle entertainment and singing," meaning, influence them with that. From this root is also derived the word Jalabah, which means raising voices.
-
-**From the Sunnah:** It was reported in Sahih Muslim from 'Iyad bin Himar that the Messenger of Allah ﷺ said: (Sahih Muslim)
 ## Personal Reflections
-
 

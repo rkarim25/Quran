@@ -112,13 +112,5 @@ Speaking generally, people around the world are found in great confusion about t
 
 Say, “Nothing will ever befall us except what Allah has destined for us. He is our Protector.” So in Allah let those who have iman put their trust.
 
-## AI Tafsir
-
-**What this ayah teaches:** Belief in Destiny includes Management of affairs: Giving Inaction or Mismanagement the name of Trust is Wrong This verse (51) brings into sharp focus the essential reality of the religious issue of Taqdir (destiny) and Tawakkul (trust).
-
-**Classical tafsir:** Ibn Kathir notes: Allah emphasizes the enmity that the hypocrites have for the Prophet ﷺ.
-
-**From the Sunnah:** Allah emphasizes the enmity that the hypocrites have for the Prophet ﷺ. If a blessing, such as victory and triumph over the enemies, is given to the Prophet ﷺ, thus pleasing him and his Companions, it grieves the hypocrites,
 ## Personal Reflections
-
 

@@ -76,11 +76,5 @@ This is the end of the Tafsir Surat At-Tariq, and unto Allah is all praise and t
 
 and the earth that splits open for growth—
 
-## AI Tafsir
-
-**What this ayah teaches:** By the sky which gives rain, again and again (11)And the earth which splits (12)Verily, this is the Word that separates (13)And it is not a thing for amusement (14)Verily, they are but plotting a plot (15)And I am planning a plan (16)So, give a respite to the those who reject the truth; deal gently with them for a while .
-
-**Classical tafsir:** Ibn Kathir notes: This means that you will see what befalls them of torment, punishment and destruction.
 ## Personal Reflections
-
 

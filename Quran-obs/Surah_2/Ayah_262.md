@@ -209,22 +209,5 @@ Two negative conditions governing the acceptance of sadaqah صدقہ have been s
 
 Those who spend in Allah's cause and do not follow their giving with reminders of generosity or hurtful words — their reward is with their Rabb. They will have no fear and will not grieve.
 
-## AI Tafsir
-
-**Essence**
-Charity given purely for Allah's sake — never trailed by boasting reminders or by hurting the one who received it — earns a secure reward kept with Allah Himself, free of all fear and grief.
-
-**What it teaches**
-The ayah sets two conditions on the giver who spends fī sabīlillāh (in Allah's cause). After spending, he must not follow his gift with mann — reminding the recipient of the favor, whether in words or actions — nor with adhan, the injury or harm that wounds the one helped. Meet both, and the promise lands in three parts: ajr (reward) reserved ʿinda rabbihim (with their Lord), no khawf (fear), and no grief.
-
-**The scholars**
-Ibn Kathir reads the two conditions closely. On mann, Allah praises those who spend and then refrain from reminding recipients of the favor, "whether these hints take the form of words or actions." On adhan — "or with injury" — he notes "this harm will only annul the charity." For the reward, "their reward is with their Lord" means "Allah Himself will reward them"; "no fear" concerns "the horrors of the Day of Resurrection"; and "nor shall they grieve" is over "the offspring that they leave behind and the adornment and delights of this world," for "they will acquire what is far better for them." He then ties this to the warning that follows: the one who spends "to be seen of men" while not believing in Allah or the Last Day is like a smooth rock (safwān) dusted with a little soil, struck by heavy rain that "leaves it bare" — his deeds vanish though people imagine them as plentiful as the specks of dust. Ad-Dahhak adds that this same parable fits one who follows his charity with reminders or harm. Maarif ul Quran distills the verse into the two negative conditions that void sadaqah: do not publicize your favor after spending, and do not treat the receiver as disgraced or cause him insult or pain.
-
-**From the Sunnah**
-Reminding people of one's charity is so grave that the one who does it (al-mannān) is named among three whom Allah will not speak to, look at, or purify on the Day of Resurrection, and for whom is a painful torment. (Sahih Muslim, narrated Abu Dharr)
-
-**Reflection**
-Give, then let it go — guard the dignity of the one you helped and seek no recognition, so your reward stays whole with Allah.
 ## Personal Reflections
-
 

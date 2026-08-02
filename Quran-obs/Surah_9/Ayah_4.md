@@ -123,13 +123,5 @@ They would have four months to travel the lands in search of sanctuary for thems
 
 As for the polytheists who have honoured every term of their treaty with you and have not supported an enemy against you, honour your treaty with them until the end of its term. Surely Allah loves those who live with taqwa.
 
-## AI Tafsir
-
-**What this ayah teaches:** Existing Peace Treaties remained valid until the End of Their Term This is an exception regulating the longest extent of time for those who have a general treaty - with out time mentioned - to four months.
-
-**Classical tafsir:** Ibn Kathir notes: The sixth ruling comes out from the fourth verse where Muslims have been prompted to fulfill their pledge right through the end until the term of the peace treaty expired.
-
-**From the Sunnah:** So anyone who had a treaty with Allah's Messenger ﷺ, it lasted until its specific termination date. The sixth ruling comes out from the fourth verse where Muslims have been prompted to fulfill their pledge right through the end until the term of the peace treaty expired.
 ## Personal Reflections
-
 

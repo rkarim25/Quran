@@ -124,13 +124,5 @@ In the third verse (107), it has been emphatically asserted once again that the 
 
 Do not advocate for those who wrong themselves. Surely Allah does not like those who are deceitful, sinful.
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, Allah does not like anyone who is a betrayer, sinner (107)They may hide (their crimes) from men, but they cannot hide (them) from Allah; for He is with them (by His knowledge), when they plot by night in words that He does not approve.
-
-**Classical tafsir:** Ibn Kathir notes: Some of you might be more eloquent in presenting his case than others, so that I judge in his favor.
-
-**From the Sunnah:** Umm Salamah said that the Messenger of Allah ﷺ heard the noise of disputing people close to the door of his room, and he went out to them saying, If I judge in one's favor concerning the right of another Muslim, then it is a piece of the Fire. (Sahih Muslim)
 ## Personal Reflections
-
 

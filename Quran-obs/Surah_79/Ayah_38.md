@@ -134,11 +134,5 @@ First, the special marks of the inmates of Hell are described. They have two cha
 
 and preferred the fleeting dunya
 
-## AI Tafsir
-
-**What this ayah teaches:** In other words, [ 1] instead of remaining loyal to Allah and His Messenger and following their commands, they adopt the line of rejection and rebellion; and [ 2] prefer the life of this world to that of the Hereafter.
-
-**Classical tafsir:** Ibn Kathir notes: In other words, [ 1] instead of remaining loyal to Allah and His Messenger and following their commands, they adopt the line of rejection and rebellion; and [ 2] prefer the life of this world to that of the Hereafter.
 ## Personal Reflections
-
 

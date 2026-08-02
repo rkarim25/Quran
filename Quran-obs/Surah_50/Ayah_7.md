@@ -142,11 +142,5 @@ After mentioning the confused state of the infidels, Allah draws man's attention
 
 And the earth: We spread it out, set upon it firm mountains, and caused every delightful kind of plant to grow from it—
 
-## AI Tafsir
-
-**What this ayah teaches:** However, when rain falls upon it, it is stirred to life; it swells and produces all of the lovely pairs such as flowers and the like – amazing on account of their beauty.
-
-**Classical tafsir:** Ibn Kathir notes: Lexically, the word furuj is the plural of farj which means a crack, or an opening.
 ## Personal Reflections
-
 

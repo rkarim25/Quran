@@ -117,11 +117,5 @@ Only a Being which has these powers is worthy of being worship لَوْ كَان
 
 Had there been other gods besides Allah in the heavens or the earth, both realms would have surely been corrupted. So Glorified is Allah, Rabb of the Throne, far above what they claim.
 
-## AI Tafsir
-
-**What this ayah teaches:** Glorified be Allah, the Lord of the Throne, (High is He) above all that (evil) they associate with Him (22)He cannot be questioned as to what He does, while they will be questioned .
-
-**Classical tafsir:** Ibn Kathir notes: The argument of common nature is that if there were two Gods, each independent and sovereign, then the commands of both would prevail on the earth and in the sky which is not possible, because it is inconceivable that both of them would have common views on all matters.
 ## Personal Reflections
-
 

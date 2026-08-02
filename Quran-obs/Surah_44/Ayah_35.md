@@ -71,11 +71,5 @@ Abdur-Razzaq recorded that Abu Hurayrah, may Allah be pleased with him, said, "T
 
 "There is nothing beyond our first death, and we will never be resurrected.
 
-## AI Tafsir
-
-**What this ayah teaches:** Refutation of Those Who deny the Resurrection Here Allah denounces the idolators for their denial of the Resurrection and their belief that there is nothing after this life and no life or resurrection after death, which they based on the fact that their forefathers had died and had not returned.
-
-**Classical tafsir:** Ibn Kathir notes: This was brought about because the idolators denied the Resurrection.
 ## Personal Reflections
-
 

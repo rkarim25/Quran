@@ -118,11 +118,5 @@ A question that will be asked from the infidels on the Day of Judgment to repeat
 
 And We will bring forth a witness from every iman-community and ask those who commit shirk, “Show Us your proof.” Then they will come to know that the truth is with Allah alone. And whatever gods they fabricated will fail them.
 
-## AI Tafsir
-
-**What this ayah teaches:** Rebuking the Idolators This is another call by way of rebuke for those who worshipped other gods besides Allah. Commentary A question that will be asked from the infidels on the Day of Judgment to repeat what they had replied to the prophets on their invitation to truth was mentioned in an earlier verse.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

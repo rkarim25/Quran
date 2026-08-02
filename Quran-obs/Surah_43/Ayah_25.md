@@ -111,13 +111,5 @@ Allah condemns the idolators for worshipping others instead of Allah with no evi
 
 So We inflicted punishment upon them. See then what was the fate of those who deny the truth!
 
-## AI Tafsir
-
-**Context:** (Or have We revealed to them an authority (a Scripture), which speaks of that which they have been associating with Him?)(30:35) meaning, that did not happen. Then Allah says:
-
-**What this ayah teaches:** Therefore, if it comes to argumentation, it is difficult for them to prove their own contention and to refute the other's arguments in a clear manner.
-
-**Classical tafsir:** Ibn Kathir notes: As such, there is consensus on this issue, but at the same time the manner of speech indicates that getting so much involved in adornment that one is busy in it the whole day long, is not proper; it is not only a symptom of one's being short-sighted, but also a cause of it.
 ## Personal Reflections
-
 

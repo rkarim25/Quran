@@ -140,11 +140,5 @@ The commonly accepted meaning of لَھو is a purposeless pastime, and this mea
 
 Had We intended to take some amusement, We could have found it in Our presence, if that had been Our Will.
 
-## AI Tafsir
-
-**What this ayah teaches:** We created not the heavens and the earth and all that is between them for play (16)Had We intended to take a pastime, We could surely have taken it from Us, if We were going to do (that)(17)Nay, We fling the truth against the falsehood, so it destroys it, and behold, it disappears.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

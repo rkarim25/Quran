@@ -176,11 +176,5 @@ Then the Holy Qur'an has pointed to different demonstrations of His power to pro
 
 No—they will soon know.
 
-## AI Tafsir
-
-**What this ayah teaches:** Nay, again, they will come to know!) This is a severe threat and a direct warning.
-
-**Classical tafsir:** Ibn Kathir notes: About which they are in disagreement.)(4.
 ## Personal Reflections
-
 

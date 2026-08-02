@@ -170,15 +170,5 @@ The word masajid could also have another sense. It could be the plural of masjad
 
 Say: No one can protect me if I disobey Allah, nor can I find refuge except with Him.
 
-## AI Tafsir
-
-**Context:** (Say: "It has been revealed to me that a group of Jinn listened.")(72:1) They were listening to the Qur'an." This is one opinion and it has been reported from Az-Zubayr bin Al-'Awwam.
-
-**What this ayah teaches:** Rather all of these things are referred to Allah.' Then he (the Prophet) says about himself that no one can save him from Allah either. This means that the idolators have no helper at all and they are fewer in number than the soldiers of Allah.
-
-**Classical tafsir:** Ibn Kathir notes: This means that the idolators have no helper at all and they are fewer in number than the soldiers of Allah.
-
-**From the Sunnah:** Al-Hasan said, "When the Messenger of Allah ﷺ stood up and said none has the right to be worshipped except Allah, and he called the people to their Lord, the Arabs almost crowded over him together (against him)." Qatadah said concerning Allah's statement,
 ## Personal Reflections
-
 

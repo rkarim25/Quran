@@ -158,13 +158,5 @@ In the verse under study, the mention of an evil end of spending wealth to stop 
 
 Those who reject the truth spend their wealth to block the path of Allah. They will keep spending until it becomes a source of regret for them. Then they will be overcome, and toward the Fire they will be driven.
 
-## AI Tafsir
-
-**Context:** Muhammad bin Ishaq narrated that Az-Zuhri, Muhammad bin Yahya bin Hibban, 'Asim bin 'Umar bin Qatadah, and Al-Husayn bin 'Abdur-Rahman bin 'Amr bin Sa'id bin Mu'adh said, "The Quraysh suffered defeat at Badr and their fo…
-
-**What this ayah teaches:** Verily, those who disbelieve spend their wealth to hinder (men) from the path of Allah, and so will they continue to spend it; but in the end it will become an anguish for them. Allah states here that the those who reject the truth spend their wealth to hinder from the path of truth.
-
-**Classical tafsir:** Ibn Kathir notes: Ad-Dahhak said that this Ayah was revealed about the idolators of Badr.
 ## Personal Reflections
-
 

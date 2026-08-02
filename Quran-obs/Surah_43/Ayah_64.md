@@ -217,13 +217,5 @@ And on the Day of Resurrection, he will be a witness against them )4:159(. This 
 
 Surely Allah alone is my Lord and your Lord, so worship Him alone. This is the Straight Path."
 
-## AI Tafsir
-
-**What this ayah teaches:** Muhammad claims that we and these gods that we worship are fuel for Hell.' 'Abdullah bin Az-Zab'ari said, 'By Allah, if I meet with him I will defeat him in argument. The misguided people who came after them took them as lords instead of Allah.
-
-**Classical tafsir:** Ibn Kathir notes: The words 'some matters' are used because some other matters were purely of mundane nature.
-
-**From the Sunnah:** Several others narrated that Ibn 'Abbas, may Allah be pleased with him, Mujahid, 'Ikrimah, As-Suddi and Ad-Dahhak said, "They laughed, i.e., they were astounded by that." Qatadah said, "They were repelled by that and they laughed." Ibrahim An-Nakha'i said, "Th… The Messenger of Allah ﷺ spoke, then An-Nadr bin Al-Harith came up to him and the Messenger of Allah ﷺ spoke to him until he ﷺ defeated him in argument.
 ## Personal Reflections
-
 

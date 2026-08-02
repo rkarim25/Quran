@@ -142,13 +142,5 @@ The addition of the phrase بقدر (In due measure) shows how feeble and utterl
 
 We send down rain from the sky in perfect measure, causing it to soak into the earth. And We are surely able to take it away.
 
-## AI Tafsir
-
-**What this ayah teaches:** Allah's Signs and Blessings in the Rain, Vegetation, Trees and Cattle Allah mentions His innumerable blessings to His servants, whereby He sends down rain in due measure, meaning, according to what is needed, not so much that it damages the lands and buildings, and not so little to be insufficient for crops and fruits, but whatever is needed for irrigation, drinking and other b…
-
-**Classical tafsir:** Ibn Kathir notes: The water brings the red soil which is used to irrigate the land of Egypt, and whatever of it is deposited is used for agriculture, because the land of Egypt is infertile, and most of it is sand.
-
-**From the Sunnah:** Abd bin Humayd recorded in his Musnad and Tafsir from 'Umar that the Messenger of Allah ﷺ said:
 ## Personal Reflections
-
 

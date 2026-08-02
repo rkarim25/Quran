@@ -288,11 +288,5 @@ In short, these two elders advised their people that they should not feel nervou
 
 Two Allah-fearing men—who had been blessed by Allah—said, “Surprise them through the gate. If you do, you will certainly prevail. Put your trust in Allah if you are those who have iman.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Musa Reminds His People of Allah's Favors on Them; The Jews Refuse to Enter the Holy Land Allah states that His servant, Messenger, to whom He spoke directly, Musa, the son of 'Imran, reminded his people that among the favors Allah granted them, is that He will give them all of the good of this life and the Hereafter, if they remain on the righteous and straight path.
-
-**Classical tafsir:** Ibn Kathir notes: It was also said that the Ayah reads in a way that means that these men were respected and honored by their people.
 ## Personal Reflections
-
 

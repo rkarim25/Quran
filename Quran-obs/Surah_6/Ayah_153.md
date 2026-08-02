@@ -264,13 +264,5 @@ Finally, at all these three places, the word used was: وَصِیَّہ ; (wasiy
 
 Indeed, that is My Path—perfectly straight. So follow it and do not follow other ways, for they will lead you away from His Way. This is what He has commanded you, so perhaps you will be conscious.”
 
-## AI Tafsir
-
-**What this ayah teaches:** It means: 'when you have come to know that the religion of Islam is My path, and that alone is the straight path, you have before you the only path headed towards the desired destination, therefore, this is the path you shall follow.
-
-**Classical tafsir:** Ibn Kathir notes: It means: 'when you have come to know that the religion of Islam is My path, and that alone is the straight path, you have before you the only path headed towards the desired destination, therefore, this is the path you shall follow.
-
-**From the Sunnah:** this Hadith and said; "Its chain is Sahih, but they did not record it." (al-Mustadrak) this Hadith. (Musnad Ahmad, Sunan Ibn Majah)
 ## Personal Reflections
-
 

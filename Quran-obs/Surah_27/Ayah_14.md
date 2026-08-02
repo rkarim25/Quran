@@ -187,13 +187,5 @@ The miracle of the staff of Sayyidna Musa (علیہ السلام) was mentioned 
 
 And, although their hearts were convinced the signs were true, they still denied them wrongfully and arrogantly. See then what was the end of the corruptors!
 
-## AI Tafsir
-
-**What this ayah teaches:** Musa and the End of Fir'awn Here Allah tells His Messenger Muhammad ﷺ about what happened to Musa, peace be upon him, how Allah chose him, spoke with him and gave him mighty, dazzling signs and overwhelming proof, and sent him to Fir'awn and his people, but they denied the proof, disbelieved in him and arrogantly refused to follow him.
-
-**Classical tafsir:** Ibn Kathir notes: Then He commanded him to throw down the stick that was in his hand, so that He might show him clear proof that He is the One Who is able to do all things, whatever He wills.
-
-**From the Sunnah:** But If the exception is regarded adjoining with the subject, then the meaning of the verse would be that Allah's messengers do not get frightened except those who have committed some trifle or minor mistake and have repented on that.
 ## Personal Reflections
-
 

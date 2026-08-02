@@ -122,15 +122,5 @@ Lastly, while referring to the absolute power and wisdom of Allah Almighty, vers
 
 These opening letters—known as the muqatta'at—are among the signs whose full meaning Allah kept with Himself. They open the surah by reminding the reader that this Book is from beyond human authorship: approach it with humility, not arrogance.
 
-## AI Tafsir
-
-**Essence** Alif-Lam-Mim: opening letters set at the threshold of the surah, their full meaning kept with Allah, declaring that what follows is sent down from Him and not authored by any human hand.
-
-**What it teaches** These are the muqatta'at, the disconnected letters that open the surah. Ibn Kathir does not unpack them here; he refers their explanation back to the opening of Surat Al-Baqarah, where the scholars' views are set out, and he turns instead to the ayat joined to them — noting that they hold Allah's Greatest Name. The letters thus open the Book on a note of awe: their sense rests with Allah, and the reader is drawn straight to His declaration of Oneness.
-
-**The scholars** Ibn Kathir reports that Surah Al-'Imran was revealed in Al-Madinah, the first eighty-three ayat relating to the delegation from Najran that arrived in the ninth year of Hijrah; he refers the explanation of Alif-Lam-Mim back to the opening of Surat Al-Baqarah, and observes that Allah's Greatest Name is contained in the two ayat joined to these letters — "Allah! None has the right to be worshipped but He, the Ever Living (Al-Hayy), the One Who sustains and protects all that exists (Al-Qayyum)." Maarif ul Quran explains that these opening verses establish tawhid, the Oneness of Allah, the basic dividing line between belief and disbelief: it traces the "golden chain" of some one hundred and twenty-four thousand prophets — from Adam, Nuh, Ibrahim and Musa to 'Isa and finally Muhammad al-Mustafa (peace be upon him) — who, though born centuries apart in different lands and tongues with no means of contact, all subscribed to the same principle of tawhid, the one call to worship Allah alone.
-
-**Reflection** What Allah kept with Himself, leave with Him in trust; what He made plain — His sole right to be worshipped — let it claim your heart at once, before the first command is read.
 ## Personal Reflections
-
 

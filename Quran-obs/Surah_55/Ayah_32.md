@@ -102,13 +102,5 @@ Then the verse says, 'Soon We are going to spare Ourselves for you' The verb س�
 
 So which of your Rabb's favours will you both—humans and jinn—deny?
 
-## AI Tafsir
-
-**What this ayah teaches:** We shall attend to you, O Thaqalan (31)Then which of the blessings of your Lord will you both deny (32)O assembly of Jinn and men! Thus the word ath-haqalan [ the dual form ] denotes 'the two heavy or weighty things', and signifies 'the men' and 'the Jinn' as the context shows.
-
-**Classical tafsir:** Ibn Kathir notes: Mujahid said, "Molten brass poured over their heads." Qatadah held the same view. In Arabic, the word thaqal refers to anything the weight or value of which is well-known.
-
-**From the Sunnah:** The end result of the Tradition is that after the Prophet ﷺ there are two things that will serve to guide and set aright the Muslims: [ 1] the Book of Allah; and [ 2] the example of the blessed Companions in all their mutual dealings and transactions.
 ## Personal Reflections
-
 

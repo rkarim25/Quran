@@ -197,15 +197,5 @@ As for the reports attributed to some revered Sufis, that they listened to 'ghin
 
 where they will remain forever. Allah's promise is true. He is the Almighty, All-Wise.
 
-## AI Tafsir
-
-**Context:** This verse was revealed because of a particular event relating to Nadr Ibn Harith. He was one of the top businessmen from among the Mushriks of Makkah who used to travel to different countries in connection with his busi…
-
-**What this ayah teaches:** And as for those who disbelieve, there is heaviness (deafness) in their ears, and it is blindness for them)(41:44).
-
-**Classical tafsir:** Ibn Kathir notes: They started listening to his stories eagerly simply because they contained no lessons to learn and no work to do.
-
-**From the Sunnah:** Imam al-Bukhari in his book, al-'Adab al-Mufrad, and al-Baihaqi in his Sunan have both elected to go by this Tafsfr. (Sahih al-Bukhari) It also carries an equally detailed discussion on music and musical instruments in the light of the Qur'an and Hadith along with the sayings of Muslim jurists and mystics. (Sahih Muslim)
 ## Personal Reflections
-
 

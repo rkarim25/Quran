@@ -152,13 +152,5 @@ The first oath, in the beginning of the Surah, is by the sky and tariq. The word
 
 and what will make you realize what the nightly star is?
 
-## AI Tafsir
-
-**What this ayah teaches:** And what will make you to know what At-Tariq is?)(3.
-
-**Classical tafsir:** Ibn Kathir notes: Some of the commentators say that najm refers to the Pleiades or Saturn, and they quote specimens of Arabic speech to confirm their argument.
-
-**From the Sunnah:** At the inception, he was created from various elements collected from throughout the world, and Allah's Power transformed them into a human being who is able to listen and see.
 ## Personal Reflections
-
 

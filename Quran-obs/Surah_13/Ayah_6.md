@@ -175,11 +175,5 @@ After that it was said that there is no doubt that your Lord is, de-spite the si
 
 They ask you to hurry punishment rather than mercy, though many communities before them already met their fate. Your Rabb is full of forgiveness for people despite their wrongdoing—and truly severe in punishment.
 
-## AI Tafsir
-
-**What this ayah teaches:** And that My torment is indeed the most painful torment.)[15:49-50] There are many other Ayat that mention both fear and hope.
-
-**Classical tafsir:** Ibn Kathir notes: If this (the Qur'an) is indeed the truth from You.)[8:32] They were such rebellious, stubborn those who reject the truth that they asked the Messenger to bring them Allah's torment.
 ## Personal Reflections
-
 

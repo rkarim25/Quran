@@ -111,11 +111,5 @@ This is the end of the Tafsir of Surat Al-Mursalat, and all praise and thanks ar
 
 They will be told, 'Eat and drink happily for what you used to do.'
 
-## AI Tafsir
-
-**What this ayah teaches:** There is no discrepancy between the two verses, because there will be various stages on the Plain of Gathering (Mahshar) through which people will have to pass.
-
-**Classical tafsir:** Ibn Kathir notes: There is no discrepancy between the two verses, because there will be various stages on the Plain of Gathering (Mahshar) through which people will have to pass.
 ## Personal Reflections
-
 

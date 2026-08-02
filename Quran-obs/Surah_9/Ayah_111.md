@@ -244,15 +244,5 @@ The sage, Hasan al-Basri (رح) said, ` Behold, what a profitable business is th
 
 Allah has indeed purchased from those who have iman their lives and wealth in exchange for Paradise. They fight in the cause of Allah and kill or are killed. This is a true promise binding on Him in the Torah, the Gospel, and the Quran. And whose promise is truer than Allah’s? So rejoice in the exchange you have made with Him. That is the ultimate triumph.
 
-## AI Tafsir
-
-**Context:** As explained by the majority of commentators, these verses were revealed about the participants of Bai'atul-'Aqabah (the pledge of allegiance to the Holy Prophet ﷺ at al-'Aqabah) which was taken from the Ansar of Madinah…
-
-**What this ayah teaches:** It is a promise in truth which is binding on Him in the Tawrah and the Injil and the Qur'an.
-
-**Classical tafsir:** Ibn Kathir notes: Here, it refers to the 'Aqabah that forms a part of the mountain along the Jamratu al-'Aqabah (the stone pillar of 'Aqabah) in Mina.
-
-**From the Sunnah:** By that time, the number of Muslims in Madinah had increased to more than forty. In the present sentence, Muslims were told that they had struck a good deal which will bring blessings for them.
 ## Personal Reflections
-
 

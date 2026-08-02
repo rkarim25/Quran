@@ -123,13 +123,5 @@ This proves that these brothers of Sayyidna Yusuf (علیہ السلام) were n
 
 Kill Joseph or cast him out to some distant land so that our father’s attention will be only ours, then after that you may repent and become righteous people!”
 
-## AI Tafsir
-
-**What this ayah teaches:** Really, our father is in a plain error.
-
-**Classical tafsir:** Ibn Kathir notes: As-Suddi said that his name was Yahudha (Judah).
-
-**From the Sunnah:** May Allah forgive them, and indeed, He is the ar-Rahim among those who have mercy, for they intended to carry out a "grave error." Ibn Abi Hatim collected this statement, from the route of Salamah bin Al-Fadl from Muhammad bin Ishaq. Such sins, according to the Muslim consensus, cannot be committed by the noble prophets, may peace be upon them all, even before they are ordained to be one. (Sahih Muslim)
 ## Personal Reflections
-
 

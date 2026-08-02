@@ -184,11 +184,5 @@ Thus far the punishment of disbelievers was depicted. As opposed to this, the re
 
 Gardens and vineyards,
 
-## AI Tafsir
-
-**What this ayah teaches:** It is mentioned here to emphasize the fact that its occurrence has become close, because everything that is coming will certainly come to pass.
-
-**Classical tafsir:** Ibn Kathir notes: He explains that He is the ar-Rahman, Whose mercy covers all things.
 ## Personal Reflections
-
 

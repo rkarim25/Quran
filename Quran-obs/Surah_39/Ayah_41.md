@@ -169,15 +169,5 @@ In verse 36, it was said: وَيُخَوِّفُونَكَ بِالَّذِين�
 
 Surely We have revealed to you the Book with the truth for humanity. So whoever chooses to be guided, it is for their own good. And whoever chooses to stray, it is only to their own loss. You are not a keeper over them.
 
-## AI Tafsir
-
-**Context:** In the first verse (36), it was said: أَلَيْسَ اللَّـهُ بِكَافٍ عَبْدَهُ (Is Allah not sufficient for (the protection of) His slave?). This verse was revealed in the background of an event.
-
-**What this ayah teaches:** This verse gives a guideline good enough for all of them: Is Allah Ta’ ala not sufficient to protect you?
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** This indicates that they [the souls] meet in the higher realm, as was stated in the Hadith attributed to the Prophet ﷺ which was narrated by Ibn Mandah and others.
 ## Personal Reflections
-
 

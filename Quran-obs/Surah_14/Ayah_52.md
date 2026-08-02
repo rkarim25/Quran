@@ -127,11 +127,5 @@ Finally, in the last verse (52), it was made clear that the description of condi
 
 This Quran is sufficient message for humanity—that they may take warning, know there is only One worthy of worship, and that people of reason may live with taqwa.
 
-## AI Tafsir
-
-**What this ayah teaches:** In verses 50 and 51 towards the end, given there is the state in which the people of Jahannam will find themselves.
-
-**Classical tafsir:** Ibn Kathir notes: This (Qur'an) is a Message for mankind (and a clear proof against them), in order that they may be warned thereby, and that they may know that He is the only One Allah and that men of understanding may take heed .
 ## Personal Reflections
-
 

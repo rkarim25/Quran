@@ -138,11 +138,5 @@ On the Day of Resurrection every one - believers, infidels, the blessed and the 
 
 By your Rabb, We will gather them with the devils, then set them around Hell on their knees.
 
-## AI Tafsir
-
-**What this ayah teaches:** First, that on the Day of Judgment every infidel will be brought before Allah along with his own devil, and this suggests that this is a reference to the gathering of infidels and their devils. But if it is interpreted in a general sense to include all believers and infidels then the meaning of the devils being gathered with all of them would be that while the infidels will be gathered with their de…
-
-**Classical tafsir:** Ibn Kathir notes: This means that He, the Exalted, created the human being while he was nothing.
 ## Personal Reflections
-
 

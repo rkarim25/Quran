@@ -134,13 +134,5 @@ In the second Verse (31), the Holy Prophet ﷺ has been asked: (Though, the disb
 
 They set up rivals to Allah to mislead from His path. Say: "Enjoy yourselves briefly. Your destination is the Fire."
 
-## AI Tafsir
-
-**What this ayah teaches:** But certainly, your destination is the (Hell) Fire!
-
-**Classical tafsir:** Ibn Kathir notes: And then unto Us will be their return, then We shall make them taste the severest torment because they used to disbelieve.)[10:70]
-
-**From the Sunnah:** Ibn Al-Kawwa' asked 'Ali about Allah's statement,
 ## Personal Reflections
-
 

@@ -207,11 +207,5 @@ Allah tells us that man never gets bored of asking his Lord for good things, suc
 
 If We let them taste mercy from Us after adversity, they will say, "This is what I deserve. I do not think the Hour will ever come. And if I am returned to my Lord, the finest reward will definitely be mine." But We will surely inform them of what they used to do and make them taste harsh torment.
 
-## AI Tafsir
-
-**What this ayah teaches:** But when We have removed his harm from him, he passes on as if he had never invoked Us for a harm that touched him!)(10:12) Therefore ` ajamiyy is a person who is non-Arab, even though he may speak eloquently, and a'jamiyy is a person who cannot speak eloquently (Qurtubi).
-
-**Classical tafsir:** Ibn Kathir notes: Therefore ` ajamiyy is a person who is non-Arab, even though he may speak eloquently, and a'jamiyy is a person who cannot speak eloquently (Qurtubi).
 ## Personal Reflections
-
 

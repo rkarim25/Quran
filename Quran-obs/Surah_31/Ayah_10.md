@@ -185,11 +185,5 @@ No matter what the option, the verse does point out to the particular sign of th
 
 He created the heavens without visible pillars and set firm mountains on the earth so it does not shake beneath you, scattering every kind of creature through it. We send rain from the sky and cause every fine plant to grow on earth.
 
-## AI Tafsir
-
-**What this ayah teaches:** When pillars are not seen, it is clear that this great roof of the sky has been erected without pillars.
-
-**Classical tafsir:** Ibn Kathir notes: Proofs of Tawhid Thus Allah explains His mighty power in creating the heavens and the earth, and everything that is within them and between them.
 ## Personal Reflections
-
 

@@ -111,13 +111,5 @@ The word: حُسبانا - (husbana) in verse 40 has been explained by Qatadah a
 
 Or its water may sink into the earth, and then you will never be able to seek it out.”
 
-## AI Tafsir
-
-**What this ayah teaches:** The Response of the Poor Believer Allah tells us how the rich man's believing companion replied to him, warning and rebuking him for his disbelief in Allah and allowing himself to be deceived.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** It was reported in the Sahih from Abu Musa that the Messenger of Allah ﷺ said:
 ## Personal Reflections
-
 

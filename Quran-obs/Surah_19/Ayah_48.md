@@ -165,13 +165,5 @@ On the one hand Sayyidna Khalilullah (علیہ السلام) went to the extreme
 
 As I leave you and what you invoke besides Allah, I will call upon my Rabb alone, trusting I will never be disappointed in calling upon Him."
 
-## AI Tafsir
-
-**What this ayah teaches:** And I shall call upon my Lord, and I certainly hope that I shall not be unblessed in my invocation to my Lord. For verily, he (Ibrahim) is the leader of the Prophets other than Muhammad ﷺ.
-
-**Classical tafsir:** Ibn Kathir notes: Then Allah explains that Ibrahim abandoned this statement and retracted it.
-
-**From the Sunnah:** Forgive me and my parents, and (all) the believers on the Day when the reckoning will be established.)[14:41] From this tradition, during the beginning stages of Islam, the Muslims used to seek forgiveness for their relatives and their family members who were…
 ## Personal Reflections
-
 

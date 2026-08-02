@@ -374,17 +374,5 @@ Verse 102 says: "They could not thus do any harm to anyone, except with the perm
 
 If they had believed and lived with taqwa, a better reward from Allah would have awaited them — if only they knew.
 
-## AI Tafsir
-
-**Essence** Had they chosen faith and taqwa over sorcery, the reward kept with Allah would have far outweighed the wretched price for which they sold their souls.
-
-**What it teaches** Iman and taqwa earn a mathubah — "a reward from Allah." One small conditional — law, "if only" — holds the door they refused to walk through.
-
-**The scholars** Ibn Kathir: belief in Allah and His Messenger ﷺ and avoidance of the prohibitions would have brought a reward none attain, as in 28:80, "except As-Sabirun (the patient)." Maarif ul Quran: the Jews knew magic was sin and kufr yet practiced it; the verse affirms they "knew," then negates it — knowledge unacted upon "is no better than ignorance."
-
-**From the Sunnah** "Whoever came to a soothsayer or a sorcerer and believed in what he said, will have disbelieved in what Allah revealed to Muhammad ﷺ." — Abu Bakr Al-Bazzar, from 'Abdullah (in Ibn Kathir).
-
-**Reflection** Let what you know of Allah govern what you choose — knowledge unlived is ignorance.
 ## Personal Reflections
-
 

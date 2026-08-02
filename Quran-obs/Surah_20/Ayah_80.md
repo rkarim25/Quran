@@ -135,11 +135,5 @@ Then, Allah made a covenant with Musa and the Children of Israel on the right si
 
 O Children of Israel! We saved you from your enemy, and made an appointment with you on the right side of Mount Ṭûr, and sent down to you manna and quails,.
 
-## AI Tafsir
-
-**What this ayah teaches:** We delivered you from your enemy, and We made a covenant with you on the right side of the Mount, and We sent down to you manna and quail (80)(Saying) eat of the Tayyibat wherewith We have provided you, and commit no transgression or oppression therein, lest My anger should justly descend on you.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

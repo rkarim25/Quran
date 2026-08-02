@@ -128,15 +128,5 @@ Regarding what has been said in this verse: ` those who aimed for worldly life a
 
 Whoever desires only this this dunya — this temporary worldly life and its luxuries, We will pay them in full for their deeds in this life—nothing will be left out.
 
-## AI Tafsir
-
-**Context:** Anas bin Malik and Al-Hasan both said, "This verse was revealed concerning the Jews and the Christians." Mujahid and others said, "This verse was revealed concerning the people who perform deeds to be seen." Qatadah said…
-
-**What this ayah teaches:** For them, nothing is cut short in Dunya.
-
-**Classical tafsir:** Ibn Kathir notes: Some commentators have said that it refers to Muslims who, through their good deeds, aim to acquire only the comfort, wealth and recognition from this worldly life.
-
-**From the Sunnah:** It is interesting that, in our time too, there are a lot of unaware Muslims who seem to be suffering from the same doubt. Is this verse related to kafirs or Muslims or to both Muslims and kafirs?
 ## Personal Reflections
-
 

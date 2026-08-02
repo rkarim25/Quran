@@ -133,15 +133,5 @@ It appears in Hadith narrations that, subsequent to the revelation of this verse
 
 Had it not been for a prior decree from Allah, a severe punishment would have touched you for what you took in ransom.
 
-## AI Tafsir
-
-**Context:** What is this writ and what does it mean? According to a narration from Sayyidna Abu Hurairah ؓ reported in Tirmidhi, the Holy Prophet ﷺ said: Spoils were not lawful for any community before you.
-
-**What this ayah teaches:** Certainly, Allah is Oft-Forgiving, ar-Rahim .
-
-**Classical tafsir:** Ibn Kathir notes: In his Sunan, Imam Abu Dawud recorded that Ibn 'Abbas said that the Messenger of Allah ﷺ fixed four hundred (Dirhams) in ransom from the people of Jahiliyyah in the aftermath of Badr.
-
-**From the Sunnah:** Cut off their necks,' but the Prophet ﷺ turned away from him. Umar again stood up and said, 'O Allah's Messenger!
 ## Personal Reflections
-
 

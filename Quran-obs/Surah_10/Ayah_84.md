@@ -122,13 +122,5 @@ Another basharah (good news) of this world unfolds in the form that Muslims at l
 
 Moses said, “O my people! If you do believe in Allah and submit to His Will, then put your trust in Him.”
 
-## AI Tafsir
-
-**What this ayah teaches:** If you have believed in Allah, then put your trust in Him if you are Muslims. If you have believed in Allah, then put your trust in Him if you are Muslims.) Allah is sufficient for those who put their trust in Him.
-
-**Classical tafsir:** Ibn Kathir notes: Make us not a trial for the folk who are wrongdoers.) This means don't give them victory over us so that they rule us.
-
-**From the Sunnah:** If you have believed in Allah, then put your trust in Him if you are Muslims. If you have believed in Allah, then put your trust in Him if you are Muslims.) Allah is sufficient for those who put their trust in Him.
 ## Personal Reflections
-
 

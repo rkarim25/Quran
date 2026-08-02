@@ -185,15 +185,5 @@ Here we see that the Holy Prophet ﷺ has been asked to pray for those who give 
 
 Take from their wealth charity to purify and bless them, and pray for them—surely your prayer is a source of comfort for them. And Allah is All-Hearing, All-Knowing.
 
-## AI Tafsir
-
-**Context:** The imperative: خُذْ مِنْ أَمْوَالِهِمْ صَدَقَةً : "Take out of their wealth a Sadaqah (obligatory alms) " in the second verse (103) has its background.
-
-**What this ayah teaches:** But, the injunction of the verse of prayer is universal.
-
-**Classical tafsir:** Ibn Kathir notes: When this happened, they presented their entire wealth as a token of their gratitude so that it could be given out as Sadaqah.
-
-**From the Sunnah:** Allah commanded His Messenger ﷺ to take Sadaqah from the Muslims' money to purify and sanctify them with it. According to them, even if the same particular event is taken to be the cause of the revelation in this verse, still then, in terms of the Qur'anic principle, this injunction shall re-main general - and shall remain binding on Muslims right through the day of…
 ## Personal Reflections
-
 

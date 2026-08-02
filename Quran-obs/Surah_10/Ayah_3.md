@@ -230,15 +230,5 @@ This brings us to the next statement: يُدَبِّرُ‌ الْأَمْرَ�
 
 Surely your Rabb is Allah who created the heavens and earth in six days, then settled upon the Throne, conducting every affair. None can intercede except by His permission. That is Allah—your Rabb, so worship Him alone. Will you not then live with taqwa?
 
-## AI Tafsir
-
-**Context:** Ad-Darawardi narrated from Sa'd bin Ishaq bin Ka'b bin 'Ujrah that he said: "When this Ayah was revealed,
-
-**What this ayah teaches:** So, up to this point, the third verse has told us that Allah Ta` ala created the heavens and the earth and the whole system of the universe in six days, and ` after that He took a position on the Throne'. It was said in this verse that Allah Ta'ala has created the heavens and the earth in six days.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, intended here is the measure of time utilized in between sunrise and sunset.
-
-**From the Sunnah:** The ` Aqidah (belief) of the majority of the ` Ulama of the Muslim Ummah is that one believes these words to be true in their place, and believes what Allah Ta` ala means by them is correct, and believes that the concern to know about its nature and reality sh… (Sahih Muslim)
 ## Personal Reflections
-
 

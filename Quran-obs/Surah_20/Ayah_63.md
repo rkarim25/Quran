@@ -130,11 +130,5 @@ The word مُثْلَىٰ is the feminine of which means "most excellent". The m
 
 They concluded, “These two are only magicians who want to drive you out of your land with their magic, and do away with your most cherished traditions.
 
-## AI Tafsir
-
-**What this ayah teaches:** Their object is to drive you out from your land with magic, and to take you away from your exemplary way. And surely, he who invents a lie (against Allah) will fail miserably.") (62 Then they debated one with another what they must do, and they kept their talk secret (61)They said: "Verily, these are two magicians.
-
-**Classical tafsir:** Ibn Kathir notes: Invent not a lie against Allah...") This means, "Do not make an illusion before the people of something that is not real, making it appear as if it were a creature, when it is not really a creature.
 ## Personal Reflections
-
 

@@ -156,11 +156,5 @@ The Holy Prophet ﷺ was asked from where the Hell be brought forward? He replie
 
 And what will make you realize what Sijjin is?
 
-## AI Tafsir
-
-**What this ayah teaches:** And what will make you know what Sijjin is?) and it is full of hardship and misery.
-
-**Classical tafsir:** Ibn Kathir notes: Truly, the Record of the wicked is in Sijjin.) meaning, that their final destination and their abode will be in Sijjin, which is derived from the word prison (Sijn), and here it means straitened circumstances.
 ## Personal Reflections
-
 

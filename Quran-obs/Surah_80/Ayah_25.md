@@ -188,11 +188,5 @@ Having mentioned in the preceding verses the beginning and the end of human life
 
 how We pour down rain in abundance,
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, Allah has decreed the existence of mankind, and its duration, therefore, when that is finished with Allah, He resurrects the creatures and repeats their creation just as He initially created them. Then many different kinds of grain, fruits and gardens come into existence.
-
-**Classical tafsir:** Ibn Kathir notes: Verily, Allah has decreed the existence of mankind, and its duration, therefore, when that is finished with Allah, He resurrects the creatures and repeats their creation just as He initially created them.
 ## Personal Reflections
-
 

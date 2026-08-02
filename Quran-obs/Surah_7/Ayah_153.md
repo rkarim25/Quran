@@ -118,11 +118,5 @@ The verse 153 speaks of the people who repented to Allah for their sin after the
 
 But those who commit evil, then repent and become those who have iman, your Rabb will certainly be All-Forgiving, Most-Merciful.
 
-## AI Tafsir
-
-**What this ayah teaches:** Thus do We recompense those who invent lies (152)But those who committed evil deeds and then repented afterwards and believed, verily, your Lord after (all) that is indeed Oft-Forgiving, ar-Rahim .
-
-**Classical tafsir:** Ibn Kathir notes: The 'wrath' mentioned here that struck the Children of Israel because of their worshipping the calf, means, Allah did not accept their repentance until some of them [who did not worship the calf] killed others [who worshipped the calf].
 ## Personal Reflections
-
 

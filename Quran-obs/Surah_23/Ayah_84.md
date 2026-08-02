@@ -155,11 +155,5 @@ It has been mentioned earlier that the Holy Prophet ﷺ had prayed to Allah to p
 
 Ask them, O Prophet, “To whom belong the earth and all those on it, if you really know?”
 
-## AI Tafsir
-
-**What this ayah teaches:** And He protects, while against Whom there is no protector, if you know? He tells His Messenger Muhammad ﷺ to say to the idolators who worship others besides Him, even though they admit His Lordship, that He has no partner in Lordship.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

@@ -106,11 +106,5 @@ What is apparent here is that real merit does lie in praying in the first row - 
 
 Remember, O Prophet when your Rabb said to the angels, “I am going to create a human being from sounding clay moulded from black mud.
 
-## AI Tafsir
-
-**What this ayah teaches:** The creation of Adam, the Command to the Angels to prostrate to Him, and the Rebellion of Iblis Allah informs us of how He mentioned Adam to His angels before He created him, and how He honored him by commanding the angels to prostrate to him. He mentions how His enemy Iblis, amidst all the angels, refused to prostrate to him out of envy, disbelief, stubbornness, arrogance, and false pride.
-
-**Classical tafsir:** Ibn Kathir notes: They can be accommodated all in one because the all-encompassing knowledge of Allah Ta` ala covers all kinds of people 'who go ahead' or 'remain behind.' In his Tafsir, Al-Qurtubi has said that this verse indicates the merit of performing Salah in the first row, and soon after th…
 ## Personal Reflections
-
 

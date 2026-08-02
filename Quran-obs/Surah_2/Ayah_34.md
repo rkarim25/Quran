@@ -143,17 +143,5 @@ Given that the Holy Qur'an itself speaks of prostration as a mark of respect, on
 
 When We told the angels, "Prostrate before Adam," they all did — except Iblis, who refused, acted arrogantly, and became among those who reject.
 
-## AI Tafsir
-
-**Essence** Allah honored Adam with the angels' prostration; Iblis refused — "the first error ever committed was arrogance" (Qatadah).
-
-**What it teaches** Qatadah: "The obedience was for Allah and the prostration was before Adam" — honor, not worship; a courtesy of earlier Shari'ahs, forbidden in ours to seal every door to shirk (Maarif ul Quran). Iblis's kufr lay not in mere sin but in arrogantly rejecting and objecting to Allah's command.
-
-**The scholars** Ibn Kathir: Iblis was no angel but of the jinn (18:50), bound by the command for imitating the angels — though Ibn 'Abbas's report places him among them as 'Azazil, devoted and learned, until that rank bred arrogance. Qatadah: he envied Adam — "I was created from fire, and he was created from clay."
-
-**From the Sunnah** "No person who has the weight of a mustard seed of arrogance in his heart shall enter Paradise." (the Sahih, per Ibn Kathir) And refusing Mu'adh's prostration: "If I was to command any human to prostrate before another human, I would command the wife to prostrate before her husband…"
-
-**Reflection** Be vain about nothing — not knowledge, not deeds, not even iman — one seed of pride cast him whom reports call "The Peacock Among the Angels" out of Allah's mercy.
 ## Personal Reflections
-
 

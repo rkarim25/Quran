@@ -163,13 +163,5 @@ In the first three verses of this Surah, reference was made to Allah's particula
 
 And so He may punish hypocrite men and women and those who commit shirk—giving devotion owed to Allah alone to other powers—men and women who think evil thoughts about Allah. Ill fate is theirs. Allah is displeased with them, has condemned them, and prepared Hell for them—an evil destination.
 
-## AI Tafsir
-
-**What this ayah teaches:** And to Allah belong the armies of the heavens and the earth, and Allah is Ever All-Knower, All-Wise (4)That He may admit the believing men and the believing women to Gardens under which rivers flow to abide therein forever, and He may expiate from them their sins; and that is with Allah supreme success (5)And that He may punish the hypocrites men and women, and also the idolato…
-
-**Classical tafsir:** Ibn Kathir notes: These favours were generously bestowed upon them because of faith in, and obedience to, the Holy Prophet ﷺ .
-
-**From the Sunnah:** Al-Bukhari, and other Imams, relied on this Ayah as proof that faith increases and decreases in the hearts. (Sahih al-Bukhari)
 ## Personal Reflections
-
 

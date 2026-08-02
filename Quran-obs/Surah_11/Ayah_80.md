@@ -103,13 +103,5 @@ During this episode, as reported from Sayyidna ` Abdullah ibn ` Abbas ؓ when th
 
 He responded, “If only I had the strength to resist you or could rely on a strong supporter.”
 
-## AI Tafsir
-
-**What this ayah teaches:** They also told him that his people would not be able to reach him (with any harm). They shall not reach you!) They commanded him to travel with his family during the last part of night and that he should follow them from behind.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** protection of some strong group. (Sahih al-Bukhari, Jami' at-Tirmidhi)
 ## Personal Reflections
-
 

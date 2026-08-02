@@ -103,13 +103,5 @@ In verse 56, it was said: إِن فِي صُدُورِ‌هِمْ إِلَّا �
 
 Those blind to the truth and those who can see are not equal, nor are those who believe and do good equal to those who do evil. Yet you are hardly mindful.
 
-## AI Tafsir
-
-**What this ayah teaches:** Little do you remember!) The blind man who cannot see anything is not the same as the sighted man who can see everything as far as his eyesight reaches – there is a huge difference between them.
-
-**Classical tafsir:** Ibn Kathir notes: It means that people who quarrel in the matter of the verses of Allah without having any valid argument really look forward to rejecting this faith simply because their hearts are filled with pride and arrogance.
-
-**From the Sunnah:** They would like to stay ahead in the game and are so dim-witted that they have taken for granted that they have this position of strength as a result of their staunch adherence to their faith, and if they were to surrender this stance by becoming Muslims, they…
 ## Personal Reflections
-
 

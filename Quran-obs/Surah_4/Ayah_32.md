@@ -203,13 +203,5 @@ The giving of a share on the basis of a pledge mentioned at the end of verse 33 
 
 And do not crave what Allah has given some of you over others. Men will be rewarded according to their deeds and women according to theirs. Rather, ask Allah for His bounties. Surely Allah has knowledge of all things.
 
-## AI Tafsir
-
-**Context:** A woman asked the Holy Prophet ﷺ 'A man gets a double share in the inheritance and the witness of a woman is half as compared with a man - does that mean that we shall be getting a half reward for all of our acts of wors…
-
-**What this ayah teaches:** Striving to excel others in good deeds is different There are verses of the Holy Qur'an and the sayings of the noble Prophet ﷺ which exhort people to excel each other in good deeds.
-
-**Classical tafsir:** Ibn Kathir notes: Inheriting through pledge The giving of a share on the basis of a pledge mentioned at the end of verse 33 refers to a practice during the initial period of Islam.
 ## Personal Reflections
-
 

@@ -236,13 +236,5 @@ By mentioning the blessings of Allah on Sayyidna Ibrahim (علیہ السلام)
 
 Ishmael, Elisha, Jonah, and Lot, favouring each over other people.
 
-## AI Tafsir
-
-**Context:** (And indeed it has been revealed to you, as it was to those (Allah's Messengers) before you: "If you join others in worship with Allah, surely your deeds will be in vain.")[39:65]
-
-**What this ayah teaches:** Certainly, one becomes jubilant and joyous when he becomes a grandfather, because this means that his offspring will continue to exist. This was a reward for Ibrahim who left his people and migrated from their land so that he could worship Allah alone.
-
-**Classical tafsir:** Ibn Kathir notes: Certainly, one becomes jubilant and joyous when he becomes a grandfather, because this means that his offspring will continue to exist.
 ## Personal Reflections
-
 

@@ -98,11 +98,5 @@ In verse 177, it was said: فَإِذَا نَزَلَ بِسَاحَتِهِم�
 
 You will see, and they too will see!
 
-## AI Tafsir
-
-**What this ayah teaches:** Therefore, simply due to this temporary ascendancy, neither can we call that robber an authority, nor that authority a subject.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, simply due to this temporary ascendancy, neither can we call that robber an authority, nor that authority a subject.
 ## Personal Reflections
-
 

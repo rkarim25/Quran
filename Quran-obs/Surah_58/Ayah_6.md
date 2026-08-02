@@ -143,13 +143,5 @@ Imam Ahmad commented, "Allah began the Ayah (58:7) by mentioning His knowledge a
 
 On the Day when Allah resurrects them all, He will inform them of what they did. Allah has kept a full record while they have forgotten much of it. He is Witness over everything.
 
-## AI Tafsir
-
-**What this ayah teaches:** However, they are all recorded and kept safely with Allah, even though the humans have done the actions and forgotten them. Allah has kept account of it, while they have forgotten it.
-
-**Classical tafsir:** Ibn Kathir notes: And Our messengers are by them to record.)(43:80) For this reason, several mentioned that there is a consensus among the scholars that this "with" refers to Allah's knowledge.
-
-**From the Sunnah:** Imam Ahmad commented, "Allah began the Ayah (58:7) by mentioning His knowledge and ended it by mentioning His knowledge." (Musnad Ahmad)
 ## Personal Reflections
-
 

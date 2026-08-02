@@ -147,11 +147,5 @@ According to a narration of Sayyidna Abu Hurairah ؓ عنہ appearing in the Taf
 
 So when her husband saw that Joseph’s shirt was torn from the back, he said to her, “This must be an example of the cunning of you women! Indeed, your cunning is so shrewd!
 
-## AI Tafsir
-
-**What this ayah teaches:** Then he said that great is the guile of women for it is difficult to understand and not easy to get out from.
-
-**Classical tafsir:** Ibn Kathir notes: Ath-Thawri reported that Jabir said that Ibn Abi Mulaykah said that Ibn 'Abbas said, "He was from the king's entourage." Mujahid, 'Ikrimah, Al-Hasan, Qatadah, As-Suddi, Muhammad bin Ishaq and others also said that the witness was an adult male.
 ## Personal Reflections
-
 

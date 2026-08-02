@@ -145,13 +145,5 @@ In verse 64, it was said: وَصَوَّرَ‌كُمْ فَأَحْسَنَ ص�
 
 He is the Ever-Living. There is no deity worthy of worship except Him. So call upon Him with sincere devotion, saying: "All praise is for Allah—Rabb of all that exists."
 
-## AI Tafsir
-
-**What this ayah teaches:** That is Allah, your Lord, so Blessed be Allah, the Lord of all that exists (64)He is the Ever Living, La ilaha illa Huwa; so invoke Him making the religion for Him Alone.
-
-**Classical tafsir:** Ibn Kathir notes: Signs of the Power and Oneness of Allah Allah reminds us of His grace towards His creation in that He has given them the night in which they rest and relax from their activities so that they can go back to them for their livelihood during the day.
-
-**From the Sunnah:** that after ending every prayer, 'Abdullah bin Az-Zubayr used to say: (Musnad Ahmad) He said, "The Messenger of Allah ﷺ used to say the Tahlil in this fashion after every prayer." Similar was also recorded by Muslim, Abu Dawud and An-Nasa'i. (Sahih Muslim, Sunan Abi Dawud)
 ## Personal Reflections
-
 

@@ -272,13 +272,5 @@ Birth control, whose many forms are invented today, is also termed by the Holy P
 
 for what crime they were killed,
 
-## AI Tafsir
-
-**What this ayah teaches:** The verse, therefore, signifies that on the Day of Reckoning, even those criminals will be exposed and hauled up in the Divine Court of Justice against whom there was no evidence, nor was there anyone who could stand up on their behalf to demand justice. Therefore, on the Day of Judgement, the female infant will be asked what sin she committed that caused here to be murdered.
-
-**Classical tafsir:** Ibn Kathir notes: We have neglected nothing in the Book, then unto their Lord they shall be gathered.)(6:38) Ibn 'Abbas said, "Everything will be gathered, even the flies." This statement was recorded by Ibn Abi Hatim.
-
-**From the Sunnah:** Likewise, if a person strikes on the stomach of a pregnant woman which causes the baby to abort, then, according to the common consent of the Muslim jurists, it would be incumbent upon him to set free a slave or pay its price in…
 ## Personal Reflections
-
 

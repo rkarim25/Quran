@@ -127,13 +127,5 @@ In verse وَإِن مَّا نُرِ‌يَنَّكَ بَعْضَ الَّذِ
 
 Those before them plotted secretly, but Allah has the ultimate plan. He knows what every soul earns. Those who reject the truth will soon know who has the good end.
 
-## AI Tafsir
-
-**What this ayah teaches:** He knows what every person earns, and the those who reject the truth will know who gets the good end (final destination).
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** ` For your peace of heart, even this much is enough that you are continuously witnessing that We are causing the lands of the dis-believers to keep being sliced off their sides,' that is, these sides pass on under Muslim control whereby the land occupied by th… (Sahih Muslim)
 ## Personal Reflections
-
 

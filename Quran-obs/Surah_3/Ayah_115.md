@@ -131,19 +131,5 @@ Verse 117 declares through a similitude that disbelievers simply waste what they
 
 They will never be denied the reward for any good they have done. And Allah has knowledge of those who live with taqwa.
 
-## AI Tafsir
-
-**Essence**
-No good deed of the believer is ever wasted with Allah — He preserves and rewards it in full, for He knows those who live in taqwa.
-
-**What it teaches**
-"They will never be denied" (falan yukfaruhu) means their good deeds will not be lost or rejected with Allah; rather He awards them the best reward. The closing — "Allah is All-Knowing of al-muttaqin" — affirms that no act ever escapes His knowledge, taqwa being the God-conscious, vigilant faith of those who guard themselves by obeying Him.
-
-**The scholars**
-Ibn Kathir reports — through Muhammad bin Ishaq and al-'Awfi from Ibn 'Abbas — that this passage was revealed about the learned ones of the People of the Scripture who embraced faith, such as 'Abdullah bin Salam, Asad bin 'Ubayd, Tha'labah bin Sa'yah and Usayd bin Sa'yah; the ayah declares that those whom Allah had rebuked are not at all the same as those among them who entered Islam ("Not all of them are alike," 3:113). On 3:115, Ibn Kathir explains that their good deeds "will not be lost with Allah; rather, He will award them the best rewards," for "no deed performed by any person ever escapes His knowledge, nor is any reward for those who do good deeds ever lost with Him." By contrast, in the parable of 3:117 the disbelievers' spending is like a wind of Sir — which Ibn 'Abbas, 'Ikrimah, Sa'id bin Jubayr, Qatadah and others explained as a frigid wind, 'Ata' as "cold and snow," and Ibn 'Abbas and Mujahid also as "fire" — that strikes a ready harvest and burns it; so Allah destroys the reward of disbelievers' deeds, and they wronged only themselves. Maarif ul Quran adds that faith in Islam is the precondition for any spending to be accepted, and that — as reported in ahadith — a believer who suffers worldly loss is compensated by Allah with reward and forgiveness.
-
-**Reflection**
-Pour your effort into good without fear of loss: a God-conscious heart's smallest deed is seen, kept, and repaid in full by the All-Knowing.
 ## Personal Reflections
-
 

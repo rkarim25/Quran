@@ -157,15 +157,5 @@ And Tabarani, citing a trustworthy authority, has reported from Sayyidna Abu Ayy
 
 Then on the Day of Judgment you will all settle your dispute before your Lord.
 
-## AI Tafsir
-
-**Context:** (Yes.) He (Az-Zubayr) said, 'This is a very serious matter.'" Ahmad recorded from Az-Zubayr bin Al-'Awwam, may Allah be pleased with him, that when this Surah was revealed to the Messenger of Allah ﷺ: Ibn Abi Hatim recor…
-
-**What this ayah teaches:** But most of them know not (29)Verily, you will die, and verily, they (too) will die (30)Then, on the Day of Resurrection, you will be disputing before your Lord .
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** The fact that the Messenger of Allah ﷺ and Quraysh will die, and how They will dispute before Allah Az-Zubayr, may Allah be pleased with him, said, "By Allah, it is a very serious matter." It was also recorded by At-Tirmidhi, who said "Hasan Sahih." (Jami' at-Tirmidhi, authentic hadith)
 ## Personal Reflections
-
 

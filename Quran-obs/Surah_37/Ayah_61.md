@@ -116,13 +116,5 @@ Towards the end, the noble Qur'an turns our attention to the essential lesson em
 
 For such honour all should strive.
 
-## AI Tafsir
-
-**What this ayah teaches:** I bought it for one thousand Dinars.' He said, 'How beautiful it is.' When he went out he said, 'O Allah, this companion of mine has bought this house for one thousand Dinars; I ask You for one of the houses of Paradise – and he gave one thousand Dinars in charity.' Then as much time passed as Allah willed should pass.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** Abu Ja'far bin Jarir recorded that Furat bin Tha'labah Al-Bahrani said concerning the Ayah, Paradise – and he gave one thousand Dinars in charity.
 ## Personal Reflections
-
 

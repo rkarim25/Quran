@@ -99,13 +99,5 @@ Then Allah denounces the idolators for fabricating lies and worshipping others i
 
 ungrateful for what We gave. Enjoy awhile — soon you will know.
 
-## AI Tafsir
-
-**Context:** And when harm touches men, they cry sincerely only to their Lord, turning to Him in repentance; but when He gives them a taste of His mercy, behold, a party of them associates partners in worship with their Lord (33)So a…
-
-**What this ayah teaches:** Then enjoy; but you will come to know (34)Or have We revealed to them an authority, which speaks of that which they have been associating with Him (35)And when We cause mankind to taste of mercy, they rejoice therein; but when some evil afflicts them because of what their hands have sent forth, behold, they are in despair (36)Do they not see that Allah expands the provision for whom He wills and s…
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

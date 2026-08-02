@@ -84,13 +84,5 @@ As for the third probability, that the blessings of Jannah may remain everlastin
 
 We revealed to him this decree: “Those sinners will be uprooted in the morning.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Lut is ordered to leave with His Family during the Night Allah tells us that His angels ordered Lut to set out after part of the night had passed. The other feature of Jannah we discover is that the blessings once received there shall be eternal.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** Similarly, the Messenger of Allah ﷺ would walk in the rear of the army on military campaigns, in order to help the weak and carry those who had no means of transport.
 ## Personal Reflections
-
 

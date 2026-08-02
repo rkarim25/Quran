@@ -95,11 +95,5 @@ Here Sayyidna Musa (علیہ السلام) ended his petition, and he was reward
 
 Allah responded, “All that you requested has been granted, O Moses!
 
-## AI Tafsir
-
-**What this ayah teaches:** Therefore, with Allah having the great authority and the most perfect power, He determined that Musa would not be raised except upon Fir'awn's own bed. And I endued you with love from Me,) This means that I made your enemy love you.
-
-**Classical tafsir:** Ibn Kathir notes: And I endued you with love from Me,) This means that I made your enemy love you.
 ## Personal Reflections
-
 

@@ -180,11 +180,5 @@ When Allah Ta’ ala wills to have a nation survive and grow, He creates in them
 
 When they became oblivious to warnings, We showered them with everything they desired. But just as they became prideful of what they were given, We seized them by surprise, then they instantly fell into despair!
 
-## AI Tafsir
-
-**What this ayah teaches:** And We seized them with extreme poverty and loss of health so that they might believe with humility (42)When Our torment reached them, why then did they not believe with humility?
-
-**Classical tafsir:** Ibn Kathir notes: And We seized them with extreme poverty and loss of health so that they might believe with humility (42)When Our torment reached them, why then did they not believe with humility?
 ## Personal Reflections
-
 

@@ -99,19 +99,5 @@ In the second of these verses the progeny of Sayyidna Ya` qub (علیہ السل
 
 They say, "Be Jews or Christians and you will be guided." Say, "No — we follow the way of Abraham, upright, not among those who associate partners with Allah."
 
-## AI Tafsir
-
-**Essence**
-Guidance is not found in the labels "Jew" or "Christian," but in the pure, undistorted monotheism of Ibrahim — the *hanif* whose religion, in its present form, is Islam.
-
-**What it teaches**
-The Jews and Christians each invited the Muslims to their own faith as the path to guidance. Allah commands the Prophet (peace be upon him) to answer: rather, we follow the *millah* (religion) of Ibrahim, *hanif* — upright and inclining wholly to Allah, with no trace of *shirk* (associating partners with Allah).
-
-**The scholars**
-Ibn Kathir glosses *hanif* as being on the straight path (so Muhammad bin Ka'b al-Qurazi and 'Isa bin Jariyah), and cites Abu Qilabah: it is what all the Messengers, from first to last, believed in. Maarif ul Quran sharpens the reply: each faith was genuine for its own time, but both were later distorted and abrogated — so the Muslims need neither. Only Ibrahim's way survived untouched, because he adored none but Allah and obeyed none but Him.
-
-**Reflection**
-When someone asks what you are, the answer is not a tribe or a label that can be claimed and corrupted. It is a direction: like Ibrahim, lean your whole self toward Allah alone — and let that, not any name, be where you stand.
 ## Personal Reflections
-
 

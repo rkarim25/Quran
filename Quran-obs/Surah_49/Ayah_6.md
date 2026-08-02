@@ -212,15 +212,5 @@ Nevertheless, it is not at all necessary that in the current verse, Walid Ibn 'U
 
 O you who have iman: If someone untrustworthy brings you news, verify it first, so you do not harm people in ignorance and then regret what you did.
 
-## AI Tafsir
-
-**Context:** (And Allah is Forgiving, ar-Rahim.) It was reported that this Ayah was revealed about Al-Aqra' bin Habis At-Tamimi, may Allah be pleased with him, according to more than one source.
-
-**What this ayah teaches:** Wait until the news or information is confirmed by other independent sources.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, according to majority of scholars a statement or evidence of an ungodly person, in terms of Shari'ah, is not acceptable.
-
-**From the Sunnah:** Allah the Exalted and Most Blessed admonished those, such as the uncivilized bedouins, who used to call to the Prophet ﷺ from behind the dwellings which belong to his wives, And know that among you there is the Messenger of Allah.) 'know that among you is the Messenger of Allah ﷺ.
 ## Personal Reflections
-
 

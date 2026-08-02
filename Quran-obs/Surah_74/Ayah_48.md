@@ -144,15 +144,5 @@ Sayyidna ` Abdullah Ibn Masud 4 narrates that Allah's angels and Prophets, the m
 
 So the pleas of intercessors will not help them.
 
-## AI Tafsir
-
-**Context:** (Nay, everyone of them desires that he should be given pages spread out.) meaning, each one of these idolators wants to have a book revealed to him as Allah revealed to the Prophet ﷺ. Mujahid and others have said this.
-
-**What this ayah teaches:** This is because intercession is only useful if the conditions for it are met.
-
-**Classical tafsir:** Ibn Kathir notes: However, other narratives indicate that the correct view with regard to the verse under comment is that the unacceptability of intercession refers to those sinners who commit the four types of crimes that include the rejection of the Hereafter.
-
-**From the Sunnah:** intercede for one another, and their intercession will be accepted.
 ## Personal Reflections
-
 

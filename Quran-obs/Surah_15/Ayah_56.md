@@ -87,11 +87,5 @@ As for the third probability, that the blessings of Jannah may remain everlastin
 
 He exclaimed, “Who would despair of the mercy of their Rabb except the misguided?”
 
-## AI Tafsir
-
-**What this ayah teaches:** In fact, even a state of total rest and fun would sometimes tire a person out, no matter how enjoyable are things one is occupied with. These blessings shall never diminish nor shall anyone be expelled from there.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

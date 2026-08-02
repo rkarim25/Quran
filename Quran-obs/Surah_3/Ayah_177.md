@@ -210,13 +210,5 @@ The last verse (178) carries a refutation of the false notion about disbelievers
 
 Those who trade belief for rejection of the truth will never harm Allah in the least, and they will suffer a painful punishment.
 
-## AI Tafsir
-
-**What this ayah teaches:** And let not the those who reject the truth think that Our postponing their punishment is good for them.
-
-**Classical tafsir:** Ibn Kathir notes: This Ayah refers to Uhud, since Allah tested the believers in that battle, thus making known the faith, endurance, patience, firmness and obedience to Allah and His Messenger ﷺ that the believers had.
-
-**From the Sunnah:** Because the Prophet ﷺ was eager for people's benefit, he would become sad when the those who reject the truth would resort to defiance, rebellion and stubbornness. Allah mentions the money that the miser collected on the Day of Resurrection,
 ## Personal Reflections
-
 

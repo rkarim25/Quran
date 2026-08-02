@@ -118,11 +118,5 @@ These verses define the sacred and exalted position of the Holy Qur’ an and by
 
 And they say, “These revelations are only ancient fables which he has had written down, and they are rehearsed to him morning and evening.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Because this idea is so foolish and is so patently false, everyone knows that it is not true.
-
-**Classical tafsir:** Ibn Kathir notes: Because this idea is so foolish and is so patently false, everyone knows that it is not true.
 ## Personal Reflections
-
 

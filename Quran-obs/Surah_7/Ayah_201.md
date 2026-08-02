@@ -142,11 +142,5 @@ There is a treatment for it. When a person sees his anger getting out of control
 
 Indeed, when Satan whispers to those who live with taqwa, they remember then they start to see clearly.
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, those who have Taqwa, when an evil thought comes to them from Shaytan, they remember (Allah), and (indeed) they then see (aright)(201)But (as for) their brothers (the devils' brothers) they (the devils) plunge them deeper into error, and they never stop short .
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, in the second verse, it has been suggested that in case emotions of anger seem to be flaring up on such an occasion where your patience is under test, one should promptly figure out that this instigation is coming from the Shaitan.
 ## Personal Reflections
-
 

@@ -113,11 +113,5 @@ The Holy Qur'an is an honour and pride for the Arabs
 
 We have surely revealed to you a Book, in which there is glory for you. Will you not then understand?
 
-## AI Tafsir
-
-**What this ayah teaches:** Indeed, We have sent down for you a Book in which there is Dhikrukum.
-
-**Classical tafsir:** Ibn Kathir notes: This is also a fact of life that Arabs gained dominance over the world not because of any tribal or linguistic supremacy but because of Qur'an.
 ## Personal Reflections
-
 

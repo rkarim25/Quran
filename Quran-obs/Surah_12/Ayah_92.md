@@ -130,11 +130,5 @@ The declaration: لَا تَثْرِ‌يبَ عَلَيْكُمُ الْيَو�
 
 Joseph said, “There is no blame on you today. May Allah forgive you! He is the the Rahim of the merciful!
 
-## AI Tafsir
-
-**What this ayah teaches:** But, there are details to it, that is, there is a general return for Sadaqah and Khairat which is received by everyone, believer or those who reject the truth, right here in the present world.
-
-**Classical tafsir:** Ibn Kathir notes: The word, kanud, refers to a person who does not remember favours received, but does remember hardships faced.
 ## Personal Reflections
-
 

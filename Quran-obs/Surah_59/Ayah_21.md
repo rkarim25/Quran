@@ -240,13 +240,5 @@ This is the end of the Tafsir of Surat Al-Hashr. All praise is due to Allah.
 
 Had We sent this Quran upon a mountain, you would have seen it humbled and torn apart in awe of Allah. We set forth such comparisons so people may reflect.
 
-## AI Tafsir
-
-**What this ayah teaches:** This, it would appear, is a hypothetical example, that is 'if mountains had sense or intelligence.
-
-**Classical tafsir:** Ibn Kathir notes: In one of the narrations for this Hadith, Al-Hasan Al-Basri said after narrating the Hadith, "You – mankind – are more worthy to miss the Messenger of Allah ﷺ than the tree trunk!" Likewise, this honorable Ayah asks that if the solid mountains feel humble and are rent asunder from the fear of Allah,…
-
-**From the Sunnah:** So, when the Minbar was made and placed in the Masjid, the Prophet ﷺ came to deliver a speech and passed the tree trunk, headed towards the Minbar, the tree trunk started weeping, just like an infant.
 ## Personal Reflections
-
 

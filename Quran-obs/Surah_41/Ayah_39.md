@@ -159,11 +159,5 @@ Sayyidna ` Abdullah Ibn ` Umar ؓ has also advised prostration at this place. Ma
 
 Among His signs is that you see the earth devoid of life, but as soon as We send down rain upon it, it begins to stir and swell. The One Who revives it can easily revive the dead. He is Most Capable of everything.
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, He Who gives it life, surely is able to give life to the dead.
-
-**Classical tafsir:** Ibn Kathir notes: and He allotted their stages and gave them separate orbits in the heavens, so that by the variations in their movements man may know the stages of night and day, of weeks, months and years, and time periods related to people's rights, acts of worship and various transactions.
 ## Personal Reflections
-
 

@@ -80,13 +80,5 @@ This Ayah is general and applies to both humans and Jinns, providing proof that 
 
 In each are two flowing springs.
 
-## AI Tafsir
-
-**What this ayah teaches:** 'Atiyah said that the water of one of these springs is from non-standing water and the other from wine that gives delight to those who drink it.
-
-**Classical tafsir:** Ibn Kathir notes: This describes the first two Gardens.
-
-**From the Sunnah:** The Group, with the exception of Abu Dawud, collected this via the Hadith of 'Abdul-'Aziz. (Sunan Abi Dawud)
 ## Personal Reflections
-
 

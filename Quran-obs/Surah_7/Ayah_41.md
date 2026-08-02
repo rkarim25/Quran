@@ -122,13 +122,5 @@ Towards the end of the verse, it was said: وَلَا يَدْخُلُونَ ا�
 
 Hell will be their bed; flames will be their cover. This is how We reward the wrongdoers.
 
-## AI Tafsir
-
-**What this ayah teaches:** The purpose is to state that the punishment of Hell for them is everlasting.
-
-**Classical tafsir:** Ibn Kathir notes: Mujahid and 'Ikrimah said that Ibn 'Abbas used to recite this Ayah this way, "Until the Jummal goes through the eye of the needle", whereas 'Jummal' is a thick rope.
-
-**From the Sunnah:** 'Ata' narrated this from Ibn 'Abbas. This is a part of a long Hadith which was also recorded by Abu Dawud, An-Nasa'i and Ibn Majah. (Sunan Abi Dawud, Sunan Ibn Majah)
 ## Personal Reflections
-
 

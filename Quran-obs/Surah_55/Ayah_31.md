@@ -103,13 +103,5 @@ Then the verse says, 'Soon We are going to spare Ourselves for you' The verb س�
 
 We will attend to you, O two weighty multitudes—humans and jinn.
 
-## AI Tafsir
-
-**What this ayah teaches:** For example, one would say, "I will attend to you," even when one is not busy with anything else.
-
-**Classical tafsir:** Ibn Kathir notes: Mujahid said, "Molten brass poured over their heads." Qatadah held the same view. In Arabic, the word thaqal refers to anything the weight or value of which is well-known.
-
-**From the Sunnah:** The end result of the Tradition is that after the Prophet ﷺ there are two things that will serve to guide and set aright the Muslims: [ 1] the Book of Allah; and [ 2] the example of the blessed Companions in all their mutual dealings and transactions.
 ## Personal Reflections
-
 

@@ -114,11 +114,5 @@ In the first verse (138), the hypocrites have been given the news of a painful p
 
 Give good news of a painful punishment to those living in nifaq—outward acceptance with inward rejection, who choose those who reject the truth as allies instead of those who have iman. Do they seek honour and power through that company? Surely all honour and power belongs to Allah.
 
-## AI Tafsir
-
-**Context:** Verily, those who believe, then disbelieve, then believe (again), and (again) disbelieve, and go on increasing in disbelief; Allah will not forgive them, nor guide them on the (right) way (137)Give to the hypocrites the…
-
-**What this ayah teaches:** Verily, those who believe, then disbelieve, then believe (again), and (again) disbelieve, and go on increasing in disbelief; Allah will not forgive them, nor guide them on the (right) way (137)Give to the hypocrites the tidings that there is for them a painful torment (138)Those who take those who reject the truth for friends instead of believers, do they seek honor with them?
 ## Personal Reflections
-
 

@@ -265,15 +265,5 @@ The context of the foregoing and forthcoming verses is the mention of the rules 
 
 It is up to you O Prophet to delay or receive whoever you please of your wives. There is no blame on you if you call back any of those you have set aside. That is more likely that they will be content, not grieved, and satisfied with what you offer them all. Allah fully knows what is in your hearts. And Allah is All-Knowing, Most Forbearing.
 
-## AI Tafsir
-
-**Context:** Al-Bukhari recorded that 'A'ishah said: "The Messenger of Allah ﷺ used to ask permission of us (for changing days) after this Ayah was revealed: This Hadith indicates that what is meant in this Hadith from 'A'ishah is th…
-
-**What this ayah teaches:** If you wish, you may divide you time and if you do not wish, you need not divide your time, there is no sin on you no matter which you do.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** that 'A'ishah, may Allah be pleased with her, used to feel jealous of the women who offered themselves to the Prophet ﷺ.
 ## Personal Reflections
-
 

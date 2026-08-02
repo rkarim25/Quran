@@ -232,13 +232,5 @@ From here we also learn about another rule relevant in contemporary setting. If 
 
 There are also those who set up a mosque to cause harm, promote rejection of the truth, divide those who have iman, and as a base for those who had previously fought against Allah and His Messenger. They will definitely swear, “We intended nothing but good,” but Allah bears witness that they are surely liars.
 
-## AI Tafsir
-
-**Context:** However, on his return from the battle of Tabuk, when he camped at a place close to Madinah, the verses cited above were revealed to him which had exposed the conspiracy of these hypocrites.
-
-**What this ayah teaches:** Then, to keep Muslims under deception, the hypocrites made a plan that they would have the Holy Prophet ﷺ lead a Salah in congregation at their socalled masjid so that all Muslims are convinced that this new place was also a masjid very much like the one built there earlier.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, whoever attends the prayer with us let him make perfect Wudu'.) This Hadith indicates that complete purification helps in the performance of acts of worship and aids in preserving and completing them.
 ## Personal Reflections
-
 

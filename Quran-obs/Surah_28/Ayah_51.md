@@ -159,13 +159,5 @@ It shows that an important trait of preaching carried out by the prophets was th
 
 Indeed, We have steadily delivered the Word of Allah to the people so they may be mindful.
 
-## AI Tafsir
-
-**Context:** (Verily, we have heard a Book sent down after Musa, confirming what came before it)(46:30). Waraqah bin Nawfal said, "This is An-Namus, who came down to Musa." And those who are possessed of insight know instinctively th…
-
-**What this ayah teaches:** Verily, Allah guides not the people who are wrongdoers (50)And indeed now We have conveyed the Word to them, in order that they may remember .
-
-**Classical tafsir:** Ibn Kathir notes: Verily, Allah guides not the people who are wrongdoers (50)And indeed now We have conveyed the Word to them, in order that they may remember .
 ## Personal Reflections
-
 

@@ -197,15 +197,5 @@ At the end of the verse (19), by saying: وَاللَّـهُ لَا يَهْد�
 
 Do you consider providing the pilgrims with water and maintaining the Sacred Mosque as equal to believing in Allah and the Last Day and struggling in the cause of Allah? They are not equal in Allah’s sight. And Allah does not guide the wrongdoing people.
 
-## AI Tafsir
-
-**Context:** Ali bin Abi Talhah reported that Ibn 'Abbas said, "This Ayah was revealed about Al-'Abbas bin 'Abdul-Muttalib, for when he was captured in the battle of Badr, he said, 'If you rushed before us to embrace Islam, perform H…
-
-**What this ayah teaches:** They are not equal in the sight of Allah -19) Seen contextually, the purpose is to urge that each one from 'Iman and Jihad is superior to the serving of water to pilgrims and the maintenance of the Mosque, that is, 'Iman too is superior to both, and Jihad too.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, no Mushrik is superior to Muslims because of his association with the maintenance of the Mosque or the serving of water to pilgrims.
-
-**From the Sunnah:** They used to talk about this by night while shunning the Qur'an and the Prophet ﷺ.
 ## Personal Reflections
-
 

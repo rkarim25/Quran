@@ -149,13 +149,5 @@ Then Allah denounces the idolators for fabricating lies and worshipping others i
 
 When hardship touches people, they call to their Rabb alone. When He gives a taste of mercy, some associate others with their Rabb again,
 
-## AI Tafsir
-
-**Context:** And when harm touches men, they cry sincerely only to their Lord, turning to Him in repentance; but when He gives them a taste of His mercy, behold, a party of them associates partners in worship with their Lord (33)So a…
-
-**What this ayah teaches:** A group of people following a leader is called shi ah.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

@@ -251,11 +251,5 @@ In the matter of light, the infidels are not mentioned anywhere, because in thei
 
 On that Day hypocrite men and women will say to the mu'min: Wait for us so we may borrow some of your light. They will be told: Go back and seek light elsewhere. Then a wall with a gate will be set between them. Inside are Allah's mercy; outside, His punishment.
 
-## AI Tafsir
-
-**What this ayah teaches:** Special Note In the matter of light, the infidels are not mentioned anywhere, because in their case there is no question of having such a light.
-
-**Classical tafsir:** Ibn Kathir notes: Inside it will be mercy, and outside it will be torment.) Al-Hasan and Qatadah said that the wall mentioned here is located between Paradise and Hellfire.
 ## Personal Reflections
-
 

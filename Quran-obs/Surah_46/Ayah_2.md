@@ -136,13 +136,5 @@ Ends here
 
 This Book is revealed by Allah—the Almighty in power, the All-Wise in every decree and detail.
 
-## AI Tafsir
-
-**Context:** (But those who disbelieve, turn away from that of which they are warned.) Meaning, the those who reject the truth are distracted from what is intended for them. Allah has indeed revealed to them a Book and sent to them a Messenger.
-
-**What this ayah teaches:** The revelation of the Book is from Allah, the Almighty, the All-Wise.)(3.
-
-**Classical tafsir:** Ibn Kathir notes: The word kitab, according to most commentators, refers to ` book of record' which the angels have been writing in the world.
 ## Personal Reflections
-
 

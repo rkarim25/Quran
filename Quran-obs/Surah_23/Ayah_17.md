@@ -106,13 +106,5 @@ And We sent down water from the sky in due measure, then We lodged it in the ear
 
 And indeed, We created above you seven levels of heaven. We are never unmindful of Our creation.
 
-## AI Tafsir
-
-**What this ayah teaches:** No heaven is hidden from Him by another and no earth is hidden from Him by another.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** A similar Ayah appears at the beginning of Surat As-Sajdah, which the Messenger of Allah ﷺ used to recite on Friday mornings.
 ## Personal Reflections
-
 

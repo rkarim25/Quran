@@ -196,15 +196,5 @@ Ibn Abi Hatim related from his father that Farwah bin Abi Al-Maghra' told them t
 
 From such people We accept the best of what they did and overlook their lapses—among the people of Paradise, in fulfilment of the true promise made to them.
 
-## AI Tafsir
-
-**Context:** (And We have enjoined on man to be dutiful and kind to his parents.)(46:15) meaning, 'We have commanded him to treat them well and show compassion towards them.
-
-**What this ayah teaches:** Grant me the power and ability that I may be grateful for Your favor which You have bestowed upon me and upon my parents, and that I may do righteous good deeds, such as please You, and make my offspring good. Many of their errors will be forgiven and Allah will accept from them a modest amount of deeds.
-
-**Classical tafsir:** Ibn Kathir notes: This is my son without any doubt.' Later on, Allah afflicted him with a skin abscess in his face (because of his false accusation to his wife).
-
-**From the Sunnah:** Truly, I have turned to You in repentance, and truly, I am one of the Muslims.
 ## Personal Reflections
-
 

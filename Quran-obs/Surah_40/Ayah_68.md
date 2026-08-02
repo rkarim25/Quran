@@ -100,11 +100,5 @@ In verse 64, it was said: وَصَوَّرَ‌كُمْ فَأَحْسَنَ ص�
 
 He is the One who gives life and causes death. When He decrees a matter, He simply says to it, "Be!" and it is.
 
-## AI Tafsir
-
-**What this ayah teaches:** And when He decides upon a thing He says to it only: "Be!" - and it is .
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

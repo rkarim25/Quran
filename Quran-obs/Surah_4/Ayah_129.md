@@ -231,13 +231,5 @@ Though surprising, Allah Almighty has Himself phrased these very two verses with
 
 You will never be able to maintain justice between your wives—no matter how keen you are. So do not totally incline towards one leaving the other in suspense. And if you do what is right and live with taqwa, surely Allah is All-Forgiving, the Rahim.
 
-## AI Tafsir
-
-**Context:** (And if a woman fears cruelty or desertion on her husband's part), that it refers to, "A man who is married to an old woman, and he does not desire her and wants to divorce her.
-
-**What this ayah teaches:** The veneer of the words in verse 3 of Surah al-Nis-a' gave' the impression that maintaining equity between wives was ark absolute obligation which, obviously, includes equity in emotional inclination while this is something not in one's control.
-
-**Classical tafsir:** Ibn Kathir notes: 'Ali bin Abi Talhah related that Ibn 'Abbas said that the Ayah refers to, "When the husband gives his wife the choice between staying with him or leaving him, as this is better than the husband preferring other wives to her." However, the apparent wording of the Ayah refers to the settlement where t… This leads us to realize that the inability to maintain equality pointed out in this verse…
 ## Personal Reflections
-
 

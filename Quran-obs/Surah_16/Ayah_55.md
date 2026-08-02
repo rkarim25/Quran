@@ -87,11 +87,5 @@ First of all, by using the word: رَبّ (Rabb: Lord) here, the hint given is t
 
 only returning Our favours with ingratitude. So enjoy yourselves, for you will soon know.
 
-## AI Tafsir
-
-**What this ayah teaches:** So they are ungrateful for that which We have given them!)(16:54-55) It was said that the Lam here (translated as "So") is an indicator of sequence, or that it serves an explanatory function, meaning, 'We decreed that they would conceal the truth and deny the blessings that Allah has bestowed upon them. Then enjoy yourselves but you will soon come to know .
-
-**Classical tafsir:** Ibn Kathir notes: It was also reported that Ibn 'Abbas said, "It means obligatory." Mujahid said: "It means purely for Him," i.e., worship is due to Him Alone, from whoever is in the heavens and on earth.
 ## Personal Reflections
-
 

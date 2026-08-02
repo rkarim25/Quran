@@ -124,11 +124,5 @@ The word: حُسبانا - (husbana) in verse 40 has been explained by Qatadah a
 
 And he had no manpower to help him against Allah, nor could he even help himself.
 
-## AI Tafsir
-
-**What this ayah teaches:** He (Allah) is the best for reward and the best for the final end . What is meant is that what this those who reject the truth was afraid of and what the believer had terrified him actually had happened.
-
-**Classical tafsir:** Ibn Kathir notes: He (Allah) is the best for reward and the best for the final end .
 ## Personal Reflections
-
 

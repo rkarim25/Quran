@@ -142,11 +142,5 @@ That is, 'I have made my decision which will certainly be implemented: it will n
 
 My Word is not changed, and I am never unjust to My creation.
 
-## AI Tafsir
-
-**What this ayah teaches:** I did not push him to transgression, but he was himself in error far astray. I did not push him to transgression,) meaning, the devil will say this about the human who came on the Day of Resurrection as a those who reject the truth.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

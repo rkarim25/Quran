@@ -232,11 +232,5 @@ These three different wishes could belong to different people, and it is also po
 
 Or say, upon seeing the torment, 'If only I had a second chance, I would have been one of the good-doers.'
 
-## AI Tafsir
-
-**What this ayah teaches:** Or he should say when he sees the torment: "If only I had another chance, then I should indeed be among the doers of good.") means, he will wish that he could go back to this world, so that he could do righteous deeds.
-
-**Classical tafsir:** Ibn Kathir notes: Or he should say when he sees the torment: "If only I had another chance, then I should indeed be among the doers of good.") means, he will wish that he could go back to this world, so that he could do righteous deeds.
 ## Personal Reflections
-
 

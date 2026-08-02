@@ -259,31 +259,5 @@ The last verse (30) says that 'Allah warns you of Himself lest you should indulg
 
 Those who have iman should not take those who reject the truth as guardians instead of those who have iman—and whoever does so will have nothing to hope for from Allah—unless it is a precaution against their tyranny. And Allah warns you about Himself. And to Allah is the final return.
 
-## AI Tafsir
-
-**Essence**
-
-A believer's deepest loyalty and the love of the heart belong to Allah and to the faithful, never to those who reject Him — save the narrow license to shield oneself outwardly when one fears danger from them.
-
-**What it teaches**
-
-The ayah forbids the believers from taking disbelievers as awliya' — intimate protecting-friends and patrons — in place of the believers. Whoever does so, the verse says, "will never be helped by Allah in any way"; such a person, Ibn Kathir explains, "Allah will discard him." The sole exception is tuqah (precaution): when one fears a danger from them, friendliness may be shown outwardly but never inwardly. Allah then "warns you against Himself" — cautioning of His punishment — and "to Allah is the final return."
-
-**The scholars**
-
-Ibn Kathir gathers the Qur'an's parallel commands (al-Mumtahinah 60:1; al-Nisa' 4:144; al-Ma'idah 5:51) to show how consistently Allah forbids allying with His enemies against His friends. On "Allah warns you against Himself" he says this warns of "His anger and the severe torment He prepared for those who give their support to His enemies, and those who have enmity with His friends." On the exception he cites al-Hasan: "The Tuqyah is allowed until the Day of Resurrection."
-
-Maarif ul Quran resolves the apparent tension between this prohibition and Islam's famed kindness to non-Muslims by distinguishing four degrees of relationship: Muwalat (heartfelt intimate friendship) — restricted to true believers and forbidden with disbelievers; Muwasat (sympathy, charity, kindness) — permitted with all but those at war; Mudarat (courteous, cordial conduct) — permitted, especially to convey the faith, honour a guest, or stay safe from harm, and this is the very meaning of the ayah's exception; and Mu'amalat (business and dealings) — permitted unless they harm the Muslims. Maarif illustrates the permitted degrees with the Prophet's (peace be upon him) mercy — feeding his Makkan enemies in famine and pardoning them at the Conquest with "no blame upon you this day" — and 'Umar's stipends to needy dhimmis; none of this is the forbidden Muwalat. What is barred is the love of the heart given to those who oppose life's true purpose: the worship of Allah.
-
-**From the Sunnah**
-
-Al-Bukhari recorded that under such precaution outward cordiality may mask the heart's distance: Abu Ad-Darda' said, "We smile in the face of some people although our hearts curse them." (Al-Bukhari)
-
-Faith is completed only when love and hatred are governed by Allah: "Whoever loves for the sake of Allah and hates for the sake of Allah alone, has perfected his faith" — which is why intimate friendship is reserved for those devoted to the same purpose. (Bukhari and Muslim)
-
-**Reflection**
-
-Be generous, courteous, and just with everyone — yet the heart's allegiance is known to Allah alone, who warns that no concealment escapes Him. Keep that innermost loyalty fixed on Him and on those who walk toward Him.
 ## Personal Reflections
-
 

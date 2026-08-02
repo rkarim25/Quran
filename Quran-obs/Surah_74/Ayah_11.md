@@ -158,13 +158,5 @@ Having given these few injunctions to the Holy Prophet, the verses further refer
 
 Leave to Me the one I created alone,
 
-## AI Tafsir
-
-**Context:** "Al-Walid bin Al-Mughirah entered the house of Abu Bakr bin Abi Quhafah and asked him about the Qur'an. When Abu Bakr informed him about it, he left and went to the Quraysh saying, 'What a great thing this is that Ibn Ab…
-
-**What this ayah teaches:** Leave Me alone (to deal) with whom I created lonely (11)And then granted him resources in abundance (12)And children attending (13)And made life smooth and comfortable for him (14)After all that he desires that I should give more (15)Nay! The word naqur means 'trumpet' and the verb nuqira means 'to blow into the trumpet so that it makes a loud high sound'.
-
-**Classical tafsir:** Ibn Kathir notes: Ibn Abbas and Mujahid said that they were ten. The word naqur means 'trumpet' and the verb nuqira means 'to blow into the trumpet so that it makes a loud high sound'.
 ## Personal Reflections
-
 

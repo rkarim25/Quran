@@ -126,13 +126,5 @@ The context of the story shows that this person, after having found out the inte
 
 Then after that will come seven years of great hardship which will consume whatever you have saved, except the little you will store for seed.
 
-## AI Tafsir
-
-**What this ayah teaches:** Since, seen in the dream was that seven lean cows ate up the seven fat ones, therefore, while giving his interpretation of the dream, he considered it appropriate to say that the years of the famine will eat up what they had stored over the past years.
-
-**Classical tafsir:** Ibn Kathir notes: Stay away from extravagance, so that you use what remains of the harvest during the seven years of drought that will follow the seven fertile years.' This was represented by the seven lean cows that eat the seven fat cows.
-
-**From the Sunnah:** During the seven years of drought, they will eat from the harvest they collected during the seven fertile years, as represented by the dry ears of corn in the dream.
 ## Personal Reflections
-
 

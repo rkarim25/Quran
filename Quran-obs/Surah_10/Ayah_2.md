@@ -197,13 +197,5 @@ Some commentators have said: Through the introduction of the word sidq at this p
 
 Is it astonishing to people that We have sent revelation to a man from among themselves, instructing him, “Warn humanity and give good news to the believers that they will have an honourable status with their Rabb — the One who creates, owns, nurtures, and sustains.”? Yet those who reject the truth said, “Indeed, this man is clearly a magician!”
 
-## AI Tafsir
-
-**What this ayah teaches:** Therefore, the sentence means: 0 Proph-et, give believers the good news that they will have a perfect place with their Lord, an asset that is certain and lasting. Is it a wonder for mankind that We have sent Our revelation to a man from among themselves (saying): "Warn mankind, and give good news to those who believe that they shall have with their Lord the rewards of their good deeds?" (But) the…
-
-**Classical tafsir:** Ibn Kathir notes: The second verse refers to a doubt expressed by the Mushriks, and provides its answer.
-
-**From the Sunnah:** These are the verses of the Book (the Qur'an) Al-Hakim.)(2. (al-Mustadrak)
 ## Personal Reflections
-
 

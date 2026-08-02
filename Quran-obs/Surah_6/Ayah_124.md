@@ -298,15 +298,5 @@ Towards the end of the verse, it was said: سَيُصِيبُ الَّذِينَ
 
 Whenever a sign comes to them, they say, “We will never believe until we receive what Allah’s messengers received.” Allah knows best where to place His message. The wicked will soon be overwhelmed by humiliation from Allah and a severe punishment for their evil plots.
 
-## AI Tafsir
-
-**Context:** They said, why was not this Qur'an revealed to a mighty, respectable leader, honored by us,
-
-**What this ayah teaches:** But they plot not except against themselves, and they perceive (it) not (123)And when there comes to them a sign they say: "We shall not believe until we receive the like of that which the Messengers of Allah received." Allah knows best with whom to entrust His Message.
-
-**Classical tafsir:** Ibn Kathir notes: This is because they, may Allah curse them, belittled the Messenger ﷺ out of envy, transgression, rebellion and defiance.
-
-**From the Sunnah:** The those who reject the truth used to call the Prophet ﷺ, before he received revelation, 'Al-Amin' – the Truthful.
 ## Personal Reflections
-
 

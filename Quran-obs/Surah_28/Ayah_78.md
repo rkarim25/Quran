@@ -165,13 +165,5 @@ However, it is more plausible in the context that the knowledge he was referring
 
 He replied, “I have been granted all this because of some knowledge I have.” Did he not know that Allah had already destroyed some from the generations before him who were far superior to him in power and greater in accumulating wealth? There will be no need for the wicked to be asked about their sins.
 
-## AI Tafsir
-
-**What this ayah teaches:** The real answer to Qarun's assertion that he had collected all his wealth by his personal skill and efforts is the one mentioned above; that even if it is accepted for a moment that he had acquired his wealth by his personal skill and knowledge, the point is that this knowledge and experience was also the gift of Allah Ta’ ala.
-
-**Classical tafsir:** Ibn Kathir notes: Some commentators are of the view that "knowledge" in this sentence refers to the understanding of Torah.
-
-**From the Sunnah:** He said: "This has been given to me only because of the knowledge I possess." Did he not know that Allah had destroyed before him generations, men who were stronger than him in might and greater in the amount they had collected?
 ## Personal Reflections
-
 

@@ -198,15 +198,5 @@ Commentary
 
 So the angels called out to him while he stood praying in the sanctuary, “Allah gives you good news of John who will confirm the Word of Allah and will be a great leader, chaste, and a prophet among the righteous.”
 
-## AI Tafsir
-
-**Essence** As Zakariyya stood praying in the sanctuary, the angels announced the answer to his secret prayer: a son, Yahya, who would confirm the Word of Allah and rise as a noble, chaste prophet among the righteous.
-
-**What it teaches** Having seen Allah miraculously sustain Maryam, the aged Zakariyya prayed in secret for "a good offspring" (dhurriyyatan tayyibah), and the angels called to him mid-prayer with glad tidings (bushra) of Yahya. Qatadah and others note he was named Yahya (literally "he lives") because Allah filled his life with faith. He would be musaddiq — confirming the Word from Allah; sayyid — noble and pious; and hasur — kept pure, all crowned by the gift of prophethood.
-
-**The scholars** Ibn Kathir explains that the angels spoke to Zakariyya directly while he stood secluded in worship, and that "the Word from Allah" he would confirm is 'Isa son of Maryam — reported from Ibn 'Abbas, al-Hasan, Qatadah, 'Ikrimah, Mujahid, Abu ash-Sha'tha, as-Suddi, Ar-Rabi' bin Anas, ad-Dahhak and others; Maarif adds that 'Isa is called "a word of Allah" because he was created by Allah's command alone, without a father. On sayyid the salaf give complementary shades: a wise man (Abu al-'Aliyah, Ar-Rabi' bin Anas, Qatadah, Sa'id bin Jubayr); "the noble, wise and pious" (Ibn 'Abbas, ath-Thawri, ad-Dahhak); the scholar and faqih (Sa'id bin al-Musayyib); one noble in behavior and piety ('Atiyah); one not overcome by anger ('Ikrimah); the noble man (Ibn Zayd); and honored by Allah (Mujahid). On hasur the two tafsirs differ in emphasis: Ibn Kathir holds it does not mean Yahya shunned marriage but that he was immune from unlawful relations — reading Zakariyya's prayer for "a good offspring" as a plea for a son who would himself have offspring; Maarif takes it further, as abstaining even from lawful enjoyments — good food, fine dress, married life — and notes that although such abstinence is praised here, the ahadith establish the higher merit of marriage for whoever is able, so this path suits only one wholly absorbed in the Hereafter like Yahya. Ibn Kathir adds that "a prophet among the righteous" is glad tidings even greater than the birth itself, since it promised Yahya would be raised as a prophet.
-
-**Reflection** Pour out your deepest need to Allah in secret and keep standing in prayer — the All-Hearer answers even what seems impossible.
 ## Personal Reflections
-
 

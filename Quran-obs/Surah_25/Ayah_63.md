@@ -161,11 +161,5 @@ The third characteristic
 
 The true servants of the Rahman — mercy encompassing all creation in this life — walk the earth humbly, and when the foolish address them improperly, they respond with peace.
 
-## AI Tafsir
-
-**What this ayah teaches:** The Holy Qur’ an has awarded the title of ` Ibad-ur-Rabman to such special servants of Allah Ta’ ala, which is indeed the highest honour.
-
-**Classical tafsir:** Ibn Kathir notes: Now, at the end of the Surah it refers to those special servants of His who firmly believe in the Holy Prophet's prophethood and their beliefs, deeds and dealings are all in conformity with the will of Allah and His messenger and who follow the Shari` ah.
 ## Personal Reflections
-
 

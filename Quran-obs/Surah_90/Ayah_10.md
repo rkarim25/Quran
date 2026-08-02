@@ -304,13 +304,5 @@ In sum, an ignoramus and heedless person, who denies the power of the Omnipotent
 
 And shown them the two paths—the clear ways of right and wrong?
 
-## AI Tafsir
-
-**What this ayah teaches:** He has been shown the two ways of good and evil; and of right and wrong so that he may choose between the two. And shown him the two ways?) Swearing by the Sanctity of Makkah and Other Things that Man was created in Hardship Here Allah has sworn by Makkah, the Mother of the Towns, addressing its resident (during the non-sacred months,) free in this city in order to draw his attention to the signif…
-
-**Classical tafsir:** Ibn Kathir notes: Al-Hasan Al-Basri said, "Allah made it lawful (to fight in) for him (the Prophet ﷺ) for one hour of a day." The meaning of what they have said was mentioned in a Hadith that is agreed-upon as being authentic.
-
-**From the Sunnah:** Al-Hasan Al-Basri said, "Allah made it lawful (to fight in) for him (the Prophet ﷺ) for one hour of a day." The meaning of what they have said was mentioned in a Hadith that is agreed-upon as being…
 ## Personal Reflections
-
 

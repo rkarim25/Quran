@@ -181,13 +181,5 @@ Sayyidna Ibn ` Abbas says that the two 'shanks' refer to the two worlds: the Her
 
 No—when the soul reaches the collarbone at death,
 
-## AI Tafsir
-
-**What this ayah teaches:** When one shank is entwined with the other, he realizes that it is the final moments of his parting.
-
-**Classical tafsir:** Ibn Kathir notes: This means, 'you deserve to strut like this while you have disbelieved in your Creator and Maker.' This is what is commonly said in this type of situation in order to mock and intimidate (someone).
-
-**From the Sunnah:** this to Abu Jahl, then Allah, the Mighty and Sublime, revealed this Ayah.'
 ## Personal Reflections
-
 

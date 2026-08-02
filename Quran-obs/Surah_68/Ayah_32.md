@@ -166,11 +166,5 @@ Imam Baghawi reports from Sayyidna ` Abdullah Ibn Masud ؓ that, according to hi
 
 We trust our Lord will give us a better garden than this—we are turning to Him with hope.
 
-## AI Tafsir
-
-**What this ayah teaches:** Truly, we hope in our Lord.) It has been said, "They were hoping for something better in exchange in this life." It has also been said, "They were hoping for its reward in the abode of the Hereafter." And Allah knows best. On the basis of this repentance they hoped that Allah will give them in exchange a garden better than the one destroyed.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

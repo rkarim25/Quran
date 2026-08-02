@@ -162,13 +162,5 @@ Injunction [ 1]
 
 rise and warn everyone.
 
-## AI Tafsir
-
-**What this ayah teaches:** The command fa-andhir (and warn) comes from the infinitive indhar (warning) which is based on love and affection', such as a father's warning his children against the dangers of a snake, scorpion or fire. 'Nadhir' means 'the one who affectionately and endearingly warns [ people ] against harmful things' and 'Bashir' refers to 'the one who gives glad tidings'.
-
-**Classical tafsir:** Ibn Kathir notes: 'Nadhir' means 'the one who affectionately and endearingly warns [ people ] against harmful things' and 'Bashir' refers to 'the one who gives glad tidings'.
-
-**From the Sunnah:** It has been confirmed in the Sahih Al-Bukhari and Sahih Muslim on the authority of Abu Salamah that Jabir bin 'Abdullah informed him that he heard the Messenger of Allah ﷺ speaking about the time period (of the pause in) revelation.
 ## Personal Reflections
-
 

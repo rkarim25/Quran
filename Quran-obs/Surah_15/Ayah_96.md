@@ -154,13 +154,5 @@ This event provides a guideline in matters of Tabligh and Da'wah. In places and 
 
 who set up other gods with Allah. They will soon come to know.
 
-## AI Tafsir
-
-**Context:** Therefore proclaim that which you commanded." Mujahid said, It is reciting the Qur'an aloud during prayer." Abu 'Ubaydah reported that 'Abdullah bin Mas'ud said, "The Prophet ﷺ was still practicing and preaching Islam se…
-
-**What this ayah teaches:** Therefore openly proclaim what you have been commanded, and turn away from the idolators (94)Truly, We will suffice you against the mockers (95)Who make another Allah along with Allah; but they will come to know (96)Indeed, We know that your breast becomes tight because of what they say (97)So glorify the praises of your Lord and be of those who prostrate themselves (to Him)(98)And worship your Lord…
-
-**Classical tafsir:** Ibn Kathir notes: Do not fear them because Allah will suffice you against them, and He will protect you from them.
 ## Personal Reflections
-
 

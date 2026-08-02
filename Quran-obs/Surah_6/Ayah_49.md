@@ -130,11 +130,5 @@ In the last verse (45), it was said that, when the mass punishment of Allah Ta` 
 
 But those who deny Our signs will be afflicted with punishment for their rebelliousness.
 
-## AI Tafsir
-
-**What this ayah teaches:** In the last verse (45), it was said that, when the mass punishment of Allah Ta` ala came, the people who did wrong were uprooted to the last man.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

@@ -258,17 +258,5 @@ Anyhow, there are, beside this particular verse, several other verses cited earl
 
 Guard yourselves against the Day when you will be returned to Allah. Then every soul will be paid in full for what it earned, and none will be wronged.
 
-## AI Tafsir
-
-**Essence** Live in awe of the Day you will be returned to Allah, when every soul is paid in full for what it earned and no one is wronged in the least.
-
-**What it teaches** The ayah commands taqwa — a watchful, protective fear of Allah rooted in remembering that He sees all you do — by fixing the heart on the Day of Return (the Resurrection), when each nafs (soul) is given tuwaffa: paid out fully and exactly for what it kasabat (earned and acquired through its own choices, for which it is justly held to account), with perfect justice so that "they shall not be dealt with unjustly."
-
-**The scholars** Ibn Kathir notes this verse caps the long passage on riba: having warned that unrepentant riba invites "war from Allah and His Messenger," Allah closes by reminding His servants that this life and all its wealth will soon vanish, the Hereafter will surely come, and He will hold His creation accountable, "rewarding them or punishing them accordingly." Maarif ul Quran summarizes it as fearing "a day on which all of you will be assembled before Allah when everyone will be fully and equitably recompensed for his deeds." Both Ibn Kathir (citing Ibn 'Abbas through An-Nasa'i, Ad-Dahhak, and Al-'Awfi) and Maarif report that this was the last ayah of the Qur'an revealed in order; Maarif further relates that the Prophet ﷺ departed this world thirty-one days later, with other reports saying nine. That the believer's final guidance is a verse on accountability shows how central the reckoning is to faith.
-
-**From the Sunnah** A merchant who feared this Day by being lenient — giving easy terms to the well-off and time to the hard-pressed debtor — is told by Allah on the Day of Resurrection, "I Am the Most Worthy of giving easy terms. Therefore, enter Paradise," showing how one's earnings before Allah are weighed and rewarded. (Al-Bukhari, Muslim and Ibn Majah, from Hudhayfah)
-
-**Reflection** Weigh today's dealings — every dirham, every choice — by the scale of the Day you will stand before Allah, and let that awe turn you toward mercy and away from injustice.
 ## Personal Reflections
-
 

@@ -214,11 +214,5 @@ This debating style of Sayyidna Ibrahim (علیہ السلام) provides some im
 
 I have turned my face towards the One Who has originated the heavens and the earth—being upright—and I am not one of the polytheists.”
 
-## AI Tafsir
-
-**What this ayah teaches:** For this reason, he told them, he had turned to the Being that is the creator, nurturer and caretaker of all these things.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, you are in disarray and ignorance, and this fact is clear to all those who have sound reason.
 ## Personal Reflections
-
 

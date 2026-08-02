@@ -105,13 +105,5 @@ And Allah is Pure and High and He knows everything best.
 
 To Allah alone belongs the knowledge of what is hidden in the heavens and the earth. And to Him all matters are returned. So worship Him and put your trust in Him. And your Rabb is never unaware of what you do.
 
-## AI Tafsir
-
-**What this ayah teaches:** Allah, the Exalted, informs that He is the All-Knower of the unseen of the heavens and the earth and that unto Him is final return.
-
-**Classical tafsir:** Ibn Kathir notes: He explains that everyone who does a deed, He will give them their deed (reward for it) on the Day of Reckoning.
-
-**From the Sunnah:** All of them would have then become nothing but Muslims without any difference remaining between them.
 ## Personal Reflections
-
 

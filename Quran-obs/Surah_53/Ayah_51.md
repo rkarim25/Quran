@@ -130,11 +130,5 @@ Allah the Exalted said,
 
 and Thamud, sparing no one,
 
-## AI Tafsir
-
-**What this ayah teaches:** This means they are able to use it to their benefit, is this out of the completeness of His favor.
-
-**Classical tafsir:** Ibn Kathir notes: This means they are able to use it to their benefit, is this out of the completeness of His favor.
 ## Personal Reflections
-
 

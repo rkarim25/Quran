@@ -164,13 +164,5 @@ Surah Al-Buruj Ends here
 
 Those with iman who do righteous deeds will have Gardens with rivers flowing beneath—the greatest triumph.
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, those who believe and do righteous good deeds, for them will be Gardens under which rivers flow. It signifies that they will be put into Hell and will have to suffer eternal torment of the fire.
-
-**Classical tafsir:** Ibn Kathir notes: It signifies that they will be put into Hell and will have to suffer eternal torment of the fire.
-
-**From the Sunnah:** After that the fire flared up so high that it spread out wildly through the city and burned all those who were watching the fun of burning the Muslims.
 ## Personal Reflections
-
 

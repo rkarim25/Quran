@@ -159,15 +159,5 @@ Commentary
 
 These are two opposing groups that disagree about their Rabb — the One who creates, owns, nurtures, and sustains: as for those who reject the truth, garments of Fire will be cut out for them and boiling water will be poured over their heads,
 
-## AI Tafsir
-
-**Context:** (These two opponents dispute with each other about their Lord;) was revealed concerning Hamzah and his two companions, and 'Utbah and his two companions, on the day of Badr when they came forward to engage in single comb…
-
-**What this ayah teaches:** With it will melt (or vanish away) what is within their bellies, as well as (their) skins.) meaning, when the boiling water – which is water that has been heated to the ultimate degree – is poured down over their heads.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** This is the wording of Al-Bukhari in his Tafsir of this Ayah.
 ## Personal Reflections
-
 

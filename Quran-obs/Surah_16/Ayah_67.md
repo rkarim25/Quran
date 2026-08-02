@@ -135,13 +135,5 @@ These verses are Makki by consensus. As for the unlawfulness of liquor, it came 
 
 And from the fruits of palm trees and grapevines you derive intoxicants as well as wholesome provision. Surely in this is a sign for those who understand.
 
-## AI Tafsir
-
-**What this ayah teaches:** We have made a drink for you out of what is in its belly, from between excretions and blood, pure milk; palatable to the drinkers (66)And from the fruits of date palms and grapes, you derive strong drink and a goodly provision. After that it was said that human beings do make things from some fruits of the date-palms and grape-vines as well, which serve them as food, and other benefits.
-
-**Classical tafsir:** Ibn Kathir notes: It also indicates that strong drink (i.e., intoxicating drink) derived from dates is the same as strong drink derived from grapes.
-
-**From the Sunnah:** Though liquor was lawful at the time of the revelation of this verse and Muslims used to drink openly, yet, even at that time, a hint was given in this verse towards the fact that drinking of liquor was not good.
 ## Personal Reflections
-
 

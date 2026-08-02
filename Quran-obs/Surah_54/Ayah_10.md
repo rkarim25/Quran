@@ -152,11 +152,5 @@ The Story of the People of Nuh (علیہ السلام) and the Lesson Learnt fro
 
 He cried to his Rabb: I am overcome—help me!
 
-## AI Tafsir
-
-**What this ayah teaches:** The word wazdujira literally denotes 'he was rebuked'. But the sky's gates were opened on them that day, and therefore, the water that came down was not from clouds.
-
-**Classical tafsir:** Ibn Kathir notes: The word wazdujira literally denotes 'he was rebuked'.
 ## Personal Reflections
-
 

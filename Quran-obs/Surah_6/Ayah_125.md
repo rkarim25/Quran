@@ -218,13 +218,5 @@ At the end of the verse it was said: كَذَٰلِكَ يَجْعَلُ الل�
 
 Whoever Allah wills to guide, He opens their heart to Islam. But whoever He wills to leave astray, He makes their chest tight and constricted as if they were climbing up into the sky. This is how Allah dooms those who reject the truth.
 
-## AI Tafsir
-
-**Context:** Hakim in al-Mustadrak and Baihaqi in Shu'ab al-'Iman report from Sayyidna ` Abdullah ibn Masud ؓ : When this verse was revealed, the Companions of the Holy Prophet ﷺ requested him to explain the meaning of Sharh al-Sadr,…
-
-**What this ayah teaches:** And whomsoever Allah wills to guide, He opens his breast to Islam; and whomsoever He wills to send astray, He makes his breast closed and constricted, as if he is climbing up to the sky.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

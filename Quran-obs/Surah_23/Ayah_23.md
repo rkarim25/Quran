@@ -110,11 +110,5 @@ In the last benefit, ships and boats are also included, because they are also us
 
 Indeed, We sent Noah to his people. He declared, “O my people! Worship Allah alone. You have no god other than Him. Will you not then fear Him?”
 
-## AI Tafsir
-
-**What this ayah teaches:** All types of mounts which are run with wheels may also be added to fulk (boats) because they render the same service. Had Allah willed, He surely could have sent down angels.
-
-**Classical tafsir:** Ibn Kathir notes: All types of mounts which are run with wheels may also be added to fulk (boats) because they render the same service.
 ## Personal Reflections
-
 

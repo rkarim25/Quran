@@ -108,13 +108,5 @@ This is the end of the Tafsir of Surat An-Najm. All praise and thanks are due to
 
 The imminent event has drawn near.
 
-## AI Tafsir
-
-**What this ayah teaches:** In other words, the Imminent Event has drawn near, referring to the Day of Resurrection.
-
-**Classical tafsir:** Ibn Kathir notes: Al-Bukhari recorded that Abu Ma'mar said that 'Abdul-Warith said that Ayyub said that 'Ikrimah said that, Ibn 'Abbas said, "The Prophet ﷺ prostrated upon reciting An-Najm and the Muslims, idolators, Jinns and mankind who were present prostrated along with him." Only Muslim collected this Hadith. Azifah is the feminine active participle from the verb azifa and it refers to the Imminent Event.
-
-**From the Sunnah:** 'Abdul-Warith said that Ayyub said that 'Ikrimah said that, Ibn 'Abbas said, "The Prophet ﷺ prostrated upon reciting An-Najm and the Muslims, idolators, Jinns and mankind who were present prostrated along with him." Only Muslim collected this Hadith. (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
-
 

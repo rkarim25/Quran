@@ -235,11 +235,5 @@ This debating style of Sayyidna Ibrahim (علیہ السلام) provides some im
 
 Then when he saw the sun shining, he said, “This must be my Rabb—it is the greatest!” But again when it set, he declared, “O my people! I totally reject whatever you associate.
 
-## AI Tafsir
-
-**What this ayah teaches:** His people thought that they are too insignificant to worship Allah directly, and this is why they turned to the worship of angels as intercessors with Allah for their provisions, gaining victory and attaining their various needs.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, you are in disarray and ignorance, and this fact is clear to all those who have sound reason.
 ## Personal Reflections
-
 

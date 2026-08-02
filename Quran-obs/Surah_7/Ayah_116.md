@@ -92,11 +92,5 @@ This verse indicates that this demonstration of their magic was just a bewitchin
 
 Moses said, “You first.” So when they did, they deceived the eyes of the people, stunned them, and made a great display of magic.
 
-## AI Tafsir
-
-**What this ayah teaches:** It was said that the wisdom behind asking them to throw first, is that - Allah knows best - the people might witness the magicians' sorcery first.
-
-**Classical tafsir:** Ibn Kathir notes: This verse indicates that this demonstration of their magic was just a bewitching of the eyes of the people which made them see the staffs and strings as snakes leaping on the ground, while the strings and the staffs did not change physically.
 ## Personal Reflections
-
 

@@ -171,11 +171,5 @@ This tells us that saying:.. بسم اللہ (bismillah: With the name of Allah)
 
 They responded, “Are you astonished by Allah’s decree? May Allah’s mercy and blessings be upon you, O people of this house. Indeed, He is Praiseworthy, All-Glorious.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Surely, He (Allah) is All-Praiseworthy, All-Glorious.) This means that He is the Most Praiseworthy in all of His actions and statements.
-
-**Classical tafsir:** Ibn Kathir notes: Surely, He (Allah) is All-Praiseworthy, All-Glorious.) This means that He is the Most Praiseworthy in all of His actions and statements.
 ## Personal Reflections
-
 

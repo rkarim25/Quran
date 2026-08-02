@@ -116,11 +116,5 @@ When Sayyidna Nuh علیہ السلام invited his people to believe, they resp
 
 that you should worship none but Allah. I truly fear for you the torment of a painful Day.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Rather, it is mandatory that it should be followed and this is the condition of every pious, intelligent person.
-
-**Classical tafsir:** Ibn Kathir notes: For verily, the truth is not to be rejected because of the lowly status of those who follow it.
 ## Personal Reflections
-
 

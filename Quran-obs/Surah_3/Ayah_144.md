@@ -285,13 +285,5 @@ Here, Muslims are being warned that the Messenger of Allah ﷺ . is going to lea
 
 Muḥammad is no more than a messenger; other messengers have gone before him. If he were to die or to be killed, would you regress into rejection of the truth? Those who do so will not harm Allah whatsoever. And Allah will reward those who are grateful.
 
-## AI Tafsir
-
-**What this ayah teaches:** Muhammad is no more than a Messenger, and indeed Messengers have passed away before him. Therefore they were addressed on their retreating away from the battlefield in a fashion similar to what it would have been, had they deserted the fold of Islam.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, the Muslims' resolve was weakened and they did not actively participate in battle.
-
-**From the Sunnah:** When Muslims suffered defeat in battle at Uhud and some of them were killed, Shaytan shouted, "Muhammad has been killed." Ibn Qami'ah went back to the idolators and claimed, "I have killed Muhammad." Some Muslims believed this rumor and thought that the Messen… This story was collected by Al-Hafiz Abu Bakr Al-Bayhaqi in Dala'il An-Nubuwwah.
 ## Personal Reflections
-
 

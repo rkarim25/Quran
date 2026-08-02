@@ -110,11 +110,5 @@ It was said in verse 7: إِنَّا جَعَلْنَا مَا عَلَى الْ
 
 We have indeed made whatever is on earth as an adornment for it, in order to test which of them is best in deeds.
 
-## AI Tafsir
-
-**What this ayah teaches:** Perhaps, you would kill yourself in grief, over their footsteps, because they believe not in this narration (6)Verily, we have made that which is on earth an adornment for it, in order that We may test which of them are best in deeds (7)And verily, We shall make all that is on it bare, dry soil .
-
-**Classical tafsir:** Ibn Kathir notes: Mujahid said: "a dry and barren plain." Qatadah said, "A plain on which there are no trees or vegetation."
 ## Personal Reflections
-
 

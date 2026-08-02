@@ -85,11 +85,5 @@ In the phrase مِّنْ أَزْوَاجِكُم the word مِّنْ (min) Min 
 
 Lot responded, “I am truly one of those who despise your shameful practice.
 
-## AI Tafsir
-
-**What this ayah teaches:** "Go you in unto the males of Al-'Alamin (people), (165)"And leave those whom Allah has created for you to be your wives?
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

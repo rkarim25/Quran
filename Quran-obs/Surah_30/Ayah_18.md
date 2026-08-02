@@ -135,11 +135,5 @@ That whoever will recite them in the morning, all shortcomings in his acts durin
 
 praise belongs to Him in the heavens and earth — and in the afternoon and at noon.
 
-## AI Tafsir
-
-**What this ayah teaches:** And to Him be praise in the heavens and the earth, and in the afternoon and when you enter the time of Zuhr (soon after the decline of the sun towards West). So glorify Allah, when you enter the evening, and when you enter the morning (17)And His is all the praise in the heavens and the earth; and in 'Ashiyya and when Tuẓhirūn (18)He brings out the living from the dead, and brings out the dead fro…
-
-**Classical tafsir:** Ibn Kathir notes: These Ayat which come one after the other are all of the same; in each of them Allah mentions the creation of things and their opposites, to indicate to His creation the perfection of His power.
 ## Personal Reflections
-
 

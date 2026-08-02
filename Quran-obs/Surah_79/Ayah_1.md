@@ -182,11 +182,5 @@ This refers to the angels of punishment who draw the souls of the infidels vigor
 
 By those angels who pull out souls with force,
 
-## AI Tafsir
-
-**What this ayah teaches:** The word gharqan is its corroborative because the word gharq is used here in the sense of ighraq and means 'to exert oneself much or to the utmost extent in the thing'.
-
-**Classical tafsir:** Ibn Kathir notes: The word gharqan is its corroborative because the word gharq is used here in the sense of ighraq and means 'to exert oneself much or to the utmost extent in the thing'.
 ## Personal Reflections
-
 

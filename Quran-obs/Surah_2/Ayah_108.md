@@ -149,17 +149,5 @@ If one takes this verse as having been addressed to the Muslims, it would mean t
 
 Or do you intend to ask your Messenger as Moses was asked before? Whoever trades iman for rejection has strayed from the Straight Path — the way of living that pleases Allah.
 
-## AI Tafsir
-
-**Essence** A caution against burdening the Messenger ﷺ with needless questions — and against the defiance of the Children of Israel, who demanded that Musa show them Allah openly. To prefer disbelief over faith is to lose the straight road.
-
-**What it teaches** Allah first forbids believers from piling unnecessary questions on the Prophet ﷺ about matters not yet revealed (cf. 5:101), for an answer may bind where there was ease. He then condemns those who question only to be difficult, as Israel pressed Musa out of stubbornness. To "exchange" (yatabaddal) faith for disbelief is to stray from *sawa' as-sabil*, the even path, into ignorance.
-
-**The scholars** Ibn Kathir reports — through Ibn Ishaq's chain to Ibn 'Abbas — that men of the Jews said, "Bring us a Book from heaven... and make rivers flow for us, then we will follow you": stubbornness, not faith. Maarif ul Quran notes their intent was never guidance but to cast aspersions on a prophet; the servant should rather "submit himself to the Divine Will." Abu Al-'Aliyah said: "They exchanged comfort for hardship."
-
-**From the Sunnah** The Prophet ﷺ warned that nations before were destroyed by excessive questioning and disputing with their prophets — so adhere to what he commands as you can, and avoid what he forbids (Sahih Muslim). He also taught that the worst offender asks about a thing not forbidden until it becomes forbidden by his asking (Sahih al-Bukhari).
-
-**Reflection** Bring your questions to revelation seeking light, not to test or quarrel — and where the wisdom is hidden, let the heart say "we hear and submit."
 ## Personal Reflections
-
 

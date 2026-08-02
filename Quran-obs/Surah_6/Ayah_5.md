@@ -110,11 +110,5 @@ Now, pointed out at the conclusion of the verse is the sad end of their effort t
 
 They have indeed rejected the truth when it came to them, so they will soon face the consequences of their ridicule.
 
-## AI Tafsir
-
-**What this ayah teaches:** And never an Ayah comes to them from the Ayat of their Lord, but that they have been turning away from it (4)Indeed, they rejected the truth when it came to them, but there will come to them the news of that which they used to mock at (5)Have they not seen how many a generation before them We have destroyed whom We had established on the earth such as We have not established you?
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, beware of the same end that might befall you, for you are not dearer to Allah than these previous nations, but the Messenger whom you defied is dearer to Allah than the Messengers they defied.
 ## Personal Reflections
-
 

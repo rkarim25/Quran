@@ -135,11 +135,5 @@ It was a dark and cold night and to add to the misery, his wife began to experie
 
 When he saw a fire, he said to his family, “Wait here, for I have spotted a fire. Perhaps I can bring you a torch from it, or find some guidance at the fire.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, I have seen a fire; perhaps I can bring you some burning brand therefrom, or find some guidance at the fire. Therefore, he settled down, making a camp between some mountain passes and mountains that were covered with snow, sleet, dense clouds, darkness and fog.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, he settled down, making a camp between some mountain passes and mountains that were covered with snow, sleet, dense clouds, darkness and fog.
 ## Personal Reflections
-
 

@@ -106,11 +106,5 @@ Various Types of Zann
 
 Those who have no iman in the Akhirah label the angels with female names.
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, those who believe not in the Hereafter, name the angels with female names (27)But they have no knowledge thereof.
-
-**Classical tafsir:** Ibn Kathir notes: Allah is the One Who guides whom He wills and misguides whom He wills, and all of this indicates His power, knowledge and wisdom.
 ## Personal Reflections
-
 

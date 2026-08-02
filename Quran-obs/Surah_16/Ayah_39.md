@@ -120,11 +120,5 @@ From verse 36 in the present Surah: وَلَقَدْ بَعَثْنَا فِي �
 
 He will do that to make clear to them what they disagreed on, and for those who reject the truth to know that they were liars.
 
-## AI Tafsir
-
-**What this ayah teaches:** Then Allah tells us about His ability to do whatever He wills, and that nothing is impossible for Him on earth or in heaven.
-
-**Classical tafsir:** Ibn Kathir notes: Yes, (He will raise them up), a promise (binding) upon Him in truth, but most of mankind know not (38)In order that He may make clear to them what they differed over, and so that those who disbelieved may know that they were liars (39)Verily, Our Word to a thing when We intend it…
 ## Personal Reflections
-
 

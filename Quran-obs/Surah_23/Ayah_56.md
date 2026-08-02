@@ -167,11 +167,5 @@ The Religion of All the Prophets Is Tawhid; And the Warning Against Splitting in
 
 that We hasten to honour them with all kinds of good? No! They are not aware.
 
-## AI Tafsir
-
-**What this ayah teaches:** Nay, but they perceive not.) means, 'do these deceived people think that what We give them of wealth and children is because they are honored and precious in Our sight?
-
-**Classical tafsir:** Ibn Kathir notes: The Command to Eat Lawful Food and to Do Righteous Deeds Allah commands His servants and Messengers, peace be upon them all, to eat lawful food and do righteous deeds, which indicates that eating what is lawful helps one to do righteous deeds.
 ## Personal Reflections
-
 

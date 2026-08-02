@@ -199,13 +199,5 @@ At the conclusion of the verse, it was said: ذَٰلِكَ تَقْدِيرُ�
 
 He causes the dawn to break, and has made the night for rest and the sun and the moon with precision. That is the design of the Almighty, All-Knowing.
 
-## AI Tafsir
-
-**What this ayah teaches:** Such is the measuring of the Almighty, the All-Knowing (96)It is He Who has set the stars for you, so that you may guide your course with their help through the darkness of the land and the sea.
-
-**Classical tafsir:** Ibn Kathir notes: This statement of the Qur'an also indicates that the calculation of years and months can be solar and it can be lunar as well.
-
-**From the Sunnah:** Since Islamic history and Islamic injunctions are based on lunar calendar, it is an obligation on the Muslim Ummah that it retains and protects this calendar. (Sahih Muslim)
 ## Personal Reflections
-
 

@@ -184,13 +184,5 @@ If the word Nas ناس (people) is used in the phrase بَصَائِرَ‌ لِ
 
 But We later raised several generations, and the ages took their toll on them. Nor were you living among the people of Midian, rehearsing Our revelations with them. But it is We Who have sent this revelation to you.
 
-## AI Tafsir
-
-**Context:** (and you were not among the witnesses.) 'to that event, but Allah has revealed this to you,' so that it may be evidence and proof of events which happened centuries ago, for people have forgotten the evidence that Allah…
-
-**What this ayah teaches:** And you were not on the western side (of the Mount), when We made clear to Musa the commandment, and you were not among the witnesses (44)But We created generations, and long were the ages that passed over them. And you were not a dweller among the people of Madyan, reciting Our Ayat to them.
-
-**Classical tafsir:** Ibn Kathir notes: It, therefore, does not necessarily follow that reading of Torah and Injil is banned for all times.
 ## Personal Reflections
-
 

@@ -185,13 +185,5 @@ Thereafter, Allah the Exalted and Most Honored sent down this Ayah about that in
 
 Allah has promised you abundant spoils that you will take. He has hastened this for you and held people's hands back from harming you—so it may be a sign for the mu'min and so He may guide you on the Straight Path.
 
-## AI Tafsir
-
-**What this ayah teaches:** Allah has promised you abundant spoils that you will capture, and He has hastened for you this, and He has restrained the hands of men from you, that it may be a sign for the believers, and that He may guide you to the straight path (20)And other (victories) which are not yet within your power; indeed Allah encompasses them.
-
-**Classical tafsir:** Ibn Kathir notes: Al-'Awfi reported that Ibn 'Abbas said that it refers to the conquest of Khaybar. Qatadah said that this part of the Ayah refers to the conquest of Makkah, and this opinion was preferred by Ibn Jarir.
-
-**From the Sunnah:** Good News of continuous Muslim Victories until the Day of Resurrection (Sahih Muslim) that Ibn 'Abbas commented on the Ayah, (Sunan Abi Dawud)
 ## Personal Reflections
-
 

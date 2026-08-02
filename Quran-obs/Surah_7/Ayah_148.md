@@ -145,11 +145,5 @@ Having designed this satanic invention he invited the people to worship the calf
 
 In the absence of Moses, his people made from their jewellery an idol of a calf that made a lowing sound. Did they not see that it could neither speak to them nor guide them to the Path? Still they took it as a god and were wrongdoers.
 
-## AI Tafsir
-
-**What this ayah teaches:** They said that this, the calf, is your Allah and the Allah of Musa, but Musa forgot it!
-
-**Classical tafsir:** Ibn Kathir notes: The verse 148 has given a short description of this event while another verse of the Holy Qur'an has described it in detail.
 ## Personal Reflections
-
 

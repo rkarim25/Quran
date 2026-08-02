@@ -137,11 +137,5 @@ It was said in verse أَثُمَّ إِذَا مَا وَقَعَ آمَنتُ�
 
 If every wrongdoer were to possess everything in the world, they would surely ransom themselves with it. They will hide their remorse when they see the torment. And they will be judged in all fairness, and none will be wronged.
 
-## AI Tafsir
-
-**What this ayah teaches:** It means: ` Would you believe when Divine punishment actually descends down upon you - whether at the time of death, or even before it? Similarly, in the mortal world, Taubah (repentance) could be accepted if done before the actual falling of the Divine punishment.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, the punishment was withdrawn.
 ## Personal Reflections
-
 

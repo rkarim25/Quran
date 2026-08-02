@@ -248,13 +248,5 @@ At the end of the verse (141) it was said: وَلَا تُسْرِ‌فُوا ۚ
 
 For those who are Jewish, We forbade every animal with undivided hoofs and the fat of oxen and sheep except what is joined to their backs or intestines or mixed with bone. In this way We rewarded them for their violations. And We are certainly truthful.
 
-## AI Tafsir
-
-**Context:** Tafsir authority, Ibn Kathir, in his Tafsir and Ibn al-Arabi in Ahkam al-Qur'an have resolved this by saying that, whether the verse is Makki or Madani, in both events, the verse could mean the Zakah of land, that is, `…
-
-**What this ayah teaches:** And unto those who are Jews, We forbade every (animal) with undivided hoof, and We forbade them the fat of the ox and the sheep except what adheres to their backs or their Hawaya, or is mixed up with a bone.
-
-**Classical tafsir:** Ibn Kathir notes: He also said, "The meaning here is, 'And from ox and sheep, We forbade their fat for the Jews, except the fat on their backs and what the entrails carry." 'Ali bin Abi Talhah said that, Ibn 'Abbas said that the, Hawaya, are the entrails.
 ## Personal Reflections
-
 

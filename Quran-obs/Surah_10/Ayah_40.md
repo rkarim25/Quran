@@ -170,13 +170,5 @@ In relation to issues of religious beliefs embedded in this verse, it must be bo
 
 Some of them will eventually believe in it; others will not. And your Rabb knows best the corruptors.
 
-## AI Tafsir
-
-**What this ayah teaches:** Then see what was the end of the wrongdoers (39)And of them there are some who believe therein; and of them there are some who believe not therein, and your Lord is All-Aware of the mischief-makers .
-
-**Classical tafsir:** Ibn Kathir notes: So those who believed among them, believed because of what they knew and felt in the Book, including its beauty, elegance, benefit, and fluency.
-
-**From the Sunnah:** This is an established rule in the sight of the majority of scholars in the Muslim Ummah. (Sahih Muslim)
 ## Personal Reflections
-
 

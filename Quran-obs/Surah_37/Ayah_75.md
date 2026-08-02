@@ -98,11 +98,5 @@ In verse 75, it was said: وَلَقَدْ نَادَانَا نُوحٌ (And Nu
 
 Indeed, Noah cried out to Us, and how excellent are We in responding!
 
-## AI Tafsir
-
-**What this ayah teaches:** He stayed among them for one thousand years less fifty, and after he stayed among them for so long and their disbelief became too much for him to bear – for every time he called them, they turned away from him even more – he prayed to his Lord saying, "I have been overcome, so help (me)!" So Allah became angry because Nuh was angry with them.
-
-**Classical tafsir:** Ibn Kathir notes: Commentary In the previous verses, it was said that Allah had sent messengers to warn the earlier communities as well, but most of the people did not listen to them, therefore, they met a very sad end.
 ## Personal Reflections
-
 

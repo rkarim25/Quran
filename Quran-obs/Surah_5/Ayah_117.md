@@ -229,11 +229,5 @@ Important Notes
 
 I never told them anything except what You ordered me to say: “Worship Allah—my Rabb and your Rabb!” And I was witness over them as long as I remained among them. But when You took me, You were the Witness over them—and You are a Witness over all things.
 
-## AI Tafsir
-
-**What this ayah teaches:** Did you say unto men: 'Worship me and my mother as two gods besides Allah?'" He will say: "Glory be to You! In fact, the purpose is to admonish his people who call them Christians that the one they are taking to be Allah is himself confessing to his servitude quite contrary to the belief they hold - and that he is free of all their accusations.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

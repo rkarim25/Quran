@@ -118,11 +118,5 @@ Then, came the time when the whole world saw that these people tasted the punish
 
 Those with whom you made a treaty, then break it every time, not living with taqwa.
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, the worst of living creatures before Allah are those who disbelieve, – so they shall not believe (55)They are those with whom you made a covenant, but they break their covenant every time and they do not have Taqwa (56)So if you gain the mastery over them in war, then disperse those who are behind them, so that they may learn a lesson .
-
-**Classical tafsir:** Ibn Kathir notes: Islamic political wisdom demanded that, as far as possible, the Jews of Madinah should be engaged to go along with Muslims under some sort of bilateral treaty, so that they would not come to the assistance of Makkan those who reject the truth.
 ## Personal Reflections
-
 

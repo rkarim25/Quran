@@ -132,15 +132,5 @@ In verse 36, it was said: وَيُخَوِّفُونَكَ بِالَّذِين�
 
 Say: "O my people! Persist in your ways, for I too will persist in mine. You will soon come to know
 
-## AI Tafsir
-
-**Context:** In the first verse (36), it was said: أَلَيْسَ اللَّـهُ بِكَافٍ عَبْدَهُ (Is Allah not sufficient for (the protection of) His slave?). This verse was revealed in the background of an event.
-
-**What this ayah teaches:** Know that even if the entire nation were to come together to do you some harm that Allah has not decreed for you, they will never be able to harm you, and if they were to come together to do you some good that Allah has not decreed for you, they will never be able to do that.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** Here Ibn Abi Hatim recorded a narration from Ibn 'Abbas, may Allah be pleased with him, attributing it to the Prophet ﷺ: Although, it is an open fact that anyone who threatens a Muslim on the ground that, should he not do such and such haram act or…
 ## Personal Reflections
-
 

@@ -128,11 +128,5 @@ Allah Ta'ala gave an answer in a single sentence by saying: إِنَّهَا ش�
 
 Indeed, it is a tree that grows in the depths of Hell,
 
-## AI Tafsir
-
-**What this ayah teaches:** Thus, neither does it mean date and butter, nor the objection as to how could a tree survive in fire hold valid - particularly when that tree owes its very origin to the fire itself.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

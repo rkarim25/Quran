@@ -118,13 +118,5 @@ Sayyidna Hasan Al-Basri (رح) reports that once the Holy Prophet ﷺ emerged fr
 
 Indeed with hardship comes ease—twice affirmed so no trial feels total or permanent.
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, along with every hardship is relief,)(6.
-
-**Classical tafsir:** Ibn Kathir notes: And to your Lord turn intentions and hopes.) meaning, 'when you have completed your worldy affairs and its tasks, and you have broken away from its routine, then get up to perform the worship, and stand for it with zeal, complete devotion and purify your intention and desire for your Lord.' Similar… The above narration further indicates that the Arabic definite article al- signifies that it is an ar…
-
-**From the Sunnah:** Thus history and biographical books written by Muslims and non-Muslims - all bear ample testimony to fact that the most difficult task, even the seemingly impossible task, became easy for him.
 ## Personal Reflections
-
 

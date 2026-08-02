@@ -189,13 +189,5 @@ Abu Hurayrah ؓ reports Allah's Messenger ﷺ as saying: "When the spoils of war
 
 Are they waiting only for the Hour to take them by surprise? Some of its signs have already appeared. When it actually comes upon them, will remorse then help them?
 
-## AI Tafsir
-
-**What this ayah teaches:** But already there have come (some of) its portents; and when it (actually) is on them, how can they benefit then by their reminder (18)So know that La ilaha illallah and ask forgiveness for your sin, and also for (the sin of) believing men and women.
-
-**Classical tafsir:** Ibn Kathir notes: The Description of the Situation of the Hypocrites and the Command to maintain Tawhid and seek Forgiveness Allah describes the hypocrites' stupidity and limited understanding.
-
-**From the Sunnah:** They used to sit before Allah's Messenger ﷺ and listen to his words without understanding anything. Allah's Messenger ﷺ has most clearly informed about the signs and indications of the Hour, as we have discussed elsewhere.
 ## Personal Reflections
-
 

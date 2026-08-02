@@ -294,15 +294,5 @@ And if the animal was edible (that is, Halal), then, whatever the estimate (of c
 
 O you who have iman! Allah will surely test you with game within the reach of your hands and spears to distinguish those who fear Him in secret. Whoever transgresses from now on will suffer a painful punishment.
 
-## AI Tafsir
-
-**Context:** (and your lances,) refers to mature game. Muqatil bin Hayyan said that this Ayah was revealed during the 'Umrah of Al-Hudaybiyyah, when wild game and birds were coming to the Muslim camping area, which they had never see…
-
-**What this ayah teaches:** Then whoever transgresses thereafter, for him there is a painful torment (94)O you who believe!
-
-**Classical tafsir:** Ibn Kathir notes: As for the cases when there is no equivalent for the killed animal, Ibn 'Abbas said that one should spend its amount in Makkah (i.e. The Lam of ` Ahd indicates that the word is used in a restricted sense and not in a general sense.
-
-**From the Sunnah:** this Ayah was revealed during the 'Umrah of Al-Hudaybiyyah, when wild game and birds were coming to the Muslim camping area, which they had never seen the likes of before.
 ## Personal Reflections
-
 

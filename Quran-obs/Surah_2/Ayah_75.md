@@ -190,15 +190,5 @@ The Jews who were the contemporaries of the Holy Prophet ﷺ may not have themse
 
 Do you still expect them to be sincere with you, when a group among them would hear Allah's word then deliberately distort it after understanding it?
 
-## AI Tafsir
-
-**Essence** Allah tempers the believers' hope: a party of the Jews heard the very Word of Allah, then distorted it.
-
-**What it teaches** Tahrif — yuharrifunahu, "they distort it" — is a grave betrayal: twisting kalam Allah after grasping it fully, "while they know." Hearts that defy a truth they understand are seldom won by argument; faith is Allah's guidance, not debate.
-
-**The scholars** Ibn Kathir: a deviant party whose fathers saw clear signs, yet their hearts hardened — "We cursed them and made their hearts grow hard" (5:13). Mujahid: "Those who used to alter it and conceal its truths; they were their scholars." Ibn Zayd: they kept a forged second book — even a bribing truth-seeker was judged by the real Book; only the bribing evil-seeker got the forgery. Maarif ul-Quran calls this "an even more heinous sin": the Word of Allah is the Torah heard from the prophets — or what the seventy heard at Mount Tur — and generations who did not abhor their forefathers' deed share the guilt.
-
-**Reflection** Knowledge is a trust: let the truth you understand reshape your desires, never your desires reshape the truth.
 ## Personal Reflections
-
 

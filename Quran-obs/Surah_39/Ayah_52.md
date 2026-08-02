@@ -138,11 +138,5 @@ Someone asked Rabi' Ibn-u1_-Khaitham about the shahadah (martyrdom) of Sayyidna 
 
 Do they not know that Allah gives abundant or limited provisions to whoever He wills? Surely in this are signs for people who believe.
 
-## AI Tafsir
-
-**What this ayah teaches:** And those who did wrong of these will also be overtaken by the evil results for that which they earned; and they will never be able to escape (51)Do they not know that Allah expands the provision for whom He wills, and straitens it.
-
-**Classical tafsir:** Ibn Kathir notes: When harm touches man, he calls to Us (for help); then when We have changed it into a favor from Us, he says: "Only because of knowledge I obtained it." Nay, it is only a trial, but most of them know not (49)Verily, those before them said it, yet (all) that they had earned availe…
 ## Personal Reflections
-
 

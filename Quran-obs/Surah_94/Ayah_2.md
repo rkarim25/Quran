@@ -126,11 +126,5 @@ Verses [ 2-3] give the cheerful news that Allah will remove from him the load wh
 
 Relieved you of the burden—
 
-## AI Tafsir
-
-**What this ayah teaches:** The word wizr literally denotes 'burden' and the phrase naqd-uz-zahr means 'to break one's back as for instance when a heavy load is put on one's back, it bends'. This verse signifies that Allah had relieved him of his burden that was breaking his back.
-
-**Classical tafsir:** Ibn Kathir notes: And to your Lord turn intentions and hopes.) meaning, 'when you have completed your worldy affairs and its tasks, and you have broken away from its routine, then get up to perform the worship, and stand for it with zeal, complete devotion and purify your intention and desire for your Lord.' Similar… The word wizr literally denotes 'burden' and the phrase naqd-uz-zahr means 'to break one's back as fo…
 ## Personal Reflections
-
 

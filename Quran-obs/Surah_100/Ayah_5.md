@@ -120,13 +120,5 @@ The word kanud, (100:6) according to Hasan Basri (رح) ، refers to the one who
 
 and plunging into the centre of battle! Allah swears by this scene of energy and sacrifice to expose a deeper truth:
 
-## AI Tafsir
-
-**What this ayah teaches:** And raise the dust in clouds the while.)(5.
-
-**Classical tafsir:** Ibn Kathir notes: And raise the dust in clouds the while.)(5.
-
-**From the Sunnah:** This is just as the Messenger of Allah ﷺ used to perform raids in the early morning.
 ## Personal Reflections
-
 

@@ -128,11 +128,5 @@ In this narration, the act of writing has been attributed to the Holy Prophet ï·
 
 on the Day punishment overwhelms them from above and below their feet. It will be said: Taste what you sowed.
 
-## AI Tafsir
-
-**What this ayah teaches:** The Fire will cover them from all sides, which is more effective as a physical punishment.
-
-**Classical tafsir:** Ibn Kathir notes: How the Idolators asked for the Torment to be hastened on Allah tells us of the ignorance of the idolators and how they asked for the punishment of Allah to be hastened so that it would befall them quickly.
 ## Personal Reflections
-
 

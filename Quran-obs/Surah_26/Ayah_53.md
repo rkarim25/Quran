@@ -88,13 +88,5 @@ It is worth noting here that the magicians who had involved all their lives prac
 
 Then Pharaoh sent mobilizers to all cities,
 
-## AI Tafsir
-
-**Context:** And We revealed to Musa, saying: "Depart by night with My servants, verily, you will be pursued. (52)Then Fir'awn sent callers to (all) the cities (53)(Saying): "Verily, these indeed are but a small band.
-
-**What this ayah teaches:** It is worth noting here that the magicians who had involved all their lives practicing the sinful sorcery and who believed in the Pharaoh's claim to be a Allah, rather, used to worship him, pronounced faith in Allah before that tyrant and despotic king and the entire nation.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

@@ -131,13 +131,5 @@ In reply to this, Allah Ta’ ala said that this was also a bogus excuse, becaus
 
 Have they not seen how We made Mecca a secure sanctuary while people around them are snatched away? How can they believe falsehood and deny Allah's favours?
 
-## AI Tafsir
-
-**What this ayah teaches:** The Blessing of the Sanctuary Here Allah reminds Quraysh how He blessed them by granting them access to His sanctuary which He has made (open) to (all) men, the dweller in it and the visitor from the country are equal there, and whoever enters it is safe, because he is in a place of great security, although the Arabs of the desert round about used to ambush and raid one another…
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, putting forward the risk of life as justification for non-acceptance of Islam was only a lame excuse.
-
-**From the Sunnah:** Ibn Abi Hatim narrated that 'Abbas Al-Hamdani Abu Ahmad – one of the people of 'Akka (Palestine) – said, concerning the Ayah: If they became Muslims, the Arabs would pounce upon them and kill them.
 ## Personal Reflections
-
 

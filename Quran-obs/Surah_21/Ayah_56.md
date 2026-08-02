@@ -116,11 +116,5 @@ Commentary
 
 He replied, “In fact, your Rabb is the Rabb of the heavens and the earth, Who created them both. And to that I bear witness.”
 
-## AI Tafsir
-
-**What this ayah teaches:** The point here is that Allah is telling us that He gave guidance to Ibrahim aforetime, i.e., He had already guided him at an early age.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

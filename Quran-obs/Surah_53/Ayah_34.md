@@ -147,13 +147,5 @@ Then Allah will remind you of your actions and recompense you for them in the be
 
 gave a little, then stopped?
 
-## AI Tafsir
-
-**Context:** Allah the Exalted explained what He has revealed in the Scripture of Ibrahim and Musa,
-
-**What this ayah teaches:** Did you observe him who turned away (from Islam)(33)And gave a little, then stopped (34)Is with him the knowledge of the Unseen so that he sees (35)Or is he not informed with what is in the Suhuf of Musa (36)And of Ibrahim who fulfilled all that (37)That no burdened person (with sins) shall bear the burden (sins) of another (38)And that man can have nothing but what he does (39…
-
-**Classical tafsir:** Ibn Kathir notes: ...53:34) The word akda is derived from kudyah which refers to a hard or stony piece of ground or clod that appears in the course of digging a well or a trench.
 ## Personal Reflections
-
 

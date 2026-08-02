@@ -246,15 +246,5 @@ At least this much stands proved from this verse, and from the Hadith quoted abo
 
 O wives of the Prophet! You are not like any other women: if you are living with taqwa — living with Allah-consciousness, as though Allah sees you toward Allah, then do not be overly effeminate in speech with men or those with sickness in their hearts may be tempted, but speak in a moderate tone.
 
-## AI Tafsir
-
-**Context:** (Allah wishes only to remove Ar-Rijs from you, O members of the family, and to purify you with a thorough purification.) This is a clear statement that the wives of the Prophet ﷺ are included among the members of his fam…
-
-**What this ayah teaches:** That a real hypocrite will be so tempted is all too obvious.
-
-**Classical tafsir:** Ibn Kathir notes: This condition refers to the superiority they have been blessed with by Allah Ta’ ala because of their being women and wives of the Prophet ﷺ .
-
-**From the Sunnah:** These are the good manners which Allah enjoined upon the wives of the Prophet ﷺ so that they would be an example for the women of the Ummah to follow. One of the purposes mentioned in Shari'ah is prayer in the Masjid, so long as the conditions are fulfilled, as the Messenger of Allah ﷺ said:
 ## Personal Reflections
-
 

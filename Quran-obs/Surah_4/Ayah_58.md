@@ -320,13 +320,5 @@ According to another hadith, the Holy Prophet ﷺ said to his noble Companions: 
 
 Indeed, Allah commands you to return trusts to their rightful owners; and when you judge between people, judge with fairness. What a noble commandment from Allah to you! Surely Allah is All-Hearing, All-Seeing.
 
-## AI Tafsir
-
-**Context:** Ibn Jarir recorded that Ibn Jurayj said about this Ayah, "It was revealed concerning 'Uthman bin Talhah from whom the Messenger of Allah ﷺ took the key of the Ka'bah and entered it on the Day of the victory of Makkah.
-
-**What this ayah teaches:** Obedience to the Divine commands of this nature is, though, the very obedience, of the commands of Allah Almighty in reality, but, speaking formally, since these commands are not physically and explicitly the Qur'an as such - they have reached the community through the blessed words of the Holy Prophet ﷺ - therefore, obedience to them is academically said to be an obedience to…
-
-**Classical tafsir:** Ibn Kathir notes: This command refers to all things that one is expected to look after, such as Allah's rights on His servants: praying, Zakah, fasting, penalties for sins, vows and so forth.
 ## Personal Reflections
-
 

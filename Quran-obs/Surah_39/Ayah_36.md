@@ -157,13 +157,5 @@ In verse 36, it was said: وَيُخَوِّفُونَكَ بِالَّذِين�
 
 Is Allah not sufficient for His servant? Yet they threaten you with other powerless gods besides Him! Whoever Allah leaves to stray will be left with no guide.
 
-## AI Tafsir
-
-**Context:** In the first verse (36), it was said: أَلَيْسَ اللَّـهُ بِكَافٍ عَبْدَهُ (Is Allah not sufficient for (the protection of) His slave?). This verse was revealed in the background of an event.
-
-**What this ayah teaches:** Or if He intended some mercy for me, could they withhold His mercy?" Say: "Sufficient for me is Allah; in Him those who trust must put their trust.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

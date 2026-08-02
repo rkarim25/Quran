@@ -111,13 +111,5 @@ This is the end of the Tafsir of Surat Adh-Dhariyat; all praise is due to Allah 
 
 So turn away from them, O Prophet—you are not to blame.
 
-## AI Tafsir
-
-**What this ayah teaches:** Nay, they are themselves a people transgressing beyond bounds (53)So turn away from them, you are not blameworthy (54)And remind, for verily, the reminding profits the believers (55)And I created not the Jinn and mankind except that they should worship Me (56)I seek not any provision from them nor do I ask that they should feed Me (57)Verily, Allah is the All-Provider, Owner of power, the Most Str…
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, the latter said the same as those before them have said.
-
-**From the Sunnah:** this Hadith. (Musnad Ahmad, Jami' at-Tirmidhi)
 ## Personal Reflections
-
 

@@ -377,15 +377,5 @@ It was with reference to this incident that Allah revealed the opening verses of
 
 O believers: do not take My enemies and yours as close allies, showing them affection while they deny what has come to you of the truth. They drove out the Messenger and you simply for believing in Allah, your Rabb—the One who creates, owns, nurtures, and sustains. If you emigrated to struggle in My cause and seek My pleasure, do not disclose believers' secrets to the those who reject the truth out of affection for them. Allah knows what you conceal and what you reveal. Whoever does this has strayed from the Straight Path—the way of living that pleases Allah.
 
-## AI Tafsir
-
-**Context:** (O you who believe! Take not my enemies and your enemies as protecting friends'...) was revealed about Hatib, but I do not know if the Ayah was mentioned in the Hadith (or was added as an explanation by one of the narrat…
-
-**What this ayah teaches:** Unless [ Allah forbid!] one loses one's faith, the hope of friendly intimacy with the enemies of Allah is illusory and virtually impossible.
-
-**Classical tafsir:** Ibn Kathir notes: This part of the verse refers to their kufr (rejection of Truth) as the real reason of their enmity.
-
-**From the Sunnah:** And whosoever of you (Muslims) does that, then indeed he has gone (far) astray from the straight path.)(2. The Prophet ﷺ sent someone after the woman and retrieved the letter.
 ## Personal Reflections
-
 

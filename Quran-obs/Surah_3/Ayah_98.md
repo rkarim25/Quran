@@ -90,15 +90,5 @@ The expression وَمَن يَعْتَصِم بِاللَّـهِ ,'translated a
 
 Say, “O People of the Book! Why do you deny the revelations of Allah, when Allah is a Witness to what you do?”
 
-## AI Tafsir
-
-**Essence** Say, O People of the Book: why deny Allah's clear signs when Allah Himself witnesses everything you do?
-
-**What it teaches** Allah commands His Prophet ﷺ to confront the People of the Book over their kufr — their willful rejection of His ayat (signs/revelations) — and seals the rebuke with a warning that strikes the conscience: *wallahu shahid*, "Allah is Witness" over their deeds, so nothing they do escapes Him and nothing goes unaccounted.
-
-**The scholars** Ibn Kathir explains that Allah here chastises the disbelieving People of the Book for refusing the truth and rejecting His ayat although they knew it: the previous Prophets had brought them the glad tidings of "the unlettered, Arab, Hashimi Prophet ﷺ from Makkah," the Final Messenger — yet they denied the very Messenger they were ordered to announce. Allah's being Witness, he notes, underscores their defiance of the knowledge conveyed to them by the Prophets; and on the warning that Allah "is never unaware of what they do," Ibn Kathir adds that He will hold them responsible on "the Day whereon neither wealth nor sons will avail" (26:88). Maarif ul Quran sets the scene: these verses came after a Jew, Shammas ibn Qays, schemed to reignite the old Aws–Khazraj feud by having their pre-Islamic boastful poems recited until the two tribes were on the verge of fresh war; the Prophet ﷺ rushed to them, calling it "sheer ignorance" and asking whether they wished to revert to kufr. Maarif notes the eloquence of the rebuke — before taking the People of the Book to task for engineering this strife, Allah first calls them to account for their own disbelief, since it would have been far better had they themselves accepted the truth rather than trying to drag others off the straight path.
-
-**Reflection** They schemed to drag others off the straight path while denying the very signs they themselves had been taught — yet Allah witnessed it all. Live as one truly seen, for nothing escapes Him.
 ## Personal Reflections
-
 

@@ -172,15 +172,5 @@ We find from this verse that if anyone lives among a group or people who are mis
 
 except the One who originated me, and He will surely guide me."
 
-## AI Tafsir
-
-**Context:** (And they say) means, objecting to that which Allah has revealed to him, (Why is not this Qur'an sent down to some great man of the two towns?) meaning, why was this Qur'an not revealed to some man who was great and prom…
-
-**What this ayah teaches:** Allah knows best where to direct His Message, and He does not reveal it except to the one who is the purest in heart and soul, and of the noblest descent.
-
-**Classical tafsir:** Ibn Kathir notes: He was not only a believer in 'tauhid' (Oneness of Allah) who emphatically directed all his children to remain adherent to this belief, but his life-long behavior also indicates that following forefathers against logical and historical proofs is not permissible.
-
-**From the Sunnah:** In as the Two Sahihs and elsewhere, it is reported that the Messenger of Allah ﷺ said:
 ## Personal Reflections
-
 

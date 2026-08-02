@@ -231,27 +231,5 @@ Besides what the people of Jahiliyyah used to do during their stay at Mina, some
 
 When you have completed your rites, remember Allah as you used to remember your forefathers — or with greater intensity. Among people are some who say, "Our Rabb, give us in this dunya" — and they have no share in the Akhirah.
 
-## AI Tafsir
-
-**Essence**
-
-When the rites of Hajj are done, fill the moment that the people of ignorance once gave to boasting of their ancestors with the remembrance of Allah — and beg Him for both this world and the next, not this world alone.
-
-**What it teaches**
-
-After completing the manasik (sacred rites), Allah commands that He be remembered "as you remember your forefathers, or with far more remembrance" — dhikr (remembrance) so fervent it outweighs the tribal pride the Arabs used to recite at Mina. The ayah then exposes a stunted prayer — those who ask only "Our Lord, give us in this world" (fid-dunya) — and declares they will have no khalaq — no share — in the Hereafter.
-
-**The scholars**
-
-Sa'id bin Jubayr reported from Ibn 'Abbas that in the Jahiliyyah, people would stand in the Hajj season recounting a father's deeds — "My father used to feed the poor, pay the blood-money" — for the only dhikr they had was the deeds of their fathers; so this ayah was revealed. Ibn Kathir explains that the word "or" ("or with far more remembrance") does not signal doubt but urges believers to remember Allah even more than they once remembered their fathers, just as in "as stones, or even worse in hardness" (2:74). He adds that supplication is commanded right after dhikr because remembering Allah first makes the du'a more likely to be accepted, and that Allah criticizes the shallow prayer to deter others from imitating it. Ibn 'Abbas (via Sa'id bin Jubayr) noted the bedouins who begged only for "a rainy year, a fertile year, good child-bearing," mentioning nothing of the Hereafter — about whom this was revealed — while the believers after them prayed for good in both worlds (2:201). Maarif ul Quran frames the passage as a correction of Jahili custom: these blessed days are reserved for 'ibadah and dhikr, a gift of Allah that may never return if wasted on amusement, shopping, and idle gatherings — a warning, it says, that still strikes at many pilgrims today. Maarif also relays (from Ruh al-Bayan) the tender analogy that one should remember Allah as a child clings to his father in total dependence — yet the adult is far more dependent on Allah at every moment — and that real honor comes not through boasting of lineage but through the dhikr of Allah. Al-Qasim bin 'Abdur-Rahman said that whoever is granted a grateful heart, a remembering tongue, and a patient (sabr) body has been given good in this life, good in the Hereafter, and refuge from the Fire.
-
-**From the Sunnah**
-
-The Prophet, peace and blessings be upon him, would constantly make the balanced du'a of the next ayah (2:201): O Allah, our Lord, give us good in this world and good in the Hereafter, and save us from the torment of the Fire. (Sahih al-Bukhari) — And when he visited a man wasted to weakness for asking Allah to bring his Hereafter punishment forward into this life, he said no one can bear that and taught him this same prayer instead, and the man recovered. (Musnad Ahmad, also recorded by Muslim)
-
-**Reflection**
-
-Hajj is reached only after long travel, expense, and separation, and many never complete it — so when Allah grants it, the fitting response is gratitude, not idle boasting or shopping. Guard the blessed days with dhikr; they carry their own merit and may never come again.
 ## Personal Reflections
-
 

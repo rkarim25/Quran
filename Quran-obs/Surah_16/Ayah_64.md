@@ -114,11 +114,5 @@ To sum up, it can be said that taking the birth of a girl to be bad is a detesta
 
 We have revealed to you the Book only to clarify for them what they differed about, and as a guide and mercy for those who believe.
 
-## AI Tafsir
-
-**What this ayah teaches:** So today he is their helper, and theirs will be a painful torment (63)And We have not revealed the Book to you, except that you may clearly explain to them those things in which they differ, and (as) a guidance and a mercy for a people who believe (64)And Allah sends water down from the sky, then He revives the earth with it after its death.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

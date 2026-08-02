@@ -141,13 +141,5 @@ The second story is that of Sayyidna Ibrahim (علیہ السلام) who too pas
 
 We sent Noah to his people and he remained among them a thousand years less fifty. The Flood seized them while they persisted in wrong.
 
-## AI Tafsir
-
-**What this ayah teaches:** His life span of nine hundred and fifty years (950) years as quoted by the Holy Qur'an is true without any element of doubt.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, you too should not care about the troubles afflicted by the infidels, and should keep on performing firmly your prophetic obligations.
-
-**From the Sunnah:** It was recorded that Ibn 'Abbas said: "Nuh received his mission when he was forty years old, and he stayed among his people for a thousand years less fifty; after the Flood he lived for sixty years until people had increased and spread." It was described in the previous verses that infidels keep on their opposition and afflictions on Muslims as a routine.
 ## Personal Reflections
-
 

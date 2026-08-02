@@ -189,13 +189,5 @@ Finally, a note about the statement: سَرَ‌ابِيلَ تَقِيكُمُ 
 
 Consider, O Prophet, the Day We will call a prophet as a witness from every faith-community. Then those who reject the truth will neither be allowed to plead nor appease their Rabb.
 
-## AI Tafsir
-
-**Context:** Finally, a note about the statement: سَرَ‌ابِيلَ تَقِيكُمُ الْحَرَّ‌ (shirts which protect you from heat - 81). Here, protection from heat has been identified as the purpose of a shirt - though, a shirt protects one from…
-
-**What this ayah teaches:** He will raise a witness from every nation - that is - their Prophet, to testify about their response to the Message he conveyed from Allah.
-
-**Classical tafsir:** Ibn Kathir notes: Arabia is a hot country where the very thought of snow and winter chill is far-fetched, therefore, the statement was left with the mention of protection from heat as being sufficient.
 ## Personal Reflections
-
 

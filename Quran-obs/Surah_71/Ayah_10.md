@@ -149,11 +149,5 @@ Commentary
 
 saying: Seek your Lord's forgiveness—He is truly Most Forgiving.
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, I have called to my people night and day (5)But all my calling added nothing but to (their) flight (6)And verily, every time I called unto them that You might forgive them, they thrust their fingers into their ears, covered themselves up with their garments, and persisted, and magnified themselves in pride (7)Then verily, I called to them openly (aloud)(8)Then verily, I…
-
-**Classical tafsir:** Ibn Kathir notes: This means that He will give you more wealth, more children and gardens with various types of fruits.
 ## Personal Reflections
-
 

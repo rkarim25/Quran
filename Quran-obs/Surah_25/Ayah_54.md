@@ -158,11 +158,5 @@ Allah says:
 
 And He is the One Who creates human beings from a humble liquid, then establishes for them bonds of kinship and marriage. For your Rabb is Most Capable.
 
-## AI Tafsir
-
-**What this ayah teaches:** And had We willed, We would have raised a warner in every town (51)So obey not the those who reject the truth, but strive against them with the utmost endeavor with it (52)And it is He Who has let free the two seas, this is palatable and sweet, and that is salty and bitter; and He has set a barrier and a complete partition between them (53)And it is He Who has created man from water, and has…
-
-**Classical tafsir:** Ibn Kathir notes: Allah has told us about reality so that His servants may realize His blessings to them and give thanks to Him.
 ## Personal Reflections
-
 

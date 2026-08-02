@@ -143,11 +143,5 @@ What it means is that it is unlawful to reduce any quantity or amount from that 
 
 So cause deadly pieces of the sky to fall upon us, if what you say is true.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Indeed that was the torment of a Great Day.) This is what they asked for, when they asked for a part of the heaven to fall upon them. When all of them had gathered underneath it, Allah sent sparks of fire and flames and intense heat upon them, and caused the earth to convulse beneath them, and He sent against them a mighty Sayhah which destroyed their souls.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, if a servant or a laborer does not work his full time at his workplace, he too is included in this warning.
 ## Personal Reflections
-
 

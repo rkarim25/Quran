@@ -279,15 +279,5 @@ At the end of the verse, it was said: ذَٰلِكَ لِتَعْلَمُوا أ
 
 Allah has made the Ka’bah—the Sacred House—a sanctuary of well-being for all people, along with the sacred months, the sacrificial animals, and the garlands. All this so you may know that Allah knows whatever is in the heavens and whatever is on the earth, and that He has knowledge of everything.
 
-## AI Tafsir
-
-**Context:** Allah says, fear Allah, O people, and beware of His might, by obeying what He commands you and avoiding what He prohibits for you in these Ayat revealed to your Prophet ﷺ.
-
-**What this ayah teaches:** Others have said that it refers to the extended means of sustenance for the people of Makkah, for what is not grown or made there indigenously keeps reaching them from all over the world by the grace of Allah Ta` ala.
-
-**Classical tafsir:** Ibn Kathir notes: Others have said that it refers to the extended means of sustenance for the people of Makkah, for what is not grown or made there indigenously keeps reaching them from all over the world by the grace of Allah Ta` ala.
-
-**From the Sunnah:** Abu 'Ubaydah ordered us to collect all the food for our journey, and it was collected in two bags of dates. Al-Bukhari, At-Tirmidhi and Ibn Hibban graded it Sahih.
 ## Personal Reflections
-
 

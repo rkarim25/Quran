@@ -241,13 +241,5 @@ Sayyidna ` Ata' ؓ has further enlarged the scope of the meaning of this word by
 
 Indeed, those who persist in rejection of the truth and hinder others from the Way of Allah and from the Sacred Mosque—which We have appointed for all people, residents and visitors alike—along with whoever intends to deviate by doing wrong in it, We will cause them to taste a painful punishment.
 
-## AI Tafsir
-
-**Context:** (and they are not its guardians. None can be its guardians except those who have Taqwa)[8:34]. In this Ayah there is proof that it was revealed in Al-Madinah, as Allah says in Surat Al-Baqarah: (and whoever inclines to e…
-
-**What this ayah teaches:** 'Abdur-Razzaq narrated from Ma'mar, from Qatadah who said: "Its own people and others are equal therein." This is the issue about which Ash-Shafi'i and Ishaq bin Rahwayh differed in the Masjid of Al-Khayf, when Ahmad bin Hanbal was also present.
-
-**Classical tafsir:** Ibn Kathir notes: This was the view of a number of the Salaf, and Mujahid and 'Ata' said likewise.
 ## Personal Reflections
-
 

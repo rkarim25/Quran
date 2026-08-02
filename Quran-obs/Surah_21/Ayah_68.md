@@ -105,11 +105,5 @@ Thus these attributes being only habitual, they can be changed whenever God so w
 
 They concluded, “Burn him up to avenge your gods, if you must act.”
 
-## AI Tafsir
-
-**What this ayah teaches:** But it increased them in faith, and they said: "Allah is sufficient for us, and He is the best disposer of affairs.")(3:173).
-
-**Classical tafsir:** Ibn Kathir notes: This is called tauriyah (dissembling) where the words used may be interpreted differently, so that the listener understands them one way whereas the speaker means something else.
 ## Personal Reflections
-
 

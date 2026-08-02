@@ -201,13 +201,5 @@ In the two verses (27, 28) appearing next, there is a dialogue between the peopl
 
 Consider the Day We will gather them all together then say to those who associated others with Allah in worship, “Stay in your places—you and your associate-gods.” We will separate them from each other, and their associate-gods will say, “It was not us that you worshipped!
 
-## AI Tafsir
-
-**What this ayah teaches:** Then, to the Mushriks We shall say that, ` you and your gods whom you had associated' with Us in Our divinity stay in your places where you are, so that you can find out the reality of your conviction.' After that, the connection between these people and their so-called gods as it existed in the mortal world will be disconnected. This refers to the partners responding to those who worshipped them.
-
-**Classical tafsir:** Ibn Kathir notes: Then, to the Mushriks We shall say that, ` you and your gods whom you had associated' with Us in Our divinity stay in your places where you are, so that you can find out the reality of your conviction.' After that, the connection between these people and their so-called gods as i…
-
-**From the Sunnah:** intercede to Allah so the Final Judgement may come and they get rid of that state.
 ## Personal Reflections
-
 

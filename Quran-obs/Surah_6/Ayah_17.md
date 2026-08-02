@@ -210,15 +210,5 @@ Alas, despite this clear declaration of the Qur'an and the age long teachings of
 
 If Allah touches you with harm, none can undo it except Him. And if He touches you with a blessing, He is Most Capable of everything.
 
-## AI Tafsir
-
-**Context:** And if Allah touches you with harm, none can remove it but He, and if He touches you with good, then He is able to do all things (17)And He is the Irresistible, above His servants, and He is the All-Wise, Well-Acquainted…
-
-**What this ayah teaches:** All Gain and Loss Comes from Allah: A Cardinal Muslim Belief In the third verse (17), a basic article of faith in Islam has been described - that it is Allah, in reality, who is the Master-Dispenser of all gain and loss.
-
-**Classical tafsir:** Ibn Kathir notes: This is because they received good news from the previous Messengers and Prophets about the coming of Muhammad ﷺ, his attributes, homeland, his migration, and the description of his Ummah.
-
-**From the Sunnah:** It is recorded in the Sahih that the Messenger of Allah ﷺ used to supplicate, All Gain and Loss Comes from Allah: A Cardinal Muslim Belief (Sahih Muslim)
 ## Personal Reflections
-
 

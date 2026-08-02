@@ -118,13 +118,5 @@ This is what is known as God gifted awe of truth, veracity and reality. The cont
 
 Pharaoh asked, “And what is ‘the Rabb of all worlds’?”
 
-## AI Tafsir
-
-**What this ayah teaches:** Fir'awn said: "And what is the Lord of Al-'Alamin (23)(Musa) said: "The Lord of the heavens and the earth, and all that is between them, if you seek to be convinced with certainty.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** The contentions and dialectics of Allah's messengers are also full of truth, veracity and wishing well for the addressee.
 ## Personal Reflections
-
 

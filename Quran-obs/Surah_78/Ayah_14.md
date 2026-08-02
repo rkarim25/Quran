@@ -186,11 +186,5 @@ meaning, 'so that We may bring out great abundance, goodness, benefit, and bless
 
 and sent down pouring rain from rainclouds
 
-## AI Tafsir
-
-**What this ayah teaches:** There are verses, however, that indicate that rain comes down from the sky. And We have sent down from the Mu'sirat water Thajjaj.)(15.
-
-**Classical tafsir:** Ibn Kathir notes: And We have made (therein) a shining lamp.)(14.
 ## Personal Reflections
-
 

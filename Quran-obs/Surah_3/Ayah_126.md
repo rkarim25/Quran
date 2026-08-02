@@ -361,21 +361,5 @@ According to yet another story from the Sahih al-Bukhari, the Holy Prophet ﷺ h
 
 Allah ordained this only as good news for you and reassurance for your hearts. And victory comes only from Allah—the Almighty, All-Wise— to destroy a group of those who reject the truth and humble the rest, causing them to withdraw in disappointment.
 
-## AI Tafsir
-
-**Essence** Allah declared that the angelic reinforcement was never about the angels winning the battle â€” it was pure bushra, glad tidings, sent to settle the hearts of the believers, because victory belongs to Allah alone: al-Aziz, al-Hakim.
-
-**What it teaches** The ayah corrects a natural misreading: one might assume thousands of angels were dispatched to ensure military victory through sheer celestial force. Allah clarifies with the emphatic restriction *ma ja'alahu illa* â€” He made it for nothing except â€” that the purpose was bushra (glad tidings) and itmi'nan al-qulub (the settling-stillness of hearts). Victory (nasr) is then declared an exclusive divine prerogative, belonging only to Allah al-Aziz â€” the Invincible One whom nothing can overcome â€” and al-Hakim, the All-Wise whose every decree is purposeful and exact.
-
-**The scholars** Ibn Kathir explains that Allah informed the believers of the angels' descent to encourage them and to "comfort and reassure your hearts," making plain that "victory only comes from Allah and that if He willed, He could have defeated your enemy without you fighting at all." He supports this with Surah Muhammad (47:4-6): Allah could punish the disbelievers Himself, but commands believers to fight in order to test some through others and to elevate those killed in His path. Ibn Kathir also records â€” under what he labels the Second View, as his own editorial conclusion â€” that the angels did not come at Uhud because the promise was conditional on sabr and taqwa, and the Muslims were not patient there.
-
-Al-Hasan, Qatadah, Ar-Rabi', and As-Suddi, cited by Ibn Kathir in a separate passage, contribute a lexical point: the phrase *min fawrihim hadha* (and they come rushing) means the angels rush instantaneously, or before the disbelievers' anger subsides.
-
-Maarif ul Quran poses a pointed theological question: since Jibra'il (upon him be peace) overturned the entire civilisation of the people of Lut single-handedly, why was an army of angels needed? The Quran answers here â€” the angels were not the deciding force. Their mission was comfort and heart-steadiness. Maarif cites Surah al-Anfal (8:12), where angels are addressed: *fa-thabbituu alladhina amanuu* â€” make those who believe firm. As for how hearts are made firm, Maarif observes many possible modes: the angels may have appeared visibly, spoken by voice, or provided spiritual input â€” something, Maarif notes, not too dissimilar to the direct beaming of attention as practised by mystic shaykhs. The obligation of jihad rests on men precisely so that they earn ranks in the Hereafter.
-
-On the conditions for five thousand angels (3:125), Maarif records two: (A) sabr and taqwa, and (B) that the enemy comes upon them suddenly. The second condition did not materialise, so the five-thousand promise was not triggered. This makes the lesson of 3:126 sharper: the angels were always about bushra and itmi'nan, not a guaranteed combat force. In this present world, Maarif concludes, disbelief and faith exist side by side â€” the great divide comes on the Day of Resurrection when the true and the false become fully distinct.
-
-**Reflection** When the heart is steady in sabr and taqwa, it has already received the greatest gift Allah promised â€” certainty that al-Aziz, al-Hakim holds every outcome.
 ## Personal Reflections
-
 

@@ -183,13 +183,5 @@ Many evils are committed for certain worldly gains or benefits. Any one committi
 
 Allah has the Most Beautiful Names. So call upon Him by them, and keep away from those who abuse His Names. They will be punished for what they used to do.
 
-## AI Tafsir
-
-**What this ayah teaches:** The second way of deviating from these names of Allah is to abandon certain name or names only because one thinks them to be inappropriate in certain situations.
-
-**Classical tafsir:** Ibn Kathir notes: The word Ilhad [used in the Ayah in another from] means deviation, wickedness, injustice and straying.
-
-**From the Sunnah:** Allah is Witr (One) and loves Al-Witr (the odd numbered things),) The Two Sahihs collected this Hadith. the Messenger of Allah ﷺ said; (Musnad Ahmad)
 ## Personal Reflections
-
 

@@ -106,13 +106,5 @@ The other thing worth noting in this verse is that the one whom these infidels h
 
 Do you really lust after men instead of women? In fact, you are only a people acting ignorantly.”
 
-## AI Tafsir
-
-**What this ayah teaches:** We destined her to be of those who remained behind.) meaning, she was one of those who were destroyed, with her people, because she was a helper to what they did and she approved of their evil deeds.
-
-**Classical tafsir:** Ibn Kathir notes: We destined her to be of those who remained behind.) meaning, she was one of those who were destroyed, with her people, because she was a helper to what they did and she approved of their evil deeds.
-
-**From the Sunnah:** The other possibility is that he might have been a Muslim but enjoyed a prominent position and hence there could have been the risk of uprising and reprisal among the people. (Sahih Muslim)
 ## Personal Reflections
-
 

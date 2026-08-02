@@ -280,11 +280,5 @@ As for the appointed time not being late or early as stated in this verse, it is
 
 Allah will say, “Enter the Fire along with the groups of jinn and humans that preceded you.” Whenever a group enters Hell, it will curse the preceding one until they are all gathered inside, the followers will say about their leaders, “Our Rabb! They have misled us, so multiply their torment in the Fire.” He will answer, “It has already been multiplied for all, but you do not know.”
 
-## AI Tafsir
-
-**What this ayah teaches:** This is because the earlier nations were worse criminals than those who followed them, and this is why they entered the Fire first.
-
-**Classical tafsir:** Ibn Kathir notes: This is because the earlier nations were worse criminals than those who followed them, and this is why they entered the Fire first.
 ## Personal Reflections
-
 

@@ -237,11 +237,5 @@ After that it was said: وَتَبْغُونَهَا عِوَجًا (and seeking
 
 And to the people of Midian We sent their brother Shu’aib. He said, “O my people! Worship Allah—you have no other god except Him. A clear proof has already come to you from your Rabb. So give just measure and weight, do not defraud people of their property, nor spread corruption in the land after it has been set in order. This is for your own good, if you are those who have iman.
 
-## AI Tafsir
-
-**What this ayah teaches:** The punishment of the Rajfah on the people of Madyan is mentioned as Saihah (Sound) at some places, while as Rajfah (earthquake) at others.
-
-**Classical tafsir:** Ibn Kathir notes: Shu'ayb was called 'Speaker of the Prophets', because of his eloquent words and eloquent advice, and Allah stated that Shu'ayb said:
 ## Personal Reflections
-
 

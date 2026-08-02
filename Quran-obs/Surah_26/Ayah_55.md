@@ -80,13 +80,5 @@ It is worth noting here that the magicians who had involved all their lives prac
 
 who have really enraged us,.
 
-## AI Tafsir
-
-**Context:** And We revealed to Musa, saying: "Depart by night with My servants, verily, you will be pursued. (52)Then Fir'awn sent callers to (all) the cities (53)(Saying): "Verily, these indeed are but a small band.
-
-**What this ayah teaches:** Many incidents of similar nature have also occurred with our Holy Prophet ﷺ .
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

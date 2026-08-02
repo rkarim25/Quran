@@ -156,15 +156,5 @@ Although it is a single thing, but suhuf, the plural form of sahifah is used bec
 
 It is recorded on honoured pages,
 
-## AI Tafsir
-
-**Context:** (He frowned and turned away.) "This was revealed about Ibn Umm Maktum, the blind man. He came to the Messenger of Allah ﷺ and began saying, 'Guide me.' At the time the Messenger of Allah ﷺ had a man with him who was one…
-
-**What this ayah teaches:** Although it is a single thing, but suhuf, the plural form of sahifah is used because all divine scriptures are written in it, or because the angels copy their scriptures from them.
-
-**Classical tafsir:** Ibn Kathir notes: The word suhuf refers to lauh mahfuz 'the Preserved Tablet'.
-
-**From the Sunnah:** He (Ibn Umm Maktum) then began asking the Messenger of Allah ﷺ about something, urgently beseeching him. He came to the Messenger of Allah ﷺ and began saying, 'Guide me.' At the time the Messenger of Allah ﷺ had a man with him who was one of the great leaders of the idolators.
 ## Personal Reflections
-
 

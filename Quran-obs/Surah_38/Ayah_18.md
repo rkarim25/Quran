@@ -113,11 +113,5 @@ In the Salah of ad-duha, one could choose to offer any (even) number of rakat fr
 
 We subjected the mountains to glorify Allah with him at evening and after sunrise.
 
-## AI Tafsir
-
-**What this ayah teaches:** If a bird flew by him and heard him chanting the Zabur, it would not go away; instead it would stay hovering in the air, glorifying Allah along with him. Verily, he was ever oft-returning in all matters and in repentance (17)Verily, We made the mountains to glorify Our praises with him in the 'Ashi and Ishraq (18)And (so did) the birds assembled, all obedient to him (19)We made his kingdom strong…
-
-**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas, may Allah be pleased with him, As-Suddi and Ibn Zayd said, "Al-Ayd means strength." Mujahid said, "Al-Ayd means strength in obedience to Allah." Qatadah said, "Dawud, peace be upon him, was given strength in worship and the proper understanding of Islam." He told us that he, peace be upo… Mujahid and As-Suddi said, "It means passing the right judgement and understanding the case." Mujahi…
 ## Personal Reflections
-
 

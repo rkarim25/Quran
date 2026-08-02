@@ -100,11 +100,5 @@ Out of the authorities of Tafsir, ` Ata and Ibn Zayd said that a person condemne
 
 Those before them also rejected the truth, then the torment came upon them from where they least expected.
 
-## AI Tafsir
-
-**What this ayah teaches:** So, let those who are addressed beware, for they have rejected the noblest of the Messengers and the Seal of the Prophets ﷺ. Even if he wished to ward off the punishment in defense, he would have no option but to use his very face as the shield, because he would have been thrown in Jahannam with his hands and feet tied.
-
-**Classical tafsir:** Ibn Kathir notes: Even if he wished to ward off the punishment in defense, he would have no option but to use his very face as the shield, because he would have been thrown in Jahannam with his hands and feet tied.
 ## Personal Reflections
-
 

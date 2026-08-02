@@ -193,13 +193,5 @@ This is the narration that Abu Ya'la collected, and Al-Hafiz Ad-Diya' said, "Thi
 
 with cups, pitchers, and wine from a flowing stream—
 
-## AI Tafsir
-
-**What this ayah teaches:** The word main refers to the fact that the glasses will contain wine drawn from a flowing spring. The word akwab, plural of kub, refers to 'cups or glasses used for drinking.
-
-**Classical tafsir:** Ibn Kathir notes: The word akwab, plural of kub, refers to 'cups or glasses used for drinking.
-
-**From the Sunnah:** He considered it supported by the saying of Allah's Messenger ﷺ: And a few of those will be from the later ones.), this news became hard for the Companions of the Prophet ﷺ.
 ## Personal Reflections
-
 

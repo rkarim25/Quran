@@ -145,11 +145,5 @@ At the conclusion of the verse, the given situation has been identified as a dev
 
 Had Allah willed, He could have easily made you one community of believers, but He leaves to stray whoever He wills and guides whoever He wills. And you will certainly be questioned about what you used to do.
 
-## AI Tafsir
-
-**What this ayah teaches:** But you shall certainly be called to account for what you used to do (93)And do not make your oaths a means of deception among yourselves, resulting in the slip of a foot after it was firmly planted, and you taste the evil of having hindered from the path of Allah, and you will suffer a terrible punishment (94)And do not use an oath by Allah for the purchase of little value, wh…
-
-**Classical tafsir:** Ibn Kathir notes: This is an analogy describing one who was on the right path but then deviated and slipped from the path of guidance because of an unfulfilled oath that involved hindering people from the path of Allah.
 ## Personal Reflections
-
 

@@ -216,13 +216,5 @@ To sum up, the injunction of 'torturing' and 'confining to homes' which appears 
 
 Those of your women who commit illegal intercourse—call four witnesses from among yourselves. If they testify, confine the offenders to their homes until they die or Allah ordains a way for them.
 
-## AI Tafsir
-
-**Context:** Ibn 'Abbas and Sa'id bin Jubayr said that this punishment includes cursing, shaming them and beating them with sandals. This was the ruling until Allah abrogated it with flogging or stoning, as we stated.
-
-**What this ayah teaches:** Secondly, the number of the required witnesses is raised to four.
-
-**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas said, "The early ruling was confinement, until Allah sent down Surat An-Nur (chapter 24) which abrogated that ruling with the ruling of flogging (for fornication) or stoning to death (for adultery)." Similar was reported from 'Ikrimah, Sa'id bin Jubayr, Al-Hasan, 'Ata' Al-Khurasani, Abu S… Mujahid said, "It was revealed about the case of two men who do it." As if he was referring to the a…
 ## Personal Reflections
-
 

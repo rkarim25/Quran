@@ -165,11 +165,5 @@ Patience and Gratitude
 
 so you do not grieve over what you missed nor exult over what He gave you. Allah does not love every self-important boaster,
 
-## AI Tafsir
-
-**What this ayah teaches:** But instead of using the word 'hates' the expression 'does not love' is perhaps an indication that an intelligent person should consider about all his actions whether or not the intended act is dear to Allah.
-
-**Classical tafsir:** Ibn Kathir notes: Allah says here, 'do not boast before people about what Allah has favored you with, because it is not you who earned it by your efforts.
 ## Personal Reflections
-
 

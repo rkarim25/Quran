@@ -150,13 +150,5 @@ The phrase قَوْلَ الْحَقِّ (translated in the text as 'the word of
 
 How clearly they will hear and see the Day they come to Us. But today the wrongdoers are clearly astray.
 
-## AI Tafsir
-
-**Context:** Ibn Abi Hatim recorded that Hazm bin Abi Hazm Al-Quta'i said, "'Umar bin 'Abdul-Aziz wrote to 'Abdul-Hamid bin 'Abdur-Rahman, who was the governor of Kufah: 'Thus, to proceed: Verily, Allah prescribed death for His creat…
-
-**What this ayah teaches:** How clearly will they see and hear, the Day when they will appear before Us! But the wrongdoers today are in plain error (38)And warn them of the Day of grief and regrets, when the case has been decided, while (now) they are in a state of carelessness, and they believe not (39)Verily, We will inherit the earth and whatsoever is thereon.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, no soul will be done any injustice, nor wronged even the weight of a mosquito or an atom.
 ## Personal Reflections
-
 

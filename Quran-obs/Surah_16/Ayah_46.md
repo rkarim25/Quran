@@ -125,13 +125,5 @@ This also tells us that, in order to understand the Qur'an and to understand the
 
 Or that He will not seize them while they go about their day, for then they will have no escape?
 
-## AI Tafsir
-
-**Context:** The first thing the report referred to above proves is that the ability to speak and write the Arabic language is not enough for the understanding of Qur'an.
-
-**What this ayah teaches:** In the present verses, they have been further warned that it is also possible that they are caught in the punishment from Allah right here in this world much before the pun-ishment of the Hereafter, may be you are sunk into the earth you are sitting on, or you are seized by the punishment of Allah coming from a direction totally inconceivable for you.
-
-**Classical tafsir:** Ibn Kathir notes: Also possible is yet another form of punishment when punishment may not come all of a sudden, but a general decrease sets in causing wealth, health, fitness, means of sustenance and comfort and peace go on shrinking so much so that the day comes when the people so punished disapp…
 ## Personal Reflections
-
 

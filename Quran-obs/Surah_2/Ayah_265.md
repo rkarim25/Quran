@@ -174,17 +174,5 @@ Here the merits of spending in the way of Allah, surely with sincerity of intent
 
 The likeness of those who spend seeking Allah's pleasure and believing the reward is certain is a garden on a fertile hill: when heavy rain falls, it yields double; if no heavy rain, a light shower suffices. Allah sees what you do.
 
-## AI Tafsir
-
-**Essence** Charity given purely for Allah's pleasure, anchored by inward certainty of His reward, is like a garden on a height: it yields richly in heavy rain, and even a drizzle is enough to keep it bearing fruit.
-
-**What it teaches** The ayah praises those who spend their wealth seeking only mardat Allah (Allah's pleasure), joined with tathbit min anfusihim — a settledness of soul, giving from firm conviction rather than impulse. Their spending is set against a single, unbroken image: a garden whose harvest is secure whether the rain is heavy or light. The conditions Allah names are inward (sincerity and certainty); the result He promises is a yield that never fails.
-
-**The scholars** Ibn Kathir explains tathbit min anfusihim as the giver being certain that Allah shall reward these righteous acts with the best reward. He reports that the majority of scholars take rabwah as ground raised above the surrounding land, and that Ibn 'Abbas and Ad-Dahhak add it also has flowing rivers; wabil is heavy rain, which makes this garden yield ukul (produce) double that of other gardens, while Ad-Dahhak says tall is light rain. The point, Ibn Kathir says, is that this elevated garden is always fertile — heavy rain or light, it bears fruit — and so are the believer's good deeds: they never become barren; rather Allah accepts them and increases them, each according to his deeds. The closing "Allah is All-Seer of what you do" means none of His servants' deeds ever escapes His perfect watch. Maarif ul Quran draws the practical lesson: spending with sincere intention and obedience to the conditions Allah set, even if it be just a little, becomes enough and helps one gain the Hereafter.
-
-**From the Sunnah** Ibn Kathir cites this to unpack tathbit — the worshipper acts believing Allah commanded the deed and awaiting His reward (ihtisab); the one who fasts Ramadan in faith and expectation of reward mirrors the giver who spends certain Allah will reward him. (Al-Bukhari and Muslim)
-
-**Reflection** The parable measures the heart, not the amount. Before you give, ask whose pleasure you are seeking and whether you truly trust Allah to repay — for it is that inner certainty, not the size of the gift, that turns even a quiet drizzle of charity into a harvest He will never let run dry.
 ## Personal Reflections
-
 

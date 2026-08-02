@@ -159,11 +159,5 @@ of slaughter, the calf came out alive, they would slaughter it as well - but, wo
 
 Likewise, the pagans’ evil associates have made it appealing to them to kill their own children—only leading to their destruction as well as confusion in their faith. Had it been Allah’s Will, they would not have done such a thing. So leave them and their falsehood.
 
-## AI Tafsir
-
-**What this ayah teaches:** And so to many of the idolators, their "partners" have made fair seeming the killing of their children, in order to lead them to their own destruction and cause confusion in their religion. Shaytan Lured the Idolators to Kill Their Children Allah says, just as the Shayatin lured the idolators to assign a share for Allah from what He created of agriculture and cattle - and a share for the idols, th…
-
-**Classical tafsir:** Ibn Kathir notes: They took out a portion in the name of Allah from grains and fruits, and some in the name of idols and Jinns.
 ## Personal Reflections
-
 

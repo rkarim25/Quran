@@ -112,13 +112,5 @@ The forthcoming verses address the people of the time of the Prophet Muhammad �
 
 How terrible were My punishment and My warnings!
 
-## AI Tafsir
-
-**Context:** رَ‌اوَدُوهُ عَن ضَيْفِهِ (And they had even tried to tempt him against his guests...54:37). The word murawadah signifies to entice someone to satisfy one's lust.
-
-**What this ayah teaches:** First, the punishment of the Hereafter is mentioned.
-
-**Classical tafsir:** Ibn Kathir notes: As-Suddi said that they became like the dry grass in the desert when it becomes burned and the wind scatters it all about.
 ## Personal Reflections
-
 

@@ -198,13 +198,5 @@ Ibn Abi Hatim recorded that Ibn 'Abbas said concerning Allah's statement,
 
 Pharaoh threatened, “How dare you believe in him before I give you permission? He must be your master who taught you magic. I will certainly cut off your hands and feet on opposite sides, and crucify you on the trunks of palm trees. You will really see whose punishment is more severe and more lasting.”
 
-## AI Tafsir
-
-**What this ayah teaches:** So I will surely cut off your hands and feet on opposite sides, and I will surely crucify you on the trunks of date palms, and you shall surely know which of us can give the severe and more lasting torment. He said he would cut off their hands and feet from opposite sides i.e.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** Ibn Abi Hatim recorded that Ibn 'Abbas said concerning Allah's statement,
 ## Personal Reflections
-
 

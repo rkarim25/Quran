@@ -110,13 +110,5 @@ During the Khilafah of Sayyidna ` Umar ibn ` Abd al-` Aziz (رح) ، someone was
 
 So seek your Rabb’s forgiveness and turn to Him in repentance. Surely my Rabb is the Rahim, All-Loving.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, my Lord is ar-Rahim, Most Loving.
-
-**Classical tafsir:** Ibn Kathir notes: Qatadah said, "This means that they were only destroyed before you yesterday." It has also been said that it refers to place.
-
-**From the Sunnah:** There is a consensus of the entire Muslim Ummah that doing so is strictly Haram (unlawful). (Sahih Muslim)
 ## Personal Reflections
-
 

@@ -233,11 +233,5 @@ Commentary
 
 Do you not see that Allah has subjected to you whatever is in the earth as well as the ships that sail through the sea by His command? He keeps the sky from falling down on the earth except by His permission. Surely Allah is Ever Gracious and the Rahim — special mercy for believers in the Akhirah to humanity.
 
-## AI Tafsir
-
-**What this ayah teaches:** And verily, Allah – He is Rich, Worthy of all praise (64)See you not that Allah has subjected to you all that is on the earth, and the ships that sail through the sea by His command He withholds the heaven from falling on the earth except by His leave.
-
-**Classical tafsir:** Ibn Kathir notes: The verse therefore means that all the things mentioned above are all the time working in the service of man by the command of Allah.
 ## Personal Reflections
-
 

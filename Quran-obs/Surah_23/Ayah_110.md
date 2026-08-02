@@ -108,11 +108,5 @@ Then Allah will remind them of their sins in this world and how they used to mak
 
 but you were so busy making fun of them that it made you forget My dhikr. And you used to laugh at them.
 
-## AI Tafsir
-
-**What this ayah teaches:** And, whenever they passed by them, used to wink one to another.)(83:29-30) meaning, they used to slander them in mockery. Allah's Response and Rejection of the those who reject the truth This is the response of Allah to the those who reject the truth when they ask Him to bring them out of the Fire and send them back to this world.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

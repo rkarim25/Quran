@@ -102,13 +102,5 @@ The person who has learnt Qur'an and then hanged it (on the wall), neither he re
 
 Similarly, We made enemies for every prophet from among the wicked, but sufficient is your Rabb as a Guide and Helper.
 
-## AI Tafsir
-
-**What this ayah teaches:** But sufficient is your Lord as a Guide and Helper .
-
-**Classical tafsir:** Ibn Kathir notes: When he would recite Qur'an to them, they would talk nonsense or speak about something else, so that they would not hear it.
-
-**From the Sunnah:** However, in certain traditions it is reported that those Muslim who do believe in the Qur'an but neither they read it nor try to follow it fall as much within the ambit of this category of people. (Sahih Muslim)
 ## Personal Reflections
-
 

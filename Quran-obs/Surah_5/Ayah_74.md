@@ -176,13 +176,5 @@ And We have not sent any (one) before you but men to whom We revealed from among
 
 Will they not turn to Allah in repentance and seek His forgiveness? And Allah is All-Forgiving, the Rahim.
 
-## AI Tafsir
-
-**Context:** Mujahid and several others said that this Ayah was revealed about the Christians in particular. As-Suddi and others said that this Ayah was revealed about taking 'Isa and his mother as gods besides Allah, thus making All…
-
-**What this ayah teaches:** And if they cease not from what they say, verily, a painful torment will befall on the those who reject the truth among them (73)Will they not repent to Allah and ask His forgiveness For Allah is Oft-Forgiving, ar-Rahim (74)The Messiah ['Isa], son of Maryam, was no more than a Messenger; many were the Messengers that passed away before him.
-
-**Classical tafsir:** Ibn Kathir notes: In the present verse (75), the complimentary use of the word "Siddiqah" (truthful) obviously seems to indicate that she was a godly person, not a Nabiyy ( prophet) - because on a complimentary occasion, what is mentioned is the higher rank.
 ## Personal Reflections
-
 

@@ -233,11 +233,5 @@ Some Jewish chiefs came to the Holy Prophet ﷺ and demanded that he bring down 
 
 The People of the Book demand that you bring down for them a revelation in writing from heaven. They demanded what is even greater than this from Moses, saying, “Make Allah visible to us!” So a thunderbolt struck them for their wrongdoing. Then they took the calf for worship after receiving clear signs. Still We forgave them for that and gave Moses compelling proof.
 
-## AI Tafsir
-
-**What this ayah teaches:** The People of the Scripture (Jews) ask you to cause a book to descend upon them from heaven. Their forefathers had gone even beyond them by demanding something more grave: "Make us see Allah openly." Upon this audacity of theirs, came' a thunderbolt from the heaven and destroyed them.
-
-**Classical tafsir:** Ibn Kathir notes: The Stubbornness of the Jews Muhammad bin Ka'b Al-Qurazi, As-Suddi and Qatadah said that the Jews asked the Messenger of Allah to cause a book to come down to them from heaven, just as the Tawrah was sent down to Musa.
 ## Personal Reflections
-
 

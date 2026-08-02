@@ -155,15 +155,5 @@ In the second verse (98) too, yet another aspect of the condition of these very 
 
 And among the nomads are those who consider what they donate to be a loss and await your misfortune. May ill-fortune befall them! And Allah is All-Hearing, All-Knowing.
 
-## AI Tafsir
-
-**Context:** The bedouins are the worst in disbelief and hypocrisy, and more likely to not know the limits which Allah has revealed to His Messenger.
-
-**What this ayah teaches:** In other words, the evil state of affairs they wish would strike at Muslims is going to descend upon them all right - and, because their words and deeds are such, they will find themselves far more disgraced. Therefore, they always look forward to the time when Muslims are hit by some calamity or defeat that may possibly deliver them from having to pay this penalty.
-
-**Classical tafsir:** Ibn Kathir notes: In other words, the evil state of affairs they wish would strike at Muslims is going to descend upon them all right - and, because their words and deeds are such, they will find themselves far more disgraced.
-
-**From the Sunnah:** this Hadith.
 ## Personal Reflections
-
 

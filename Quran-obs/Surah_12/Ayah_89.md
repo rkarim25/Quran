@@ -116,11 +116,5 @@ When his brothers heard his question, they were dumbfounded. What has the ` Aziz
 
 He asked, “Do you remember what you did to Joseph and his brother in your ignorance?”
 
-## AI Tafsir
-
-**What this ayah teaches:** To start with, he first asked his brothers if they remembered what they had done with Yusuf and his brother at a time when they were ignorant, unable to distinguish between good and bad, and quite neglectful of acting with foresight.
-
-**Classical tafsir:** Ibn Kathir notes: Presenting their need and helplessness, they told the ` Aziz that they and their family were suffering because of the famine, so much so that they did not have even adequate funds to purchase food grains.
 ## Personal Reflections
-
 

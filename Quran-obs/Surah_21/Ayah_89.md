@@ -100,11 +100,5 @@ Sayyidna Zakariyya (علیہ السلام) wished for a son and heir for which h
 
 And remember when Zachariah cried out to his Rabb, “My Rabb! Do not leave me childless, though You are the Best of Successors.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Leave me not single (childless), though You are the Best of the inheritors.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

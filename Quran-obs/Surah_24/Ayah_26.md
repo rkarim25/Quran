@@ -125,11 +125,5 @@ In the light of this norm and principle it is now quite clear that the messenger
 
 Wicked women are for wicked men, and wicked men are for wicked women. And virtuous women are for virtuous men, and virtuous men are for virtuous women. The virtuous are innocent of what the wicked say. They will have forgiveness and an honourable provision.
 
-## AI Tafsir
-
-**Context:** Ibn 'Abbas said, "Evil words are for evil men, and evil men are for evil words; good words are for good men and good men are for good words.
-
-**What this ayah teaches:** Good statements are for good people and good people for good statements: such are innocent of (every) bad statement which they say; for them is forgiveness, and honored provision . It is, therefore, corroborated that it is possible that a messenger's wife could be a those who reject the truth, but it is not possible that she could be vulgar and sexually immoral, because adultery is a natural detestable act in th…
 ## Personal Reflections
-
 

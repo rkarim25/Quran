@@ -199,13 +199,5 @@ Obviously the book or the ledger of deeds would not be made up of mundane paper,
 
 As the two recording angels sit—one on the right and one on the left—writing everything down,
 
-## AI Tafsir
-
-**What this ayah teaches:** The word qa` id is used in the verse to describe the two angels, because they accompany human beings all the time and in every state - whether sitting or standing, whether moving or sleeping. 50:17) means that the angel sitting on the right records one's good actions, and that on the left, his bad actions.
-
-**Classical tafsir:** Ibn Kathir notes: Pay my debt!' The fox went out howling and continued until his neck was cutoff, (i.e.,) he died.) This parable indicates that just as the fox had no way of escaping or avoiding the earth, likewise, man has no way of avoiding death.
-
-**From the Sunnah:** Those who explained 'We' in the Ayah to mean 'Our knowledge,' have done so to avoid falling into the idea of incarnation or indwelling; but these two creeds are false according to the consensus of Muslims.
 ## Personal Reflections
-
 

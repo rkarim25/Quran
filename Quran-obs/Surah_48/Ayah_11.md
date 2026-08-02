@@ -207,13 +207,5 @@ Reference in this passage is to those Bedouin tribes who were invited by Allah's
 
 The desert Arabs who stayed behind will say: We were held back by our wealth and families—ask forgiveness for us. They say with their tongues what is not in their hearts. Say: Who can protect you from Allah if He intends harm or benefit for you? Allah is fully aware of what you do.
 
-## AI Tafsir
-
-**What this ayah teaches:** Those of the bedouins who lagged behind will say to you: "Our possessions and our families occupied us, so ask forgiveness for us." They say with their tongues what is not in their hearts.
-
-**Classical tafsir:** Ibn Kathir notes: They asked the Messenger of Allah ﷺ to invoke Allah to forgive them, not because they had faith in the Prophet ﷺ and his invocation, but to show off and pretend.
-
-**From the Sunnah:** Allah informs His Messenger ﷺ of the excuses that the bedouins who lagged behind would offer him, those bedouins who preferred to remain in their homes and possessions and did not join the Messenger of Allah ﷺ. Rather, your lagging behind was because of hypocrisy and because you thought that the Muslims would be killed to the extent of extermination, their lives would be extinguished and none of them will ever come back,'
 ## Personal Reflections
-
 

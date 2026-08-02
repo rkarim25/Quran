@@ -77,11 +77,5 @@ Surah Al-Mu'minun began with the verse قَدْ أَفْلَحَ الْمُؤْ�
 
 Say, O Prophet, “My Rabb! Forgive and have mercy, for You are the best of those who show mercy.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Here the object of the forgiveness and having mercy has not been mentioned. What is there to be forgiven and to whom is mercy to be shown?
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

@@ -121,13 +121,5 @@ At this stage, Imam al-Baghawi says in his Tafsir that Zabur is a book of Allah 
 
 Say, O Prophet, “Invoke those you claim to be divine besides Him—they do not have the power to undo harm from you or transfer it to someone else.”
 
-## AI Tafsir
-
-**Context:** At this stage, Imam al-Baghawi says in his Tafsir that Zabur is a book of Allah revealed to Sayyidna Dawud (علیہ السلام) .
-
-**What this ayah teaches:** They have neither the power to remove the adversity from you nor even to shift (it from you to another person). The areas of lawful and unlawful, obligations and limits have not been taken up there.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

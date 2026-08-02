@@ -160,15 +160,5 @@ At the end of the verse (141) it was said: وَلَا تُسْرِ‌فُوا ۚ
 
 But if they deny you, say, “Your Rabb is infinite in mercy, yet His punishment will not be averted from the wicked people.”
 
-## AI Tafsir
-
-**Context:** Tafsir authority, Ibn Kathir, in his Tafsir and Ibn al-Arabi in Ahkam al-Qur'an have resolved this by saying that, whether the verse is Makki or Madani, in both events, the verse could mean the Zakah of land, that is, `…
-
-**What this ayah teaches:** Therefore, the rule of guidance given is that one should observe moderation even when spending in the way of Allah so that all due rights can be taken care of.
-
-**Classical tafsir:** Ibn Kathir notes: Some others among them have counted this verse as one of the Madani verses and, according to them, ` haqqah u' refers to the Zakah of the land which is ` Ushr.
-
-**From the Sunnah:** The determination of this quantity was not needed there because Muslims did not have the assurance of acquiring the produce of their lands and fruit farms conveniently and in peace.
 ## Personal Reflections
-
 

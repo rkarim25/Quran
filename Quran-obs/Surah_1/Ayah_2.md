@@ -67,22 +67,5 @@ It may be said that the phrase 'the Lord of all the worlds' is in a way the proo
 
 All praise truly belongs to Allah—the Rabb who owns, nurtures, and sustains al-alamin, everything that exists: this earth, the worlds beyond our sight, and every form of life across them.
 
-## AI Tafsir
-
-**Essence**
-All praise belongs to Allah alone, the Lord who nurtures and sustains every realm of existence.
-
-**What it teaches**
-Al-hamd is praise and thanks of every kind, and it belongs by right to Allah: whoever admires any beauty anywhere is, behind the veil of appearances, admiring the one creative power that made it. Rabb means "one who nurtures" — developing a thing by gradual stages toward its own good. Used absolutely it belongs to Allah alone; a creature is called rabb only with a qualifier ("master of the house"). Al-'alamin embraces all existence — sky and earth, sun and moon, angels, jinn, animals, plants, minerals, and mankind.
-
-**The scholars**
-"Lord of all the worlds" is the proof of "all praise belongs to Allah": since He alone nurtures the universe, He alone deserves praise — and the One who alone deserves praise alone deserves worship. So this opening cuts the root of polytheism and establishes tawhid. Imam Razi adds that Allah, being All-Powerful, may well have created countless universes across endless space.
-
-**From the Sunnah**
-Allah divided the salah of al-Fatihah between Himself and His servant; when the servant says "Al-hamdu lillahi Rabbil-'alamin," Allah responds, "My servant has paid his homage to Me." (Sahih Muslim)
-
-**Reflection**
-Each time you say these words in prayer, Allah Himself answers — so let praise, not heedlessness, fill the heart.
 ## Personal Reflections
-
 

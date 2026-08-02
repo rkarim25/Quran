@@ -138,13 +138,5 @@ The Qur'an tells us only this much that Sayyidna Ayyub (علیہ السلام) w
 
 Remember Our servant Ayyub, when he cried to his Lord: "Satan has afflicted me with distress and suffering."
 
-## AI Tafsir
-
-**Context:** (Allah's Prophet Ayyub, peace be upon him, suffered for eighteen years from his affliction and was shunned by relatives and strangers alike, besides two men who were the closest of his brothers to him.
-
-**What this ayah teaches:** Ayyub Here Allah tells us about His servant and Messenger Ayyub (Job) and how He tested him. She used to work for people as a paid servant, and she fed and served him (Ayyub) for nearly eighteen years.
-
-**Classical tafsir:** Ibn Kathir notes: Then he had nothing left in this world which he could use to help him deal with his sickness or the predicament he was in, besides his wife, who retained her devotion to him because of her faith in Allah and His Messenger.
 ## Personal Reflections
-
 

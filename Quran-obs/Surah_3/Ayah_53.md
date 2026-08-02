@@ -112,17 +112,5 @@ Verse 52 states that Sayyidna ` Isa (علیہ السلام) looked for helpers i
 
 “Our Rabb! We believe in Your revelations and follow the messenger, so count us among those who bear witness.”
 
-## AI Tafsir
-
-**Essence** The first followers of 'Isa lift their declared faith into a prayer, asking Allah to count them among those who bear witness to the truth.
-
-**What it teaches** Having affirmed before their prophet, "We are the helpers of Allah," the Hawariyyun now turn to their Lord: they believe in what Allah sent down (the revelation given to 'Isa), they follow His Messenger, and they beg, "fa-ktubna ma'a ash-shahidin" — write us down, count us among the shahidin, those who witness and testify to the truth. Faith is not left as a private claim; it is sealed by following the Messenger and entrusted to Allah to preserve.
-
-**The scholars** Maarif ul Quran explains that hawariyy derives from hawar, "whiteness," and was given to 'Isa's sincere disciples either for the purity of their hearts or their white dress — just as the Prophet's ﷺ sincere followers are called the Sahabah; some commentators number the disciples as twelve. Ibn Kathir adds that hawari in Arabic also carries the sense of "support" or "helper." On "write us down among those who bear witness," Ibn Kathir records that Ibn 'Abbas (through Ibn Abi Hatim, with what the source calls a good chain of narration) said it means "among the Ummah of Muhammad" — so the disciples' prayer may be understood to reach toward the final community of believers. Maarif draws a further lesson from verse 52: 'Isa sought helpers only once he sensed hostility, having first risen to his mission entirely alone in obedience to his Lord — and verse 53 is where that lonely obedience flowers into a community whose witness is sealed in prayer.
-
-**From the Sunnah** Just as 'Isa called for helpers in Allah's cause, the Prophet ﷺ went out at the Hajj season before the Hijrah seeking refuge so he could deliver his Lord's message, until the Ansar took him in and protected him: "Who will give me asylum so that I can convey the Speech of my Lord, for the Quraysh have prevented me from conveying the Speech of my Lord." And every prophet is given such a devoted helper; the Prophet ﷺ said, "Every Prophet has a Hawari, and Az-Zubayr is my Hawari." (Tafsir Ibn Kathir; the second narration from the Two Sahihs)
-
-**Reflection** Make your faith a standing prayer — follow the Messenger ﷺ, support the truth, and ask Allah to keep you written among those who bear witness.
 ## Personal Reflections
-
 

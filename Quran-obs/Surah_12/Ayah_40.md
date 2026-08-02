@@ -176,11 +176,5 @@ After that, he declares his abhorrence for disbelief and his disengagement from 
 
 Whatever idols you worship instead of Him are mere names which you and your forefathers have made up—a practice Allah has never authorized. It is only Allah Who decides. He has commanded that you worship none but Him. That is the upright faith, but most people do not know.
 
-## AI Tafsir
-
-**What this ayah teaches:** He has commanded that you worship none but Him; that is the straight religion, but most men know not.
-
-**Classical tafsir:** Ibn Kathir notes: Prophet Yusuf explained to them next that it is because of their ignorance that they worship false deities and give them names, for these names were forged and are being transferred from one generation to the next generation.
 ## Personal Reflections
-
 

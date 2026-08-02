@@ -494,19 +494,5 @@ Now that all doubts have been removed, let Allah be praised. The purpose here do
 
 If he divorces her a third time, she is not lawful to him until she marries another husband and is divorced from him. Then it is lawful for them to reunite if they believe they can keep within Allah's limits. These are Allah's limits — He makes them clear for people who know.
 
-## AI Tafsir
-
-**Essence** After a third, irrevocable divorce a man may not simply take his wife back. Only if she truly marries another husband, lives with him, and is then released by him may the first couple reunite — and only if they sincerely intend to keep within Allah's limits.
-
-**What it teaches** When a husband pronounces the third talaq — a step the Shari'ah dislikes (Maarif: the very initial step toward divorce is detestable) — the marriage is "totally annulled." His option to revoke during 'Iddah and his option to contract a fresh nikah with her are both exhausted. She becomes lawful to him again only after a real intervening marriage to "a spouse other than him" (zawjan ghayrahu) that is genuinely consummated and then ended; if they then reunite, it must be with the honest resolve to "keep the limits of Allah" (yuqima hududa Llahi) — these hudud being the boundaries Allah Himself "makes plain for the people who have knowledge."
-
-**The scholars** Ibn Kathir explains the wider passage (2:229) abrogated the early practice in which a man could take a wife back even after divorcing her "a hundred times" while she was in 'Iddah — a situation "harmful for the wife" — so Allah limited revocable divorce to twice and made the third final. 'Ali bin Abu Talhah reports Ibn 'Abbas: after two divorces a man should "fear Allah regarding the third time," either keeping her with kindness or releasing her "without infringing upon any of her rights." The intervening marriage, Ibn Kathir stresses, must be a genuine legal marriage that is consummated; Mujahid glosses the reunion condition as the couple being "convinced that the aim behind their marriage is honorable." But if the second marriage is contracted only to make her lawful again (Tahlil/Halalah), it is condemned. Maarif notes the Qur'an's conditional "fa-in tallaqaha" (then if he divorces her) — rather than "the divorces are three" — hints one should not reach a third talaq at all: Imam Malik and others called three-at-once talaq al-bid'ah; some jurists permit three only if pronounced separately in three tuhrs (terming this talaq al-sunnah, though still undesirable); the best method (al-talaq al-ahsan) is a single pronouncement in one tuhr left to run out its 'Iddah. Whether three-at-once counts as one or three is itself disputed among the schools — Shafi'i, Malik, Abu Hanifa, Ahmad and the majority held all three take effect.
-
-**From the Sunnah** A woman divorced thrice does not become lawful for her first husband by a mere intervening marriage; that marriage must be truly consummated — 'A'ishah reported the Messenger of Allah said of such a case, "No, until he enjoys her 'Usaylah (sexual relation)," 'Usaylah meaning sexual intercourse. (Muslim, also Al-Bukhari)
-
-**From the Sunnah** Marrying a woman only to make her lawful again for her former husband (Tahlil) is cursed: 'Abdullah bin Mas'ud reported that the Messenger of Allah "cursed the one who does Tahlil, the one in whose favor it is done, those who eat Riba (usury) and those who feed it." (Imam Ahmad; also At-Tirmidhi and An-Nasa'i — At-Tirmidhi: Hasan)
-
-**Reflection** Treat divorce as the last resort Allah made it, never a threat to wield — and never twist a sacred bond into a loophole, for the limits of Allah are kept by hearts that fear Him, not by tricks that mock His Book.
 ## Personal Reflections
-
 

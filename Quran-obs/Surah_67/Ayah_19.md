@@ -143,11 +143,5 @@ Thus far the conditions of various categories and species of existent beings wer
 
 Have they not seen the birds above them, spreading and folding their wings? None holds them up except the Rahman. He is All-Seeing of everything.
 
-## AI Tafsir
-
-**What this ayah teaches:** Then you shall know how has been My warning (17)And indeed those before them rejected, then how terrible was My reproach (18)Do they not see the birds above them, spreading out their wings and folding them in? None upholds them except the ar-Rahman.
-
-**Classical tafsir:** Ibn Kathir notes: He is able to punish them because some of them disbelieve in Him and worship others besides Him, yet He is forbearing, He pardons, and He gives respite for an appointed time without hastening.
 ## Personal Reflections
-
 

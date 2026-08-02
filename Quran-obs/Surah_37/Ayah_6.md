@@ -103,13 +103,5 @@ In the next verse, it was said: إِنَّا زَيَّنَّا السَّمَا
 
 Indeed, We have adorned the lowest heaven with stars for decoration
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, We have adorned the near heaven with the stars (6)And to guard against every rebellious Shaytan (7)They cannot listen to the higher group for they are pelted from every side (8)Outcast, and theirs is a constant torment (9)Except such as snatch away something by stealing, and they are pursued by a flaming fire of piercing brightness .
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** When the Messenger of Allah ﷺ was sent, if a Shaytan wanted to take his seat in the heavens, the flaming fire would come and would not miss him; it would burn him every time.
 ## Personal Reflections
-
 

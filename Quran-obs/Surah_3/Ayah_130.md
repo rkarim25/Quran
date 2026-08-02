@@ -246,19 +246,5 @@ These words are used only to explain the factual position prevalent at that time
 
 O you who have iman! Do not consume interest, multiplying it many times over. And live with taqwa toward Allah, so you may prosper.
 
-## AI Tafsir
-
-**Essence**
-Allah addresses the believers directly, forbidding riba in its most predatory form and anchoring the prohibition in taqwa â€” consciousness of Him â€” as the only path to true falah (success and flourishing).
-
-**What it teaches**
-Riba was the defining economic oppression of Jahiliyyah: when a debt came due, creditors would say "pay now, or the loan will incur interest," compounding a small sum into an overwhelming burden year after year. The Qur'an uses the phrase adafan muda'afah â€” "doubled, multiplied" â€” not to restrict the prohibition to egregiously high rates alone, but, as Maarif ul Quran clarifies, to expose the system's inherent nature: even when interest is simple, a creditor who completes one transaction reinvests the proceeds in another, and then another, so that the ultimate result is multiplication without end. Taqwa â€” mindful awareness that Allah sees and will reckon â€” is presented here as the positive force that liberates the believer from exploitative gain and leads to falah: comprehensive success in this world and the Hereafter.
-
-**The scholars**
-Ibn Kathir explains that Allah directed this prohibition at believers to sever their ties with the Jahiliyyah practice of requiring interest on deferred debts, a system that turned modest loans into crushing obligations. He notes that Allah then commands His servants to have taqwa of Him so that they may achieve success in this life and the Hereafter. The verses that follow (3:131â€“136) make the stakes explicit: "Fear the Fire, which is prepared for the disbelievers (al-kafireen)" (3:131), while Paradise â€” as wide as the heavens and the earth â€” is prepared for the muttaqin (3:133). Maarif ul Quran (Mufti Shafi') adds a crucial clarification: the words "doubled and multiplied" are descriptive, not restrictive. The detailed prohibition in Surah al-Baqarah (2:275â€“278) establishes that riba is haram regardless of rate. The phrase here describes the factual reality of how interest operates: once a person is engaged in interest-bearing transactions, he reinvests the proceeds again and again, and thus the ultimate result is doubling and multiplication.
-
-**Reflection**
-The immediate juxtaposition of the prohibition with the warning about the Fire prepared for the disbelievers is a sobering reminder: persistent indulgence in what Allah has prohibited is not merely a financial failing â€” it is a matter of obedience to Him. The believer who cultivates taqwa guards against this by treating every transaction as something Allah witnesses and will reckon.
 ## Personal Reflections
-
 

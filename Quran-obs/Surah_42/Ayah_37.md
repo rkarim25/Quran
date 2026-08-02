@@ -121,13 +121,5 @@ Third virtue: وَإِذَا مَا غَضِبُوا هُمْ يَغْفِرُ�
 
 who avoid major sins and shameful deeds, and forgive when angered;
 
-## AI Tafsir
-
-**What this ayah teaches:** So whatever you have been given is but (a passing) enjoyment for this worldly life, but that which is with Allah is better and more lasting for those who believe and put their trust in their Lord (36)And those who shun the greater sins, and Al-Fawahish, and when they are angry, they forgive (37)And those who answer the Call of their Lord, and perform the Salah, and who (conduct…
-
-**Classical tafsir:** Ibn Kathir notes: The Prophet ﷺ used to consult with them concerning wars and other matters, so that they would feel confidant.
-
-**From the Sunnah:** It was reported in the Sahih that the Messenger of Allah ﷺ never took revenge for his own sake, only when the sacred Laws of Allah were violated. The Prophet ﷺ used to consult with them concerning wars and other matters, so that they would feel confidant.
 ## Personal Reflections
-
 

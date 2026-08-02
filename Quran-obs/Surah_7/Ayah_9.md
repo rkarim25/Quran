@@ -200,13 +200,5 @@ In short, Allah Ta` ala has placed all that human beings need on and in this ear
 
 But those whose scale is light, they have doomed themselves for wrongfully denying Our signs.
 
-## AI Tafsir
-
-**What this ayah teaches:** The one whose scale-pan with good deeds is heavier will have his salvation while the one whose scale-pan with sins and evils is heavier will have his punishment.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, scholars of Tafsir say that this shows that weighing in Mahshar (Resurrection) will be twice.
-
-**From the Sunnah:** The Prophet ﷺ mentioned the opposite in the case of the those who reject the truth and the hypocrite. it is authentic. (Jami' at-Tirmidhi)
 ## Personal Reflections
-
 

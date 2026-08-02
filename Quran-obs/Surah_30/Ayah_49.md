@@ -131,13 +131,5 @@ Commentary
 
 though moments before they had lost all hope.
 
-## AI Tafsir
-
-**What this ayah teaches:** When it came to them, it came at the time of greatest need, so it was a tremendous event for them What this means is that they were in need of it before it fell, and there had been no rainfall for a long time, so they were waiting for it at the time when it was due, but it did not come to them at that time.
-
-**Classical tafsir:** Ibn Kathir notes: The Revival of the Earth is a Sign of the Resurrection Here Allah explains how He creates the clouds that rain the water.
-
-**From the Sunnah:** On the face of this statement, one would have expected that Muslims would never be defeated against the infidels.
 ## Personal Reflections
-
 

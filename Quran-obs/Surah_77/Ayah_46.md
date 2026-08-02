@@ -107,11 +107,5 @@ This is the end of the Tafsir of Surat Al-Mursalat, and all praise and thanks ar
 
 They will be told, 'Eat and enjoy a little—you are truly wicked.'
 
-## AI Tafsir
-
-**What this ayah teaches:** They may eat and drink and enjoy themselves in this world, but the span is short, and then there will be nothing but punishment for them.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

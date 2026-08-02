@@ -231,13 +231,5 @@ The statement: وَلِمَن جَاءَ بِهِ حِمْلُ بَعِيرٍ‌
 
 Joseph began searching their bags before that of his brother Benjamin, then brought it out of Benjamin’s bag. This is how We inspired Joseph to plan. He could not have taken his brother under the King’s law, but Allah had so willed. We elevate in rank whoever We will. But above those ranking in knowledge is the One All-Knowing.
 
-## AI Tafsir
-
-**What this ayah teaches:** He could not take his brother by the law of the king (as a slave), except that Allah willed it.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** Allah is the All-Knowing and His knowledge is above the knowledge of every knowledgeable person.' Simak narrated that 'Ikrimah said that Ibn 'Abbas said about Allah's statement, The related ruling, according to the majority of Muslim jurists, provides that the creditor has the authority to recover his property from the person legally in debt, or from the guarantor, as he chooses. (Sahih Muslim)
 ## Personal Reflections
-
 

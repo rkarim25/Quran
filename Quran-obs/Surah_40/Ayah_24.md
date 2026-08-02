@@ -137,11 +137,5 @@ In a Hadith, the Holy Prophet ﷺ said, 'Of some صِّدِّيقِين (siddiqi
 
 to Pharaoh, Haman, and Qarun. But they responded: "Sorcerer! Total liar!"
 
-## AI Tafsir
-
-**What this ayah teaches:** - A1-Qasas, 28:20) The name of this believing member of the House of the Pharaoh has been given as Habib in some sources.
-
-**Classical tafsir:** Ibn Kathir notes: Qatadah said, this was one command after another.
 ## Personal Reflections
-
 

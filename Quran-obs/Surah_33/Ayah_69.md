@@ -116,13 +116,5 @@ At the end of verse 69, it was said: وَكَانَ عِندَ اللَّـهِ 
 
 O mu'mins! Do not be like those who slandered Moses, but Allah cleared him of what they said. And he was honourable in the sight of Allah.
 
-## AI Tafsir
-
-**What this ayah teaches:** Be not like those who annoyed Musa, but Allah cleared him of that which they alleged, and he was honorable before Allah .
-
-**Classical tafsir:** Ibn Kathir notes: Some of the Children of Israel annoyed him by saying: "He only keeps himself covered because of some defect in his skin, either leprosy or scrotal hernia or some other defect." Allah, may He be glorified, wanted to clear Musa, peace be upon him, of what they were saying.
-
-**From the Sunnah:** the Messenger of Allah ﷺ said: (Sahih al-Bukhari) Be not like those who annoyed Musa, but Allah cleared him of that which they alleged, and he was honorable before Allah.)) This Hadith is one of those which were recorded by Al-Bukhari but not Muslim. (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
-
 

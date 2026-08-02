@@ -225,17 +225,5 @@ I know a verse which, if people were to take to it, would suffice them. And that
 
 When you are touched with good, they grieve; but when you are afflicted with evil, they rejoice. if you are patient and mindful, their schemes will not harm you in the least. Surely Allah is Fully Aware of what they do.
 
-## AI Tafsir
-
-**Essence** The malice of the hypocrites is real, but patience and God-consciousness render every scheme against the believers powerless, for Allah encompasses all that they do.
-
-**What it teaches** The verse exposes hearts so hostile that your good fortune wounds them (tasu'hum) and your misfortune delights them (yafraḥū bihā) — yet it hands the believer a two-word shield: sabr (steadfast patience and endurance) and taqwa (mindful fear of Allah). With these, "their cunning (kayd) shall not harm you in the least," because Allah is Muhit — All-Encompassing of every plot they weave.
-
-**The scholars** Ibn Kathir reads this as the climax of the warning against trusting the hypocrites: their enmity is so deep that when the believers enjoy "fertile years, victories, support and their numbers increase," the hypocrites are displeased, and when Muslims suffer drought or defeat — "just as occurred during the battle of Uhud" — they rejoice. The remedy, he says, is to "revert to patience and to have fear of Allah and trusting Him," for "Allah encompasses the enemies of the believers, while the believers have no power or strength except from Him… whoever relies on Allah, Allah shall suffice for him." Maarif ul Quran titles this the "panacea for Muslims," calling Sabr and Taqwa a "simple and effective prescription" against all hardship, and notes the Qur'an repeats this pairing — promising the reinforcement of five thousand angels (3:125), tying success to it in Surah Yusuf (12:90), and closing this very Surah with "be patient… and fear Allah so that you may be successful" (3:200); though they read like a short title, the two words "contain a successful rule for all aspects of individual and collective life."
-
-**From the Sunnah** The Prophet ﷺ said he knew a single verse that would suffice the people if they lived by it — "And whoever fears Allah, for him He shall make a way out" (65:2) — underscoring that taqwa is the believer's way out of every difficulty, the schemes of enemies among them. (Musnad Ahmad, narrated by Abu Dharr)
-
-**Reflection** When someone's hostility tempts you to retaliate or despair, answer instead with patience and quiet God-consciousness — and leave the outcome to the One whose knowledge and power encompass them.
 ## Personal Reflections
-
 

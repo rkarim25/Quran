@@ -114,13 +114,5 @@ Allah the Exalted said,
 
 Is the reward for ihsan—worshipping as though you see Allah—anything but ihsan?
 
-## AI Tafsir
-
-**What this ayah teaches:** The righteous believers will be blessed, therefore, with good rewards.
-
-**Classical tafsir:** Ibn Kathir notes: The righteous believers will be blessed, therefore, with good rewards.
-
-**From the Sunnah:** Paradise, men or women. (Sahih Muslim) Paradise as small as that occupied by the whip of one of you, is better than the world and whatever is on its surface. (Sahih al-Bukhari)
 ## Personal Reflections
-
 

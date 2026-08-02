@@ -120,11 +120,5 @@ The account of the punishment of these wicked people was given in the fourth ver
 
 The disbelieving chiefs of his people threatened, “If you follow Shu’aib, you will surely be losers!”
 
-## AI Tafsir
-
-**What this ayah teaches:** Allah describes the enormity of disbelief, rebellion, transgression and misguidance (of Shu'ayb's people) and the defiance of truth encrypted in their hearts.
-
-**Classical tafsir:** Ibn Kathir notes: Allah describes the enormity of disbelief, rebellion, transgression and misguidance (of Shu'ayb's people) and the defiance of truth encrypted in their hearts.
 ## Personal Reflections
-
 

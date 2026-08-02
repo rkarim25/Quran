@@ -145,11 +145,5 @@ The place also becomes auspicious if righteous deeds are performed there
 
 Moses appealed, “My Rabb! I have indeed killed a man from them, so I fear they may kill me.
 
-## AI Tafsir
-
-**What this ayah teaches:** I have killed a man among them, and I fear that they will kill me.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

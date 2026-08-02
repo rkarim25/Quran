@@ -225,15 +225,5 @@ At the end of the verse (141) it was said: وَلَا تُسْرِ‌فُوا ۚ
 
 Four pairs: a pair of sheep and a pair of goats—ask, “Has He forbidden the two males or the two females or what is in the wombs of the two females? Tell me with knowledge, if what you say is true.”— and a pair of camels and a pair of oxen. Ask, “Has He forbidden the two males or the two females or what is in the wombs of the two females? Or were you present when Allah gave you this commandment?” Who does more wrong than those who fabricate lies against Allah to mislead others without knowledge? Surely Allah does not guide the wrongdoing people.
 
-## AI Tafsir
-
-**Context:** Tafsir authority, Ibn Kathir, in his Tafsir and Ibn al-Arabi in Ahkam al-Qur'an have resolved this by saying that, whether the verse is Makki or Madani, in both events, the verse could mean the Zakah of land, that is, `…
-
-**What this ayah teaches:** This is a phenomenon which compels even a man of ordinary insight to realize and accept that the Power and Being that created them is a Being beyond the parameters of comprehension, the measure of whose knowledge and wisdom cannot even be imagined by human beings.
-
-**Classical tafsir:** Ibn Kathir notes: Some others among them have counted this verse as one of the Madani verses and, according to them, ` haqqah u' refers to the Zakah of the land which is ` Ushr.
-
-**From the Sunnah:** The determination of this quantity was not needed there because Muslims did not have the assurance of acquiring the produce of their lands and fruit…
 ## Personal Reflections
-
 

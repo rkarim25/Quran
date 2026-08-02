@@ -90,11 +90,5 @@ Allah the Exalted described the destination of the happy ones,
 
 enjoying what their Rabb has given them. Their Rabb protected them from the torment of the blazing Fire.
 
-## AI Tafsir
-
-**What this ayah teaches:** This verse describes the violent movement of the heavens on the Day of Resurrection.
-
-**Classical tafsir:** Ibn Kathir notes: This verse describes the violent movement of the heavens on the Day of Resurrection.
 ## Personal Reflections
-
 

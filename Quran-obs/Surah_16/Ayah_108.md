@@ -134,13 +134,5 @@ According to Imam Abu Hanifah (رح) ، this Hadith is related to injunctions of
 
 They are the ones whose hearts, ears, and eyes are sealed by Allah, and it is they who are truly heedless.
 
-## AI Tafsir
-
-**Context:** This verse was revealed about the noble Sahabah who were arrested by the Mushriks. Their disbelieving captors had told them that they must return to infidelity failing which they would be killed.
-
-**What this ayah teaches:** And Allah does not guide the people who disbelieve (107)They are those upon whose hearts, hearing (ears) and sight (eyes) Allah has set a seal over. He put a seal on their hearts so that they would not be able to understand what is beneficial for them, and He sealed their ears and eyes so that they would not benefit from them.
-
-**Classical tafsir:** Ibn Kathir notes: Whoever disbelieves in Allah after his belief - except one who was forced while his heart is at peace with the faith - but whoever opens their breasts to disbelief, on them is wrath from Allah, and theirs will be a terrible torment (106)That is because they preferred the life of…
 ## Personal Reflections
-
 

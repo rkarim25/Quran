@@ -238,13 +238,5 @@ Ends here
 
 This is only a Reminder for all the worlds—
 
-## AI Tafsir
-
-**Context:** (He has been taught by one mighty in power (Jibril). Dhu Mirrah, then he rose. While he was in the highest part of the horizon. Then he approached and came closer. And was at a distance of two bows' length or less.
-
-**What this ayah teaches:** Others have recited this Ayah with the 'Dad' in the word Danin, which means that he is not stingy, but rather he conveys it to everyone. This means that he is not able to produce it, nor is it befitting of him to do so.
-
-**Classical tafsir:** Ibn Kathir notes: Mujahid said, "It means its darkening." Sa'id bin Jubayr said, "When it begins." Al-Hasan Al-Basri said, "When it covers the people." This was also said by 'Atiyah Al-'Awfi.
 ## Personal Reflections
-
 

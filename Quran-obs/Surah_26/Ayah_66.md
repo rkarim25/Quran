@@ -86,13 +86,5 @@ The reasoning for this he gave إِنَّ مَعِيَ رَ‌بِّي سَيَ�
 
 Then We drowned the others.
 
-## AI Tafsir
-
-**Context:** So, they pursued them at sunrise (60)And when the two hosts saw each other, the companions of Musa said: "We are sure to be overtaken. (61)(Musa) said: "Nay, verily with me is my Lord. He will guide me.
-
-**What this ayah teaches:** At that point Allah commanded his Prophet Musa, peace be upon him, to strike the sea with his staff, so he struck it, and it parted, by the will of Allah.
-
-**Classical tafsir:** Ibn Kathir notes: 'Ata' Al-Khurasani said, "It refers to a pass between two mountains." Ibn 'Abbas said, "The sea divided into twelve paths, one for each of the tribes." As-Suddi added, "And in it there were windows through which they could see one another, and the water was erected like walls." Allah sent the wind t…
 ## Personal Reflections
-
 

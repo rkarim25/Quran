@@ -95,11 +95,5 @@ But, this injunction applies to Allah's creation in general. As for Allah Ta’ 
 
 By your life O Prophet, they certainly wandered blindly, intoxicated by lust.
 
-## AI Tafsir
-
-**What this ayah teaches:** Then, the cause of forbidding common people from swearing by anyone other than Allah is not present here - because, in the Word of Allah there is no probability that He would take someone from His creation to be the highest and the best.
-
-**Classical tafsir:** Ibn Kathir notes: Then, the cause of forbidding common people from swearing by anyone other than Allah is not present here - because, in the Word of Allah there is no probability that He would take someone from His creation to be the highest and the best.
 ## Personal Reflections
-
 

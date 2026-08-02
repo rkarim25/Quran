@@ -167,13 +167,5 @@ The first sentence of the verse: قُلْ هَلْ تَرَ‌بَّصُونَ �
 
 Say, “Are you awaiting anything to befall us except one of the two best things: ? But We are awaiting Allah to afflict you with torment either from Him or at our hands. So keep waiting! We too are waiting with you.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Either, they would be punished at the hands of Muslims right here in this world, in which case, they will taste the punishment in the mortal and the eternal world both. This is why Allah does not accept charity or good deeds from the people described in these Ayat, because He only accepts it from those who have Taqwa.
-
-**Classical tafsir:** Ibn Kathir notes: This is why Allah does not accept charity or good deeds from the people described in these Ayat, because He only accepts it from those who have Taqwa.
-
-**From the Sunnah:** The tenth verse (52), while mentioning the charming demeanor of the man of true faith, has given an answer to hypocrites delighted over the discomfort of Muslims. Either, they would be punished at the hands of Muslims right here in this world, in which case, they will taste the punishment in the mortal and the eternal world both.
 ## Personal Reflections
-
 

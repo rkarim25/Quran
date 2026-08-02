@@ -244,15 +244,5 @@ A group of commentators find a third interpretation of this verse. A statement a
 
 They will taste neither coolness nor drink,
 
-## AI Tafsir
-
-**Context:** (But they denied Our Ayat Kidhdhaba.) meaning, they used to deny the evidences of Allah and His proofs for His creation, which He revealed to His Messengers. So they met these proofs with rejection and obstinance.
-
-**What this ayah teaches:** However, there is a common denominator between the two conflicting narratives, that hiqbah means 'an extremely long period of time'.
-
-**Classical tafsir:** Ibn Kathir notes: The word labithin is the plural of labith which means 'one who abides'.
-
-**From the Sunnah:** Al-Bukhari reported concerning the explanation of Allah's statement, (Sahih al-Bukhari)
 ## Personal Reflections
-
 

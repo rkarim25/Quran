@@ -224,11 +224,5 @@ This statement of Imam Shafi` i, in fact, is the standpoint of the whole ummah.
 
 That is the good news Allah gives to His servants who believe and do good. Say: "I do not ask you for a reward for this message—only honour for our kinship." Whoever earns a good deed, We will increase it in goodness for them. Surely Allah is All-Forgiving, Most Appreciative.
 
-## AI Tafsir
-
-**Context:** There is, however, another narration reported with a weak chain of reporters, according to which Sayyidna Ibn ` Abbas ؓ says that when this verse was revealed, people asked the Holy Prophet ﷺ as to who are his kinsfolk,…
-
-**What this ayah teaches:** Say: "No reward do I ask of you for this except to be kind to me for my kinship with you." And whoever earns a good righteous deed, We shall give him an increase of good in respect thereof.
 ## Personal Reflections
-
 

@@ -500,17 +500,5 @@ We might add an explanatory note about the word Manasik مناسک (the plural o
 
 Our Rabb, make us submit to You, and from our descendants a community that submits to You. Show us our rites and turn to us in mercy. You are the Accepter of Repentance, the Rahim.
 
-## AI Tafsir
-
-**Essence** Ibrahim and Isma'il, while laying the very stones of the Ka'bah, turn from builders to beggars — asking Allah to grant them the Islam their hands were already enacting, to reveal the Manasik of His House, and to receive their repentance through Al-Tawwab and Al-Rahim.
-
-**What it teaches** Islam here is not a label but active, total submission — muslimayni laka, "both submissive to You alone." The Manasik (the rites of Hajj and the sacred sites: 'Arafah, Muzdalifah, Mina) needed to be revealed; arina ("show us") encompasses seeing with both eyes and heart. The closing invocation of Al-Tawwab with Al-Rahim signals that even the greatest act of worship is incomplete without Allah's turning toward the worshipper.
-
-**The scholars** Ibn Kathir records Wuhayb bin Al-Ward weeping at this passage and crying: "O Khalil of Ar-Rahman! You raise the foundations of the House of Ar-Rahman, yet you are afraid He will not accept it from you?" — the mark of believers who perform the greatest deeds yet tremble lest they be rejected (cf. 23:60). Ibn Jarir reads the supplication as: "Make us submit to Your command and obedience and not associate anyone with You in obedience or worship." According to 'Ikrimah's interpretation, to each petition Allah answered: "I shall do that." Maarif ul Quran reflects that the deeper one grows in knowledge of Divine Majesty, the more one feels one has fallen short; prophetic love cares more for a child's standing before Allah than for physical comfort. Allah answered the prayer: even through the Jahiliyyah, men from Ibrahim's line — Zayd ibn 'Amr bin Nufayl, Quss ibn Sa'idah — remained firm in tawhid (Al-Bahr al-Muhit, cited in Maarif ul Quran).
-
-**From the Sunnah** "When the son of Adam dies, his deeds end except for three deeds: an ongoing charity, a knowledge that is being benefited from and a righteous son who supplicates (to Allah) for him." (Sahih Muslim, narrated by Abu Hurayrah)
-
-**Reflection** The builder of the greatest House on earth begged Allah to accept his bricks. If trembling is the posture of Ibrahim, certainty is the posture of arrogance — build, then bow.
 ## Personal Reflections
-
 

@@ -140,13 +140,5 @@ Differing Beliefs of the Pagans
 
 you are lost in conflicting opinions about the truth.
 
-## AI Tafsir
-
-**What this ayah teaches:** They resemble tracks and pathways; therefore pathways are also referred to as hubuk in Arabic.
-
-**Classical tafsir:** Ibn Kathir notes: They resemble tracks and pathways; therefore pathways are also referred to as hubuk in Arabic.
-
-**From the Sunnah:** According to another possible interpretation, the verse addresses the entire humankind - Muslims as well as non-believers.
 ## Personal Reflections
-
 

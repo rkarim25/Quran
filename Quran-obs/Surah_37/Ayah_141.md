@@ -141,13 +141,5 @@ Immediately next in the verse, it was said: فَكَانَ مِنَ الْمُد
 
 Then to save it from sinking, he drew straws with other passengers. He lost and was thrown overboard.
 
-## AI Tafsir
-
-**What this ayah teaches:** This was because the ship was being pounded by the waves on all sides, and they were at risk of drowning, so they drew lots, and whoever lost would be thrown overboard so as to lighten the load.
-
-**Classical tafsir:** Ibn Kathir notes: Mujahid said, narrating from Ash-Sha'bi, "It swallowed him in the morning and cast him forth in the evening." And Allah knows best how long exactly was.
-
-**From the Sunnah:** In the Two Sahihs it is reported that the Messenger of Allah ﷺ said: This is what is indicated in the authentic Hadith which we quote below, if Allah wills. (authentic hadith)
 ## Personal Reflections
-
 

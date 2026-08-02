@@ -175,13 +175,5 @@ The last sentence of the verse said, إِنْ أَنَا إِلَّا نَذِي
 
 Say, “I have no power to benefit or protect myself, except by the Will of Allah. If I had known the unknown, I would have benefited myself enormously, and no harm would have ever touched me. I am only a warner and deliverer of good news for those who believe.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Had he possessed such knowledge, he would have stored all the good for himself and would have saved himself from every possible harm. If I had the knowledge of the Ghayb (Unseen), I should have secured for myself an abundance of wealth, and no evil should have touched me.
-
-**Classical tafsir:** Ibn Kathir notes: The Verse 188 clears away a common misbelief of the people regarding the prophets of Allah.
-
-**From the Sunnah:** similarly, the Holy Prophet ﷺ was wounded in the battle of Uhud and the Muslims faced temporary defeat. He informed the Muslims of many things which were to happen in future.
 ## Personal Reflections
-
 

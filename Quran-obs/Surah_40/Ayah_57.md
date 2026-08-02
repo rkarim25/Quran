@@ -98,13 +98,5 @@ In verse 56, it was said: إِن فِي صُدُورِ‌هِمْ إِلَّا �
 
 The creation of the heavens and the earth is certainly greater than the re-creation of humankind, but most people do not know.
 
-## AI Tafsir
-
-**What this ayah teaches:** The creation of the heavens and the earth is indeed greater than the creation of mankind; yet, most of the people do not know (57)And not equal are the blind and those who see; nor those who believe, and do righteous good deeds, and those who do evil.
-
-**Classical tafsir:** Ibn Kathir notes: It means that people who quarrel in the matter of the verses of Allah without having any valid argument really look forward to rejecting this faith simply because their hearts are filled with pride and arrogance.
-
-**From the Sunnah:** They would like to stay ahead in the game and are so dim-witted that they have taken for granted that they have this position of strength as a result of their staunch adherence to their faith, and if they were to surrender this stance by becoming Muslims, they…
 ## Personal Reflections
-
 

@@ -185,13 +185,5 @@ Because some versions of the Tradition state that births, deaths and sustenance 
 
 Wait then for the day the sky will be veiled in haze, clearly visible,
 
-## AI Tafsir
-
-**Context:** (Then wait you for the Day when the sky will bring forth a visible smoke, covering the people, this is a painful torment) A man came to the Messenger of Allah ﷺ and said, "O Messenger of Allah!
-
-**What this ayah teaches:** You cannot get further than your rank.) There are numerous Marfu' and Mawquf Hadiths, Sahih, Hasan and others, which indicate that the smoke is one of the awaited signs (of the Hour).
-
-**Classical tafsir:** Ibn Kathir notes: Because some versions of the Tradition state that births, deaths and sustenance are decreed in the night of immunity or 15th night of Sha'ban, some of the scholars have interpreted the phrase 'laylah mubarakah' in the current verse as referring to 'laylat-ul-bara'ah' or 'the Nigh…
 ## Personal Reflections
-
 

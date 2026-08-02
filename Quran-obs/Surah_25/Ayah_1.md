@@ -152,15 +152,5 @@ Commentary
 
 Blessed is the One Who sent down the Furqan — the Criterion that separates truth from falsehood — to His servant, that he may warn all that exists.
 
-## AI Tafsir
-
-**Context:** Here Allah praises Himself for the Noble Qur'an He has revealed to His noble Messenger . This is like the Ayat: (And those who disbelieve say: "Why is not the Qur'an revealed to him all at once" Thus, that We may strengt…
-
-**What this ayah teaches:** Blessed be He Who sent down (Nazzala) the criterion to His servant that he may be a warner to all nations.)(2. Each of the previous Books was sent down at one time, but the Qur'an was revealed gradually, in stages, Ayat after Ayat, rulings after rulings, Surahs after Surahs.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** In a Hadith recorded in Sahih Muslim, the Holy Prophet ﷺ has pointed out six special features about his prophethood. (Sahih Muslim)
 ## Personal Reflections
-
 

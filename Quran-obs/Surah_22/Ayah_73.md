@@ -205,13 +205,5 @@ Generally the words ضُرِبَ مَثَلُ are used for quoting an incident a
 
 O humanity! A lesson is set forth, so listen to it carefully: those idols you invoke besides Allah can never create so much as a fly, even if they all were to come together for that. And if a fly were to snatch anything away from them, they cannot even retrieve it from the fly. How powerless are those who invoke and those invoked!
 
-## AI Tafsir
-
-**What this ayah teaches:** If they wanted to recover that, they would not be able to, even though the fly is the weakest and most insignificant of Allah's creatures.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** that Abu Hurayrah recorded the Marfu' report: (Musnad Ahmad) This was also recorded by the authors of the Two Sahihs via 'Umarah from Abu Zur'ah from Abu Hurayrah, who said that the Prophet ﷺ said:
 ## Personal Reflections
-
 

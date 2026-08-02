@@ -280,13 +280,5 @@ This Hadith has many chains of narration collected in the Sahihs and other colle
 
 and elevated furnishings.
 
-## AI Tafsir
-
-**What this ayah teaches:** The couches could be upraised or elevated for one of several reasons: [ 1] because the place itself is high; [ 2] because the mattresses will not be on the ground, but on the thrones or beds; or [ 3] because the couches themselves will be thick (and of high quality). The word marfu'ah lexically means 'upraised, elevated'.
-
-**Classical tafsir:** Ibn Kathir notes: Qatadah said, "Nothing will prevent them from reaching out to get these fruits, no branches, thorns or distance." We mentioned a Hadith before that states that whenever someone takes a fruit in Paradise, another one grows in its place. The word rush is the plural of firash which means 'bed, couch, mattress'.
-
-**From the Sunnah:** Paradise the shade of which a rider would take one hundred years to pass.
 ## Personal Reflections
-
 

@@ -113,13 +113,5 @@ That is, We delivered Sayyidna Ibrahim and Sayyidna Lut (علیہ السلام) 
 
 Then We delivered him, along with Lot, to the land We had showered with blessings for all people.
 
-## AI Tafsir
-
-**Context:** And We rescued him and Lut to the land which We have blessed for the nations (71)And We bestowed upon him Ishaq, and Ya'qub Nafilatan.
-
-**What this ayah teaches:** And We rescued him and Lut to the land which We have blessed for the nations (71)And We bestowed upon him Ishaq, and Ya'qub Nafilatan. The Migration of Ibrahim to Ash-Sham (Greater Syria), accompanied by Lut Allah tells us that He saved Ibrahim from the fire lit by his people, and brought him out from among them, migrating to the land of Ash-Sham, to the sacred regions thereof.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

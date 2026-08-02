@@ -269,11 +269,5 @@ The condition of a people who were under the curse and wrath of Allah has been i
 
 Say, “Shall I inform you of those who deserve a worse punishment from Allah ? It is those who earned Allah’s condemnation and displeasure—some being reduced to apes and pigs and worshippers of false gods. These are far worse in rank and farther astray from the Right Way.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Those who were before you were destroyed because they committed sins and the 'Rabbāniyyūn' and 'Aḥbār' did not forbid them from evil. Therefore, enjoin righteousness and forbid evil before what they suffered also strikes you.
-
-**Classical tafsir:** Ibn Kathir notes: Those who were before you were destroyed because they committed sins and the 'Rabbāniyyūn' and 'Aḥbār' did not forbid them from evil.
 ## Personal Reflections
-
 

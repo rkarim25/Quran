@@ -186,15 +186,5 @@ There are many events of this nature recorded in books of Exegesis and History. 
 
 There is no blame on the weak, the sick, or those lacking the means, as long as they are true to Allah and His Messenger. There is no blame on the good-doers. And Allah is All-Forgiving, the Rahim.
 
-## AI Tafsir
-
-**Context:** Mujahid said; "It was revealed about Bani Muqarrin from the tribe of Muzaynah."
-
-**What this ayah teaches:** And Allah is Oft-Forgiving, ar-Rahim (91)Nor (is there blame) on those who came to you to be provided with mounts, when you said: "I can find no mounts for you," they turned back, with their eyes overflowing with tears of grief that they could not find anything to spend (92)The means (of complaint) is only against those who are rich, and yet ask exemption.
-
-**Classical tafsir:** Ibn Kathir notes: They are content to be with (the women) who sit behind (at home) and Allah has sealed up their hearts so that they know not (what they are losing).
-
-**From the Sunnah:** The present verses mention sincere Muslims who were deprived of participation in Jihad because they were genuinely incapable of doing so.
 ## Personal Reflections
-
 

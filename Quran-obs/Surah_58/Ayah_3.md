@@ -230,13 +230,5 @@ It is recorded in Traditions that when Sayyidah Khaulah ؓ complained to Allah's
 
 Whoever divorces in this manner and then wishes to take his wife back must free a slave before they may be intimate again. This penalty exists to deter you from treating such words lightly. Allah is fully aware of what you do.
 
-## AI Tafsir
-
-**Context:** By Allah! Before I departed, parts of the Qur'an were revealed about me. Allah's Messenger ﷺ felt the hardship upon receiving the revelation as he usually did and then became relieved. He said to me,
-
-**What this ayah teaches:** And verily, Allah is Oft-Pardoning, Oft-Forgiving (2)And those who make unlawful to them (their wives) by Zihar and wish to free themselves from what they uttered, (the penalty) in that case is the freeing of a slave before they touch each other.
-
-**Classical tafsir:** Ibn Kathir notes: Al-Hasan Al-Basri said that it is to utilize her sexual organ, and he did not see any harm in doing what is less than that before paying the expiation.
 ## Personal Reflections
-
 

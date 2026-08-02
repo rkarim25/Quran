@@ -279,19 +279,5 @@ These verses provide a warning to the Muslims as well, lest they too should delu
 
 The Jews say none will enter Paradise except Jews; the Christians say none except Christians. These are their wishes. Say, "Bring your proof, if you speak the truth."
 
-## AI Tafsir
-
-**Essence**
-The Jews and Christians each claimed Paradise for their own community alone, and Allah meets their wishful thinking with one demand: bring your proof.
-
-**What it teaches**
-A communal label saves no one. Allah names their claim *tilka amaniyyuhum* — mere *amani*, hopes resting on nothing — then commands *hatu burhanakum*, produce a *burhan*, decisive proof, *in kuntum sadiqin*, if you are truthful. What stands before Allah is not the name you carry but sincere submission to Him, and entry to Paradise remains His to grant by His mercy.
-
-**The scholars**
-Ibn Kathir draws the early authorities together: Abu al-'Aliyah read *amani* as "wishes that they wished Allah would answer, without basis," and Qatadah and Ar-Rabi' bin Anas said the same — empty longing dressed as certainty. Against it stands *burhan*, glossed simply as "your proof." Maarif ul Quran exposes the root error: they had shrunk religion to membership in a community and forgotten its substance — *aslama*, total submission to Allah, joined to *ihsan*, deeds done as the Shari'ah commands. The same warning falls on Muslims, who cannot lean on the name alone.
-
-**Reflection**
-Weigh your own claim to faith: does it rest on sincere submission and obedience, or only on a name you inherited?
 ## Personal Reflections
-
 

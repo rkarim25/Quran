@@ -349,15 +349,5 @@ The clarity and detail with which Sayyidna Ka'b ؓ has described his story conta
 
 And the three who had remained behind, until the earth, despite its vastness, seemed to close in on them, and their souls were torn in anguish. They knew there was no refuge from Allah except in Him. Then He turned to them in mercy so that they might repent. Surely Allah is the Accepter of Repentance, the Rahim.
 
-## AI Tafsir
-
-**Context:** Verse 118 begins with the words: وَعَلَى الثَّلَاثَةِ الَّذِينَ خُلِّفُوا (And [ He relented ] towards the three whose matter was deferred).
-
-**What this ayah teaches:** Regarding the truth told and confession made by these three gentlemen, it is enough to say that the fact of their Taubah was revealed in this verse.
-
-**Classical tafsir:** Ibn Kathir notes: So the Prophet ﷺ clearly announced the destination to the Muslims, so that they could prepare for their battle, and he told them about his intent.
-
-**From the Sunnah:** that 'Abdullah bin Ka'b bin Malik, who used to guide Ka'b after he became blind, said that he heard Ka'b bin Malik narrate his story when he did not join the battle of Tabuk with the Messenger of Allah ﷺ.
 ## Personal Reflections
-
 

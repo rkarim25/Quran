@@ -105,11 +105,5 @@ As for the sense of: وَشَارِ‌كْهُمْ فِي الْأَمْوَال
 
 Do you feel secure that He will not cause the land to swallow you up, or unleash upon you a storm of stones? Then you will find none to protect you.
 
-## AI Tafsir
-
-**What this ayah teaches:** Or do you feel secure that He, Who is over the heaven (Allah), will not send against you a Hasib?
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

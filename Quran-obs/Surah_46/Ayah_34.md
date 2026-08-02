@@ -168,11 +168,5 @@ This concludes the explanation of Surat Al-Ahqaf. And all praise and blessings a
 
 On the Day those who rejected the truth are exposed to the Fire, they will be asked: Is this not the truth? They will say: Yes, by our Rabb! It will be said: Then taste the punishment for what you used to deny.
 
-## AI Tafsir
-
-**What this ayah teaches:** It will indicate that only sins relating to the rights of Allah would be forgiven but not the rights of people. It is part of Allah's justice that He does not punish anyone except those who deserve the punishment – and Allah knows best.
-
-**Classical tafsir:** Ibn Kathir notes: It will indicate that only sins relating to the rights of Allah would be forgiven but not the rights of people.
 ## Personal Reflections
-
 

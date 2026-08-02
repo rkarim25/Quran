@@ -125,15 +125,5 @@ Imam al-Qurtubi said that this verse proves that it is wajib (necessary, obligat
 
 And declare, “The truth has come and falsehood has vanished. Indeed, falsehood is bound to vanish.”
 
-## AI Tafsir
-
-**Context:** Verse 81: وَقُلْ جَاءَ الْحَقُّ وَزَهَقَ الْبَاطِلُ (And say, "Truth has come and false-hood has vanished" ) was revealed after Hijrah about the conquest of Makkah.
-
-**What this ayah teaches:** Surely, falsehood is ever bound to vanish.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** that Ibn 'Abbas said: The Prophet ﷺ was in Makkah, then he was commanded to emigrate, and Allah revealed the words: (Musnad Ahmad)
 ## Personal Reflections
-
 

@@ -162,11 +162,5 @@ The second instruction was in these words: وَلَا تَتَّبِعْ سَب�
 
 We appointed for Moses thirty nights then added another ten—completing his Rabb’s term of forty nights. Moses commanded his brother Aaron, “Take my place among my people, do what is right, and do not follow the way of the corruptors.”
 
-## AI Tafsir
-
-**What this ayah teaches:** And We appointed for Musa thirty nights and added ten, and he completed the term, appointed by his Lord, of forty nights. Allah commanded him to complete the term adding ten more days, making the total forty.
-
-**Classical tafsir:** Ibn Kathir notes: And We appointed for Musa thirty nights and added ten, and he completed the term, appointed by his Lord, of forty nights.
 ## Personal Reflections
-
 

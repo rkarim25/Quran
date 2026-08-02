@@ -209,11 +209,5 @@ After that, it was said: ذَٰلِكُمُ اللَّـهُ ۖ فَأَنَّى
 
 Indeed, Allah is the One Who causes seeds and fruit stones to sprout. He brings forth the living from the dead and the dead from the living. That is Allah! How can you then be deluded ?
 
-## AI Tafsir
-
-**What this ayah teaches:** Such is Allah, then how are you deluded away from the truth (95)(He is the) Cleaver of the daybreak.
-
-**Classical tafsir:** Ibn Kathir notes: The ` dead' or lifeless refers to cell or egg which serves to create human and animal life forms.
 ## Personal Reflections
-
 

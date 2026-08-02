@@ -132,13 +132,5 @@ Some of the scholars maintain that the rule of forgiving the infidels applied on
 
 Whoever does good, it is for their own benefit. Whoever does evil, it is to their own loss. Then to your Lord you will all return.
 
-## AI Tafsir
-
-**Context:** قُل لِّلَّذِينَ آمَنُوا يَغْفِرُ‌وا لِلَّذِينَ لَا يَرْ‌جُونَ أَيَّامَ اللَّـهِ ("Tell those who believe that they should forgive those who do not believe in Allah's days ...14) ".
-
-**What this ayah teaches:** Verily, in it are signs for a people who think deeply (13)Say to the believers to forgive those who hope not for the Days of Allah, that He may recompense people, according to what they have earned (14)Whosoever does a good deed, it is for himself, and whosoever does evil, it is against (himself).
-
-**Classical tafsir:** Ibn Kathir notes: In the beginning of Islam, Muslims were ordered to observe patience in the face of the oppression of the idolators and the People of the Scriptures so that their hearts may incline towards Islam.
 ## Personal Reflections
-
 

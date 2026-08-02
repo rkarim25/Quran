@@ -163,11 +163,5 @@ In the last sentence of verse 86, it was said: وَاذْكُرُ‌وا إِذ�
 
 And do not lie in ambush on every road—threatening and hindering those who believe in Allah from His Path and striving to make it crooked. Remember when you were few, then He increased you in number. And consider the fate of the corruptors!
 
-## AI Tafsir
-
-**What this ayah teaches:** The first was persuasion when they were reminded of the blessing of Allah who increased their insignificant numbers to become a large nation, or changed their economic weakness into need-free financial strength. But you later on became mighty because of your large numbers.
-
-**Classical tafsir:** Ibn Kathir notes: See the torment and punishment they suffered, because they disobeyed Allah and rejected His Messengers.
 ## Personal Reflections
-
 

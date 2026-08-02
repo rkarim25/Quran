@@ -98,13 +98,5 @@ The One True God is Allah
 
 and those who diligently drive the clouds,
 
-## AI Tafsir
-
-**What this ayah teaches:** Mentioning the east is sufficient and there is no need for the west to be mentioned too, because it is implied in what is said. By those who drive the clouds in a good way.)(3.
-
-**Classical tafsir:** Ibn Kathir notes: Mentioning the east is sufficient and there is no need for the west to be mentioned too, because it is implied in what is said.
-
-**From the Sunnah:** that 'Abdullah bin 'Umar, may Allah be pleased with him, said, "The Messenger of Allah ﷺ used to command us to make our prayers short and he used to recite As-Saffat when he lead us in prayer." This was recorded by An-Nasa'i only. (Sunan an-Nasa'i)
 ## Personal Reflections
-
 

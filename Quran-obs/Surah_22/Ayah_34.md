@@ -161,13 +161,5 @@ Commentary
 
 For every community We appointed a rite of sacrifice so that they may pronounce the Name of Allah over the sacrificial animals He has provided for them. For your Allah is only One Allah, so submit yourselves to Him alone. And give good news O Prophet to the humble:
 
-## AI Tafsir
-
-**Context:** (And We did not send any Messenger before you but We revealed to him (saying): None has the right to be worshipped but I, so worship Me.)(21:25). Allah says:
-
-**What this ayah teaches:** And for every nation We have appointed religious ceremonies, that they may mention the Name of Allah over the beast of cattle that He has given them for food. Rites of Sacrifice have been prescribed for every Nation in the World Allah tells us that sacrifice and shedding blood in the Name of Allah has been prescribed for all nations.
-
-**Classical tafsir:** Ibn Kathir notes: And for every nation We have appointed religious ceremonies, that they may mention the Name of Allah over the beast of cattle that He has given them for food.
 ## Personal Reflections
-
 

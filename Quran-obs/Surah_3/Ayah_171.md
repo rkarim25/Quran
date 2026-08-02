@@ -256,15 +256,5 @@ The background of the revelation of this verse as narrated by Abu Dawud on sound
 
 They are joyful for receiving Allah’s grace and bounty, and that Allah does not deny the reward of those who have iman.
 
-## AI Tafsir
-
-**Context:** Qatadah, Ar-Rabi' and Ad-Dahhak said that these Ayat were revealed about the martyrs of Uhud. (They rejoice in what Allah has bestowed upon them) indicates that the martyrs who were killed in Allah's cause are alive with…
-
-**What this ayah teaches:** The background of the revelation of this verse as narrated by Abu Dawud on sound authorities from Sayyidna Ibn ` Abbas is as follows.
-
-**Classical tafsir:** Ibn Kathir notes: Nay, they are alive, with their Lord, and they have provision.) Qatadah, Ar-Rabi' and Ad-Dahhak said that these Ayat were revealed about the martyrs of Uhud.
-
-**From the Sunnah:** He would like to be returned to this life so that he could be martyred again, for he tastes the honor achieved from martyrdom.) Muslim collected this Hadith (Sahih Muslim) Paradise, and some remain close to this river by the door of Paradise.
 ## Personal Reflections
-
 

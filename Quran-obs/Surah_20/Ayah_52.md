@@ -99,11 +99,5 @@ Verse 51 tells us that the Pharaoh had asked the question regarding the end of e
 
 He replied, “That knowledge is with my Rabb in a Record. My Rabb neither falters nor forgets anything.”
 
-## AI Tafsir
-
-**What this ayah teaches:** He does not forget anything and His Most Exalted knowledge is described as encompassing everything.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, He did not give man the form of a wild beast, nor did He give wild beasts the form of the dog.
 ## Personal Reflections
-
 

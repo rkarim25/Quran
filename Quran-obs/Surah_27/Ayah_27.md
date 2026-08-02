@@ -103,11 +103,5 @@ This shows that her people were star-worshippers and used to worship the sun. So
 
 Solomon said, “We will see whether you are telling the truth or lying.
 
-## AI Tafsir
-
-**What this ayah teaches:** It was said that he carried it on his wings, as is the way with birds, or that he carried it in his beak.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

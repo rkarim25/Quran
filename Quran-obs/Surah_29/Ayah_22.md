@@ -140,11 +140,5 @@ The infidels of Makkah believed that it is Allah who has created the whole unive
 
 You cannot escape Him on earth or in heaven. You have no protector or helper besides Allah.
 
-## AI Tafsir
-
-**What this ayah teaches:** And besides Allah you have neither any protector nor any helper (22)And those who disbelieve in the Ayat of Allah and meeting with Him, such have no hope of My mercy: and for such there is a painful torment .
-
-**Classical tafsir:** Ibn Kathir notes: All of that indicates that these are themselves created things, and that there must be a Creator Who does as He chooses, Who merely says to a thing "Be!" and it is.
 ## Personal Reflections
-
 

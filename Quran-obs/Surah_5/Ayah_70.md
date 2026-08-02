@@ -118,11 +118,5 @@ This is an account of how the Bani Isra'il kept breaking the pledge taken from t
 
 Indeed, We took a covenant from the Children of Israel and sent them messengers. Whenever a messenger came to them with what they did not desire, they denied some and killed others.
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, We took the covenant of the Children of Israel and sent Messengers to them. As said in verse 70, whenever their Messenger brought a command which did not suit their fancy, they would break their pledge and go about betraying Allah to the limit that they would falsify His Messengers, even kill some of them.
-
-**Classical tafsir:** Ibn Kathir notes: As said in verse 70, whenever their Messenger brought a command which did not suit their fancy, they would break their pledge and go about betraying Allah to the limit that they would falsify His Messengers, even kill some of them.
 ## Personal Reflections
-
 

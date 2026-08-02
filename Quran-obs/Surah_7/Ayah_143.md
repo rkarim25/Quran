@@ -289,13 +289,5 @@ Imam Ahmad, Tirmidhi and Hakim have reported on the authority of the Companion A
 
 When Moses came at the appointed time and his Rabb spoke to him, he asked, “My Rabb! Reveal Yourself to me so I may see You.” Allah answered, “You cannot see Me! But look at the mountain. If it remains firm in its place, only then will you see Me.” When his Rabb appeared to the mountain, He levelled it to dust and Moses collapsed unconscious. When he recovered, he cried, “Glory be to You! I turn to You in repentance and I am the first of those who have iman.”
 
-## AI Tafsir
-
-**What this ayah teaches:** The word, therefore, cannot signify 'seeing'. According to the Spiritual masters (Sufis) the word signifies seeing something indirectly through some other means, like seeing certain thing reflected in the mirror.
-
-**Classical tafsir:** Ibn Kathir notes: According to the Spiritual masters (Sufis) the word signifies seeing something indirectly through some other means, like seeing certain thing reflected in the mirror.
-
-**From the Sunnah:** In his Musnad Imam Ahmad recorded from Anas bin Malik that the Prophet ﷺ said about Allah's saying; (Musnad Ahmad) this in the chapter of Tafsir for this Ayah, then he said; "This Hadith is Hasan Sahih Gharib." (Jami' at-Tirmidhi, authentic hadith)
 ## Personal Reflections
-
 

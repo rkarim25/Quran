@@ -121,13 +121,5 @@ The other person, though less than him in wealth, was a true believer. He refute
 
 But as for me: He is Allah, my Rabb, and I will never associate anyone with my Rabb in worship.
 
-## AI Tafsir
-
-**What this ayah teaches:** He refuted the argument of the former one by saying that the worldly wealth is not a sign of one's being close to Allah, because the worldly benefits are given by Allah, in one way or the other, even to the those who reject the truth and sinful persons, rather to the snakes, scorpions and beasts.
-
-**Classical tafsir:** Ibn Kathir notes: He refuted the argument of the former one by saying that the worldly wealth is not a sign of one's being close to Allah, because the worldly benefits are given by Allah, in one way or the other, even to the those who reject the truth and sinful persons, rather to the snakes, scorpions and beas…
-
-**From the Sunnah:** It was reported in the Sahih from Abu Musa that the Messenger of Allah ﷺ said:
 ## Personal Reflections
-
 

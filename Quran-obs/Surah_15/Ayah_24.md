@@ -145,11 +145,5 @@ What is apparent here is that real merit does lie in praying in the first row - 
 
 We certainly know those who have gone before you and those who will come after you.
 
-## AI Tafsir
-
-**What this ayah teaches:** It is We Who give life, and cause death, and We are the Inheritors (23)And indeed, We know the first generations of you who have passed away, and indeed, We know the present generations of you (mankind), and also those who will come afterwards (24)And verily, your Lord will gather them together.
-
-**Classical tafsir:** Ibn Kathir notes: They can be accommodated all in one because the all-encompassing knowledge of Allah Ta` ala covers all kinds of people 'who go ahead' or 'remain behind.' In his Tafsir, Al-Qurtubi has said that this verse indicates the merit of performing Salah in the first row, and soon after th…
 ## Personal Reflections
-
 

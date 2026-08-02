@@ -266,15 +266,5 @@ Jurists have said that the verse under comment confirms that scholars
 
 By day you are burdened with worldly duties.
 
-## AI Tafsir
-
-**Context:** (Stand (to pray) all night, except a little. Half of it or less than that, a little.)(73:2-3) "This became difficult on the believers.
-
-**What this ayah teaches:** Verily, for you in the day is lengthy Sabh.)(8.
-
-**Classical tafsir:** Ibn Kathir notes: The word sabhun, literally means, 'to flow, walk or move about' from which we also get the sense 'of swimming in the water' because when a swimmer swims in the water, he moves about in it freely without any obstruction.
-
-**From the Sunnah:** Thus, the Prophet ﷺ did as Allah ordered him, by standing for prayer at night. In Sahih Al-Bukhari, it is recorded from Anas that he was asked about the recitation of the Messenger of Allah ﷺ, so he replied, "He used to elongate the letters." Then he (Anas) recited, (Sahih al-Bukhari)
 ## Personal Reflections
-
 

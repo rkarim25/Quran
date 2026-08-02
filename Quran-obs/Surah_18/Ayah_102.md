@@ -116,11 +116,5 @@ The word: أَوْلِيَاءَ (awliya' ) is the plural of وَلِی (waliyy)
 
 Do those who reject the truth think they can simply take My servants as Rabbs instead of Me? We have surely prepared Hell as an accommodation for those who reject the truth.
 
-## AI Tafsir
-
-**What this ayah teaches:** Some other commentators have taken is?
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

@@ -201,11 +201,5 @@ After that, it was said: قَدْ فَصَّلْنَا الْآيَاتِ لِق
 
 And He is the One Who has made the stars as your guide through the darkness of land and sea. We have already made the signs clear for people who know.
 
-## AI Tafsir
-
-**What this ayah teaches:** Out of many considerations of Divine wisdom, one immediate benefit they provide for human beings travelling on high seas or open lands is that they can chart their course in the darkness of nights when it is not easy to do so.
-
-**Classical tafsir:** Ibn Kathir notes: The statement clearly indicates that those who do not recognize the presence and power of Allah Ta` ala even from such open signs are unaware and unconscious.
 ## Personal Reflections
-
 

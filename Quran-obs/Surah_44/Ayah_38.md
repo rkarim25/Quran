@@ -93,13 +93,5 @@ The Story of Tubba'
 
 We did not create the heavens and the earth and everything in between for sport.
 
-## AI Tafsir
-
-**What this ayah teaches:** Therefore, the commentators have discussed extensively about the people of Tubba' , trying to identify them and their history. Tubba' is not the name of a particular individual, but is said to be the royal title of the kings of Himyar in Yemen.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, the commentators have discussed extensively about the people of Tubba' , trying to identify them and their history.
-
-**From the Sunnah:** : لا تسبّو تبّعافانّہ، قد کان اسلم "Do not revile Tubba', because he had embraced Islam. (Musnad Ahmad)
 ## Personal Reflections
-
 

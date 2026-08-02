@@ -164,13 +164,5 @@ He then adds:
 
 Still there are some who dispute about Allah without knowledge, guidance, or an enlightening scripture,
 
-## AI Tafsir
-
-**What this ayah teaches:** And among men is he who disputes about Allah, without knowledge or guidance, or a Book giving light (from Allah)(8)Bending his neck in pride, and leading (others) too (far) astray from the path of Allah.
-
-**Classical tafsir:** Ibn Kathir notes: That is because of what your hands have sent forth,) means, this will be said to him by way of rebuke.
-
-**From the Sunnah:** protection and provide him strength. (Sahih Muslim)
 ## Personal Reflections
-
 

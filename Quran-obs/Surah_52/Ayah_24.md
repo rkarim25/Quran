@@ -187,13 +187,5 @@ Allah's Fairness to Sinners
 
 Youthful servants will wait on them like hidden pearls.
 
-## AI Tafsir
-
-**What this ayah teaches:** He also grants His favor to parents on account of their offspring invoking Allah for them. He also grants His favour to parents on account of their children's praying Allah for them.
-
-**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas said that Laghw means 'falsehood' while Ta'thim means 'lying'.
-
-**From the Sunnah:** Ibn Abi Hatim also recorded that Ibn 'Abbas commented on Allah's statement, Paradise, while the idolators and their offspring will dwell in the Hellfire.
 ## Personal Reflections
-
 

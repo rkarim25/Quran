@@ -226,15 +226,5 @@ My master, the honorable sage of the Ummah has in his Bayan-ul-Qur'an explicated
 
 O you who have iman: Do not raise your voices above the Prophet's voice, and do not speak to him loudly as you speak to one another, or your deeds may be wasted while you do not even notice.
 
-## AI Tafsir
-
-**Context:** (O you who believe! Raise not your voices above the voice of the Prophet,) This contains another kind of favorable behavior.
-
-**What this ayah teaches:** The verse warns that neglecting this etiquette may entail nullification of one's virtuous deeds, because this is a kind of disrespect to the Holy Prophet ﷺ .
-
-**Classical tafsir:** Ibn Kathir notes: This verse teaches the believers that they should not raise their voices above the voice of the Holy Prophet ﷺ nor speak aloud to him as one speaks aloud to another in general discussions.
-
-**From the Sunnah:** Verily, those who lower their voices in the presence of Allah's Messenger, they are the ones whose hearts Allah has tested for Taqwa. Allah the Exalted is teaching the believers that they should not raise their voices above the voice of the Prophet ﷺ.
 ## Personal Reflections
-
 

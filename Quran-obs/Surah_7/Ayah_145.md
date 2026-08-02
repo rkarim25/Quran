@@ -145,11 +145,5 @@ The phrase وَكَتَبْنَا لَهُ فِي الْأَلْوَاحِ “ A
 
 We wrote for him on the Tablets of everything; commandments and explanations of all things. “Hold to this firmly and ask your people to take the best of it. I will soon show you the home of the rebellious.
 
-## AI Tafsir
-
-**What this ayah teaches:** Another view with regard to these tablets is that these tablets were given to him prior to the revelation of the Torah and were not the part of the Torah.
-
-**Classical tafsir:** Ibn Kathir notes: It is because, in this case, the Israelites had taken over the land of Egypt before this event of Allah's light appearing to the Mount of Sinai.
 ## Personal Reflections
-
 

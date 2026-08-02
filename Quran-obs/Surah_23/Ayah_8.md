@@ -169,13 +169,5 @@ Sixth Attribute of a perfect Muslim is to fulfill his covenant. The word عھد 
 
 the mu'mins are also those who are true to their trusts and covenants;
 
-## AI Tafsir
-
-**Context:** (And those who pay the Zakah.) Most commentators say that the meaning here is the Zakah that is paid on wealth, even though this Ayah was revealed in Makkah, and Zakah was ordained in Al-Madinah in the year 2 H.
-
-**What this ayah teaches:** And indeed he fails who corrupts himself.)(91:9-10) It could be that both meanings are intended, purification of the soul and of one's wealth, because that is part of the purification of the soul, and the true believer is one who pays attention to both matters.
-
-**Classical tafsir:** Ibn Kathir notes: Al-Hasan Al-Basri said, "Their Khushu' was in their hearts." So they lowered their gaze and were humble towards others.
 ## Personal Reflections
-
 

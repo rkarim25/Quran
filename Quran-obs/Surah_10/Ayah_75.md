@@ -130,13 +130,5 @@ Another basharah (good news) of this world unfolds in the form that Muslims at l
 
 Then after these messengers We sent Moses and Aaron to Pharaoh and his chiefs with Our signs. But they behaved arrogantly and were a wicked people.
 
-## AI Tafsir
-
-**What this ayah teaches:** Then after them We sent Musa and Harun to Fir'awn and his chiefs with Our Ayat.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** Another basharah (good news) of this world unfolds in the form that Muslims at large love someone and take him to be good without any personal motive or interest. (Sahih Muslim)
 ## Personal Reflections
-
 

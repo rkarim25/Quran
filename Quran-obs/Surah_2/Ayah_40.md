@@ -206,17 +206,5 @@ According to a hadith reported by Muslim, those who break their promises would, 
 
 O Children of Israel — remember My favours to you. Fulfil your covenant and I will fulfil Mine, and stand in awe of Me alone.
 
-## AI Tafsir
-
-**Essence** By His favours and their righteous father's name, Allah calls the Children of Israel: keep My covenant and I keep yours; fear Me alone.
-
-**What it teaches** "Isra'il" — Hebrew for "servant of Allah," per Ibn 'Abbas — is Ya'qub himself: a name calling his children to their father's worship.
-
-**The scholars** Ibn 'Abbas, in Ibn Kathir: Allah's side is His pleasure and Paradise; in Maarif: the covenant is believing in and obeying Muhammad ﷺ. Al-Qurtubi: this Ummah hears only "Remember Me, I will remember you" (2:152) — the Benefactor before the bounty.
-
-**From the Sunnah** The Prophet ﷺ had a group of Jews affirm "Israel is Jacob" — "O Allah! Be witness" (Abu Dawud At-Tayalisi). In Muslim, as cited in Maarif: promise-breakers bear flags of stigma before assembled humanity, taller as the crime grows.
-
-**Reflection** Treat your smallest promise — to Allah or to anyone — as if a flag hung on it.
 ## Personal Reflections
-
 

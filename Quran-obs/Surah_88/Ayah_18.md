@@ -158,13 +158,5 @@ Ends here
 
 on the sky—how it was raised;
 
-## AI Tafsir
-
-**What this ayah teaches:** His camel that he rides upon, the sky that is above his head, the mountain that faces him, and the earth that is under him, all of this is proof of the power of the Creator and Maker of these things.
-
-**Classical tafsir:** Ibn Kathir notes: They are reminded of this because the most common domestic animal of the Arabs was the camel.
-
-**From the Sunnah:** These are the things Dimam swore by after questioning the Messenger of Allah ﷺ. (Musnad Ahmad) This Hadith was recorded by Al-Bukhari, Muslim, Abu Dawud, At-Tirmidhi, An-Nasa'i and Ibn Majah. (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
-
 

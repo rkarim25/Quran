@@ -140,11 +140,5 @@ The salah (prayer) of Sayyidna Shu'aib (علیہ السلام) was well known am
 
 They asked sarcastically, “O Shu’aib! Does your salah — the formal prayer command you that we should abandon what our forefathers worshipped or give up managing our wealth as we please? Indeed, you are such a tolerant, sensible man!”
 
-## AI Tafsir
-
-**What this ayah teaches:** Does your Salah command you that we give up what our fathers used to worship, or that we give up doing what we like with our property?
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, they referred to it tauntingly in the sense that (Allah forbid) his salah taught him to say all those 'wild' things.
 ## Personal Reflections
-
 

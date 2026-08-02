@@ -118,11 +118,5 @@ Qatadah said, "Al-Munsha'at means created." Others said that it is Al-Munshi'at 
 
 From both seas come pearls and coral.
 
-## AI Tafsir
-
-**What this ayah teaches:** It is possible to reconcile the verse with the general understanding: Pearls as well as corals originate in sweet waters where it is not easy to hunt for or from which to fish out the gems or jewels.
-
-**Classical tafsir:** Ibn Kathir notes: Mujahid, Qatadah, Abu Ruzayn, Ad-Dahhak said it, and it has also been reported from 'Ali.
 ## Personal Reflections
-
 

@@ -168,13 +168,5 @@ Verse [ 105:3] طَيْرً‌ا أَبَابِيلَ (... birds in flocks.) The
 
 He sent against them flocks of birds—
 
-## AI Tafsir
-
-**What this ayah teaches:** birds in flocks.) The word ababil is plural and is said to have no singular.
-
-**Classical tafsir:** Ibn Kathir notes: In Urdu usually ababil refers to 'swallows', they are not implied in the verse as indicated in the above narration.
-
-**From the Sunnah:** However, this was a means of giving a sign and preparing the way for the coming of the Messenger of Allah ﷺ. We have mentioned previously in the Tafsir of Surat Al-Fath that when the Messenger of Allah ﷺ approached the mountain pass that would lead him to the Quraysh on the Day of Al-Hudaybiyyah, his she-camel knelt down.
 ## Personal Reflections
-
 

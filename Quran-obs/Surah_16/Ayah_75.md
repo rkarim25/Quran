@@ -141,11 +141,5 @@ In the first of the two examples given in the last two verses, the description i
 
 Allah sets forth a parable: a slave who lacks all means, compared to a free man to whom We granted a good provision, of which he donates freely, openly and secretly. Are they equal? Praise be to Allah. In fact, most of them do not know.
 
-## AI Tafsir
-
-**What this ayah teaches:** The servant who has no power over anything is like the those who reject the truth, and the one who is given good provisions and spends of them secretly and openly is like the believer.
-
-**Classical tafsir:** Ibn Kathir notes: The Example of the Believer and the those who reject the truth, or the Idol and the True Allah Al-'Awfi reported that Ibn 'Abbas said: "This is the example which Allah gives of the those who reject the truth and the believer." This was also the view of Qatadah and Ibn Jarir.
 ## Personal Reflections
-
 

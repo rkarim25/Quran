@@ -207,13 +207,5 @@ Sayyidna Ma'qil Ibn Yasar ؓ has narrated that the Holy Prophet ﷺ has said tha
 
 We placed evil associates at their disposal who made their past and future misdeeds appealing to them. The fate of earlier communities of jinn and humans has been justified against them as well—they were truly losers.
 
-## AI Tafsir
-
-**What this ayah teaches:** And the Word is justified against them as it was justified against those who were among the previous generations of Jinn and men that had passed away before them. Show us those among Jinn and men who led us astray, that we may crush them under our feet so that they become the lowest.
-
-**Classical tafsir:** Ibn Kathir notes: And the Word is justified against them as it was justified against those who were among the previous generations of Jinn and men that had passed away before them.
-
-**From the Sunnah:** "And make noise in the midst of its (recitation)" means whistling and trying to make the Messenger of Allah ﷺ confused when he recited Qur'an, which is what the Quraysh did. protection from injustice?" Allah Almighty will say, ` No doubt, I did. (Sahih Muslim)
 ## Personal Reflections
-
 

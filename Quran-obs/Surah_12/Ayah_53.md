@@ -195,13 +195,5 @@ At the end of the verse (53), it was said: إِنَّ رَ‌بِّي غَفُو
 
 I do not claim my nafs — my inner self — is innocent. The nafs indeed commands evil, except those my Rabb has mercy upon. My Rabb is All-Forgiving, the Rahim.
 
-## AI Tafsir
-
-**What this ayah teaches:** And the king said: "Bring him to me." But when the messenger came to him, [Yusuf] said: "Return to your king and ask him, 'What happened to the women who cut their hands Surely, my Lord (Allah) is Well-Aware of their plot.' (50)(The king) said (to the women): "What was your affair when you did seek to seduce Yusuf" The women said: "Allah forbid!
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, he expressly confessed that he did not totally absolve his inner self from blame.
-
-**From the Sunnah:** If I were to stay in prison for such a long time as Yusuf did, I would have accepted the offer.) In another narration collected by Ahmad from Abu Hurayrah, the Prophet ﷺ said about Yusuf's statement,
 ## Personal Reflections
-
 

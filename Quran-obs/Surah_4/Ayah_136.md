@@ -166,11 +166,5 @@ Discussed upto this point were subsidiary injunctions mostly, alongwith issues r
 
 O you who have iman! Have faith in Allah, His Messenger, the Book He has revealed to His Messenger, and the Scriptures He revealed before. Indeed, whoever denies Allah, His angels, His Books, His messengers, and the Last Day has clearly gone far astray.
 
-## AI Tafsir
-
-**What this ayah teaches:** Believe in Allah, and His Messenger, and the Book (the Qur'an) which He has sent down to His Messenger, and the Scripture which He sent down to those before; and whosoever disbelieves in Allah, His Angels, His Books, His Messengers, and the Last Day, then indeed he has strayed far away .
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

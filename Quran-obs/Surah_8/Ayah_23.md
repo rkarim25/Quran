@@ -129,11 +129,5 @@ Incidentally, the stipulation made above also helps remove the nagging logical d
 
 Had Allah known any good in them, He would have made them listen. Even if He made them listen, they would have turned away in aversion.
 
-## AI Tafsir
-
-**What this ayah teaches:** In other words, the sense of the verse is: Had Allah seen in them some pliability towards receiving good counsel, He would have blessed them with the ability to listen with faith - and if, in their present state of being with no desire to receive truth, He were to make them listen to what is true, they would have certainly turned away from it paying no heed.
-
-**Classical tafsir:** Ibn Kathir notes: Muhammad bin Ishaq said that this Ayah refers to hypocrites, as we stated.
 ## Personal Reflections
-
 

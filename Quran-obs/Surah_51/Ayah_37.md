@@ -93,11 +93,5 @@ Small pebbles of baked clay would be sent down upon them: مُّسَوَّمَة
 
 We left a sign there for those who fear the painful punishment.
 
-## AI Tafsir
-
-**What this ayah teaches:** Some scholars say that each stone bore the name of the person with which he was to be destroyed, and if he ran in any particular direction, he was pursued by the same stone. The two descriptions of the punishment are not mutually contradictory: Probably, the stoning incident took place first, and then the earth was turned upside down.
-
-**Classical tafsir:** Ibn Kathir notes: Some scholars say that each stone bore the name of the person with which he was to be destroyed, and if he ran in any particular direction, he was pursued by the same stone.
 ## Personal Reflections
-
 

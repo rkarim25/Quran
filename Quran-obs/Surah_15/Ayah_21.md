@@ -150,11 +150,5 @@ And this expression: مِن كُلِّ شَيْءٍ مَّوْزُونٍ (everyt
 
 There is not any means of sustenance whose reserves We do not hold, only bringing it forth in precise measure.
 
-## AI Tafsir
-
-**What this ayah teaches:** And there is not a thing, but the supplies for it are with Us, and We do not send it down but in a known measure (21)And We send the winds fertilizing, then We cause the water to descend from the sky, and We give it to you to drink, and it is not you who are the owners of its supply (22)And certainly We!
-
-**Classical tafsir:** Ibn Kathir notes: But, this situation could have turned into a punishment for human beings, therefore, these were provided in a particular measure and balance so that their worth and value remains actively recognized, and that they are not left over only to go to waste either.
 ## Personal Reflections
-
 

@@ -104,11 +104,5 @@ By particularly mentioning affluent people who use their wealth to pursue a life
 
 Imagine how many peoples We have destroyed after Noah! And sufficient is your Rabb as All-Aware and All-Seeing of the sins of His servants.
 
-## AI Tafsir
-
-**What this ayah teaches:** And sufficient is your Lord as All-Knower and Seer of the sins of His servants .
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, those who have been blessed with wealth by Allah Ta’ ala should be more concerned with the correction of their deeds and morals - lest they fall into the trap of a luxurious life style, are heedless to self-correction, and make the entire nation go astray because of th…
 ## Personal Reflections
-
 

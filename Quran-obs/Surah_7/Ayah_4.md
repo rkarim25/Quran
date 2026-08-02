@@ -140,13 +140,5 @@ The hint given here is that Allah who has sent down this Book on you has also ma
 
 How many societies We have destroyed! Our torment took them by surprise at night or midday.
 
-## AI Tafsir
-
-**What this ayah teaches:** Or that He may catch them in the midst of their going to and from, so that there be no escape for them?
-
-**Classical tafsir:** Ibn Kathir notes: Or that He may catch them in the midst of their going to and from, so that there be no escape for them?
-
-**From the Sunnah:** Once this is done, it is not his responsibility to see who becomes a Muslim and who does not. (Sahih Muslim)
 ## Personal Reflections
-
 

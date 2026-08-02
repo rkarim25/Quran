@@ -114,11 +114,5 @@ The Day on which their own tongues, hands and feet will speak against them and w
 
 on the Day their tongues, hands, and feet will testify against them for what they used to do.
 
-## AI Tafsir
-
-**What this ayah teaches:** The Day on which their own tongues, hands and feet will speak against them and will testify against their crimes, they will be punished precisely according to the crimes they had committed. Verily, those who accuse chaste believing women, who never even think of anything touching their chastity and are good believers – are cursed in this life and in the Hereafter, and for them will be a great torm…
-
-**Classical tafsir:** Ibn Kathir notes: All of the scholars agree that whoever slanders her or makes accusations against after what has been said in this Ayah, is a those who reject the truth, because of his being obstinate with the Qur'an.
 ## Personal Reflections
-
 

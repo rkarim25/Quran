@@ -259,15 +259,5 @@ The second category of deeds is that of atheists or infidels, for which the exam
 
 hoping that Allah may reward them according to the best of their deeds, and increase them out of His grace. And Allah provides for whoever He wills without limit.
 
-## AI Tafsir
-
-**Context:** (Men whom neither trade nor business diverts from the remembrance of Allah nor from performing the Salah nor from giving the Zakah).
-
-**What this ayah teaches:** The example of the deeds of the first category is that of a mirage, which is nothing but illusion of sight.
-
-**Classical tafsir:** Ibn Kathir notes: 'Ali bin Abi Talhah reported that Ibn 'Abbas said, "This meant from the prescribed prayers." This was also the view of Muqatil bin Hayyan and Ar-Rabi' bin Anas.
-
-**From the Sunnah:** 'A'ishah, may Allah be pleased with her, said: "The Messenger of Allah ﷺ commanded us to build Masjids among the houses, and to clean them and perfume them." This was recorded by Ahmad and the Sunan compilers with the exception of An-Nasa'i.
 ## Personal Reflections
-
 

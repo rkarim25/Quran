@@ -246,15 +246,5 @@ At the end of the verse it was said: وَمَن لَّمْ يَحْكُم بِم
 
 We ordained for them in the Torah, “A life for a life, an eye for an eye, a nose for a nose, an ear for an ear, a tooth for a tooth—and for wounds equal retaliation.” But whoever waives it charitably, it will be atonement for them. And those who do not judge by what Allah has revealed are the wrongdoers.
 
-## AI Tafsir
-
-**Context:** ` We had revealed in the Torah this injunction of Qisas for the Jews that there will be life for life, eye for eye, nose for nose, ear for ear, tooth for tooth; and for wounds an equal retaliation.'
-
-**What this ayah teaches:** Mentioned after that is the Injil because that too, like the Torah, is guidance and light.
-
-**Classical tafsir:** Ibn Kathir notes: This Ayah also chastises and criticizes the Jews because in the Tawrah, they have the law of a life for a life.
-
-**From the Sunnah:** A Hadith that An-Nasa'i recorded states that the Messenger of Allah ﷺ had this statement written in the book that he gave 'Amr bin Hazm, (Sunan an-Nasa'i) So, they went to the Prophet ﷺ who ordered them to bring about retaliation. (Musnad Ahmad)
 ## Personal Reflections
-
 

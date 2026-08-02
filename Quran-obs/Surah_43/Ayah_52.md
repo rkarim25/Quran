@@ -142,11 +142,5 @@ Ibn Abi Hatim recorded that 'Uqbah bin 'Amir, may Allah be pleased with him, sai
 
 Am I not better than this nobody who can hardly express himself?
 
-## AI Tafsir
-
-**What this ayah teaches:** But this is an obvious lie, may continued curses be upon him until the Day of Resurrection.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

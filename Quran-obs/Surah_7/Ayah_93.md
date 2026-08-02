@@ -97,11 +97,5 @@ It was his total disappointment with his people neck-deep in disobedience and co
 
 He turned away from them, saying, “O my people! Indeed, I have delivered to you the messages of my Rabb and gave you advice. How can I then grieve for those who chose to reject the truth?”
 
-## AI Tafsir
-
-**What this ayah teaches:** I have indeed conveyed my Lord's Messages unto you and I have given you good advice. Then, it was for the peace of his own heart that he said addressing his people: ` 0 my people, I have surely delivered to you the messages of my Lord, and wished you betterment.
-
-**Classical tafsir:** Ibn Kathir notes: But, when the actual punishment came as a result of it, his heart pinched because of his prophetic concern and affection for them.
 ## Personal Reflections
-
 

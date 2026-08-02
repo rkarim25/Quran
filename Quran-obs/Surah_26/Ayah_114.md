@@ -58,11 +58,5 @@ It is related in this verse that the disbelievers rejected the invitation of Say
 
 I am not going to expel the mu'mins.
 
-## AI Tafsir
-
-**What this ayah teaches:** Hence, it was their ignorance to put the label of sordidness on his followers, because they did not know about their deeds and disposition. I am only a plain warner.) meaning, 'I have been sent as a warner, and whoever obeys me and follows me and believes in me, then he belongs to me and I to him, whether he is noble or common, upper-class or lower-class.'
-
-**Classical tafsir:** Ibn Kathir notes: Hence, it was their ignorance to put the label of sordidness on his followers, because they did not know about their deeds and disposition.
 ## Personal Reflections
-
 

@@ -232,13 +232,5 @@ Imam al-Baghawi has reported on the authority of Sayyidna ` Abdullah Ibn ` Abbas
 
 Allah sends the winds that stir up clouds, then We drive them to a dead land and revive the earth after its death. The resurrection will be the same.
 
-## AI Tafsir
-
-**What this ayah teaches:** And no aged man is granted a length of life nor is a part cut off from his life, but is in a Book.
-
-**Classical tafsir:** Ibn Kathir notes: Evidence of Life after Death Often Allah refers to the Resurrection by using the analogy of the earth coming back to life after it has died, as in the beginning of Surat Al-Hajj, where He urges His servants to draw the lesson of the former from the latter.
-
-**From the Sunnah:** When the Muslim servants says, 'Glory and praise be to Allah, there is no Allah worthy of worship except Allah, Allah is Most Great and blessed be Allah,' an angel takes these words and puts them under his wing, then he ascends with them to the heaven. (Sahih Muslim) It was also recorded by Al-Bukhari, Muslim and Abu Dawud. (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
-
 

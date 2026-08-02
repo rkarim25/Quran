@@ -127,13 +127,5 @@ Though, the author of Fath-ul-Mannan has also given answers to the doubts expres
 
 Give them an example of the residents of a town, when the messengers came to them.
 
-## AI Tafsir
-
-**Context:** The expression: ضرب مثل (cite an example) in verse 13: وَاضْرِ‌بْ لَهُم مَّثَلًا أَصْحَابَ الْقَرْ‌يَةِ (And cite to them the example of the People of the Town) is generally used to prove something by giving the example…
-
-**What this ayah teaches:** From this clear statement from him also, it seems likely that the town mentioned in this verse is this very town of Antakiyah.
-
-**Classical tafsir:** Ibn Kathir notes: You are only telling lies." The Messengers said: "Our Lord knows that we have been sent as Messengers to you.") This means that the three Messengers answered them saying: "Allah knows that we are His Messengers to you.
 ## Personal Reflections
-
 

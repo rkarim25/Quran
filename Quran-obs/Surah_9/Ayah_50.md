@@ -115,13 +115,5 @@ In the eighth verse (50), yet another aspect of their low nature has been mentio
 
 If a blessing befalls you, they grieve, but if a disaster befalls you, they say, “We took our precaution in advance,” and turn away, rejoicing.
 
-## AI Tafsir
-
-**What this ayah teaches:** Allah emphasizes the enmity that the hypocrites have for the Prophet ﷺ. They would take it as expedient in their favour that they did not go along with Muslims and found the results satisfying enough to go away delighted.
-
-**Classical tafsir:** Ibn Kathir notes: Allah emphasizes the enmity that the hypocrites have for the Prophet ﷺ.
-
-**From the Sunnah:** Allah emphasizes the enmity that the hypocrites have for the Prophet ﷺ. If a blessing, such as victory and triumph over the enemies, is given to the Prophet ﷺ, thus pleasing him and his Companions, it grieves the hypocrites,
 ## Personal Reflections
-
 

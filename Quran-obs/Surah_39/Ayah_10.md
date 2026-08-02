@@ -143,11 +143,5 @@ Imam Malik (رح) has taken: صَابرین (as-sabirun) in this verse to mean p
 
 Say that Allah says: "O My servants who believe! Live with taqwa—Allah-consciousness as though Allah sees you. Those who do good in this world will have a good reward. And Allah's earth is spacious. Only those who endure with sabr will be given their reward without limit."
 
-## AI Tafsir
-
-**What this ayah teaches:** Good is for those who do good in this world, and Allah's earth is spacious!
-
-**Classical tafsir:** Ibn Kathir notes: So much so that people who had lived their life of the mortal world in perfect peace and comfort would wish, 'alas!
 ## Personal Reflections
-
 

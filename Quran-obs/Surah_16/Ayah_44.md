@@ -149,15 +149,5 @@ If today a person calls this treasure of Hadith unreliable under one or the othe
 
 We sent them with clear proofs and divine Books. And We have sent down to you O Prophet the Reminder, so that you may explain to people what has been revealed for them, and perhaps they will reflect.
 
-## AI Tafsir
-
-**Context:** And We sent not (as Our Messengers) before you (O Muhammad) any but men, whom We sent revelation. So ask Ahl Adh-Dhikr, if you know not (43)With clear signs and Books (We sent the Messengers).
-
-**What this ayah teaches:** So that you may explain in detail what has been mentioned in brief, and explain what is not clear.
-
-**Classical tafsir:** Ibn Kathir notes: And We have also revealed the Dhikr to you so that you may clearly explain to men what was revealed to them, and that perhaps they may reflect .
-
-**From the Sunnah:** Now turn your attention to the great treasure of Hadith which one of the most talented and intellectually peerless people of our community, right from the Sababah and Tabi` in all the way to the Muhaddithin of the later period, have guarded more than their liv… (Sahih Muslim)
 ## Personal Reflections
-
 

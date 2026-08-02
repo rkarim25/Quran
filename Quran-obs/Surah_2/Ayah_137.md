@@ -142,15 +142,5 @@ Having defined the 'Iman which is acceptable to Allah, Verse 137 also points out
 
 If they believe as you believe, they are guided. If they turn away, they are in opposition. Allah will spare you their harm. He is the All-Hearing, the All-Knowing.
 
-## AI Tafsir
-
-**Essence** The only faith Allah accepts is to believe exactly as the Prophet ﷺ and his Companions believed — no more, no less, no distortion.
-
-**What it teaches** Guidance is real but conditional: "if they believe in the like of what you believe" (bimithli ma amantum). Ibn Kathir reads this as believing in all of Allah's Books and Messengers without differentiating between any of them — then they are rightly guided (ihtadaw), directed to the truth. To turn from truth to falsehood after the proof has come is shiqaq: open opposition.
-
-**The scholars** Maarif ul Quran makes the Iman of the Prophet ﷺ and his Companions the binding model: believe in Allah and His attributes, the angels, the Books, and the prophets precisely as they did, "without adding or subtracting anything." It condemns two extremes of deviation — denying and even killing the prophets, or exalting them until they are placed at the level of Allah — because the essence of shirk is making a creature the equal of Allah in a divine attribute like knowledge or power. On the closing words, Ibn Kathir grounds the believers' security in who Allah is: reading "Allah will suffice you against them" as Allah aiding the believers, and affirming the names al-Sami' (the All-Hearing) and al-'Alim (the All-Knowing).
-
-**Reflection** Measure your belief against the Companions' creed — not against modern materialism, not against "rationalist" re-interpretations that explain the unseen away, not against new claims of prophethood. Where Maarif ul Quran says Allah will deal with the obstinate Himself and protect His Prophet ﷺ, leave them to Him: He hears and knows all.
 ## Personal Reflections
-
 

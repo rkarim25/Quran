@@ -210,13 +210,5 @@ These verses are to remind the infidels of the severe punishments faced by earli
 
 When they saw the punishment approaching as a dense cloud over their valleys, they said happily, 'This cloud will bring us rain.' Hud said: No—it is what you rushed to bring upon yourselves: a violent wind carrying a painful punishment.
 
-## AI Tafsir
-
-**What this ayah teaches:** On seeing the punishment approaching them, a nation once said: "This is a cloud bringing us rain.") This is also recorded by Al-Bukhari and Muslim.
-
-**Classical tafsir:** Ibn Kathir notes: Then verse 24 states that the punishment was sent to them in the form of a cloud that appeared to be benign, and therefore they were happy to see it in the hope that it would bring rain to them, but in fact it contained the divine punishment in the form of a violent wind that des…
-
-**From the Sunnah:** Under the chapter, "He Who supplicates should first mention Himself," Ibn Majah recorded that Ibn 'Abbas narrated that the Prophet ﷺ said: (Sunan Ibn Majah) On seeing the punishment approaching them, a nation once said: "This is a cloud bringing us rain.") This is also recorded by Al-Bukhari and Muslim. (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
-
 

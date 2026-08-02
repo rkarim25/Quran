@@ -127,13 +127,5 @@ This is what is known as God gifted awe of truth, veracity and reality. The cont
 
 So the magicians were assembled at the set time on the appointed day.
 
-## AI Tafsir
-
-**What this ayah teaches:** There was no one present at the time of the incident, so no one could have contradicted him. At that time although the Pharaoh did not admit the truth, yet he was so overwhelmed and apprehensive that just two persons without having the support of a third, would turn him and his people out of their land and country.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** The contentions and dialectics of Allah's messengers are also full of truth, veracity and wishing well for the addressee.
 ## Personal Reflections
-
 

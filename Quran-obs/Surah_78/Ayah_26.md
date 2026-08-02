@@ -198,15 +198,5 @@ Then he said, "They will continue increasing in torment forever."
 
 a fitting reward for their deeds.
 
-## AI Tafsir
-
-**Context:** (But they denied Our Ayat Kidhdhaba.) meaning, they used to deny the evidences of Allah and His proofs for His creation, which He revealed to His Messengers. So they met these proofs with rejection and obstinance.
-
-**What this ayah teaches:** We will reward them based upon this.' If their deeds were good then their reward will be good, and if their deeds were evil their reward will be evil. The punishment given to them in Hell will be based on justice and equity - a fitting recompense - on account of their false beliefs and evil deeds.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** Al-Bukhari reported concerning the explanation of Allah's statement, (Sahih al-Bukhari)
 ## Personal Reflections
-
 

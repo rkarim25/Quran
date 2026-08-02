@@ -87,11 +87,5 @@ Commentary
 
 And this Quran is a blessed reminder which We have revealed. Will you pagans then deny it?
 
-## AI Tafsir
-
-**What this ayah teaches:** And indeed We granted to Musa and Harun the criterion, and a shining light and a Reminder for those who have Taqwa (48)Those who fear their Lord in the unseen, and they are afraid of the Hour (49)And this is a blessed Reminder which We have sent down; will you then deny it .
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

@@ -344,15 +344,5 @@ These three requests were aimed at safety against punishment and pain and loss. 
 
 Our Rabb! We have heard the caller to belief, ‘Believe in your Rabb,’ so we believed. Our Rabb! Forgive our sins, absolve us of our misdeeds, and allow us to die as one of the virtuous.
 
-## AI Tafsir
-
-**Context:** (O Bilal! What prevents me from crying, when this night, this Ayah was revealed to me,)
-
-**What this ayah teaches:** Verily, we have heard the call of one calling to faith: 'Believe in your Lord,' and we have believed. The third request is: We have heard the message given by the herald sent by You, that is, the message of the Messenger of Allah and we believed in him.
-
-**Classical tafsir:** Ibn Kathir notes: In other words it means that they are engaged in the remembrance of Allah under all conditions and at all times.
-
-**From the Sunnah:** The Messenger of Allah ﷺ spoke with his wife for a while and then went to sleep. (Sahih al-Bukhari) The Prophet ﷺ then stood up, performed ablution, used Siwak (to clean his teeth) and prayed eleven units of prayer. (Sahih Muslim)
 ## Personal Reflections
-
 

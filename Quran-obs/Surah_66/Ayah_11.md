@@ -176,13 +176,5 @@ This is the end of the Tafsir of Surat At-Tahrim, all thanks and praise are due 
 
 Allah sets forth an example for the believers: the wife of Pharaoh, who prayed: 'My Lord, build me a house in Paradise near You, deliver me from Pharaoh and his evil doing, and save me from the wrongdoing people.'
 
-## AI Tafsir
-
-**What this ayah teaches:** The those who reject the truth can cause no Harm to the Believers This is a parable that Allah made of the believers, in that, if they needed to, their association with the those who reject the truth will not harm them.
-
-**Classical tafsir:** Ibn Kathir notes: His wife was not affected by her husband's disbelief, because she obeyed her Lord.
-
-**From the Sunnah:** Paradise, and while looking at this vision her soul departed. (Sahih Muslim)
 ## Personal Reflections
-
 

@@ -169,13 +169,5 @@ Mentioned in several previous verses there are hypocrites whose hypocrisy stood 
 
 Some of the nomads around you are those living in nifaq—outward acceptance with inward rejection, as are some of the people of Medina. They have mastered hypocrisy. They are not known to you ; they are known to Us. We will punish them twice, then they will be brought back for a tremendous punishment.
 
-## AI Tafsir
-
-**What this ayah teaches:** We shall punish them twice, and thereafter they shall be brought back to a great (horrible) torment . In this verse, two Divine punishments to come much before 'Akhirah upon such diehard hypocrites have been mentioned.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** This knowledge is specific in this case, not that the Messenger of Allah ﷺ was informed of all their names, and Allah knows best. Paradise and so-and-so is in the Fire.
 ## Personal Reflections
-
 

@@ -145,15 +145,5 @@ Out of these wise advices, first comes the soundness of beliefs, the primary art
 
 Luqman said to his son while advising him: My dear son, never commit shirk — giving anything the devotion owed to Allah alone — for shirk is the gravest wrong.
 
-## AI Tafsir
-
-**Context:** (But if they strive with you to make you join in worship with Me others that of which you have no knowledge, then obey them not;) was revealed concerning me.
-
-**What this ayah teaches:** Verily, joining others in worship with Allah is a great Zulm (wrong) indeed.
-
-**Classical tafsir:** Ibn Kathir notes: Allah describes him in the best terms, and states that he granted him wisdom.
-
-**From the Sunnah:** I was a man who honored his mother, but when I became Muslim, she said: 'O Sa'd! (Sahih Muslim)
 ## Personal Reflections
-
 

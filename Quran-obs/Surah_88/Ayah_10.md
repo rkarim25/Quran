@@ -108,13 +108,5 @@ Ibn 'Abbas said, "Az-Zarabi are carpets." This was also said by Ad-Dahhak and ot
 
 in an elevated Garden,
 
-## AI Tafsir
-
-**Context:** لَّا يُسْمِنُ وَلَا يُغْنِي مِن جُوعٍ (that will neither nourish, nor satisfy hunger...88:7). When the preceding verse was revealed in which it was stated that the inmates of Hell will get food like Dari`, some of the pa…
-
-**What this ayah teaches:** When the preceding verse was revealed in which it was stated that the inmates of Hell will get food like Dari`, some of the pagans of Makkah [ mockingly ] said that their camels eat Dari` and yet they are fat and healthy. Here the word Mabthuthah means placed here and there for whoever would like to sit upon them.
-
-**Classical tafsir:** Ibn Kathir notes: Here the word Mabthuthah means placed here and there for whoever would like to sit upon them.
 ## Personal Reflections
-
 

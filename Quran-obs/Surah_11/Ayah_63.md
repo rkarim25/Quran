@@ -140,11 +140,5 @@ As part of this event, the people of Sayyidna Salih (علیہ السلام) have
 
 He responded, “O my people! Consider if I stand on a clear proof from my Rabb and He has blessed me with a mercy from Him. Who could help me against Allah if I were to disobey Him? You would only contribute to my doom.
 
-## AI Tafsir
-
-**What this ayah teaches:** Tell me, if I have a clear proof from my Lord, and there has come to me a mercy from Him, who then can help me against Allah, if I were to disobey Him?
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

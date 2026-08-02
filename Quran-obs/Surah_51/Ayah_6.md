@@ -138,11 +138,5 @@ There is a Hadith whose attribution to the Holy Prophet ﷺ has been held by Ibn
 
 And the Day of Judgment will certainly come to pass.
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, that which you are promised is surely true.)(6.
-
-**Classical tafsir:** Ibn Kathir notes: Verily, that which you are promised is surely true.)(6.
 ## Personal Reflections
-
 

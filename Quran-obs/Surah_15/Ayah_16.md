@@ -83,13 +83,5 @@ The word: بُرُ‌وجًا ; is the plural of: بُرُج (burj) which is app
 
 Indeed, We have placed constellations in the sky, and adorned it for all to see.
 
-## AI Tafsir
-
-**What this ayah teaches:** The Power of Allah and His Signs in the Heavens and on Earth To those who ponder, and look repeatedly at the dazzling signs and wonders that are to be seen in the creation, Allah mentions His creation of the heavens, with their immense height, and both the fixed and moving heavenly bodies with which He has adorned it.
-
-**Classical tafsir:** Ibn Kathir notes: Here, Mujahid and Qatadah said that Buruj [big stars] refers to the heavenly bodies.
-
-**From the Sunnah:** Explaining this Ayah, Al-Bukhari reported from Abu Hurayrah that the Prophet ﷺ said: (Sahih al-Bukhari) This was also the opinion of Sa'id bin Jubayr, 'Ikrimah, Abu Malik, Mujahid, Al-Hakim bin 'Utaybah, Al-Hasan bin Muhammad, Abu Salih and Qatadah. (al-Mustadrak)
 ## Personal Reflections
-
 

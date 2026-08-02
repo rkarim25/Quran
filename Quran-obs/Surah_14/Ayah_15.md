@@ -205,13 +205,5 @@ So, whatever good there is in gratitude, that is for you alone. There-fore, when
 
 Both sides called for judgment, and every stubborn tyrant was doomed.
 
-## AI Tafsir
-
-**Context:** And those who disbelieved, said to their Messengers: "Surely, we shall drive you out of our land, or you shall return to our religion." So their Lord revealed to them: "Truly, We shall destroy the wrongdoers.
-
-**What this ayah teaches:** And the fair Word of your Lord was fulfilled for the Children of Israel, because of their endurance. 'Abdur-Rahman bin Zayd bin Aslam said that this Ayah refers to the nations, invoking Allah's victory against themselves!
-
-**Classical tafsir:** Ibn Kathir notes: And other (torments) of similar kind all together!)[38:57-58] Mujahid and 'Ikrimah said that this festering water is made of puss and blood.
 ## Personal Reflections
-
 

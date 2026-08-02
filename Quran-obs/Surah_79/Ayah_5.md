@@ -186,11 +186,5 @@ The Holy Prophet ﷺ used to be hurt by the stubbornness of the obdurate rejecte
 
 and those managing every affair by Allah's command—
 
-## AI Tafsir
-
-**What this ayah teaches:** The statement that 'the soul is in ` Alam-ul-arwah or ` illiyyun' is also true, because the 'soul' in this context refers to ruh mujarrad or 'abstract spirit'.
-
-**Classical tafsir:** Ibn Kathir notes: The statement that 'the soul is in ` Alam-ul-arwah or ` illiyyun' is also true, because the 'soul' in this context refers to ruh mujarrad or 'abstract spirit'.
 ## Personal Reflections
-
 

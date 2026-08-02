@@ -146,13 +146,5 @@ In the third verse (59), warning has been given to people who introduce their pe
 
 What do those who fabricate lies against Allah expect on Judgment Day? Surely Allah is ever Bountiful to humanity, but most of them are ungrateful.
 
-## AI Tafsir
-
-**Context:** Ibn 'Abbas, Mujahid, Ad-Dahhak, Qatadah, 'Abdur-Rahman bin Zayd bin Aslam and others said: "This Ayah was revealed to criticize the idolators for what they used to make lawful and unlawful.
-
-**What this ayah teaches:** He also has not prohibited them except what is harmful to them in their world and the Hereafter.
-
-**Classical tafsir:** Ibn Kathir notes: This is because they are based on mere desires and false opinions that are not supported with evidence or proof.
 ## Personal Reflections
-
 

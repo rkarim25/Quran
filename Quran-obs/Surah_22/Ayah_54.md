@@ -201,13 +201,5 @@ Commentary
 
 This is also so that those gifted with knowledge would know that this revelation is the truth from your Rabb, so they have iman in it, and so their hearts would submit humbly to it. And Allah surely guides the mu'mins to the Sirat al-Mustaqim — the way of living that pleases Allah.
 
-## AI Tafsir
-
-**Context:** (And that those who have been given knowledge may know that it is the truth from your Lord, so that they may believe therein,) means, 'so that those who have been given beneficial knowledge with which they may differenti…
-
-**What this ayah teaches:** And Allah is All-Knower, All-Wise (52)That He (Allah) may make what is thrown in by Shaytan a trial for those in whose hearts is a disease and whose hearts are hardened.
-
-**Classical tafsir:** Ibn Kathir notes: This verse explains that the disputes raised by the those who reject the truth in regard to Allah's message is not something new as similar doubts were raised by earlier people as well when their prophets presented to them the message of Truth, and the Shaitan cast doubts about it in the heart…
 ## Personal Reflections
-
 

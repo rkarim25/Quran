@@ -128,13 +128,5 @@ Allah says,
 
 for whoever among you chooses to advance or hang back.
 
-## AI Tafsir
-
-**What this ayah teaches:** This is so that one does not make the mistake of thinking that they are only nineteen in all.
-
-**Classical tafsir:** Ibn Kathir notes: This is so that one does not make the mistake of thinking that they are only nineteen in all.
-
-**From the Sunnah:** It has been confirmed in the Hadith concerning Al-Isra' that is reported in the Two Sahihs and other collections, that the Messenger of Allah ﷺ said in describing the Frequented House (Al-Bayt Al-Ma'mur), which is in the seventh heaven,
 ## Personal Reflections
-
 

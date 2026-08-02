@@ -162,11 +162,5 @@ Commentary
 
 And He is the One Who gave you life, then will cause you to die, and then will bring you back to life. But surely humankind is ever ungrateful.
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, Allah is for mankind, full of kindness, ar-Rahim (65)It is He, Who gave you life, and then will cause you to die, and will again give you life. In the raging sea with its tempestuous waves, the ships sail gently with their passengers and carry them wherever they want to go for trading and other purposes from one land to another, so that they bring goods from here to there, or vice ver…
-
-**Classical tafsir:** Ibn Kathir notes: The verse therefore means that all the things mentioned above are all the time working in the service of man by the command of Allah.
 ## Personal Reflections
-
 

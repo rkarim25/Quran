@@ -154,13 +154,5 @@ Likewise, his deeds and actions that he had done secretly, and no one was aware 
 
 Surely He is able to bring them back to life
 
-## AI Tafsir
-
-**Context:** يَوْمَ تُبْلَى السَّرَائِرُ (on a day when all the secrets will be searched out.. 86:9). The word tubla literally means 'to test/examine' and sara'ir means 'secrets'.
-
-**What this ayah teaches:** This is clearly possible, because whoever is able to begin the creation then he surely is able to repeat it.
-
-**Classical tafsir:** Ibn Kathir notes: The word tubla literally means 'to test/examine' and sara'ir means 'secrets'.
 ## Personal Reflections
-
 

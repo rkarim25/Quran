@@ -160,11 +160,5 @@ Sayyidi Hakim-ul-Ummah Ashraf Thanavi (رح) has given another distinction betwe
 
 Say, O Prophet: Travel the land and see the end of those before you — most associated partners with Allah.
 
-## AI Tafsir
-
-**What this ayah teaches:** The purpose of these worldly troubles is to awaken them from their slumber, so that they get rid of their evil acts. Therefore, in the case of prophets and pious persons, calamities may visit them without sins.
-
-**Classical tafsir:** Ibn Kathir notes: The author of Ruh ul-Ma’ ani has explained that the word fasad' (translated in the text as 'plight' ) means all sorts of calamities, such as famine, epidemic diseases, frequency of the incidents of fire, drowning, lack of Allah's blessing in everything, and reduction in profits a…
 ## Personal Reflections
-
 

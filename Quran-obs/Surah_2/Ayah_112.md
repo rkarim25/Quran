@@ -275,22 +275,5 @@ These verses provide a warning to the Muslims as well, lest they too should delu
 
 No — whoever submits their face to Allah and acts with ihsan — worshipping as though they see Allah, knowing He sees them — will have their reward with their Rabb. They will have no fear and will not grieve.
 
-## AI Tafsir
-
-**Essence**
-To every claim of exclusive salvation Allah answers "Bala" — Yes, but Paradise belongs to whoever surrenders his whole self to Allah alone and does good in the way He has prescribed.
-
-**What it teaches**
-Against the Jews' and Christians' boast that none enters Paradise but them, the ayah sets the timeless condition. *Aslama wajhahu lillah* — to surrender oneself wholly to Allah alone in sincerity (*ikhlas*), with no partner; and *muhsin* is the doer of good who follows the way of the Messenger ﷺ. Such a one has his reward with his Lord, safe from all fear and grief.
-
-**The scholars**
-Ibn Kathir explains *aslama wajhahu* (his face, i.e. himself) as performing deeds "in sincerity, for Allah alone without partners," and *muhsin* as "following the Messenger ﷺ" — so a deed is accepted only on two conditions: it must be purely for Allah's sake and conform to the Shari'ah. A sincere deed outside the Shari'ah (like that of the priests and rabbis) is rejected, and a Shari'ah-shaped deed done to show off (the hypocrite's) is likewise rejected. On the promise, Ibn Kathir reads "no fear" as fear of the future and "no grief" over what was left behind in the past; Sa'id bin Jubayr adds "no fear" in the Hereafter and "no grief" over death soon to come. Maarif notes the word *aslama* signifies total submission — so even Muslims have no claim to this reward by mere community membership without submitting in thought and deed.
-
-**From the Sunnah**
-A deed is accepted only when it meets two conditions — sincerity for Allah alone and conformity to the way of the Messenger ﷺ; whatever is invented outside his religion is rejected, even if sincere (Muslim).
-
-**Reflection**
-The People of the Book traded the substance of faith for a label. The same trap waits for us: a name on the community roll is not a name with the Lord. Surrender the whole self, shape every deed by the Sunnah — and the reward is His to keep, beyond fear, beyond grief.
 ## Personal Reflections
-
 

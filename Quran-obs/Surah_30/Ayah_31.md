@@ -146,11 +146,5 @@ These are like the Jews, Christians, Zoroastrians, idol worshippers and all the 
 
 O believers, turn to Him, live with taqwa, and establish salah. Do not commit shirk —
 
-## AI Tafsir
-
-**What this ayah teaches:** No change let there be in Allah's Khalq, that is the straight religion, but most men know not (30)(And remain always) turning in repentance to Him and have Taqwa of Him; and perform the Salah and be not of idolators (31)Of those who split up their religion, and became sects, each sect rejoicing in that which is with it .
-
-**Classical tafsir:** Ibn Kathir notes: Others said that this means, Allah made all of His creation equal, all of them have the same sound Fitrah and are by nature upright; they are all born with this nature and there is no disparity among people in this regard.
 ## Personal Reflections
-
 

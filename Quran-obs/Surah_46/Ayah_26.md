@@ -189,11 +189,5 @@ These verses are to remind the infidels of the severe punishments faced by earli
 
 We had established them in the land more firmly than We established you, and gave them hearing, sight, and minds—yet none of that helped them when they kept denying Allah's ayahs. What they mocked overwhelmed them.
 
-## AI Tafsir
-
-**What this ayah teaches:** But their hearing, vision, and hearts availed them nothing since they used to deny the Ayat of Allah, and they were completely encircled by that which they used to ridicule (26)And indeed We have destroyed towns round about you, and We have shown (them) the signs in various ways so that they might return (27)As for those whom they had taken for gods besides Allah, as the means of approach to Him,…
-
-**Classical tafsir:** Ibn Kathir notes: This means, you listeners must beware of being like them lest a punishment similar to theirs strikes you in this life and the Hereafter.
 ## Personal Reflections
-
 

@@ -60,13 +60,5 @@ Verse 71 carries the response of the accused: قَالُوا وَأَقْبَل�
 
 They asked, turning back, “What have you lost?”
 
-## AI Tafsir
-
-**What this ayah teaches:** So when he furnished them forth with their provisions, he put the bowl in his brother's bag. Yusuf had His Golden Bowl placed in Binyamin's Bag; a Plot to keep Him in Egypt After Yusuf supplied them with their provisions, he ordered some of his servants to place his silver bowl (in Binyamin's bag), according to the majority of scholars.
-
-**Classical tafsir:** Ibn Kathir notes: Shu'bah said that Abu Bishr narrated that Sa'id bin Jubayr said that Ibn 'Abbas said that the king's bowl was made from silver and he used it to drink with.
-
-**From the Sunnah:** Abu Bishr narrated that Sa'id bin Jubayr said that Ibn 'Abbas said that the king's bowl was made from silver and he used it to drink with.
 ## Personal Reflections
-
 

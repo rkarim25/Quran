@@ -134,15 +134,5 @@ This is to chasten the Jews that they had tried to test the Messenger of Allah �
 
 We narrate to you, O Prophet, the best of stories through what We reveal to you in this Quran — though before it you were among those unaware.
 
-## AI Tafsir
-
-**Context:** (Verily, We have sent it down as an Arabic Qur'an in order that you may understand.) The Arabic language is the most eloquent, plain, deep and expressive of the meanings that might arise in one's mind.
-
-**What this ayah teaches:** We relate unto you the best of stories through Our revelations unto you, of this Qur'an. Verily, We have sent it down as an Arabic Qur'an in order that you may understand.)(3.
-
-**Classical tafsir:** Ibn Kathir notes: Verily, We have sent it down as an Arabic Qur'an in order that you may understand.)(3.
-
-**From the Sunnah:** a narration from Jabir bin 'Abdullah that 'Umar bin Al-Khattab came to the Prophet ﷺ with a book that he took from some of the People of the Book.
 ## Personal Reflections
-
 

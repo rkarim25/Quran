@@ -219,13 +219,5 @@ According to a narration of Sayyidna Jabir ؓ appearing in the Sahihs of al-Bukh
 
 Those who reject the truth swear: "We will never believe in this Quran or in what came before it." If only you could see when the wrongdoers are held before their Lord, blaming one another! The followers will say to their arrogant leaders, "Had it not been for you, we would have been believers."
 
-## AI Tafsir
-
-**What this ayah teaches:** And those who disbelieve say: "We believe not in this Qur'an nor in that which was before it." But if you could see when the wrongdoers are made to stand before their Lord, how they will cast the (blaming) word one to another!
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, it will hold on and survive till Qiyamah in its original state and there would be no need for some other prophet to be sent.
-
-**From the Sunnah:** intercede on behalf of others on the fateful plains of the Resurrection [ al-hashr ], I shall, then, be given the opportunity to intercede). (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
-
 

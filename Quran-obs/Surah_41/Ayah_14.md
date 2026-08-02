@@ -210,11 +210,5 @@ The basic purpose of these verses is to warn the people of Makkah that if, even 
 
 Messengers came to them from all directions, proclaiming, "Worship none but Allah." They responded, "Had our Lord willed, He would have sent angels. We totally reject what you were sent with."
 
-## AI Tafsir
-
-**What this ayah teaches:** which means that in the neighboring towns and cities, Allah sent Messengers who commanded the people to worship Allah Alone with no partner or associate, and they brought good news as well as warnings. But surely the torment of the Hereafter will be more disgracing, and they will never be helped (16)And as for Thamud, We showed them the path of truth but they preferred blindness to guidance; so th…
-
-**Classical tafsir:** Ibn Kathir notes: But surely the torment of the Hereafter will be more disgracing, and they will never be helped (16)And as for Thamud, We showed them the path of truth but they preferred blindness to guidance; so the Sa'iqah of disgracing torment seized them because of what they used to earn (17)…
 ## Personal Reflections
-
 

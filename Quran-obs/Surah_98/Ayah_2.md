@@ -170,15 +170,5 @@ The word مُطَھَّرَۃً mutahharatan [ purified ] is an adjective qualif
 
 a messenger from Allah reciting purified scriptures—
 
-## AI Tafsir
-
-**Context:** (And We did not send any Messenger before you but We revealed to him: La ilaha illa Ana.)(21:25)
-
-**What this ayah teaches:** However, not every reading or reciting is tilawah, but only the one that is very closely followed according to the teacher's instruction.
-
-**Classical tafsir:** Ibn Kathir notes: The word suhuf is the plural of sahifah and it refers to 'a leaf or a page of a book or some leaves of paper on which something is written'.
-
-**From the Sunnah:** from Anas bin Malik that the Messenger of Allah ﷺ said to Ubayy bin Ka'b, (Musnad Ahmad) this Hadith from Shu'bah. (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
-
 

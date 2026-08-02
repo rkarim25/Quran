@@ -128,13 +128,5 @@ Commentary
 
 If We send a harsh wind and they see crops wither, they deny old favours at once.
 
-## AI Tafsir
-
-**What this ayah teaches:** Allah is He Who sends the winds, so that they raise clouds and spread them along the sky as He wills, and then break them into fragments until you see rain drops come forth from their midst! Verily, that shall indeed raise the dead, and He is able to do all things (50)And if We send a wind, and they see it turn yellow – behold, they then would become unthankful (those who reject the truth).
-
-**Classical tafsir:** Ibn Kathir notes: The Revival of the Earth is a Sign of the Resurrection Here Allah explains how He creates the clouds that rain the water.
-
-**From the Sunnah:** On the face of this statement, one would have expected that Muslims would never be defeated against the infidels.
 ## Personal Reflections
-
 

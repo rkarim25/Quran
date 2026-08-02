@@ -225,13 +225,5 @@ Appearing once again in verse 38, there is a patronizing address to disbelievers
 
 Tell those who reject the truth: if they desist, what is past will be forgiven. If they return to hostility, the example of earlier destroyed nations has already gone before them.
 
-## AI Tafsir
-
-**What this ayah teaches:** But if they return (thereto), then the examples of those (punished) before them have already preceded (as a warning)(38)And fight them until there is no more Fitnah, and the religion (worship) will all be for Allah alone.
-
-**Classical tafsir:** Ibn Kathir notes: Appearing once again in verse 38, there is a patronizing address to those who reject the truth - which carries the elements of persuasion and warning both.
-
-**From the Sunnah:** It is recorded in the Sahih that the Messenger of Allah ﷺ said to Usamah bin Zayd when he overpowered a man with his sword, after that man proclaimed that there is no deity worthy of worship except Allah;
 ## Personal Reflections
-
 

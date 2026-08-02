@@ -237,11 +237,5 @@ Towards the later part of verse 6, it was said: خَلْقًا مِّن بَعْ
 
 He created you all from a single soul, then from it made its mate. He produced for you four pairs of cattle. He creates you in the wombs of your mothers in stages, one development after another, in three layers of darkness. That is Allah—your Lord! All authority belongs to Him. There is no god worthy of worship except Him. How can you then be turned away?
 
-## AI Tafsir
-
-**What this ayah teaches:** Everyone of you is originally a Nutfah, then he becomes an 'Alaqah, then he becomes a Mudghah, then he is created and becomes flesh and bones and nerves and veins, and the Ruh (soul) is breathed into him, and he becomes another type of creation.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, it can be said that these too were as if sent down from the skies.
 ## Personal Reflections
-
 

@@ -134,11 +134,5 @@ These verses refer to this very perception of these things that to associate any
 
 by which the heavens nearly burst, the earth splits, and mountains crumble
 
-## AI Tafsir
-
-**What this ayah teaches:** These verses suggest that the earth, the mountains and everything that grows thereon possess a certain degree of knowledge and intelligence though in their case these perceptions are not of the same extent as that bestowed on human beings.
-
-**Classical tafsir:** Ibn Kathir notes: This explains the fact that everything in the world glorifies Allah Ta’ ala as will be evident from the verse.
 ## Personal Reflections
-
 

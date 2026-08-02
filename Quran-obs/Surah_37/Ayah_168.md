@@ -128,11 +128,5 @@ After having provided proofs of the basic beliefs of Islam, these verses now men
 
 "If only we had a Reminder like those of earlier peoples,
 
-## AI Tafsir
-
-**What this ayah teaches:** That this will unfold comprehensively in the Hereafter is already settled, but in the mortal world too, Allah Ta’ ala showed the spectacle that, in every Jihad from the battle of Badr up to the conquest of Makkah, His blessed rasul came out victorious and his adversaries, disgraced.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

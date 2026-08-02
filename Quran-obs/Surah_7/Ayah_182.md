@@ -90,13 +90,5 @@ Dealing with Istidraj is not limited to disbelievers only. The iniquitous among 
 
 As for those who deny Our signs, We will gradually draw them to destruction in ways they cannot comprehend.
 
-## AI Tafsir
-
-**What this ayah teaches:** The verse answered this question in these words: "As for those who belie our signs, we shall let them be drawn gradually towards (their punishment) from where they do not know." That is to say, Allah does not punish those who reject the signs or verses of Allah immediately for their sins.
-
-**Classical tafsir:** Ibn Kathir notes: The present prosperity and progress of the non-Muslims should, therefore, not deceive people, because their prosperity, in fact, is not something propitious for them.
-
-**From the Sunnah:** The next verse (182) has provided answer to a common question which bothers the minds of many Muslims. (Sahih Muslim) The present prosperity and progress of the non-Muslims should, therefore, not deceive people, because their
 ## Personal Reflections
-
 

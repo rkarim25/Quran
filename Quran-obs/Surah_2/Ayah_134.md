@@ -159,17 +159,5 @@ Another hadith says: من بطابہ عملہ لم یسرع بہ نسبہ :"He w
 
 That was a community that has passed. For them is what they earned; for you is what you earn. You will not be asked about what they did.
 
-## AI Tafsir
-
-**Essence** That nation has gone; it keeps what it earned and you keep what you earned. Kinship to the righteous saves no one who arrives empty of his own deeds.
-
-**What it teaches** The verse turns on one word — *kasaba*, to earn by one's own effort — and it cuts both ways. "Laha ma kasabat" seals the ancestors' account: their credit is theirs, not a balance you can draw on. "Wa la tus'aluna 'amma kanu ya'maluna" frees you in return — neither funded by their merit nor charged with their sins. Each soul stands alone before its own ledger.
-
-**The scholars** Ibn Kathir draws the forward edge: your link to the Prophets or righteous forebears will not benefit you unless you yourself do good — "they have their deeds and you have yours." Maarif ul Quran draws the converse — one does not suffer for forefathers' misdeeds when one's own account is clean (concluding from this, on a point where classical scholars differed, that children of the mushrikin who die before maturity are not punished for their parents' disbelief), and Maarif alone turns the verse against the Jews' claim that ancestral merit guarantees Paradise.
-
-**From the Sunnah** "Whoever was slowed by his deeds will not be sped by his lineage" (narrated by Ibn Kathir and Maarif ul Quran). And addressing his own clan, the Prophet ﷺ warned: "O Banu Hashim, let it not be that others come on the Day of Judgment with their good deeds while you come bearing only your kinship to me — for I cannot save you from the wrath of Allah" (Maarif ul Quran).
-
-**Reflection** No name, no bloodline, no borrowed sanctity will answer when you are asked. Only what your own hands sent ahead will rise to speak for you. Send something ahead today.
 ## Personal Reflections
-
 

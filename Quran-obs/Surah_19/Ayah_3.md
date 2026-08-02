@@ -150,15 +150,5 @@ undertone and the best sustenance is that which is sufficient for one's needs (i
 
 when he called upon his Rabb in private,
 
-## AI Tafsir
-
-**Context:** The reason for his fear was that he was afraid that the generation that would succeed him would be a wicked generation.
-
-**What this ayah teaches:** When he called his Lord [with] a call in secret.)(4. A reminder of the mercy of your Lord to His servant Zakariyya.)(3.
-
-**Classical tafsir:** Ibn Kathir notes: A reminder of the mercy of your Lord to His servant Zakariyya.)(3.
-
-**From the Sunnah:** about Zakariyya] that He was a carpenter who used to eat from what he earned with his own hand through carpentry (Sahih al-Bukhari) All of this is supported and affirmed by what is in the authentic Hadith: (authentic hadith)
 ## Personal Reflections
-
 

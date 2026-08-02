@@ -212,24 +212,5 @@ Rulings
 
 Whoever changes the will after hearing it bears sin only upon those who changed it. Allah is All-Hearing, All-Knowing.
 
-## AI Tafsir
-
-**Essence**
-Once a dying person's bequest has been heard, anyone who tampers with it carries the entire sin alone, for Allah hears and knows exactly what was willed and what was altered.
-
-**What it teaches**
-After a valid wasiyyah (will/bequest) has been heard, "whoever changes it" — by addition, deletion, or even concealment — bears its sin (ithm) entirely, while the deceased's reward stays intact. The closing names — Sami' (the All-Hearing, who heard the original will) and 'Alim (the All-Knowing, who knows every change made to it) — turn an unwitnessed act of tampering into something fully exposed before Allah.
-
-**The scholars**
-Ibn Kathir explains that the verse covers "whoever changed the will and testament or altered it by addition or deletion, including hiding the will," and that the sin falls only on the one who changes it. He cites Ibn 'Abbas and others: "The dead person's reward will be preserved for him by Allah, while the sin is acquired by those who change the will." The divine names, he notes, mean Allah "knows what the dead person has bequeathed and what the beneficiaries (or others) have changed in the will." Both Ibn Kathir and Maarif ul Quran situate this within the law of bequests: the original obligation to will to parents and relatives was abrogated by the verse of inheritance (4:7) and the Prophet's ﷺ declaration that "Allah has given each heir his fixed share, so there is no will for a deserving heir," yet a will remains valid for non-inheriting relatives and for settling debts and trusts. Separately, in the Sa'd bin Abi Waqqas hadith (Sahihayn), the Prophet ﷺ capped a bequest at one-third — "yet even one-third is too much." The verse guards the integrity of whatever lawful bequest stands. Maarif adds the limit from the next ayah: correcting a testator's genuine error or injustice (janaf) to restore fairness is not the blameworthy "changing" condemned here.
-
-**From the Sunnah**
-The Prophet ﷺ said that a man might do the works of righteous people for seventy years, then commit injustice when he dictates his will, and so end with the worst of his deeds and enter the Fire — while a man might do the works of evil people for seventy years, then dictate a just will, and so end with the best of his deeds and enter Paradise. Fairness in the bequest is decisive. (Abdur-Razzaq, marfu' from Abu Hurayrah)
-
-Ibn 'Abbas (in a Companion's report relayed by Ibn Kathir) taught that tampering with a bequest transfers no guilt to the deceased: his reward is preserved by Allah, and the sin is borne solely by the one who alters the will.
-
-**Reflection**
-Guard a trust placed in your hands as if Allah were listening — because the One who heard the will hears you too.
 ## Personal Reflections
-
 

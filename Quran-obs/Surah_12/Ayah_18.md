@@ -145,11 +145,5 @@ According to Al-Qurtubi, it proves that an error of opinion can be committed by 
 
 And they brought his shirt, stained with false blood. He responded, “No! Your souls must have tempted you to do something evil. So I can only endure with beautiful sabr — steadfast endurance that keeps you upright! It is Allah’s help that I seek to bear your claims.”
 
-## AI Tafsir
-
-**What this ayah teaches:** But, they forgot to tear the shirt, and this is why Allah's Prophet Ya'qub did not believe them.
-
-**Classical tafsir:** Ibn Kathir notes: The first of them turned out to be true; the other was not - because, in this, the brothers were not to be blamed.
 ## Personal Reflections
-
 

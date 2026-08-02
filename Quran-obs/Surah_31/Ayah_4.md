@@ -78,11 +78,5 @@ Ibn Kathir while commenting on verse 20 of Surah Al-Muzzammil: وَأَقِيم�
 
 Those who establish salah — the formal prayer — give zakat — the obligatory sharing of wealth that purifies what remains — and hold firm iman — faith that reshapes how they live — in the Akhirah, the everlasting life after death.
 
-## AI Tafsir
-
-**What this ayah teaches:** Those who perform the Salah and give Zakah and they have faith in the Hereafter with certainty.)(5. They establish the obligatory prayers in the proper manner and at the correct times, and follow that with regular, optional and supererogatory prayers; they pay the Zakah to those who deserve it; they uphold the ties of kinship with their relatives; they have certain faith that there will be rewards…
-
-**Classical tafsir:** Ibn Kathir notes: As for the popular assumption that the injunction of Zakah was enforced in the second year of Hijrah, it refers to the arrangement of fixing its nisab (threshold), providing details of obligatory amount to be paid, collecting and disbursing it on authorized heads by the Islamic g…
 ## Personal Reflections
-
 

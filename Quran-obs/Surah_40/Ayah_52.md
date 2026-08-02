@@ -150,11 +150,5 @@ In the later part of verse 51, it was said: يَوْمَ يَقُومُ الْأ
 
 the Day the wrongdoers' excuses will be of no benefit. They will be condemned and will have the worst outcome.
 
-## AI Tafsir
-
-**What this ayah teaches:** The rest were rounded up at the time of the conquest of Makkah, but the Holy Prophet ﷺ let them have their freedom. Then Allah took him (in death), because of his high status and honor, and He established his Companions as his Khalifahs.
-
-**Classical tafsir:** Ibn Kathir notes: Then Allah took him (in death), because of his high status and honor, and He established his Companions as his Khalifahs.
 ## Personal Reflections
-
 

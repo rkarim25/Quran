@@ -74,13 +74,5 @@ After a delineation of these subjects, the text has, in the concluding part, rev
 
 Say: "This Quran is momentous news
 
-## AI Tafsir
-
-**Context:** Say: "I am only a warner and there is no Allah (worthy of worship) except Allah the One, the Irresistible, (65)"The Lord of the heavens and the earth and all that is between them, the Almighty, the Oft-Forgiving.
-
-**What this ayah teaches:** Say: "I am only a warner and there is no Allah (worthy of worship) except Allah the One, the Irresistible, (65)"The Lord of the heavens and the earth and all that is between them, the Almighty, the Oft-Forgiving.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

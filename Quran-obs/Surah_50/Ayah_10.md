@@ -116,11 +116,5 @@ After mentioning the confused state of the infidels, Allah draws man's attention
 
 and tall date palms with layered clusters of fruit,
 
-## AI Tafsir
-
-**What this ayah teaches:** Lexically, the word furuj is the plural of farj which means a crack, or an opening.
-
-**Classical tafsir:** Ibn Kathir notes: Lexically, the word furuj is the plural of farj which means a crack, or an opening.
 ## Personal Reflections
-
 

@@ -218,11 +218,5 @@ This tells us that a good or bad deed when done many times repeatedly becomes a 
 
 You see many of them racing towards sin, transgression, and consumption of forbidden gain. Evil indeed are their actions!
 
-## AI Tafsir
-
-**What this ayah teaches:** Evil indeed is that which they have been doing (62)Why do not the 'Rabbāniyyūn' and the 'Aḥbār' forbid them from uttering sinful words and from eating illegal things.
-
-**Classical tafsir:** Ibn Kathir notes: Those who were before you were destroyed because they committed sins and the 'Rabbāniyyūn' and 'Aḥbār' did not forbid them from evil.
 ## Personal Reflections
-
 

@@ -192,13 +192,5 @@ These verses are to remind the infidels of the severe punishments faced by earli
 
 It destroyed everything by its Rabb's command, leaving nothing visible but their ruins. This is how We repay people steeped in wrongdoing.
 
-## AI Tafsir
-
-**What this ayah teaches:** Then verse 24 states that the punishment was sent to them in the form of a cloud that appeared to be benign, and therefore they were happy to see it in the hope that it would bring rain to them, but in fact it contained the divine punishment in the form of a violent wind that destroyed everything, leaving nothing except their empty homes that remained as a sign for those who might learn a lesson.
-
-**Classical tafsir:** Ibn Kathir notes: That made them happy and joyful, because they had a drought and needed rain.
-
-**From the Sunnah:** Under the chapter, "He Who supplicates should first mention Himself," Ibn Majah recorded that Ibn 'Abbas narrated that the Prophet ﷺ said: (Sunan Ibn Majah) On seeing the punishment approaching them, a nation once said: "This is a cloud bringing us rain.") This is also recorded by Al-Bukhari and Muslim.
 ## Personal Reflections
-
 

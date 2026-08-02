@@ -102,13 +102,5 @@ Verse [ 2] خَلَقَ الْإِنسَانَ مِنْ عَلَقٍ (Created ma
 
 Created humanity from a clinging clot—
 
-## AI Tafsir
-
-**What this ayah teaches:** In the Name of your Lord Who created.)(2. In this verse, the phrase is khalaqa'l-insan which refers to the creation of microcosm 'the best, noblest or most honourable creation', Man.
-
-**Classical tafsir:** Ibn Kathir notes: In this verse, the phrase is khalaqa'l-insan which refers to the creation of microcosm 'the best, noblest or most honourable creation', Man.
-
-**From the Sunnah:** that 'A'ishah said: The first thing that began happening with the Messenger of Allah ﷺ from the revelation was dreams that he would see in his sleep that would come true. (Musnad Ahmad) He died and the revelation paused until Allah's Messenger ﷺ became sad according to what we were told.
 ## Personal Reflections
-
 

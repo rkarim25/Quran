@@ -121,11 +121,5 @@ Thus these attributes being only habitual, they can be changed whenever God so w
 
 Then they quickly regressed to their original mind-set, arguing, “You already know that those idols cannot talk.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Such people lacking knowledge and being misguided do not hesitate to reject a hadith and then justify the rejection by arguing that it is in conflict with the Qur'an.
-
-**Classical tafsir:** Ibn Kathir notes: This is called tauriyah (dissembling) where the words used may be interpreted differently, so that the listener understands them one way whereas the speaker means something else.
 ## Personal Reflections
-
 

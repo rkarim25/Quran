@@ -132,15 +132,5 @@ When the Holy Prophet ﷺ got this news initially, he said: If he had come to me
 
 Know that your wealth and your children are a fitnah—a trial that tests where your heart truly lies—and that with Allah is a tremendous reward.
 
-## AI Tafsir
-
-**Context:** However, it appears that this Ayah is more general, even if it was revealed about a specific incident. Such rulings are dealt with by their indications, not the specific reasons behind revealing them, according to the ma…
-
-**What this ayah teaches:** Betray not Allah and His Messenger, nor betray knowingly your Amanat (things entrusted to you)(27)And know that your possessions and your children are but a trial and that surely, with Allah is a mighty reward .
-
-**Classical tafsir:** Ibn Kathir notes: He grants these to you so that He knows which of you will be grateful and obedient to Him, or become busy with and dedicated to them instead of Him.
-
-**From the Sunnah:** In the year of the victory of Makkah he wrote to the Quraysh alerting them that the Messenger of Allah ﷺ intended to march towards them. Paradise are better for you than wealth and children.
 ## Personal Reflections
-
 

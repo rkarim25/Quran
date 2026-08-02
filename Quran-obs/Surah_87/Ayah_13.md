@@ -262,15 +262,5 @@ Then, a man from among the people present said, "It is as if the Messenger of Al
 
 where they will neither live nor die.
 
-## AI Tafsir
-
-**Context:** This Surah was revealed in Makkah before the migration to Al-Madinah. The proof of this is what Al-Bukhari recorded from Al-Bara' bin 'Azib, that he said, "The first people to come to us (in Al-Madinah) from the Companio…
-
-**What this ayah teaches:** There he will neither die nor live.) meaning, he will not die and thus be allowed to rest, nor will he live a life that is beneficial to him.
-
-**Classical tafsir:** Ibn Kathir notes: Who will enter the great Fire.)(13.
-
-**From the Sunnah:** Then 'Umar bin Al-Khattab came with a group of twenty people, after which the Prophet ﷺ came. (Sahih al-Bukhari) It has been confirmed in the Two Sahihs that the Messenger of Allah ﷺ said to Mu'adh,
 ## Personal Reflections
-
 

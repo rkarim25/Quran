@@ -137,13 +137,5 @@ His threats against them resulted only in an increase in their faith and submiss
 
 Pharaoh threatened, “How dare you believe in him before I give you permission? He must be your master who taught you magic, but soon you will see. I will certainly cut off your hands and feet on opposite sides, then crucify you all.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Then Fir'awn threatened to cut off their hands and feet, and crucify them. It is not permitted to make an oath of this nature under the Islamic law (because swearing in the name of someone other than Allah is a sin).
-
-**Classical tafsir:** Ibn Kathir notes: It is not permitted to make an oath of this nature under the Islamic law (because swearing in the name of someone other than Allah is a sin).
-
-**From the Sunnah:** It is unfortunate that similar oaths have now become common among the Muslims as well, which are even more evil and vile, for instance, 'by the king,' 'by the head of yours,' 'by the beard of yours,' 'by the grave of your father' etc.
 ## Personal Reflections
-
 

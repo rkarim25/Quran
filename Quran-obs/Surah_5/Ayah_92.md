@@ -256,15 +256,5 @@ The lesson to be learnt is that the command to obey Allah and His Messenger is i
 
 Obey Allah and obey the Messenger and beware! But if you turn away, then know that Our Messenger’s duty is only to deliver clearly.
 
-## AI Tafsir
-
-**Context:** It is recorded in the Two Sahihs, that 'Umar bin Al-Khattab said in a speech; while standing on the Minbar of the Messenger of Allah (in the Prophet's Masjid in Al-Madinah) "O people!
-
-**What this ayah teaches:** If you turn back, be sure that the duty of Our Messenger is only to convey the Message clearly.
-
-**Classical tafsir:** Ibn Kathir notes: It means: Even if none of you were to listen to and obey Our Messenger, it would still not make any difference to his integrity and station because he has completed the mission entrusted with him.
-
-**From the Sunnah:** When the Messenger of Allah ﷺ migrated to Al-Madinah, the people were consuming alcohol and gambling, so they asked the Messenger of Allah ﷺ about these things, Allah revealed, (Musnad Ahmad) So they said, 'We abstained, O Lord!' Later, some people said, 'O Allah's Messenger!
 ## Personal Reflections
-
 

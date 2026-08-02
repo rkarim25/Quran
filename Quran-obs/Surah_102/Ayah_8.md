@@ -209,15 +209,5 @@ Ends here
 
 Then, on that Day, you will be questioned about every pleasure you treated as harmless—what it cost your time, your conscience, and your duty to Allah.
 
-## AI Tafsir
-
-**Context:** In Sahih Al-Bukhari, it is recorded in the Book of Ar-Riqaq (Narrations that soften the Heart) from Anas bin Malik, who reported that Ubayy bin Ka'b said, "We used to think that this was a part of the Qur'an until the Ay…
-
-**What this ayah teaches:** Therefore, whoever does not maintain the right that is obligatory upon him, then he is unjust.
-
-**Classical tafsir:** Ibn Kathir notes: And again, you shall see it with certainty of sight!)(8.
-
-**From the Sunnah:** this Hadith. (Sahih Muslim, Jami' at-Tirmidhi) This Hadith has also been recorded by Muslim, At-Tirmidhi and An-Nasa'i. (Sahih Muslim, Musnad Ahmad)
 ## Personal Reflections
-
 

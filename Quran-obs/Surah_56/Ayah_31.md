@@ -280,13 +280,5 @@ This Hadith has many chains of narration collected in the Sahihs and other colle
 
 flowing water that never ceases,
 
-## AI Tafsir
-
-**What this ayah teaches:** And those on the right – how (fortunate) will be those on the right (27)(They will be) among Sidri Makhdud (28)And among Talh Mandud (29)And in shade Mamdud (30)And by water flowing constantly (31)And fruit in plenty (32)Whose supply is not cut off nor are they out of reach (33)And on couches, raised high (34)Verily, We have created them a special creation (35)And made them virgins (36)'Urub, Atra…
-
-**Classical tafsir:** Ibn Kathir notes: Qatadah said, "Nothing will prevent them from reaching out to get these fruits, no branches, thorns or distance." We mentioned a Hadith before that states that whenever someone takes a fruit in Paradise, another one grows in its place.
-
-**From the Sunnah:** Paradise the shade of which a rider would take one hundred years to pass.
 ## Personal Reflections
-
 

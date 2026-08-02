@@ -116,13 +116,5 @@ The word kanud, (100:6) according to Hasan Basri (رح) ، refers to the one who
 
 striking sparks with their hooves—
 
-## AI Tafsir
-
-**What this ayah teaches:** Knows he not that when the contents of the graves are poured forth?)(10.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** This is just as the Messenger of Allah ﷺ used to perform raids in the early morning.
 ## Personal Reflections
-
 

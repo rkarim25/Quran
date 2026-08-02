@@ -163,13 +163,5 @@ This verse has given a clear indication that a sinner who finds himself delivere
 
 Do not let those who reject the truth think they have escaped. They cannot frustrate Allah.
 
-## AI Tafsir
-
-**Context:** (Nothing has been revealed to me from Allah about them except these unique, comprehensive Ayat:
-
-**What this ayah teaches:** It is about these people that it was said in this verse that these people should not think that they have made their escape good because the battle of Badr was Divine punishment for those who reject the truth and escaping from its grip was not possible for anyone. And let not those who disbelieve think that they can outstrip (escape from the punishment).
-
-**Classical tafsir:** Ibn Kathir notes: Commentary Mentioned in the first of the four verses cited above are those who reject the truth who had not participated in the battle of Badr, therefore, they survived or there were those of them who deserted the battlefield after showing up as participants and were thus able to save their li…
 ## Personal Reflections
-
 

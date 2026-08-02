@@ -120,11 +120,5 @@ In verse 83, it was said: فَرِ‌حُوا بِمَا عِندَهُم مِّ
 
 When they saw Our punishment, they cried: "Now we believe in Allah alone and reject what we had been associating with Him!"
 
-## AI Tafsir
-
-**What this ayah teaches:** The Lesson to be learned from what happened to Those Who Came before Allah tells us about the nations who rejected their Messengers in ancient times.
-
-**Classical tafsir:** Ibn Kathir notes: The Lesson to be learned from what happened to Those Who Came before Allah tells us about the nations who rejected their Messengers in ancient times.
 ## Personal Reflections
-
 

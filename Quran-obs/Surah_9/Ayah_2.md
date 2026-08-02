@@ -195,13 +195,5 @@ And according to the fourth verse, those who had a treaty for a specified period
 
 “You may travel freely through the land for four months, but know that you will have no escape from Allah, and that Allah will disgrace those who reject the truth.”
 
-## AI Tafsir
-
-**Context:** This honorable Surah (chapter 9) was one of the last Surahs to be revealed to the Messenger of Allah ﷺ. Al-Bukhari recorded that Al-Bara' said, "The last Ayah to be revealed was, The first part of this honorable Surah wa…
-
-**What this ayah teaches:** So travel freely (O Mushrikin) for four months (as you will) throughout the land, but know that you cannot escape (from the punishment of) Allah; and Allah will disgrace the those who reject the truth.) Why there is no Basmalah in the Beginning of This Surah This honorable Surah (chapter 9) was one of the last Surahs to be revealed to the Messenger of Allah ﷺ.
-
-**Classical tafsir:** Ibn Kathir notes: This Ayah refers to idolators who had indefinite treaties and those, whose treaties with Muslims ended in less than four months.
 ## Personal Reflections
-
 

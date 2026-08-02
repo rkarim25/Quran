@@ -153,11 +153,5 @@ Qurtubi also thinks that this is the best interpretation of this verse. There ar
 
 Whoever thinks that Allah will not help His Prophet in this dunya and the Akhirah, let them stretch out a rope to the ceiling and strangle themselves, then let them see if this plan will do away with the cause of their rage.
 
-## AI Tafsir
-
-**What this ayah teaches:** Qurtubi also thinks that this is the best interpretation of this verse.
-
-**Classical tafsir:** Ibn Kathir notes: Because of His wisdom, mercy, justice, knowledge, dominion and might, no one can overturn His ruling, and He is swift in bringing to account.
 ## Personal Reflections
-
 

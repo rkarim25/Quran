@@ -313,15 +313,5 @@ Some narratives report that when Sayyidah Hafsah ؓ divulged the secret, the Hol
 
 When the Prophet confided something to one of his wives and she disclosed it, and Allah made it known to him, he presented part of what was disclosed and overlooked part. When he informed her, she exclaimed: 'Who told you this?' He replied: 'I was informed by the All-Knowing, All-Aware.'
 
-## AI Tafsir
-
-**Context:** In another narration collected from 'Ubayd bin 'Umayr, from 'A'ishah, it was Zaynab bint Jahsh who gave the honey to the Prophet ﷺ, while 'A'ishah and Hafsah were the plotters. Allah knows best.
-
-**What this ayah teaches:** And Allah made it known to him; he informed part thereof and left a part. And Allah is your Protector and He is the All-Knower, the All-Wise.)(3.
-
-**Classical tafsir:** Ibn Kathir notes: And Allah is your Protector and He is the All-Knower, the All-Wise.)(3.
-
-**From the Sunnah:** he heard 'A'ishah claiming that Allah's Messenger ﷺ used to stay for a period in the house of Zaynab bint Jahsh and drink honey in her house. (Sahih al-Bukhari) this Hadith in the Book of Divorce; then he said, "Al-Maghafir is a type of sap, and in Ar-Rimth (a type of citrus) its taste is sweet..." (Sahih al-Bukhari)
 ## Personal Reflections
-
 

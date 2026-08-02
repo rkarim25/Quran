@@ -121,11 +121,5 @@ However, the first interpretation looks more appropriate and straightforward. In
 
 And indeed, you O Prophet are receiving the Quran from the One Who is All-Wise, All-Knowing.
 
-## AI Tafsir
-
-**What this ayah teaches:** And verily, you are being taught the Qur'an from One, All-Wise, All-Knowing.) The Qur'an is Guidance and Glad Tidings for the Believers, a Warning to the those who reject the truth, and it is from Allah: In (the comments on) Surat Al-Baqarah, we discussed the letters which appear at the beginning of some Surahs.
-
-**Classical tafsir:** Ibn Kathir notes: And in the Hereafter they will be the greatest losers.)(6.
 ## Personal Reflections
-
 

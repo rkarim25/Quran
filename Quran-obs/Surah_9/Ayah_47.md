@@ -159,11 +159,5 @@ In the fifth (47) verse, it was explained that the hypocrites had procured the p
 
 Had they gone forth with you, they would have been nothing but trouble for you, and would have scrambled around, seeking to spread discord in your midst. And some of you would have eagerly listened to them. And Allah has knowledge of the wrongdoers.
 
-## AI Tafsir
-
-**What this ayah teaches:** Had they gone there, they would have done nothing but hatch conspiracies, circulate rumors and spread disorder.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

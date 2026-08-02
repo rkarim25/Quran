@@ -126,11 +126,5 @@ All three verses cited above carry an affirmation of the veracity of the Qur'an 
 
 He conducts every affair from the heavens to the earth; then it all ascends to Him on a Day whose length is a thousand years by your counting.
 
-## AI Tafsir
-
-**What this ayah teaches:** Allah it is He Who has created the heavens and the earth, and all that is between them in six Days.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

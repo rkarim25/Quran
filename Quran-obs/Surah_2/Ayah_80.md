@@ -135,17 +135,5 @@ The principle is common to all the Shari'ahs that if a believer commits sins, he
 
 Some among them claim, "The Fire will touch us only for a counted number of days." Say, "Have you taken a pledge from Allah? Allah never breaks His word — or are you saying about Allah what you do not know?"
 
-## AI Tafsir
-
-**Essence** Allah shatters the false security of those claiming the Fire will touch them only "a few numbered days": where is your pledge from Him?
-
-**What it teaches** Safety from Hell rests only on an 'ahd — a covenant from Allah, which He never breaks. Without one, every claim of guaranteed salvation is "saying about Allah what you do not know."
-
-**The scholars** Ibn 'Abbas: they claimed forty days — others adding, the days they worshipped the calf (Ibn Kathir). Maarif ul Quran: their premise that Musa's Shari'ah was unabrogated is false, and no Book of Allah promises disbelievers release from Hell — so no such pledge exists.
-
-**From the Sunnah** After Khaybar's conquest, the Prophet ﷺ asked its Jews who the people of the (Hell) Fire were. They said, "We shall remain in the (Hell) Fire for a short period, and after that you will replace us in it." He replied, "May you be cursed and humiliated in it! By Allah, we shall never replace you in it." (Abu Hurayrah; Ahmad, Al-Bukhari and An-Nasa'i recorded similarly)
-
-**Reflection** Their ruin was presumption, not despair. Before resting on any hope of pardon, ask: did Allah say this — or did I?
 ## Personal Reflections
-
 

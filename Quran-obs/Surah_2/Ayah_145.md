@@ -183,15 +183,5 @@ As for the phrase, وما انت بتبع : "You are not to follow their Qiblah 
 
 Even if you brought every proof to the People of the Book, they would not follow your prayer direction — nor would you follow theirs — nor would they follow one another's. If you followed their desires after knowledge has come to you, you would be among the wrongdoers.
 
-## AI Tafsir
-
-**Essence** No quantity of proof will move hearts hardened by stubbornness, and the Prophet ﷺ will never trade Allah's revealed command for the desires of the People of the Book.
-
-**What it teaches** Allah declares that even if every conceivable ayah (proof, sign, evidence) were brought to the People of the Book, they would still refuse the Muslims' qiblah (prayer direction) — because their objection springs not from any lack of evidence but from sheer obstinacy. So entrenched is this that the two groups will not even accept one another's qiblah: the Jews face Bayt al-Maqdis, the Christians face the East, and each rejects the other's direction. The verse then turns its warning to the believers: to abandon revealed knowledge for personal desires (ahwa') would place one among the zalimun, the wrongdoers who disobey Allah's command.
-
-**The scholars** Ibn Kathir explains that Allah is describing the Jews' disbelief, stubbornness, and defiance of the truth they already recognize, so that no proof the Prophet ﷺ presents will make them obey or abandon their desires — and he draws the parallel in Surah Yunus (10:96-97), that those against whom Allah's word has been justified will not believe even if every sign comes to them. He stresses that the phrase "nor are you going to follow their qiblah" shows the vigor with which the Prophet ﷺ implements Allah's command: just as the Jews cling to their opinions, the Prophet ﷺ clings to obedience and to what pleases Allah — so facing Bayt al-Maqdis earlier was never because it was the Jews' qiblah, but solely because Allah had commanded it. The commentary then notes that Allah warns those who knowingly defy the truth most severely, "because the proof against those who know is stronger than against other people." Maarif ul Quran clarifies that the earlier orientation toward Bayt al-Maqdis had indeed been by divine command but was now abrogated, so to cling to an abrogated injunction and ignore its replacement is to act on personal desire and disobey Allah; citing Al-Bahr al-Muhit, it notes the declaration "you are not to follow their qiblah" affirms the Ka'bah (Baytullah) will remain the qiblah until the end of the world, refuting the taunt that Islamic rulings lack stability and that the Muslims might revert to Bayt al-Maqdis. Maarif further notes the warning is outwardly addressed to the Prophet ﷺ — who, being a prophet, is essentially sinless and could never fall among the wrongdoers — but is in truth aimed at his Ummah, to make them feel the gravity of ignoring this command.
-
-**Reflection** Hold fast to what Allah has revealed, and do not bend His clear command to please those who argue from desire rather than truth.
 ## Personal Reflections
-
 

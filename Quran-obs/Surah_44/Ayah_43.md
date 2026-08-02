@@ -100,13 +100,5 @@ Punishment of the Dwellers of Hell
 
 Surely the fruit of the tree of Zaqqum
 
-## AI Tafsir
-
-**What this ayah teaches:** Here the Qur'an apparently indicates that the infidels will be given zaqqum to eat even before they enter Hell, because in this verse the Qur'an says that after having fed them with zaqqum they will be seized by the keepers of Hell and dragged into the middle of the blazing fire of Hell.
-
-**Classical tafsir:** Ibn Kathir notes: Mujahid said, "If a drop of it were to fall on the earth, it would corrupt the living of all the people of earth." A similar Marfu' report has been narrated earlier. Here the Qur'an apparently indicates that the infidels will be given zaqqum to eat even before they enter Hell, because in this verse the Qur'an says that after having fed them with zaqqum they will be seized by the keepers of Hell and…
-
-**From the Sunnah:** Ibn Jarir recorded that Abu Ad-Darda' was reciting to a man:
 ## Personal Reflections
-
 

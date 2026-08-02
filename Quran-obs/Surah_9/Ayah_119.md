@@ -152,13 +152,5 @@ This brings us to the last verse: يَا أَيُّهَا الَّذِينَ آ�
 
 O you who have iman! live with taqwa toward Allah and be with the truthful.
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, Allah is the One Who forgives and accepts repentance, ar-Rahim (118)O you who believe!
-
-**Classical tafsir:** Ibn Kathir notes: So the Prophet ﷺ clearly announced the destination to the Muslims, so that they could prepare for their battle, and he told them about his intent.
-
-**From the Sunnah:** that 'Abdullah bin Ka'b bin Malik, who used to guide Ka'b after he became blind, said that he heard Ka'b bin Malik narrate his story when he did not join the battle of Tabuk with the Messenger of Allah ﷺ. (Musnad Ahmad) Whenever Allah's Messenger ﷺ wanted to go to a battle, he used to hide his intention by referring to different battles, until it was the time of that battle (of Tabuk) which Allah's Messenger ﷺ fought in intense heat, facing a long journey, the desert, and the…
 ## Personal Reflections
-
 

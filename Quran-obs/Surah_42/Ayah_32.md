@@ -83,13 +83,5 @@ It is proved from some narrations of Hadith, as reproduced by Hakim in Mustadrak
 
 Among His signs are the ships like mountains sailing in the sea.
 
-## AI Tafsir
-
-**Context:** وَمَا أَصَابَكُم مِّن مُّصِيبَةٍ فَبِمَا كَسَبَتْ أَيْدِيكُمْ وَيَعْفُو عَن كَثِيرٍ‌ (And whatever hardship befalls you is because of what your own hands have committed, while He overlooks many [ of your faults ]....
-
-**What this ayah teaches:** And among His signs are the ships in the sea like mountains (32)If He wills, He causes the wind to cease, then they would become motionless on the surface (of the sea). Ships are also among the Signs of Allah Allah tells us that another sign of His great power and dominion is the fact that He has subjugated the sea so that ships may sail in it by His command, so they sail in the sea like mountains…
-
-**Classical tafsir:** Ibn Kathir notes: Verily, in this are signs for everyone patient and grateful (33)Or He may destroy them because of that which their (people) have earned.
 ## Personal Reflections
-
 

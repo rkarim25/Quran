@@ -138,13 +138,5 @@ As for the doubt - when the compatibility of genus is a condition between a mess
 
 And nothing has prevented people from believing when guidance comes to them except their protest: “Has Allah sent a human as a messenger?”
 
-## AI Tafsir
-
-**What this ayah teaches:** But as you are human, We have sent to you Messengers from yourselves, as a kindness and a mercy.' Only a human being can be a messenger of Allah: Angels cannot be sent as messengers to human beings Common those who reject the truth and polytheists thought that 'bashar,' that is, a man, could not be the messenger of Allah because he is someone accustomed to all human compulsions like them.
-
-**Classical tafsir:** Ibn Kathir notes: Then Allah says, pointing out His kindness and mercy towards His servants, that He sends to them Messengers of their own kind so that they will understand what he says and will be able to speak to him directly.
-
-**From the Sunnah:** When so, what edge did he have over them to make them call him the Messenger of Allah ﷺ and take him as their leader claiming that they follow him?
 ## Personal Reflections
-
 

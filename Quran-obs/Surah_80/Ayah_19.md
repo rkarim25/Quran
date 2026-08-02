@@ -188,11 +188,5 @@ The word qaddara is derived from taqdir which is also used in the sense of 'pred
 
 From a drop of fluid He created them and proportioned them,
 
-## AI Tafsir
-
-**What this ayah teaches:** The word qaddara is derived from taqdir which is also used in the sense of 'predestination'.
-
-**Classical tafsir:** Ibn Kathir notes: Verily, Allah has decreed the existence of mankind, and its duration, therefore, when that is finished with Allah, He resurrects the creatures and repeats their creation just as He initially created them.
 ## Personal Reflections
-
 

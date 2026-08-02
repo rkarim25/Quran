@@ -167,15 +167,5 @@ Ibn Kathir has reported that many elders of the Ummah used to forbid forcefully 
 
 O Prophet! Tell the believing men to lower their gaze and guard their chastity. That is purer for them. Surely Allah is All-Aware of what they do.
 
-## AI Tafsir
-
-**Context:** The very first verses on the subject of hijab for women are the ones which were revealed in Surah Ahzab at the time of marriage of the mother of the believers Sayyidah Zainab bint Jahash ؓ with the Holy Prophet ﷺ .
-
-**What this ayah teaches:** Surely Allah is All-Aware of what they do.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** It was recorded by Al-Bukhari without a complete chain. (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
-
 

@@ -190,13 +190,5 @@ We find from this verse that if anyone lives among a group or people who are mis
 
 Remember when Ibrahim declared to his father and his people: "I am totally free of whatever gods you worship,
 
-## AI Tafsir
-
-**Context:** (And they say) means, objecting to that which Allah has revealed to him, (Why is not this Qur'an sent down to some great man of the two towns?) meaning, why was this Qur'an not revealed to some man who was great and prom…
-
-**What this ayah teaches:** And (remember) when Ibrahim said to his father and his people: "Verily, I am innocent of what you worship, (26)"Except Him Who created me; and verily, He will guide me. He was not only a believer in 'tauhid' (Oneness of Allah) who emphatically directed all his children to remain adherent to this belief, but his life-long behavior also indicates that following forefathers against logical and histor…
-
-**Classical tafsir:** Ibn Kathir notes: He was not only a believer in 'tauhid' (Oneness of Allah) who emphatically directed all his children to remain adherent to this belief, but his life-long behavior also indicates that following…
 ## Personal Reflections
-
 

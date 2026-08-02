@@ -77,11 +77,5 @@ Allah, the Exalted, is saying to Prophet Muhammad ﷺ, 'We have told you (O Muha
 
 suffering its consequences forever. What an evil burden they will carry on Judgment Day!
 
-## AI Tafsir
-
-**What this ayah teaches:** And indeed We have given you from Us a Reminder (99)Whoever turns away from it, verily, they will bear a heavy burden on the Day of Resurrection (100)They will abide in that – and evil indeed will it be that load for them on the Day of Resurrection .
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

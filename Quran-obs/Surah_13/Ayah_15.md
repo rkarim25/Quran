@@ -88,11 +88,5 @@ The last sentence of this verse is: وَهُمْ يُجَادِلُونَ فِي
 
 To Allah alone bow all who are in the heavens and earth—willingly or unwillingly—as do their shadows morning and evening.
 
-## AI Tafsir
-
-**What this ayah teaches:** And unto Allah falls in prostration whoever is in the heavens and the earth, willingly or unwillingly, and so do their shadows in the mornings and in the afternoons .
-
-**Classical tafsir:** Ibn Kathir notes: And it appears in some narrations of Hadith that Ar-Ra'd is the name of the angel appointed to bring rains.
 ## Personal Reflections
-
 

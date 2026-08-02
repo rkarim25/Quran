@@ -311,17 +311,5 @@ The order in which the three kinds of stones have been mentioned is very subtle,
 
 Even then your hearts hardened like stone — or harder. Some stones gush rivers; others split and water flows from them; others fall down in awe of Allah. Allah is not unaware of what you do.
 
-## AI Tafsir
-
-**Essence** Hearts that watched the dead rise yet hardened past stone — for stones gush rivers, split with water, and fall in awe of Allah.
-
-**What it teaches** Qasat qulubukum — after the clearest of signs, their hearts hardened like stone, or harder; and Allah is never unaware of what you do.
-
-**The scholars** Ibn 'Abbas in Ibn Kathir, two reports — via Al-'Awfi: the revived man named his nephews as killers, who denied truth they knew; via Ibn Ishaq: "some stones are softer than your hearts." Ibn Jarir, endorsed by Ibn Kathir: "or even harder" divides hearts in two — stone-hard, and harder still. Against those who called it metaphor, Ar-Razi and al-Qurtubi held Allah creates real awe in stone. Maarif ul Quran reads a descending order of tenderness, the hardened heart beneath even the least of stones.
-
-**From the Sunnah** "I know a stone in Makkah that used to greet me with the Salam before I was sent" (Sahih Muslim); of Uhud: "a mount that loves us and that we love" (the Sahih).
-
-**Reflection** If stone can fall in awe of Allah, no heart may excuse itself from softening at His remembrance.
 ## Personal Reflections
-
 

@@ -114,13 +114,5 @@ In relation to issues of religious beliefs embedded in this verse, it must be bo
 
 Indeed, Allah does not wrong people in the least, but it is people who wrong themselves.
 
-## AI Tafsir
-
-**What this ayah teaches:** But guiding the people to the truth is not up to you or to them.
-
-**Classical tafsir:** Ibn Kathir notes: In other words, once it stands proved that Allah Ta` ala is the only true and rightful object of worship, it is terribly senseless to abandon this truth and allow yourself to be diverted elsewhere.
-
-**From the Sunnah:** They listen to your truthful, eloquent and authentic Hadiths that are useful to the hearts, the bodies and their faith. (authentic hadith) In the Hadith narrated by Abu Dharr, he states that the Prophet ﷺ related that His Lord, Exalted and High is He, said:
 ## Personal Reflections
-
 

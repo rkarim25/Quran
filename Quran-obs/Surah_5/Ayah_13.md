@@ -271,13 +271,5 @@ Upto this point, the description of the misconduct of the Ban' Isra'il was obvio
 
 But for breaking their covenant We condemned them and hardened their hearts. They distorted the words of the Scripture and neglected a portion of what they had been commanded to uphold. You will always find deceit on their part, except for a few. But pardon them and bear with them. Indeed, Allah loves the good-doers.
 
-## AI Tafsir
-
-**What this ayah teaches:** In other words, he should not treat them with contempt or hatred because after knowing what they are - hardhearted and cold - the chances that any good counsel would affect them are very remote. It means that it was because of their contravention of the solemn pledge that Allah made them far-removed from His mercy (that is, from its effects, which is the reality of 'La` nah' or curse - Hadrat Than…
-
-**Classical tafsir:** Ibn Kathir notes: Muhammad bin Ishaq and Ibn 'Abbas said that this occurred when Musa went to fight the mighty enemy (in Palestine), and Allah commanded him to choose a leader from every tribe. Mujahid said that this Ayah refers to their plot to kill the Messenger of Allah ﷺ.
-
-**From the Sunnah:** Likewise, when the Messenger of Allah ﷺ took the pledge from the Ansar in the 'Aqabah area, there were twelve leaders from the Ansar.
 ## Personal Reflections
-
 

@@ -124,11 +124,5 @@ In the last verse (95), it was said that they, despite being human, can-not dema
 
 That is their reward for rejecting Our signs and asking mockingly, “When we are reduced to bones and ashes, will we really be raised as a new creation?”
 
-## AI Tafsir
-
-**What this ayah teaches:** In the last verse (95), it was said that they, despite being human, can-not demand that their messenger should be an angel. This tells us that the need to send an angel deputed as a messenger to other angels would have come up only at a time when the angels of the Earth could not themselves go to the heavens rather remained living on the Earth alone.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

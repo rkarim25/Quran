@@ -146,13 +146,5 @@ At the time of his migration to Madinah, Allah Ta’ ala asked the Holy Prophet 
 
 Say: O my Rabb, grant me an entrance of truth and an exit of truth, and give me from Your presence a supporting authority.
 
-## AI Tafsir
-
-**Context:** It has been reported in al-Jami` of Tirmidhi from Sayyidna ` Abdullah ibn ` Abbas ؓ that the Holy Prophet ﷺ was in Makkah al-Mu` azzamah. Then, he was commanded to migrate to Madinah.
-
-**What this ayah teaches:** And grant me from You a helping authority.") At-Tirmidhi said, "This is Hasan Sahih." Al-Hasan Al-Basri commented on this Ayah, "When the those who reject the truth of Makkah conspired to kill the Messenger of Allah ﷺ, or expel him or imprison him, Allah wanted him to fight the people of Makkah, and commanded him to go to Al-Madinah.
-
-**Classical tafsir:** Ibn Kathir notes: But, the precedence of 'entrance' and the succession of 'exit' is there, perhaps, to indicate that the exit from Makkah had no purpose of its own, in fact, parting from the Baytullah was extremely shocking.
 ## Personal Reflections
-
 

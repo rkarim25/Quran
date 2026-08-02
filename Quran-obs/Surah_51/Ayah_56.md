@@ -130,13 +130,5 @@ Answer to the second question is that bringing any creation into being for the p
 
 I did not create jinn and humans except to worship Me.
 
-## AI Tafsir
-
-**What this ayah teaches:** Just as this Tradition tells us that every man is born with the natural capacity for Islam and true faith, but his parents adulterate and destroy that capacity, and put him on to the ways of disbelief, in the same way the phrase 'except that they should worship Me' could mean that every member of jinn and mankind has the natural, inborn capacity to worship.
-
-**Classical tafsir:** Ibn Kathir notes: This apparently may raise two questions: [ 1] If Allah has created a creature for a particular task, and it is His will that it should perform that task, rationally it is impossible for it to deviate from that task, because doing anything contrary to the will of Allah is inconcei…
-
-**From the Sunnah:** this Hadith. (Musnad Ahmad, Jami' at-Tirmidhi)
 ## Personal Reflections
-
 

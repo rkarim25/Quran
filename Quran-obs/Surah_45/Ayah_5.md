@@ -140,11 +140,5 @@ There are the angels, Jinns, humans, animals, birds, beasts, carnivores, insects
 
 In the alternation of night and day, the provision sent from the sky reviving the earth after its death, and the shifting of the winds, are signs for people of understanding.
 
-## AI Tafsir
-
-**What this ayah teaches:** And in the alternation of night and day, and the provision that Allah sends down from the sky, and revives therewith the earth after its death, and in the turning about of the winds, are signs for a people who understand.) A Directive to contemplate over Allah's Ayat Allah directs His servants to contemplate His favors and gifts, as well as His great power that is demonstrated by His creating the…
-
-**Classical tafsir:** Ibn Kathir notes: And in your creation, and what He spread (through the earth) of moving creatures are signs for people who have faith with certainty.)(5.
 ## Personal Reflections
-
 

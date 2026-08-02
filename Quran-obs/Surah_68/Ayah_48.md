@@ -256,13 +256,5 @@ This is the end of the explanation (Tafsir) of Surah Nun (or Al-Qalam), and all 
 
 So be patient with your Lord's decree, and do not be like the Man of the Whale, who cried out in total distress.
 
-## AI Tafsir
-
-**What this ayah teaches:** For He (Allah) is the One Whose execution of divine decree cannot be resisted.
-
-**Classical tafsir:** Ibn Kathir notes: For He (Allah) is the One Whose execution of divine decree cannot be resisted.
-
-**From the Sunnah:** Imam Muslim also recorded this Hadith in his Sahih on the authority of Buraydah himself, but he did not attribute it to the Prophet ﷺ. (Sahih al-Bukhari, Sahih Muslim) Muslim was alone in recording this Hadith, as Al-Bukhari did not mention it. (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
-
 

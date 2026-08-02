@@ -112,19 +112,5 @@ He who obeyed Muhammad ﷺ obeyed Allah and he who disobeyed Muhammad ﷺ disobe
 
 Say, “Obey Allah and His Messenger.” If they still turn away, then truly Allah does not like those who reject the truth.
 
-## AI Tafsir
-
-**Essence** Obeying Allah is inseparable from obeying His Messenger ﷺ — and the scholars hold that to "turn away" by rejecting and defying the Messenger ﷺ is itself disbelief.
-
-**What it teaches** Allah commands His Prophet ﷺ to call all people to obey both Allah and the Messenger, then warns that those who "turn away" (tawallaw) by defying the Prophet ﷺ are counted among al-kafirin — the disbelievers whom Allah does not love. Coming right after the test of love in 3:31 ("If you love Allah, then follow me"), it makes obedience to the Messenger ﷺ the very proof of faith and the measure of one's claim to love Allah.
-
-**The scholars** Ibn Kathir explains that this honorable ayah judges against those who claim to love Allah yet do not follow the way of Muhammad ﷺ: such a claim is not true until one follows his Shari'ah in all statements, actions, and conditions. He notes that by saying "then Allah does not like the disbelievers," the ayah testifies that defiance of the Messenger's way constitutes kufr — and that no one is loved by Allah, however much he claims to love Him, until he follows the unlettered Final Prophet ﷺ sent to mankind and jinn, the one whom even the earlier Prophets and mighty Messengers would have had to follow had they lived in his time. Maarif ul Quran places the verse in sequence: after affirming Allah's Oneness, it now affirms prophethood and the necessity of obeying the Messenger, so we know that rejecting prophethood is kufr just like rejecting tawhid. Maarif adds that love is secret and immeasurable, but it leaves traces — so obedience to the Prophet ﷺ becomes the touchstone that exposes the genuine from the fake: the weaker a person's obedience, the weaker his true love.
-
-**From the Sunnah** Whoever commits an act that does not conform with our matter — our religion — will have it rejected; so following the Prophet's way ﷺ is the only path to Allah's love. (Sahih, as cited by Ibn Kathir)
-
-He who obeys the Prophet ﷺ obeys Allah, and he who disobeys him disobeys Allah. (Tafsir Mazhari)
-
-**Reflection** Let the measure of your love for Allah be how closely your daily life follows His Messenger ﷺ.
 ## Personal Reflections
-
 

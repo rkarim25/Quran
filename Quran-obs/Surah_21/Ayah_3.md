@@ -169,13 +169,5 @@ None of the peoples to whom Messengers were sent were given a sign at the hands 
 
 with their hearts totally distracted. The evildoers would converse secretly, saying, “Is this one not human like yourselves? Would you fall for this witchcraft, even though you can clearly see?”
 
-## AI Tafsir
-
-**What this ayah teaches:** - 21:3) Those people used to discuss among themselves secretly that the claim of the Holy Prophet about his prophethood should not be accepted, because he was an ordinary human being like all others and not an angel. Comes not unto them an admonition from their Lord as a recent revelation but they listen to it while they play.)(3.
-
-**Classical tafsir:** Ibn Kathir notes: Comes not unto them an admonition from their Lord as a recent revelation but they listen to it while they play.)(3.
-
-**From the Sunnah:** 'Abdullah said, "Banu Isra'il, Al-Kahf, Maryam, Ta Ha and Al-Anbiya' - they are among the earliest and most beautiful Surahs and they are my treasure." (Sahih al-Bukhari) that Abu Sa'id reported from the Prophet ﷺ: (Sunan an-Nasa'i)
 ## Personal Reflections
-
 

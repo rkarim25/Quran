@@ -242,13 +242,5 @@ Ends here
 
 full of power, honoured by the Lord of the Throne,
 
-## AI Tafsir
-
-**Context:** (He has been taught by one mighty in power (Jibril). Dhu Mirrah, then he rose. While he was in the highest part of the horizon. Then he approached and came closer. And was at a distance of two bows' length or less.
-
-**What this ayah teaches:** The second quality is that he has high status and lofty rank with Allah, and he is obeyed in the upper realm.
-
-**Classical tafsir:** Ibn Kathir notes: Mujahid said, "It means its darkening." Sa'id bin Jubayr said, "When it begins." Al-Hasan Al-Basri said, "When it covers the people." This was also said by 'Atiyah Al-'Awfi.
 ## Personal Reflections
-
 

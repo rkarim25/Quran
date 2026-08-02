@@ -87,13 +87,5 @@ The declaration in another verse وَمَا دُعَاءُ الْكَافِرِ�
 
 Let them be ungrateful for what We gave and enjoy awhile — soon they will know.
 
-## AI Tafsir
-
-**What this ayah teaches:** They know well that it is only Allah who can remove the calamity, and none of their idols could do anything.
-
-**Classical tafsir:** Ibn Kathir notes: When he was on the sea, headed for Ethiopia, the ship started to rock and the crew said: "O people, pray sincerely to your Lord alone, for no one can save us from this except Him." 'Ikrimah said: "By Allah, if there is none who can save us on the sea except Him, then there is none who can save us on…
-
-**From the Sunnah:** Muhammad bin Ishaq reported from 'Ikrimah bin Abi Jahl that when the Messenger of Allah ﷺ conquered Makkah, he ('Ikrimah) ran away, fleeing from him.
 ## Personal Reflections
-
 

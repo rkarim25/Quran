@@ -251,13 +251,5 @@ Once the Arabs tapered down their use of camels for riding and transport purpose
 
 Say: "My Lord gives abundant or limited provision to whichever of His servants He wills. Whatever you spend, He will replace it—He is the best of providers."
 
-## AI Tafsir
-
-**What this ayah teaches:** And He is the best of the sustainers.) in verse 39 literally means: 'For anything that you spend, Allah Ta’ ala gives you a return from His unseen treasures - at times, within this world and at times, in the Hereafter and at times, in both.' In things happening around us, we see that water comes down from above, animals and humans use it freely, needs of farms and forests are satiated, and no soon…
-
-**Classical tafsir:** Ibn Kathir notes: And He is the best of the sustainers.) in verse 39 literally means: 'For anything that you spend, Allah Ta’ ala gives you a return from His unseen treasures - at times, within this world and at times, in the Hereafter and at times, in both.' In things happening around us, we see…
-
-**From the Sunnah:** Paradise, whilst another will be in the lowest levels of Hell.
 ## Personal Reflections
-
 

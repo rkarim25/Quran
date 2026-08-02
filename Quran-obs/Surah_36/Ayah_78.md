@@ -136,15 +136,5 @@ In verse 78, it was said: ضَرَ‌بَ لَنَا مَثَلًا (And he has 
 
 And they argue with Us—forgetting they were created—saying, "Who will give life to decayed bones?"
 
-## AI Tafsir
-
-**Context:** Whether these Ayat were revealed about Ubayy bin Khalaf or Al-'As bin Wa'il, or both of them, they apply to all those who deny the resurrection after death. The definite article "Al" in
-
-**What this ayah teaches:** The One Who created man from this weak Nutfah is not unable to re-create him after his death.
-
-**Classical tafsir:** Ibn Kathir notes: It was said that this refers to the Markh tree and the 'Afar tree, which grow in the Hijaz.
-
-**From the Sunnah:** Will Allah bring this back to life after it has disintegrated? You accumulate and do not spend until the death rattle reaches your throat, then you say, 'I want to give in charity,' but it is too late for charity.")" It was also recorded by Ibn Majah. (Sunan Ibn Majah)
 ## Personal Reflections
-
 

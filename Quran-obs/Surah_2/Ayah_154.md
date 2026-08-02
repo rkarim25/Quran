@@ -134,17 +134,5 @@ By the words, " لَّا تَشْعُرُ‌ونَ ": "you perceive not", the Ho
 
 Do not say of those killed in Allah's cause that they are dead. They are alive, but you do not perceive it.
 
-## AI Tafsir
-
-**Essence** Those slain in the path of Allah are not dead but truly alive in a richer life with their Lord — a reality your worldly senses cannot reach.
-
-**What it teaches** Allah forbids the believers from calling the shahid (martyr) "dead" in the way ordinary deaths are spoken of. Though it is technically correct and even permitted to say a martyr has "died," the ayah affirms that whoever is killed fi sabilillah (in the cause of Allah) is living and receiving sustenance from Him; the closing words "but you do not perceive it" (la tash'urun) declare that this life in al-Barzakh — the intermediate realm between death and the Resurrection — lies beyond all sensory perception.
-
-**The scholars** Ibn Kathir explains that the ayah "indicates that the martyrs are alive and receiving their sustenance," and notes that singling out the martyrs here serves "to honor, glorify and favor them," even though all believers share in the reward of the soul's life after death. Maarif ul Quran, presenting the balanced view of Maulana Ashraf 'Ali of Thana Bhawan, situates this in the doctrine of life in al-Barzakh: every soul — believer or disbeliever — is granted a "new life" that makes it sensitive to reward and punishment, but this life has ranks. The strongest in retaining its life-quality are the prophets, then the shuhada (martyrs), then ordinary people; and according to some ahadith certain men of Allah and virtuous people share the martyrs' rank — apparently, the commentary infers, those who die while waging stringent struggle against their own selves (mujahadat an-nafs). The martyr's perception in Barzakh is keener and deeper: as the life-sensation in the finger-tips is sharper than that in the heels, so the martyr's share of this finer life is sharper than that of others. This finer life-quality even reaches his body, so that it resists decay and retains a freshness that, Maarif states, is "endorsed by Ahadith and observations." Maarif stresses, however, that for all worldly purposes martyrs are treated as the dead: their property is divided and their wives may remarry — a rank below the prophets, whose property is not divided and whose wives do not remarry. From the words "la tash'urun" the commentary concludes that "the life in Barzakh transcends all sensory perceptions."
-
-**From the Sunnah** The souls of the martyrs are inside green birds that roam freely in Paradise wherever they wish, then take refuge in lamps hanging beneath the Throne of Allah; when their Lord asks what they desire, they reply that He has already given them what He gave no other creation, and ask only to be returned to the world to fight in His cause until they are killed in it again — to which He answers that He has decreed they will not return. This is the fuller of the wordings reported in Muslim's Sahih. (Sahih Muslim) And the soul of the believer is a bird that feeds upon the trees of Paradise until Allah returns it to its body on the Day of Resurrection — its general wording embracing every believer, while the ayah honors the martyrs in particular. (Musnad Ahmad)
-
-**Reflection** When grief tempts you to see only loss, remember that what Allah counts as life outlasts what the eye can see — so spend your own life in the cause that He calls living.
 ## Personal Reflections
-
 

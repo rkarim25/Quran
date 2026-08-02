@@ -131,13 +131,5 @@ Hafiz (حَفِيظٍ ), according to Sayyidna ` Abdullah Ibn ` Abbas ؓ ، is o
 
 This is what you were promised—for everyone who constantly turned back to Allah and kept His limits,
 
-## AI Tafsir
-
-**What this ayah teaches:** That is to say, Paradise has been promised to every person who is awwab and hafiz.
-
-**Classical tafsir:** Ibn Kathir notes: Awwab refers to the person who turns to Allah.
-
-**From the Sunnah:** Paradise until Allah creates another creation and He, the Exalted, makes them dwell in the empty parts of Paradise. (Sahih Muslim)
 ## Personal Reflections
-
 

@@ -220,13 +220,5 @@ This event tells us that making a masjid for Salah near the graves of men of All
 
 That is how We caused them to be discovered so that their people might know that Allah’s promise of resurrection is true and that there is no doubt about the Hour. When the people disputed with each other about the case of the youth after their death, some proposed, “Build a structure around them. Their Rabb knows best about them.” Those who prevailed in the matter said, “We will surely build a place of worship over them.”
 
-## AI Tafsir
-
-**What this ayah teaches:** And thus We made their case known, that they might know that the promise of Allah is true, and that there can be no doubt about the Hour.
-
-**Classical tafsir:** Ibn Kathir notes: 'Ikrimah said: "There was a group of them who said that the souls would be resurrected but not the bodies, so Allah resurrected the people of the Cave as a sign and proof of resurrection." They mentioned that when they wanted to send one of their members out to the city to buy them something to eat,…
-
-**From the Sunnah:** Apparently he was a Muslim, and his name was Tedosis. (Sahih Muslim) There is some debate on this point, because the Prophet ﷺ said:
 ## Personal Reflections
-
 

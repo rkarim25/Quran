@@ -183,17 +183,5 @@ There are still other authentic scholars who have not taken sides in this contro
 
 He is the One who created for you everything on earth, then turned to the heaven and fashioned it into seven heavens. He has knowledge of all things.
 
-## AI Tafsir
-
-**Essence** A proof of Allah's power: everything in the earth, a gift created for you; the heaven, fashioned into seven — His knowledge encompassing it all.
-
-**What it teaches** *Khalaqa lakum* — "created for you" — embraces every benefit the earth yields, seen or unseen. *Istawa*, as Ibn Kathir and Maarif ul Quran explain, is turning toward with a firm decision nothing can hinder: seven heavens were effortless — "Should not He Who has created know?" (67:14)
-
-**The scholars** Ibn Kathir: earth first, then heaven, as a building rises from its lower floors. Maarif ul Quran records the jurists' debate over *lakum*: are things permissible (mubah) by default until the Shari'ah forbids them?
-
-**From the Sunnah** Ibn 'Abbas — a Companion's athar in Sahih al-Bukhari — said the earth was created before heaven, and spread out (daha) only after it.
-
-**Reflection** Ibn 'Ata': the universe serves you so you may serve Allah — what was created for you will surely reach you; do not, in worrying over it, forget the One for whom you were created.
 ## Personal Reflections
-
 

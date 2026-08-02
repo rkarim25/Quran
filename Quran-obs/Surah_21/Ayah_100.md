@@ -186,15 +186,5 @@ What Ibn Az-Zab'ari said was a serious mistake, because the Ayah was addressed t
 
 In it they will groan, and will not be able to hear.
 
-## AI Tafsir
-
-**Context:** (while they abide in that which their own selves desire.) means, they will be safe from that which they fear, and they will have all that they love and desire.
-
-**What this ayah teaches:** They shall not hear the slightest sound of it,) means, they will not feel its heat in their bodies. Zafir refers to their exhalation, and Shahiq refers to their inhalation.
-
-**Classical tafsir:** Ibn Kathir notes: Mujahid, 'Ikrimah and Qatadah said: "Its fuel." Ad-Dahhak said: "The fuel of Hell means that which is thrown into it." This was also the view of others. Zafir refers to their exhalation, and Shahiq refers to their inhalation.
-
-**From the Sunnah:** According to what I have heard, the Messenger of Allah ﷺ sat down one day with Al-Walid bin Al-Mughirah in the Masjid, and An-Nadr bin Al-Harith came and sat down with them. He said this to the Messenger of Allah ﷺ, who said:
 ## Personal Reflections
-
 

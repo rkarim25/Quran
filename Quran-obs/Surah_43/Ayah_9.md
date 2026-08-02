@@ -136,11 +136,5 @@ A Preacher must not give up his preaching due to disappointment
 
 If you ask them who created the heavens and the earth, they will certainly say, "The Almighty, All-Knowing did."
 
-## AI Tafsir
-
-**What this ayah teaches:** This tells us that the person who is engaged in preaching and inviting others towards Islam should carry the message to everybody; he must not give up preaching to some people or any group simply because they are non-believers, highly irreligious, sinners and transgressors.
-
-**Classical tafsir:** Ibn Kathir notes: This tells us that the person who is engaged in preaching and inviting others towards Islam should carry the message to everybody; he must not give up preaching to some people or any group simply because they are non-believers, highly irreligious, sinners and transgressors.
 ## Personal Reflections
-
 

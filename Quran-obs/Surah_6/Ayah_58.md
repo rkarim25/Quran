@@ -173,13 +173,5 @@ In the verses cited above, the answer to disbelievers who were demanding that th
 
 Say, “If what you seek to hasten were within my power, the matter between us would have already been settled. But Allah knows the wrongdoers best.”
 
-## AI Tafsir
-
-**Context:** (Say: "I am on clear proof from my Lord...") means: I have a clear understanding of the Law of Allah that He has revealed to me,
-
-**What this ayah teaches:** And He knows whatever there is on the land and in the sea; not a leaf falls, but he knows it.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, Allah has sent the Angel of the Mountains to you so that you may order him to do whatever you wish to these people.' The Angel of the Mountains called and greeted me, and then said, 'O Muhammad!
 ## Personal Reflections
-
 

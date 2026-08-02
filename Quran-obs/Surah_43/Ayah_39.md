@@ -168,13 +168,5 @@ The other explanation could be that after getting in Hell, your sharing the puni
 
 It will be said to both: "Since you all did wrong, sharing in the punishment will be of no benefit to you this Day."
 
-## AI Tafsir
-
-**Context:** And whosoever Ya'shu (turns away blindly) from the remembrance of the ar-Rahman, We appoint for him Shaytan to be a Qarin (a companion) to him (36)And verily, they hinder them from the path, but they think that they…
-
-**What this ayah teaches:** One is that since your 'kufr' and 'shirk' (disbelief and ascribing partners to Allah) has been proved, your longing in the Hereafter in the words, "Will that this devil had been away from me," will be of no avail, because all of you will be sharing the same punishment.
-
-**Classical tafsir:** Ibn Kathir notes: This means that it is an honor for them in that it was revealed in their language, so they are the people who have the best understanding of it among mankind and hence are obliged to be the most steadfast in adhering to its commandments.
 ## Personal Reflections
-
 

@@ -119,11 +119,5 @@ After referring to the birth of man from very insignificant beginning, the Surah
 
 Is it you who create it, or are We the Creator?
 
-## AI Tafsir
-
-**What this ayah teaches:** Neither of the parents [ especially the mother in whose womb all this is taking place ] knows whether the child is a boy or a girl, until it is born.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, whatever comes into existence comes under the veils of causes.
 ## Personal Reflections
-
 

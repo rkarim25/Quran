@@ -158,11 +158,5 @@ Here it may be noted that in this verse Allah is describing the pre-dawn prayer 
 
 and before dawn they asked Allah for forgiveness,
 
-## AI Tafsir
-
-**What this ayah teaches:** Thus there seems to be no link between their previous description and their description of asking for forgiveness in this verse, because forgiveness is sought when there are sins.
-
-**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas said, "Every night, they would worship Allah, even during a little part of the night." Qatadah narrated that Mutarrif bin 'Abdullah said, "Hardly a night would pass by them that they did not pray to Allah the Exalted and Most Honored, either in the beginning, or the middle of it." Mujahid… As for the Mahrum, Ibn 'Abbas and Mujahid said, "He is the poor person who does not receive a stipen…
 ## Personal Reflections
-
 

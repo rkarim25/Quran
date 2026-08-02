@@ -117,13 +117,5 @@ These six kinds belong to migration undertaken to run for safety against somethi
 
 It is they who have patiently endured, and in their Rabb they put their trust.
 
-## AI Tafsir
-
-**Context:** Allah tells us about the reward of those who migrated for His sake, seeking His pleasure, those who left their homeland behind, brothers and friends, hoping for the reward of Allah.
-
-**What this ayah teaches:** This may have been revealed concerning those who migrated to Ethiopia, those whose persecution at the hands of their own people in Makkah was so extreme that they left them and went to Ethiopia so that they would be able to worship their Lord.
-
-**Classical tafsir:** Ibn Kathir notes: This may have been revealed concerning those who migrated to Ethiopia, those whose persecution at the hands of their own people in Makkah was so extreme that they left them and went to Ethiopia so that they would be able to worship their Lord.
 ## Personal Reflections
-
 

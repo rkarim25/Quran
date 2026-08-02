@@ -141,13 +141,5 @@ From this conduct of Sayyidna Dawud (علیہ السلام) ، whereby he demons
 
 saying: "Make full coats of mail, balancing the links evenly. And act righteously, family of Dawud—indeed I see everything you do."
 
-## AI Tafsir
-
-**What this ayah teaches:** The part of the statement appearing in verse 11 goes on to state that the iron was made soft for him so that he could easily make coats of mail with iron. The sense thus released is to make a coat of mail in a manner that its links come out balanced and proportionate without one being small and the other being big, so that it turns out strong as well as looks good when seen.
-
-**Classical tafsir:** Ibn Kathir notes: The part of the statement appearing in verse 11 goes on to state that the iron was made soft for him so that he could easily make coats of mail with iron.
-
-**From the Sunnah:** In the Sahih it is recorded that the Messenger of Allah ﷺ heard the voice of Abu Musa Al-Ash'ari, may Allah be pleased with him, reciting at night, and he stopped and listened to his recitation, then he said: Having lived there with them, Muslims too were influenced by it.
 ## Personal Reflections
-
 

@@ -176,11 +176,5 @@ These words suggest that when Sayyidah Maryam (علیہا السلام) was comf
 
 She returned to her people carrying him. They said in shock: "O Mary, you have done something terrible!
 
-## AI Tafsir
-
-**What this ayah teaches:** Therefore, she referred all speech to him (the child) and she directed them to his address and speech to them. They scoffed at her because they thought that she was mocking at them and playing with them.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, she referred all speech to him (the child) and she directed them to his address and speech to them.
 ## Personal Reflections
-
 

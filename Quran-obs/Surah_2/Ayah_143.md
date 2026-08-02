@@ -540,19 +540,5 @@ Al-Bukliari has reported from the Companion al-Bara’ 'Ibn ` Azib, and al-Tirmi
 
 Thus We made you a balanced community, so you may be witnesses over humanity and the Messenger a witness over you. We assigned your former prayer direction only to distinguish those who follow the Messenger from those who turn back on their heels. It was a difficult test except for those Allah guided. Allah would never waste your faith. Allah is full of grace to humanity, the Rahim.
 
-## AI Tafsir
-
-**Essence** Allah made the Muslims a justly-balanced, best community — witnesses over mankind — and the change of the Qiblah was a test exposing who truly follows the Messenger, while none of the faith offered before it is ever lost.
-
-**What it teaches** Allah calls this Ummah *ummatan wasatan* — a community placed at the center, balanced and just, neither falling short nor exceeding the limit in faith and worship. Being thus made trustworthy, it is fit to be *shuhada'* (witnesses) over the nations on the Day of Resurrection, while the Messenger ﷺ stands as a witness over it. The redirection of the qiblah from Bayt al-Maqdis to the Ka'bah was, in the Qur'an's own words, *lina'lama* — "that We make evident" — to distinguish those who would follow the Messenger from those who would "turn back on their heels," i.e. revert from religion.
-
-**The scholars** Ibn Kathir explains that Allah chose for this Ummah the qiblah of Ibrahim — the Ka'bah, "the most honorable house of worship on the face of the earth" — and made it the best nation, "endowed with the most complete legislation, the best Manhaj and the clearest Madhhab." On *wasat* he gives the usage of the Arabs — it means "the best and the most honored" — while the hadith of Abu Sa'id glosses it as *al-'adl* (just). He notes the qiblah-change "is heavy on the heart, except for whomever Allah has rightly guided their hearts," for the believer holds with certainty "that Allah does what He wills... abrogates any of His commands that He wills, and that He has the perfect wisdom" — the very matter that adds faith to believers adds only doubt to those with disease in their hearts. On "Allah would never make your faith to be lost," Ibn 'Abbas (via Ibn Ishaq) says it means your prayer toward the first qiblah and your obedience in turning to the second — "He will grant you the rewards for all these acts." Maarif ul Quran, citing al-Qurtubi, draws from *wasat* (root '*adl*, "to be equal") the principle of *i'tidal* — equilibrium — making this Ummah the most balanced in creed, worship, social and economic life; and from its being made a trustworthy witness, al-Qurtubi, al-Jassas and al-Tafsir al-Mazhari derive that the consensus (*Ijma'*) of the Ummah is a binding source of legislation that cannot agree upon error.
-
-**From the Sunnah** On the Day of Resurrection Nuh will be asked whether he conveyed his message; he answers yes, but his people deny any warner came to them. Asked who testifies for him, he says, "Muhammad and his Ummah" — and they bear witness that he conveyed. The Prophet ﷺ then said: "The Wasat means the 'Adl, the just. You will be summoned to testify that Nuh has conveyed, and I will attest to your testimony" — so the Ummah is a witness over the nations, and the Messenger ﷺ a witness over it. (Imam Ahmad; also Al-Bukhari, At-Tirmidhi, An-Nasa'i and Ibn Majah)
-
-**From the Sunnah** Al-Bara' ibn 'Azib reported that when the qiblah turned to the Ka'bah, Muslims grieved over companions who had died praying toward Jerusalem; Allah revealed "And Allah would never make your faith to be lost" — affirming those earlier prayers remained valid and rewarded, a mark of His mercy. (Al-Bukhari, from al-Bara'; Muslim by another chain)
-
-**Reflection** When Allah's command turns me in a new direction, I obey at once with certainty — trusting His wisdom and His promise that no sincere act of worship is ever wasted with Him.
 ## Personal Reflections
-
 

@@ -245,17 +245,5 @@ Emphasis has been laid in the text on the stay near al-Mash'ar al-Haram المش
 
 There is no blame on you in seeking bounty from your Rabb during the journey. When you leave Arafat, remember Allah at the sacred marker and remember Him for guiding you when you were astray.
 
-## AI Tafsir
-
-**Essence** Lawful earning does not blemish the pilgrim's worship — so descend from 'Arafat to remember Allah at the Sacred Monument, grateful that He guided you when before this you were astray.
-
-**What it teaches** "There is no junah (blame, sin) upon you" in seeking fadl (bounty) from your Lord through trade during Hajj; calling it "the bounty of your Lord" reframes commerce as a gift to be received with gratitude, not a money-making venture. Then "when you pour forth (afadtum) from 'Arafat" — the great standing that is the pillar of Hajj — engage in dhikr (remembrance of Allah) at the Mash'ar al-Haram in Muzdalifah, and remember Him as He guided you (kama hadakum), recalling that before this guidance you were "of those astray" (ad-dallin).
-
-**The scholars** Ibn Kathir gives the ayah's background from two reports of Ibn 'Abbas: al-Bukhari relates that 'Ukaz, Mijannah and Dhul-Majaz were Jahiliyyah trading posts and the Companions disliked trading in the Hajj season, while Abu Dawud "and others" record that they avoided it "saying that these are the days of Dhikr" — the same reading given by Mujahid, Sa'id bin Jubayr, 'Ikrimah, Qatadah and others. Maarif ul Quran sharpens it: earning is permitted, but the words *fadlan min Rabbikum* carry "a built-in hint that avoiding this indulgence too, if possible, is still better," for it touches the perfect sincerity desired in Hajj — the whole matter turning on intention, so that some 'ulama' ruled the five days of Hajj be left free for 'ibadah and dhikr. On the rites, Ibn Kathir notes 'Arafat is "a pillar of the rituals of Hajj," that the Prophet ﷺ commanded "Learn your rituals from me," and that the name 'Arafat is traced (via 'Ali) to Ibrahim's words "I have 'Araftu (I know this place)" when Jibril taught him the rites — which is why the closing words remind us Allah taught this guidance after we "were astray," whether before guidance, the Qur'an, or the Messenger ﷺ, "all of which are correct meanings." Maarif adds that "recite His name as He has guided you" yields a foundational rule: worship is not left to personal taste — Allah accepts no subtraction, addition, or change of its time or place, exposing the self-invented rites of Jahiliyyah.
-
-**From the Sunnah** As Ibn 'Umar related, a man asked the Prophet ﷺ about trading during Hajj, and he gave no answer until Jibril came down with this ayah; the Prophet ﷺ then summoned the man and told him, "You are pilgrims" — settling that lawful trade does not invalidate the pilgrimage. (Musnad Ahmad) — And: Hajj is 'Arafat; whoever stands at 'Arafat before the dawn of the Day of Sacrifice has caught the Hajj, marking the standing at 'Arafat as the essential pillar of the pilgrimage. (Musnad Ahmad and the Sunan compilers)
-
-**Reflection** Earn your bread as a gift from your Lord, but keep your heart's true work — remembrance and gratitude — at the center of every sacred season.
 ## Personal Reflections
-
 

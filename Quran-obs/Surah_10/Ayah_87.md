@@ -122,11 +122,5 @@ It will be noted that, at the beginning of the verse, Sayyidna Musa and Harun (�
 
 We revealed to Moses and his brother, “Appoint houses for your people in Egypt. Turn these houses into places of worship, establish salah — the formal prayer, and give good news to the believers!”
 
-## AI Tafsir
-
-**Context:** And We revealed to Musa and his brother (saying): "Provide dwellings for your people in Egypt, and make your dwellings as places for your worship, and perform the Salah, and give glad tidings to the believers. (87)
-
-**What this ayah teaches:** It was said there that new houses should be built in Egypt for Bani Isra'il and that their orientation should be towards the Qiblah so that prayers could be offered in those very residential houses.
 ## Personal Reflections
-
 

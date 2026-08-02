@@ -176,11 +176,5 @@ In verse 64, it was said: وَصَوَّرَ‌كُمْ فَأَحْسَنَ ص�
 
 He is the One who created you from dust, then from a sperm-drop, then a clinging clot, then brought you forth as infants so you may reach your prime and become old—though some may die sooner—reaching an appointed time, so perhaps you may understand Allah's power.
 
-## AI Tafsir
-
-**What this ayah teaches:** And when He decides upon a thing He says to it only: "Be!" - and it is .
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

@@ -118,13 +118,5 @@ Every Prophet who was sent by Allah called people to worship Allah Alone, with n
 
 We never sent a messenger before you O Prophet without revealing to him: “There is none worthy of worship of worship except Me, so worship Me alone.”
 
-## AI Tafsir
-
-**Context:** Or have they taken for worship gods besides Him Say: "Bring your proof. This is the Reminder for those with me and the Reminder for those before me." But most of them know not the Truth, so they are averse (24)And We did…
-
-**What this ayah teaches:** This is the Reminder for those with me and the Reminder for those before me." But most of them know not the Truth, so they are averse (24)And We did not send any Messenger before you but We revealed to him (saying): "There is no Allah but I, so worship Me.
-
-**Classical tafsir:** Ibn Kathir notes: Another explanation of the verse is given in Al-Bahr ul-Muhit according to which the word (dhikr) means here "description", and the sense is that this Qur'an is a description for the people who were in the days of the Holy Prophet ﷺ which describes for them the rules of Shari'ah…
 ## Personal Reflections
-
 

@@ -116,13 +116,5 @@ The first verse (61) mentions the painful comment made by the hypocrites against
 
 Do they not know that whoever opposes Allah and His Messenger will be in the Fire of Hell forever? That is the ultimate disgrace.
 
-## AI Tafsir
-
-**What this ayah teaches:** They swear by Allah to you (Muslims) in order to please you, but it is more fitting that they should please Allah and His Messenger, if they are believers (62)Know they not that whoever opposes and shows hostility to Allah and His Messenger, certainly for him will be the fire of Hell to abide therein.
-
-**Classical tafsir:** Ibn Kathir notes: Allah Almighty corrected them by saying that His Messenger preferred silence against baseless hostilities because of his high morals.
-
-**From the Sunnah:** They swear by Allah to you (Muslims) in order to please you, but it is more fitting that they should please Allah and His Messenger, if they are believers (62)Know they not that whoever opposes and shows hostility to Allah and His Messenger, certainly for him… If what Muhammad says is true, they are worse than donkeys.' A Muslim man heard him and declared, 'By Allah!
 ## Personal Reflections
-
 

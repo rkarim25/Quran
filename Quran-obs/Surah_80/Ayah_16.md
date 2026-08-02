@@ -150,15 +150,5 @@ The word safarah, with fathah [=a+a ] on the first two letters, may be the plura
 
 honourable and virtuous.
 
-## AI Tafsir
-
-**Context:** (He frowned and turned away.) "This was revealed about Ibn Umm Maktum, the blind man. He came to the Messenger of Allah ﷺ and began saying, 'Guide me.' At the time the Messenger of Allah ﷺ had a man with him who was one…
-
-**What this ayah teaches:** [ 80:15-16] ) The word safarah, with fathah [=a+a ] on the first two letters, may be the plural of safir which means a 'scribe'. Rather, he should equal warn the noble and the weak, the poor and the rich, the master and the slave, the men and the women, the young and the old.
-
-**Classical tafsir:** Ibn Kathir notes: [ 80:15-16] ) The word safarah, with fathah [=a+a ] on the first two letters, may be the plural of safir which means a 'scribe'.
-
-**From the Sunnah:** He (Ibn Umm Maktum) then began asking the Messenger of Allah ﷺ about something, urgently beseeching him.
 ## Personal Reflections
-
 

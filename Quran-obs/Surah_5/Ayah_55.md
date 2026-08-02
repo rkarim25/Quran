@@ -184,15 +184,5 @@ The next verse (56) gives the good news that such people will over-come the worl
 
 Your only guardians are Allah, His Messenger, and fellow those who have iman—who establish salah and pay zakat with humility.
 
-## AI Tafsir
-
-**Context:** It appears in some narrations that this sentence has been revealed about Sayyidna Ali ؓ ، in the background of a particular event. It is said that Sayyidna Ali ؓ was busy making Salah on a certain day.
-
-**What this ayah teaches:** As for the essential prayer which Muslims call Salah is something the Jews and Christians also do, but it has no Ruku` in it.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, some of the leading commentators have said that Ruku` refers to the functional Ruku` (bowing position) at this place - which is a basic element (Rukn`: pillar) of Salah.
-
-**From the Sunnah:** The Prophet ﷺ is described as the smiling fighter, smiling to his allies and fighting his enemies. In the previous four verses discussed so far, Muslims have been forbidden to maintain intimate friendship with those who reject the truth. (Sahih Muslim)
 ## Personal Reflections
-
 

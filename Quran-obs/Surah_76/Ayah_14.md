@@ -197,13 +197,5 @@ Allah says,
 
 Shade hangs close above them; fruit hangs within easy reach.
 
-## AI Tafsir
-
-**What this ayah teaches:** Anyone who feeds them is actually assisting the government and the public treasury.
-
-**Classical tafsir:** Ibn Kathir notes: This refers to Paradise and its beauty, its vastness, its loftiness and the joy and happiness it contains.
-
-**From the Sunnah:** The word 'captive' refers to all prisoners, Muslim criminals, as well as infidels who are kept in prisons according to the principles of Shari` ah. (Sahih Muslim)
 ## Personal Reflections
-
 

@@ -148,11 +148,5 @@ so they were seized by the torment of the Day of Canopy. - 26:189
 
 So they rejected him, and so were overtaken by the torment of the day of the deadly cloud. That was really a torment of a tremendous day.
 
-## AI Tafsir
-
-**What this ayah teaches:** Indeed that was the torment of a Great Day.) This is what they asked for, when they asked for a part of the heaven to fall upon them.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

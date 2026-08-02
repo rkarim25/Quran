@@ -109,11 +109,5 @@ So far the Surah deals with the stories of the prophets and several basic as wel
 
 O prophets! Indeed, this deen — the way of life aligned with divine guidance of yours is only one, and I am your Rabb, so worship Me alone.
 
-## AI Tafsir
-
-**What this ayah teaches:** Truly, this, your Ummah is one, and I am your Lord, therefore worship Me (92)But they have broken up and differed in their religion among themselves.
-
-**Classical tafsir:** Ibn Kathir notes: Truly, this, your Ummah is one, and I am your Lord, therefore worship Me (92)But they have broken up and differed in their religion among themselves.
 ## Personal Reflections
-
 

@@ -362,15 +362,5 @@ Therefore, all leading authorities in Tafsir - Ibn Jarir, Ibn Kathir, Abu Hayyan
 
 Today all good, pure foods have been made lawful for you. Similarly, the food of the People of the Book is permissible for you and yours is permissible for them. And permissible for you in marriage are chaste women who have iman as well as chaste women of those given the Scripture before you—as long as you pay them their dowries in wedlock, neither fornicating nor taking them as mistresses. And whoever rejects iman, all their good deeds will be void and in the Akhirah they will be among the losers.
 
-## AI Tafsir
-
-**Context:** Ibn Abi Hatim recorded that Abu Malik Al-Ghifari said that Ibn 'Abbas said that when this Ayah was revealed, (And do not marry idolatresses till they believe,)[2:221] the people did not marry the pagan women.
-
-**What this ayah teaches:** This ruling, that the slaughtered animals of the People of the Book are permissible for Muslims, is agreed on by the scholars, because the People of the Book believe that slaughtering for other than Allah is prohibited.
-
-**Classical tafsir:** Ibn Kathir notes: This ruling, that the slaughtered animals of the People of the Book are permissible for Muslims, is agreed on by the scholars, because the People of the Book believe that slaughtering for other than Allah is prohibited.
-
-**From the Sunnah:** This ruling, that the slaughtered animals of the People of the Book are permissible for Muslims, is agreed on by the scholars, because the People…
 ## Personal Reflections
-
 

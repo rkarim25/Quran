@@ -148,11 +148,5 @@ The other risk involved in hijrah (migration) is about the arrangement of susten
 
 Those who believe and do good — We will house them in elevated mansions in Paradise with rivers flowing beneath, to remain forever. How excellent is the reward of those who work righteousness —
 
-## AI Tafsir
-
-**What this ayah teaches:** Then unto Us you shall be returned (57)And those who believe and do righteous good deeds, to them We shall surely give lofty dwellings in Paradise, beneath which rivers flow, to live therein forever. Therefore worship Me.) When things became too difficult for the believers in Makkah who were in a weak position and were oppressed, they left and migrated to Ethiopia, where they were able to practice…
-
-**Classical tafsir:** Ibn Kathir notes: Therefore worship Me.) When things became too difficult for the believers in Makkah who were in a weak position and were oppressed, they left and migrated to Ethiopia, where they were able to practice their religion.
 ## Personal Reflections
-
 

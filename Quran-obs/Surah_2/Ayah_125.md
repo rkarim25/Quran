@@ -571,22 +571,5 @@ In fact, this is exactly what happened to Sayyidah Umm Salmah ؓ ، one of the w
 
 When We made the Sacred House a place of return and security for people — take the standing-place of Abraham as a site of prayer — and entrusted Abraham and Ishmael to purify My House for those who circle it, who retreat in it, and who bow and prostrate.
 
-## AI Tafsir
-
-**Essence**
-Allah declares the Sacred House a perpetual centre of return (*mathaba*) and inviolable sanctuary (*amn*), commands that Ibrahim's standing-place be made a site of prayer, and charges Ibrahim and Isma'il — through a divine covenant (*'ahd*) — to purify it for every worshipper who circles, retreats, bows, or prostrates.
-
-**What it teaches**
-Three terms structure the ayah. *Mathaba* (from the root "to return") denotes a place one comes back to repeatedly — the bare force of the root is motion homeward, a gravitational pull. *Amn* is a peace so absolute that even the Age of Ignorance preserved it: bloodshed was forbidden inside the Haram's precincts, and a man would not take revenge even on his father's killer if found there. *'Ahd* means divine command, as Al-Hasan al-Basri and Ibn Jurayj explain. The command *tahhira baytiya* means, as Ibn 'Abbas specified, removal of idols; Mujahid and Sa'id bin Jubayr add the fuller scope: idols, sexual activity, false witness, and every form of sin.
-
-**The scholars**
-Ibn Kathir records that Sa'id bin Jubayr distinguished the *ta'ifin* (circumambulators — pilgrims from afar) from the *'akifin* (those in i'tikaf — area residents), confirmed by Qatadah and al-Rabi' bin Anas. Maarif ul Quran notes the command addressed both Ibrahim and Isma'il, who by then could share fully in the rebuilding. Ibn Kathir grounds the extension of "My House" to all mosques in Q.24:36, and Maarif reinforces that the required purity is both outward (dirt, filth) and inward (shirk, pride, hypocrisy). As for the pull of Makkah: Mujahid said one never tires of visiting but returns with greater longing each time, and certain scholars have noted that renewed longing to return marks a Hajj received well.
-
-**From the Sunnah**
-At his last Hajj, the Prophet (peace be upon him) enacted this ayah in real time: after completing tawaf and reaching the Maqam Ibrahim, he recited the verse commanding the standing-place to be taken as a site of prayer — then immediately offered two rak'ahs behind the stone with his face towards the Ka'bah. (Sahih Muslim, as cited in Maarif ul Quran)
-
-**Reflection**
-Every act of worship in Allah's House — a single circuit, an hour of i'tikaf, a rak'ah of prayer — answers a covenant older than the city itself. Approach it, and every impurity of heart, not only of body, must be left at the door.
 ## Personal Reflections
-
 

@@ -159,11 +159,5 @@ In the last verse (45), it was said that, when the mass punishment of Allah Ta` 
 
 We have sent messengers only as deliverers of good news and as warners. Whoever believes and does good, there will be no fear for them, nor will they grieve.
 
-## AI Tafsir
-
-**What this ayah teaches:** So whosoever believes and does righteous good deeds, upon such shall come no fear, nor shall they grieve (48)But those who reject Our Ayat, the torment will strike them for their rebelling .
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

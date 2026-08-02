@@ -167,11 +167,5 @@ The angel of death does not know the time of anyone's death in advance - until h
 
 So taste the punishment for neglecting this Day of yours. We too will neglect you. Taste eternal torment for what you used to do.
 
-## AI Tafsir
-
-**What this ayah teaches:** Surely, We too will forget you, so taste you the abiding torment for what you used to do . But, some other reports show that this exacting of the soul is particular to human beings - because of their nobility and distinction.
-
-**Classical tafsir:** Ibn Kathir notes: But, some other reports show that this exacting of the soul is particular to human beings - because of their nobility and distinction.
 ## Personal Reflections
-
 

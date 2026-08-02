@@ -112,17 +112,5 @@ In order to emphasize what the present verse has said, the next verse tells the 
 
 Yet you turned away afterward. Had it not been for Allah's grace and mercy, you would have been among the losers.
 
-## AI Tafsir
-
-**Essence** A covenant sealed beneath a raised mountain — and still they turned away. Only Allah's grace and mercy stood between them and ruin.
-
-**What it teaches** Thumma tawallaytum — "then you turned away" — after the solemn pledge. Without Allah's fadl (grace) and rahmah (mercy), they would be khasirin: losers in this life and the Hereafter.
-
-**The scholars** Ibn Kathir: the grace was Allah "forgiving you and sending the Prophets and Messengers to you." Maarif ul Quran: His mercy is general — worldly good for believer and disbeliever alike — and special: salvation for believers. The address reaches the Jews of the Prophet's ﷺ time, since faith in him too was part of the Covenant.
-
-**From the Sunnah** Maarif ul Quran cites ahadith it describes as authentic: through the barakah of the Holy Prophet ﷺ, catastrophic punishments no longer descend on any people — a grace some commentators tie to his sending.
-
-**Reflection** Every day you stand after a broken promise to Allah is His fadl, not your entitlement — return before the loss that counts.
 ## Personal Reflections
-
 

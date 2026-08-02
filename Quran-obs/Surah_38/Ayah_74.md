@@ -76,11 +76,5 @@ Mentioned here is the event of the creation of 'Adam (علیہ السلام) . N
 
 except Iblis, who acted arrogantly and became among the unfaithful.
 
-## AI Tafsir
-
-**What this ayah teaches:** All of the angels obeyed this command except for Iblis, who was not one of them. He refused to prostrate to Adam, and he disputed with his Lord about him, claiming that he was better than Adam, because he was created from fire while Adam was created from clay, and fire was better than clay, or so he said.
-
-**Classical tafsir:** Ibn Kathir notes: He refused to prostrate to Adam, and he disputed with his Lord about him, claiming that he was better than Adam, because he was created from fire while Adam was created from clay, and fire was better than clay, or so he said.
 ## Personal Reflections
-
 

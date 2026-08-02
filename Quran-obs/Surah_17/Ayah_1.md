@@ -563,13 +563,5 @@ Sayyidna Mu` adh ibn Jabal reports that the Holy Prophet ﷺ said: Allah Ta’ a
 
 Glory be to the One who took His servant by night from the Sacred Mosque to the Farthest Mosque, whose surroundings We blessed, to show him Our signs. He alone is All-Hearing, All-Seeing.
 
-## AI Tafsir
-
-**Context:** Then Allah revealed that which He revealed to me. He enjoined on me fifty prayers every day and night. I came down until I reached Musa, and he said, 'What did your Lord enjoin on your Ummah?' I said, 'Fifty prayers ever…
-
-**What this ayah teaches:** It was said, 'Who is this?' He said, 'Jibril.' It was said, 'Who is with you?' He said, 'Muhammad.' It was said, 'Has his Mission started?' He said, 'Yes.' It was said, 'Welcome to him, blessed is the one who comes.' So it was opened for us and when I entered, I saw Adam.
-
-**Classical tafsir:** Ibn Kathir notes: I said, 'What is this, O Jibril?' He said, 'The two hidden rivers are rivers in Paradise, and the two visible rivers are the Nile and the Euphrates.' Then I was shown Al-Bayt Al-Ma'mur.) Qatadah said: Al-Hasan told us narrating from Abu Hurayrah that the Prophet ﷺ saw Al-Bayt Al-Ma'mur.
 ## Personal Reflections
-
 

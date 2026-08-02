@@ -152,13 +152,5 @@ The next verses remind them of their pitiable condition and their persecutions a
 
 We brought the Children of Israel across the sea and they came upon a people devoted to idols. They demanded, “O Moses! Make for us a god like their gods.” He replied, “Indeed, you are a people acting ignorantly!
 
-## AI Tafsir
-
-**What this ayah teaches:** And We brought the Children of Israel (with safety) across the sea, and they came upon a people devoted to some of their idols (in worship). Make for us a Allah as they have gods." He said: "Verily, you are an ignorant people.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** Commenting on this Ayah, Imam Abu Ja'far bin Jarir reported from Abu Waqid Al-Laythi that they (the Companions) went out from Makkah with the Messenger of Allah ﷺ for (the battle of) Hunayn.
 ## Personal Reflections
-
 

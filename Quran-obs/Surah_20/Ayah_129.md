@@ -135,11 +135,5 @@ The word ھُدٰی - (guidance) implied in the first sentence of verse 128 can 
 
 Had it not been for a prior decree from your Rabb O Prophet and a term already set, their instant doom would have been inevitable.
 
-## AI Tafsir
-
-**What this ayah teaches:** And had it not been for a Word that went forth before from your Lord, and a term determined, (their punishment) must necessarily have come (in this world)(128)So bear patiently what they say, and glorify the praises of your Lord before the rising of the sun, and before its setting, and during some hours of the night, and at the ends of the day, that you may become pleased with the reward which All…
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

@@ -134,25 +134,5 @@ In this, there is the necessary refutation of the Christians who claimed that it
 
 And he would never ask you to take angels and prophets as lords. Would he ask you to reject the truth after you have submitted?
 
-## AI Tafsir
-
-**Essence**
-
-No true Prophet would ever command people to take the angels and the prophets as lords beside Allah — to demand such disbelief from those who have already submitted would be unthinkable.
-
-**What it teaches**
-
-Allah declares it impossible that a Prophet — entrusted with the Book, al-hukm (wise judgement), and prophethood — would order people to take the angels and the prophets as arbab: lords, objects of worship and absolute obedience. To call to the worship of any besides Allah is to call to kufr, the very opposite of the tawhid the Prophets were sent to establish. It would be absurd to demand kufr of the muslimun, those who have already submitted to Allah alone.
-
-**The scholars**
-
-Ibn Kathir explains that no Prophet ever called people to worship him or anyone besides Allah; the Messengers are "the emissaries between Allah and His creation," commanding only what Allah commands and forbidding only what He forbids. The rebuke here, he notes, is aimed at "the ignorant rabbis, priests and teachers of misguidance," not the Messengers or their sincere, knowledgeable followers — for whoever calls to worshipping other than Allah "will have called to Kufr," while the Prophets call only to "the Iman which commands worshipping Allah Alone without partners."
-
-Maarif ul Quran draws from this the principle of the 'ismah (divinely granted protection, infallibility) of the Prophets: since Allah's knowledge of His chosen Messenger's loyalty is perfect and cannot be defective, it is impossible that such a one would ever fall into shirk or revolt against Allah. Citing Tafsir Usmani, Maarif adds that the verse refutes the Christians who claimed the Masih (peace be upon him) invited them to believe in his sonship and divinity, admonishes the People of the Book who raised their rabbis and monks to the station reserved for Allah, and corrects even the Muslims who wondered whether they might prostrate before the Holy Prophet ﷺ instead of greeting him with the customary salam.
-
-**Reflection**
-
-Honor the Prophets and the righteous deeply — but bow in worship to Allah alone, the One they themselves called us to.
 ## Personal Reflections
-
 

@@ -164,13 +164,5 @@ Under the phrase above طَبَقًا عَن طَبَقٍ tabaqan ` an tabaq 'fr
 
 you will pass from stage to stage in life and beyond.
 
-## AI Tafsir
-
-**What this ayah teaches:** I swear by Ash-Shafaq (16)And the night and what it Wasaqa (17)And the moon when it Ittasaq (18)You shall certainly travel from stage to stage (19)What is the matter with them, that they believe not (20)And when the Qur'an is recited to them, they fall not prostrate (21)Nay, those who disbelieve deny (22)And Allah knows best what they gather (23)So, announce to them a painful t…
-
-**Classical tafsir:** Ibn Kathir notes: The primitive sense of the word wasaqa means to 'pile, gather, heap up the thing'.
-
-**From the Sunnah:** His main goal in this life should be to cultivate for the next life as the Prophet ﷺ said:
 ## Personal Reflections
-
 

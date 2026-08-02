@@ -94,11 +94,5 @@ The Second Objection was that if the Holy Prophet ﷺ was a prophet, he should n
 
 Say, O Prophet, “Is this better or the Garden of Eternity which the righteous have been promised, as a reward and an ultimate destination?
 
-## AI Tafsir
-
-**What this ayah teaches:** Say: "Is that better or the Paradise of Eternity which is promised to those who have Taqwa" It will be theirs as a reward and final destination (15)For them there will be therein all that they desire, and they will abide (therein forever).
-
-**Classical tafsir:** Ibn Kathir notes: In this Surah Allah mentions Hell, then refers to the situation of the people of Paradise.
 ## Personal Reflections
-
 

@@ -108,11 +108,5 @@ Verses appearing immediately earlier described the many blessings of Allah Ta` a
 
 Without a doubt, Allah knows what they conceal and what they reveal. He certainly does not like those who are too proud.
 
-## AI Tafsir
-
-**What this ayah teaches:** None is to be worshipped except Allah Allah tells us that there is none to be worshipped besides Him, the One, the Unique, the Lone, the Self-Sufficient.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, it was said: When it stands proved that Allah alone made the heavens and the earth, made the mountains and rivers, vegetation and animals, trees and plants with their fruits and flowers, how can that most sacred Being that is the Creator of all these things become, for…
 ## Personal Reflections
-
 

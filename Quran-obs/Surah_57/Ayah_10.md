@@ -399,13 +399,5 @@ A detailed account of the status of the sahabah is given in Surah Al-Fath under 
 
 Why do you not spend in Allah's cause, when to Allah belongs the inheritance of the heavens and the earth? Those among you who spent and fought before the victory are not equal to those who did so later. They have a greater rank—but to all Allah has promised the finest reward. Allah is fully aware of what you do.
 
-## AI Tafsir
-
-**What this ayah teaches:** Although the Real Owner and Master of the heavens and the earth is Allah, He transferred part-ownership of things to man by His grace, but on the Day of Judgment, even this outward and partial ownership will no longer remain in the hands of anyone.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, O mankind, spend as Allah commanded you from the wealth that He entrusted to you for His obedience.
-
-**From the Sunnah:** And we have reported the Hadith through different routes in the beginning of the explanation on the chapter on Faith in Sahih Al-Bukhari, wherein one day the Messenger of Allah ﷺ said to his Companions, (Sahih al-Bukhari) Before Makkah was conquered, things were difficult for Muslims and only the righteous ones embraced Islam.
 ## Personal Reflections
-
 

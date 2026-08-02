@@ -124,15 +124,5 @@ Umar bin Al-Khattab said, "You will never punish someone who disobeyed Allah wit
 
 And so that Allah may support you with mighty support.
 
-## AI Tafsir
-
-**Context:** This honorable Surah was revealed after the Messenger of Allah ﷺ returned from the area of Al-Hudaybiyyah, during the month of Dhul-Qa'dah, in the sixth year of Hijrah.
-
-**What this ayah teaches:** That Allah may forgive you your sins of the past and the future, and complete His favor on you, and guide you on the straight path,)(3.
-
-**Classical tafsir:** Ibn Kathir notes: That Allah may forgive you your sins of the past and the future, and complete His favor on you, and guide you on the straight path,)(3.
-
-**From the Sunnah:** Allah's Messenger ﷺ recited Surah Al-Fath on the (day) of the conquest of Makkah, riding on his she-camel. (Sahih al-Bukhari, Sahih Muslim) This honorable Surah was revealed after the Messenger of Allah ﷺ returned from the area of Al-Hudaybiyyah, during the month of Dhul-Qa'dah, in the sixth year of Hijrah. (Sahih al-Bukhari)
 ## Personal Reflections
-
 

@@ -82,11 +82,5 @@ It is related in this verse that the disbelievers rejected the invitation of Say
 
 I am truly a trustworthy messenger to you.
 
-## AI Tafsir
-
-**What this ayah teaches:** So Allah sent Hud, one of their own, as a Messenger bringing them good news and delivering warnings. This refers to the fact that they were physically strong and well-built, and very violent, and very tall; they had also been given a great deal of provisions, wealth, gardens, rivers, sons, crops and fruits.
-
-**Classical tafsir:** Ibn Kathir notes: This refers to the fact that they were physically strong and well-built, and very violent, and very tall; they had also been given a great deal of provisions, wealth, gardens, rivers, sons, crops and fruits.
 ## Personal Reflections
-
 

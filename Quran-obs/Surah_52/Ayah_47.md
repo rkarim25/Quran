@@ -162,13 +162,5 @@ This is the end of the Tafsir of Surat At-Tur, all praise and gratitude is due t
 
 The wrongdoers will have another torment before that Day, but most of them do not know.
 
-## AI Tafsir
-
-**What this ayah teaches:** { 1} It refers to the punishments faced by the those who reject the truth right in this world, like famines and the deterrent defeat in the battle of Badr.
-
-**Classical tafsir:** Ibn Kathir notes: { 1} It refers to the punishments faced by the those who reject the truth right in this world, like famines and the deterrent defeat in the battle of Badr.
-
-**From the Sunnah:** In his Sahih, Muslim recorded that 'Umar used to recite this supplication when he began Salah. (Sahih Muslim) Ahmad and the Sunan compilers recorded this Hadith from Abu Sa'id and other Companions, who stated that the Prophet ﷺ used to say that.
 ## Personal Reflections
-
 

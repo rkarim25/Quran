@@ -175,13 +175,5 @@ Ibn 'Abbas then said, "The worst of enemies is he who transgresses against Allah
 
 Have they not travelled the earth and seen what became of those before them? Allah destroyed them utterly. A similar end awaits those who persist in denial.
 
-## AI Tafsir
-
-**Context:** Ibn 'Abbas then said, "The worst of enemies is he who transgresses against Allah in His own sacred place, who kills a person who is not trying to kill him, or who kills because of Jahiliyyah vengeance.
-
-**What this ayah teaches:** Allah destroyed them completely, and a similar (awaits) the those who reject the truth (10)That is because Allah is the Protector of those who believe, whereas the those who reject the truth have no protector (11)Certainly Allah will admit those who believe and do righteous good deeds, into Gardens under which rivers flow (Paradise); while those who disbelieve enjoy their life and eat as cattle eat; but t…
-
-**Classical tafsir:** Ibn Kathir notes: Allah destroyed them completely,) which means that Allah punished them because of their denial and disbelief, and saved the believers from among them.
 ## Personal Reflections
-
 

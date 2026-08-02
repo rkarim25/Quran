@@ -146,11 +146,5 @@ In the last verse (119): ثُمَّ إِنَّ رَ‌بَّكَ لِلَّذِ�
 
 As for those who commit evil ignorantly or recklessly, then repent afterwards and mend their ways, then your Rabb is surely All-Forgiving, the Rahim.
 
-## AI Tafsir
-
-**What this ayah teaches:** And We did not wrong them, but they wronged themselves (118)Then, your Lord for those who did evil out of ignorance and afterward repent and do righteous deeds - verily, after that, your Lord is Pardoning, ar-Rahim .
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

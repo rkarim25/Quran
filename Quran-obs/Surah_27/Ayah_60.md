@@ -203,11 +203,5 @@ This verse also teaches the formalities of an address, a sermon or a lecture, th
 
 Or ask them, “Who created the heavens and the earth, and sends down rain for you from the sky, by which We cause delightful gardens to grow? You could never cause their trees to grow. Was it another god besides Allah?” Absolutely not! But they are a people who set up equals to Allah!
 
-## AI Tafsir
-
-**What this ayah teaches:** And He created the earth, with its varying heights and densities, and He created everything in it, mountains, hills, plains, rugged terrain, wildernesses, crops, trees, fruits, seas and animals of all different kinds and colors and shapes, etc.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

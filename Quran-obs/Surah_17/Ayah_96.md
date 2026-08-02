@@ -76,11 +76,5 @@ In the last verse (95), it was said that they, despite being human, can-not dema
 
 Say, “Sufficient is Allah as a Witness between me and you. He is certainly All-Knowing, All-Seeing of His servants.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, He is Ever the All-Knower, the All-Seer of His servants.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

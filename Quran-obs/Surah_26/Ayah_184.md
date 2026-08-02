@@ -84,11 +84,5 @@ What it means is that it is unlawful to reduce any quantity or amount from that 
 
 And fear the One Who created you and all earlier peoples.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Therefore, if a servant or a laborer does not work his full time at his workplace, he too is included in this warning.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, if a servant or a laborer does not work his full time at his workplace, he too is included in this warning.
 ## Personal Reflections
-
 

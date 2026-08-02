@@ -132,11 +132,5 @@ Maulana Shabbir Ahmad ` Usmani, in his comments on the opening statement of Vers
 
 The Messiah would never be too proud to be a servant of Allah, nor would the angels nearest to Allah. Those who are too proud and arrogant to worship Him will be brought before Him all together.
 
-## AI Tafsir
-
-**What this ayah teaches:** And whosoever rejects His worship and is proud, then He will gather them all together unto Himself (172)So, as for those who believed and did deeds of righteousness, He will give them their (due) rewards and more out of His bounty.
-
-**Classical tafsir:** Ibn Kathir notes: The Prophets and Angels Are Never too Proud to Worship Allah Ibn Abi Hatim recorded that Ibn 'Abbas said that, 'proud', means insolent.
 ## Personal Reflections
-
 

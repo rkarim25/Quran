@@ -89,13 +89,5 @@ This is the argument which the unbelievers advance when denying belief in the Da
 
 The messenger prayed, “My Rabb! Help me, because they have denied me.”
 
-## AI Tafsir
-
-**What this ayah teaches:** It was said that this was 'Ad, because they were the successors of the people of Nuh.
-
-**Classical tafsir:** Ibn Kathir notes: It was said that this was 'Ad, because they were the successors of the people of Nuh.
-
-**From the Sunnah:** Those who deny it publicly are confirmed infidels, but it is very unfortunate that many Muslims also act in a manner that the same denial can be felt from their deeds and actions.
 ## Personal Reflections
-
 

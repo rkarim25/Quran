@@ -267,15 +267,5 @@ Ruling 2. Should someone be in a position that he cannot even pay the ransom due
 
 Fast for a counted number of days. Whoever is ill or on a journey should make up an equal number of days later. Those who find fasting extremely difficult may feed a needy person for each day missed. Whoever gives more voluntarily — it is better for them. To fast is better for you, if only you knew.
 
-## AI Tafsir
-
-**Essence** Allah prescribes fasting for a fixed, manageable number of days, lifting the burden from the sick and the traveler and, in Islam's early days, granting a ransom-option that He then abrogated into the firm command to fast.
-
-**What it teaches** "A prescribed number of days" (ayyaman ma'dudat) means the fast is limited so it never overwhelms the heart's resolve; the one who is ill or "on a journey" ('ala safarin) makes up an equal count from "other days" (qada'). The fidyah — feeding a miskin (poor person) — was first a choice for the able, later abrogated for the healthy but kept for those with no hope of fasting.
-
-**The scholars** Ibn Kathir explains that fasting "purifies the souls" and "narrows the paths of Shaytan," and that Allah set it for "a fixed number of days, so that it does not become hard on the hearts." On "those who can fast with difficulty," he records the disagreement: Salamah bin Al-Akwa' (via Al-Bukhari) reported the fidyah-choice was abrogated by 2:185 for the healthy resident, and Ibn 'Umar (via Nafi') likewise said "It was abrogated"; but Ibn 'Abbas insisted "(This Ayah) was not abrogated, it is for the old man and the old woman who are able to fast with difficulty" — they feed a poor person and need not make up the days. Al-Bukhari followed this, citing Anas, who in old age "fed some bread and meat to a poor person for each day he did not fast"; Ibn Kathir adds the same applies to pregnant and breast-feeding women who fear for themselves or their children. Maarif ul Quran clarifies that "sick" means one who cannot fast "without an unbearable hardship" or fears his illness will worsen, and that 'ala safarin signals an actual embarked journey, not a few miles — Imam Abu Hanifah fixing it at a three-day distance. Maarif also notes qada' may be done consecutively or with gaps, and that one who dies before recovering owes neither qada' nor fidyah.
-
-**Reflection** Receive Allah's concessions as mercy, not loophole — fast when you can, make up what you miss, and remember "to fast is better for you."
 ## Personal Reflections
-
 

@@ -70,11 +70,5 @@ The habitations of the time of Sayyidna Lut (علیہ السلام) which were o
 
 Their ruins still lie along a known route.
 
-## AI Tafsir
-
-**What this ayah teaches:** In other words, after their destruction by Divine punishment, these habitations were not repopulated except some. This particular mode of action taken by the Holy Prophet ﷺ has established the sunnah that making sites which have been hit by Divine punishment a place of picnic and amusement is hard-heartedness at its ugliest.
-
-**Classical tafsir:** Ibn Kathir notes: In other words, after their destruction by Divine punishment, these habitations were not repopulated except some.
 ## Personal Reflections
-
 

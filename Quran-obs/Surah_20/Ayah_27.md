@@ -116,13 +116,5 @@ However, Sayyidna Musa علیہ السلام in his prayer to make Sayyidna Haru
 
 and remove the impediment from my tongue.
 
-## AI Tafsir
-
-**What this ayah teaches:** Therefore, he was left with the remnants of this accident that took place with his tongue.
-
-**Classical tafsir:** Ibn Kathir notes: Ath-Thawri reported from Abu Sa'id, from 'Ikrimah, who said that Ibn 'Abbas said, "Harun was made a Prophet at the same moment that Musa was made a Prophet." Ibn Abi Hatim recorded that 'A'ishah went out intending to perform 'Umrah and stopped to camp among some bedouins.
-
-**From the Sunnah:** Ibn 'Abbas said, "Harun was made a Prophet at the same moment that Musa was made a Prophet." Ibn Abi Hatim recorded that 'A'ishah went out intending to perform 'Umrah and stopped to camp among some bedouins.
 ## Personal Reflections
-
 

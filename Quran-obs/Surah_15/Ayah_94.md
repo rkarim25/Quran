@@ -147,15 +147,5 @@ Before the revelation of the verse (94): فَاصْدَعْ بِمَا تُؤْ�
 
 So proclaim what you have been commanded, and turn away from the polytheists.
 
-## AI Tafsir
-
-**Context:** Therefore proclaim that which you commanded." Mujahid said, It is reciting the Qur'an aloud during prayer." Abu 'Ubaydah reported that 'Abdullah bin Mas'ud said, "The Prophet ﷺ was still practicing and preaching Islam se…
-
-**What this ayah teaches:** It is to Him that we turn for help and it is in Him that we put our trust.
-
-**Classical tafsir:** Ibn Kathir notes: Do not fear them because Allah will suffice you against them, and He will protect you from them.
-
-**From the Sunnah:** According to what I heard, the Messenger of Allah ﷺ had supplicated against him because of the pain and mockery he had suffered at his hands. When their evil went to extremes and their mockery of the Messenger of Allah ﷺ went too far, Allah revealed:
 ## Personal Reflections
-
 

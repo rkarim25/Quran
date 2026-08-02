@@ -196,11 +196,5 @@ Atheists believed that ` Time' is the cause of life, death, vicissitudes of cond
 
 They argue, "There is nothing beyond our worldly life. We die; others are born. Nothing destroys us but the passage of time." They have no knowledge for this—they only speculate.
 
-## AI Tafsir
-
-**What this ayah teaches:** Reviling Time Is Inappropriate Atheists believed that ` Time' is the cause of life, death, vicissitudes of conditions and adversities, and also the cause of the revolution of the entire universe.
-
-**Classical tafsir:** Ibn Kathir notes: The Messenger of Allah said: "Do not revile time because time actually is Allah." The ignorant who claim that a particular work was done by time is actually the work of Divine power - time is nothing.
 ## Personal Reflections
-
 

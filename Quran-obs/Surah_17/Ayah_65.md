@@ -133,13 +133,5 @@ As for the sense of: وَشَارِ‌كْهُمْ فِي الْأَمْوَال
 
 Allah added, “You will truly have no authority over My faithful servants.” And sufficient is your Rabb as a Guardian.
 
-## AI Tafsir
-
-**What this ayah teaches:** And All-Sufficient is your Lord as a Guardian.
-
-**Classical tafsir:** Ibn Kathir notes: Mujahid said, "With idle entertainment and singing," meaning, influence them with that. From this root is also derived the word Jalabah, which means raising voices.
-
-**From the Sunnah:** It was reported in Sahih Muslim from 'Iyad bin Himar that the Messenger of Allah ﷺ said: (Sahih Muslim)
 ## Personal Reflections
-
 

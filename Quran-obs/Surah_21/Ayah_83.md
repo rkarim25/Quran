@@ -112,13 +112,5 @@ Some scholars say that he was granted as many new children as he had before and 
 
 And remember when Job cried out to his Rabb, “I have been touched with adversity, and You are the the Rahim — special mercy for believers in the Akhirah — the everlasting life after death of the merciful.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Because of this serious illness all his relatives, friends and neighbors avoided him and placed him near a garbage-dump outside the city. The stronger his beliefs, the harder is the test to which he is subjected, so that his rewards are in proportion to his sufferings.
-
-**Classical tafsir:** Ibn Kathir notes: Because of this serious illness all his relatives, friends and neighbors avoided him and placed him near a garbage-dump outside the city.
-
-**From the Sunnah:** Ibn Abi Hatim recorded from Abu Hurayrah that the Prophet ﷺ said:
 ## Personal Reflections
-
 

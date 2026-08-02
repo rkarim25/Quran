@@ -136,11 +136,5 @@ It is a matter of great satisfaction that there is a new tendency among the youn
 
 They are those who, when reminded of the revelation of their Rabb, do not turn a blind eye or a deaf ear to it.
 
-## AI Tafsir
-
-**What this ayah teaches:** When they hear the Words of Allah, they are not affected by them or moved to change their ways. Second, to fall at the verses like deaf and dumb people which means to listen to the message but without any purpose or commitment and act in a manner that the real message has not been registered, and even if they follow the Qur'anic message it is not in line with the practices of the companions of the…
-
-**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas said, "This means (offspring) who will strive to obey Allah and bring them joy in this world and the Hereafter." Imam Ahmad recorded that Jubayr bin Nufayr said: "We sat with Al-Miqdad bin Al-Aswad one day, and a man passed by and said, "How blessed are these two eyes which saw the Messen…
 ## Personal Reflections
-
 

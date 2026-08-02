@@ -119,11 +119,5 @@ After that, the text states the additional honour they shall have in their 'ulti
 
 "Peace be upon you for your sabr. How excellent is the final home!"
 
-## AI Tafsir
-
-**What this ayah teaches:** Excellent indeed is the final home!
-
-**Classical tafsir:** Ibn Kathir notes: One of them would die while his need is still in his chest, because he was unable to satisfy it himself.
 ## Personal Reflections
-
 

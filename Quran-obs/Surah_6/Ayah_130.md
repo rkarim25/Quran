@@ -217,13 +217,5 @@ However, even if that original book and the authentic instructions left by those
 
 “O assembly of jinn and humans! Did messengers not come from among you, proclaiming My revelations and warning you of the coming of this Day of yours?” They will say, “We confess against ourselves!” For they have been deluded by worldly life. And they will testify against themselves that they were those who reject the truth.
 
-## AI Tafsir
-
-**Context:** (And (remember) when We sent towards you a group of the Jinn, listening to the Qur'an. When they stood in the presence thereof, they said: "Listen in silence!" And when it was finished, they returned to their people, as…
-
-**What this ayah teaches:** This shows that messengers have been sent to the Jinnkind from among their own kind - as is the case with human-kind among whom the messengers were sent from among them, that is, they were human beings.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, they too are called rasul or carrier of a message, within the literal sense of the word in Arabic.
 ## Personal Reflections
-
 

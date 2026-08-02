@@ -180,13 +180,5 @@ These words suggest that when someone who is descended from' righteous and pious
 
 O sister of Aaron, your father was not indecent, nor was your mother unchaste."
 
-## AI Tafsir
-
-**What this ayah teaches:** Your father was not a man who used to commit adultery, nor your mother was an unchaste woman. They scoffed at her because they thought that she was mocking at them and playing with them.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, she referred all speech to him (the child) and she directed them to his address and speech to them.
-
-**From the Sunnah:** This saying of the Prophet ﷺ may be interpreted in two ways.
 ## Personal Reflections
-
 

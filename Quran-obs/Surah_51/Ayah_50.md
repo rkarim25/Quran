@@ -97,11 +97,5 @@ Allah reminds us of the creating of the higher and lower worlds,
 
 Say: Flee to Allah. I am sent to you from Him with a clear warning.
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, We are able to expand the vastness of space thereof (47)And We have made the earth a Firash; how excellent spreader (thereof) are We (48)And of everything We have created pairs, that you may remember (49)So, flee to Allah. Verily, I am a plain warner to you from Him (50)And set not up any other Allah along with Allah.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

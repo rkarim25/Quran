@@ -94,13 +94,5 @@ This incident took place in the year 6 A.H. and thereafter the power and the mor
 
 Indeed, Allah defends those who believe. Surely Allah does not like whoever is deceitful, ungrateful.
 
-## AI Tafsir
-
-**What this ayah teaches:** Truly, Allah defends those who believe. Verily, Allah likes not any treacherous ingrate .
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** In this verse Allah Ta’ ala consoled the Muslims with the promise that He would deprive the infidels of their power to harm them anymore.
 ## Personal Reflections
-
 

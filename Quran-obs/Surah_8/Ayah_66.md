@@ -201,13 +201,5 @@ Towards the end of the verse, it was in the manner of a general principle that i
 
 Now Allah has lightened the burden for you, knowing weakness is in you. If there are a hundred steadfast among you, they will overcome two hundred. If there are a thousand, they will overcome two thousand, by Allah's permission. Allah is with the steadfast.
 
-## AI Tafsir
-
-**Context:** The Ayah says, one Muslim should endure ten those who reject the truth. Allah abrogated this part later on, but the good news remained.
-
-**What this ayah teaches:** If there are twenty steadfast persons among you, they will overcome two hundred, and if there be a hundred steadfast persons they will overcome a thousand of those who disbelieve, because they (the those who reject the truth) are people who do not understand (65)Now Allah has lightened your (task), for He knows that there is weakness in you.
-
-**Classical tafsir:** Ibn Kathir notes: If there are twenty steadfast persons among you, they will overcome two hundred, and if there be a hundred steadfast persons they will overcome a thousand of those who disbelieve, because they (the those who reject the truth) are people who do not understand (65)Now Allah has lightened your (t…
 ## Personal Reflections
-
 

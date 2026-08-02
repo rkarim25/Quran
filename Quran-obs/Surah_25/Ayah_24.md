@@ -183,13 +183,5 @@ Commentary
 
 But on that Day the residents of Paradise will have the best settlement and the finest place to rest.
 
-## AI Tafsir
-
-**What this ayah teaches:** The people of Hell will go to Hell, but the people of Paradise will be taken to Paradise and will have their siesta in Paradise, and they will be fed the liver of a whale and they will all eat their fill. This day you shall be recompensed with the torment of degradation because of what you used to utter against Allah other than the truth.
-
-**Classical tafsir:** Ibn Kathir notes: This day you shall be recompensed with the torment of degradation because of what you used to utter against Allah other than the truth.
-
-**From the Sunnah:** Paradise which you have been promised! We have been your friends in the life of this world and are (so) in the Hereafter. (authentic hadith) this referred to the words of the idolators.
 ## Personal Reflections
-
 

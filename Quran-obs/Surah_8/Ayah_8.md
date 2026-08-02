@@ -115,13 +115,5 @@ In this verse, Muslims seeking to overcome an unarmed group have been warned tha
 
 So that the truth would stand firm and falsehood be uprooted, even if those steeped in wrongdoing hated it.
 
-## AI Tafsir
-
-**What this ayah teaches:** But, Allah Ta` ala intended it to be otherwise so that the real objective of Islam stands achieved, that is, truth gets to be established as the ultimate truth and the very root of those who reject the truth is cut off.
-
-**Classical tafsir:** Ibn Kathir notes: This is because the majority of the people with him then were the Ansar.
-
-**From the Sunnah:** As your Lord caused you to go out from your home with the truth; and verily, a party among the believers disliked it (5)Disputing with you concerning the truth after it was made manifest, as if they were being driven to death, while they were looking (at it)(6… The people started mobilizing Muslims, although some of them did not mobilize, thinking that the Prophet ﷺ would not have to fight.
 ## Personal Reflections
-
 

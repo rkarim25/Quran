@@ -104,13 +104,5 @@ As for the third probability, that the blessings of Jannah may remain everlastin
 
 So travel with your family in the dark of night, and follow closely behind them. Do not let any of you look back, and go where you are commanded.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Lut is ordered to leave with His Family during the Night Allah tells us that His angels ordered Lut to set out after part of the night had passed. They told him to walk behind them, to protect them.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** Similarly, the Messenger of Allah ﷺ would walk in the rear of the army on military campaigns, in order to help the weak and carry those who had no means of transport.
 ## Personal Reflections
-
 

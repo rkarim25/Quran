@@ -196,13 +196,5 @@ The word hisaban has two meanings: [ 1] a grant [ that is ] sufficient [ and ] a
 
 a generous reward from your Rabb,
 
-## AI Tafsir
-
-**What this ayah teaches:** The blessings of Paradise described above is the reward of the believers and is an abundant grant from their Lord.
-
-**Classical tafsir:** Ibn Kathir notes: He explains that He is the ar-Rahman, Whose mercy covers all things.
-
-**From the Sunnah:** Paradise described above is the reward of the believers and is an abundant grant from their Lord.
 ## Personal Reflections
-
 

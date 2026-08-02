@@ -86,13 +86,5 @@ This being the wise arrangement of things, let him not grieve. The better course
 
 Indeed, the residents of the Stone Valley also denied the messengers.
 
-## AI Tafsir
-
-**What this ayah teaches:** Also present there is the consequence of not doing so, after the argument of Allah stands established, that the defaulter be punished.
-
-**Classical tafsir:** Ibn Kathir notes: Some commentators say that there was a dense forest near Madyan, therefore, Aikah is actually the title of the people of Madyan.
-
-**From the Sunnah:** This could be seen from their work in the houses in the Al-Hijr through which the Messenger of Allah ﷺ passed on his way to Tabuk.
 ## Personal Reflections
-
 

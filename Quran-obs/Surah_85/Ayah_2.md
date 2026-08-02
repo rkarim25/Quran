@@ -186,15 +186,5 @@ Ibn Kathir, with reference to Ibn Abi Hatim, writes that the incidents of 'trenc
 
 by the promised Day of Judgment,
 
-## AI Tafsir
-
-**Context:** Then, after Ibn Ishaq explained that the people of Najran began following the religion of the boy after his murder, which was the religion of Christianity, he said, "Then (the king) Dhu Nuwas came to them with his army a…
-
-**What this ayah teaches:** He further states that the incident the Qur'an refers to here in Surah Buruj is the first one that occurred in Najran, the trench of the kingdom of Yemen, because that was in Arabia. By the heaven holding the Buruj.)(2.
-
-**Classical tafsir:** Ibn Kathir notes: He further states that the incident the Qur'an refers to here in Surah Buruj is the first one that occurred in Najran, the trench of the kingdom of Yemen, because that was in Arabia.
-
-**From the Sunnah:** During it there is an hour that no Muslim servant catches while asking Allah from some good except that Allah will give it to him.
 ## Personal Reflections
-
 

@@ -88,13 +88,5 @@ The opening sentence of verse 80: وَأَمَّا الْغُلَامُ (As for 
 
 “And as for the boy, his parents were true believers, and we feared that he would pressure them into defiance and rejection of the truth.
 
-## AI Tafsir
-
-**What this ayah teaches:** And when he took to infidelity as a young man, he would not only become a live trial for the parents but would also endanger the very faith of his parents because of their love for him.
-
-**Classical tafsir:** Ibn Kathir notes: And when he took to infidelity as a young man, he would not only become a live trial for the parents but would also endanger the very faith of his parents because of their love for him.
-
-**From the Sunnah:** Ibn 'Abbas narrated from Ubayy bin Ka'b that the Prophet ﷺ said:
 ## Personal Reflections
-
 

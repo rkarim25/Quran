@@ -88,11 +88,5 @@ Commentary
 
 Ta-Sin-Mim — opening letters whose full meaning rests with Allah.
 
-## AI Tafsir
-
-**What this ayah teaches:** So Fir'awn took precautions against that happening, by ordering that all boys born to the Children of Israel should be killed, but this precaution did not protect him against the divine decree, because when the term of Allah comes, it cannot be delayed, and for each and every matter there is a decree from Allah.
-
-**Classical tafsir:** Ibn Kathir notes: Word Haram is derived from Tahrim, which means "to prohibit" and also means "complete respect and veneration", and because of this respect and veneration whatever special religious prohibitions are applicable to Makkah and its surrounding land are also included in it.
 ## Personal Reflections
-
 

@@ -199,13 +199,5 @@ Said in the last sentence of the verse (4) was: إِنَّ فِي ذَٰلِكَ
 
 On the earth are neighbouring tracts—vineyards, diverse crops, palm trees in shared and separate clusters—all watered by the same rain, yet We make some taste better than others. In this are signs for people who understand.
 
-## AI Tafsir
-
-**What this ayah teaches:** All this indicates the existence of the Creator Who does what He wills, there is no deity or lord except Him.
-
-**Classical tafsir:** Ibn Kathir notes: All this indicates the existence of the Creator Who does what He wills, there is no deity or lord except Him.
-
-**From the Sunnah:** This meaning was collected from Ibn 'Abbas, Mujahid, Sa'id bin Jubayr, Ad-Dahhak and several others. There is an authentic Hadith that states that the Messenger of Allah ﷺ said to 'Umar bin Al-Khattab, (authentic hadith)
 ## Personal Reflections
-
 

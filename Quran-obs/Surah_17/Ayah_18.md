@@ -135,11 +135,5 @@ The first condition can only be that of a denier of the Hereafter, therefore, no
 
 Whoever desires this fleeting world alone, We hasten in it whatever We please to whoever We will; then We destine them for Hell, where they will burn, condemned and rejected.
 
-## AI Tafsir
-
-**What this ayah teaches:** Then, afterwards, We have appointed for him Hell; he will burn therein disgraced and rejected (18)And whoever desires the Hereafter and strives for it, with the necessary effort due for it while he is a believer, then such are the ones whose striving shall be appreciated, (rewarded by Allah).
-
-**Classical tafsir:** Ibn Kathir notes: These words signify continuity and permanence meaning that this punishment of Hell will materialize only when one's actions are all the time motivated by material interests only, having practically no concern for the Hereafter.
 ## Personal Reflections
-
 

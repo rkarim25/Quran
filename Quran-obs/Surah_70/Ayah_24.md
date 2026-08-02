@@ -150,13 +150,5 @@ Rates of Zakah are Specified by Allah
 
 consistently performing their salah,
 
-## AI Tafsir
-
-**What this ayah teaches:** For the one who asks, and for the deprived.) meaning, in their wealth is a determined portion for those who are in need.
-
-**Classical tafsir:** Ibn Kathir notes: It has also been said that the meaning here refers to those who perform a deed and are constant in its performance and consistent in it.
-
-**From the Sunnah:** This is like what is reported in the authentic Hadith, (authentic hadith)
 ## Personal Reflections
-
 

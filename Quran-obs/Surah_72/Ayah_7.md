@@ -183,13 +183,5 @@ Having narrated this story, Sayyidna Said Ibn Jubair ؓ said that the following 
 
 Those humans thought, as you jinn did, that Allah would never resurrect anyone for judgment.
 
-## AI Tafsir
-
-**Context:** (1. Say: "It has been revealed to me that a group of Jinn listened. They said: 'Verily, we have heard a wonderful Recitation!')(2.
-
-**What this ayah teaches:** 'And verily, there were men among mankind who took shelter with the males among the Jinn, but they increased them in Rahaq.')(7. They used to seek refuge with the greatest Jinn of a particular place so that no harm or evil would afflict them.
-
-**Classical tafsir:** Ibn Kathir notes: Then he would say, 'I seek refuge with the master (Jinn) of this valley from the Jinns, or that myself, my wealth, my child or my animals are harmed in it.'" Qatadah said, "When they sought refuge with them instead of Allah, the Jinns would overcome them with harm because of that." Ibn Abi Hatim rec… This means that when the Jinns accepted Islam and believed in the Qur'an they professed Allah's magn…
 ## Personal Reflections
-
 

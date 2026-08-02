@@ -214,13 +214,5 @@ Sayyidna Abu Hurairah and Ibn ` Abbas ؓ report that whenever the Holy Prophet �
 
 Then inspired it with awareness of wrong and right—conscience and the capacity to choose are built into you.
 
-## AI Tafsir
-
-**What this ayah teaches:** In other words, in his make-up Allah has built in him a special ability to choose freely the righteous path or the sinful path.
-
-**Classical tafsir:** Ibn Kathir notes: This is as Qatadah said, "He cleanses it from the lowly and despicable characteristics." Similar to this has been reported from Mujahid, 'Ikrimah and Sa'id bin Jubayr. This means that He clarified that for it and He guided it to what has been ordained for him.
-
-**From the Sunnah:** Both Al-Bukhari and Muslim recorded this Hadith from Abu Hurayrah. (Sahih al-Bukhari, Sahih Muslim) I only asked you about that in order to inform you that a man from Muzaynah or Juhaynah tribe came to the Allah's Messenger ﷺ and asked him:
 ## Personal Reflections
-
 

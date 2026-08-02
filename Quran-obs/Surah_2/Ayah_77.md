@@ -153,15 +153,5 @@ Verse 78 says that the illiterate Jews follow their Zann ظن ، that is to say,
 
 Do they not know that Allah knows what they conceal and what they reveal?
 
-## AI Tafsir
-
-**Essence** No two-faced game survives before Allah, who knows what hearts hide and tongues declare alike.
-
-**What it teaches** What they kept secret (ma yusirrun) and what they made public (ma yu'linun) lay equally open to Allah — saying "we believe" while suppressing the truth gained them nothing.
-
-**The scholars** Ibn Kathir cites Abu al-'Aliyah and Qatadah: the secret was their denial of Muhammad ﷺ though they found his coming recorded in their Book; al-Hasan al-Basri adds they privately forbade one another from telling his Companions, lest it become a proof against them before their Lord; the public face was "We believe" (Abu al-'Aliyah, ar-Rabi', Qatadah). Maarif ul-Quran: the verse addresses their learned men — Allah had already told the Muslims of their hypocrisy and the Torah's testimony, so concealment was futile.
-
-**Reflection** Keep your private self one you would not fear to show before Allah.
 ## Personal Reflections
-
 

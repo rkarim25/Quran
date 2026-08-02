@@ -141,11 +141,5 @@ The word: خَلَائِفَ (khala'if) in verse 39: هُوَ الَّذِي ج�
 
 He placed you as successors on earth. Whoever rejects the truth bears the burden of their own rejection. Their denial only increases them in contempt before their Lord and adds to their loss.
 
-## AI Tafsir
-
-**What this ayah teaches:** Here Allah tells us that He knows the unseen in the heavens and earth, and that He knows all that is hidden and the secrets of the hearts.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

@@ -98,11 +98,5 @@ Sayyidna Salih (علیہ السلام) warned them: If Allah Ta` ala shows you y
 
 That was ’Âd. They denied the signs of their Rabb, disobeyed His messengers, and followed the command of every stubborn tyrant.
 
-## AI Tafsir
-
-**What this ayah teaches:** Surely, my Lord is Guardian over all things (57)And when Our commandment came, We saved Hud and those who believed with him by a mercy from Us, and We saved them from a severe torment (58)Such were [the people of] 'Ad.
-
-**Classical tafsir:** Ibn Kathir notes: They rejected the Ayat of their Lord) This means they disbelieved in the proofs and revelations (of Allah) and they disobeyed the Messengers of Allah.
 ## Personal Reflections
-
 

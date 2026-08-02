@@ -87,17 +87,5 @@ The implication of Verse 118 was that those who persisted in their denial of the
 
 We have sent you with the truth as a bearer of good news and a warner. You will not be asked about the people of the Fire.
 
-## AI Tafsir
-
-**Essence** Allah sent the Prophet Muhammad ﷺ with the truth to bear good news and to warn; his task is only to deliver the message, and he is not answerable for those who reject it.
-
-**What it teaches** The Prophet ﷺ was sent bil-haqq (with the truth, Islam): as a *bashir*, a bearer of glad tidings for those who believe — that they enter Paradise — and a *nadhir*, a warner to those who disbelieve — that they enter the Hellfire. "You will not be asked about the dwellers of the blazing Fire" means he is not held accountable for the disbelief of those who reject him.
-
-**The scholars** Ibn Kathir reads this as "We shall not ask you about the disbelief of those who rejected you," pairing it with "Your duty is only to convey, and on Us is the reckoning" (13:40). Maarif ul Quran calls the ayah Allah's consolation after verse 118: grieved that the deniers were incorrigible, the Prophet ﷺ is reminded his role is twofold — glad tidings and warning — and he must keep performing it without worrying who accepts, for the reckoning belongs to Allah alone.
-
-**From the Sunnah** Imam Ahmad recorded, via Ata bin Yasar from Abdullah bin Amr bin Al-As, that the Torah described the Prophet ﷺ with the same characteristics as the Qur'an: a witness, a bringer of good news, a warner, and a safe refuge for the unlettered. Allah named him the Mutawakkil — the one who relies on Allah for everything — not harsh, nor hard, nor obnoxious in the bazaars; he does not return an evil deed with an evil deed but forgives and pardons. Allah would not end his life until He straightened the religion of the wicked by his hands, so that people proclaim there is no deity worthy of worship except Allah; and by his hands Allah would open blind eyes, deaf ears, and sealed hearts. (Recorded by Al-Bukhari only.)
-
-**Reflection** Carry the message faithfully and leave the hearts of others to Allah.
 ## Personal Reflections
-
 

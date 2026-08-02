@@ -193,13 +193,5 @@ things he is given the good tiding of فَأُولَـٰئِكَ هُمُ الْ
 
 Say, “Obey Allah and obey the Messenger. But if you turn away, then he is only responsible for his duty and you are responsible for yours. And if you obey him, you will be rightly guided. The Messenger’s duty is only to deliver the message clearly.”
 
-## AI Tafsir
-
-**What this ayah teaches:** The Messenger's duty is only to convey (the Message) in a clear way.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** But lately he had heard a verse of the Holy Qur'an recited by a Muslim prisoner and realized that in that small verse all the older books have been condensed. (Sahih Muslim)
 ## Personal Reflections
-
 

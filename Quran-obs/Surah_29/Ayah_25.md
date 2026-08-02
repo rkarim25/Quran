@@ -183,11 +183,5 @@ The infidels of Makkah believed that it is Allah who has created the whole unive
 
 He told them: You took idols instead of Allah only to preserve worldly harmony among yourselves. On Judgment Day you will disown and curse one another. Your home is the Fire, and you have no helper.
 
-## AI Tafsir
-
-**What this ayah teaches:** Then verse 20 has induced them to look around them to appreciate the splendors of the creation, so that they may apprehend that the One who has originated this marvelous creation can easily repeat the process. So nothing was the answer of people except that they said: "Kill him or burn him." Then Allah saved him from the fire.
-
-**Classical tafsir:** Ibn Kathir notes: Then verse 20 has induced them to look around them to appreciate the splendors of the creation, so that they may apprehend that the One who has originated this marvelous creation can easily repeat the process.
 ## Personal Reflections
-
 

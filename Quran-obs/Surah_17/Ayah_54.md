@@ -152,13 +152,5 @@ And according to the interpretation of Imam al-Qurtubi, this verse contains a gu
 
 Your Rabb knows you best. He may have mercy on you if He wills, or punish you if He wills. We have not sent you O Prophet as a keeper over them.
 
-## AI Tafsir
-
-**Context:** (He has ordained for you the same religion which He ordained for Nuh, and that which We have revealed to you, and that which We ordained for Ibrahim, Musa and 'Isa saying you should establish religion and make no divisio…
-
-**What this ayah teaches:** Lord knows you best; if He wills, He will have mercy on you, or if He wills, He will punish you. And We have not sent you as a guardian over them (54)And your Lord knows best all who are in the heavens and the earth.
-
-**Classical tafsir:** Ibn Kathir notes: Since it is possible to suppress the aggressive might of those who reject the truth and their hostility to Islam through fighting and killing (as an inevitable measure of defense), therefore, it is allowed.
 ## Personal Reflections
-
 

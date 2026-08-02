@@ -110,11 +110,5 @@ It was said in verse أَثُمَّ إِذَا مَا وَقَعَ آمَنتُ�
 
 Will you believe in it only after it has overtaken you? Now? But you always wanted to hasten it!”
 
-## AI Tafsir
-
-**What this ayah teaches:** It means: ` Would you believe when Divine punishment actually descends down upon you - whether at the time of death, or even before it? For every Ummah, there is a term appointed; when their term comes, neither can they delay it nor can they advance it an hour (or a moment).
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, the punishment was withdrawn.
 ## Personal Reflections
-
 

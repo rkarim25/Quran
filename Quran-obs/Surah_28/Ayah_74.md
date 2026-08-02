@@ -80,11 +80,5 @@ A question that will be asked from the infidels on the Day of Judgment to repeat
 
 And watch for the Day He will call to them, “Where are those you claimed were My claimed gods?”
 
-## AI Tafsir
-
-**What this ayah teaches:** Rebuking the Idolators This is another call by way of rebuke for those who worshipped other gods besides Allah.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

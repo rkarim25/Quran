@@ -113,11 +113,5 @@ This method of prophetic call, good counsel and good-mannered debate - in line w
 
 Say: "You are not accountable for our wrongdoing, and we are not accountable for yours."
 
-## AI Tafsir
-
-**What this ayah teaches:** In their presence, no sensible person could say that tauhid (Oneness of Allah or pure monotheism) and shirk (the attribution of partners in the pristine divinity of Allah) are equally true and that the adherents of both are following the truth. I worship not that which you worship, Nor will you worship that which I worship.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

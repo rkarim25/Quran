@@ -220,13 +220,5 @@ Ibn Kathir, with reference to Ibn Abi Hatim, writes that the incidents of 'trenc
 
 to Whom belongs the kingdom of heavens and earth. Allah is Witness over all things.
 
-## AI Tafsir
-
-**Context:** Then, after Ibn Ishaq explained that the people of Najran began following the religion of the boy after his murder, which was the religion of Christianity, he said, "Then (the king) Dhu Nuwas came to them with his army a…
-
-**What this ayah teaches:** He further states that the incident the Qur'an refers to here in Surah Buruj is the first one that occurred in Najran, the trench of the kingdom of Yemen, because that was in Arabia. And they had no fault except that they believed in Allah, the Almighty, Worthy of all praise!)(9.
-
-**Classical tafsir:** Ibn Kathir notes: He further states that the incident the Qur'an refers to here in Surah Buruj is the first one that occurred in Najran, the trench of the kingdom of Yemen, because that was in Arabia.
 ## Personal Reflections
-
 

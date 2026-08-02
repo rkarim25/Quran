@@ -150,15 +150,5 @@ Ends here
 
 Except those who carry true iman—not mere opinion but trust that reshapes how they live; who do righteous deeds that help real people; who keep urging one another toward haqq, what is objectively true in a world drowning in spin; and who keep urging one another to sabr—the steadfast endurance that keeps you upright when progress is slow and pain is real.
 
-## AI Tafsir
-
-**Context:** They have mentioned that 'Amr bin Al-'As went to visit Musaylimah Al-Kadhdhab after the Messenger of Allah ﷺ was commissioned (as a Prophet) and before 'Amr had accepted Islam.
-
-**What this ayah teaches:** In this Surah, Allah swears an oath by the 'Time' and says that mankind is in a state of loss; exception, however, is made of people who are characterized by four qualities: [ 1] faith; [ 2] righteous deeds; [ 3] advising each other for Truth; and [ 4] advising each other for patience.
-
-**Classical tafsir:** Ibn Kathir notes: The term wasiyyah also refers to a 'will or testament' where a testator advises his executor regarding the disposal of his estate on his death.
-
-**From the Sunnah:** They have mentioned that 'Amr bin Al-'As went to visit Musaylimah Al-Kadhdhab after the Messenger of Allah ﷺ was commissioned (as a Prophet) and before 'Amr had accepted Islam.
 ## Personal Reflections
-
 

@@ -126,13 +126,5 @@ Here Allah mentions the benefits He has given to His servants in cattle, for the
 
 as well as olive trees which grow at Mount Sinai, providing oil and a condiment to eat.
 
-## AI Tafsir
-
-**What this ayah teaches:** Mount Sinai is the same as Tur Sinin, and it is the mountain on which Allah spoke to Musa bin 'Imran, peace be upon him, and in the surrounding mountains there are olive trees.
-
-**Classical tafsir:** Ibn Kathir notes: The water brings the red soil which is used to irrigate the land of Egypt, and whatever of it is deposited is used for agriculture, because the land of Egypt is infertile, and most of it is sand.
-
-**From the Sunnah:** Abd bin Humayd recorded in his Musnad and Tafsir from 'Umar that the Messenger of Allah ﷺ said:
 ## Personal Reflections
-
 

@@ -157,13 +157,5 @@ When the verse cited above was revealed, the noble Companions submitted: Ya Rasu
 
 Those who live with taqwa will not be accountable for those whatsoever—their duty is to advise, so perhaps the ridiculers will abstain.
 
-## AI Tafsir
-
-**Context:** (And it has already been revealed to you in the Book that when you hear the Verses of Allah being denied and mocked at, then sit not with them, until they engage in a talk other than that; (but if you stayed with them) c…
-
-**What this ayah teaches:** And if Shaytan causes you to forget, then after the remembrance, sit not you in the company of those people who are the wrongdoers (68)There is no responsibility for them upon those who have Taqwa, but (their duty) is to remind them, that they may (attain) Taqwa .
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

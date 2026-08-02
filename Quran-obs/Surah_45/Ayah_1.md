@@ -68,11 +68,5 @@ ends here.
 
 These opening letters—known as the muqatta'at—are among the signs whose full meaning Allah kept with Himself. They open the surah by reminding the reader that this Book is from beyond human authorship: approach it with humility, not arrogance.
 
-## AI Tafsir
-
-**What this ayah teaches:** In other words, they shall suffer no death other than the first death which they had encountered at the end of their lives in this world.
-
-**Classical tafsir:** Ibn Kathir notes: In other words, they shall suffer no death other than the first death which they had encountered at the end of their lives in this world.
 ## Personal Reflections
-
 

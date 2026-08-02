@@ -113,13 +113,5 @@ When Sayyidna Ibrahim I appeared, Allah Ta’ ala blessed him with a Shari'ah an
 
 Honouring the Sabbath was ordained only for those who disputed about Abraham. And surely your Rabb will judge between them on the Day of Judgment regarding their disputes.
 
-## AI Tafsir
-
-**What this ayah teaches:** The Prescription of the Sabbath for the Jews There is no doubt that for every nation, Allah prescribed one day of the week for people to gather to worship Him.
-
-**Classical tafsir:** Ibn Kathir notes: For this Ummah He prescribed Friday, because it is the sixth day, on which Allah completed and perfected His creation.
-
-**From the Sunnah:** It was reported in the Two Sahihs that Abu Hurayrah heard the Messenger of Allah ﷺ say: the Messenger of Allah ﷺ said: (Sahih al-Bukhari)
 ## Personal Reflections
-
 

@@ -193,15 +193,5 @@ The verse further goes on to remind man of the inceptive stages of his creation.
 
 O humanity—what has made you bold against your Rabb, the Most Generous,
 
-## AI Tafsir
-
-**Context:** Al-Baghawi mentioned that Al-Kalbi and Muqatil said, "This Ayah was revealed about Al-Aswad bin Shariq who struck the Prophet ﷺ and he was not punished in retaliation. So Allah revealed,
-
-**What this ayah teaches:** What has made you careless about your Lord, the Most Generous?) This is a threat.
-
-**Classical tafsir:** Ibn Kathir notes: A person will know what he has sent forward and left behind.)(6.
-
-**From the Sunnah:** from Jabir that Mu'adh stood and lead the people in the Night prayer, and he made the recitation of his prayer long. (Sunan an-Nasa'i) from Busr bin Jahhash Al-Qurashi that one day the Messenger of Allah ﷺ spat in his palm and placed his finger on it. (Musnad Ahmad)
 ## Personal Reflections
-
 

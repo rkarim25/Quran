@@ -66,11 +66,5 @@ In verse 65, it was said: تَمَتَّعُوا فِي دَارِ‌كُمْ ث
 
 But they killed her, so he warned them, “You have only three more days to enjoy life in your homes—this is an unfailing promise!”
 
-## AI Tafsir
-
-**What this ayah teaches:** As warned earlier, ` lest a near punishment should seize you - 64', the punishment did come upon them in a manner that they were given a respite of three days and told that they all will be destroyed on the fourth day.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

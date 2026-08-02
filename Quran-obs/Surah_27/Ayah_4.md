@@ -134,11 +134,5 @@ However, the first interpretation looks more appropriate and straightforward. In
 
 As for those who do not believe in the Akhirah, We have certainly made their evil deeds appealing to them, so they wander blindly.
 
-## AI Tafsir
-
-**What this ayah teaches:** Some commentators have interpreted that "their deeds" is used in this verse for good deeds.
-
-**Classical tafsir:** Ibn Kathir notes: Those who perform the Salah and give the Zakah and they believe with certainty in the Hereafter.)(4.
 ## Personal Reflections
-
 

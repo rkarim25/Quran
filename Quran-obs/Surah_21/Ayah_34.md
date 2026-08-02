@@ -110,11 +110,5 @@ If an enemy dies, it is not to be rejoiced, because our own life is not eternal.
 
 We have not granted immortality to any human before you O Prophet: so if you die, will they live forever?
 
-## AI Tafsir
-
-**What this ayah teaches:** And We granted not to any human being immortality before you; then if you die, would they live forever (34)Everyone is going to taste death, and We shall test you with evil and with good by way of trial.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

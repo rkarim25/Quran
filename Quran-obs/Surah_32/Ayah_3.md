@@ -153,11 +153,5 @@ All three verses cited above carry an affirmation of the veracity of the Qur'an 
 
 Do they say he invented it? No — it is the truth from your Rabb, so you may warn a people no warner reached before you, that they may be guided.
 
-## AI Tafsir
-
-**What this ayah teaches:** Or say they: "He has fabricated it?" Nay, it is the truth from your Lord, so that you may warn a people to whom no warner has come before you, in order that they may be guided.) The Qur'an is the Book of Allah in which there is no Doubt We discussed the individual letters at the beginning of Surat Al-Baqarah, and there is no need to repeat it here.
-
-**Classical tafsir:** Ibn Kathir notes: The revelation of the Book in which there is no doubt, is from the Lord of all that exists.)(3.
 ## Personal Reflections
-
 

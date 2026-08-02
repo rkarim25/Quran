@@ -152,13 +152,5 @@ If impediments mentioned above do not exist, one can speak about one's trait of 
 
 See how they fabricate lies against Allah—this alone is a blatant sin.
 
-## AI Tafsir
-
-**Context:** (Have you not seen those who claim sanctity for themselves?) was revealed about the Jews and Christians when they said, 'We are Allah's children and His loved ones.'" Ibn Zayd also said, "This Ayah was revealed concernin…
-
-**What this ayah teaches:** Nay, but Allah sanctifies whom He wills, and they will not be dealt with injustice even equal to the extent of a 'Fatīl' (49)Look, how they invent a lie against Allah, and enough is that as a manifest sin (50)Have you not seen those who were given a portion of the Scripture?
-
-**Classical tafsir:** Ibn Kathir notes: Allah's Curse on the Jews This Ayah [4:52] contains a curse for the Jews and informs them that they have no supporter in this life or the Hereafter, because they sought the help of the idolators.
 ## Personal Reflections
-
 

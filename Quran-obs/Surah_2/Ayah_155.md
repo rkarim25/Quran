@@ -172,17 +172,5 @@ By the words, " لَّا تَشْعُرُ‌ونَ ": "you perceive not", the Ho
 
 We will surely test you with something of fear, hunger, loss of wealth, lives, and crops. Give good news to those who endure patiently —
 
-## AI Tafsir
-
-**Essence** Allah will surely test His servants with measured loss, and the patient who answer with "Truly, to Allah we belong and to Him we return" are met with His blessings, mercy, and guidance.
-
-**What it teaches** The ayah promises a certain trial — "something of" (bishay'in min) fear, hunger, and loss of wealth, lives, and fruits — which Ibn Kathir reads as a little of each, never beyond what the servant can bear; the glad tidings (bushra) are reserved for As-Sabirin, the patient, whom Ibn Kathir defines not by a feeling but by an act: those who, when calamity strikes, answer with istirja'.
-
-**The scholars** Ibn Kathir explains that Allah tries His servants sometimes with bounty and sometimes with hardship, and that the partitive "something of" signals a measured portion: some wealth destroyed, the death of friends, relatives, and loved ones, and gardens and farms that fail to yield their usual harvest. He notes that elsewhere Allah clothes a people in "the garment (libas) of hunger and fear," because the frightened and the hungry wear their affliction outwardly. The patient are then defined by the words of istirja' in 2:156 — those who, knowing they belong to Allah and that He does as He wills, and that not even an atom's weight of any deed is lost with Him on the Day of Resurrection, return everything to Him. Sa'id bin Jubayr glossed the promised "mercy" as safety from the torment, and 'Umar bin al-Khattab, marveling "What righteous things, and what great heights," explained that the blessings and mercy (Salawat wa rahmah) are the "two righteous things" while being among the guided ones is "the heights" — more reward upon reward. Maarif ul Quran adds that this passage gives precedence to the sacrifice of life in Allah's cause: whoever patiently endures that greatest loss will surely learn patience in lesser ones. Launching from this verse, it expounds the Islamic teaching that the martyrs (shuhada') and, more fully still, Allah's prophets are given a heightened, real life in al-Barzakh — the intermediary stage between death and the Day of Resurrection — a life that, in the Qur'an's own words "you perceive not," transcending our sensory perception.
-
-**From the Sunnah** No Muslim struck by an affliction who says istirja' and then prays, "O Allah, reward me for my loss and give me what is better than it," except that Allah does exactly that for him. Umm Salamah lived this: when Abu Salamah died she said these words, and Allah compensated her with the Messenger of Allah (peace be upon him) himself. (Musnad Ahmad — a shorter version reported by Muslim)
-
-**Reflection** When loss comes, meet it with "Inna lillahi wa inna ilayhi raji'un" and ask Allah for what is better — trusting that nothing surrendered to Him is ever truly lost.
 ## Personal Reflections
-
 

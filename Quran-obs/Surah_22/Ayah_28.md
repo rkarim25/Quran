@@ -202,13 +202,5 @@ Specially during the period of Hajj, and generally at other times too situations
 
 so they may obtain the benefits in store for them, and pronounce the Name of Allah on appointed days over the sacrificial animals He has provided for them. So eat from their meat and feed the desperately poor.
 
-## AI Tafsir
-
-**What this ayah teaches:** Here it is important to bear in mind that the main object of sacrificing the animals on this occasion is not their meat, but the mention of Allah's name which is recited while the animal is being slaughtered, which is the essence of the worship.
-
-**Classical tafsir:** Ibn Kathir notes: When he came back from Mina on the day of Sacrifice, he began with stoning the Jamrah, stoning it with seven pebbles, then he offered his sacrifice and shaved his head, then he departed and circumambulated the House." In the Two Sahihs it was recorded that Ibn 'Abbas said, "The people were commanded… It was recorded that 'Ikrimah said, "It was called Al-Bayt Al-'Atiq because it survived (U'tiqa) fro…
-
-**From the Sunnah:** this with a disconnected chain in a manner denoting his approval of it. (Sahih al-Bukhari) from Ibn 'Abbas that the Prophet ﷺ said: (Sahih al-Bukhari)
 ## Personal Reflections
-
 

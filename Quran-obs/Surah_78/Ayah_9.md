@@ -182,11 +182,5 @@ After mentioning in verse [ 8] that Allah has created mankind in pairs, Allah Ta
 
 made sleep a rest for you,
 
-## AI Tafsir
-
-**What this ayah teaches:** Sleep is something that cuts off the worries and tensions one may have, and thus gives him such a rest that cannot be attained from anything else.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, some scholars translate the word subat as 'rest'.
 ## Personal Reflections
-
 

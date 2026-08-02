@@ -184,11 +184,5 @@ Ends here
 
 Their reward with their Lord is Gardens of eternity with rivers flowing beneath—abiding forever. Allah is pleased with them and they are pleased with Him. That is for whoever holds taqwa before his Lord.
 
-## AI Tafsir
-
-**What this ayah teaches:** They are the worst of creatures (6)Verily, those who believe and do righteous good deeds, they are the best of creatures (7)Their reward with their Lord is Eternal Gardens, underneath which rivers flow.
-
-**Classical tafsir:** Ibn Kathir notes: This means that they will remain in it and they will have no way out of it and they will not cease being in it.
 ## Personal Reflections
-
 

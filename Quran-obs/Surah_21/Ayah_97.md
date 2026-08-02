@@ -223,13 +223,5 @@ Here the word فُتِحَت (released) is used for Ya'juj Ma'juj which means to
 
 ushering in the True Promise. Then—behold!—those who reject the truth will stare in horror, crying, “Oh, woe to us! We have truly been heedless of this. In fact, we have been wrongdoers.”
 
-## AI Tafsir
-
-**What this ayah teaches:** And the promise of my Lord is ever true.
-
-**Classical tafsir:** Ibn Kathir notes: The phrase "until the Ya'juj and Ma'juj appear", really means that such people will never return, because the appearance of Ya'juj and Ma'juj will be a sign of near approach of the Dooms Day.
-
-**From the Sunnah:** Ibn Jarir narrated that 'Ubaydullah bin Abi Yazid said, "Ibn 'Abbas saw some young boys playing and pouncing on one another, and said, this is how Ya'juj and Ma'juj will emerge." Their emergence has been described in numerous Hadiths of the Prophet ﷺ. They will overwhelm the people, and the Muslims will retreat to their cities and strongholds, bringing their flocks with them. (Sunan Ibn Majah)
 ## Personal Reflections
-
 

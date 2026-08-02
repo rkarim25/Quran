@@ -70,11 +70,5 @@ The sum and substance of this story is that Dhul-Kifl was the deputy of Prophet 
 
 And remember Ishmael, Enoch, and Ⱬul-Kifl. They were all steadfast.
 
-## AI Tafsir
-
-**What this ayah teaches:** From the context and the fact that Dhul-Kifl is mentioned alongside Prophets, it appears that he was also a Prophet.
-
-**Classical tafsir:** Ibn Kathir notes: Even if the tradition is true, it mentioned the name as Kifl and not Dhul-Kifl, which means he was some other person.
 ## Personal Reflections
-
 

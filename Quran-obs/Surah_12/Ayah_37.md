@@ -168,11 +168,5 @@ Yusuf, peace be upon him, told the two men that he has knowledge in the interpre
 
 Joseph replied, “I can even tell you what kind of meal you will be served before you receive it. This knowledge is from what my Rabb has taught me. I have shunned the faith of a people who reject the truth in Allah and deny the Akhirah — the everlasting life after death.
 
-## AI Tafsir
-
-**What this ayah teaches:** Yusuf calls His Jail Mates to Tawhid even before He interprets Their Dreams Yusuf, peace be upon him, told the two men that he has knowledge in the interpretation of whatever they saw in their dream, and that he will tell them about the interpretation of the dreams before they become a reality.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

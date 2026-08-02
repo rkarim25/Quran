@@ -140,15 +140,5 @@ word jamm means 'excessive'. This verse refers to the fourth evil trait of the u
 
 Enough! When the earth is crushed, ground repeatedly to dust—
 
-## AI Tafsir
-
-**Context:** He said, "This Ayah was revealed while Abu Bakr was sitting (with the Prophet ﷺ). So he said, 'O Messenger of Allah! There is nothing better than this!' The Prophet ﷺ then replied,
-
-**What this ayah teaches:** When the earth is flatened, Dakkan Dakka (21)And your Lord comes with the angels in rows (22)And Hell will be brought near that Day.
-
-**Classical tafsir:** Ibn Kathir notes: The word 'excessive' indicates that love of wealth in itself, in a sober sense, is a natural instinct of man.
-
-**From the Sunnah:** This is similar to what Imam Ahmad bin Hanbal recorded from Muhammad bin Abi 'Amirah, who was one of the Companions of the Messenger of Allah ﷺ. (Musnad Ahmad)
 ## Personal Reflections
-
 

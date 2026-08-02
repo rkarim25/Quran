@@ -187,13 +187,5 @@ The word: ذُرِّ‌يَّتَهُ (dhurriyyatah) in verse 50 indicates that 
 
 And remember when We said to the angels, “Prostrate before Adam,” so they all did—but not Iblîs, who was one of the jinn, but he rebelled against the command of his Rabb. Would you then take him and his descendants as patrons instead of Me, although they are your enemy? What an evil alternative for the wrongdoers to choose!
 
-## AI Tafsir
-
-**What this ayah teaches:** And (remember) when We said to the angels: "Prostrate yourselves unto Adam." So they prostrated themselves, except Iblis.
-
-**Classical tafsir:** Ibn Kathir notes: According to his narration, the Holy Prophet ﷺ told him, "do not become like those who are the first to enter the bazaar (shopping centre), or those who are the last to leave it, for the bazaar is a place where the Shaitan has his eggs and offspring laid around." This would indic…
-
-**From the Sunnah:** He had been created from smokeless fire, whereas the angels had been created from light, as is stated in Sahih Muslim where it is reported that 'A'ishah, may Allah be pleased with her, said that the Messenger of Allah ﷺ said: (Sahih Muslim)
 ## Personal Reflections
-
 

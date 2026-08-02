@@ -181,11 +181,5 @@ In the last two verses (80, 81), the cultivation of deep friendship with disbeli
 
 Had they believed in Allah, the Prophet, and what has been revealed to him, they would have never taken those as allies. But most of them are rebellious.
 
-## AI Tafsir
-
-**Context:** Those among the Children of Israel who disbelieved were cursed by the tongue of Dawud and 'Isa, son of Maryam. That was because they disobeyed (Allah and the Messengers) and were ever transgressing (beyond the bounds)(78…
-
-**What this ayah teaches:** Evil indeed is that which they have sent forward before themselves; for that (reason) Allah is wrath with them, and in torment they will abide (80)And had they believed in Allah, and in the Prophet and in what has been revealed to him, never would they have taken them as friends; but many of them are rebellious .
 ## Personal Reflections
-
 

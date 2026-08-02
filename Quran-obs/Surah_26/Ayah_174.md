@@ -92,11 +92,5 @@ This verse has confirmed that if a man commits sodomy, he may be punished with t
 
 Surely in this is a sign. Yet most of them would not believe.
 
-## AI Tafsir
-
-**What this ayah teaches:** Lut's Denunciation of His People's Deeds, Their Response and Their Punishment The Prophet of Allah forbade them from committing evil deeds and intercourse with males, and he taught them that they should have intercourse with their wives whom Allah had created for them.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

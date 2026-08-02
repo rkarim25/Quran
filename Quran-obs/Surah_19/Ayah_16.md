@@ -158,11 +158,5 @@ The word انتَبَذَتْ is derived from نَبَذ which means to throw aw
 
 And mention in the Book Mary, when she withdrew from her family to a place in the east,
 
-## AI Tafsir
-
-**What this ayah teaches:** Allah mentioned the story of her mother's pregnancy with her in Surah Āl-'Imrān, and that she (Maryam's mother) dedicated her freely for the service of Allah.
-
-**Classical tafsir:** Ibn Kathir notes: And he will speak to the people, in the cradle and in manhood, and he will be one of the righteous.)[3:45-46] This means that he will call to the worship of his Lord in his cradle and while and adult.
 ## Personal Reflections
-
 

@@ -118,22 +118,5 @@ And a grievous punishment shall await them.
 
 Absolutely! Those who honour their trusts and shun evil—surely Allah loves those who live with taqwa.
 
-## AI Tafsir
-
-**Essence**
-After exposing those who break trust, Allah declares the opposite path: whoever keeps his covenant and lives in taqwa is loved by Allah.
-
-**What it teaches**
-"Bala" (Yes, rather) overturns the People of the Book's claim that betraying the unlettered carries no blame; the believer's way is instead to fulfill his 'ahd (covenant/pledge) and have taqwa, the consciousness of Allah that guards against His prohibitions. The reward named is the highest of all: "Allah loves the Muttaqin" (the people of taqwa).
-
-**The scholars**
-Ibn Kathir explains that the preceding verse (75) warned the faithful about deceitful people among the Jews who, citing "There is no blame on us regarding the illiterates," felt free to consume others' wealth; of them the Qur'an says they "tell a lie against Allah while they know it." This verse answers them: whoever fulfills his pledge and fears Allah — and here, says Ibn Kathir, the address "O People of the Book" includes honoring the covenant Allah took from them to believe in Muhammad (peace be upon him) when sent, as He took from all Prophets and their nations, and adhering to the Shari'ah of His Final Messenger. Ibn Kathir cites the report of a man who asked Ibn 'Abbas about seizing the property of Ahl adh-Dhimmah captured during battle; Ibn 'Abbas answered that this was the very claim of the People of the Book, for once they pay the Jizyah their property is forbidden to you except what they willingly give. Maarif ul Quran sharpens the key term: 'ahd is a bilateral covenant settled between two parties, distinct from wa'dah, a one-sided promise — so the pledge praised here is a binding mutual bond, not a casual word. It notes that verses 76-77 re-assert this refutation while clarifying the merit of keeping commitments and the condemnation for breaking them.
-
-**From the Sunnah**
-Commenting on verse 77's warnings to those who break a pledge, Maarif ul Quran relates: whoever usurps the right of a Muslim by a false oath makes the Fire of Hell binding upon himself; asked whether this holds even for something trivial, the Prophet (peace be upon him) said: even if it be the green bough of a tree. (Sahih Muslim, cited via Mazhari)
-
-**Reflection**
-Guard every trust and pledge as worship, knowing that faithfulness in dealings is a doorway to the love of Allah.
 ## Personal Reflections
-
 

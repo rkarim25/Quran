@@ -110,13 +110,5 @@ The first verse has described the famine with two phrases: 'years of famine' and
 
 Indeed, We afflicted Pharaoh’s people with famine and shortage of crops so they might come back.
 
-## AI Tafsir
-
-**What this ayah teaches:** And indeed We punished the people of Fir'awn with years of drought and lack of fruits (crops), that they might remember (take heed)(130)But whenever good came to them, they said: "This is for us." And if evil afflicted them, they considered it an omen about Musa and those with him.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** Abu Ishaq narrated that Raja' bin Haywah said, "The date tree used to produce only one date!"
 ## Personal Reflections
-
 

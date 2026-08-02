@@ -120,11 +120,5 @@ After having provided proofs of the basic beliefs of Islam, these verses now men
 
 But now they reject it, so they will soon know.
 
-## AI Tafsir
-
-**What this ayah teaches:** Who then does more wrong than one who rejects the Ayat of Allah and turns away therefrom? The time was coming very soon when he will prevail, and his oppressors will be defeated and punished.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

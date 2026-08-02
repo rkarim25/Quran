@@ -204,13 +204,5 @@ This should remove the misunderstanding of those who regard the Jews and Christi
 
 They will never frustrate Allah on earth, and they will have no protector besides Allah. Their punishment will be multiplied, for they failed to hear or see the truth.
 
-## AI Tafsir
-
-**What this ayah teaches:** The curse of Allah is on the wrongdoers (18)Those who hinder (others) from the path of Allah, and seek a crookedness therein, while they are those who reject the truth in the Hereafter (19)By no means will they escape on earth, nor have they protectors besides Allah!
-
-**Classical tafsir:** Ibn Kathir notes: Those Who invent Lies against Allah and hinder Others from His Path are the Greatest Losers Allah, the Exalted, explains the condition of those who lie against Him and that their scandal in the Hereafter will be presented before the heads of creation (for testimony) from the ange…
-
-**From the Sunnah:** This is just as Imam Ahmad recorded from Safwan bin Muhriz. (Musnad Ahmad)
 ## Personal Reflections
-
 

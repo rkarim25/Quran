@@ -94,13 +94,5 @@ Included within this grace and increase is the promise of Allah Ta’ ala that H
 
 so He will reward them in full and increase them from His grace. He is All-Forgiving, Most Appreciative.
 
-## AI Tafsir
-
-**What this ayah teaches:** Included within this grace and increase is the promise of Allah Ta’ ala that He rewards the deed of a believer multiplied many times, the lowest denominator of which could be ten times of the deed, and the highest could reach seven hundred times, even higher than that.
-
-**Classical tafsir:** Ibn Kathir notes: When the text says 'secretly and openly', it indicates that it is often better to spend secretly in order to stay safe from riya' (show off) in acts of worship.
-
-**From the Sunnah:** The Muslims will be the Ones Who gain in the Hereafter Muslim jurists have laid out details in the matter of salah and spending in the way of Allah. (Sahih Muslim)
 ## Personal Reflections
-
 

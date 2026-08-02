@@ -230,13 +230,5 @@ A word about the use of the word, ` deterrent' with nuclear weapons. They are th
 
 Do you not know that the kingdom of the heavens and the earth belongs to Allah ? He punishes whoever He wills and forgives whoever He wills. And Allah is Most Capable of everything.
 
-## AI Tafsir
-
-**What this ayah teaches:** It is to re-move this doubt that Almighty Allah has, in this verse, initially stated that He alone is the real Master of the entire universe.
-
-**Classical tafsir:** Ibn Kathir notes: This is because the Dinar in question was equal to twelve Dirhams, so three Dirhams equalled a fourth of a Dinar.
-
-**From the Sunnah:** This is also the view of Imam Ahmad bin Hanbal and Ishaq bin Rahwayh in one of the narrations from him, as well as Abu Thawr, and Dawud bin 'Ali Az-Zahari, may Allah have mercy upon them. (Musnad Ahmad) Usamah said to him, "Ask Allah to forgive me, O Allah's Messenger!" During that night, the Messenger of Allah ﷺ stood up and gave a speech and praised Allah as He deserves to be praised.
 ## Personal Reflections
-
 

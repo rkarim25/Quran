@@ -104,13 +104,5 @@ Having discussed the factual aspect of the circumstances leading up to the revel
 
 the people of Abraham, the people of Lot,
 
-## AI Tafsir
-
-**What this ayah teaches:** Even if the physical eyes are sound, they still cannot learn the lesson. And if they deny you, so did deny before them the people of Nuh, 'Ad and Thamud (42)And the people of Ibrahim and the people of Lut (43)And the dwellers of Madyan; and denied was Musa.
-
-**Classical tafsir:** Ibn Kathir notes: Even if the physical eyes are sound, they still cannot learn the lesson.
-
-**From the Sunnah:** It has already been mentioned that these verses were revealed soon after Hijrah, at a time when the Muslims did not exercise dominion anywhere on earth, which means that Allah Ta’ ala had already made it known that when, at a future date, they would come to po…
 ## Personal Reflections
-
 

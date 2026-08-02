@@ -124,13 +124,5 @@ Immediately next within verse 158 it was said: وَلَقَدْ عَلِمَتِ
 
 But not the chosen servants of Allah.
 
-## AI Tafsir
-
-**Context:** (Except the servants of Allah, whom He chooses.) The pronoun in the verb translated as "they attribute" refers to all of mankind, then He excludes those whom He chooses, who are the ones who follow the truth revealed to…
-
-**What this ayah teaches:** How do you decide (154)Will you not then remember (155)Or is there for you a plain authority (156)Then bring your Book if you are truthful (157)And they have invented a kinship between Him and the Jinn, but the Jinn know well that they have indeed to appear (before Him)(158)Glorified be Allah!
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

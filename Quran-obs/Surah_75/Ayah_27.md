@@ -177,13 +177,5 @@ Sayyidna Ibn ` Abbas says that the two 'shanks' refer to the two worlds: the Her
 
 and it is said, 'Is there any healer?'
 
-## AI Tafsir
-
-**What this ayah teaches:** Thus, there is no good in him, internally or externally.
-
-**Classical tafsir:** Ibn Kathir notes: This means, 'you deserve to strut like this while you have disbelieved in your Creator and Maker.' This is what is commonly said in this type of situation in order to mock and intimidate (someone).
-
-**From the Sunnah:** this to Abu Jahl, then Allah, the Mighty and Sublime, revealed this Ayah.'
 ## Personal Reflections
-
 

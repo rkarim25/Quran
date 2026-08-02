@@ -204,19 +204,5 @@ And now a word concerning what was said about women -- "There is no sin on you i
 
 Those among you who die leaving widows — the widows should wait four months and ten days. When they complete that term, you are not accountable for what they reasonably decide for themselves. Allah is aware of what you do.
 
-## AI Tafsir
-
-**Essence** When a husband dies, his widow keeps a waiting period (ʿiddah) of four months and ten days, mourning him, after which she is free to honourably remarry — all known to Allah, who is fully Aware (Khabīr).
-
-**What it teaches** The ayah commands every widow to observe an ʿiddah of four months and ten days — yatarabbaṣna bi-anfusihinna, "they keep themselves waiting," which the scholars read as a command to mourn and refrain from adornment during that term. When the term (ajal) is complete, there is "no blame" (lā junāḥa) on the guardians for what she then lawfully decides for herself bil-maʿrūf — "in a fair and recognised manner," i.e. a valid, Shariʿah-correct remarriage.
-
-**The scholars** Ibn Kathir reports the scholarly consensus that this ʿiddah applies whether or not the marriage was consummated, since the wording is general; he notes from Saʿid bin Al-Musayyib and Abu Al-ʿAliyah that the wisdom of the period is to make certain the womb is free of pregnancy — tied to the embryology hadith of Ibn Masʿud, in which the human form passes through three successive forty-day stages (nuṭfah, then ʿalaqah, then muḍghah) before the soul is breathed in. He clarifies exceptions from the wider Sunnah: a pregnant widow's term ends at delivery (Subayʿah al-Aslamiyah), and the slave-mother's term equals the free woman's (ʿAmr ibn al-ʿAs). On "no blame upon you," Az-Zuhri explains this addresses her Wali (guardian); Ibn ʿAbbas (via Al-ʿAwfi), Muqatil, and Mujahid explain that once the ʿiddah ends she may beautify herself and remarry, and that bil-maʿrūf means lawful, pure marriage. Maarif ul Quran details the mourning restrictions — no perfume, kohl, make-up, hair oil, henna, or gaudy dress, and not spending nights outside her own home — and stresses that bil-maʿrūf requires the remarriage to meet every condition of validity; it adds that others able to stop a violation of the Shariʿah are obliged to do so.
-
-**From the Sunnah** A believing woman may not mourn any death beyond three days, except for her husband, for whom she mourns four months and ten days — establishing the mourning of this very ʿiddah. (The Two Sahihs — Umm Habibah and Zaynab bint Jahsh)
-
-**From the Sunnah** When asked whether a grieving widow with an eye ailment could apply kohl, the Prophet ﷺ refused, saying her term is only four months and ten days — whereas in the Jahiliyyah a widow would mourn a full year. (The Two Sahihs — Umm Salamah)
-
-**Reflection** Honour grief with patient restraint within the limits Allah set — neither the year-long extremes of ignorance nor a careless haste — remembering that Allah is Khabīr, Aware of all you do.
 ## Personal Reflections
-
 

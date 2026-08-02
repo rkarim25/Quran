@@ -106,11 +106,5 @@ In verse 78, it was said: قَالُوا يَا أَيُّهَا الْعَزِ�
 
 They appealed, “O Chief Minister! He has a very old father, so take one of us instead. We surely see you as one of the good-doers.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, he has an old father (who will grieve for him); so take one of us in his place. Therefore, they requested him that he should detain anyone from among them, in lieu of him.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, they requested him that he should detain anyone from among them, in lieu of him.
 ## Personal Reflections
-
 

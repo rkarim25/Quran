@@ -242,13 +242,5 @@ At the end of the verse (125), an example has been cited, the example of sinceri
 
 To Allah belongs whatever is in the heavens and whatever is on the earth. And Allah is Fully Aware of everything.
 
-## AI Tafsir
-
-**What this ayah teaches:** And Allah did take Ibrahim as a Khalil (an intimate friend)(125)And to Allah belongs all that is in the heavens and all that is in the earth.
-
-**Classical tafsir:** Ibn Kathir notes: Firstly, 'surrenders his or her self to Allah.' In other words, acts for the good pleasure of Allah with all sincerity at one's command without ever contaminating one's deeds with hypocritical or materialistic motives.
-
-**From the Sunnah:** Therefore, we should have more right to Allah than you have.' Muslims said, 'Rather, we have more right to Allah than you, our Prophet is the Final Prophet and our Book supersedes all the Books before it.' Allah sent down, This is the wording collected by Ahmad through Sufyan bin 'Uyaynah. (Sahih Muslim, Jami' at-Tirmidhi)
 ## Personal Reflections
-
 

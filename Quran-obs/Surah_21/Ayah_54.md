@@ -95,11 +95,5 @@ Commentary
 
 He responded, “Indeed, you and your forefathers have been clearly astray.”
 
-## AI Tafsir
-
-**What this ayah teaches:** The point here is that Allah is telling us that He gave guidance to Ibrahim aforetime, i.e., He had already guided him at an early age.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

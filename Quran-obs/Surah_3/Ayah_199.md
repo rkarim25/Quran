@@ -334,15 +334,5 @@ So, let us keep in mind that all sins are forgiven following Hijrah (Emigration)
 
 Indeed, there are some among the People of the Book who truly believe in Allah and what has been revealed to you and what was revealed to them. They humble themselves before Allah—never trading Allah’s revelations for a fleeting gain. Their reward is with their Rabb. Surely Allah is swift in reckoning.
 
-## AI Tafsir
-
-**Context:** And there are, certainly, among the People of the Scripture (Jews and Christians), those who believe in Allah and in that which has been revealed to you, and in that which has been revealed to them, humbling themselves b…
-
-**What this ayah teaches:** There is no other alternative in this case unless Allah Almighty is especially generous for someone and puts it in the heart of the wronged party that they should relent and forgive.
-
-**Classical tafsir:** Ibn Kathir notes: Endure and be more patient, and Rabitu, and have Taqwa of Allah, so that you may be successful .
-
-**From the Sunnah:** They are not allowed to abandon it in times of comfort or hardship, ease or calamity, until they die as Muslims. They also say that the Murabatah in the above Ayah refers to battles against the enemy, and manning Muslim outposts to protect them from enemy incursions inside Muslim territory.
 ## Personal Reflections
-
 

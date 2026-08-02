@@ -174,11 +174,5 @@ Some of the scholars analyze the phrase اِلَّا قَولَ اِبرٰھِی
 
 Our Lord, do not make us a target for the those who reject the truth' persecution. Forgive us, our Lord. You alone are the Almighty, All-Wise.
 
-## AI Tafsir
-
-**What this ayah teaches:** This is Allah's attribute that He alone is worthy of being described by; surely, He has no equal, none like unto Him.
-
-**Classical tafsir:** Ibn Kathir notes: Make us not a trial for the those who reject the truth,) Mujahid said, "It means, 'Do not punish us by their hands, nor with a punishment from You.' Or they will say, 'Had these people been following the truth, the torment would not have struck them'." Ad-Dahhak said something similar.
 ## Personal Reflections
-
 

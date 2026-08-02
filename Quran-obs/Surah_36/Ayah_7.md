@@ -121,13 +121,5 @@ The majority of commentators have declared the present verse to be a similitude 
 
 The decree of torment has already been justified against most of them, for they will never believe.
 
-## AI Tafsir
-
-**What this ayah teaches:** Indeed the Word has proved true against most of them, so they will not believe.) The Messenger (ﷺ) was sent as a Warner We have already discussed the individual letters at the beginning of Surat Al-Baqarah. In order that you may warn a people whose forefathers were not warned, so they are heedless.)(7.
-
-**Classical tafsir:** Ibn Kathir notes: In order that you may warn a people whose forefathers were not warned, so they are heedless.)(7.
-
-**From the Sunnah:** We have already mentioned the Ayat and Mutawatir Hadiths which state that the mission of the Prophet ﷺ is universal, when we discussed the meaning of the Ayah:
 ## Personal Reflections
-
 

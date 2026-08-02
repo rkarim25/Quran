@@ -74,11 +74,5 @@ In verse 77, it was said: فَاصْبِرْ‌ إِنَّ وَعْدَ اللّ
 
 It is Allah who made cattle for you so that you may ride some and eat others.
 
-## AI Tafsir
-
-**What this ayah teaches:** Cattle are eaten and their milk is drunk; they are also used for plowing the earth.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, it was to comfort him that he was asked to be somewhat patient about it.
 ## Personal Reflections
-
 

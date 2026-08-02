@@ -141,11 +141,5 @@ Another method to awaken them from their heedlessness was adopted in the third v
 
 Indeed, what you have been promised will certainly come to pass. And you will have no escape.
 
-## AI Tafsir
-
-**What this ayah teaches:** Certainly, Allah is able to do all things and nothing ever escapes His power.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

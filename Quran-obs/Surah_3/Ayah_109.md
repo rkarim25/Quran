@@ -174,24 +174,5 @@ The verse فَذُوقُوا الْعَذَابَ بِمَا كُنتُمْ تَ
 
 To Allah belongs whatever is in the heavens and whatever is on the earth. And to Allah matters will be returned.
 
-## AI Tafsir
-
-**Essence**
-Everything in the heavens and the earth is Allah's property, and every affair returns to Him alone for final judgment.
-
-**What it teaches**
-"Wa lillahi ma fi as-samawati wa ma fi al-ard" affirms Allah's total ownership of all creation — the things in the heavens and the earth "are all His servants and His property." "Wa ila Allahi turja'u al-umur" then affirms that the decision and outcome of every matter goes back to Him: His is the judgment over the affairs of this life and the Hereafter, and His is the Supreme Authority in both.
-
-**The scholars**
-Ibn Kathir places this verse directly after "Allah wills no injustice to the 'Alamin." Because all in the heavens and earth are His servants and His property, and because "His is the decision concerning the affairs of this life and the Hereafter, and His is the Supreme Authority," He is "the Just Ruler Who is able to do everything and has knowledge of everything" — and so has no need to wrong any of His creatures. Maarif ul Quran sharpens the point on divine justice: the punishment of that Day "is not from Allah but that it is a consequence of what man has earned" in his mortal life, "for the truth is that the blessings of paradise and the hardships of hell are simply a changed form of our very deeds." This is a statement about recompense answering to deeds, not about the unseen abodes themselves; Paradise and Hell are real created realities, and whatever reward or punishment is decreed "is nothing but justice and very much the perfect expression of the divine wisdom and mercy."
-
-**From the Sunnah**
-Within this same passage, Ibn Kathir grounds the command of the surrounding verses — to enjoin good and forbid evil — in the Sunnah. The Prophet ﷺ ordered that evil be changed by hand, then by tongue, then at least by the heart, "and this is the weakest faith." (Sahih Muslim)
-
-And he ﷺ warned that if a people abandon enjoining good and forbidding evil, "Allah shall send down a punishment from Him to you. Then, you will supplicate to Him, but He will not accept your supplication." (Musnad Ahmad; At-Tirmidhi also collected it and graded it Hasan)
-
-**Reflection**
-Live as one who owns nothing and answers for everything — handle each affair knowing it returns to its true Owner for perfect, just judgment.
 ## Personal Reflections
-
 

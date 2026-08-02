@@ -230,13 +230,5 @@ Ends here
 
 Your companion is not mad.
 
-## AI Tafsir
-
-**Context:** (He has been taught by one mighty in power (Jibril). Dhu Mirrah, then he rose. While he was in the highest part of the horizon. Then he approached and came closer. And was at a distance of two bows' length or less.
-
-**What this ayah teaches:** Many of the scholars of the fundamentals of language have said that the word 'As'as is used to mean advancing and retreating, with both meanings sharing the same word. Therefore, it is correct that the intent could be both of them, and Allah knows best.
-
-**Classical tafsir:** Ibn Kathir notes: Mujahid said, "It means its darkening." Sa'id bin Jubayr said, "When it begins." Al-Hasan Al-Basri said, "When it covers the people." This was also said by 'Atiyah Al-'Awfi.
 ## Personal Reflections
-
 

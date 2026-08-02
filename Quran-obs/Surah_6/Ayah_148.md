@@ -310,15 +310,5 @@ At the end of the verse (141) it was said: وَلَا تُسْرِ‌فُوا ۚ
 
 The polytheists will argue, “Had it been Allah’s Will, neither we nor our forefathers would have associated others with Him or made anything unlawful.” Likewise, those before them rejected the truth until they tasted Our punishment. Ask, “Do you have any knowledge that you can produce for us? Surely you follow nothing but assumptions and you do nothing but lie.”
 
-## AI Tafsir
-
-**Context:** Tafsir authority, Ibn Kathir, in his Tafsir and Ibn al-Arabi in Ahkam al-Qur'an have resolved this by saying that, whether the verse is Makki or Madani, in both events, the verse could mean the Zakah of land, that is, `…
-
-**What this ayah teaches:** This is a phenomenon which compels even a man of ordinary insight to realize and accept that the Power and Being that created them is a Being beyond the parameters of comprehension, the measure of whose knowledge and wisdom cannot even be imagined by human beings.
-
-**Classical tafsir:** Ibn Kathir notes: Some others among them have counted this verse as one of the Madani verses and, according to them, ` haqqah u' refers to the Zakah of the land which is ` Ushr.
-
-**From the Sunnah:** The determination of this quantity was not needed there because Muslims did not have the assurance of acquiring the produce of their lands and fruit…
 ## Personal Reflections
-
 

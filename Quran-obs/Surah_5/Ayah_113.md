@@ -168,11 +168,5 @@ Whether or not the ` Ma'idah' (food-spread) came down from the heaven is somethi
 
 They said, “We wish to eat from it to reassure our hearts, to verify you are indeed truthful to us, and to become its witnesses.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Some scholars said that the disciples requested this table because they were poor and deprived. This very Hadith also tells us that they ate from it as they wanted to do as mentioned in the word, ` na'kulu' (we eat) - however, storing it for future use was prohibited.
-
-**Classical tafsir:** Ibn Kathir notes: Some scholars said that the disciples requested this table because they were poor and deprived.
 ## Personal Reflections
-
 

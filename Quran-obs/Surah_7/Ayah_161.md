@@ -113,13 +113,5 @@ The above verses have enumerated various favours that Allah bestowed upon the Is
 
 And when it was said to them, “Enter this city and eat from wherever you please. Say, ‘Absolve us,’ and enter the gate with humility. We will forgive your sins, We will multiply the reward for the good-doers.”
 
-## AI Tafsir
-
-**Context:** And We divided them into twelve tribes (as distinct) nations. We revealed to Musa when his people asked him for water (saying): "Strike the stone with your stick," and there gushed forth out of it twelve springs, each gr…
-
-**What this ayah teaches:** So We sent on them a torment from the heaven in return for their wrongdoings .
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

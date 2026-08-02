@@ -109,13 +109,5 @@ Another interpretation given to these words by Sayyidna Said ibn Jubair ؓ is th
 
 They will cry, “My Rabb! Why have you raised me up blind, although I used to see?”
 
-## AI Tafsir
-
-**Context:** (But whosoever turns away from My Reminder,) This means, "Whoever opposes my command and what I have revealed to My Messenger, then he has turned away from it, neglected it and taken his guidance from other than it."
-
-**What this ayah teaches:** Why have you raised me up blind, while I had sight (before).) This means in the life of this world. Why have you raised me up blind, while I had sight (before).
-
-**Classical tafsir:** Ibn Kathir notes: The Descent of Adam to the Earth and the Promise of Good for the Guided and Evil for the Transgressors Allah says to Adam, Hawwa' and Iblis, "Get down from here, all of you." This means each of you should get out of Paradise.
 ## Personal Reflections
-
 

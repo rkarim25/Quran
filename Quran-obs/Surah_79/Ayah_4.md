@@ -174,11 +174,5 @@ The fourth quality of the angels:
 
 and those racing ahead with vigor,
 
-## AI Tafsir
-
-**What this ayah teaches:** There are those people whose souls the angels remove with ease, as if they were unraveling him (i.e., his soul from him) due to their briskness.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

@@ -209,13 +209,5 @@ ends here.
 
 And so We have sent to you a revelation by Our command. You did not know of this Book and iman before. But We have made it a light, by which We guide whoever We will of Our servants. And you are truly leading all to the Straight Path—
 
-## AI Tafsir
-
-**What this ayah teaches:** Unawareness of the Book before ` wahy' is quite obvious; absence of knowledge of faith means that its details, rules and regulations, and its exalted place become known to a prophet after ` wahy', not before it, otherwise it is proved with consensus of the ummah that whomever Allah chooses to make His Messenger or Prophet, He gives him faith and belief right from the beginning…
-
-**Classical tafsir:** Ibn Kathir notes: How the Revelation comes down This refers to how Allah sends revelation.
-
-**From the Sunnah:** Sometimes He casts something into the heart of the Prophet ﷺ, and he has no doubt that it is from Allah, as it was reported in Sahih Ibn Hibban that the Messenger of Allah ﷺ said: (Sahih Ibn Hibban) In the Sahih, it recorded that the Messenger of Allah ﷺ said to Jabir bin 'Abdullah, may Allah be pleased with him:
 ## Personal Reflections
-
 

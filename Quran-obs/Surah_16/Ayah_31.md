@@ -160,15 +160,5 @@ The essence of the answer given by the polytheists is that they simply refused t
 
 the Gardens of Eternity which they will enter, under which rivers flow. In it they will have whatever they desire. This is how Allah rewards the righteous—
 
-## AI Tafsir
-
-**Context:** (What is it that your Lord has revealed?) they will reluctantly answer, "He did not reveal anything, these are just the fables of old." But the blessed, on the other hand, will say, "That which is good," meaning - He rev…
-
-**What this ayah teaches:** Paradise) of those who have Taqwa (30)'Adn (Eden) Paradise (Gardens of Eternity) which they will enter, under which rivers flow, in it they will have all that they wish. Therefore, commentators have expressed different views in this matter.
-
-**Classical tafsir:** Ibn Kathir notes: In the present verses, the text describes how they, not content with their own straying, tried that others should also go astray like them.
-
-**From the Sunnah:** Still others take one question to have been asked by the polytheists while the other by Muslims.
 ## Personal Reflections
-
 

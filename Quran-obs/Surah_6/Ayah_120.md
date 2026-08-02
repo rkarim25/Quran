@@ -106,13 +106,5 @@ Similarly, the words " مَّا ذُكِرَ‌ اسْمُ اللَّـهِ عَ
 
 Shun all sin—open and secret. Indeed, those who commit sin will be punished for what they earn.
 
-## AI Tafsir
-
-**What this ayah teaches:** Therefore, the Muslims are directed to ignore such absurd questions and keep believing and acting as before.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, the Muslims are directed to ignore such absurd questions and keep believing and acting as before.
-
-**From the Sunnah:** The event is that those who reject the truth tried to put Muslims in doubt by commenting that they did not eat of the animals killed by Allah (i.e. (Jami' at-Tirmidhi, Sunan Abi Dawud) But in the event that the rational wisdom is asked only for the sake of confrontation, then the proper way for a Muslim should be to ignore such questions and to act according to the prescribed rules without paying attention to the critic. (Sahih Muslim)
 ## Personal Reflections
-
 

@@ -177,13 +177,5 @@ Some scholars interpret Shahid as referring to man's action, and other scholars 
 
 Each soul will come with a driver and a witness.
 
-## AI Tafsir
-
-**What this ayah teaches:** Another possible interpretation is that these two angels refer to the "honorable scribes" who used to accompany human beings all the time in the world on the right and left to record their deeds.
-
-**Classical tafsir:** Ibn Kathir notes: Pay my debt!' The fox went out howling and continued until his neck was cutoff, (i.e.,) he died.) This parable indicates that just as the fox had no way of escaping or avoiding the earth, likewise, man has no way of avoiding death.
-
-**From the Sunnah:** Those who explained 'We' in the Ayah to mean 'Our knowledge,' have done so to avoid falling into the idea of incarnation or indwelling; but these two creeds are false according to the consensus of Muslims. Alqamah used to say, "How many words did I not utter because of the Hadith that Bilal bin Al-Harith narrated." At-Tirmidhi, An-Nasa'i and Ibn Majah collected this Hadith.
 ## Personal Reflections
-
 

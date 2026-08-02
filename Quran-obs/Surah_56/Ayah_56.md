@@ -122,11 +122,5 @@ If we go by the second view of the commentators, who say that both 'earlier' and
 
 This will be their hospitality on the Day of Judgment.
 
-## AI Tafsir
-
-**What this ayah teaches:** This is also the meaning reported from Mujahid, 'Ikrimah, Ad-Dahhak, Qatadah, As-Suddi and others.
-
-**Classical tafsir:** Ibn Kathir notes: As-Suddi said "Al-Him is a disease that strikes camels, causing them to feel thirst, and they drink until they die." Therefore, he said, the people of Hell, will never quench their thirst from drinking Hamim.
 ## Personal Reflections
-
 

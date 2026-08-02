@@ -196,11 +196,5 @@ But Qur'an teaches for a pure society so that no one interferes in anyone's free
 
 And when your children reach the age of puberty, let them seek permission to come in, as their seniors do. This is how Allah makes His revelations clear to you, for Allah is All-Knowing, All-Wise.
 
-## AI Tafsir
-
-**What this ayah teaches:** Allah commanded the believers to ensure that their servants and their children who have not yet reached puberty should seek permission at three times: the first is before the Fajr prayer, because people are asleep in their beds at that time.
-
-**Classical tafsir:** Ibn Kathir notes: Abu Dawud recorded that Ibn 'Abbas said: "Most of the people do not follow it, the Ayah that speaks about asking permission, but I tell my servant woman to seek permission to enter." Abu Dawud said: 'Ata' also narrated that Ibn 'Abbas commanded this.
 ## Personal Reflections
-
 

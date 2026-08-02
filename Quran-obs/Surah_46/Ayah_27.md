@@ -96,11 +96,5 @@ These verses are to remind the infidels of the severe punishments faced by earli
 
 We destroyed the towns around you and varied the signs so that perhaps they would return to the right way.
 
-## AI Tafsir
-
-**What this ayah teaches:** But their hearing, vision, and hearts availed them nothing since they used to deny the Ayat of Allah, and they were completely encircled by that which they used to ridicule (26)And indeed We have destroyed towns round about you, and We have shown (them) the signs in various ways so that they might return (27)As for those whom they had taken for gods besides Allah, as the means of approach to Him,…
-
-**Classical tafsir:** Ibn Kathir notes: This means, you listeners must beware of being like them lest a punishment similar to theirs strikes you in this life and the Hereafter.
 ## Personal Reflections
-
 

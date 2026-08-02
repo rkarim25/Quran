@@ -150,15 +150,5 @@ Commentary
 
 By Mount Tur—Allah swears by the sacred mountain where Moses received revelation.
 
-## AI Tafsir
-
-**Context:** (And by the Book inscribed), it is said that it means Al-Lawh Al-Mahfuz, (the Preserved Table). It is also said that is refers to the divinely revealed inscribed Books that people recite, and this is why Allah said,
-
-**What this ayah teaches:** A mount that does not have trees is called Jabal, not Tur.
-
-**Classical tafsir:** Ibn Kathir notes: Swearing an oath by Tur carries a special significance and honour of the mount.
-
-**From the Sunnah:** And by Al-Bayt Al-Ma'mur.) In the Two Sahihs it is confirmed that the Messenger of Allah ﷺ said in the Hadith about Al-Isra', after ascending to the seventh heaven:
 ## Personal Reflections
-
 

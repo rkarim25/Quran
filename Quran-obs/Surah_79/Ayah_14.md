@@ -190,11 +190,5 @@ The Holy Prophet ﷺ used to be hurt by the stubbornness of the obdurate rejecte
 
 and at once they will be above ground.
 
-## AI Tafsir
-
-**What this ayah teaches:** Here the learned commentator has added some more details which dispose of many doubts which arise from the above Tradition: The human soul is a refined body which permeates the dense material body.
-
-**Classical tafsir:** Ibn Kathir notes: The statement that 'the soul is in ` Alam-ul-arwah or ` illiyyun' is also true, because the 'soul' in this context refers to ruh mujarrad or 'abstract spirit'.
 ## Personal Reflections
-
 

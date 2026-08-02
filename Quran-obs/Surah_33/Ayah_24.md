@@ -187,13 +187,5 @@ In the last verse (27), good news of future victories has been given. Gone is th
 
 It all happened so Allah may reward the faithful for their faithfulness, and punish those of nifaq — outward acceptance with inward rejection if He wills or turn to them in mercy. Surely Allah is All-Forgiving, the Rahim.
 
-## AI Tafsir
-
-**Context:** Al-Bukhari also recorded that Anas bin Malik, may Allah be pleased with him, said: "We think that this Ayah was revealed concerning Anas bin An-Nadr, may Allah be pleased with him: This was reported only by Al-Bukhari, b…
-
-**What this ayah teaches:** Among the believers are men who have been true to their covenant with Allah; of them some have fulfilled their Nahbah; and some of them are still waiting, but they have never changed in the least (23)That Allah may reward the men of truth for their truth, and punish the hypocrites, if He wills, or accept their repentance by turning to them.
-
-**Classical tafsir:** Ibn Kathir notes: This refers to knowing something after it happens, even though Allah knows it before it comes to pass.
 ## Personal Reflections
-
 

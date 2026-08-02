@@ -230,15 +230,5 @@ These were the most important elements of the event of Hudaibiyah. This will fac
 
 We have granted you, O Prophet, a clear triumph—victory that looked like setback but opened the path to far greater openings.
 
-## AI Tafsir
-
-**Context:** This honorable Surah was revealed after the Messenger of Allah ﷺ returned from the area of Al-Hudaybiyyah, during the month of Dhul-Qa'dah, in the sixth year of Hijrah.
-
-**What this ayah teaches:** This, indeed, is a great honor for the Messenger of Allah ﷺ, who fulfilled the requirements of Allah's obedience, righteousness and straightness at a level never surpassed by a human being in past generations, nor will it ever be surpassed in the generations to come.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, 'a manifest Victory' in this Surah refers to the Treaty of Hudaibiyah.
-
-**From the Sunnah:** Allah's Messenger ﷺ recited Surah Al-Fath on the (day) of the conquest of Makkah, riding on his she-camel.
 ## Personal Reflections
-
 

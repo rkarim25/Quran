@@ -132,13 +132,5 @@ However, the hadith that informs us that the souls of the unbelievers will remai
 
 They are given sealed, pure wine
 
-## AI Tafsir
-
-**What this ayah teaches:** This refers to a drink called Tasnim, and it is the most excellent and exalted drink of the people of Paradise.
-
-**Classical tafsir:** Ibn Kathir notes: This refers to a drink called Tasnim, and it is the most excellent and exalted drink of the people of Paradise.
-
-**From the Sunnah:** Paradise, and their abode will be the lamps suspended from [ the Divine ] Throne. (Sahih Muslim)
 ## Personal Reflections
-
 

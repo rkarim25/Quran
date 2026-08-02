@@ -74,11 +74,5 @@ Transformation of the staff into a real serpent is not, in fact, totally impossi
 
 So Moses threw down his staff and—behold!—it became a real snake.
 
-## AI Tafsir
-
-**What this ayah teaches:** Then [Musa] threw his staff and behold! When Fir'awn saw the snake rushing towards him, he jumped from his throne and cried to Musa for help, so that Musa would remove the snake from his way.
-
-**Classical tafsir:** Ibn Kathir notes: The use of the word 'mubin' as an adjective which means 'clear or prominent' is quite descriptive of the fact that this miraculous event took place manifestly before the eyes of the people of the Pharaoh, and it was not performed secretly in a hidden or secluded place as is usual…
 ## Personal Reflections
-
 

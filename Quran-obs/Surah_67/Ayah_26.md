@@ -165,11 +165,5 @@ After this, the non-believers are threatened with punishment. Towards the end of
 
 Say: 'That knowledge is with Allah alone. I am only sent with a clear warning.'
 
-## AI Tafsir
-
-**What this ayah teaches:** Knowledge received through hearing and seeing depends on the human 'heart', unlike the theory of the philosophers and scientists who believe that the centre of knowledge is the human 'brain'.
-
-**Classical tafsir:** Ibn Kathir notes: This means that it will surround them and Allah will command what they were not able to reckon or fully comprehend to come to them.
 ## Personal Reflections
-
 

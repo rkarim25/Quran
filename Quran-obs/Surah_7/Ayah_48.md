@@ -97,11 +97,5 @@ The fifth verse (48) also mentions that the people of A` raf will address the pe
 
 Those on the heights will call out to some, who they will recognize by their appearance, saying, “Your large numbers and arrogance are of no use !
 
-## AI Tafsir
-
-**What this ayah teaches:** The fifth verse (48) also mentions that the people of A` raf will address the people of Hell and admonish them by saying that the wealth and power that they depended on, and because of which they had become proud and arrogant, went the way of waste for all those strengths did not work for them at their hour of need.
-
-**Classical tafsir:** Ibn Kathir notes: The fifth verse (48) also mentions that the people of A` raf will address the people of Hell and admonish them by saying that the wealth and power that they depended on, and because of which they had become proud and arrogant, went the way of waste for all those strengths did not…
 ## Personal Reflections
-
 

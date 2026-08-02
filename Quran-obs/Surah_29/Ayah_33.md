@@ -152,11 +152,5 @@ Out of the three sins mentioned in this verse the first one is most disgusting, 
 
 When Our messenger-angels came to Lot, he was distressed by their arrival. They said: Do not fear or grieve. We will save you and your family except your wife among the doomed.
 
-## AI Tafsir
-
-**What this ayah teaches:** We will verily, save him and his family – except his wife, she will be of those who remain behind. Truly, we shall save you and your family except your wife: she will be of those who remain behind.
-
-**Classical tafsir:** Ibn Kathir notes: When they brought this news to Ibrahim and told him that they were sent to destroy the people of Lut, he began to speak up for them, hoping to win more time for them so that they might be guided by Allah.
 ## Personal Reflections
-
 

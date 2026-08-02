@@ -133,11 +133,5 @@ The next verse turns once again to the central theme of the Surah, that is, the 
 
 Or do you feel secure that He will not unleash upon you a storm of stones? Then you would know how serious My warning was.
 
-## AI Tafsir
-
-**What this ayah teaches:** Do you feel secure that He, Who is over the heaven, will not cause the earth to sink with you, and then it should quake (16)Or do you feel secure that He, Who is over the heaven, will not send against you a Hasib?
-
-**Classical tafsir:** Ibn Kathir notes: The next verse refers to the former nations who denied and rejected the truth and how they were annihilated by Divine scourge.
 ## Personal Reflections
-
 

@@ -113,11 +113,5 @@ This verse has itself clarified it that, at this place, making someone hear mean
 
 Then I seized those who persisted in rejection. How severe was My response!
 
-## AI Tafsir
-
-**What this ayah teaches:** This proves that the negation of making the ( dead hear referred to in this verse means a particular listening that is beneficial, something because of which the listener forsakes the false and takes to the true. Their Messengers came to them with clear signs, and with the Scriptures, and with the Book giving light (25)Then I took hold of those who disbelieved, and how terrible was My denial .
-
-**Classical tafsir:** Ibn Kathir notes: This proves that the negation of making the ( dead hear referred to in this verse means a particular listening that is beneficial, something because of which the listener forsakes the false and takes to the true.
 ## Personal Reflections
-
 

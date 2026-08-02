@@ -158,11 +158,5 @@ The people living on earth are divided into many races, having different physica
 
 One of His signs: He created for you spouses from yourselves so you find comfort in them. He placed compassion and mercy between you. In that are signs for people who reflect.
 
-## AI Tafsir
-
-**What this ayah teaches:** The verse has thus indicated that the total outcome of married life is peace of mind and comfort; the couple that enjoys it is successful in the object of its creation, while the family that is deprived of peace of mind and tranquility is unsuccessful in its married life.
-
-**Classical tafsir:** Ibn Kathir notes: It is possible that mawaddah (love) refers to the young age when spouses are attracted towards each other with love and affection, while rahmah refers to the old age when passions subside and compassion for each other takes over.
 ## Personal Reflections
-
 

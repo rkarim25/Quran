@@ -167,13 +167,5 @@ None of the peoples to whom Messengers were sent were given a sign at the hands 
 
 Yet they say, “This Quran is a set of confused dreams! No, he has fabricated it! No, he must be a poet! So let him bring us a tangible sign like those prophets sent before.”
 
-## AI Tafsir
-
-**What this ayah teaches:** It was not, therefore, considered desirable to show them miracles of their choice because if they, like the earlier people, persisted in their unbelief even after seeing those miracles, they too would invite the wrath of Allah Ta` ala.
-
-**Classical tafsir:** Ibn Kathir notes: It was not, therefore, considered desirable to show them miracles of their choice because if they, like the earlier people, persisted in their unbelief even after seeing those miracles, they too would invite the wrath of Allah Ta` ala.
-
-**From the Sunnah:** 'Abdullah said, "Banu Isra'il, Al-Kahf, Maryam, Ta Ha and Al-Anbiya' - they are among the earliest and most beautiful Surahs and they are my treasure." (Sahih al-Bukhari) that Abu Sa'id reported from the Prophet ﷺ: (Sunan an-Nasa'i)
 ## Personal Reflections
-
 

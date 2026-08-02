@@ -138,11 +138,5 @@ Allah tells us of Fir'awn's disbelief and wrongdoing, and how he falsely claimed
 
 We made them leaders inviting others to the Fire. And on the Day of Judgment they will not be helped.
 
-## AI Tafsir
-
-**What this ayah teaches:** That is, by fire the allusion is toward evil deeds that will result in burning in the fire of Jahannam.
-
-**Classical tafsir:** Ibn Kathir notes: So kindle for me (a fire), O Haman, to bake clay, and set up for me a Sarh in order that I may look at the Allah of Musa; and verily, I think that he (Musa) is one of the liars.
 ## Personal Reflections
-
 

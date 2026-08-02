@@ -230,15 +230,5 @@ Thereafter the unfortunate inmates of Hell are warned, thus:
 
 We will ease for him the path of ease—toward deeds that lead to relief in the Akhirah.
 
-## AI Tafsir
-
-**Context:** Ibn Jarir recorded from 'Amir bin 'Abdullah bin Az-Zubayr that he said, "Abu Bakr used to free servants upon their acceptance of Islam in Makkah. He used to free the elderly and the women when they accepted Islam.
-
-**What this ayah teaches:** will pave their way to extreme ease, that is, to deeds that will lead them to the comforts of Paradise.
-
-**Classical tafsir:** Ibn Kathir notes: The word yusra literally denotes 'ease and comfort' or a thing in which there is no difficulty, but here it refers to "Paradise".
-
-**From the Sunnah:** This Hadith has been recorded by At-Tirmidhi in the Book of Al-Qadar and he said "Hasan Sahih.". (Jami' at-Tirmidhi, authentic hadith) Paradise or Hell are made easy for them, because 'easy' or 'difficult' qualify deeds, and not persons or people.
 ## Personal Reflections
-
 

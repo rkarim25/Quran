@@ -153,11 +153,5 @@ The infidels of Makkah believed that it is Allah who has created the whole unive
 
 Abraham's people only said: Kill him or burn him. Allah saved him from the fire. In that are signs for those who trust.
 
-## AI Tafsir
-
-**What this ayah teaches:** So nothing was the answer of people except that they said: "Kill him or burn him." Then Allah saved him from the fire. The Response of Ibrahim's People – and how Allah controlled the Fire Allah tells us how Ibrahim's people stubbornly and arrogantly disbelieved, and how they resisted the truth with falsehood.
-
-**Classical tafsir:** Ibn Kathir notes: Then verse 20 has induced them to look around them to appreciate the splendors of the creation, so that they may apprehend that the One who has originated this marvelous creation can easily repeat the process.
 ## Personal Reflections
-
 

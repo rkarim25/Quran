@@ -194,13 +194,5 @@ In this verse, mentioned first was the category of the unjust, then of those fol
 
 Then We granted the Book to those We chose from Our servants. Some wrong themselves, some follow a middle course, and some are foremost in good deeds by Allah's will. That is the greatest bounty.
 
-## AI Tafsir
-
-**What this ayah teaches:** And the one who follows the middle course is a person who fulfills all legally binding obligations and avoids everything forbidden, but on occasions, leaves out what has been recommended and falls into what is reprehensible.
-
-**Classical tafsir:** Ibn Kathir notes: In other words, it means that 'there are three kinds of Our servants We have chosen and have made them inherit the Qur'an: .
-
-**From the Sunnah:** Paradise without being brought to account. [Abu Ad-Darda'] said, 'What brought you here, my brother?' He said, 'A Hadith which I heard that you narrate from the Messenger of Allah ﷺ.' He said, 'Have you come for trade?' He said, 'No.' He said, 'Have you come for any other reason?' He said, 'No.' He sai… (Musnad Ahmad)
 ## Personal Reflections
-
 

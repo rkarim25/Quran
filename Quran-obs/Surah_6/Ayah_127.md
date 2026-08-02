@@ -104,11 +104,5 @@ At the conclusion of the verse (127), it was said: وَهُوَ وَلِيُّه
 
 They will have the Home of Peace with their Rabb, Who will be their Guardian because of what they used to do.
 
-## AI Tafsir
-
-**What this ayah teaches:** It means that the people who have been mentioned above, people who see and hear the Qur'anic words of advice with an open mind and who, as an inevitable result, accept the advice and guidance, then, it is for them that there is that reward of Darus-Salam, present and preserved, waiting.
-
-**Classical tafsir:** Ibn Kathir notes: It means that, because of their good deeds, Allah Ta` ala becomes their guardian, care-taker and helper.
 ## Personal Reflections
-
 

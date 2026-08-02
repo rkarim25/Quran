@@ -196,13 +196,5 @@ According to this interpretation, the phrase will mean that on the Dooms Day whe
 
 But on the Day they will see the angels, there will be no good news for the wicked, who will cry, “Keep away! Away from us!”
 
-## AI Tafsir
-
-**What this ayah teaches:** But there is no contradiction between these two views, because on both of these days – the day of death and the Day of Resurrection – the angels will appear to the believers and those who reject the truth, and they will give glad tidings of divine mercy and pleasure to the believers, while they will give the those who reject the truth news that will bring regret and sorrow, so there will be no glad tiding…
-
-**Classical tafsir:** Ibn Kathir notes: This day you shall be recompensed with the torment of degradation because of what you used to utter against Allah other than the truth.
-
-**From the Sunnah:** Paradise which you have been promised! We have been your friends in the life of this world and are (so) in the Hereafter. (authentic hadith) this referred to the words of the idolators.
 ## Personal Reflections
-
 

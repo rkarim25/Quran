@@ -148,11 +148,5 @@ The fourth attribute has been identified as: وَيَخْشَوْنَ رَ‌ب�
 
 They maintain the ties Allah ordered kept, stand in awe of their Rabb, and fear strict reckoning.
 
-## AI Tafsir
-
-**What this ayah teaches:** So, this fear of having to face strict reckoning of deeds is the fifth attribute of righteous and obedient people.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, whenever the fear of Allah finds mention in an occasion of praise and glorification, generally the word used there is Khashyah because Khashyah is the name of the fear which emerges out of love and esteem.
 ## Personal Reflections
-
 

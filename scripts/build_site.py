@@ -102,9 +102,16 @@ def stamp_build() -> None:
     """
     import os, time
 
-    build_id = os.environ.get("GITHUB_SHA", "")[:8] or str(int(time.time()))
+    sha = os.environ.get("GITHUB_SHA", "")[:8]
+    build_id = sha or str(int(time.time()))
     docs = ROOT / "docs"
     (docs / "build.json").write_text(json.dumps({"build": build_id}), encoding="utf-8")
+    # Only stamp index.html in CI. The substitution is one-way: stamping locally
+    # would consume the __BUILD_ID__ placeholder and get committed, leaving the
+    # deploy unable to stamp it ever again — every future deploy would then serve
+    # a page whose baked-in build id is a stale local timestamp.
+    if not sha:
+        return
     idx = docs / "index.html"
     if idx.exists():
         html = idx.read_text(encoding="utf-8")

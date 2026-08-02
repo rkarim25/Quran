@@ -117,11 +117,5 @@ Then Allah says,
 
 If you have any scheme to save yourselves, use it against Me now.'
 
-## AI Tafsir
-
-**What this ayah teaches:** So if you have a plot, use it against Me!) This is an address from the Creator to His servants.
-
-**Classical tafsir:** Ibn Kathir notes: There is no discrepancy between the two verses, because there will be various stages on the Plain of Gathering (Mahshar) through which people will have to pass.
 ## Personal Reflections
-
 

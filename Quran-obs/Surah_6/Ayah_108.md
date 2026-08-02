@@ -241,13 +241,5 @@ In conclusion, the question as refined and resolved is: If, by doing what is inc
 
 Do not insult what they invoke besides Allah or they will insult Allah spitefully out of ignorance. This is how We have made each people’s deeds appealing to them. Then to their Rabb is their return, and He will inform them of what they used to do.
 
-## AI Tafsir
-
-**Context:** The first of the present verses has been revealed concerning a particular event and provides guidance in a matter of principle, that is, what you are not permitted to do yourself, for that you cannot become the cause or…
-
-**What this ayah teaches:** But, the danger is that your people, that is, the common Arabs, who have entered the fold of Islam just now, may fall a victim to some doubts at the sight of Baytullah being demolished, therefore, I have abandoned my intention.
-
-**Classical tafsir:** Ibn Kathir notes: The Prohibition of Insulting the False gods of the those who reject the truth, So that they Do not Insult Allah Allah prohibits His Messenger ﷺ and the believers from insulting the false deities of the idolators, although there is a clear benefit in doing so.
 ## Personal Reflections
-
 

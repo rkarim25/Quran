@@ -169,13 +169,5 @@ This tells us that a prostration done as a token of respect for the Holy Prophet
 
 “My Rabb! You have surely granted me authority and taught me the interpretation of dreams. O Originator of the heavens and the earth! You are my Guardian in this dunya — this temporary worldly life and the Akhirah. Allow me to die as one who submits and join me with the righteous.”
 
-## AI Tafsir
-
-**Context:** Based on a narration by Sayyidna ` Urwah ibn Zubayr (رح) ، Ibn Ishaq has reported: When Sayyidna Musa (علیہ السلام) was commanded to leave Egypt with the Bani' Isra'il, it was revealed to him that he should not leave the…
-
-**What this ayah teaches:** You have indeed bestowed on me of the sovereignty, and taught me something of the interpretation of dreams - the (Only) Creator of the heavens and the earth! Their attitude is that they may be enjoying the highest possible ranks in this world and in the Hereafter, and they may have all sorts of power and office beneath their feet, yet, they would never wax proud over these.
-
-**Classical tafsir:** Ibn Kathir notes: He begged Him that, when he dies, he dies as a Muslim, as Ad-Dahhak said, and to join him with the ranks of the righteous, with his brethren the Prophets and Messengers, may Allah's peace and blessings be on them all.…
 ## Personal Reflections
-
 

@@ -179,13 +179,5 @@ And then came the stage about which the text says: وَتَلَّهُ لِلْج
 
 Then when they submitted to Allah's Will, and Abraham laid him on the side of his forehead for sacrifice,
 
-## AI Tafsir
-
-**What this ayah teaches:** Furthermore, the firstborn son has a special status that is not shared by subsequent children, so the command to sacrifice him is a more exquisite test.
-
-**Classical tafsir:** Ibn Kathir notes: They inserted the name of Ishaq because he is their ancestor, while Isma'il is the ancestor of the Arabs.
-
-**From the Sunnah:** The Muslims and the People of the Book agree, and indeed it is stated in their Book, that Isma'il, peace be upon him, was born when Ibrahim, peace be upon him, was eighty-six years old, and Ishaq was born when Ibrahim was ninety-nine years old. The Quraysh had inherited the horns of the ram that Ibrahim sacrificed, and they had been passed down from generation to generation, until the Messenger of Allah ﷺ was sent.
 ## Personal Reflections
-
 

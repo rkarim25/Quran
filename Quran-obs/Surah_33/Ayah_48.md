@@ -135,15 +135,5 @@ The Holy Qur'an, after attributing the above qualities to the Holy Prophet ﷺ �
 
 Do not yield to those who reject the truth and those of nifaq — outward acceptance with inward rejection. Overlook their annoyances, and put your trust in Allah. For Allah is sufficient as a Trustee of Affairs.
 
-## AI Tafsir
-
-**Context:** Wahb bin Munabbih said: "Allah revealed to one of the Prophets of the Children of Israel whose name was Sha'ya' (Isaiah); 'Stand up among your people the Children of Israel and I shall cause your tongue to utter (words o…
-
-**What this ayah teaches:** And put your trust in Allah, and sufficient is Allah as a Trustee .
-
-**Classical tafsir:** Ibn Kathir notes: If he were to pass by a lamp, it would not be extinguished, because of his tranquillity.
-
-**From the Sunnah:** he met 'Abdullah bin 'Amr bin Al-'As, may Allah be pleased with him, and said to him: (Musnad Ahmad) However due to this life, the hearts of all Muslims would keep on receiving the radiant light of his blessed heart, and the share of each individual would be in accordance with the intensity of love and reverence he has towards the Holy Prophet ﷺ and the abund…
 ## Personal Reflections
-
 

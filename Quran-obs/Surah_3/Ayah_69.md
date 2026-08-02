@@ -136,15 +136,5 @@ Proceeding further, Verse 71 admonishes them for confusing the real statement, t
 
 Some of the People of the Book wish to mislead you. They mislead none but themselves, yet they fail to perceive it.
 
-## AI Tafsir
-
-**Essence** Some of the People of the Book burn to drag the believers off the true path, but the only people their scheming destroys are themselves, and they cannot even feel it happening.
-
-**What it teaches** "Waddat ta'ifatun" — a faction "wished," "yearned," envied the believers their faith and longed to misguide (yudillu) them; yet "they mislead none but themselves," and "wa ma yash'urun" — they have no perception of their own ruin. The verse names this as the cherished, deliberate desire of only a party (ta'ifah) of them, not the whole, and frames their plotting as self-inflicted loss they fail to sense.
-
-**The scholars** Ibn Kathir titles this passage "The Envy the Jews Feel Towards Muslims; Their Wicked Plots Against Muslims," explaining that they envy the faithful and wish they could misguide them, but Allah turns the punishment of this behavior back upon them while they remain unaware. Reading vv.69-74 as one continuous passage, he shows how the verses that follow expose the scheme: a plan (v.71) to feign belief at dawn prayer and apostatize by day's end so that weak Muslims would think shortcomings had been uncovered in the religion — and Ibn Kathir cites Mujahid (via Ibn Abi Najih) that "they attended the dawn prayer with the Prophet ﷺ and disbelieved in the end of the day in order to misguide the people." On v.72 he adds that they hid the description of "the unlettered Prophet whom you find in your Books," guarding their knowledge lest Muslims use it as proof against them — to which Allah answers (v.73) that all bounty (al-fadl) is in His Hand alone, He giving faith, knowledge and sound comprehension to whom He wills. Maarif ul Quran underscores on v.69 that "the victim of their effort to misguide is no one other than themselves, something they do not realize," and on v.70 that their denial concealed the very verses in the Torah and Injil proving the prophethood of Muhammad ﷺ.
-
-**Reflection** When others scheme to shake your faith, guard your certainty and leave them to Allah — their plots recoil only on themselves.
 ## Personal Reflections
-
 

@@ -280,15 +280,5 @@ Abu ` Ali al-Daqqaq, may Allah's mercy be upon him, says that Abu Bakr ibn al-Fu
 
 That was only Satan, trying to prompt you to fear his followers. So do not fear them; fear Me if you are those who have iman.
 
-## AI Tafsir
-
-**Context:** Qatadah, Ar-Rabi' and Ad-Dahhak said that these Ayat were revealed about the martyrs of Uhud. (They rejoice in what Allah has bestowed upon them) indicates that the martyrs who were killed in Allah's cause are alive with…
-
-**What this ayah teaches:** It is also possible that the river is where all the souls of the martyrs convene and where they are provided with their provision day and night, and Allah knows best.
-
-**Classical tafsir:** Ibn Kathir notes: Nay, they are alive, with their Lord, and they have provision.) Qatadah, Ar-Rabi' and Ad-Dahhak said that these Ayat were revealed about the martyrs of Uhud.
-
-**From the Sunnah:** He would like to be returned to this life so that he could be martyred again, for he tastes the honor achieved from martyrdom.) Muslim collected this Hadith (Sahih Muslim) Paradise, and some remain close to this river by the door of Paradise.
 ## Personal Reflections
-
 

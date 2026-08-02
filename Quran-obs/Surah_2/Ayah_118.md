@@ -190,22 +190,5 @@ At this point, we had better say a word to resolve a difficulty that is likely t
 
 Those without knowledge say, "If only Allah would speak to us or a sign would come." Those before them said the same. Their hearts are alike. We have made the signs clear for people of firm conviction.
 
-## AI Tafsir
-
-**Essence**
-When the heart refuses faith, no demand for Allah to speak or for a fresh sign is a search for truth — it is the same obstinacy that has echoed through every age.
-
-**What it teaches**
-"Those who have no knowledge" (*alladhina la ya'lamuna*) raise a two-tiered demand: that Allah speak to them directly, or failing that, that a sign of their choosing come down. The verse does not treat this as honest inquiry but, as Maarif ul Quran puts it, as "a foolish custom which has all along been unthinkingly practised by ignorant people" — rooted in a distortion of the heart, parroted across the ages. Against it stands the answer: the signs (*al-ayat*) are already made plain for "people of certainty" (*qawmin yuqinun*), those who sincerely seek to know the truth.
-
-**The scholars**
-Ibn Kathir notes the salaf differed on the speakers: per Ibn 'Abbas (via Muhammad bin Ishaq) it was a Jewish man, Rafi' bin Huraymilah, while Abu Al-'Aliyah, Ar-Rabi', Qatadah and As-Suddi held it was the Arab idolaters — whose words merely followed those of the Jews and Christians before them, for "their hearts are alike," sharing disbelief, stubbornness, and injustice. The arguments were made clear, needing no further proof; yet for those whose hearts and hearing Allah has sealed, no sign will help (cf. 10:96-97). Maarif ul Quran adds that the People of the Book are called "ignorant" not for lack of learning but because they persisted in denial despite clear proofs — "the conduct of the ignorant."
-
-**From the Sunnah**
-Ibn Kathir's tafsir records the occasion of revelation, via Muhammad bin Ishaq from Ibn 'Abbas: Rafi' bin Huraymilah challenged the Prophet (peace be upon him) that if he were truly a Messenger, he should ask Allah to speak to them directly so they could hear His Speech — and this verse came down in reply.
-
-**Reflection**
-For a sealed heart, no sign would ever be enough; for an open one, none is even needed — the proofs are already plain. So do not wait for a private miracle before you submit. Ask Allah instead for a heart of certainty that recognizes what is already before it.
 ## Personal Reflections
-
 

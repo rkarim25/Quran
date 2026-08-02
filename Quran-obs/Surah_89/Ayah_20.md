@@ -86,11 +86,5 @@ word jamm means 'excessive'. This verse refers to the fourth evil trait of the u
 
 And you love wealth with consuming passion, as if accumulation were the purpose of life.
 
-## AI Tafsir
-
-**What this ayah teaches:** The word 'excessive' indicates that love of wealth in itself, in a sober sense, is a natural instinct of man.
-
-**Classical tafsir:** Ibn Kathir notes: The word 'excessive' indicates that love of wealth in itself, in a sober sense, is a natural instinct of man.
 ## Personal Reflections
-
 

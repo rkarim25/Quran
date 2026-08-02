@@ -238,13 +238,5 @@ Some commentators like Ibn Sirin, Masruq, Abu Salih and Qatadah رحمۃ علی�
 
 And the even and the odd—paired rhythms in creation and time, signs that nothing in the universe is random chaos.
 
-## AI Tafsir
-
-**What this ayah teaches:** The word hijr literally denotes 'to prevent'. The intellect has only been called Hijr because it prevents the person from doing that which is not befitting of him of actions and statement.
-
-**Classical tafsir:** Ibn Kathir notes: Mujahid said, "Iram was an ancient nation who were the first people of 'Ad." Qatadah bin Di'amah and As-Suddi both said, "Verily, Iram refers to the House of the kingdom of 'Ad." This latter statement is good and strong. Ibn 'Abbas said, "They carved them and they hewed them." This was also said by Mujahid, Qatadah, Ad-Dahhak and Ibn Zayd.
-
-**From the Sunnah:** a narration from Jabir that Mu'adh prayed a prayer and a man came and joined him in the prayer.
 ## Personal Reflections
-
 

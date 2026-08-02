@@ -225,13 +225,5 @@ The creed (madhhab) of people who follow the truth (ahl-ul-haqq) is to believe i
 
 If you reject the truth, know that Allah is truly not in need of you, nor does He approve of rejection from His servants. But if you become grateful through faith, He will appreciate that from you. No soul burdened with sin will bear the burden of another. Then to your Lord is your return, and He will inform you of what you used to do. He certainly knows best what is hidden in the heart.
 
-## AI Tafsir
-
-**What this ayah teaches:** If you disbelieve, then verily, Allah is not in need of you; He likes not disbelief for His servants.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, for everything to come into existence, the intention of Allah Ta’ ala is a binding condition.
-
-**From the Sunnah:** According to a Hadith in Sahih of Muslim, Allah Ta’ ala said: "0 My servants, even if the first and the last among you and the humans and the Jinns, all of them, were to fall in sin and disobedience, it does not affect My power and authority in the least." (Ib… (Sahih Muslim)
 ## Personal Reflections
-
 

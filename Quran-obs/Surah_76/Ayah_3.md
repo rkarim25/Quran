@@ -135,13 +135,5 @@ The interpretation of amshaj as 'cardinal humours/fluids' allays their doubt onc
 
 We showed them the way—whether they choose shukr, gratitude in word and deed, or ingratitude.
 
-## AI Tafsir
-
-**What this ayah teaches:** If the word 'camphor' is taken in its popular sense, it does not necessarily signify that the camphor of Paradise be equated with the camphor available in this world, because the latter is not palatable.
-
-**Classical tafsir:** Ibn Kathir notes: The word amshaj is the plural of mashj or mashj which means a 'mixture'.
-
-**From the Sunnah:** It has been mentioned previously that it is recorded in Sahih Muslim from Ibn 'Abbas that the Messenger of Allah ﷺ used to recite in the Morning prayer on Friday: (Sahih Muslim) This is like what has been recorded by Muslim in a Hadith from Abu Malik Al-Ash'ari. (Sahih Muslim)
 ## Personal Reflections
-
 

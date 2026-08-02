@@ -154,11 +154,5 @@ There is a hint in this verse that those who are bestowed with long life in this
 
 then there came to them what they had been threatened with:
 
-## AI Tafsir
-
-**What this ayah teaches:** There is a hint in this verse that those who are bestowed with long life in this world by Allah Ta’ ala, it is His grace on them.
-
-**Classical tafsir:** Ibn Kathir notes: Then they will say: "Can we be respited?") means, when they see the punishment, then they will wish they had a little more time so that they can obey Allah – or so they claim.
 ## Personal Reflections
-
 

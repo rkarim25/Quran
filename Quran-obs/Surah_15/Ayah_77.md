@@ -70,11 +70,5 @@ The local Department of Archaeology has set up some hotels and residential quart
 
 Surely in this is a sign for those who believe.
 
-## AI Tafsir
-
-**What this ayah teaches:** So the Sayhah overtook them at the time of sunrise (73)And We turned them upside down and rained stones of baked clay upon them (74)Surely, in this are signs for those who see (75)And verily, they were right on the highroad (76)Surely, there is indeed a sign in that for the believers .
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

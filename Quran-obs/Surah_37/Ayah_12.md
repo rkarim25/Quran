@@ -83,11 +83,5 @@ As for the reaction of disbelievers on rational proofs, it was said: بَلْ ع
 
 In fact, you are astonished by their denial, while they ridicule you.
 
-## AI Tafsir
-
-**What this ayah teaches:** Given here first is the stance of the Holy Prophet ﷺ who wonders as to how could these people, after having such clear proofs before them, still remain reluctant to accept the truth while these people, on the contrary, indulge in making fun of the proofs and beliefs presented by him before them.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

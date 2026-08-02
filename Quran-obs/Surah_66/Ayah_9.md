@@ -118,11 +118,5 @@ Sayyidna ` Ali ؓ was asked as to what is 'taubah' and he replied that it consis
 
 O Prophet: strive against the those who reject the truth and the hypocrites, and be firm with them. Hell will be their home—what an evil destination.
 
-## AI Tafsir
-
-**What this ayah teaches:** Strive hard against the those who reject the truth and the hypocrites, and be severe against them; their abode will be Hell, and worst indeed is that destination (9)Allah sets forth an example for those who disbelieve: the wife of Nuh and the wife of Lut.
-
-**Classical tafsir:** Ibn Kathir notes: As for the wife of Prophet Lut, she used to inform the people of the city (Sodom), who committed the awful sexual act (sodomy), whenever a guest was entertained by her husband." Ad-Dahhak reported that Ibn 'Abbas said, "No wife of a Prophet ever committed adultery and fornication.
 ## Personal Reflections
-
 

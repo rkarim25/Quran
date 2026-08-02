@@ -150,13 +150,5 @@ While stating the sex of children in this verse, Allah Ta’ ala has mentioned f
 
 They will have no protectors to help them against Allah. And whoever Allah leaves to stray, for them there is no way.
 
-## AI Tafsir
-
-**What this ayah teaches:** And whomsoever Allah sends astray, for him there is no protector after Him.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** The earlier three of the above verses state the end of those people who, as against the virtuous Muslims, remained desirous of the delights and luxuries of this world, instead of caring about the Hereafter.
 ## Personal Reflections
-
 

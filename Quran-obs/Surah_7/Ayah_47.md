@@ -108,13 +108,5 @@ Stated next is the status of the people of A` raf that they have yet to enter Pa
 
 When their eyes will turn towards the residents of Hell, they will pray, “Our Rabb! Do not join us with the wrongdoing people.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Stated next is the status of the people of A` raf that they have yet to enter Paradise, though they hope to.
-
-**Classical tafsir:** Ibn Kathir notes: Place us not with the people who are wrongdoers.") Ad-Dahhak reported that Ibn 'Abbas said, "When the people of Al-A'raf look at the people of the Fire and recognize them, they will supplicate, 'O Lord!
-
-**From the Sunnah:** Paradise, and their good deeds qualified them to avoid the Fire.
 ## Personal Reflections
-
 

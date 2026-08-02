@@ -110,11 +110,5 @@ In the phrase مِّنْ أَزْوَاجِكُم the word مِّنْ (min) Min 
 
 leaving the wives that your Rabb has created for you? In fact, you are a transgressing people.”
 
-## AI Tafsir
-
-**What this ayah teaches:** The other possibility is that the letter 'Min' is used to mean 'from' or 'out of; then the meaning of the verse would be that it is a special part in the body of your wives which is created for the satisfaction of your natural urge.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

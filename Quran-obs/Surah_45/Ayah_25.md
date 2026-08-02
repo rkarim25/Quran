@@ -174,11 +174,5 @@ Atheists believed that ` Time' is the cause of life, death, vicissitudes of cond
 
 Whenever Our clear revelations are recited to them, their only argument is: "Bring our forefathers back, if what you say is true!"
 
-## AI Tafsir
-
-**What this ayah teaches:** The Messenger of Allah said: "Do not revile time because time actually is Allah." The ignorant who claim that a particular work was done by time is actually the work of Divine power - time is nothing. This was the creed of Arab idolators who used to deny Resurrection, in addition to, the creed of the atheist philosophers among them who denied the creation and Resurrection.
-
-**Classical tafsir:** Ibn Kathir notes: The Messenger of Allah said: "Do not revile time because time actually is Allah." The ignorant who claim that a particular work was done by time is actually the work of Divine power - time is nothing.
 ## Personal Reflections
-
 

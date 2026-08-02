@@ -74,11 +74,5 @@ Here the word سَمَاء is purported for clouds, and Jibal جِبَالٍ (mo
 
 We have indeed sent down revelations clarifying the truth. But Allah only guides whoever He wills to the Sirat al-Mustaqim — the way of living that pleases Allah.
 
-## AI Tafsir
-
-**What this ayah teaches:** And Allah guides whom He wills to the straight path.) Allah states that in this Qur'an He has revealed many clear and unambiguous rulings, words of wisdom and parables, and that He guides people of understanding, insight and intellect to ponder and understand them. We have indeed sent down manifest Ayat.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

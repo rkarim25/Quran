@@ -74,11 +74,5 @@ Sayyidna Musa (علیہ السلام) reminded the Pharaoh, at the first place, 
 
 Pharaoh asked, “And what about previous peoples?”
 
-## AI Tafsir
-
-**What this ayah teaches:** Therefore, He did not give man the form of a wild beast, nor did He give wild beasts the form of the dog.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, He did not give man the form of a wild beast, nor did He give wild beasts the form of the dog.
 ## Personal Reflections
-
 

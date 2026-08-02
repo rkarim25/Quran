@@ -154,13 +154,5 @@ Further on, the verse describes the tradition which has been established for all
 
 Call all people to the pilgrimage. They will come to you on foot and on every lean camel from every distant path,
 
-## AI Tafsir
-
-**What this ayah teaches:** They will come to you on foot and on every lean camel, they will come from every Fajj 'Amiq . From that remote time until today, though thousands of years have elapsed, people come to Baitullah to perform pilgrimage, just as they did in the earliest times.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** There is no one among the Muslims who does not long to see the Ka'bah and perform Tawaf, people come to this spot from every corner of the world.
 ## Personal Reflections
-
 

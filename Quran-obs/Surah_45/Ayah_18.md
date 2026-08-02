@@ -128,15 +128,5 @@ The Status of Previous Shari'ahs for Muslims
 
 We have set you on the clear Way of faith. Follow it, and do not follow the desires of those who do not know.
 
-## AI Tafsir
-
-**Context:** (Then We have put you on a (legal) way of commandment. So follow you that.) 'follow what was revealed to you from your Lord, O Muhammad, there is no true deity except Him, and turn away from the idolators.' Allah said,
-
-**What this ayah teaches:** Verily, the wrongdoers are protecting friends of one another, but Allah is the Protector of those who have Taqwa (19)This is a clear insight and evidence for mankind, and a guidance and a mercy for people who have faith with certainty .
-
-**Classical tafsir:** Ibn Kathir notes: This indicates that the law is applicable in the Shari` ah of this Ummah also.
-
-**From the Sunnah:** This Ayah contains a warning to the Muslim Ummah as well. (Sahih Muslim)
 ## Personal Reflections
-
 

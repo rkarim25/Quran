@@ -262,13 +262,5 @@ Many European excavators and explorers of the current age made attempts to dig i
 
 near which is the Garden of Abode—
 
-## AI Tafsir
-
-**Context:** He has been taught by one mighty in power (5)Dhu Mirrah then he Istawa (6)While he was in the highest part of the horizon (7)Then he approached and came closer (8)And was at a distance of two bows' length or less (9)So (…
-
-**What this ayah teaches:** He has been taught by one mighty in power (5)Dhu Mirrah then he Istawa (6)While he was in the highest part of the horizon (7)Then he approached and came closer (8)And was at a distance of two bows' length or less (9)So (Allah) revealed to His servant whatever He revealed (10)The heart lied not in what he saw (11)Will you then dispute with him about what he saw (12)And indeed he…
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, this verifies the facts mentioned, leaving no doubt or means of refute.
 ## Personal Reflections
-
 

@@ -250,13 +250,5 @@ In verse 69, it was said: وَجِيءَ بِالنَّبِيِّينَ وَال
 
 And those who lived with taqwa will be led to Paradise in successive groups. When they arrive at its already open gates, its keepers will say, "Peace be upon you! You have done well, so come in, to stay forever."
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, our Lord is indeed Oft-Forgiving, Most Ready to appreciate (good deeds).
-
-**Classical tafsir:** Ibn Kathir notes: Each of them will have two wives, the marrow of whose shin bones will be visible from beneath the skin because of their beauty.
-
-**From the Sunnah:** Paradise on the Day of Resurrection and will ask for it to be opened. (Sahih Muslim) Paradise will enter looking like the moon on the night when it is full. (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
-
 

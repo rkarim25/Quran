@@ -263,13 +263,5 @@ Ibn 'Abbas, may Allah be pleased with him, replied:
 
 Then He turned to the heaven when it was still like smoke, saying to it and to the earth, "Submit, willingly or unwillingly." They both responded, "We submit willingly."
 
-## AI Tafsir
-
-**What this ayah teaches:** This is how He described Himself, and this is how He still is.
-
-**Classical tafsir:** Ibn Kathir notes: And the mountains He has fixed firmly, (to be) a provision and benefit for you and your cattle.)(79:27-33) This Ayah states that the spreading out of the earth came after the creation of the heavens, but the earth itself was created before the heavens according to some texts.
-
-**From the Sunnah:** This was the response of Ibn 'Abbas, may Allah be pleased with him, as recorded by Al-Bukhari in his Tafsir of this Ayah in his Sahih. (Sahih al-Bukhari)
 ## Personal Reflections
-
 

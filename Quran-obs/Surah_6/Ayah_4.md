@@ -102,11 +102,5 @@ The fourth verse carries a complaint against the anti-truth doggedness and obsti
 
 Whenever a sign comes to them from their Rabb, they turn away from it.
 
-## AI Tafsir
-
-**What this ayah teaches:** Threatening the Idolators for their Stubbornness Allah states that the rebellious, stubborn polytheists will turn away from every Ayah, meaning, sign, miracle and proof that is evidence of Allah's Uniqueness and the truth of His honorable Messengers.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, beware of the same end that might befall you, for you are not dearer to Allah than these previous nations, but the Messenger whom you defied is dearer to Allah than the Messengers they defied.
 ## Personal Reflections
-
 

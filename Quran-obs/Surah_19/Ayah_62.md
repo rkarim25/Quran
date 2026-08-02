@@ -150,13 +150,5 @@ Some scholars have explained that mention of morning and the evening is a genera
 
 There they will hear no idle talk—only peace. Their provision will be morning and evening.
 
-## AI Tafsir
-
-**What this ayah teaches:** And they will have therein their sustenance, morning and afternoon (62)Such is the Paradise which We shall give as an inheritance to those of Our servants who had Taqwa .
-
-**Classical tafsir:** Ibn Kathir notes: This means that these Gardens are from the unseen things that they believe in, even though they have never witnessed them.
-
-**From the Sunnah:** Paradise), but they will be living in times that alternate. (Musnad Ahmad) Paradise will have forms like the form of the moon on a night when it is full. (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
-
 

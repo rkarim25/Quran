@@ -122,13 +122,5 @@ To sum up, the introduction of a brief account of Sayyidna Nuh (علیہ الس�
 
 But they rejected him, so We saved him and those with him in the Ark, and drowned those who rejected Our signs. They were certainly a blind people.
 
-## AI Tafsir
-
-**What this ayah teaches:** Here, Allah said that He has taken revenge from His enemies and saved His Messenger ﷺ and those who believed in him, while destroying their disbelieving enemies. For example, Allah destroyed the people of Nuh, and saved Nuh and his believing followers.
-
-**Classical tafsir:** Ibn Kathir notes: Ibn Wahb said that he was told that Ibn 'Abbas said that eighty men were saved with Nuh in the ship, one of them was Jurhum, who spoke Arabic.
-
-**From the Sunnah:** Ibn Abi Hatim collected this statement, which was also narrated with a continuous chain of narration from Ibn 'Abbas.
 ## Personal Reflections
-
 

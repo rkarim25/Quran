@@ -161,15 +161,5 @@ Ends here
 
 And Mary, daughter of Imran, who guarded her chastity—haya, modesty rooted in dignity—so We breathed into her through Our angel. She affirmed the words of her Lord and His Scriptures and was among the sincerely devout.
 
-## AI Tafsir
-
-**Context:** وَصَدَّقَتْ بِكَلِمَاتِ رَ‌بِّهَا وَكُتُبِهِ (and she testified to the truth of the words of her Lord and His books, and she was one of the devout....66:12) The phrase 'Words of her Lord' refers to scriptures that were r…
-
-**What this ayah teaches:** Allah commanded him to blow into a gap of her garment and that breath went into her womb through her private part; this is how 'Isa was conceived.
-
-**Classical tafsir:** Ibn Kathir notes: The word kutub [ Books ] refers to the well-known celestial books - Injil, Zabur and Torah.
-
-**From the Sunnah:** : "Whilst many men have attained spiritual perfection, among women only Sayyidah ` Asiyah ؓ ، wife of Fir'aun, and Sayyidah Maryam, daughter of ` Imran (علیہما السلام) ، achieved this perfection. (Sahih Muslim)
 ## Personal Reflections
-
 

@@ -72,11 +72,5 @@ The word: اَلشِيَعِ in the first verse (10) is the plural form of: شِ
 
 And even if We opened for them a gate to heaven, through which they continued to ascend,.
 
-## AI Tafsir
-
-**What this ayah teaches:** The Stubborn those who reject the truth will never believe, no matter what Signs and Wonders They see Allah explains the extent of their disbelief and stubborn resistance to the truth by stating that even if a door to heaven were to be opened for them, and they were to be taken up through it, they would still not believe.
-
-**Classical tafsir:** Ibn Kathir notes: The Stubborn those who reject the truth will never believe, no matter what Signs and Wonders They see Allah explains the extent of their disbelief and stubborn resistance to the truth by stating that even if a door to heaven were to be opened for them, and they were to be taken up through it,…
 ## Personal Reflections
-
 

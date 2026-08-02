@@ -173,11 +173,5 @@ And they are proofs of the 'Akhirah (Hereafter) because Allah is a great creator
 
 Surely in the alternation of night and day, and in what Allah created in the heavens and earth, are signs for people who live with taqwa — Allah-consciousness, as though Allah sees you.
 
-## AI Tafsir
-
-**What this ayah teaches:** He explains the Ayat in detail for people who have knowledge (5)Verily, in the alternation of the night and the day and in all that Allah has created in the heavens and the earth are Ayat for those who have Taqwa .
-
-**Classical tafsir:** Ibn Kathir notes: He explains the Ayat in detail for people who have knowledge (5)Verily, in the alternation of the night and the day and in all that Allah has created in the heavens and the earth are Ayat for those who have Taqwa .
 ## Personal Reflections
-
 

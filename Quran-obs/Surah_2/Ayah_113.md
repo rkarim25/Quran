@@ -335,22 +335,5 @@ These verses provide a warning to the Muslims as well, lest they too should delu
 
 The Jews say the Christians have no footing; the Christians say the same of the Jews — though both recite Scripture. Those without knowledge say the same. Allah will judge between them on the Day of Judgment regarding their dispute.
 
-## AI Tafsir
-
-**Essence**
-Two communities who both recite Scripture each dismiss the other as standing on nothing — and the ignorant echo them — yet Allah alone will settle the dispute on the Day of Resurrection, judging with truth and wronging no one by an atom's weight.
-
-**What it teaches**
-"Laysat... 'ala shay'in" — "they are on nothing" — is each side's verdict on the other, though both "recite the Book" (yatlun al-kitab) that in fact affirms the other's prophet. The ayah exposes religion reduced to tribal affiliation rather than sincere submission, and entrusts the final reckoning to Allah's justice.
-
-**The scholars**
-Ibn Kathir explains that each party read in its own Scripture the very truth it rejected: the Torah binds the Jews, by Musa's tongue, to believe in 'Isa, and the Gospel affirms Musa's prophethood — yet each disbelieved in the other. On "those who know not" he reports differing views (Qatadah: the Christians; 'Ata': nations before them; As-Suddi: the Arabs who said Muhammad ﷺ followed nothing), and notes that Ibn Jarir favored the general meaning as having no decisive evidence for any one reading. Maarif adds that they had forgotten the essence of din and mistook it for mere communal belonging — which gave the mushrikin, in their ignorance, an excuse to say the same of both. Allah will gather all and judge with truth, never wronging anyone by an atom's weight.
-
-**From the Sunnah**
-When the Najran Christians and the Jewish rabbis argued before the Prophet ﷺ, each told the other "You follow nothing" — the Jews rejecting 'Isa and the Injil, the Christian rejecting Musa and the Torah — and this ayah was revealed. (reported by Muhammad bin Ishaq from Ibn 'Abbas, in Ibn Kathir)
-
-**Reflection**
-Maarif turns the warning on the believer too: belonging to the Muslim community is not itself the sincere, Shari'ah-bound submission Allah calls for. Let deeds be the means, sought through His mercy — never a tribal badge mistaken for the real thing.
 ## Personal Reflections
-
 

@@ -194,13 +194,5 @@ Then Allah stresses His threat against being friends with them, by saying,
 
 Allah only forbids you from befriending those who fought you for your faith, drove you out, or supported others in doing so. Whoever takes them as allies are the wrongdoers.
 
-## AI Tafsir
-
-**What this ayah teaches:** These are hostile those who reject the truth and the Divine injunction in connection with them is abstain from having friendly or cordial intimacy with them.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** I came to the Prophet ﷺ and said, 'O Allah's Messenger! (Musnad Ahmad) 'A'ishah asked the Prophet ﷺ about his verdict and Allah sent down the Ayah, (Musnad Ahmad)
 ## Personal Reflections
-
 

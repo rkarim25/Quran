@@ -124,13 +124,5 @@ In accordance with the commonly adopted explanation of the verse it has now beco
 
 “By Allah! We were clearly mistaken,.
 
-## AI Tafsir
-
-**What this ayah teaches:** The above quoted famous explanation of this verse has made it clear that wherever it is mentioned in the Qur'an or hadith that the family connection will be of no avail in the Hereafter, the reference is to the non-believers.
-
-**Classical tafsir:** Ibn Kathir notes: It may also be noted that "sound heart" literally means a healthy heart.
-
-**From the Sunnah:** In accordance with the commonly adopted explanation of the verse it has now become clear that the wealth of a person could be of help to him on the Dooms Day, provided he is a Muslim. (Sahih Muslim)
 ## Personal Reflections
-
 

@@ -121,13 +121,5 @@ And Sayyidna ` Ibn ` Abbas ؓ says that Allah Ta` ala had in-formed the Holy Pro
 
 The those living in nifaq—outward acceptance with inward rejection fear that a sûrah should be revealed about them, exposing what is in their hearts. Say, “Keep mocking! Allah will definitely bring to light what you fear.”
 
-## AI Tafsir
-
-**Context:** The hypocrites fear lest a Surah should be revealed about them, showing them what is in their hearts. Say: "(Go ahead and) mock! But certainly Allah will bring to light all that you fear. (64)
-
-**What this ayah teaches:** The hypocrites fear lest a Surah should be revealed about them, showing them what is in their hearts.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

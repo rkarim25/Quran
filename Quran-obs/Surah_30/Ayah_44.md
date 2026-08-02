@@ -116,13 +116,5 @@ Sayyidi Hakim-ul-Ummah Ashraf Thanavi (رح) has given another distinction betwe
 
 those who rejected the truth will bear their rejection; those who did good will have prepared homes —
 
-## AI Tafsir
-
-**What this ayah teaches:** On that Day men shall be divided (43)Whosoever disbelieves will suffer from his disbelief, and whosoever does righteous good deeds, then such will prepare a good place for themselves (44)That He may reward those who believe and do righteous good deeds, out of His bounty.
-
-**Classical tafsir:** Ibn Kathir notes: The author of Ruh ul-Ma’ ani has explained that the word fasad' (translated in the text as 'plight' ) means all sorts of calamities, such as famine, epidemic diseases, frequency of the incidents of fire, drowning, lack of Allah's blessing in everything, and reduction in profits a…
-
-**From the Sunnah:** Further, it is also a common experience that generally the Muslim believers live a difficult life, whereas the infidels and libertines live a comfortable and easy life. (Sahih Muslim)
 ## Personal Reflections
-
 

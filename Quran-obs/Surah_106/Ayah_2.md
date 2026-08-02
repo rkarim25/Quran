@@ -87,13 +87,5 @@ Verse [ 106:2] رِ‌حْلَةَ الشِّتَاءِ وَالصَّيْفِ (
 
 Their accustomed trading journeys in winter to Yemen and summer to Syria—safe passage others did not enjoy—
 
-## AI Tafsir
-
-**What this ayah teaches:** As Syria was a cold region, they went there in summer; and Yemen had a warm climate, so they went there in winter to carry out their commercial activities. This was their situation during their journeys and travels during their winter and summer.
-
-**Classical tafsir:** Ibn Kathir notes: They (the Companions) wrote "In the Name of Allah, the ar-Rahman, the ar-Rahim" on the line (i.e., the space) between these two Surahs.
-
-**From the Sunnah:** And I am commanded to be from among the Muslims.)(27:91)
 ## Personal Reflections
-
 

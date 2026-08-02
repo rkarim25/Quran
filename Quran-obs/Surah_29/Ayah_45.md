@@ -181,13 +181,5 @@ But most commentators have explained that the verse is not in the form of a comm
 
 Recite what was revealed to you of the Book and establish salah. Genuine salah should restrain from indecency and wrong; dhikr — conscious remembrance of Allah — is even greater. Allah knows what you do.
 
-## AI Tafsir
-
-**Context:** Allah created the heavens and the earth with truth. Verily, therein is surely a sign for those who believe (44)Recite what has been revealed to you of the Book, and perform the Salah.
-
-**What this ayah teaches:** Verily, the Salah prevents from Al-Fahsha' and Al-Munkar and the remembrance of Allah is greater indeed.) Prayer includes two things: the first of which is giving up immoral behavior and evil deeds, i.e., praying regularly enables a person to give up these things.
-
-**Classical tafsir:** Ibn Kathir notes: According to innumerous authentic ahadith, this verse means that there is a peculiar effect of the establishment of salah (prayer) that whoever performs it stops committing sins, provided it is not offered just for the sake of offering.
 ## Personal Reflections
-
 

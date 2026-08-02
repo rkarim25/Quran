@@ -216,13 +216,5 @@ Even in our day, there are those religiously observing and innocent-looking Musl
 
 Remember when the hypocrites and those with sickness in their hearts said: "These people's iman has deluded them." But whoever puts trust in Allah—Allah is Almighty, All-Wise.
 
-## AI Tafsir
-
-**What this ayah teaches:** That the most frequent reason why people get involved in disbelief, polytheism or other impermissible doings is no other but that the Shaitan, by making their evil deeds appear handsome, desirable and beneficial, turns their hearts away from truth, as it is, and its consequences, as they would be.
-
-**Classical tafsir:** Ibn Kathir notes: Once so brain-washed, they would start taking their false as the epitome of truth and their loss as the ultimate gain, so much so that, very much like the votaries of truth, they would be all set to lay down even their lives for the sake of their false notions.
-
-**From the Sunnah:** I am your neighbor.' When they met the Muslims and Shaytan witnessed the angels coming to their aid, They believed, without doubt, that they would defeat the Muslims.
 ## Personal Reflections
-
 

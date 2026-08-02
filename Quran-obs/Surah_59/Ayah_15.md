@@ -159,15 +159,5 @@ The Holy Prophet's ﷺ decision was to have the Jewish men executed. But ` Abdul
 
 They are like those who came before them: they tasted the evil result of their deeds and will suffer a painful punishment.
 
-## AI Tafsir
-
-**Context:** As stated earlier, when the Holy Prophet migrated from Makkah and settled in Madinah, he concluded a peace treaty with the Jewish tribes of Madinah, and of its neighbourhood.
-
-**What this ayah teaches:** The False Promise of Support the Hypocrites gave to the Jews Allah states that the hypocrites, 'Abdullah bin Ubayy and his like, sent a messenger to Bani An-Nadir promising them help. That is because they are a people who comprehend not (13)They fight not against you even together, except in fortified townships, or from behind walls.
-
-**Classical tafsir:** Ibn Kathir notes: That is because they are a people who comprehend not (13)They fight not against you even together, except in fortified townships, or from behind walls.
-
-**From the Sunnah:** They only fight when they have to defend themselves (even though they threaten Muslims of reprisals).
 ## Personal Reflections
-
 

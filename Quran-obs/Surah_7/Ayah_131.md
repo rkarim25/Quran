@@ -158,13 +158,5 @@ The Arabic word: طَائِرٍ‌ 'T-a'ir' used for omen signifies a bird. The 
 
 In times of prosperity, they said, “This is what we deserve,” but in adversity, they blamed it on Moses and those with him. Surely all is destined by Allah. Yet most of them did not know.
 
-## AI Tafsir
-
-**What this ayah teaches:** And indeed We punished the people of Fir'awn with years of drought and lack of fruits (crops), that they might remember (take heed)(130)But whenever good came to them, they said: "This is for us." And if evil afflicted them, they considered it an omen about Musa and those with him.
-
-**Classical tafsir:** Ibn Kathir notes: The last verse describes their rejection of the truth in these words:
-
-**From the Sunnah:** Abu Ishaq narrated that Raja' bin Haywah said, "The date tree used to produce only one date!"
 ## Personal Reflections
-
 

@@ -144,13 +144,5 @@ Commentary
 
 So We seized him and his soldiers, casting them into the sea. See then what was the end of the wrongdoers!
 
-## AI Tafsir
-
-**What this ayah teaches:** So kindle for me (a fire), O Haman, to bake clay, and set up for me a Sarh in order that I may look at the Allah of Musa; and verily, I think that he (Musa) is one of the liars.
-
-**Classical tafsir:** Ibn Kathir notes: So kindle for me (a fire), O Haman, to bake clay, and set up for me a Sarh in order that I may look at the Allah of Musa; and verily, I think that he (Musa) is one of the liars.
-
-**From the Sunnah:** Historical narrations have recorded that Haman had collected fifty thousand masons for building this palace.
 ## Personal Reflections
-
 

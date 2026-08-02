@@ -111,11 +111,5 @@ It is worth noting here that this saying of Musa (علیہ السلام) has est
 
 And so Moses became fearful, watching out in the city, when suddenly the one who sought his help the day before cried out to him again for help. Moses rebuked him, “Indeed, you are clearly a trouble-maker.”
 
-## AI Tafsir
-
-**What this ayah teaches:** So he became afraid, looking about in the city, when behold, the man who had sought his help the day before, called for his help (again). Therefore, by declaring him a criminal he vowed not to help such a person again.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, by declaring him a criminal he vowed not to help such a person again.
 ## Personal Reflections
-
 

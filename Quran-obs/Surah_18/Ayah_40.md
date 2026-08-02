@@ -141,13 +141,5 @@ The word: حُسبانا - (husbana) in verse 40 has been explained by Qatadah a
 
 perhaps my Rabb will grant me something better than your garden, and send down upon your garden a thunderbolt from the sky, turning it into a barren waste.
 
-## AI Tafsir
-
-**What this ayah teaches:** Seeing that you were dead and He gave you life)[2:28] meaning, how can you reject your Lord and His clear signs to you, which every one recognizes in himself, for there is no one among His creatures who does not know that he was nothing, then he came to be, and his existence is not due to himself or any other creature.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** It was reported in the Sahih from Abu Musa that the Messenger of Allah ﷺ said:
 ## Personal Reflections
-
 

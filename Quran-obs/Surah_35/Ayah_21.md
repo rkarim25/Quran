@@ -104,11 +104,5 @@ Sayyidna ` Ikrimah ؓ said that this is what the verse: لَا تَزِرُ‌ �
 
 nor scorching heat and cool shade.
 
-## AI Tafsir
-
-**What this ayah teaches:** Not alike are the blind and the seeing (19)Nor are (depths of) darkness and light (20)Nor are the shade and the sun's heat (21)Nor are the living and the dead.
-
-**Classical tafsir:** Ibn Kathir notes: Instead, their burden will weigh on them as it was in its own place and because of the crime of those who made people go astray, being twofold, their burden too will become twofold, one: that of being astray and two: that of making others go astray.
 ## Personal Reflections
-
 

@@ -150,13 +150,5 @@ Fifthly, deviation from the commandments of Allah is, in itself a punishment and
 
 What an evil example of those who denied Our signs! They wronged their own souls.
 
-## AI Tafsir
-
-**Context:** "Is about Bal'am bin Ba'ura' a man from the Children of Israel." Shu'bah and several other narrators narrated this statement from Mansur who got it from Ibn Mas'ud.
-
-**What this ayah teaches:** Therefore, his example is the example of the dog, its tongue pants regardless of whether it is driven away or not.
-
-**Classical tafsir:** Ibn Kathir notes: He used to live in Bayt Al-Maqdis with the tyrants." Al-'Awfi reported that Ibn 'Abbas said, "He is Bal'am bin Ba'ura', a man from Yemen whom Allah had given the knowledge of His Ayat, but he abandoned them." Malik bin Dinar said, "He was one of the scholars of the Children of Israel whose supplicat…
 ## Personal Reflections
-
 

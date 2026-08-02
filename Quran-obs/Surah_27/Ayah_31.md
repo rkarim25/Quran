@@ -127,13 +127,5 @@ Looking at the letter of Sayyidna Sulaiman (علیہ السلام) one cannot av
 
 Do not be arrogant with me, but come to me, fully submitting to Allah.’”
 
-## AI Tafsir
-
-**What this ayah teaches:** Therefore, it is also in order if the name of the writer is written first and then Bismillah.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, it is also in order if the name of the writer is written first and then Bismillah.
-
-**From the Sunnah:** Hence, it should be taken in that light and Muslims should try to follow the guidance provided in it for letter writing. Religious jurist Abu al-Layth has written in his Bustan that if someone starts with the name of the addressee, no one can question its permissibility, because this has also been the practice among the Muslims for long, and no one has objected to that.
 ## Personal Reflections
-
 

@@ -138,11 +138,5 @@ so they were seized by the torment of the Day of Canopy. - 26:189
 
 Surely in this is a sign. Yet most of them would not believe.
 
-## AI Tafsir
-
-**What this ayah teaches:** Indeed that was the torment of a Great Day (189)Verily, in this is indeed a sign, yet most of them are not believers (190)And verily your Lord, He is indeed the All-Mighty, the ar-Rahim . Indeed that was the torment of a Great Day.) This is what they asked for, when they asked for a part of the heaven to fall upon them.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

@@ -93,11 +93,5 @@ The saying of the hypocrites in verse 156 here is an extension of what was cited
 
 Whether you die or are martyred—all of you will be gathered before Allah.
 
-## AI Tafsir
-
-**What this ayah teaches:** And Allah is All-Seer of what you do (156)And if you are killed or die in the way of Allah, forgiveness and mercy from Allah are far better than all that they amass (157)And whether you die or are killed, verily, unto Allah you shall be gathered .
-
-**Classical tafsir:** Ibn Kathir notes: Be not like those who disbelieve and who say to their brethren when they travel through the earth or go out to fight: "If they had stayed with us, they would not have died or been killed," so that Allah may make it a cause of regret in their hearts.
 ## Personal Reflections
-
 

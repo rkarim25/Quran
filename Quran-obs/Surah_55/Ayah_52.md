@@ -88,13 +88,5 @@ This Ayah is general and applies to both humans and Jinns, providing proof that 
 
 In each are two kinds of every fruit.
 
-## AI Tafsir
-
-**What this ayah teaches:** This may be referring to one kind of dried fruits, and the other of fresh ones.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** The Group, with the exception of Abu Dawud, collected this via the Hadith of 'Abdul-'Aziz. (Sunan Abi Dawud)
 ## Personal Reflections
-
 

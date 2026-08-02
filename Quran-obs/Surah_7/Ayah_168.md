@@ -237,13 +237,5 @@ sorrow make us weep. Both came as guests to our resolute spirit."
 
 We dispersed them through the land in groups—some were righteous, others were less so. We tested them with prosperity and adversity, so perhaps they would return.
 
-## AI Tafsir
-
-**What this ayah teaches:** And We have broken them (the Jews) up into various separate groups on the earth: some of them are righteous and some are away from that. However, when one of them would take bribes in return for judgment and was asked, 'What is the matter with you; you take a bribe to grant judgment?', he replied, 'I will be forgiven.' So the rest of his people would admonish him for what he did.
-
-**Classical tafsir:** Ibn Kathir notes: This indicates that being integrated in a whole, or having an entity as a nation is a blessing of Allah while getting disorganized into parts separated from each other is a punishment from Him.
-
-**From the Sunnah:** The Muslims have always enjoyed the blessing of having their own entity, and being recognized as an organized people in the world.
 ## Personal Reflections
-
 

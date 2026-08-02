@@ -212,13 +212,5 @@ Forth Attribute is guarding ones private parts against unlawful liaison. وَا�
 
 those who humble themselves in salah — the formal prayer;
 
-## AI Tafsir
-
-**Context:** (And those who pay the Zakah.) Most commentators say that the meaning here is the Zakah that is paid on wealth, even though this Ayah was revealed in Makkah, and Zakah was ordained in Al-Madinah in the year 2 H.
-
-**What this ayah teaches:** Khushu' in prayer is only attained by the one who has emptied his heart totally, who does not pay attention to anything else besides it, and who prefers it above all else.
-
-**Classical tafsir:** Ibn Kathir notes: Al-Hasan Al-Basri said, "Their Khushu' was in their hearts." So they lowered their gaze and were humble towards others.
 ## Personal Reflections
-
 

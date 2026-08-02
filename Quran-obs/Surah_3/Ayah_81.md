@@ -197,19 +197,5 @@ In this, there is the necessary refutation of the Christians who claimed that it
 
 When Allah made a covenant with the prophets, “Now that I have given you the Book and wisdom, if there comes to you a messenger confirming what you have, you must believe in him and support him.” He added, “Do you affirm this covenant and accept this commitment?” They said, “Yes, we do.” Allah said, “Then bear witness, and I too am a Witness.”
 
-## AI Tafsir
-
-**Essence**
-Allah bound every Prophet by covenant to believe in and support the Messenger who would come confirming what they had — and supremely the Final Prophet, Muhammad ﷺ.
-
-**What it teaches**
-Allah took a mithaq (binding covenant) from the Prophets: however high the rank that the Book and the hikmah (wisdom — true understanding and right judgment) had given them, if a Messenger came confirming their scriptures they were to believe in him (latu'minunna, "you shall surely believe") and aid him (latansurunnahu, "you shall surely help him"). Allah then put the pledge to them as a twofold demand — "Do you agree, and will you take up Isri (My covenant)?" They answered, "We affirm," and He sealed it: "Then bear witness, and I am with you among the witnesses."
-
-**The scholars**
-Ibn Kathir holds the pledge was taken from every Prophet from Adam to 'Isa: their own knowledge and prophethood must never keep them from following a later Messenger. On "Isri," Ibn 'Abbas, Mujahid, Ar-Rabi', Qatadah and As-Suddi say it means "My covenant," while Muhammad bin Ishaq says "the responsibility of My covenant" — the ratified pledge they gave. 'Ali ibn Abi Talib and 'Abdullah ibn 'Abbas state that Allah never sent a Prophet without taking his pledge that, were Muhammad ﷺ sent in his lifetime, he would believe in and support him, and would bind his nation to the same; Tawus, Al-Hasan Al-Basri and Qatadah add that the Prophets pledged to believe in one another — a reading Ibn Kathir says does not contradict the first. From this he affirms that Muhammad ﷺ is the Final Prophet, the greatest Imam owed obedience above all others, who led the Prophets in prayer at Bayt Al-Maqdis on the night of Isra' and who alone will rise to Al-Maqam Al-Mahmud (the praised station) of intercession that the mighty Messengers decline. Maarif ul Quran draws from the same covenant the 'ismah (Allah-given protection from sin) of the Prophets: one whom Allah knows will never overstep loyalty to Him cannot later turn to shirk or revolt, for that would imply defect in Divine knowledge — refuge with Allah. It thus refutes the Christian claim that the Masih (peace be upon him) called people to believe in his sonship and divinity, corrects Muslims who asked about prostrating to the Prophet ﷺ instead of giving salam, and rebukes the People of the Book who raised their rabbis and monks to the station of lords beside Allah.
-
-**Reflection**
-If the very Prophets bowed their rank to the truth that came after them, then humble loyalty to Allah's final Messenger — over pride in our own standing — is the believer's surest path.
 ## Personal Reflections
-
 

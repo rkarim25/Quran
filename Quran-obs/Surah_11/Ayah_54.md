@@ -129,11 +129,5 @@ Sayyidna Salih (علیہ السلام) warned them: If Allah Ta` ala shows you y
 
 All we can say is that some of our gods have possessed you with evil.” He said, “I call Allah to witness, and you too bear witness, that I totally reject whatever you associate.
 
-## AI Tafsir
-
-**What this ayah teaches:** And we are not believers in you (53)All that we say is that some of our gods (false deities) have seized you with evil (madness).
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

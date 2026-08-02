@@ -163,13 +163,5 @@ Taking Musa as an Example
 
 We gave Moses the Scripture, but differences arose regarding it. Had it not been for a prior decree from your Lord, their differences would have been settled at once. They are truly in alarming doubt about it.
 
-## AI Tafsir
-
-**Context:** (And if We had revealed it unto any of the non-Arabs, and he had recited it unto them, they would not have believed in it.)(26:198-199).
-
-**What this ayah teaches:** And had it not been for a Word that went forth before from your Lord, and the matter would have been settled between them.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore ` ajamiyy is a person who is non-Arab, even though he may speak eloquently, and a'jamiyy is a person who cannot speak eloquently (Qurtubi).
 ## Personal Reflections
-
 

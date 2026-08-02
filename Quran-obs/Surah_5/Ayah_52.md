@@ -207,13 +207,5 @@ It means that these people are under the impression that the disbelievers and th
 
 You see those with sickness in their hearts racing for their guardianship, saying, “We fear a turn of fortune will strike us.” But perhaps Allah will bring about victory or another favour by His command, and they will regret what they have hidden in their hearts.
 
-## AI Tafsir
-
-**What this ayah teaches:** The Prohibition of Taking the Jews, Christians and Enemies of Islam as Friends Allah forbids His believing servants from having Jews and Christians as friends, because they are the enemies of Islam and its people, may Allah curse them.
-
-**Classical tafsir:** Ibn Kathir notes: The Prohibition of Taking the Jews, Christians and Enemies of Islam as Friends Allah forbids His believing servants from having Jews and Christians as friends, because they are the enemies of Islam and its people, may Allah curse them.
-
-**From the Sunnah:** Ibn Abi Hatim recorded that 'Umar ordered Abu Musa Al-Ash'ari to send him on one sheet of balance the count of what he took in and what he spent.
 ## Personal Reflections
-
 

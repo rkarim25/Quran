@@ -108,11 +108,5 @@ Verses appearing immediately earlier described the many blessings of Allah Ta` a
 
 If you tried to count Allah's blessings, you could never enumerate them. Humanity is truly unjust and ungrateful.
 
-## AI Tafsir
-
-**What this ayah teaches:** Now, in the present verses, there comes an admonition against the failure of people to recognize that there is a fact behind the statement describing all these blessings - and that is Tauhid, the Oneness of Allah Ta’ ala, except whom there is none worthy of worship.
-
-**Classical tafsir:** Ibn Kathir notes: He was the first one to travel by ship, he was taught how to make them, then people took this knowledge from him and passed it down from generation to generation through the centuries, so that they could travel from country to country and from place to place, bringing goods from…
 ## Personal Reflections
-
 

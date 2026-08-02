@@ -85,11 +85,5 @@ There is absolutely no doubt that Allah's knowledge precedes the occurrence of a
 
 We will certainly test you until We make evident those among you who strive in jihad—struggle in Allah's cause—and those who remain steadfast, and until We see how you conduct yourselves.
 
-## AI Tafsir
-
-**What this ayah teaches:** Because of that, this Surah (Surah Bara'ah) is also called "The Exposer". In this Ayah, "until We know" means 'until We know of its occurrence.' This is why Ibn 'Abbas said in regard to this and similar texts, "Except so that We may know, means, so that We may see."
-
-**Classical tafsir:** Ibn Kathir notes: In this Ayah, "until We know" means 'until We know of its occurrence.' This is why Ibn 'Abbas said in regard to this and similar texts, "Except so that We may know, means, so that We may see."
 ## Personal Reflections
-
 

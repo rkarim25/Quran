@@ -140,13 +140,5 @@ This verse proves that:
 
 That was Allah’s way with those those of nifaq who have gone before. And you will find no change in Allah’s way.
 
-## AI Tafsir
-
-**What this ayah teaches:** And Allah is Ever Oft-Forgiving, ar-Rahim (59)If the hypocrites and those in whose hearts is a disease, and those who spread false news among the people in Al-Madinah stop not, We shall certainly let you overpower them, then they will not be able to stay in it as your neighbors but a little while (60)Accursed, they shall be seized wherever found, and killed with a (terribl…
-
-**Classical tafsir:** Ibn Kathir notes: Al-Jawhari said: "The Jilbab is the outer wrapper." Ali bin Abi Talhah reported that Ibn 'Abbas said that Allah commanded the believing women, when they went out of their houses for some need, to cover their faces from above their heads with the Jilbab, leaving only one eye showing.
-
-**From the Sunnah:** protection of their life, property and honor becomes obligatory on Muslims very much like that of Muslims themselves.
 ## Personal Reflections
-
 

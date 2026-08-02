@@ -295,15 +295,5 @@ The Holy Prophet ﷺ is reported to have said: لَا رَھبَانِیُّۃَ
 
 Then We sent Our messengers in succession. We sent Jesus son of Mary and gave him the Gospel, and placed compassion and mercy in the hearts of his followers. As for monasticism—they invented it; We did not prescribe it for them except to seek Allah's pleasure, yet they did not observe it as they should. So We gave those among them who had iman their reward, but many of them were rebellious.
 
-## AI Tafsir
-
-**Context:** (Then, We sent after them Our Messengers, and We sent 'Isa the son of Maryam, and gave him the Injil.) refering to the Injil that Allah revealed to him,
-
-**What this ayah teaches:** And among them there are some who are guided; but many of them are rebellious (26)Then, We sent after them Our Messengers, and We sent 'Isa the son of Maryam, and gave him the Injil. And We ordained in the hearts of those who followed him, compassion and mercy.
-
-**Classical tafsir:** Ibn Kathir notes: The word ra'fah means to alleviate the calamity of someone, while the word rahmah means to give to someone what he needs.
-
-**From the Sunnah:** a man came to him and asked him for advice, and Abu Sa'id said that he asked the same of Allah's Messenger ﷺ. (Musnad Ahmad)
 ## Personal Reflections
-
 

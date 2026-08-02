@@ -167,11 +167,5 @@ The above statement of Pharaoh's people, 'Even when he abandons you and your god
 
 The chiefs of Pharaoh’s people protested, “Are you going to leave Moses and his people free to spread corruption in the land and abandon you and your gods?” He responded, “We will kill their sons and keep their women. We will completely dominate them.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Pharaoh was frightened It is to be noted that the Pharaoh was in some degree successful in keeping his ignorant people in their former ignorance through his clever and false statements, but at the same time, they strangely noted that all the fury and rage of Pharaoh was limited to the sorcerers only.
-
-**Classical tafsir:** Ibn Kathir notes: He had tormented them [killing every newly born male] before Musa was born, so that Musa would not live.
 ## Personal Reflections
-
 

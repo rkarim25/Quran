@@ -42,11 +42,5 @@ Addressing Iblis in Surah Al-A` raf, it was said: مَا مَنَعَكَ أَل
 
 until the appointed Day.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Every bell that rings on this earth until the Day of Resurrection is part of that.
-
-**Classical tafsir:** Ibn Kathir notes: This indicates that the main prostraters were after all the angels but Iblis too, being present with them, was reason-bound to join the prostrating an-gels.
 ## Personal Reflections
-
 

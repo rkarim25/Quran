@@ -287,13 +287,5 @@ It appears in the next verse (23) that two persons, God-fearing and blessed by A
 
 They replied, “O Moses! There is an enormously powerful people there, so we will never enter it until they leave. If they do, then we will enter!”
 
-## AI Tafsir
-
-**What this ayah teaches:** Instead of doing that, they said: ` 0 Musa, there is a nation of tyrants over there, and we shall never go in there until they get out of it.
-
-**Classical tafsir:** Ibn Kathir notes: It was also said that the Ayah reads in a way that means that these men were respected and honored by their people.
-
-**From the Sunnah:** The Muslim Ummah is more respected and honored before Allah, and has a more perfect legislative code and system of life, it has the most honorable Prophet, the larger kingdom, more provisions, wealth and children, a larger domain and more lasting glory than th… (Sahih Muslim) Musa, Allah's Messenger, ordered the Children of Israel to enter Jerusalem and fight their enemy, and he promised them victory and triumph over the mighty people if they did so.
 ## Personal Reflections
-
 

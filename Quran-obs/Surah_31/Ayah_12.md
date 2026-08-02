@@ -161,11 +161,5 @@ Mentioned after that there are some words of wise counsel spoken by Luqman (عل
 
 We granted Luqman wisdom, saying: Show shukr — gratitude expressed in word and action — to Allah. Whoever is grateful benefits their own soul; whoever is ungrateful, Allah is Self-Sufficient, Praiseworthy.
 
-## AI Tafsir
-
-**What this ayah teaches:** And whoever is unthankful, then verily, Allah is All-Rich, Worthy of all praise .
-
-**Classical tafsir:** Ibn Kathir notes: And Mujahid said that he was a thick-lipped, cracked-footed Ethiopian slave (al-Zajjaj).
 ## Personal Reflections
-
 

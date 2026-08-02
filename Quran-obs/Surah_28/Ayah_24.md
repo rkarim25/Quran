@@ -143,11 +143,5 @@ When the man told Musa about how Fir'awn and his chiefs were conspiring against 
 
 So he watered their herd for them, then withdrew to the shade and prayed, “My Rabb! I am truly in desperate need of whatever provision You may have in store for me.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Truly, I am in need of whatever good that You bestow on me!") the women heard him." He came under the shade of a tree and prayed to Allah describing his condition and need in an exquisite manner.
-
-**Classical tafsir:** Ibn Kathir notes: He was not used to being alone, because before that he had been living a life of luxury and ease, in a position of leadership.
 ## Personal Reflections
-
 

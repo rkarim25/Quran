@@ -140,15 +140,5 @@ The word: اُمَّہ (ummah) has a few other meanings, but the well-known sens
 
 We blessed him with all goodness in this dunya, and in the Akhirah he will certainly be among the righteous.
 
-## AI Tafsir
-
-**Context:** (Then, We have sent the revelation to you: "Follow the religion of Ibrahim (he was a) Hanif...) meaning, 'because of his perfection, greatness, and the soundness of his Tawhid and his way, We revealed to you, O Seal of t…
-
-**What this ayah teaches:** As for being a leader, people from all famous Faiths of the world believe in him and consider it an honour to be the followers of his community. Some commentators have taken exactly this meaning of the word at this place.
-
-**Classical tafsir:** Ibn Kathir notes: Some commentators have taken exactly this meaning of the word at this place.
-
-**From the Sunnah:** Of course, the Jews, the Christians and the Muslims revere him.
 ## Personal Reflections
-
 

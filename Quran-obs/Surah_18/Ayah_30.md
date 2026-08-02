@@ -132,11 +132,5 @@ The reason why he was prevented from accepting the advice of the Quraysh chiefs 
 
 As for those who believe and do good, We certainly never deny the reward of those who are best in deeds.
 
-## AI Tafsir
-
-**What this ayah teaches:** How good is the reward, and what an excellent Murtafaq .
-
-**Classical tafsir:** Ibn Kathir notes: Therein they shall be met with greetings and the word of peace and respect.
 ## Personal Reflections
-
 

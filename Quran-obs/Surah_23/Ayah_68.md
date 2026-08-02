@@ -172,11 +172,5 @@ The verses 68, 69 and 70 mention five reasons which might possibly have prevente
 
 Is it because they have never contemplated the Word of Allah? Or because there has come to them something that did not come to their forefathers?
 
-## AI Tafsir
-
-**What this ayah teaches:** Have they not pondered over the Word, or has there come to them what had not come to their fathers of old (68)Or is it that they did not recognize their Messenger so they deny him (69)Or they say: There is madness in him Nay, but he brought them the truth, but most of them are averse to the truth (70)And if Al-Haqq had followed their desires, verily, the heavens and the earth,…
-
-**Classical tafsir:** Ibn Kathir notes: Their persistence in their unbelief is, therefore, the result of their unreasoning hatred towards and blind prejudice against the Holy Prophet ﷺ to which a reference has been made in the latter part of the verse (Instead, the fact is that he has come to them with truth, but it is…
 ## Personal Reflections
-
 

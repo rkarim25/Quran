@@ -227,13 +227,5 @@ However, a question arises in any case: A bracelet looks good on women, but does
 
 The virtuous wear fine green silk and brocade, adorned with silver bracelets, and their Rabb gives them a purifying drink.
 
-## AI Tafsir
-
-**What this ayah teaches:** So these cups are made of silver, but due to their fine thinness, what is inside of them will be visible from outside of them (as if they are glass).
-
-**Classical tafsir:** Ibn Kathir notes: This refers to Paradise and its beauty, its vastness, its loftiness and the joy and happiness it contains.
-
-**From the Sunnah:** Paradise wear bracelets? The Answer is that suitability of any piece of jewellery to men or women depends on custom.
 ## Personal Reflections
-
 

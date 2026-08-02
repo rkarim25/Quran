@@ -149,13 +149,5 @@ The fifth verse (42) mentions an excuse offered by those who did not participate
 
 Had the gain been within reach and the journey shorter, they would have followed you, but the distance seemed too long for them. And they will swear by Allah, “Had we been able, we would have certainly joined you.” They are ruining themselves. And Allah knows that they are surely lying.
 
-## AI Tafsir
-
-**What this ayah teaches:** Had it been a near gain and an easy journey, they would have followed you, but the distance was long for them; and they would swear by Allah: "If we only could, we would certainly have come forth with you." They destroy themselves, and Allah knows that they are liars .
-
-**Classical tafsir:** Ibn Kathir notes: The fifth verse (42) mentions an excuse offered by those who did not participate in the Jihad because of negligence and lethargy.
-
-**From the Sunnah:** Allah admonishes those who lagged behind and did not join the Prophet ﷺ for the battle of Tabuk, those who asked the Prophet for permission to remain behind, falsely pretending to have legitimate reasons to do so,
 ## Personal Reflections
-
 

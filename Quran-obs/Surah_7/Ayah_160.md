@@ -210,13 +210,5 @@ The above verses have enumerated various favours that Allah bestowed upon the Is
 
 We divided them into twelve tribes—each as a community. And We revealed to Moses, when his people asked for water, “Strike the rock with your staff.” Then twelve springs gushed out. Each tribe knew its drinking place. We shaded them with clouds and sent down to them manna and quails,, “Eat from the good things We have provided for you.” They did not wrong Us, but wronged themselves.
 
-## AI Tafsir
-
-**Context:** And We divided them into twelve tribes (as distinct) nations. We revealed to Musa when his people asked him for water (saying): "Strike the stone with your stick," and there gushed forth out of it twelve springs, each gr…
-
-**What this ayah teaches:** We revealed to Musa when his people asked him for water (saying): "Strike the stone with your stick," and there gushed forth out of it twelve springs, each group knew its own place for water. And We divided them into twelve tribes (as distinct) nations.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

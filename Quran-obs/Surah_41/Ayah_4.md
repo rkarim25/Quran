@@ -145,13 +145,5 @@ When his Qurayshi companions heard his speech, they said to him "0 Abul Walid! M
 
 delivering good news and warning. Yet most of them turn away and do not listen.
 
-## AI Tafsir
-
-**What this ayah teaches:** Giving glad tidings and warning, but most of them turn away, so they hear not.)(5. A Book whereof the Ayat are explained in detail – a Qur'an in Arabic for people who know.)(4.
-
-**Classical tafsir:** Ibn Kathir notes: A Book whereof the Ayat are explained in detail – a Qur'an in Arabic for people who know.)(4.
-
-**From the Sunnah:** This was a time when Sayyidna Hamzah had become a Muslim, and the number of Muslims was increasing, and they were getting stronger day by day. (Sahih Muslim)
 ## Personal Reflections
-
 

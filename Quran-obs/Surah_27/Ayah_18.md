@@ -183,13 +183,5 @@ The expression "speech of birds" is used in the verse because of the incident of
 
 And when they came across a valley of ants, an ant warned, “O ants! Go quickly into your homes so Solomon and his armies do not crush you, unknowingly.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Enter your dwellings, lest Sulayman and his armies should crush you, while they perceive not. What is meant here is not wealth, because if that were the case, Sulayman would not have been singled out from among the sons of Dawud, as Dawud had one hundred wives.
-
-**Classical tafsir:** Ibn Kathir notes: Here also it is used in that sense and "everything" refers to those things only which are needed by the government or an empire.
-
-**From the Sunnah:** Rather what is meant is the inheritance of kingship and prophethood, for the wealth of the Prophets cannot be inherited, as the Messenger of Allah ﷺ said: Grant me the power and ability that I may be grateful for Your favors which You have bestowed on me and on my parents, and that I may do righteous good deeds that will please You,) meaning: 'inspire me to give thanks for the blessings that You have bestowed up…
 ## Personal Reflections
-
 

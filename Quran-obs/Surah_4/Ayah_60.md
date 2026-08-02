@@ -242,13 +242,5 @@ The comment which follows immediately employs the word, "Taghut" which has been 
 
 Have you not seen those who claim they believe in what has been revealed to you and what was revealed before you? They seek the judgment of false judges, which they were commanded to reject. And Satan desires to lead them farther away.
 
-## AI Tafsir
-
-**Context:** Allah chastises those who claim to believe in what Allah has sent down to His Messenger ﷺ and to the earlier Prophets, yet they refer to other than the Book of Allah and the Sunnah of His Messenger ﷺ for judgment in vari…
-
-**What this ayah teaches:** Referring to Other than the Qur'an and Sunnah for Judgment is Characteristic of Non-Muslims Allah chastises those who claim to believe in what Allah has sent down to His Messenger ﷺ and to the earlier Prophets, yet they refer to other than the Book of Allah and the Sunnah of His Messenger ﷺ for judgment in various disputes.
-
-**Classical tafsir:** Ibn Kathir notes: Let Allah be sufficient for you in this regard, because He has perfect knowledge of their apparent and hidden affairs.
 ## Personal Reflections
-
 

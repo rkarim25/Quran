@@ -174,13 +174,5 @@ Ya Allah, bless us with the ability to follow them, and make Your love the deare
 
 O you who have iman! Do not take your parents and siblings as trusted allies if they choose rejection of the truth over belief. And whoever of you does so, they are the wrongdoers.
 
-## AI Tafsir
-
-**What this ayah teaches:** The Prohibition of taking the Idolators as Supporters, even with Relatives Allah commands shunning the those who reject the truth, even if they are one's parents or children, and prohibits taking them as supporters if they choose disbelief instead of faith. Take not as supporters your fathers and your brothers if they prefer disbelief to belief.
-
-**Classical tafsir:** Ibn Kathir notes: 'Iman (faith) is the moving spirit of ` Amal (deed).
-
-**From the Sunnah:** Therefore, in the next verse (23), the text disapproves of limitless attachment with these things and thereby prepares Muslim minds to welcome Hijrah and Jihad. (Sahih Muslim) This was why they rose to be the superior most people of the Muslim Ummah. (Sahih Muslim)
 ## Personal Reflections
-
 

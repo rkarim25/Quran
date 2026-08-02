@@ -184,13 +184,5 @@ On occasions of good cheer and Iight humor too, tauriyah stands proved from the 
 
 Later, his people came rushing towards him furiously.
 
-## AI Tafsir
-
-**What this ayah teaches:** Ibrahim, peace be upon him, said this to his people so that he could stay behind in the city when they went out for their festival. He thought when all these people go to celebrate their festival, he would have the time to go into their temple and break their idols, so that when they returned, they would see the helplessness of their false gods with their own eyes.
-
-**Classical tafsir:** Ibn Kathir notes: Ibrahim, peace be upon him, said this to his people so that he could stay behind in the city when they went out for their festival.
-
-**From the Sunnah:** Ibn Jarir narrated here a Hadith from Abu Hurayrah, may Allah be pleased with him, stating that the Messenger of Allah ﷺ said: The former is more apparent because of the report recorded by Al-Bukhari in the Book Af'al Al-'Ibad from Hudhayfah, attributed to the Prophet ﷺ: (Sahih al-Bukhari)
 ## Personal Reflections
-
 

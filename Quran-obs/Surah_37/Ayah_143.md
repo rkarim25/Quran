@@ -148,13 +148,5 @@ According to a narration from Sayyidna Sa'd Ibn AbI Waqqas ؓ appearing in Abu D
 
 Had he not constantly glorified Allah,
 
-## AI Tafsir
-
-**What this ayah teaches:** This was because the ship was being pounded by the waves on all sides, and they were at risk of drowning, so they drew lots, and whoever lost would be thrown overboard so as to lighten the load. He took off his garment so that he could throw himself into the sea, and they tried to stop him.
-
-**Classical tafsir:** Ibn Kathir notes: Mujahid said, narrating from Ash-Sha'bi, "It swallowed him in the morning and cast him forth in the evening." And Allah knows best how long exactly was.
-
-**From the Sunnah:** In the Two Sahihs it is reported that the Messenger of Allah ﷺ said: This is what is indicated in the authentic Hadith which we quote below, if Allah wills. (authentic hadith)
 ## Personal Reflections
-
 

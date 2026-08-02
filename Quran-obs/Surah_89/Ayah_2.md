@@ -214,13 +214,5 @@ Next, it says:
 
 And the ten nights—the first ten days of Dhul-Hijjah, among the most sacred times for worship, sacrifice, and drawing near to Allah.
 
-## AI Tafsir
-
-**What this ayah teaches:** 'The ten nights' refers to the (first) ten days of Dhul-Hijjah.
-
-**Classical tafsir:** Ibn Kathir notes: Mujahid said, "Iram was an ancient nation who were the first people of 'Ad." Qatadah bin Di'amah and As-Suddi both said, "Verily, Iram refers to the House of the kingdom of 'Ad." This latter statement is good and strong. Ibn 'Abbas said, "They carved them and they hewed them." This was also said by Mujahid, Qatadah, Ad-Dahhak and Ibn Zayd.
-
-**From the Sunnah:** a narration from Jabir that Mu'adh prayed a prayer and a man came and joined him in the prayer. (Sunan an-Nasa'i) It is said, "Hajara Al-Hakim so-and-so (The judge passed a judgement preventing so-and-so)," when his judgement prevents the person from his liberty (i.e., of freely utilizing his wealth). (al-Mustadrak)
 ## Personal Reflections
-
 

@@ -150,11 +150,5 @@ Having created man, uncountable bounties are bestowed upon him. Of them, imparti
 
 and taught them speech—every means of expression Allah placed in you.
 
-## AI Tafsir
-
-**What this ayah teaches:** He taught him Al-Bayan.) Al-Hasan said: "Eloquent speech." This refers to Allah teaching the Qur'an, that is, teaching the servants how to recite it by making it easy for them to speak and pronounce letters with the various parts of the mouth, such as the alveolar bridge, the tongue and the lips.
-
-**Classical tafsir:** Ibn Kathir notes: Mujahid said, "An-Najm (the star); the one that is in the sky." Al-Hasan and Qatadah said similarly. Ibn Jurayj reported that Ibn 'Abbas said said Al-Akmam, means sheathed fruit stalks.
 ## Personal Reflections
-
 

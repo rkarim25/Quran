@@ -136,11 +136,5 @@ This is the end of the Tafsir of Surat Al-Waqi'ah, all praise and thanks are due
 
 and burning in the Fire.
 
-## AI Tafsir
-
-**What this ayah teaches:** This is an absolute truth with certainty (95)So, glorify with praises the Name of your Lord, the Most Great . Then, if he be of the Muqarrabin (88)Then Rawh, Rayhan and a Garden of Delights (89)And if he be of those on the right (90)Then Salam (peace) to you from those on the right (91)But if he be of the denying, the erring (92)Then for him is an entertainment with Hamim (93)And entry in Hellfire…
-
-**Classical tafsir:** Ibn Kathir notes: Abu Hazrah said that Rawh means: "Rest from the world." Sa'id bin Jubayr and As-Suddi said that it means to rejoice.
 ## Personal Reflections
-
 

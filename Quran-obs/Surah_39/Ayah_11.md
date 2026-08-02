@@ -91,11 +91,5 @@ Imam Malik (رح) has taken: صَابرین (as-sabirun) in this verse to mean p
 
 Say: "I am commanded to worship Allah, being sincerely devoted to Him alone.
 
-## AI Tafsir
-
-**What this ayah teaches:** Go and live at a place and in a surrounding that is conducive to remaining obedient to Divine commandments.' This persuades one to migrate from a place living in which one cannot dutifully follow and observe what has been enjoined by his religion.
-
-**Classical tafsir:** Ibn Kathir notes: So much so that people who had lived their life of the mortal world in perfect peace and comfort would wish, 'alas!
 ## Personal Reflections
-
 

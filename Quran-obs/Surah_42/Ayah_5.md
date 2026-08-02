@@ -178,13 +178,5 @@ These angels in the heavens proclaim the perfection of their Lord and utter His 
 
 The heavens nearly burst apart in awe of Him. The angels glorify their Lord and seek forgiveness for those on earth. Surely Allah alone is All-Forgiving, the Rahim.
 
-## AI Tafsir
-
-**Context:** (Likewise Allah, the Almighty, the All-Wise sends revelation to you as to those before you.) means, 'just as this Qur'an has been revealed to you, so too the Books and Scriptures were revealed to the Prophets who came be…
-
-**What this ayah teaches:** Their asking for forgiveness for those who reject the truth is for a limited period only and is a supplication that some severe worldly scourge may not befall the humans which may destroy all of them; their safety against ordinary punishments of this world and the real scourge of the Hereafter are not included in this supplication.
-
-**Classical tafsir:** Ibn Kathir notes: To Him belongs all that is in the heavens and all that is on the earth, and He is the Most High, the Most Great.)(5.
 ## Personal Reflections
-
 

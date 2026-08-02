@@ -188,15 +188,5 @@ This has been mentioned in verse 45 in the following words: فَوَقَاهُ �
 
 Allah protected him from the evil of their schemes. And Pharaoh's people were overwhelmed by an evil punishment:
 
-## AI Tafsir
-
-**Context:** (The Fire, they are exposed to it, morning and afternoon). But the question arises: this Ayah was undoubtedly revealed in Makkah, but they use it as evidence to prove that there will be torment in the grave during the pe…
-
-**What this ayah teaches:** First of all, Allah Ta’ ala, in His mercy, saved the believer belonging to the House of Pharaoh right here in this world from the aggressive designs of the people of the Pharaoh against him, the details of which have not been mentioned in the Qur'an.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** This chain of narration is Sahih according to the conditions of Al-Bukhari and Muslim, although they did not record it.
 ## Personal Reflections
-
 

@@ -487,13 +487,5 @@ Some injunctions of the Shariah concerning the conduct of worldly life, choices 
 
 O you who have iman! When you rise up for prayer, wash your faces and your hands up to the elbows, wipe your heads, and wash your feet to the ankles. And if you are in a state of impurity, then take a full bath. But if you are ill, on a journey, or have relieved yourselves, or have been intimate with your wives and cannot find water, then purify yourselves with clean earth by wiping your faces and hands. It is not Allah’s Will to burden you, but to purify you and complete His favour upon you, so perhaps you will be grateful.
 
-## AI Tafsir
-
-**What this ayah teaches:** This practice by Ibn 'Umar demonstrates that it is encouraged, not obligatory, to perform Wudu' for every prayer, and this is also the opinion of the majority of scholars.
-
-**Classical tafsir:** Ibn Kathir notes: This clearly indicates the necessity of washing the feet, just as the Salaf have said, and not only wiping over the top of the bare foot.
-
-**From the Sunnah:** in the beginning of Islam, Muslims had to perform Wudu' for every prayer, but later on, this ruling was abrogated. (Musnad Ahmad) Do you do this according to your own opinion?' He said, 'Rather, I saw the Prophet ﷺ do the same thing. (Musnad Ahmad, Sunan Abi Dawud)
 ## Personal Reflections
-
 

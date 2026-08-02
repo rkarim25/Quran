@@ -94,11 +94,5 @@ Allah Did Not Create His Servants in Vain
 
 He will ask them, “How many years did you remain on earth?”
 
-## AI Tafsir
-
-**What this ayah teaches:** Allah tells them how much they wasted in their short lives in this world by failing to obey Allah and worship Him Alone. Out of the five, replies were furnished to four, but in reply to the fifth Allah commanded them not to speak to Him.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

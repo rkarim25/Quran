@@ -207,13 +207,5 @@ In the verse: أَفَمَنْ هُوَ قَائِمٌ عَلَىٰ كُلِّ �
 
 Those among the People of the Book who believe rejoice in what was revealed to you, while some factions deny parts of it. Say: "I am only commanded to worship Allah, associating none with Him. To Him I invite all, and to Him is my return."
 
-## AI Tafsir
-
-**Context:** The Truthful Ones from among the People of the Scriptures rejoice at what Allah has revealed to Muhammad (ﷺ) (but there are among the Ahzab (Confederates) those who reject a part thereof.) meaning, 'There are those among…
-
-**What this ayah teaches:** Those to whom We have given the Book, rejoice at what has been revealed unto you, but there are among the Ahzab (Confederates) those who reject a part thereof.
-
-**Classical tafsir:** Ibn Kathir notes: Then, it was said that the real reason behind their unreasonable attitude is that shaitan has made their very ignorance look good in their sight and, therefore, this they take to be 'achievement' and 'success.'
 ## Personal Reflections
-
 

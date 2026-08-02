@@ -110,15 +110,5 @@ Jews contended that they had worshipped the calf for 40 days and so they will in
 
 This is because they say, “The Fire will not touch us except for a few days.” They have been deceived in their faith by their wishful lying.
 
-## AI Tafsir
-
-**Essence** The People of the Book defy the truth because they cling to a fabricated hope — that Hellfire will touch them for only a few days — and that self-made lie is exactly what keeps them astray.
-
-**What it teaches** The ayah exposes the root of their turning away (3:23): they say "the Fire shall not touch us but for a number of days" (ayyaman ma'dudat), and behind that lies a deeper imagined entitlement — that being born into a chosen line guarantees escape. The phrase wa-gharrahum fi dinihim ma kanu yaftarun means their own invention (iftira', fabrication) deceived them in their religion — a punishment they fixed for themselves, not one Allah ever authorized.
-
-**The scholars** Ibn Kathir explains that what emboldened them to challenge and defy the truth was the false claim that Allah would punish them only seven days in the Fire — reckoning one day for every thousand years of this life — a notion he says he treated in Surat al-Baqarah. He stresses that "Allah did not grant them authority to support this claim"; they merely deceived themselves. Then comes Allah's warning: "How will it be when We gather them together on the Day about which there is no doubt... and each person will be paid in full what he has earned, and they will not be dealt with unjustly" (3:25) — the imagined short sentence collapses before real reckoning. Maarif ul Quran adds that the address is to the Prophet ﷺ and the reference is to the Torah, which would have sufficed them had they truly sought guidance; instead they chose indifference. Maarif calls this self-deception rooted in their boast that they were the progeny of prophets and would therefore escape Hellfire, and notes the Jews contended that since they worshipped the calf for forty days, their punishment, if any, would last only that long.
-
-**Reflection** Guard your heart against the comforting lie that sin is "only a few days" of consequence — measure yourself by Allah's Book, not by wishful self-assurance.
 ## Personal Reflections
-
 

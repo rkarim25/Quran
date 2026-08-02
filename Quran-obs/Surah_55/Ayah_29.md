@@ -102,11 +102,5 @@ After Allah stated that all of the inhabitants of the earth will die and end up 
 
 All in the heavens and earth ask of Him. Every day He is engaged in some matter.
 
-## AI Tafsir
-
-**What this ayah teaches:** Whatsoever is on it (the earth) will perish (26)And the Face of your Lord Dhul-Jalal wal-Ikram will remain forever (27)Then which of the blessings of your Lord will you both deny (28)Whosoever is in the heavens and on the earth begs of Him. O You Who created the heavens and the earth without precedence.
-
-**Classical tafsir:** Ibn Kathir notes: Qatadah said, "First, Allah mentioned His creatures and then He said that all of this will perish." And in the reported supplication: 'O You the Ever Living Who sustains all that exists!
 ## Personal Reflections
-
 

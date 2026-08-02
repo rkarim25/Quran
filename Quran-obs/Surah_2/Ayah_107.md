@@ -224,19 +224,5 @@ The injunctions with regard to abrogation are too many and too intricate to be d
 
 Do you not know that to Allah belongs the dominion of the heavens and the earth, and that you have no protector or helper besides Him?
 
-## AI Tafsir
-
-**Essence**
-All sovereignty over the heavens and the earth belongs to Allah alone — so He alone is your true Guardian and Helper, and besides Him you have neither.
-
-**What it teaches**
-"Mulk" is dominion and ownership: the heavens and earth are Allah's possession, and He does with His creation as He wills. From this flows the verse's tawhid — your only "wali" (the guardian who keeps your good in view) and your only "nasir" (the helper who defends you) is Allah.
-
-**The scholars**
-Ibn Kathir explains that Allah alone owns His creatures and decides whatever He wills among them — no opponent to His judgment, none to question Him. This ownership grounds His right of abrogation (naskh): in His wisdom He may command a benefit, then forbid it, testing His servants' obedience — refuting the Jews who denied naskh could occur. Ibn Jarir adds that the verse tells the Prophet (peace be upon him) that Allah owns the heavens and earth and all authority in them, so His creation must hear and obey. Maarif draws out the same two names the verse uses: as wali, Allah keeps men's good in view in His injunctions; as nasir, He protects the obedient against their foes.
-
-**Reflection**
-When the heart truly knows that Allah owns everything, it surrenders to His commands and seeks refuge in no guardian or helper but Him.
 ## Personal Reflections
-
 

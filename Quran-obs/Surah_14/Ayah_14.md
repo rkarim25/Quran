@@ -226,13 +226,5 @@ So, whatever good there is in gratitude, that is for you alone. There-fore, when
 
 and make you dwell in the land after them. This is for whoever stands in awe before Me and fears My warning."
 
-## AI Tafsir
-
-**Context:** And those who disbelieved, said to their Messengers: "Surely, we shall drive you out of our land, or you shall return to our religion." So their Lord revealed to them: "Truly, We shall destroy the wrongdoers.
-
-**What this ayah teaches:** 'Abdur-Rahman bin Zayd bin Aslam said that this Ayah refers to the nations, invoking Allah's victory against themselves!
-
-**Classical tafsir:** Ibn Kathir notes: And other (torments) of similar kind all together!)[38:57-58] Mujahid and 'Ikrimah said that this festering water is made of puss and blood.
 ## Personal Reflections
-
 

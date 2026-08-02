@@ -300,15 +300,5 @@ Ends here
 
 From the evil of what He created—recognizing that creation itself is not evil, but that harm can emerge from what He made when misused or when its darker potentials are unleashed.
 
-## AI Tafsir
-
-**Context:** (Do you not see that there have been Ayat revealed to me tonight the like of which has not been seen before?) They are
-
-**What this ayah teaches:** "And from the evil of the envier when he envies.") Ibn Abi Hatim recorded that Jabir said, "Al-Falaq is the morning." Al-'Awfi reported from Ibn 'Abbas, "Al-Falaq is the morning." The same has been reported from Mujahid, Sa'id bin Jubayr, 'Abdullah bin Muhammad bin 'Aqil, Al-Hasan, Qatadah, Muhammad bin Ka'b Al-Qurazi and Ibn Zayd.
-
-**Classical tafsir:** Ibn Kathir notes: The word 'night' has been specifically mentioned because this is the time when Jinn, Shaitans, harmful insects, animals and reptiles appear.
-
-**From the Sunnah:** from Zirr bin Hubaysh that Ubayy bin Ka'b told him that Ibn Mas'ud did not record the Mu'awwidhatayn in his Mushaf (copy of the Qur'an).
 ## Personal Reflections
-
 

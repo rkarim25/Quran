@@ -319,15 +319,5 @@ These three requests were aimed at safety against punishment and pain and loss. 
 
 Our Rabb! Grant us what You have promised us through Your messengers and do not put us to shame on Judgment Day—for certainly You never fail in Your promise.”
 
-## AI Tafsir
-
-**Context:** (O Bilal! What prevents me from crying, when this night, this Ayah was revealed to me,)
-
-**What this ayah teaches:** Similarly, those who ` see and experience the signs of Almighty Allah yet get entangled with the superficial glamour of what has been created - as a result of which they fail to know their real master - is rank heedless-ness and very much juvenile.
-
-**Classical tafsir:** Ibn Kathir notes: In other words it means that they are engaged in the remembrance of Allah under all conditions and at all times.
-
-**From the Sunnah:** The Messenger of Allah ﷺ spoke with his wife for a while and then went to sleep. (Sahih al-Bukhari) The Prophet ﷺ then stood up, performed ablution, used Siwak (to clean his teeth) and prayed eleven units of prayer. (Sahih Muslim)
 ## Personal Reflections
-
 

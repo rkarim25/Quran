@@ -99,13 +99,5 @@ The second story is that of Sayyidna Ibrahim (علیہ السلام) who too pas
 
 We saved him and those in the Ark, making it a sign for all peoples.
 
-## AI Tafsir
-
-**What this ayah teaches:** Therefore, you too should not care about the troubles afflicted by the infidels, and should keep on performing firmly your prophetic obligations. It was so because he was the very first prophet who had to confront with the infidelity and association of others with Allah Ta’ ala.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, you too should not care about the troubles afflicted by the infidels, and should keep on performing firmly your prophetic obligations.
-
-**From the Sunnah:** It was recorded that Ibn 'Abbas said: "Nuh received his mission when he was forty years old, and he stayed among his people for a thousand years less fifty; after the Flood he lived for sixty years until people had increased and spread." It was described in the previous verses that infidels keep on their opposition and afflictions on Muslims as a routine.
 ## Personal Reflections
-
 

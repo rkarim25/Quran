@@ -103,11 +103,5 @@ it was said to comfort him: وَلَقَدِ اسْتُهْزِئَ بِرُ‌�
 
 Messengers before you were mocked too. I gave respite to those who rejected, then seized them. How severe was My punishment!
 
-## AI Tafsir
-
-**What this ayah teaches:** And indeed (many) Messengers were mocked at before you but I granted respite to those who disbelieved, and finally I punished them. When they reached the limit, they were seized by Divine punishment and what a seizure that was which left none of them active enough to go on with their confrontation.
-
-**Classical tafsir:** Ibn Kathir notes: So, how was My punishment?) In other words, it means that conditions faced by the Holy Prophet were not faced by him alone.
 ## Personal Reflections
-
 

@@ -138,11 +138,5 @@ There is a Hadith whose attribution to the Holy Prophet ﷺ has been held by Ibn
 
 what you are promised is certainly true.
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, that which you are promised is surely true.)(6.
-
-**Classical tafsir:** Ibn Kathir notes: It explains these four things as follows: The expression Dhariyat [ scatterers ] refers to the wind that blows up dust; the expression hamilat-i-wiqran literally denotes burden-bearers and contextually refers to the clouds that carry the burden of water or rain; the expression ja…
 ## Personal Reflections
-
 

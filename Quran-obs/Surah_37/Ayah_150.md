@@ -137,13 +137,5 @@ From these verses we learn that it is more appropriate to tackle people bent on 
 
 Or ask them if We created the angels as females right before their eyes.
 
-## AI Tafsir
-
-**Context:** (Except the servants of Allah, whom He chooses.) The pronoun in the verb translated as "they attribute" refers to all of mankind, then He excludes those whom He chooses, who are the ones who follow the truth revealed to…
-
-**What this ayah teaches:** Refutation of Those Who attribute Children to Allah and say that the Angels are His Daughters Allah denounces those idolators who attribute daughters to Allah – exalted be He above that – and attributed to themselves what they desired, i.e., they wanted male offspring to themselves.
-
-**Classical tafsir:** Ibn Kathir notes: As for a reported proof, you do not have that too because one only goes by the word of people who are trustworthy and whose veracity is well established.
 ## Personal Reflections
-
 

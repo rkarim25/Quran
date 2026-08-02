@@ -176,11 +176,5 @@ Then the Holy Qur'an has pointed to different demonstrations of His power to pro
 
 the mountains as pegs holding it steady,
 
-## AI Tafsir
-
-**What this ayah teaches:** Have We not made the earth as a bed,)(7.
-
-**Classical tafsir:** Ibn Kathir notes: Have We not made the earth as a bed,)(7.
 ## Personal Reflections
-
 

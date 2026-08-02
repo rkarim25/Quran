@@ -160,11 +160,5 @@ Her house was on the banks of the Nile, so she took a box and made it into a cra
 
 We inspired the mother of Moses: “Nurse him, but when you fear for him, put him then into the river, and do not fear or grieve. We will certainly return him to you, and make him one of the messengers.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, We shall bring him back to you, and shall make him one of the Messengers. How Musa's Mother was inspired and shown what to do It was mentioned that when Fir'awn killed so many of the males of the Children of Israel, the Copts were scared that the Children of Israel would die out, and they themselves would have to do the heavy labor that the Children of Israel used to do.
-
-**Classical tafsir:** Ibn Kathir notes: No one ever saw Musa, peace be upon him, but they loved him, and the blessed ones were those who loved him both as a natural feeling and because he was a Prophet.
 ## Personal Reflections
-
 

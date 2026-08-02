@@ -131,11 +131,5 @@ The last sentence of the verse is: قَالَ أَلَمْ أَقُل لَّكُ
 
 But when the bearer of the good news arrived, he cast the shirt over Jacob’s face, so he regained his sight. Jacob then said to his children, “Did I not tell you that I truly know from Allah what you do not know?”
 
-## AI Tafsir
-
-**What this ayah teaches:** Then, when the bearer of the good news arrived, he cast it (the shirt) over his face, and his vision returned. So he liked to erase that error with this good act, by bringing Yusuf's shirt and placing it on his father's face.
-
-**Classical tafsir:** Ibn Kathir notes: Mujahid and As-Suddi said that the bearer of good news was Yahudha, son of Ya'qub.
 ## Personal Reflections
-
 

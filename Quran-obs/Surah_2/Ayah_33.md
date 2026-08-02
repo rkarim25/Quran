@@ -224,17 +224,5 @@ Allah is the creator of the language
 
 He said, "O Adam, inform them of their names." When Adam did, Allah said, "Did I not tell you that I know the unseen of the heavens and earth, and what you reveal and what you conceal?"
 
-## AI Tafsir
-
-**Essence** Adam names what the angels could not; Allah seals it: He knows the ghayb of the heavens and the earth, the shown and the hidden.
-
-**What it teaches** Adam's virtue over the angels lay in knowledge Allah Himself taught him (Ibn Kathir). To the angels, "Tell Me"; to Adam, "Tell them" — teacher over pupils (Maarif ul-Quran).
-
-**The scholars** Ibn 'Abbas, when asked, affirmed the names reached even the plate and the pot. Zayd bin Aslam: "You are Jibril, you are Mika'il," down to the crow. On "what you conceal" — Ibn 'Abbas: the arrogance Iblis hid; Ar-Rabi' bin Anas: the angels' unspoken thought that none would surpass them.
-
-**From the Sunnah** On Resurrection Day the believers will plead with Adam: "Allah created you with His Own Hand, ordered the angels to prostrate for you and taught you the names of everything." Yet the plea will pass until Muhammad ﷺ intercedes by Allah's permission. (Sahih al-Bukhari; also Muslim, An-Nasa'i, Ibn Majah)
-
-**Reflection** Whatever you know is Allah's gift; whatever you hide lies open before Him — learn humbly, keep the heart clean.
 ## Personal Reflections
-
 

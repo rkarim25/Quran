@@ -189,13 +189,5 @@ Islam is a collective religion. Betterment of the community, along with the bett
 
 My dear son, establish salah, command what is right, forbid what is wrong, and bear sabr — steadfast endurance that keeps you upright — over whatever befalls you. That is a resolve worth holding.
 
-## AI Tafsir
-
-**What this ayah teaches:** Surely, this is among the matters of determination - 17).
-
-**Classical tafsir:** Ibn Kathir notes: And whosoever does evil equal to the weight of a speck of dust shall see it.)(99:7-8) Even if this tiny thing were to be hidden inside a solid rock or anywhere in the heavens and the earth, Allah will bring it forth, because nothing is hidden from Him, not even the weight of a sp…
-
-**From the Sunnah:** Likening a loud voice to that of a donkey implies that it is forbidden and extremely blameworthy, because the Messenger of Allah ﷺ said:
 ## Personal Reflections
-
 

@@ -183,15 +183,5 @@ The question is when his people have been destroyed by the punishment, what is t
 
 Then an earthquake struck them, and they fell lifeless in their homes.
 
-## AI Tafsir
-
-**Context:** (And We did not send any Messenger before you but We revealed to him (saying): "None has the right to be worshipped but I, so worship Me.")[21:25] and,
-
-**What this ayah teaches:** If you are not crying, then do not enter on them, so that what befell them does not befall you, as well.) The basis of this Hadith is mentioned in Two Sahihs.. When this matter continued for a long time and Thamud's rejection of Salih became intense, they intended to kill her so that they could take the water for themselves every day.
-
-**Classical tafsir:** Ibn Kathir notes: 'Abdur-Razzaq narrated that Ma'mar said that Az-Zuhri said that Abu Righal is the father of the tribe of Thaqif.
-
-**From the Sunnah:** The Messenger of Allah ﷺ passed by the area and ruins of Thamud when he went to Tabuk (in northern Arabia) during the ninth year of Hijrah.
 ## Personal Reflections
-
 

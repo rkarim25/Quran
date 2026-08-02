@@ -144,11 +144,5 @@ Everything belongs to Allah and serves Him
 
 To Him belong all those in the heavens and the earth. And those nearest to Him are not too proud to worship Him, nor do they tire.
 
-## AI Tafsir
-
-**What this ayah teaches:** We created not the heavens and the earth and all that is between them for play (16)Had We intended to take a pastime, We could surely have taken it from Us, if We were going to do (that)(17)Nay, We fling the truth against the falsehood, so it destroys it, and behold, it disappears.
-
-**Classical tafsir:** Ibn Kathir notes: One, that he regards it below his dignity to bow down before any one and therefore does not pray to Allah Ta` ala.
 ## Personal Reflections
-
 

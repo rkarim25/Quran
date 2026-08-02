@@ -267,15 +267,5 @@ The reason why the mushriki'n (polytheists) of Makkah found it difficult to acce
 
 He ordained for you the Way which He decreed for Noah, and what We revealed to you and what We decreed for Abraham, Moses, and Jesus, commanding: "Uphold the deen—way of life aligned with divine guidance—and make no divisions in it." What you call the polytheists to is unbearable for them. Allah chooses for Himself whoever He wills and guides to Himself whoever turns to Him.
 
-## AI Tafsir
-
-**Context:** He (Allah) has ordained for you the same religion which He ordained for Nuh, and that which We have revealed to you, and that which We ordained for Ibrahim, Musa and 'Isa saying you should establish religion and make no…
-
-**What this ayah teaches:** He (Allah) has ordained for you the same religion which He ordained for Nuh, and that which We have revealed to you, and that which We ordained for Ibrahim, Musa and 'Isa saying you should establish religion and make no divisions in it. As such, this is an explanation of the word, ` ordained' occurring in the beginning.
-
-**Classical tafsir:** Ibn Kathir notes: The Holy Qur'an has used the word, ` mukhlasin' for some particular prophets which means ` chosen'.
-
-**From the Sunnah:** So follow it - 6:153.) (Ahmad, An-Nasa'i, Darimi - Mazhari) (Sunan an-Nasa'i)
 ## Personal Reflections
-
 

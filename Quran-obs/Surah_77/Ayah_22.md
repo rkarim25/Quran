@@ -84,13 +84,5 @@ Allah says,
 
 for an appointed term?
 
-## AI Tafsir
-
-**What this ayah teaches:** The earth is held in place with them so that it does not shake and sway. The infidels in the community of the Holy Prophet ﷺ do not receive celestial punishment, because of the Holy Prophet's ﷺ special honour.
-
-**Classical tafsir:** Ibn Kathir notes: The earth is held in place with them so that it does not shake and sway.
-
-**From the Sunnah:** They were punished and destroyed by Muslims in the Battle of Badr and so on.
 ## Personal Reflections
-
 

@@ -161,11 +161,5 @@ In this narration, the act of writing has been attributed to the Holy Prophet ï·
 
 Is it not enough that We sent down to you a Book recited to them? In it is mercy and reminder for people who believe.
 
-## AI Tafsir
-
-**What this ayah teaches:** Allah will punish them for all that, for He is All-Wise and All-Knowing.
-
-**Classical tafsir:** Ibn Kathir notes: The Idolators' demand for Signs, and the Response Allah tells us how the idolators stubbornly demanded signs, meaning that they wanted signs to show them that Muhammad ï·º was indeed the Messenger of Allah, just as Salih was given the sign of the she-camel.
 ## Personal Reflections
-
 

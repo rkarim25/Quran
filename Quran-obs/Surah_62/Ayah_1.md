@@ -184,15 +184,5 @@ That all creatures in the heavens and the earth declare the purity of Allah in a
 
 Whatever is in the heavens and whatever is on the earth constantly glorifies Allah—the King, the Most Holy, the Almighty, All-Wise.
 
-## AI Tafsir
-
-**Context:** (And others among them who have not yet joined them. And He is the Almighty, the All-Wise.) Imam Abu 'Abdullah Al-Bukhari, may Allah have mercy upon him, recorded that Abu Hurayrah said, "We were sitting with the Prophet…
-
-**What this ayah teaches:** Whatsoever is in the heavens and whatsoever is on the earth glorifies Allah – the King, the Holy, the Almighty, the All-Wise.)(2.
-
-**Classical tafsir:** Ibn Kathir notes: And Allah is the Owner of mighty grace.) refers to the great prophethood that He granted Muhammad ﷺ and the qualities that He favored his Ummah with, by sending Muhammad ﷺ to them.
-
-**From the Sunnah:** Ibn 'Abbas and Abu Hurayrah narrated that Allah's Messenger ﷺ used to recite Surat Al-Jumu'ah and Surat Al-Munafiqin during the Friday Prayer. (Sahih Muslim) So Allah's Messenger ﷺ placed his hand on Salman, saying,
 ## Personal Reflections
-
 

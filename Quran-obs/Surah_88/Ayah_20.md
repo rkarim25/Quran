@@ -158,13 +158,5 @@ Ends here
 
 and on the earth—how it was spread out?
 
-## AI Tafsir
-
-**What this ayah teaches:** Do they not look at the camels, how they are created (17)And at the heaven, how it is raised (18)And at the mountains, how they are rooted (19)And at the earth, how it is outspread (20)So remind them – you are only one who reminds (21)You are not a Musaytir over them (22)Save the one who turns away and disbelieves (23)Then Allah will punish him with the greatest punishment (24)…
-
-**Classical tafsir:** Ibn Kathir notes: They are reminded of this because the most common domestic animal of the Arabs was the camel.
-
-**From the Sunnah:** These are the things Dimam swore by after questioning the Messenger of Allah ﷺ. (Musnad Ahmad) This Hadith was recorded by Al-Bukhari, Muslim, Abu Dawud, At-Tirmidhi, An-Nasa'i and Ibn Majah. (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
-
 

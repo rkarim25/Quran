@@ -178,13 +178,5 @@ In this mortal world, the customary practice of Allah Almighty is to cause the d
 
 You certainly wished for martyrdom before encountering it, now you have seen it with your own eyes.
 
-## AI Tafsir
-
-**What this ayah teaches:** Now you have seen it openly with your own eyes) The Ayah proclaims, O believers!
-
-**Classical tafsir:** Ibn Kathir notes: This is a plain statement for mankind), meaning, the Qur'an explains the true reality of things and narrates how the previous nations suffered by the hands of their enemies.
-
-**From the Sunnah:** Paradise before Allah knows (tests) those of you who performed Jihad and knows (tests) those who are patient (142)You did indeed wish for death before you met it. The second verse that follows gives consolation to Muslims from another angle. (Sahih Muslim)
 ## Personal Reflections
-
 

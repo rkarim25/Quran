@@ -134,13 +134,5 @@ The Qur'an tells us only this much that Sayyidna Ayyub (علیہ السلام) w
 
 We restored his family to him, twice as many, as mercy from Us and a lesson for people of reason.
 
-## AI Tafsir
-
-**Context:** (Allah's Prophet Ayyub, peace be upon him, suffered for eighteen years from his affliction and was shunned by relatives and strangers alike, besides two men who were the closest of his brothers to him.
-
-**What this ayah teaches:** She did not leave him, morning and evening, except for when she was serving people, then she would come straight back to him. Then he had nothing left in this world which he could use to help him deal with his sickness or the predicament he was in, besides his wife, who retained her devotion to him because of her faith in Allah and His Messenger.
-
-**Classical tafsir:** Ibn Kathir notes: Then he had nothing left in this world which he could use to help him deal with his sickness or the predicament he was in, besides his wife, who retained her devotion to him because of her faith in Allah and His Messenger.
 ## Personal Reflections
-
 

@@ -160,13 +160,5 @@ At the end of the verse, it was said: وَهُمْ لَا يُظْلَمُونَ
 
 Whoever comes with a good deed will be rewarded tenfold. But whoever comes with a bad deed will be punished for only one. None will be wronged.
 
-## AI Tafsir
-
-**What this ayah teaches:** And if a person intends to do a sin, then stays back and does not do it, still a good is recorded for him - and if he were to actually commit a sin, still what he gets registered in his name is one sin, or that too is erased.
-
-**Classical tafsir:** Ibn Kathir notes: Some people abandon the sin because they were unable to commit it or due to laziness, after trying to commit it and seeking the means that help commit it.
-
-**From the Sunnah:** the Messenger of Allah ﷺ said about his Lord, (Musnad Ahmad) Only those who deserve destruction will be destroyed by Allah.) Al-Bukhari, Muslim and An-Nasa'i also recorded this Hadith. (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
-
 

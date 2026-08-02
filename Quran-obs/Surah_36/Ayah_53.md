@@ -114,11 +114,5 @@ This response appears immediately next in verse 52: هَـٰذَا مَا وَع
 
 It will only take one Blast, then at once they will all be brought before Us.
 
-## AI Tafsir
-
-**What this ayah teaches:** Who has raised us up from our place of sleep." (It will be said to them): "This is what the ar-Rahman had promised, and the Messengers spoke truth!
-
-**Classical tafsir:** Ibn Kathir notes: Ubayy bin Ka'b, may Allah be pleased with him, Mujahid, Al-Hasan and Qatadah said, "They will sleep before the Resurrection." Qatadah said, "That will be between the two trumpet blasts, they will say, 'Who has raised us up from our place of sleep?'" When they say that, the believers will respond.
 ## Personal Reflections
-
 

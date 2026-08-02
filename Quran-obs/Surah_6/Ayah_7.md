@@ -163,13 +163,5 @@ Therefore, to comfort him, it was said that such demands from his antagonists we
 
 Had We sent down to you a revelation in writing and they were to touch it with their own hands, those who reject the truth would still have said, “This is nothing but pure magic!”
 
-## AI Tafsir
-
-**Context:** The second verse (7) was revealed in the background of a particular event when ` Abdullah ibn Umaiyyah came up with a hostile demand before the Holy Prophet ﷺ by saying: ` I cannot believe in you until such time that I s…
-
-**What this ayah teaches:** What effect these caustic bad manners would have made on his heart is something we cannot fathom.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, to comfort him, it was said that such demands from his antagonists were not being put forward for any useful purpose, nor did they want to follow it.
 ## Personal Reflections
-
 

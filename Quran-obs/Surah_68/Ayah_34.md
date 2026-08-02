@@ -93,13 +93,5 @@ One may argue that a criminal is apprehended, he is exposed to disgrace and is p
 
 The righteous will have the Gardens of Bliss with their Lord.
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, for those who have Taqwa are Gardens of Delight with their Lord (34)Shall We then treat the Muslims like the criminals (35)What is the matter with you? The Reward of those Who have Taqwa and that They will not be treated like the Criminals After Allah mentions the situation of the people of the worldly garden and the wrath they suffered when they disobeyed Allah and opposed his commands, H…
-
-**Classical tafsir:** Ibn Kathir notes: A Rational Proof of Resurrection These verses give a solid proof to the necessity of the Day of Judgment, because accountability, rewarding the righteous and punishing the evil are all rationally necessary.
-
-**From the Sunnah:** Verily, for those who have Taqwa are Gardens of Delight with their Lord (34)Shall We then treat the Muslims like the criminals (35)What is the matter with you?
 ## Personal Reflections
-
 

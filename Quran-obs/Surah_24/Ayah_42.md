@@ -81,11 +81,5 @@ Zamakhshari and some other commentators have, on the other hand, elaborated that
 
 To Allah alone belongs the kingdom of the heavens and the earth. And to Allah is the final return.
 
-## AI Tafsir
-
-**What this ayah teaches:** Of each one He knows indeed his Salah and his glorification; and Allah is All-Aware of what they do (41)And to Allah belongs the sovereignty of the heavens and the earth, and to Allah is the return .
-
-**Classical tafsir:** Ibn Kathir notes: It indicates that all creatures are busy in Tasbih and worship of Allah Ta’ ala, but the manner of worship of each creature is different.
 ## Personal Reflections
-
 

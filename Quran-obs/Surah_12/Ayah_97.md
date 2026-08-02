@@ -79,11 +79,5 @@ Now, when the truth of the matter became clear, the brothers of Yusuf asked for 
 
 They begged, “O our father! Pray for the forgiveness of our sins. We have certainly been sinful.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Surely, we have been wrong - 97.' Thus, it is obvious that a person who prays to Allah Ta` ala for the forgiveness of their sins would do that himself too.
-
-**Classical tafsir:** Ibn Kathir notes: Mujahid and As-Suddi said that the bearer of good news was Yahudha, son of Ya'qub.
 ## Personal Reflections
-
 

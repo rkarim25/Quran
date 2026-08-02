@@ -289,15 +289,5 @@ Sayyidna Muhasibi (رح) says:
 
 If two groups of believers fight each other, make peace between them. If one group transgresses against the other, fight the transgressors until they submit to Allah's judgment. If they submit, make peace between them with justice. Allah loves those who act justly.
 
-## AI Tafsir
-
-**Context:** As-Suddi said, "A man from Al-Ansar, whose name was 'Imran, had a wife called Umm Zayd. She wanted to visit her family, but her husband prevented her from visiting them by locking her in an upper room.
-
-**What this ayah teaches:** Ruling If a very powerful group of Muslims revolts against the Muslim ruler, then it is necessary for the ruler to first hear out their complaint or cause of their dissatisfaction.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, the Qur'an lays stress on setting things right between them equitably and justly, so that the rights of no one are violated [ Adapted from Bayan-ul-Qur’ an with reference to Hidayah ].
-
-**From the Sunnah:** Allah commands making peace between Muslims that fight each other, Al-Bukhari and other scholars relied on this Hadith as evidence that committing a sin does not nullify faith, no matter how major the sin is.
 ## Personal Reflections
-
 

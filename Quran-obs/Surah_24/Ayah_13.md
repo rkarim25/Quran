@@ -138,13 +138,5 @@ The substance of explanation is that in such a situation, creation of doubts and
 
 Why did they not produce four witnesses? Now, since they have failed to produce witnesses, they are truly liars in the sight of Allah.
 
-## AI Tafsir
-
-**Context:** (the believers, men and women, think good of their own people) means, why did they not compare what was said to themselves – if it was not befitting for them then it was even less appropriate for the Mother of the believ…
-
-**What this ayah teaches:** So, if a person relates such an incident without the support of four witnesses claiming that he is doing it with the intent of reforming the society and.
-
-**Classical tafsir:** Ibn Kathir notes: Disciplining the Believers for Spreading the Slander Here Allah disciplines the believers with regard to the matter of 'A'ishah, because some of them spread this evil talk and the slander that had been mentioned.
 ## Personal Reflections
-
 

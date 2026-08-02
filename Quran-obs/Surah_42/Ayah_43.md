@@ -123,11 +123,5 @@ Maulana Ashraf ` Ali Thanawi (رح) ، has, however, explained the issue in Baya
 
 And whoever endures patiently and forgives—surely this is a resolve to aspire to.
 
-## AI Tafsir
-
-**What this ayah teaches:** It means that though forgiveness is a good quality, yet one may face certain situations where the mischief gets a fillip if one forgives, and hence it is better to take revenge in those situations.
-
-**Classical tafsir:** Ibn Kathir notes: And in the verse that refers to revenge, we are told that it is a particular quality of these virtuous people that if at any time their heart is inclined to take revenge of an injustice and they do so, they do not exceed the equitable limit, although to forgive is always better f…
 ## Personal Reflections
-
 

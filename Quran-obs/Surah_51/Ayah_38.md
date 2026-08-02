@@ -135,11 +135,5 @@ After this, the stories of the people of ` Ad, Thamud and Nuh (علیہم الس
 
 And in Moses—when We sent him to Pharaoh with clear authority,
 
-## AI Tafsir
-
-**What this ayah teaches:** This ayah declares: And in ˹the story of˺ Moses ˹was another lesson,˺ when We sent him to Pharaoh with compelling proof,
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

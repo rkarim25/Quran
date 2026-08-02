@@ -73,11 +73,5 @@ This verse indicates that nice vocations are Allah's Graces, and to draw benefit
 
 who spread corruption throughout the land, never setting things right.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Useful vocations are Divine Graces provided they are not employed in bad things This verse indicates that nice vocations are Allah's Graces, and to draw benefit from them is lawful.
-
-**Classical tafsir:** Ibn Kathir notes: Useful vocations are Divine Graces provided they are not employed in bad things This verse indicates that nice vocations are Allah's Graces, and to draw benefit from them is lawful.
 ## Personal Reflections
-
 

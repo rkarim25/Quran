@@ -138,13 +138,5 @@ In the fifth verse, the theme has been emphasized further. Let man do what he el
 
 To Allah is your return. And He is Most Capable of everything.”
 
-## AI Tafsir
-
-**Context:** (And We did not send any Messenger before you but We revealed to him (saying): There is no Allah but I, so worship Me.)[21:25] It is similar to Allah's statement,
-
-**What this ayah teaches:** But, ultimately, once dead, man has to return to Him and He is powerful over everything.
-
-**Classical tafsir:** Ibn Kathir notes: But if you turn away, then I fear for you the torment of a Great Day.)(4.
 ## Personal Reflections
-
 

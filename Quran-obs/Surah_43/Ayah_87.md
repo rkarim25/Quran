@@ -176,11 +176,5 @@ I would have been the first to worship - 43:81) It does not mean that, God forbi
 
 If you ask them who created them, they will certainly say, "Allah!" How can they then be deluded from the truth?
 
-## AI Tafsir
-
-**What this ayah teaches:** This tells us that it is lawful, rather desirable, to declare during a debate with erring people that if their claim had been proved by strong arguments, it would have been accepted, because such a manner of speech may sometimes soften the heart of the opponent and may persuade him to accept the truth.
-
-**Classical tafsir:** Ibn Kathir notes: He is eternally free of all faults and shortcomings, because He is the Lord, the Exalted, the Almighty, the Sovereign of all things, Who is in control of all affairs.
 ## Personal Reflections
-
 

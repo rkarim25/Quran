@@ -147,11 +147,5 @@ And Allah says in this Ayah, after mentioning this argument of theirs:
 
 Still they have labelled the angels, who are servants of the Rahman, as female. Did they witness their creation? Their statement will be recorded, and they will be questioned!
 
-## AI Tafsir
-
-**What this ayah teaches:** Did they witness their creation Their testimony will be recorded, and they will be questioned (19)And they said: "If it had been the will of the ar-Rahman, we should not have worshipped them." They have no knowledge whatsoever of that. Second: They claimed that He chose daughters rather than sons, and they made the angels, who are the servants of the ar-Rahman, female.
-
-**Classical tafsir:** Ibn Kathir notes: They do nothing but lie!) Mujahid said, "They do not appreciate the power of Allah." As such, there is consensus on this issue, but at the same time the manner of speech indicates that getting so much involved in adornment that one is busy in it the whole day long, is not proper; it is not only a symptom of one's being short-sighted, but also a cause of it.
 ## Personal Reflections
-
 

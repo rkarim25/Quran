@@ -213,13 +213,5 @@ Sun' means skillful act, and 'itqan' means to make perfect and firm. Apparently 
 
 Now you see the mountains, thinking they are firmly fixed, but they are travelling just like clouds. That is the design of Allah, Who has perfected everything. Surely He is All-Aware of what you do.
 
-## AI Tafsir
-
-**What this ayah teaches:** The work of Allah, Who perfected all things, verily, He is well-acquainted with what you do (88)Whoever brings a good deed, will have better than its worth; and they will be safe from the terror on that Day (89)And whoever brings an evil deed, they will be cast down on their faces in the Fire.
-
-**Classical tafsir:** Ibn Kathir notes: Based on this principle, the verse means that the mountains will seem, on the Doomsday, as if they are fixed, but it will be an illusion for an onlooker, because in reality they will be moving.
-
-**From the Sunnah:** after a little while, you will see a major event which will destroy the House [the Ka'bah], and such and such will happen." Then he said, "The Messenger of Allah ﷺ said: (Sahih Muslim)
 ## Personal Reflections
-
 

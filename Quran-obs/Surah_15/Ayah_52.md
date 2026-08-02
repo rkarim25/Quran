@@ -91,11 +91,5 @@ As for the third probability, that the blessings of Jannah may remain everlastin
 
 who entered upon him and greeted him with, “Peace!” He later said, “Surely we are afraid of you.”
 
-## AI Tafsir
-
-**What this ayah teaches:** We bring you the good news of a boy possessing much knowledge and wisdom.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

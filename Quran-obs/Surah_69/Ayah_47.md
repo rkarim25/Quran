@@ -108,11 +108,5 @@ This verse refers to a theoretical situation relating to the Apostle of Allah in
 
 and none of you could have shielded him from Us.
 
-## AI Tafsir
-
-**What this ayah teaches:** And if he had forged a false saying concerning Us (44)We surely would have seized him by his right hand (45)And then We certainly would have cut off Al-Watin from him (46)And none of you could have prevented it from him (47)And verily, this is a Reminder for those who have Taqwa (48)And verily, We know that there are some among you that deny (49)And indeed it will be an anguish for the those who reject the truth…
-
-**Classical tafsir:** Ibn Kathir notes: A Cautionary Note This verse refers to a theoretical situation relating to the Apostle of Allah in particular that lest, Allah forbid, if he were to concoct a word and impute it to Allah, this is the way he would have been dealt with.
 ## Personal Reflections
-
 

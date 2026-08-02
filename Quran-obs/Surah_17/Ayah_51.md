@@ -279,13 +279,5 @@ Imam al-Qurtubi (رح) says that he himself went through an incident in the Mant
 
 or whatever you think is harder to bring to life!” Then they will ask you, “Who will bring us back to life?” Say, “The One Who created you the first time.” They will then shake their heads at you and ask, “When will that be?” Say, “Perhaps it is soon!”
 
-## AI Tafsir
-
-**Context:** The subject taken up in the first two verses (45, 46) has a particular event as a background. According to al-Qurtubi reporting on the authority of Sayyidna Said ibn Jubayr ؓ ، when Surah al-Masad/al-Lahab (iii) beginnin…
-
-**What this ayah teaches:** Then they went back towards where they had come from, saying, 'this person must be some devil,' because they could not see me.
-
-**Classical tafsir:** Ibn Kathir notes: This means that if you were to assume that you would become dead, which is the opposite of living, Allah will resurrect you when He wills, for nothing can stop Him when He wills a thing.
 ## Personal Reflections
-
 

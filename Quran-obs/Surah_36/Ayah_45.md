@@ -115,11 +115,5 @@ Now, there remains the question: On which basis, did the believers ask the disbe
 
 Still they turn away when it is said to them, "Beware of what is ahead of you in the Akhirah and what is behind you of destroyed nations, so you may be shown mercy."
 
-## AI Tafsir
-
-**What this ayah teaches:** As for your words of advice to us that we should provide for them, this is nothing but that you have gone astray.
-
-**Classical tafsir:** Ibn Kathir notes: This aversion of theirs has not been expressly mentioned here in the words of the Qur'an, because the 'I` rad' or aversion mentioned in the next verse automatically proves their aversion here too.
 ## Personal Reflections
-
 

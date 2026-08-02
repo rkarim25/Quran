@@ -138,13 +138,5 @@ In short, the need for the Day of Requital may be denied only when it is concede
 
 Allah created the heavens and the earth for a purpose, so that every soul may be repaid for what it earned. None will be wronged.
 
-## AI Tafsir
-
-**What this ayah teaches:** Worst is the judgement that they make (21)And Allah has created the heavens and the earth with truth, in order that each person may be recompensed what he has earned, and they will not be wronged (22)Have you seen him who takes his own lust as his Allah?
-
-**Classical tafsir:** Ibn Kathir notes: The believers, on the other hand, who follow the Shari'ah strictly, do not touch many kinds of wealth and give up many pleasures because they treat them as unlawful.
-
-**From the Sunnah:** 'Amr bin Murrah narrated that Abu Ad-Duha said that Masruq said that Tamim Ad-Dari once stood in voluntary prayer through the night until the morning only reciting this Ayah,
 ## Personal Reflections
-
 

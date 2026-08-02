@@ -118,19 +118,5 @@ This statement of the Holy Qur'an teaches us an important principle of social li
 
 Then depart with the rest of the pilgrims and seek Allah's forgiveness. Allah is All-Forgiving, the Rahim.
 
-## AI Tafsir
-
-**Essence** After standing at Arafat, flow onward together with all the pilgrims — going where everyone goes, claiming no special rank — and seek Allah's forgiveness, for He is Ever-Forgiving, Most Merciful.
-
-**What it teaches** Allah commands the pilgrims to "flow" (afīḍū) onward from Arafat alongside everyone else, then to follow worship with istighfār — seeking Allah's forgiveness. The verse closes with two of Allah's names: Ghafūr (the One who forgives abundantly) and Raḥīm (the One whose mercy embraces the believer).
-
-**The scholars** Ibn Kathir explains that this is Allah's order to those standing at Arafat to move onward to Al-Muzdalifah so they remember Allah at Al-Mash'ar Al-Haram — standing and departing with the rest of the pilgrims, unlike Quraysh, who before Islam (called Al-Hums) stayed back near Muzdalifah and would not go out to Arafat, claiming to be "the people of Allah's Town and the servants of His House." Al-Bukhari reports from A'ishah that when Islam came, Allah commanded the Prophet ﷺ to stand at Arafat and proceed from there; Ibn Kathir notes this reading was held by Ibn 'Abbas, Mujahid, 'Ata', Qatadah and As-Suddi, and that Ibn Jarir reported scholarly consensus (Ijma') on it. Al-Bukhari also relates from Ibn 'Abbas that "depart" refers to proceeding from Muzdalifah to Mina to stone the pillars. Maarif ul Quran draws out the rebuke: holding aloof is a standing act of arrogance, especially shameful in Ihram, where identical dress and shared purpose teach that rich and poor, learned and ignorant are equal. It widens this to a social principle — the higher in status must not cut off the lower but live as one family; in his farewell sermon the Prophet ﷺ declared no Arab above a non-Arab, no white above black, honor resting only on taqwa. So the Quraysh were told their conduct was a sin requiring istighfār. Ibn Kathir adds that Allah frequently orders His remembrance once acts of worship are complete.
-
-**From the Sunnah** The Prophet ﷺ used to seek Allah's forgiveness three times after finishing the prayer, modeling the istighfār this verse commands once worship is complete. (Muslim)
-
-Ibn Marduwyah collected, citing what Al-Bukhari reported from Shaddad bin Aws, the master of seeking forgiveness (Sayyid al-Istighfār): the servant affirms Allah as his only Lord, admits His favor and his own sin, and begs forgiveness from the One who alone forgives sins — and whoever says it with conviction and dies will enter Paradise.
-
-**Reflection** Istighfār is the fitting close to worship because it is the opposite of the Quraysh's pride: in the Sayyid al-Istighfār the servant owns both Allah's favor and his own fault in one breath, holding back no claim of his own — and meets Allah as Ghafūr and Raḥīm.
 ## Personal Reflections
-
 

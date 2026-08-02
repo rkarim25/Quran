@@ -161,11 +161,5 @@ One may doubt that there is a conflict between this verse and that of Surah An'a
 
 They say, "Our hearts are veiled against what you call us to, there is deafness in our ears, and there is a barrier between us and you. So do whatever you want—and so will we."
 
-## AI Tafsir
-
-**What this ayah teaches:** One may doubt that there is a conflict between this verse and that of Surah An'am in this respect.
-
-**Classical tafsir:** Ibn Kathir notes: The Holy Qur'an has reproduced this statement of theirs in the context of denouncing it, which indicates that these statements are wrong.
 ## Personal Reflections
-
 

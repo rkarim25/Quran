@@ -143,11 +143,5 @@ Other historical narrations reported by commentators at this stage tell us that 
 
 How could I take besides Him other gods whose intercession would not benefit me, nor could they save me if the Rahman intended to harm me?
 
-## AI Tafsir
-
-**What this ayah teaches:** If the ar-Rahman intends me any harm, their intercession will be of no use for me whatsoever, nor can they save me. Therefore, the expression would mean that a man came running from the farthest part of the city.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, the expression would mean that a man came running from the farthest part of the city.
 ## Personal Reflections
-
 

@@ -194,11 +194,5 @@ In verse 19, it was said: يَعْلَمُ خَائِنَةَ الْأَعْيُ
 
 Have they not travelled throughout the land to see the end of those destroyed before them? They were far superior in might and richer in monuments throughout the land. But Allah seized them for their sins, and they had no protector from Allah.
 
-## AI Tafsir
-
-**What this ayah teaches:** Have they not traveled in the land and seen what was the end of those who were before them? They were superior to them in strength, and in the traces in the land.
-
-**Classical tafsir:** Ibn Kathir notes: And none had they to protect them from Allah (21)That was because there came to them their Messengers with clear evidences but they disbelieved (in them).
 ## Personal Reflections
-
 

@@ -137,13 +137,5 @@ It is evident that in this Hadith the reference to learned people applies to tho
 
 It is a revelation from the One Who created the earth and the high heavens—
 
-## AI Tafsir
-
-**Context:** Juwaybir reported that Ad-Dahhak said, "When Allah sent the Qur'an down to His Messenger ﷺ, he and his Companions adhered to it.
-
-**What this ayah teaches:** To Him belongs all that is in the heavens and all that is on the earth, and all that is between them, and all that is under the soil.)(7.
-
-**Classical tafsir:** Ibn Kathir notes: To Him belongs the Best Names.) This means, 'He Who revealed this Qur'an to you (O Muhammad), He is Allah, there is no Allah except Him.
 ## Personal Reflections
-
 

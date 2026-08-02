@@ -104,11 +104,5 @@ If only the translation of the Qur'an is written in any language without the Ara
 
 Had We revealed it to a non-Arab,.
 
-## AI Tafsir
-
-**Context:** Then Allah tells us how intense the disbelief of Quraysh was, and how stubbornly they resisted the Qur'an. If this Book with all its eloquence had been revealed to a non-Arab who did not know one word of Arabic, they sti…
-
-**What this ayah teaches:** And verily, it is in the Zubur of the former people (196)Is it not a sign to them that the learned scholars of the Children of Israel knew it (197)And if We had revealed it unto any of the non-Arabs (198)And he had recited it unto them, they would not have believed in it .
 ## Personal Reflections
-
 

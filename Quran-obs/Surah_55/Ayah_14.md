@@ -124,11 +124,5 @@ The Creation of Humans and Jinns
 
 He created humanity from sounding clay like pottery,
 
-## AI Tafsir
-
-**What this ayah teaches:** The Creation of Humans and Jinns Allah mentions that He created mankind from clay, like that used in pottery, and created the Jinns from the tip of the flame of a smokeless fire. The word salsal [ clay ] refers to the wet soil when it becomes dry and heavy.
-
-**Classical tafsir:** Ibn Kathir notes: Mujahid, Qatadah, Abu Ruzayn, Ad-Dahhak said it, and it has also been reported from 'Ali. The word salsal [ clay ] refers to the wet soil when it becomes dry and heavy.
 ## Personal Reflections
-
 

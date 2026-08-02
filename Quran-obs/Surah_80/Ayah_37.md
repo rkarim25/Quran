@@ -108,13 +108,5 @@ The Chapter ends on a note of warning to disbelievers that if they reject the Qu
 
 Each will have enough concern of their own.
 
-## AI Tafsir
-
-**What this ayah teaches:** Then when there comes As-Sakhkha (33)That Day shall a man flee from his brother (34)And from his mother and his father (35)And from his wife and his children (36)Every man that Day will have enough to make him careless of others (37)Some faces that Day will be bright (38)Laughing, rejoicing at good news (39)And other faces that Day will be dust-stained (40)Darkness will cover them (41)Such will be…
-
-**Classical tafsir:** Ibn Kathir notes: And from his wife and his children.) meaning, he will see them and then flee from them, and seek to get away from them because horror will be so great and the matter will be so weighty.
-
-**From the Sunnah:** intercede with Allah on behalf of the creation, but each of them will say, "O myself! O myself! Today I will not ask You (O Allah) concerning anyone but myself.
 ## Personal Reflections
-
 

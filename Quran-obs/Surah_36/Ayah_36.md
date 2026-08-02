@@ -124,11 +124,5 @@ Ibn Jarir, however, understood the word Ma to mean Alladhi (i.e., a relative pro
 
 Glory be to the One Who created all things in pairs—what the earth produces, their genders, or what they do not know!
 
-## AI Tafsir
-
-**What this ayah teaches:** Will they not then give thanks (35)Glory be to Him Who has created all the pairs of that which the earth produces, as well as of their own kind, and of that which they know not . A pair is two things of the same kind and refers to a couple, or a match of the other.
-
-**Classical tafsir:** Ibn Kathir notes: A pair is two things of the same kind and refers to a couple, or a match of the other.
 ## Personal Reflections
-
 

@@ -155,13 +155,5 @@ Imam Raghib al-Isfahani (رح) ، who has explained Hidayah or guidance in a com
 
 As for those who believe and do good—We never require of any soul more than what it can afford—it is they who will be the residents of Paradise. They will be there forever.
 
-## AI Tafsir
-
-**What this ayah teaches:** The purpose is to emphasize that good deeds - which is a condition for entry into Paradise - is really not something so difficult as would be beyond the ability of a man or woman.
-
-**Classical tafsir:** Ibn Kathir notes: The purpose is to emphasize that good deeds - which is a condition for entry into Paradise - is really not something so difficult as would be beyond the ability of a man or woman.
-
-**From the Sunnah:** Paradise that belonged to the people of the Fire, they will be told, "This is the Paradise that you inherited because of what you used to do. Instead of that, in accordance with a Hadith in al-Bukhari and Muslim, this payment will be made in the currency of deeds. (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
-
 

@@ -275,19 +275,5 @@ But it is obvious that he could not come out with this counter-demand. The reaso
 
 Have you not considered the one who argued with Abraham about his Rabb because Allah had given him kingship? When Abraham said, "My Rabb gives life and causes death," he replied, "I give life and cause death." Abraham said, "Allah brings the sun from the east — bring it from the west." The one who rejected was confounded. Allah does not guide wrongdoing people.
 
-## AI Tafsir
-
-**Essence**
-When a tyrant intoxicated by power claimed the very lordship of Allah, Ibrahim silenced him not with force but with a single proof of Allah's sole command over life, death, and the cosmos.
-
-**What it teaches**
-Allah recalls the debate of Ibrahim (alayhi as-salam) with a king who "argued about his Lord" (haajja fi rabbihi) — a dispute the mufassirun read as a denial of the very existence of a Lord above himself — precisely because Allah had granted him kingship (al-mulk), a gift that should have bred gratitude but instead bred arrogance. Ibrahim names Allah by His acts: the One who gives life and causes death (yuhyi wa yumitu). When the king twisted this with a hollow claim, Ibrahim shifted to a proof against which the king stood silent — the sun's rising — and "the one who disbelieved was dumbstruck" (fa-buhita).
-
-**The scholars**
-Ibn Kathir identifies the disputant as King Nimrod, citing Mujahid that of the four kings who ruled east and west, two were believers (Sulayman ibn Dawud and Dhul-Qarnayn) and two were disbelievers (Nimrod and Nebuchadnezzar). He glosses "alam tara" as "Have you looked with your heart, O Muhammad," reads the dispute as concerning the existence of Allah, and notes Nimrod, like Fir'awn after him ("I know not that you have a god other than me," 28:38), denied any god besides himself — his long, tyrannical rule being what drove him to such rebellion. Ibn Kathir reports that Qatadah, Muhammad ibn Ishaq, and As-Suddi read Nimrod's "I give life and cause death" as his power to execute or pardon a condemned man; but he holds Ibrahim refuted both of Nimrod's claims, not merely chose a clearer one — for the One who controls life and death controls all existence, including the sun, so "if you were god, bring the sun from the west." As-Suddi adds the debate occurred after Ibrahim was cast into the fire. On the acts themselves, Maarif ul Quran explains true "giving life" as bestowing life on the lifeless, and true "bringing death" (footnote 56) as the power to remove life from any creature without the intervention of an apparent cause. Maarif (with Qurtubi and Bayan al-Quran) then draws the rulings: there is no harm in addressing a disbelieving ruler by his worldly title (Qurtubi); debating to make truth distinct from falsehood is permissible; and Nimrod could not turn the argument back by demanding Ibrahim's Lord bring the sun from the west, for he realized that controlling the sun is a divine act proving Allah's existence — and that Ibrahim, a messenger of Allah, might pray for exactly that and overturn his kingdom (Bayan al-Quran).
-
-**Reflection**
-Worldly power is a trust meant to deepen gratitude, not feed the ego — meet arrogance with clear, patient proof and leave the guiding of hearts to Allah.
 ## Personal Reflections
-
 

@@ -125,11 +125,5 @@ The second line of conduct that stands proved from this event is that the time o
 
 He ordered, "Bring them back to me!" Then he began stroking their legs and necks.
 
-## AI Tafsir
-
-**What this ayah teaches:** As-Suddi said, "Their necks and hamstrings were struck with swords." Ali bin Abi Talhah reported that Ibn 'Abbas, may Allah be pleased with him, said, "He began patting the horses' heads and legs out of love for them." This is the view that was favored by Ibn Jarir.
-
-**Classical tafsir:** Ibn Kathir notes: Mujahid said, "They were the kind of horses which stand on three legs and raise the fourth, and they were swift horses." This was also the view of several others among the Salaf.
 ## Personal Reflections
-
 

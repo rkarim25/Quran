@@ -204,13 +204,5 @@ Having described the horrors of Resurrection, and the accountability of deeds, A
 
 that travel and disappear,
 
-## AI Tafsir
-
-**Context:** (He has been taught by one mighty in power (Jibril). Dhu Mirrah, then he rose. While he was in the highest part of the horizon. Then he approached and came closer. And was at a distance of two bows' length or less.
-
-**What this ayah teaches:** The word 'what' here refers to his good and bad deeds, all of which will be in front of him, either in the form of the Record of Deeds that will be given in his hands or his deeds will assume a specific body shape as is understood from certain Traditions.
-
-**Classical tafsir:** Ibn Kathir notes: Mujahid said, "It means its darkening." Sa'id bin Jubayr said, "When it begins." Al-Hasan Al-Basri said, "When it covers the people." This was also said by 'Atiyah Al-'Awfi.
 ## Personal Reflections
-
 

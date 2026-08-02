@@ -90,13 +90,5 @@ This Surah indicates that Quraish, of all the tribes of Arabia, was most accepta
 
 For the accustomed security of Quraysh—
 
-## AI Tafsir
-
-**What this ayah teaches:** They (the Companions) wrote "In the Name of Allah, the ar-Rahman, the ar-Rahim" on the line (i.e., the space) between these two Surahs. Then they would return to their city in safety during their journeys due to the respect that the people had for them because they were the residents of Allah's sanctuary.
-
-**Classical tafsir:** Ibn Kathir notes: Superiority of Quraish This Surah indicates that Quraish, of all the tribes of Arabia, was most acceptable in the sight of Allah.
-
-**From the Sunnah:** And I am commanded to be from among the Muslims.)(27:91) : "People will follow Quraish in matters of good as well as in matters of evil. (Sahih Muslim)
 ## Personal Reflections
-
 

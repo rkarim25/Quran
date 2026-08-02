@@ -150,11 +150,5 @@ It has been mentioned earlier that the Holy Prophet ﷺ had prayed to Allah to p
 
 He is the One Who created for you hearing, sight, and intellect. Yet you hardly give any thanks.
 
-## AI Tafsir
-
-**What this ayah teaches:** Little thanks you give (78)And it is He Who has created you on the earth, and to Him you shall be gathered back (79)And it is He Who gives life and causes death, and His is the alternation of night and day.
-
-**Classical tafsir:** Ibn Kathir notes: This is only the tales of the ancients!") This means, "It is impossible that we could be brought back.
 ## Personal Reflections
-
 

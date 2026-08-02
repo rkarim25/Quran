@@ -123,11 +123,5 @@ First of all, by using the word: رَبّ (Rabb: Lord) here, the hint given is t
 
 Have they not considered how the shadows of everything Allah has created incline to the right and the left as the sun moves, totally submitting to Allah in all humility?
 
-## AI Tafsir
-
-**What this ayah teaches:** Have they not observed things that Allah has created: (how) their shadows shift from right to left, prostrating to Allah while they are humble (48)And to Allah prostrate all that are in the heavens and all that are in the earth, the moving creatures and the angels, and they are not proud [i.e.
-
-**Classical tafsir:** Ibn Kathir notes: Mujahid said, "When the sun passes its zenith, everything prostrates to Allah, may He be glorified." This was also said by Qatadah, Ad-Dahhak and others.
 ## Personal Reflections
-
 

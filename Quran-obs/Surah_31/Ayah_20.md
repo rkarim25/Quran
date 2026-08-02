@@ -181,11 +181,5 @@ The manifestations of Allah's knowledge, power and blessings are endless. These 
 
 Do you not see that Allah has subjected to you whatever is in the heavens and whatever is on the earth, and has lavished favours upon you, seen and unseen? Yet some dispute about Allah without knowledge, without guidance, and without an enlightening Book.
 
-## AI Tafsir
-
-**What this ayah teaches:** See you not that Allah has subjected for you whatsoever is in the heavens and whatsoever is on the earth, and has completed and perfected His graces upon you, apparent and hidden?
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, Allah Ta` a1a did put all these things into the service of human beings but did not make them subject to their will and command.
 ## Personal Reflections
-
 

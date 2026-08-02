@@ -218,11 +218,5 @@ This sentence is probably connected to the preceding verse: جَزَاءً مِ�
 
 Rabb of the heavens and earth and all between—the Rahman, whose mercy in this life extends over all creation. On that Day no one will dare speak to Him
 
-## AI Tafsir
-
-**What this ayah teaches:** The Lord of the heavens and the earth, and whatsoever is in between them, the ar-Rahman, with Whom they cannot dare to speak.)(38.
-
-**Classical tafsir:** Ibn Kathir notes: He explains that He is the ar-Rahman, Whose mercy covers all things.
 ## Personal Reflections
-
 

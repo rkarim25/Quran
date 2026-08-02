@@ -278,13 +278,5 @@ The first mention of the fish going into the sea was made through the word: سَ
 
 When they had passed further, he said to his assistant, “Bring us our meal! We have certainly been exhausted by today’s journey.”
 
-## AI Tafsir
-
-**Context:** (Musa got up to deliver a speech before the Children of Israel and he was asked, "Who is the most learned person among the people?" Musa replied, "I am." Allah rebuked him because he did not refer the knowledge to Allah.…
-
-**What this ayah teaches:** Therefore, some of the commentators said that this grilled fish was put in to eat and, during the course of the journey, the two travelers kept eating out of it as well. This was the third test, because any realization of fatigue and hunger should have naturally come earlier than that.
-
-**Classical tafsir:** Ibn Kathir notes: Ibn Jarir (may Allah have mercy on him) said, "Some of the scholars of the Arabic language said that Huqub means a year in the dialect of [the tribe of] Qays," then he narrated that 'Abdullah bin 'Amr said, "Huqub means eighty years." Mujahid said, "Seventy years." 'Ali bin Abi Talhah reported that…
 ## Personal Reflections
-
 

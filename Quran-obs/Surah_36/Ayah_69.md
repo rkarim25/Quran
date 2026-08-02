@@ -150,13 +150,5 @@ Ibn Kathir has reported this narration in his Tafsir, and at-Tirmidhi, an-Nasa'I
 
 We have not taught him poetry, nor is it fitting for him. This Book is only a Reminder and a clear Quran
 
-## AI Tafsir
-
-**What this ayah teaches:** Will they not then understand (68)And We have not taught him poetry, nor is it suitable for him.
-
-**Classical tafsir:** Ibn Kathir notes: On what basis could this be because neither is the Qur'an restricted by the compulsion of poetic meter, nor of radif (the unchanging word that appears at the end of the hemistich) and qafiyah (the changing rhymed word that appears before the radif) anywhere in the text?
-
-**From the Sunnah:** It was narrated that he ﷺ never memorized a stanza of poetry with the correct meter or rhyme – he would transpose words or memorize it incompletely. In Ad-Dala'il, Al-Bayhaqi recorded that the Messenger of Allah ﷺ said to Al-'Abbas bin Mirdas As-Sulami, may Allah be pleased with him:
 ## Personal Reflections
-
 

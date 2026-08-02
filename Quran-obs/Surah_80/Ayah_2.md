@@ -164,15 +164,5 @@ This attitude of the Holy Prophet ﷺ was based on ijtihad or 'an opinion based 
 
 because the blind man came to him.
 
-## AI Tafsir
-
-**Context:** (He frowned and turned away.) "This was revealed about Ibn Umm Maktum, the blind man. He came to the Messenger of Allah ﷺ and began saying, 'Guide me.' At the time the Messenger of Allah ﷺ had a man with him who was one…
-
-**What this ayah teaches:** Because there came to him the blind man.)(3. Because there came to him the blind man.
-
-**Classical tafsir:** Ibn Kathir notes: This indicates that if an excusable person were to break any rule of etiquette unwittingly, he should not be reprimanded.
-
-**From the Sunnah:** He (Ibn Umm Maktum) then began asking the Messenger of Allah ﷺ about something, urgently beseeching him. He came to the Messenger of Allah ﷺ and began saying, 'Guide me.' At the time the Messenger of Allah ﷺ had a man with him who was one of the great leaders of the idolators.
 ## Personal Reflections
-
 

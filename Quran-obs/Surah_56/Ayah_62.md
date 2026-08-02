@@ -123,11 +123,5 @@ After referring to the birth of man from very insignificant beginning, the Surah
 
 You already know how you were first created. Will you not then take heed?
 
-## AI Tafsir
-
-**What this ayah teaches:** The first thing is food to which verse [ 63] refers.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, whatever comes into existence comes under the veils of causes.
 ## Personal Reflections
-
 

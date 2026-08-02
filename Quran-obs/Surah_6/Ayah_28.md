@@ -161,11 +161,5 @@ That their present statement has been called a lie could also be based on their 
 
 But no! because the truth they used to hide will become all too clear to them. Even if they were to be sent back, they would certainly revert to what they were forbidden. Indeed they are liars!
 
-## AI Tafsir
-
-**What this ayah teaches:** But the (lie) which they invented will disappear from them.) It is also possible that the meaning here is that the those who reject the truth will realize the truth that they knew all along in their hearts, that is, that what the Messengers brought them in this life is true, although they used to deny his Message before their followers.
-
-**Classical tafsir:** Ibn Kathir notes: And indeed they are liars.) meaning, they lie when they say they wish to go back to this life so that they can embrace the faith.
 ## Personal Reflections
-
 

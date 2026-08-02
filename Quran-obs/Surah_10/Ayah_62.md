@@ -175,13 +175,5 @@ It has been said in Tafsir Mazhari: There is a prevailing assumption among masse
 
 There will certainly be no fear for the close servants of Allah, nor will they grieve.
 
-## AI Tafsir
-
-**What this ayah teaches:** Also given there is good news for them in the present world as well as in the Hereafter.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, the degree of their Wilayah was higher than that of all Auliya' and aqtab (plural of qutb, literally axis, meaning a man of Allah who stays at one place, as in Sufi orders).
-
-**From the Sunnah:** Ibn Jarir narrated from 'Ubadah bin As-Samit that he [recited] to Allah's Messenger ﷺ: Paradise which you have been promised! We have been your friends in the life of this world and are (so) in the Hereafter.
 ## Personal Reflections
-
 

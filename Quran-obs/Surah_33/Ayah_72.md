@@ -210,13 +210,5 @@ And there are others who have said that Zalum and Jahul has been used at this pl
 
 Indeed, We offered the trust to the heavens and the earth and the mountains, but they all declined to bear it, being fearful of it. But humanity assumed it, for they are truly wrongful to themselves and ignorant of the consequences,
 
-## AI Tafsir
-
-**Context:** Here, it is worth pondering that the heavens, the earth and the mountains that are inanimate and, obviously devoid of knowledge and consciousness, how then would it be possible to rationalize the presentation of such an…
-
-**What this ayah teaches:** In short, in the verse, the two words (Zalum and Jahul) mentioned above have been used for those particular individuals among human beings who did not obey the injunctions of the Shari’ ah as they were expected to, and failed to fulfill the right entailed by the amanah or trust placed with them - that is, the those who reject the truth, hypocrites, transgressors, the wicked, and sinning Musl…
-
-**Classical tafsir:** Ibn Kathir notes: Verily, he was unjust and ignorant.)" 'Ali bin Abi Talhah reported that Ibn 'Abbas said, "Al-Amanah means Al-Fara'id (the obligatory duties).
 ## Personal Reflections
-
 

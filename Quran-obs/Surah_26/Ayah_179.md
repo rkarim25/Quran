@@ -50,11 +50,5 @@ This verse has confirmed that if a man commits sodomy, he may be punished with t
 
 So fear Allah, and obey me.
 
-## AI Tafsir
-
-**What this ayah teaches:** Shu'ayb preached to them and commanded them to be fair in their weights and measures, the same as is mentioned in the story of Madyan, which also indicates that they were the same nation.
-
-**Classical tafsir:** Ibn Kathir notes: Shu'ayb preached to them and commanded them to be fair in their weights and measures, the same as is mentioned in the story of Madyan, which also indicates that they were the same nation.
 ## Personal Reflections
-
 

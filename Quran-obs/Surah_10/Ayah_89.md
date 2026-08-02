@@ -112,13 +112,5 @@ As for the acceptance of prayer, the information was given to the two prophets a
 
 Allah responded to Moses and Aaron, “Your salah is answered! So be steadfast and do not follow the way of those who do not know.”
 
-## AI Tafsir
-
-**What this ayah teaches:** If You leave them, they will mislead Your servants, and they will beget none but wicked those who reject the truth.)(71:26-27) Harun said "Amin" to his brother's prayer.
-
-**Classical tafsir:** Ibn Kathir notes: So you both keep to the straight way) So as I have answered your prayer, you should remain steadfast on My command.' Ibn Jurayj narrated that Ibn 'Abbas said about this Ayah: "Be steadfast and follow My command."
-
-**From the Sunnah:** So you both keep to the straight way) So as I have answered your prayer, you should remain steadfast on My command.' Ibn Jurayj narrated that Ibn 'Abbas said about this Ayah: "Be steadfast and follow My command."
 ## Personal Reflections
-
 

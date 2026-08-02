@@ -148,11 +148,5 @@ The Holy Prophet ﷺ was instructed to tell people that all the creatures that l
 
 Or ask them, “Who originates the creation then resurrects it, and gives you provisions from the heavens and the earth? Is it another god besides Allah?” Say, O Prophet, “Show me your proof, if what you say is true.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Is not He Who originates creation, and shall thereafter repeat it, and Who provides for you from heaven and earth?
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

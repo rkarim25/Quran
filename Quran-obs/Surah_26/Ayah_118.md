@@ -92,11 +92,5 @@ It is related in this verse that the disbelievers rejected the invitation of Say
 
 So judge between me and them decisively, and save me and the mu'mins with me.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Hence, it was their ignorance to put the label of sordidness on his followers, because they did not know about their deeds and disposition. His People's Threat, Nuh's Prayer Against Them, and Their Destruction Nuh stayed among his people for a long time, calling them to Allah night and day, in secret and openly.
-
-**Classical tafsir:** Ibn Kathir notes: Hence, it was their ignorance to put the label of sordidness on his followers, because they did not know about their deeds and disposition.
 ## Personal Reflections
-
 

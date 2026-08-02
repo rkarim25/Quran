@@ -164,11 +164,5 @@ But in the matter of their actual use the order was reversed i.e. eating was enj
 
 Eat, drink, and let your heart be at ease. If you see anyone, say: I have vowed silence to the Rahman, so I am not speaking to anyone today."
 
-## AI Tafsir
-
-**What this ayah teaches:** And if you see any human being, say: 'Verily, I have vowed a fast for the ar-Rahman so I shall not speak to any human being today., . It is perhaps because normally a person first makes arrangement for drinking water and then for food, specially such food as is more likely to produce thirst.
-
-**Classical tafsir:** Ibn Kathir notes: It is perhaps because normally a person first makes arrangement for drinking water and then for food, specially such food as is more likely to produce thirst.
 ## Personal Reflections
-
 

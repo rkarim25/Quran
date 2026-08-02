@@ -181,13 +181,5 @@ him to perform such super-human things. (Ibn Jarir)
 
 One mighty jinn responded, “I can bring it to you before you rise from this council of yours. And I am quite strong and trustworthy for this task.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Sulayman, upon him be peace, said, "I want it faster than that." From this it seems that Sulayman wanted to bring this throne as a demonstration of the greatness of the power and authority that Allah had bestowed upon him and the troops that He had subjugated to him.
-
-**Classical tafsir:** Ibn Kathir notes: Power such as had never been given to anyone else, before or since, so that this would furnish proof of his prophethood before Bilqis and her people, because this would be a great and wondrous thing, if he brought her throne as if he were in her country, before they could come to…
-
-**From the Sunnah:** Which of you can bring me her throne before they come to me surrendering themselves in obedience (as Muslims)? In conventional expression, 'Muslim' is equivalent of 'believer'. (Sahih Muslim)
 ## Personal Reflections
-
 

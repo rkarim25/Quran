@@ -111,13 +111,5 @@ Since the coming of their patriarch, Sayyidna Ibrahim علیہ السلام and 
 
 so that you may warn a people whose forefathers were not warned, and so are heedless.
 
-## AI Tafsir
-
-**What this ayah teaches:** In order that you may warn a people whose forefathers were not warned, so they are heedless.)(7. Sent down by the Almighty, the ar-Rahim,)(6.
-
-**Classical tafsir:** Ibn Kathir notes: Sent down by the Almighty, the ar-Rahim,)(6.
-
-**From the Sunnah:** We have already mentioned the Ayat and Mutawatir Hadiths which state that the mission of the Prophet ﷺ is universal, when we discussed the meaning of the Ayah:
 ## Personal Reflections
-
 

@@ -439,15 +439,5 @@ The second part of the verse appearing here relates to another question -- about
 
 They ask you about wine and gambling. Say, "In both is great sin and some benefit for people — but the sin outweighs the benefit." They also ask what they should spend. Say, "Whatever you can spare." Thus Allah makes His signs clear, so you may reflect
 
-## AI Tafsir
-
-**Essence** When asked about intoxicants and gambling, Allah does not hide their appeal — yes, some benefit, but the sin is greater. That single verdict was the beginning of the process by which a whole people was led, step by step, away from wine and games of chance.
-
-**What it teaches** Khamr (intoxicants — which 'Umar ibn al-Khattab said includes "all that intoxicates the mind") and maysir (gambling) carry a "great sin" (ithm kabir) that outweighs their material gains. Maysir is read by some scholars from a root meaning "to distribute" (recalling the Jahili camel-meat game) and by others from yusr, "ease" — because the gambler seizes another's wealth with no effort; either way it covers every form of qimar where one side's gain is the other's loss. The verse then answers a second question — what to spend in charity — with al-'afw, "whatever you can spare" beyond your family's needs, and closes by urging us to reflect (tatafakkarun) on this life and the Hereafter.
-
-**The scholars** Ibn Kathir explains this verse was "the beginning of the process of prohibiting Khamr, not explicitly, but it only implied this meaning." He traces three revealed stages — this ayah, then 4:43 (do not approach prayer while intoxicated), then the decisive 5:90-91. He cites the report (from Imam Ahmad, also Abu Dawud, At-Tirmidhi and An-Nasai) that 'Umar kept praying, "O Allah! Give us a clear ruling regarding Al-Khamr," until that final verse came and he said, "We did abstain, we did abstain." The "benefits," Ibn Kathir notes, are merely worldly while the harm strikes the mind and the religion — so the sin is greater. On charity, Ibn 'Abbas (via Miqsam and Al-Hakam) and a line of salaf — Ibn 'Umar, Mujahid, 'Ata', 'Ikrimah, Sa'id bin Jubayr, Qatadah and others — read al-'afw as "whatever you can spare above the needs of your family"; Ibn 'Abbas glossed the call to reflect as pondering "the imminent demise and the brevity of this life, and the imminent commencement of the Hereafter and its continuity." Maarif ul Quran (which frames the gradual ban across four verses) stresses that ithm covers anything that becomes a doorway to sin — wine dulls reason, the brake against evil — and draws the rule that a thing's having some benefit does not stop it being haram when its harm is greater, since removing harm takes precedence over gaining benefit. It exposes gambling's deep evil: the winner's gain is purely the loser's loss, adding nothing to real wealth, breeding hatred, and luring a man from honest earning into dreaming of seizing what belongs to others.
-
-**Reflection** Weigh every pleasure by Allah's own verdict — not by the gain it dangles, but by the harm behind it — and give freely from your surplus while reason and breath remain.
 ## Personal Reflections
-
 

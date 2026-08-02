@@ -203,15 +203,5 @@ Some of the Jews, seeing the growing power of the Muslims in Madinah and around 
 
 When they meet believers they say, "We believe." In private they say to each other, "Will you tell the believers what Allah revealed to you so they can argue with you before your Rabb? Do you not understand?"
 
-## AI Tafsir
-
-**Essence** To the believers' faces they said "We believe"; in private they plotted to bury the truth Allah had revealed to them in the Torah.
-
-**What it teaches** Some Jews of Madinah feigned faith, then rebuked one another in secret: why disclose what Allah "revealed to you" (fataha 'alaykum) — per the mufassirun, the Torah's foretelling of the Prophet ﷺ — lest it become a hujjah (proof) against you before your Lord? Their own whisper ends "Do you not understand?" — they feared losing an argument more than losing the truth.
-
-**The scholars** Ibn Kathir cites Ibn 'Abbas: to the believers they conceded Muhammad ﷺ was Allah's Messenger — "only sent for you (Arabs)" — yet privately forbade conveying his news. Al-Hasan al-Basri: do not tell his Companions "what Allah has foretold in your Book." Maarif ul-Quran: some pretended Islam to win favour, and fellow Jews reprimanded them for revealing what others laboured to conceal.
-
-**Reflection** Let the tongue before people match the heart when alone — nothing concealed is hidden from Allah.
 ## Personal Reflections
-
 

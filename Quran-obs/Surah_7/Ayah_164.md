@@ -149,11 +149,5 @@ The Holy Prophet ﷺ has been asked to warn the Israelites present in his time b
 
 When some of them questioned, “Why do you warn those who will either be destroyed or severely punished by Allah?” They replied, “Just to be free from your Rabb’s blame, and so perhaps they may abstain.”
 
-## AI Tafsir
-
-**What this ayah teaches:** They said, 'why do you forbid these people from evil, when you know that they are destroyed and have earned Allah's punishment?' Therefore, they said, there is no benefit in forbidding them.
-
-**Classical tafsir:** Ibn Kathir notes: They said, 'why do you forbid these people from evil, when you know that they are destroyed and have earned Allah's punishment?' Therefore, they said, there is no benefit in forbidding them.
 ## Personal Reflections
-
 

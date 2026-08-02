@@ -118,13 +118,5 @@ The word: رُوح (ruh: spirit) as used in this verse, according to Sayyidna ib
 
 Allah's command is coming — do not seek to hurry it. Glory be to Him, high above what they associate with Him.
 
-## AI Tafsir
-
-**What this ayah teaches:** Literally (the nuance of the original expression remaining untranslatable), the sense is that issued is the command of Allah, that is, it is bound to come which you will soon see.
-
-**Classical tafsir:** Ibn Kathir notes: Literally (the nuance of the original expression remaining untranslatable), the sense is that issued is the command of Allah, that is, it is bound to come which you will soon see.
-
-**From the Sunnah:** Ibn Abi Hatim reported from 'Uqbah bin 'Amir that the Messenger of Allah ﷺ said:
 ## Personal Reflections
-
 

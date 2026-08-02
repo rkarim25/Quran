@@ -91,11 +91,5 @@ Ends here.
 
 Noah proclaimed: 'O my people, I am truly sent to you with a clear warning:
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, We sent Nuh to his people (saying): "Warn your people before there comes to them a painful torment.")(2.
-
-**Classical tafsir:** Ibn Kathir notes: The use of plural number in this verse too indicates that there are many types and categories of 'testimony', and it is necessary to stand firm by one's testimony of any type.
 ## Personal Reflections
-
 

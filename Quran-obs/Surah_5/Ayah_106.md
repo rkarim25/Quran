@@ -382,13 +382,5 @@ The word, "Salah" in: مِن بَعْدِ الصَّلَاةِ (after the prayer
 
 O you who have iman! When death approaches any of you, call upon two just Muslim men to witness as you make a bequest; otherwise, two non-Muslims if you are afflicted with death while on a journey. If you doubt, keep them after prayer and let them testify under oath, “By Allah! We would never sell our testimony for any price, even in favour of a close relative, nor withhold the testimony of Allah. Otherwise, we would surely be sinful.”
 
-## AI Tafsir
-
-**What this ayah teaches:** That a Wasiyy should be Muslim and just, is better but not necessary, no matter whether the will is being made in journey or at home.
-
-**Classical tafsir:** Ibn Kathir notes: Then, the words "if you have some doubt" refers to a situation where the legal heirs of the deceased have a claim against the executors of the will, as in the case of Budayl the heirs claimed that a bowl of silver was delivered by the deceased to the executors.
-
-**From the Sunnah:** Ibn Jarir recorded that Sharih said, "The witness of the Jews and Christians is not allowed except while traveling, and even then only to witness the dictation of the will." Allah's statement, they are detained after Muslim prayer (i.e., in congregation). (Sahih Muslim)
 ## Personal Reflections
-
 

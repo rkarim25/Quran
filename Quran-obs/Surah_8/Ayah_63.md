@@ -178,13 +178,5 @@ In Surah Maryam, it was said: إِنَّ الَّذِينَ آمَنُوا وَ�
 
 He united their hearts. If you had spent all that is on earth, you could not have united their hearts—but Allah united them. He is Almighty, All-Wise.
 
-## AI Tafsir
-
-**What this ayah teaches:** If you had spent all that is in the earth, you could not have united their hearts, but Allah has united them.
-
-**Classical tafsir:** Ibn Kathir notes: In short, for our instant purpose, this verse explains how the blessing which was bestowed by Allah Ta` ala on the Holy Prophet ﷺ - a blessing which was to generate mutual love into the hearts of all tribes of Madinah making them all set to help and support the Holy Prophet ﷺ wen…
-
-**From the Sunnah:** This is why when the pagans inclined to peace in the year of Hudaybiyah and sought cessation of hostilities for nine years, between them and the Messenger of Allah ﷺ he accepted this from them, as well as, accepting other terms of peace they brought forth. (Musnad Ahmad) Allah mentioned His favor on the Prophet ﷺ, in that He aided him with believers, the Muhajirin and the Ansar,
 ## Personal Reflections
-
 

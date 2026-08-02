@@ -97,11 +97,5 @@ There is a verse in Surah Al-Ma'arij which says that the day with your Lord will
 
 Say, O Prophet, “O humanity! I am only sent to you with a clear warning.
 
-## AI Tafsir
-
-**What this ayah teaches:** I am (sent) to you only as a plain warner.
-
-**Classical tafsir:** Ibn Kathir notes: The first meaning is that the verse refers to the Day of Resurrection and the events which will take place on that day will be so horrifying and of such extreme severity that the day will appear never to end, as if it was equal to one thousand years according to our reckoning.
 ## Personal Reflections
-
 

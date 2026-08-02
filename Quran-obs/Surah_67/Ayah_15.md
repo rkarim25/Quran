@@ -128,13 +128,5 @@ At-Tirmidhi, An-Nasa'i and Ibn Majah all recorded this Hadith. At-Tirmidhi said,
 
 He smoothed the earth for you—move through its regions and eat from His provision. To Him is the resurrection of all.
 
-## AI Tafsir
-
-**What this ayah teaches:** This warning tells us that man is permitted to draw benefits of eating, drinking and living from the earth, but he is reminded at the same time not to be neglectful of death and life-after-death.
-
-**Classical tafsir:** Ibn Kathir notes: This means that his sins will be remitted and he will be rewarded abundantly.
-
-**From the Sunnah:** This is similar to what Imam Ahmad recorded from 'Umar bin Al-Khattab, that he heard the Messenger of Allah ﷺ say, (Musnad Ahmad) this Hadith. (Jami' at-Tirmidhi, Sunan Ibn Majah)
 ## Personal Reflections
-
 

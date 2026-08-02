@@ -188,13 +188,5 @@ Allah points out the proof of the prophethood of Muhammad ﷺ, whereby he told o
 
 And you were not at the side of Mount Ṭûr when We called out to Moses. But you have been sent as a mercy from your Rabb to warn a people to whom no warner has come before you, so perhaps they may be mindful.
 
-## AI Tafsir
-
-**Context:** (and you were not among the witnesses.) 'to that event, but Allah has revealed this to you,' so that it may be evidence and proof of events which happened centuries ago, for people have forgotten the evidence that Allah…
-
-**What this ayah teaches:** Now has come to you Our Messenger making (things) clear unto you, after a break in (the series of) Messengers, lest you say: "There came unto us no bringer of glad tidings and no warner." But now has come unto you a bringer of glad tidings and a warner)(5:19).
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

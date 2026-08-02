@@ -144,13 +144,5 @@ The text, after having confirmed the veracity of the glorious Qur'an and the nob
 
 Those who reject the truth and wrong themselves—surely Allah will neither forgive them nor guide them to any path except that of Hell, to stay there for ever and ever. And that is easy for Allah.
 
-## AI Tafsir
-
-**Context:** It has been narrated by Sayyidna Ibn ` Abbas ؓ عنہما that a group of Jews came to the Holy Prophet ﷺ . He said to them: Surely, you do know that I am a true messenger of Ajllah?
-
-**What this ayah teaches:** And Allah is All-Sufficient as a Witness (166)Verily, those who disbelieve and prevent (others) from the path of Allah; they have certainly strayed far away (167)Verily, those who disbelieve and did wrong; Allah will not forgive them, nor will He guide them to a way (168)Except the way of Hell, to dwell therein forever; and this is ever easy for Allah (169)O mankind!
-
-**Classical tafsir:** Ibn Kathir notes: Verily, there has come to you the Messenger with the truth from your Lord, so believe in him, it is better for you.) This Ayah means, Muhammad ﷺ has come to you with guidance, the religion of truth and clear proof from Allah.
 ## Personal Reflections
-
 

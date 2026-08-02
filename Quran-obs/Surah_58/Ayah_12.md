@@ -172,13 +172,5 @@ It is a remarkable co-incidence that most of the blessed Companions ؓ ، becaus
 
 O believers: when you consult the Messenger privately, give something in charity before your consultation. That is better and purer for you. If you cannot afford it, Allah is All-Forgiving, the Rahim—whose special mercy is for believers in the Akhirah.
 
-## AI Tafsir
-
-**Context:** يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا نَاجَيْتُمُ الرَّ‌سُولَ (0 those who believe, when you consult the Messenger of Allah, ...58:12) The Messenger of Allah ﷺ was preoccupied day and night with educating the people and i…
-
-**What this ayah teaches:** But if you find not (the means for it), then verily, Allah is Oft-Forgiving, ar-Rahim (12)Are you afraid of spending in charity before your private consultation (with him)?
-
-**Classical tafsir:** Ibn Kathir notes: 'Abdur-Razzaq recorded that Mujahid said that 'Ali said, "No one except me implemented this Ayah, until it was abrogated," and he was reported to have said that it remained in effect for merely an hour.
 ## Personal Reflections
-
 

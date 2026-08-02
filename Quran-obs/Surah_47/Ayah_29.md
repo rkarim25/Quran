@@ -100,13 +100,5 @@ There is absolutely no doubt that Allah's knowledge precedes the occurrence of a
 
 Or do those with sickness in their hearts think Allah will not expose their hidden malice?
 
-## AI Tafsir
-
-**Context:** أَمْ حَسِبَ الَّذِينَ فِي قُلُوبِهِم مَّرَ‌ضٌ أَن لَّن يُخْرِ‌جَ اللَّـهُ أَضْغَانَهُمْ (Do those having disease in their hearts rather think that Allah will never expose their grudges [ against Islam ]?
-
-**What this ayah teaches:** Or do those in whose hearts is a disease, think that Allah will not expose their ill–wills (29)Had We so willed, We could have shown them clearly to you, so that you would know them by their marks; but you will know them by the tone of their speech!
-
-**Classical tafsir:** Ibn Kathir notes: In this Ayah, "until We know" means 'until We know of its occurrence.' This is why Ibn 'Abbas said in regard to this and similar texts, "Except so that We may know, means, so that We may see."
 ## Personal Reflections
-
 

@@ -161,15 +161,5 @@ According to their condition described in verse 97, they outdid city dwellers in
 
 The nomadic Arabs are far worse in rejection of the truth and hypocrisy, and less likely to know the laws revealed by Allah to His Messenger. And Allah is All-Knowing, All-Wise.
 
-## AI Tafsir
-
-**Context:** The bedouins are the worst in disbelief and hypocrisy, and more likely to not know the limits which Allah has revealed to His Messenger.
-
-**What this ayah teaches:** He also states that the disbelief and hypocrisy of the bedouins is worse and deeper than the disbelief and hypocrisy of others.
-
-**Classical tafsir:** Ibn Kathir notes: According to their condition described in verse 97, they outdid city dwellers in disbelief and hypocrisy.
-
-**From the Sunnah:** this Hadith. (Jami' at-Tirmidhi, Sunan Abi Dawud)
 ## Personal Reflections
-
 

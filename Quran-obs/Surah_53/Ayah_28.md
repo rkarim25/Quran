@@ -135,11 +135,5 @@ Various Types of Zann
 
 They have no knowledge for this. They follow only assumption—and assumption cannot replace truth.
 
-## AI Tafsir
-
-**What this ayah teaches:** As opposed to this certain knowledge, zann is sometime used for the knowledge that is based on a proof, and not on baseless thoughts, but the proof is not so certain as may rule out other possibilities, as for example, injunctions based on general narratives of the Holy Prophet ﷺ .
-
-**Classical tafsir:** Ibn Kathir notes: Allah is the One Who guides whom He wills and misguides whom He wills, and all of this indicates His power, knowledge and wisdom.
 ## Personal Reflections
-
 

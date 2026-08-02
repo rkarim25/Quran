@@ -126,11 +126,5 @@ This method of prophetic call, good counsel and good-mannered debate - in line w
 
 Say: "Show me those you have joined with Him as partners. No—in truth He alone is Allah, the Almighty, All-Wise."
 
-## AI Tafsir
-
-**What this ayah teaches:** In their presence, no sensible person could say that tauhid (Oneness of Allah or pure monotheism) and shirk (the attribution of partners in the pristine divinity of Allah) are equally true and that the adherents of both are following the truth. But He is Allah, the Almighty, the All-Wise.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

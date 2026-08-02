@@ -183,15 +183,5 @@ Immediately later, in verse 166, the words fa bi idhnillahi: فَبِإِذْن�
 
 Those who sat at home, saying about their brothers, “Had they listened to us, they would not have been killed.” Say, “Try not to die if what you say is true!”
 
-## AI Tafsir
-
-**Context:** Mujahid said that Jabir bin 'Abdullah said, "This Ayah [3:168] was revealed about 'Abdullah bin Ubayy bin Salul (the chief hypocrite)."
-
-**What this ayah teaches:** One such wise arrangement is that Allah will 'see' His true believers, and the hypocrites too, that is, the sincerity of Muslims and the hypocrisy of the hypocrites will become so clear that everybody could see it for himself.
-
-**Classical tafsir:** Ibn Kathir notes: Mujahid said that Jabir bin 'Abdullah said, "This Ayah [3:168] was revealed about 'Abdullah bin Ubayy bin Salul (the chief hypocrite)."
-
-**From the Sunnah:** Thus, they suffered the loss of seventy fatalities and the Companions of the Messenger of Allah ﷺ gave flight and abandoned him. They knew that there was an army of idolators that came from a far land raging against the Muslims, to avenge their noble men whom the Muslims killed in Badr.
 ## Personal Reflections
-
 

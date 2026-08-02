@@ -290,13 +290,5 @@ This should remove the misunderstanding of those who regard the Jews and Christi
 
 Can these people be compared to those believers who stand on clear proof from their Rabb, backed by the Quran as a witness from Him, and preceded by the Book of Moses which was revealed as a guide and mercy? It is those believers who have faith in it. But whoever from the rejecting the truth groups rejects it, the Fire will be their destiny. So do not be in doubt of it. It is certainly the truth from your Rabb, but most people do not believe.
 
-## AI Tafsir
-
-**Context:** (and whom a witness from Him recites (follows) it;) This means that a witness comes to him from Allah. That witness is the pure, perfect and magnificent legislation that Allah revealed to the Prophets.
-
-**What this ayah teaches:** They made unlawful for them what I had made lawful for them and they commanded them to associate partners with Me, concerning which no authority has been revealed.) Therefore, the believer is one who remains upon this Fitrah.
-
-**Classical tafsir:** Ibn Kathir notes: Verily, it is the truth from your Lord,) This means that the Qur'an is the truth from Allah and there is no doubt or suspicion concerning it.
 ## Personal Reflections
-
 

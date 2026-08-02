@@ -222,11 +222,5 @@ As for the appointed time not being late or early as stated in this verse, it is
 
 Who does more wrong than those who fabricate lies against Allah or deny His revelations? They will receive what is destined for them, until Our messenger-angels arrive to take their souls, asking them, “Where are those you used to invoke besides Allah?” They will cry, “They have failed us,” and they will confess against themselves that they were indeed those who reject the truth.
 
-## AI Tafsir
-
-**What this ayah teaches:** For such their appointed portion will reach them from the Book (of Decrees) until Our messengers (the angel of death and his assistants) come to them to take their souls, they (the angels) will say: "Where are those whom you used to invoke and worship besides Allah," they will reply, "They have vanished and deserted us." And they will bear witness against themselves, that they were those who reject the truth .
-
-**Classical tafsir:** Ibn Kathir notes: The third verse (34) describes their sad end and the punishment they would have in the Hereafter.
 ## Personal Reflections
-
 

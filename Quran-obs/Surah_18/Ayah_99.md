@@ -148,13 +148,5 @@ The pronoun in: فَجَمَعْنَاهُمْ (fajama'nahum: Then We shall gath
 
 On that Day, We will let them surge like waves over one another. Later, the Trumpet will be blown, and We will gather all people together.
 
-## AI Tafsir
-
-**What this ayah teaches:** Then, as for their condition described therein - 'surging over one another' - it is also obvious that this will be their state when the passage lies open for them and they will be hastening their way from the hilly heights down to the ground.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** The Prophet ﷺ woke from sleep, and he was red in the face (Musnad Ahmad) According to a Hadith narrated from 'Atiyah from Ibn 'Abbas and Abu Sa'id, and attributed to the Prophet ﷺ,
 ## Personal Reflections
-
 

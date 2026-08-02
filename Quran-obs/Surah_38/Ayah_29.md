@@ -78,13 +78,5 @@ In verse 28, it was said: أَمْ نَجْعَلُ الَّذِينَ آمَن�
 
 This is a blessed Book We revealed to you so they may contemplate its ayahs—signs and verses—and so people of reason may take heed.
 
-## AI Tafsir
-
-**What this ayah teaches:** Or shall We treat those who have Taqwa as the evildoers (28)(This is) a Book which We have sent down to you, full of blessings, that they may ponder over its Verses, and that men of understanding may remember . Then Allah explains that because of His justice and wisdom, He does not treat the believers and the those who reject the truth equally.
-
-**Classical tafsir:** Ibn Kathir notes: Then Allah explains that because of His justice and wisdom, He does not treat the believers and the those who reject the truth equally.
-
-**From the Sunnah:** Accordingly, non-Muslim minorities who live in an Islamic state under mutual pledges shall be given all human rights that will be but equal to those of Muslim. (Sahih Muslim)
 ## Personal Reflections
-
 

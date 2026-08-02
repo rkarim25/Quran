@@ -213,11 +213,5 @@ So, whatever good there is in gratitude, that is for you alone. There-fore, when
 
 Their messengers said: "We are only humans like you, but Allah favours whomever He chooses of His servants. We cannot bring you proof except by Allah's permission. In Allah let the believers put their trust."
 
-## AI Tafsir
-
-**What this ayah teaches:** It is not ours to bring you an authority (proof) except by the permission of Allah. those who reject the truth reject Prophethood because the Messengers were Humans!
-
-**Classical tafsir:** Ibn Kathir notes: those who reject the truth reject Prophethood because the Messengers were Humans!
 ## Personal Reflections
-
 

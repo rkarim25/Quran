@@ -142,13 +142,5 @@ If a believer starts a nafl (an act of worship that is not obligatory), and then
 
 O you who have iman: Obey Allah and obey the Messenger, and do not let your deeds be wasted.
 
-## AI Tafsir
-
-**What this ayah teaches:** The other case of ibtal-ul-a'mal is that the acceptability of some righteous deeds is sometimes conditional upon other righteous acts.
-
-**Classical tafsir:** Ibn Kathir notes: He indicates that those people can never harm Allah in the least, and rather they only harm themselves and become losers on the Day of Resurrection.
-
-**From the Sunnah:** If, on the other hand, the those who reject the truth are considered more powerful and numerous than the Muslims, then the Imam (general commander) may decide to hold a treaty if he judges that it entails a benefit for the Muslims.
 ## Personal Reflections
-
 

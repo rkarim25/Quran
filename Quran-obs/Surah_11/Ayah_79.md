@@ -136,11 +136,5 @@ But, there was no trace of gentility or even humanness left in any of them. So, 
 
 They argued, “You certainly know that we have no need for your daughters. You already know what we desire!”
 
-## AI Tafsir
-
-**What this ayah teaches:** Their appearance saddened him (Lut) and he felt grief in his soul because of them. Therefore, he tries to guide them to that which is better for them in this life and the Hereafter.
-
-**Classical tafsir:** Ibn Kathir notes: Their appearance saddened him (Lut) and he felt grief in his soul because of them.
 ## Personal Reflections
-
 

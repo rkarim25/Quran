@@ -75,13 +75,5 @@ Previous verses mentioned some conditions attached to the acceptance of deeds. O
 
 Do not set up anything else besides Allah with Allah, or you will end up condemned, abandoned.
 
-## AI Tafsir
-
-**What this ayah teaches:** One of the conditions required that no deed is accepted unless it comes with 'Iman (faith, belief) and is in accordance with Shari` ah (Law) and Sunnah (sayings and deeds of the Prophet ﷺ).
-
-**Classical tafsir:** Ibn Kathir notes: And since the most important of these conditions is that of 'Iman, therefore, the very first injunction given here was that of belief in the Oneness of Allah (tauhid).
-
-**From the Sunnah:** One of the conditions required that no deed is accepted unless it comes with 'Iman (faith, belief) and is in accordance with Shari` ah (Law) and Sunnah (sayings and deeds of the Prophet ﷺ).
 ## Personal Reflections
-
 

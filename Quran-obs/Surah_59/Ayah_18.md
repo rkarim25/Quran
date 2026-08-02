@@ -181,13 +181,5 @@ Also, it is possible that the first command to fear Allah is to send forth good 
 
 O believers: be living with taqwa—Allah-consciousness, and let every soul consider what it has sent ahead for tomorrow. Fear Allah—He is All-Aware of what you do.
 
-## AI Tafsir
-
-**What this ayah teaches:** Second of all, this verse shows that the Day of Resurrection is as certain as the arrival of tomorrow after today which is a stark reality, and no one doubts it.
-
-**Classical tafsir:** Ibn Kathir notes: In fact, in terms of pure calculation, this comparison too is difficult to imagine, because the Hereafter is eternal which will exist without an end.
-
-**From the Sunnah:** The color of the face of the Messenger of Allah ﷺ underwent a change when he saw them in poverty. (Musnad Ahmad)
 ## Personal Reflections
-
 

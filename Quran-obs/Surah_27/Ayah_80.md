@@ -116,13 +116,5 @@ It was the demand of love and affection the Holy Prophet ﷺ had for all human b
 
 You certainly cannot make the dead hear the truth. Nor can you make the deaf hear the call when they turn their backs and walk away.
 
-## AI Tafsir
-
-**What this ayah teaches:** And He is the All-Mighty, the All-Knowing (78)So, put your trust in Allah; surely, you are on manifest truth (79)Verily, you cannot make the dead to hear nor can you make the deaf to hear the call, when they flee, turning their backs (80)Nor can you lead the blind out of their error.
-
-**Classical tafsir:** Ibn Kathir notes: The Word of your Lord has been justified against them, so that they will not believe even if all the signs are brought to them.
-
-**From the Sunnah:** You can only make to hear those who believe in Our Ayat, so they submit (became Muslims).
 ## Personal Reflections
-
 

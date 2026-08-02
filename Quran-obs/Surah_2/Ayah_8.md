@@ -138,15 +138,5 @@ Lying is contemptible
 
 Among people are some who say, "We trust in Allah and the Last Day," yet they are not truly among the mu'min — those who trust and live by what Allah revealed.
 
-## AI Tafsir
-
-**Essence** Faith on the tongue while the heart withholds it is not iman — it is nifaq, and Allah unveils it.
-
-**What it teaches** Nifaq, Ibn Kathir explains, is showing conformity while concealing evil; in creed it dooms its people to Hell for eternity. The hypocrites' claim lives only on their tongues, so Allah rules them not believers at all — iman is never the tongue alone.
-
-**The scholars** Ibn 'Abbas — echoed by Abu al-'Aliyah, al-Hasan, Qatadah and as-Suddi — said this means the hypocrites of Aws and Khazraj "and those who behaved as they did." Ibn Kathir's own narrative adds that hypocrisy surfaced after Badr, when 'Abdullah bin Ubayy bin Salul feigned Islam; Allah exposed these traits to shield believers from deception. Qatadah: the hypocrite "changes his mind just like a ship that moves about whenever a wind blows." Maarif ul-Quran: even they left the Prophet ﷺ out of their claim, fearing an open lie — so contemptible is lying.
-
-**Reflection** Fear the gap between profession and practice — nifaq lives there.
 ## Personal Reflections
-
 

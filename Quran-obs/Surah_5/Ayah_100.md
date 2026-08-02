@@ -225,15 +225,5 @@ At the end of the verse it was said: فَاتَّقُوا اللَّـهَ يَ�
 
 Say, “Good and evil are not equal, though you may be dazzled by the abundance of evil. So live with taqwa toward Allah, O people of reason, so you may be successful.”
 
-## AI Tafsir
-
-**Context:** Imam Ahmad recorded that 'Ali said, "When this Ayah was revealed,
-
-**What this ayah teaches:** On occasions like this, in order to resolve the disputes among masses of people, majority vote is resorted to.
-
-**Classical tafsir:** Ibn Kathir notes: By addressing the men of understanding this verse indicates that it is not the attitude of the men of wisdom to be attracted to something because of its numerical or quantitative abundance, or to take the majority as the touchstone of what is true and correct.
-
-**From the Sunnah:** The companions of Allah's Messenger ﷺ covered their faces and the sound of crying was coming out of their chests. Ibn Jarir recorded that Qatadah said about Allah's statement,
 ## Personal Reflections
-
 

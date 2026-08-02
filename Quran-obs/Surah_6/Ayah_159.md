@@ -180,15 +180,5 @@ Sayyidah ` A'ishah As-Siddiqah ؓ reports that the Holy Prophet ﷺ said that on
 
 Indeed, you are not responsible whatsoever for those who have divided their faith and split into sects. Their judgment rests only with Allah. And He will inform them of what they used to do.
 
-## AI Tafsir
-
-**Context:** Mujahid, Qatadah, Ad-Dahhak and As-Suddi said that this Ayah was revealed about the Jews and Christians. Al-'Awfi said that Ibn 'Abbas commented, "Before Muhammad ﷺ was sent, the Jews and Christians disputed and divided…
-
-**What this ayah teaches:** Addressing them, stated there is the sad end of those who turn away from the straight path of Allah - and the instruction given to the Holy Prophet ﷺ is that he should have nothing to do with those who take to the ways of error.
-
-**Classical tafsir:** Ibn Kathir notes: Criticizing Division in the Religion Mujahid, Qatadah, Ad-Dahhak and As-Suddi said that this Ayah was revealed about the Jews and Christians.
-
-**From the Sunnah:** The first (159) of the two verses carries a general address included wherein are the those who reject the truth of Arabia, the Jews and Christians and Muslims, all of them.
 ## Personal Reflections
-
 

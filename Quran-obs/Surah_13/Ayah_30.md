@@ -237,15 +237,5 @@ Finally, if we consider the statement in verse 25, that is: أُولَـٰئِك
 
 We sent you to a community, as We did with earlier ones, so you may recite to them what We revealed to you—yet they deny the Rahman, whose mercy in this life extends over all creation. Say: "He is my Rabb. There is none worthy of worship except Him. In Him I trust, and to Him I turn."
 
-## AI Tafsir
-
-**Context:** Thus have We sent you to a community before whom other communities have passed away, in order that you might recite unto them what We have revealed to you, while they disbelieve in the ar-Rahman (Allah).
-
-**What this ayah teaches:** Thus have We sent you to a community before whom other communities have passed away, in order that you might recite unto them what We have revealed to you, while they disbelieve in the ar-Rahman (Allah).
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, when a human being deviates from any injunction made binding by Allah or deviates from the command given by His Messenger, he or she commits a breach of trust by breaking this pledge to have faith.
-
-**From the Sunnah:** It appears in a IIadith of Sahih Muslim that the Holy Prophet ﷺ said: 'Most commendable is the act of maintaining relations when a person maintains the same relations wit…
 ## Personal Reflections
-
 

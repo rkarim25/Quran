@@ -179,11 +179,5 @@ In this narration, the act of writing has been attributed to the Holy Prophet �
 
 Say, O Prophet: Sufficient is Allah as Witness between me and you. He knows whatever is in the heavens and earth. Those who believe falsehood and reject Allah — they are the true losers.
 
-## AI Tafsir
-
-**What this ayah teaches:** The Idolators' demand for Signs, and the Response Allah tells us how the idolators stubbornly demanded signs, meaning that they wanted signs to show them that Muhammad ﷺ was indeed the Messenger of Allah, just as Salih was given the sign of the she-camel.
-
-**Classical tafsir:** Ibn Kathir notes: The Idolators' demand for Signs, and the Response Allah tells us how the idolators stubbornly demanded signs, meaning that they wanted signs to show them that Muhammad ﷺ was indeed the Messenger of Allah, just as Salih was given the sign of the she-camel.
 ## Personal Reflections
-
 

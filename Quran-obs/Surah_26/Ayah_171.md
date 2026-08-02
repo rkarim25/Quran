@@ -76,11 +76,5 @@ The word 'old woman' is used for the wife of Sayyidna Lut علیہ السلام 
 
 except an old woman, who was one of the doomed.
 
-## AI Tafsir
-
-**What this ayah teaches:** Except an old woman among those who remained behind.) This was his wife, who was a bad old woman.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

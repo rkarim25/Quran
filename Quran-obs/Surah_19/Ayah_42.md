@@ -134,11 +134,5 @@ How to give counsel to elders.
 
 When he said to his father: "O dear father, why do you worship what cannot hear or see, nor benefit you at all?
 
-## AI Tafsir
-
-**What this ayah teaches:** Why do you worship that which hears not, sees not and cannot avail you in anything?) Meaning that these idols will not benefit you, nor can they protect you from any harm. Instead, guided by prophetic wisdom he merely invited his father's attention to the helplessness and insensitivity of his idols, so that he might himself realize the fallacy of his beliefs.
-
-**Classical tafsir:** Ibn Kathir notes: Verily, I fear lest a torment from the ar-Rahman should overtake you, so that you become a companion of Shaytan.
 ## Personal Reflections
-
 

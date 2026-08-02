@@ -124,11 +124,5 @@ The next verse warns people of another type of punishment:
 
 Do you feel secure that the One in heaven will not cause the earth to swallow you as it quakes?
 
-## AI Tafsir
-
-**What this ayah teaches:** Do you feel secure that He, Who is over the heaven, will not cause the earth to sink with you, and then it should quake (16)Or do you feel secure that He, Who is over the heaven, will not send against you a Hasib?
-
-**Classical tafsir:** Ibn Kathir notes: He is able to punish them because some of them disbelieve in Him and worship others besides Him, yet He is forbearing, He pardons, and He gives respite for an appointed time without hastening.
 ## Personal Reflections
-
 

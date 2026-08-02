@@ -170,13 +170,5 @@ In contra-distinction to Muwalah [ intimate friendship ], there is a concept of 
 
 Allah has decreed: 'I and My messengers will prevail.' Surely Allah is All-Powerful, Almighty.
 
-## AI Tafsir
-
-**Context:** (You will not find any people who believe in Allah and the Last Day...) was revealed in the case of Abu 'Ubaydah 'Amir bin 'Abdullah bin Al-Jarrah when he killed his disbelieving father, during the battle of Badr.
-
-**What this ayah teaches:** Those who oppose Allah and His Messenger, they will be among those most humiliated (20)Allah has decreed: "Verily, I and My Messengers shall be the victorious." Verily, Allah is All-Powerful, Almighty (21)You will not find any people who believe in Allah and the Last Day, making friendship with those who oppose Allah and His Messenger, even though they were their fathers or their sons or their bro…
-
-**Classical tafsir:** Ibn Kathir notes: Verily, the party of Allah will be the successful.) indicates that they are the party of Allah, meaning, His servants who are worthy of earning His honor.
 ## Personal Reflections
-
 

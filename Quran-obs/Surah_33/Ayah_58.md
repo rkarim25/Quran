@@ -150,15 +150,5 @@ A (true) Muslim is the one from whose tongue and hands all Muslims remain unharm
 
 As for those who abuse believing men and women unjustifiably, they will definitely bear the guilt of slander and blatant sin.
 
-## AI Tafsir
-
-**Context:** (Verily, those who annoy Allah and His Messenger,) was revealed concerning those who make pictures or images. (Verily, those who annoy Allah and His Messenger,) was revealed about those who slandered the Prophet ﷺ over h…
-
-**What this ayah teaches:** Verily, those who annoy Allah and His Messenger, Allah has cursed them in this world and in the Hereafter, and has prepared for them a humiliating torment (57)And those who annoy believing men and women undeservedly, they bear the crime of slander and plain sin .
-
-**Classical tafsir:** Ibn Kathir notes: The Ayah appears to be general in meaning and to apply to all those who annoy him in any way, because whoever annoys him annoys Allah, just as whoever obeys him obeys Allah.
-
-**From the Sunnah:** In the previous verses, Muslims were warned against doing what caused pain to the Holy Prophet ﷺ .
 ## Personal Reflections
-
 

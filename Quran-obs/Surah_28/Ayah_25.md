@@ -211,13 +211,5 @@ Who was the father of these two girls? Commentators have different views on this
 
 Then one of the two women came to him, walking bashfully. She said, “My father is inviting you so he may reward you for watering our animals for us.” When Moses came to him and told him his whole story, the old man said, “Have no fear! You are now safe from the wrongdoing people.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Rather she said: "My father is inviting you so that he may reward you for watering our sheep," i.e., give you some payment for that.
-
-**Classical tafsir:** Ibn Kathir notes: And there is evidence which indicates that Musa, peace be upon him, fulfilled the longer of the two terms.
-
-**From the Sunnah:** And the Messenger of Allah ﷺ said to Hamzah bin 'Amr Al-Aslami, may Allah be pleased with him, who used to fast a great deal and who asked him about fasting while traveling:
 ## Personal Reflections
-
 

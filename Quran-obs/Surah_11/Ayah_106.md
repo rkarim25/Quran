@@ -115,13 +115,5 @@ During the Khilafah of Sayyidna ` Umar ibn ` Abd al-` Aziz (رح) ، someone was
 
 As for those bound for misery, they will be in the Fire, where they will be sighing and gasping,.
 
-## AI Tafsir
-
-**What this ayah teaches:** As for those who are wretched, they will be in the Fire, in it they will experience Zafir and Shahiq (106)They will dwell therein for all the time that the heavens and the earth endure, except as your Lord wills.
-
-**Classical tafsir:** Ibn Kathir notes: Certainly your Lord is All-Wise, All-Knowing.)[6:128] It has been said that the exception mentioned in this verse refers to the disobedient among the people of Tawhid.
-
-**From the Sunnah:** intercede are the angels, the Prophets and the believers. There is a consensus of the entire Muslim Ummah that doing so is strictly Haram (unlawful). (Sahih Muslim)
 ## Personal Reflections
-
 

@@ -176,11 +176,5 @@ Commentary
 
 What are they asking one another about?
 
-## AI Tafsir
-
-**What this ayah teaches:** The sense is: About what are they asking each other?' Allah Himself replies to the question when He says: This is so that it may be suitable for dwelling and not quake with those who are in it.
-
-**Classical tafsir:** Ibn Kathir notes: This is so that it may be suitable for dwelling and not quake with those who are in it.
 ## Personal Reflections
-
 

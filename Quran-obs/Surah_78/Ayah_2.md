@@ -180,11 +180,5 @@ Sayyidna Ibn ` Abbas ؓ reports that when the revelation of Qur'an started, the 
 
 About the momentous news
 
-## AI Tafsir
-
-**What this ayah teaches:** The word naba' means 'news' but not every news is naba'.
-
-**Classical tafsir:** Ibn Kathir notes: This is so that it may be suitable for dwelling and not quake with those who are in it.
 ## Personal Reflections
-
 

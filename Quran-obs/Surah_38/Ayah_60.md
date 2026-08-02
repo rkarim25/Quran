@@ -158,11 +158,5 @@ Then there is the other situation. If being of the same age is taken to mean tha
 
 The followers will answer, "No—you are not welcome! You brought this upon us. What an evil place to settle!"
 
-## AI Tafsir
-
-**What this ayah teaches:** It is you who brought this upon us, so evil is this place to stay in!
-
-**Classical tafsir:** Ibn Kathir notes: Verily, they shall enter in the Fire!) meaning, because they are of the people of Hell.
 ## Personal Reflections
-
 

@@ -122,11 +122,5 @@ Sayyidna Musa (علیہ السلام) said to the magicians ` You show the magic
 
 Moses said to them, “Cast whatever you wish to cast.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Fir'awn's supporters, who sought and hoped that they would prevail over Musa, were themselves defeated. Therefore, he asked them to show their tricks or magic.
-
-**Classical tafsir:** Ibn Kathir notes: It is exactly like a zindiq (an extreme heretic) is asked to put forward his arguments, so that they may be countered.
 ## Personal Reflections
-
 

@@ -102,11 +102,5 @@ Etiquette of Living
 
 cushions lined up in rows,
 
-## AI Tafsir
-
-**What this ayah teaches:** A11 this is deducible from the word maudu'ah 'well placed', because Allah has arranged the goblets near the water for the comfort of the inmates of Paradise.
-
-**Classical tafsir:** Ibn Kathir notes: Here the word Mabthuthah means placed here and there for whoever would like to sit upon them.
 ## Personal Reflections
-
 

@@ -180,11 +180,5 @@ One major reason for differences existing among historians lies in the great imp
 
 When the young men took refuge in the cave and said: Our Rabb, grant us mercy from Yourself and guide us rightly through our ordeal.
 
-## AI Tafsir
-
-**What this ayah teaches:** Muhammad bin Ishaq said: "(It means) I have not shown My creatures a proof more amazing than the story of the people of the Al-Kahf and Ar-Raqim." Al-Kahf refers to a cave in a mountain, which is where the young men sought refuge.
-
-**Classical tafsir:** Ibn Kathir notes: Ad-Dahhak said: "As for Al-Kahf, it is a cave in the valley, and Ar-Raqim is the name of the valley." Mujahid said, "Ar-Raqim refers to their buildings." Others said it refers to the valley in which their cave was.
 ## Personal Reflections
-
 

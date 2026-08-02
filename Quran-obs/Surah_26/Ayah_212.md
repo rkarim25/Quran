@@ -86,13 +86,5 @@ There is a hint in this verse that those who are bestowed with long life in this
 
 for they are strictly barred from even overhearing it.
 
-## AI Tafsir
-
-**Context:** Then Allah explains that even if they wanted to and were able to bear it and convey it, they still would not be able to achieve that, because they were prevented from hearing the Qur'an when it was brought down, for the…
-
-**What this ayah teaches:** Then Allah explains that even if they wanted to and were able to bear it and convey it, they still would not be able to achieve that, because they were prevented from hearing the Qur'an when it was brought down, for the heavens were filled with guardians and shooting stars at the time when the Qur'an was being revealed to the Messenger of Allah ﷺ, so none of the Shayatin could hear even one letter…
-
-**Classical tafsir:** Ibn Kathir notes: Then Allah explains that even if they wanted to and were able to bear it and convey it, they still would not be able to achieve that, because they were prevented from hearing the Qur'an when it…
 ## Personal Reflections
-
 

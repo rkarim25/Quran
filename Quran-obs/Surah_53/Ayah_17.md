@@ -290,15 +290,5 @@ However, from verse [ 11] مَا كَذَبَ الْفُؤَادُ مَا رَ�
 
 The sight did not swerve, nor did it overstep.
 
-## AI Tafsir
-
-**Context:** He has been taught by one mighty in power (5)Dhu Mirrah then he Istawa (6)While he was in the highest part of the horizon (7)Then he approached and came closer (8)And was at a distance of two bows' length or less (9)So (…
-
-**What this ayah teaches:** In response to this suspicion the Qur'an uses two expressions because there are two ways in which human sight can go awry: [ 1] not looking at the object directly that one was supposed to see, and turning the eye to some other side.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, this verifies the facts mentioned, leaving no doubt or means of refute.
-
-**From the Sunnah:** that Abdullah bin Mas'ud said, "The Messenger of Allah ﷺ saw Jibril in his original shape having six hundred wings, each wing filling the side of the horizon, with a colorful array, and pearls and rubies falling from each wing as much as only Allah knows."…
 ## Personal Reflections
-
 

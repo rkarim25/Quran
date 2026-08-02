@@ -85,11 +85,5 @@ boat with an axe because of which there was a danger that water would fill up th
 
 He replied, “Did I not say that you cannot have sabr — steadfast endurance that keeps you upright with me?”
 
-## AI Tafsir
-
-**What this ayah teaches:** But, according to historical reports, water did not fill into this boat. However, the context of the Qur’ an by itself is telling us that the boat did not capsize - something which supports these reports.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

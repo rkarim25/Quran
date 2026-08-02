@@ -115,11 +115,5 @@ Atheists believed that ` Time' is the cause of life, death, vicissitudes of cond
 
 To Allah alone belongs the kingdom of the heavens and the earth. On the Day the Hour is established, the people of falsehood will be in total loss.
 
-## AI Tafsir
-
-**What this ayah teaches:** And to Allah belongs the kingdom of the heavens and the earth. And on the Day that the Hour will be established – on that Day the followers of falsehood shall lose (27)And you will see each nation humbled to their knees (Jathiyah), each nation will be called to its Record (of deeds).
-
-**Classical tafsir:** Ibn Kathir notes: The Messenger of Allah said: "Do not revile time because time actually is Allah." The ignorant who claim that a particular work was done by time is actually the work of Divine power - time is nothing.
 ## Personal Reflections
-
 

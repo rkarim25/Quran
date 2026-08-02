@@ -268,13 +268,5 @@ Ends here
 
 And there is nothing—no idol, no ideology, no celebrity, no created power—that stands as His equal or counterpart in any way.
 
-## AI Tafsir
-
-**What this ayah teaches:** Nothing is comparable to Allah—no image, partner, or created equal can stand beside Him.
-
-**Classical tafsir:** Ibn Kathir: the surah closes by negating any likeness. Maarif: this is the seal of pure monotheism.
-
-**From the Sunnah:** Al-Ikhlas completes the Qur'an's declaration of *tawhid*; reciting it before sleep brings protection (Bukhari).
 ## Personal Reflections
-
 

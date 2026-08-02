@@ -145,13 +145,5 @@ Sayyidna Said Ibn Jubayr ؓ says that he knows a verse of the noble Qur'an after
 
 Say: "O Allah—Originator of the heavens and the earth, Knower of the seen and unseen! You will judge between Your servants regarding their differences."
 
-## AI Tafsir
-
-**What this ayah teaches:** You will judge between your servants about that wherein they used to differ.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** She said, may Allah be pleased with her: 'When the Messenger of Allah ﷺ stood up to pray at night, he would start his prayer with the words: (Sahih Muslim)
 ## Personal Reflections
-
 

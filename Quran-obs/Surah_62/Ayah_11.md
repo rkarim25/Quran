@@ -161,15 +161,5 @@ Ends here.
 
 When they saw trade or entertainment, they rushed to it and left you standing on the pulpit. Say: 'What is with Allah is far better than amusement and merchandise. Allah is the Best Provider.'
 
-## AI Tafsir
-
-**Context:** Hasan al-Basri (رح) and Abu Malik said that that was a time when there was scarcity and dearth of things. [ Mazhari ] There were several factors on account of which a large group of the blessed Companions left the mosque…
-
-**What this ayah teaches:** Say, “ What is with Allah is much better than the amusement and the merchandise, and Allah is the best giver of sustenance.” (62:11) The verse admonishes those who once abandoned the Friday sermon and attended some trade activity.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** the caravan belonged to Dihyah bin Khalifah before he became a Muslim, and there were drums accompanying it. (Sahih Muslim) So they rushed to the caravan and left Allah's Messenger ﷺ standing on the Minbar. (Musnad Ahmad, authentic hadith)
 ## Personal Reflections
-
 

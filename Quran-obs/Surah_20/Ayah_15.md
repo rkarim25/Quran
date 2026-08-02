@@ -172,11 +172,5 @@ Another possibility about the construction of this phrase is that it is taken to
 
 The Hour is sure to come. My Will is to keep it hidden, so that every soul may be rewarded according to their efforts.
 
-## AI Tafsir
-
-**What this ayah teaches:** It shall not come upon you except all of a sudden.)[7:187] This means that its knowledge weighs heavily upon the dwellers of the heavens and the earth.
-
-**Classical tafsir:** Ibn Kathir notes: It shall not come upon you except all of a sudden.)[7:187] This means that its knowledge weighs heavily upon the dwellers of the heavens and the earth.
 ## Personal Reflections
-
 

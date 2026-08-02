@@ -132,11 +132,5 @@ There are different recitations for the word اِدّٰرَکَ (iddaraka) and t
 
 Surely your Rabb is ever Bountiful to humanity, but most of them are ungrateful.
 
-## AI Tafsir
-
-**What this ayah teaches:** Allah tells us about how the idolators asked about the Day of Resurrection, but thought it unlikely that it would ever come to pass. It is enough to understand here that some commentators have taken it to mean "completion" and have explained the verse thus: "Their knowledge and understanding will be completed in the Hereafter", because then the truth about every thing shall be laid bare.
-
-**Classical tafsir:** Ibn Kathir notes: Allah tells us about how the idolators asked about the Day of Resurrection, but thought it unlikely that it would ever come to pass.
 ## Personal Reflections
-
 

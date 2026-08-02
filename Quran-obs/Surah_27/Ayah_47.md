@@ -131,11 +131,5 @@ Commentary
 
 They replied, “You and your followers are a bad omen for us.” He responded, “Your omens are destined by Allah. In fact, you are only a people being tested.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Therefore, "evil" in this sentence stands for torment, while "good" refers to their repentance and invoking divine mercy.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, "evil" in this sentence stands for torment, while "good" refers to their repentance and invoking divine mercy.
 ## Personal Reflections
-
 

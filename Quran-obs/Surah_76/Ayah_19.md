@@ -208,11 +208,5 @@ Allah says,
 
 Eternal youths serve them—if you saw them you would think them scattered pearls.
 
-## AI Tafsir
-
-**What this ayah teaches:** If you see them, you would think them scattered pearls.) meaning, young boys from the boys of Paradise will go around serving the people of Paradise. Therefore, it is mentioned in the context of Paradise [ so that they are served with drinks flavoured with ginger of paradisiacal quality and splendour ].
-
-**Classical tafsir:** Ibn Kathir notes: This refers to Paradise and its beauty, its vastness, its loftiness and the joy and happiness it contains.
 ## Personal Reflections
-
 

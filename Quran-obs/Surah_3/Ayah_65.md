@@ -154,17 +154,5 @@ Verse 68 declares that the closest of people to Sayyidna Ibrahim (علیہ ال�
 
 O People of the Book! Why do you argue about Abraham, while the Torah and the Gospel were not revealed until long after him? Do you not understand?
 
-## AI Tafsir
-
-**Essence** Ibrahim belonged to neither Jew nor Christian, for both their scriptures came long after him — he was a pure monotheist, and his truest heirs are those who follow his way through the final Prophet ﷺ.
-
-**What it teaches** Allah opens with a direct address to the People of the Book: why do you dispute (tuhajjuna) about Ibrahim when the Tawrah and the Injil were not sent down until long after him? The claim collapses on its own timeline. The closing "afala ta'qilun" ("do you not use your intellect") presses them to see the plain contradiction, and the verses that follow settle the matter: Ibrahim was a hanif muslim — one who shunned shirk and lived in pure submission to Allah.
-
-**The scholars** Ibn Kathir grounds the rebuke in its occasion: Muhammad bin Ishaq reported from Ibn 'Abbas that the Christians of Najran and the Jewish rabbis gathered before the Messenger of Allah ﷺ, the rabbis insisting "Ibrahim was Jewish" and the Christians "Ibrahim was Christian" — so this ayah came down. Ibn Kathir frames Allah's reply as a challenge of timing: how can the Jews claim him when he lived before the Tawrah was sent to Musa, and how can the Christians claim him when Christianity came after his time? He reads 3:66 as a sharper turn: they could rightly argue over their own revealed Law, which they knew, yet here they quarreled over what they had no knowledge of — so Allah commands them to refer it to the One who knows the seen and the unseen: "It is Allah who knows, and you know not." Maarif ul Quran draws out 3:68: the closest of people to Ibrahim were those who followed him in his own day, and now it is Muhammad al-Mustafa ﷺ together with those who believe in him and in the past Prophets — the community of Muhammad ﷺ, whose guardian (Wali) is Allah and whom He will reward for their faith.
-
-**From the Sunnah** The Prophet ﷺ taught that every Prophet has a guardian-friend among the Prophets, and that his own was his father Ibrahim, the Khalil (intimate friend) of his Lord — then he recited that the people with the best claim to Ibrahim are those who followed him. (Recorded by Sa'id bin Mansur, from Ibn Mas'ud)
-
-**Reflection** The sting of this ayah is not merely that the disputants chose the wrong label, but that they argued at all over what lay beyond their reach — a man who lived before their scriptures existed. Hold your certainties to what revelation actually gives you, and where knowledge runs out, return the question to the One who knows the unseen.
 ## Personal Reflections
-
 

@@ -254,15 +254,5 @@ At the beginning of this Surah, particular injunctions relating to orphans and w
 
 They ask you regarding women. Say, “It is Allah Who instructs you regarding them. Instruction has been revealed in the Book concerning the orphan women you deprive of their due rights but still wish to marry, also helpless children, as well as standing up for orphans’ rights. And whatever good you do is certainly well known to Allah.”
 
-## AI Tafsir
-
-**Context:** It is about the man who is taking care of a female orphan, being her caretaker and inheritor. Her money is joined with his money to such an extent, that she shares with him even the branch of a date that he has.
-
-**What this ayah teaches:** Sometimes, the caretaker does not desire to marry the orphan under his care, because she is not attractive to his eye.
-
-**Classical tafsir:** Ibn Kathir notes: It refers to the people who did not marry the orphan girls because of their unattractive features, but at the same time did not let them marry others, because they wanted that their wealth should remain in their hands.
-
-**From the Sunnah:** that 'A'ishah said about the Ayah, (Sahih al-Bukhari) If he does not want to do that, then let him marry other women, for Allah has made this matter easy for Muslims.
 ## Personal Reflections
-
 

@@ -138,13 +138,5 @@ Then, Allah commands His believing servants to obey Him and His Messenger ﷺ, w
 
 Those who reject the truth, block Allah's path, and die in denial—Allah will never forgive them.
 
-## AI Tafsir
-
-**What this ayah teaches:** The ruling regarding them is that Allah will never forgive them in the next world.
-
-**Classical tafsir:** Ibn Kathir notes: He indicates that those people can never harm Allah in the least, and rather they only harm themselves and become losers on the Day of Resurrection.
-
-**From the Sunnah:** If, on the other hand, the those who reject the truth are considered more powerful and numerous than the Muslims, then the Imam (general commander) may decide to hold a treaty if he judges that it entails a benefit for the Muslims.
 ## Personal Reflections
-
 

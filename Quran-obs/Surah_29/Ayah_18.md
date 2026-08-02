@@ -140,13 +140,5 @@ The second story is that of Sayyidna Ibrahim (علیہ السلام) who too pas
 
 If you persist in denial, so did communities before you. The messenger's duty is only clear delivery.
 
-## AI Tafsir
-
-**What this ayah teaches:** And the duty of the Messenger is only to convey plainly.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, you too should not care about the troubles afflicted by the infidels, and should keep on performing firmly your prophetic obligations.
-
-**From the Sunnah:** It was described in the previous verses that infidels keep on their opposition and afflictions on Muslims as a routine. All these stories were related to keep the spirit of the Holy Prophet ﷺ high, and to make Muslims steadfast to the religion.
 ## Personal Reflections
-
 

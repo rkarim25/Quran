@@ -163,13 +163,5 @@ The contents of this verse present a unique concern for thematic order. It will 
 
 That is Allah—your Rabb! There is no god except Him. the Creator of all things, so worship Him. And He is the Maintainer of everything.
 
-## AI Tafsir
-
-**What this ayah teaches:** So worship Him (alone), and He is the Guardian over all things (102)No vision can grasp Him, but His grasp is over all vision.
-
-**Classical tafsir:** Ibn Kathir notes: The description was initiated with the mention of that which is on the lower level because it is closer to us.
-
-**From the Sunnah:** The vision will be able to look at Allah in the Hereafter, as affirmed and attested to by the numerous Hadiths from the Prophet ﷺ through authentic chains of narration in the collections of the Sahihs, Musnad and Sunan collections. In the Sahih (Muslim) it is recorded that Abu Musa Al-Ash'ari narrated from the Prophet ﷺ, (Sahih Muslim)
 ## Personal Reflections
-
 

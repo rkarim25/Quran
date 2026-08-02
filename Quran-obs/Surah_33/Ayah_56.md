@@ -333,13 +333,5 @@ A detailed discussion about the injunctions of Salah and Salam appears in the tr
 
 Indeed, Allah showers His blessings upon the Prophet, and His angels pray for him. O mu'mins! Invoke Allah’s blessings upon him, and salute him with worthy greetings of peace.
 
-## AI Tafsir
-
-**Context:** There appears a Hadith in the Sahih of Bukhari and Muslim, as well as in other books of Hadith, where Sayyidna Ka'b Ibn 'Ujrah ؓ has been reported to have said: ' (When this verse was revealed), someone asked the Holy Pr…
-
-**What this ayah teaches:** The Salah attributed to Allah Ta'ala in the cited verse means His sending of mercy, but Salah from the angels denotes their prayer for him, and the sense of Salah (durood) from common believers is a combination of dua' (prayer) and thana' (praise).
-
-**Classical tafsir:** Ibn Kathir notes: Who can claim to mention the name of the Holy Prophet ﷺ more frequently than the scholars of the Hadith?
 ## Personal Reflections
-
 

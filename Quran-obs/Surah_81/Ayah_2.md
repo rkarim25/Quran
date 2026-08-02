@@ -256,11 +256,5 @@ Concerning Allah's statement,
 
 These opening letters—known as the muqatta'at—are among the signs whose full meaning Allah kept with Himself. They open the surah by reminding the reader that this Book is from beyond human authorship: approach it with humility, not arrogance.
 
-## AI Tafsir
-
-**What this ayah teaches:** The word inkadarat is derived from inkidar and it denotes 'to fall'.
-
-**Classical tafsir:** Ibn Kathir notes: We have neglected nothing in the Book, then unto their Lord they shall be gathered.)(6:38) Ibn 'Abbas said, "Everything will be gathered, even the flies." This statement was recorded by Ibn Abi Hatim.
 ## Personal Reflections
-
 

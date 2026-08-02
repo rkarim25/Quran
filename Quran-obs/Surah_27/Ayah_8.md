@@ -239,11 +239,5 @@ Ibn Jarir, Ibn Abi Hatim, Ibn Marduwaih etc., have also quoted another explanati
 
 But when he came to it, he was called by Allah, “Blessed is the one at the fire, and whoever is around it! Glory be to Allah, the Rabb — the One who creates, owns, nurtures, and sustains of all worlds.
 
-## AI Tafsir
-
-**What this ayah teaches:** Perhaps I bring you an ember from it, or find some guidance by the fire." So when he came to it, he was called, "0 Musa, it is Me, your Lord, remove your shoes, you are in the sacred valley of Tuwa.
-
-**Classical tafsir:** Ibn Kathir notes: Then He commanded him to throw down the stick that was in his hand, so that He might show him clear proof that He is the One Who is able to do all things, whatever He wills.
 ## Personal Reflections
-
 

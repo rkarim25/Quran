@@ -241,13 +241,5 @@ Based on these narrations of Hadith, the verse can be taken in its real sense, t
 
 If you find their denial unbearable, then build—if you can—a tunnel through the earth or stairs to the sky to bring them a sign. Had Allah so willed, He could have guided them all. So do not be one of those ignorant.
 
-## AI Tafsir
-
-**What this ayah teaches:** Surely, there has reached you the information about the Messengers (before you)(34)If their aversion is hard on you, then if you were able to seek a tunnel in the ground or a ladder to the sky, so that you may bring them a sign.
-
-**Classical tafsir:** Ibn Kathir notes: Muhammad bin Ishaq mentioned that Az-Zuhri said that Abu Jahl, Abu Sufyan Sakhr bin Harb and Al-Akhnas bin Shurayq once came to listen to the Prophet ﷺ reciting the Qur'an at night, but these three men were not aware of the presence of each other.
-
-**From the Sunnah:** Allah comforts the Prophet ﷺ in his grief over his people's denial and defiance of him, Abu Jahl, Abu Sufyan Sakhr bin Harb and Al-Akhnas bin Shurayq once came to listen to the Prophet ﷺ reciting the Qur'an at night, but these three men were not aware of the presence of each other.
 ## Personal Reflections
-
 

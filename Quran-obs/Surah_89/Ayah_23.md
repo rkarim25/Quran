@@ -152,15 +152,5 @@ This is the end of the Tafsir of Surat Al-Fajr, and all praise and blessings are
 
 And Hell is brought near that Day—then every soul remembers, but remembrance then cannot buy back a life misspent.
 
-## AI Tafsir
-
-**Context:** He said, "This Ayah was revealed while Abu Bakr was sitting (with the Prophet ﷺ). So he said, 'O Messenger of Allah! There is nothing better than this!' The Prophet ﷺ then replied,
-
-**What this ayah teaches:** When the earth is flatened, Dakkan Dakka (21)And your Lord comes with the angels in rows (22)And Hell will be brought near that Day.
-
-**Classical tafsir:** Ibn Kathir notes: The unbelievers will realise the errors of their ways in the Hereafter, but it will be too late, because it is this present world where 'Imn and good deeds benefit the people.
-
-**From the Sunnah:** This is similar to what Imam Ahmad bin Hanbal recorded from Muhammad bin Abi 'Amirah, who was one of the Companions of the Messenger of Allah ﷺ. (Musnad Ahmad)
 ## Personal Reflections
-
 

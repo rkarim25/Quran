@@ -90,11 +90,5 @@ Glorious is the One who made stellar formations in the sky and placed therein a 
 
 and who devised a tremendous plot,
 
-## AI Tafsir
-
-**What this ayah teaches:** Destroy their wealth, and harden their hearts, so that they will not believe until they see the painful torment.)(10:88) Verily, Allah responded to the supplication of both of these Prophets concerning their people and He drowned their nations due to their rejection of what he (that Prophet) had come with.
-
-**Classical tafsir:** Ibn Kathir notes: The prepositional phrase in the verse apparently indicates that the moon is placed in the body of the heavens.
 ## Personal Reflections
-
 

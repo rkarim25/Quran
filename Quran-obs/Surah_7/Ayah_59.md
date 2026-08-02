@@ -168,13 +168,5 @@ The verse of the Qur'an: لَقَدْ أَرْ‌سَلْنَا نُوحًا إ�
 
 Indeed, We sent Noah to his people. He said, “O my people! Worship Allah—you have no other god except Him. I truly fear for you the torment of a tremendous Day.”
 
-## AI Tafsir
-
-**What this ayah teaches:** In the first sentence, the invitation given is to worship Allah Ta` ula, which is the essence of the principle.
-
-**Classical tafsir:** Ibn Kathir notes: Allah mentioned the story of Nuh, because he was the first Messenger Allah sent to the people of the earth after Adam.
-
-**From the Sunnah:** In his Sahih, Muslim recorded that the Messenger of Allah ﷺ said to his Companions on the Day of 'Arafah, when their gathering was as large as it ever was, (Sahih Muslim)
 ## Personal Reflections
-
 

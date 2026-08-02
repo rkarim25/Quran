@@ -168,11 +168,5 @@ Allah, the Exalted, says,
 
 So do not let those who reject the truth in it and follow their desires distract you from it, or you will be doomed.’”
 
-## AI Tafsir
-
-**What this ayah teaches:** It is clear that a Prophet and a Messenger who is impeccable cannot commit such a lapse but the fact that such a warning has been addressed to him is meant to warn his followers as well as mankind at large to be cautious in the matter It shall not come upon you except all of a sudden.)[7:187] This means that its knowledge weighs heavily upon the dwellers of the heavens and the earth.
-
-**Classical tafsir:** Ibn Kathir notes: It shall not come upon you except all of a sudden.)[7:187] This means that its knowledge weighs heavily upon the dwellers of the heavens and the earth.
 ## Personal Reflections
-
 

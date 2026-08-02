@@ -106,13 +106,5 @@ Ends here
 
 What will make you realize what Judgment Day is?
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, the Abrar (the righteous believers) will be in Delight (13)And verily, the wicked will be in the blazing Fire (Hell)(14)Therein they will enter, and taste its burning flame on the Day of Recompense (15)And they will not be absent therefrom (16)And what will make you know what the Day of Recompense is (17)Again, what will make you know what the Day of Recompense is (18)(…
-
-**Classical tafsir:** Ibn Kathir notes: This does not negate intercession, because that will not happen with one's own free will, unless Allah grants permission to someone to intercede on someone's behalf, and then accepts the intercession.
-
-**From the Sunnah:** We will mention here a Hadith (where the Prophet ﷺ said),
 ## Personal Reflections
-
 

@@ -113,11 +113,5 @@ Then, Allah made a covenant with Musa and the Children of Israel on the right si
 
 But I am truly Most Forgiving to whoever repents, believes, and does good, then persists on true guidance.”
 
-## AI Tafsir
-
-**What this ayah teaches:** And he on whom My anger descends, he is indeed perished (81)And verily, I am indeed forgiving to him who repents, believes and does righteous deeds, and then Ihtad .
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

@@ -64,13 +64,5 @@ The word: شِيعَتِهِ (shi'ah) in verse 83: وَإِنَّ مِن شِي�
 
 And indeed, one of those who followed his way was Abraham.
 
-## AI Tafsir
-
-**What this ayah teaches:** Both events highlight the great sacrifices Sayyidna Ibrahim offered for the sake of Allah alone.
-
-**Classical tafsir:** Ibn Kathir notes: Then what think you about the Lord of the all that exists?) Qatadah said, "This means, 'what do you think He will do with you when you meet Him, given that you worshipped others alongside Him?"
-
-**From the Sunnah:** Ibn Abi Hatim recorded that 'Awf said, "I said to Muhammad bin Sirin, 'What is the Salim heart?' He said, 'One which knows that Allah is true and that the Hour will undoubtedly come to pass, and that Allah will resurrect those who are in the graves.'" Al-Hasan…
 ## Personal Reflections
-
 

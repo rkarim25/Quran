@@ -89,11 +89,5 @@ The preceding verses mentioned the reality of the Hereafter and the Judgment Day
 
 We built the universe with power, and We are expanding it.
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, We are able to expand the vastness of space thereof (47)And We have made the earth a Firash; how excellent spreader (thereof) are We (48)And of everything We have created pairs, that you may remember (49)So, flee to Allah.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

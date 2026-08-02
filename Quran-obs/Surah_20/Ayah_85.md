@@ -133,11 +133,5 @@ If a person is not fortunate in his birth then the minds of those who bring him 
 
 Allah responded, “We have indeed tested your people in your absence, and the Sâmiri has led them astray.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Make for us Allah as they have gods." He said: "Verily, you are a people who know not. The word for sorrow used here is Asif, which is used to emphasize to the severity of his anger.
-
-**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas said, "Nay, by Allah, the moaning sound of the calf was nothing but wind that would enter into its behind and come out of its mouth, thus causing it to make a sound." In a Hadith of Al-Fitun recorded from Al-Hasan Al-Basri, it is mentioned that this calf's name was Bahmut.
 ## Personal Reflections
-
 

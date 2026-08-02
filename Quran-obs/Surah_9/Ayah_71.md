@@ -174,13 +174,5 @@ Moreover, since this friendship and concern for each other is for Allah alone, i
 
 Those who have iman, both men and women, are guardians of one another. They encourage good and forbid evil, establish salah and pay zakat, and obey Allah and His Messenger. It is they who will be shown Allah’s mercy. Surely Allah is Almighty, All-Wise.
 
-## AI Tafsir
-
-**What this ayah teaches:** The believers, men and women, are supporters of one another; they enjoin good, and forbid evil; they perform the Salah, and give the Zakah, and obey Allah and His Messenger.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** That is why mutual relationships among Muslims do not seem to be what the Qur'an would like them to be.
 ## Personal Reflections
-
 

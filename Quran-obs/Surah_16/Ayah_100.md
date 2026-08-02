@@ -82,11 +82,5 @@ The same subject has been taken up in verse 42 of Surah al-Hijr where Allah Ta�
 
 His authority is only over those who take him as a patron and who—under his influence—associate others with Allah in worship.
 
-## AI Tafsir
-
-**What this ayah teaches:** So when you recite the Qur'an, seek refuge with Allah from Shaytan, the outcast (98)Verily, he has no power over those who believe and put their trust only in their Lord (99)His power is only over those who obey and follow him (Shaytan), and those who join partners with Him (Allah).
-
-**Classical tafsir:** Ibn Kathir notes: So, should one opt for not using his capability of choice and control because of sheer carelessness or some selfish motive, then, this would be his own fault.
 ## Personal Reflections
-
 

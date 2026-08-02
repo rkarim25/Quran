@@ -113,11 +113,5 @@ And after stating these qualities, it is said towards the end of the verse-3, ل
 
 A Book whose ayahs are explained in detail—a Quran in Arabic for people who know,
 
-## AI Tafsir
-
-**What this ayah teaches:** A Book whereof the Ayat are explained in detail – a Qur'an in Arabic for people who know.)(4. A revelation from the ar-Rahman, the ar-Rahim.)(3.
-
-**Classical tafsir:** Ibn Kathir notes: A revelation from the ar-Rahman, the ar-Rahim.)(3.
 ## Personal Reflections
-
 

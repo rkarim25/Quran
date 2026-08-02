@@ -107,11 +107,5 @@ Allah's Fairness to Sinners
 
 Or do they say: He invented it? In fact, they have no iman.
 
-## AI Tafsir
-
-**What this ayah teaches:** They believe not (33)Let them then produce a recitation like unto it if they are truthful . Absolving the Prophet (ﷺ) of the False Accusations the Idolators made against Him Allah the Exalted commands His Messenger ﷺ to convey His Message to His servants and remind them of His revelation that has been sent down to him.
-
-**Classical tafsir:** Ibn Kathir notes: I am with you among those who wait!") 'wait and I too will wait with you, and you will come to know to whom the good end and triumph shall be granted in this life and the Hereafter.' Muhammad bin Ishaq reported that 'Abdullah bin Abi Najih said that Mujahid said that Ibn 'Abbas said, "When the Quray…
 ## Personal Reflections
-
 

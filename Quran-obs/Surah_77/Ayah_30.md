@@ -120,11 +120,5 @@ Then Allah says,
 
 Proceed into a shade of smoke rising in three columns,
 
-## AI Tafsir
-
-**What this ayah teaches:** Depart you to a shadow in three columns,) meaning, a flame of fire when it rises and ascends with smoke.
-
-**Classical tafsir:** Ibn Kathir notes: This means it will not protect them from the heat of the flame.
 ## Personal Reflections
-
 

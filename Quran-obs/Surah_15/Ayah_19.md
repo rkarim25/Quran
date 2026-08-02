@@ -102,13 +102,5 @@ And this expression: مِن كُلِّ شَيْءٍ مَّوْزُونٍ (everyt
 
 As for the earth, We spread it out and placed upon it firm mountains, and caused everything to grow there in perfect balance.
 
-## AI Tafsir
-
-**What this ayah teaches:** "Sometimes the flaming fire hits one of these listeners before he is able to convey what he has heard to the one who is beneath him, and he is burned up, or sometimes the fire does not hit him until he has pit on to the one beneath him, so he brings it to the earth." Perhaps Sufyan said: "...until it reaches the earth and he puts it into the mouth of the sorcerer or fortune-teller, so that after t…
-
-**Classical tafsir:** Ibn Kathir notes: Here, Mujahid and Qatadah said that Buruj [big stars] refers to the heavenly bodies.
-
-**From the Sunnah:** Explaining this Ayah, Al-Bukhari reported from Abu Hurayrah that the Prophet ﷺ said: (Sahih al-Bukhari) This was also the opinion of Sa'id bin Jubayr, 'Ikrimah, Abu Malik, Mujahid, Al-Hakim bin 'Utaybah, Al-Hasan bin Muhammad, Abu Salih and Qatadah. (al-Mustadrak)
 ## Personal Reflections
-
 

@@ -154,11 +154,5 @@ In the later part of verse 51, it was said: يَوْمَ يَقُومُ الْأ
 
 We certainly help Our messengers and the believers, both in this dunya and on the Day the witnesses will stand forth—
 
-## AI Tafsir
-
-**What this ayah teaches:** It is obvious that this help is intended to be against adversaries and enemies.
-
-**Classical tafsir:** Ibn Kathir notes: Then Allah took him (in death), because of his high status and honor, and He established his Companions as his Khalifahs.
 ## Personal Reflections
-
 

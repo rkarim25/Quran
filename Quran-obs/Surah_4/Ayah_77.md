@@ -378,15 +378,5 @@ There is no gain in dunya for the one who has no share in the eternal abode from
 
 Have you not seen those who had been told, “Do not fight! Rather, establish salah and pay zakat.”? Then once the order came to fight, a group of them feared those people as Allah should be feared—or even more. They said, “Our Rabb! Why have You ordered us to fight? If only You had delayed us for a little while!” Say, “The enjoyment of this dunya is so little, whereas the Akhirah is far better for those who live with taqwa. And none of you will be wronged the thread of a date stone.
 
-## AI Tafsir
-
-**Context:** In the beginning of Islam, Muslims in Makkah were commanded to perform the prayer and pay some charity, so as to comfort the poor among them.
-
-**What this ayah teaches:** But, once man is used to a life of physical comfort and peace, he does not feel like going out to fight.
-
-**Classical tafsir:** Ibn Kathir notes: However, they were eager and anticipating the time when they would be allowed to fight, so that they could punish their enemies.
-
-**From the Sunnah:** In the beginning of Islam, Muslims in Makkah were commanded to perform the prayer and pay some charity, so as to comfort the poor among them. This is why when a calamity befell them, they attributed it to following the Prophet ﷺ.
 ## Personal Reflections
-
 

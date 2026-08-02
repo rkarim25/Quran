@@ -191,13 +191,5 @@ Allah's Fairness to Sinners
 
 They will pass to one another a cup of wine that leads to no idle talk and no sin.
 
-## AI Tafsir
-
-**What this ayah teaches:** Allah stated that wine of the Hereafter shall not cause those who drink it to utter false, vain words that carry no benefit, full of foolishness and evil. The Offspring of Righteous Believers will be elevated to Their Grades in Paradise In this Ayah, Allah the Exalted affirms His favor, generosity, graciousness, compassion and beneficence towards His creation.
-
-**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas said that Laghw means 'falsehood' while Ta'thim means 'lying'.
-
-**From the Sunnah:** Ibn Abi Hatim also recorded that Ibn 'Abbas commented on Allah's statement, Paradise, while the idolators and their offspring will dwell in the Hellfire.
 ## Personal Reflections
-
 

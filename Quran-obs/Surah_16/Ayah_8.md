@@ -88,13 +88,5 @@ Rulings:
 
 He also created horses, mules, and donkeys for your transportation and adornment. And He creates what you do not know.
 
-## AI Tafsir
-
-**What this ayah teaches:** This refers to another category of animals that Allah has created as a blessing for His servants,horses,mules and donkeys,all of which He made for riding and adornment. And (He has created) horses, mules and donkeys for you to ride, and as an adornment.
-
-**Classical tafsir:** Ibn Kathir notes: This change clearly indicates that the word so used is for means of transport and other things which have not yet come into existence.
-
-**From the Sunnah:** It was reported in the Two Sahihs that Jabir bin 'Abdullah said: "The Messenger of Allah ﷺ forbade us to eat the meat of domestic donkeys, but he allowed us to eat the meat of horses." According to Sahih Muslim, Asma' bint Abi Bakr (may Allah be pleased with them both) said: "At the time of the Messenger of Allah ﷺ we slaughtered a horse and ate it when we were in Al-Madinah." (Sahih Muslim)
 ## Personal Reflections
-
 

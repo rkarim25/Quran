@@ -92,11 +92,5 @@ In addition to that, it has been the customary practice of Allah Ta’ ala that,
 
 And our forefathers as well?"
 
-## AI Tafsir
-
-**What this ayah teaches:** And place after place in the Qur'an, the word: v i (ayat) has appeared in the sense of mu jizah or miracle. If anyone still refuses to accept the true message conveyed by him, then, coming up with a new miracle everyday is counter to the dignity of the prophet, as well as counter to the will of Allah Ta’ ala.
-
-**Classical tafsir:** Ibn Kathir notes: And place after place in the Qur'an, the word: v i (ayat) has appeared in the sense of mu jizah or miracle.
 ## Personal Reflections
-
 

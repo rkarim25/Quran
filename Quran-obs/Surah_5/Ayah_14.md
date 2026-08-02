@@ -237,13 +237,5 @@ And it goes without saying that in the presence of such major divisions in matte
 
 And from those who say, “We are Christians,” We took their covenant, but they neglected a portion of what they had been commanded to uphold. So We let hostility and enmity arise between them until the Day of Judgment, and soon Allah will inform them of all they have done.
 
-## AI Tafsir
-
-**What this ayah teaches:** In this verse, the punishment described for Christians is mutual dissension.
-
-**Classical tafsir:** Ibn Kathir notes: Muhammad bin Ishaq and Ibn 'Abbas said that this occurred when Musa went to fight the mighty enemy (in Palestine), and Allah commanded him to choose a leader from every tribe. Mujahid said that this Ayah refers to their plot to kill the Messenger of Allah ﷺ.
-
-**From the Sunnah:** Likewise, when the Messenger of Allah ﷺ took the pledge from the Ansar in the 'Aqabah area, there were twelve leaders from the Ansar. this Ayah refers to their plot to kill the Messenger of Allah ﷺ.
 ## Personal Reflections
-
 

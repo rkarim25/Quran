@@ -105,11 +105,5 @@ In short, it is not within people's power to get together and save a soul or lif
 
 and We are nearer to the dying person than you, though you cannot see—
 
-## AI Tafsir
-
-**What this ayah teaches:** In other words, that is, He is nearer to him in terms of knowledge and power. And We are closer to him than you, but you do not perceive.
-
-**Classical tafsir:** Ibn Kathir notes: In the current verse the word is used in the sense of hypocrisy and rejection of Allah's verses carelessly.
 ## Personal Reflections
-
 

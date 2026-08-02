@@ -314,19 +314,5 @@ Rulings
 
 Kill them wherever you encounter them and drive them out from where they drove you out. fitnah — trial and turmoil that tests faith — is worse than killing. Do not fight them at the Sacred Mosque unless they attack you there. If they do, then fight them — that is the recompense of those who reject the truth.
 
-## AI Tafsir
-
-**Essence** War in Islam is permission to repel aggressors and uproot oppression — never a license for excess — while even the Sacred Mosque is honored until the enemy violates it first.
-
-**What it teaches** The believers are commanded to fight back against those who fight them and to drive out those who drove them from their homes, "as a law of equality in punishment" (Ibn Kathir). The pivot is *al-fitnah* — here meaning kufr (disbelief), shirk (associating others with Allah), and barring Muslims from their religious duties — which the ayah declares "worse than killing," because that persecution is a greater and more disastrous evil than warfare itself.
-
-**The scholars** Maarif ul Quran places this verse after Hudaybiyyah: as the Prophet (peace be upon him) set out for the make-up 'Umrah, the Companions feared Quraysh's treachery, so this ayah gave them permission to meet aggression with force. It also notes that during the entire Makkan period Muslims had been told to forgive — so much so that some Companions thought killing disbelievers was forbidden — and this verse removed that misconception by explaining that *fitnah* (kufr, shirk, and obstructing worship) is the graver evil that justifies fighting (citing Jassas and Qurtubi). On *fitnah*, Ibn Kathir reports Abu Al-'Aliyah, Mujahid, Sa'id bin Jubayr, 'Ikrimah, al-Hasan, Qatadah, ad-Dahhak and ar-Rabi' bin Anas: "Shirk is worse than killing" (Abu Malik adding that the disbelievers' conduct is itself worse than killing). On the limit "transgress not," al-Hasan al-Basri — agreed by Ibn 'Abbas, 'Umar bin 'Abdul-'Aziz, Muqatil bin Hayyan and others — said transgression includes mutilating the dead, stealing from spoils, and killing women, children, the old who do not fight, and those in houses of worship. As for the Sacred Mosque, Ibn Kathir cites the hadith of the Two Sahihs that Makkah is "a sanctuary by Allah's decree" since He created the heavens and the earth; both he and Maarif hold its sanctity is permanent, so fighting is forbidden in its precincts unless the enemy attacks there first — and Maarif notes the jurists' consensus that the one attacked may then defend himself.
-
-**From the Sunnah** Fighting is to be for Allah's sake alone and bounded by mercy: do not steal from spoils, betray, mutilate the dead, kill a child, or kill those who reside in houses of worship. (Sahih Muslim, from Buraydah)
-
-**From the Sunnah** When the Prophet (peace be upon him) conquered Makkah he proclaimed safety for the non-combatant — whoever shut his door, entered the Sacred Mosque, or entered Abu Sufyan's house was secure — showing that even at the height of victory the sanctuary and the peaceable were protected. (as recorded by Ibn Kathir)
-
-**Reflection** Even when wronged, the believer answers oppression with measured justice, never with cruelty — keeping sacred limits sacred.
 ## Personal Reflections
-
 

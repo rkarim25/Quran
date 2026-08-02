@@ -107,11 +107,5 @@ Then Allah will remind them of their sins in this world and how they used to mak
 
 Today I have indeed rewarded them for their perseverance: they are certainly the triumphant.”
 
-## AI Tafsir
-
-**What this ayah teaches:** If ever we return (to evil), then indeed we shall be wrongdoers.)(23:106-107) Allah will not answer them for a time span equivalent to twice the duration of this world. We believe, so forgive us and have mercy on us, for You are the Best of all who show mercy!
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

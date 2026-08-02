@@ -110,13 +110,5 @@ The forthcoming verses address the people of the time of the Prophet Muhammad �
 
 We sent a storm of stones against them, except Lot's family—we saved them before dawn
 
-## AI Tafsir
-
-**Context:** رَ‌اوَدُوهُ عَن ضَيْفِهِ (And they had even tried to tempt him against his guests...54:37). The word murawadah signifies to entice someone to satisfy one's lust.
-
-**What this ayah teaches:** The people of Lut denied the warnings (33)Verily, We sent against them Hasib (a violent storm of stones), except the family of Lut, them We saved in the last hour of the night (34)As a favor from Us. Allah the Exalted commanded Jibril, peace be upon him, to raise their cities to the sky and then turn them upside down over them, followed by stones made of marked Sijjil.
-
-**Classical tafsir:** Ibn Kathir notes: The word murawadah signifies to entice someone to satisfy one's lust.
 ## Personal Reflections
-
 

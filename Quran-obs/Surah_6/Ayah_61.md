@@ -213,11 +213,5 @@ After that, it was said: أَلَا لَهُ الْحُكْمُ (Beware, to Him 
 
 He reigns supreme over all of His creation, and sends recording-angels, watching over you. When death comes to any of you, Our angels take their soul, never neglecting this duty.
 
-## AI Tafsir
-
-**What this ayah teaches:** Then, death is not all, for the matter is still not closed.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

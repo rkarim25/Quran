@@ -130,15 +130,5 @@ Verses [ 9-10] أَرَ‌أَيْتَ الَّذِي يَنْهَىٰ عَبْ�
 
 Does he not know that Allah sees?
 
-## AI Tafsir
-
-**Context:** (Have you seen him who prevents. A servant when he prays) This was revealed about Abu Jahl, may Allah curse him. He threatened the Prophet for performing Salah at the Ka`bah.
-
-**What this ayah teaches:** The Threat against Man's Transgression for the sake of Wealth Allah informs that man is very pleased, most evil, scornful and transgressive when he considers himself self-sufficient and having an abundance of wealth.
-
-**Classical tafsir:** Ibn Kathir notes: In the Name of your Lord Who has created.) (96:1) This is the end of the Tafsir of Surah Iqra' (Surat Al-`Alaq).
-
-**From the Sunnah:** Haven't I prevented you from this' He threatened the Prophet and thus, the Messenger of Allah ﷺ became angry with him and reprimanded him. (Jami' at-Tirmidhi, Sunan an-Nasa'i)
 ## Personal Reflections
-
 

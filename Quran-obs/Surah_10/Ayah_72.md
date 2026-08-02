@@ -203,13 +203,5 @@ Another basharah (good news) of this world unfolds in the form that Muslims at l
 
 And if you turn away, remember I have never demanded a reward from you for delivering the message. My reward is only from Allah. And I have been commanded to be one of those who submit to Allah.”
 
-## AI Tafsir
-
-**What this ayah teaches:** And I have been commanded to be of the Muslims.) I submit to Islam. You have indeed bestowed on me of the sovereignty, and taught me something of the interpretation of dreams – the (Only) Creator of the heavens and the earth!
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** And I have been commanded to be of the Muslims.) I submit to Islam. Cause me to die as a Muslim, and join me with the righteous.)(12:101) Musa said: (Sahih Muslim)
 ## Personal Reflections
-
 

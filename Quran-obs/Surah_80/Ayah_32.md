@@ -184,11 +184,5 @@ Having mentioned in the preceding verses the beginning and the end of human life
 
 all as sustenance for you and your animals.
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, Allah has decreed the existence of mankind, and its duration, therefore, when that is finished with Allah, He resurrects the creatures and repeats their creation just as He initially created them. From a Nutfah He created him, and then set him in due proportion.) meaning, He decreed his life span, his sustenance, his deeds, and whether he would be miserable or happy.
-
-**Classical tafsir:** Ibn Kathir notes: Verily, Allah has decreed the existence of mankind, and its duration, therefore, when that is finished with Allah, He resurrects the creatures and repeats their creation just as He initially created them.
 ## Personal Reflections
-
 

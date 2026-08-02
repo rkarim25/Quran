@@ -223,11 +223,5 @@ The condition of a people who were under the curse and wrath of Allah has been i
 
 When they come to you they say, “We believe.” But they are committed to rejection of the truth when they enter and when they leave. And Allah knows what they hide.
 
-## AI Tafsir
-
-**What this ayah teaches:** Those who were before you were destroyed because they committed sins and the 'Rabbāniyyūn' and 'Aḥbār' did not forbid them from evil.
-
-**Classical tafsir:** Ibn Kathir notes: Those who were before you were destroyed because they committed sins and the 'Rabbāniyyūn' and 'Aḥbār' did not forbid them from evil.
 ## Personal Reflections
-
 

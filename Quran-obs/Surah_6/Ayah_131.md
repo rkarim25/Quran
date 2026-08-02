@@ -107,11 +107,5 @@ The third verse (131) tells us that sending prophets and messengers among human 
 
 This is because your Rabb would never destroy a society for their wrongdoing while its people are unaware.
 
-## AI Tafsir
-
-**What this ayah teaches:** This is because your Lord would not destroy the (populations of) towns for their wrongdoing while their people were unaware (131)For all there will be degrees according to what they did. The third verse (131) tells us that sending prophets and messengers among human beings and the Jinn is based on the dictate of justice and mercy of Allah Ta` ala for He does not send punishment over a people unles…
-
-**Classical tafsir:** Ibn Kathir notes: This is because your Lord would not destroy the (populations of) towns for their wrongdoing while their people were unaware (131)For all there will be degrees according to what they did.
 ## Personal Reflections
-
 

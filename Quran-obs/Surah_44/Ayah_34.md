@@ -50,11 +50,5 @@ Abdur-Razzaq recorded that Abu Hurayrah, may Allah be pleased with him, said, "T
 
 Indeed, these people say,
 
-## AI Tafsir
-
-**What this ayah teaches:** They Tubba' were Arab descendants of Qahtan, just as these people (Quraysh) were Arab descendants of 'Adnan.
-
-**Classical tafsir:** Ibn Kathir notes: This was brought about because the idolators denied the Resurrection.
 ## Personal Reflections
-
 

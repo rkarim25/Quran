@@ -241,13 +241,5 @@ The word 'mashhud' in the expression: كَانَ مَشْهُودًا (kana mash
 
 Observe the salah — the formal prayer from the decline of the sun until the darkness of the night and the dawn salah, for certainly the dawn salah is witnessed by angels.
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, the recitation of the Qur'an in the early dawn is ever witnessed (78)And in some parts of the night (also) offer the Salah with it as an additional prayer for you.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, it has been called 'mashhud' (hence, translated as 'well-attended' ).
-
-**From the Sunnah:** The details of the timings of the prayers were reported in the Mutawatir Sunnah from the words and deeds of the Prophet ﷺ, and this is what the people of Islam have followed until the present day, passing it down from generation to generation, century after ce… from Abu Hurayrah that the Prophet ﷺ said: (Sahih al-Bukhari)
 ## Personal Reflections
-
 

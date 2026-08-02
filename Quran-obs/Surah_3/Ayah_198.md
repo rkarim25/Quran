@@ -170,13 +170,5 @@ So, let us keep in mind that all sins are forgiven following Hijrah (Emigration)
 
 But those who live with taqwa of their Rabb will be in Gardens under which rivers flow, to stay there forever—as an accommodation from Allah. And what is with Allah is best for the virtuous.
 
-## AI Tafsir
-
-**What this ayah teaches:** There is no other alternative in this case unless Allah Almighty is especially generous for someone and puts it in the heart of the wronged party that they should relent and forgive.
-
-**Classical tafsir:** Ibn Kathir notes: We postpone the punishment only so that they may increase in sinfulness.
-
-**From the Sunnah:** In the second and third verses (196-197), Muslims have been instructed not to be deceived by the apparent affluence and worldwide maneuvering of those who reject the truth for this is transitory and the punishment which follows in its wake is eternal. Paradise for Muslims who always keep fearing Allah.
 ## Personal Reflections
-
 

@@ -69,11 +69,5 @@ Incidents related to Sayyidna Musa (علیہ السلام) have been stated by t
 
 But as soon as he came to them with Our signs, they laughed at them,
 
-## AI Tafsir
-
-**What this ayah teaches:** Yet despite all that they remained arrogant and stubbornly refused to follow him; they rejected his message and made fun of it, and laughed at the one who had brought it. They were in a state of need, so it would not have been appropriate for them to insult him.
-
-**Classical tafsir:** Ibn Kathir notes: Invoke your Lord for us because of His promise to you.
 ## Personal Reflections
-
 

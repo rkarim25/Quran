@@ -118,13 +118,5 @@ About the recognizing of Sayyidna Yusuf (علیہ السلام) ، Ibn Kathir ha
 
 And Joseph’s brothers came and entered his presence. He recognized them but they were unaware of who he really was.
 
-## AI Tafsir
-
-**What this ayah teaches:** Yusuf's Brothers travel to Egypt As-Suddi, Muhammad bin Ishaq and several others said that the reason why Yusuf's brothers went to Egypt, is that after Yusuf became minister of Egypt and the seven years of abundance passed, then came the seven years of drought that struck all areas of Egypt.
-
-**Classical tafsir:** Ibn Kathir notes: They were ten, because Ya'qub peace be upon him kept his son and Yusuf's brother Binyamin with him.
-
-**From the Sunnah:** Prophet Yusuf efficiently guarded the people's harvest and collected it, and what he collected became a great fortune for the people.
 ## Personal Reflections
-
 

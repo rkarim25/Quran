@@ -113,15 +113,5 @@ Another general meaning of being a witness for the Ummah may be that the Holy Pr
 
 O Prophet! We have sent you as a witness, and a deliverer of good news, and a warner,
 
-## AI Tafsir
-
-**Context:** Wahb bin Munabbih said: "Allah revealed to one of the Prophets of the Children of Israel whose name was Sha'ya' (Isaiah); 'Stand up among your people the Children of Israel and I shall cause your tongue to utter (words o…
-
-**What this ayah teaches:** I will make them the heirs of their Prophet, calling people to their Lord, enjoining what is good, forbidding what is evil, establishing regular prayer, paying the Zakah and fulfilling their promises.
-
-**Classical tafsir:** Ibn Kathir notes: If he were to pass by a lamp, it would not be extinguished, because of his tranquillity.
-
-**From the Sunnah:** he met 'Abdullah bin 'Amr bin Al-'As, may Allah be pleased with him, and said to him: (Musnad Ahmad)
 ## Personal Reflections
-
 

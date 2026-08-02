@@ -106,13 +106,5 @@ Allah the Exalted said,
 
 Beautiful as rubies and coral.
 
-## AI Tafsir
-
-**What this ayah teaches:** I neither see anything in Paradise more handsome than you nor more beloved to me than you.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** Paradise, men or women. (Sahih Muslim) Paradise as small as that occupied by the whip of one of you, is better than the world and whatever is on its surface. (Sahih al-Bukhari)
 ## Personal Reflections
-
 

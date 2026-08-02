@@ -146,11 +146,5 @@ However, ثَمَرَۃ thamrah or fruit is also used in the sense of outcome an
 
 All praise belongs to Allah who blessed me with Ishmael and Isaac in my old age. My Rabb is the Hearer of prayers.
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, my Lord is indeed the All-Hearer of invocations.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, there is no contradiction between this statement and the comment made on the verse 35.
 ## Personal Reflections
-
 

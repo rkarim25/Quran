@@ -294,13 +294,5 @@ A detailed account of the status of the sahabah is given in Surah Al-Fath under 
 
 Who will lend Allah a good loan, so He may multiply it for them and they will have a generous reward?
 
-## AI Tafsir
-
-**What this ayah teaches:** And such of you as believe and spend, theirs will be a great reward (7)And what is the matter with you that you believe not in Allah!
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, O mankind, spend as Allah commanded you from the wealth that He entrusted to you for His obedience.
-
-**From the Sunnah:** And we have reported the Hadith through different routes in the beginning of the explanation on the chapter on Faith in Sahih Al-Bukhari, wherein one day the Messenger of Allah ﷺ said to his Companions, (Sahih al-Bukhari) Before Makkah was conquered, things were difficult for Muslims and only the righteous ones embraced Islam.
 ## Personal Reflections
-
 

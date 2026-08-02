@@ -128,13 +128,5 @@ Having discussed the factual aspect of the circumstances leading up to the revel
 
 They are those who, if established in the land by Us, would perform salah, give zakat — obligatory sharing of wealth to purify what remains, encourage what is good, and forbid what is evil. And with Allah rests the outcome of all affairs.
 
-## AI Tafsir
-
-**Context:** (Those who, if We give them power in the land, (they) establish the Salah, enforce the Zakah, and they enjoin the good and forbid the evil.) was revealed concerning us, for we had been expelled from our homes unjustly on…
-
-**What this ayah teaches:** Those who, if We give them power in the land, establish the Salah, enforce the Zakah, and they enjoin the good and forbid the evil. Referring to such people the verse says that if they are placed in authority in this world, they will use it to promote good deeds, will set up prayers, pay the obligatory charity, enjoin people to do good and abstain from evil deeds.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

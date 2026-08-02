@@ -159,13 +159,5 @@ Ibn Abi Hatim recorded from 'Ikrimah that he said, "The Jinns used to fear human
 
 We believe our Rabb—Exalted is His Majesty—has taken neither a mate nor offspring.
 
-## AI Tafsir
-
-**Context:** (1. Say: "It has been revealed to me that a group of Jinn listened. They said: 'Verily, we have heard a wonderful Recitation!')(2.
-
-**What this ayah teaches:** Instead of saying .jadduhu' with a third person pronoun referring to Allah, the attributive name 'rabb' 'Lord' is expressly retained which indicates the exalted position of Allah.
-
-**Classical tafsir:** Ibn Kathir notes: Then he would say, 'I seek refuge with the master (Jinn) of this valley from the Jinns, or that myself, my wealth, my child or my animals are harmed in it.'" Qatadah said, "When they sought refuge with them instead of Allah, the Jinns would overcome them with harm because of that." Ibn Abi Hatim rec… This means that when the Jinns accepted Islam and believed in the Qur'an they professed Allah's magn…
 ## Personal Reflections
-
 

@@ -114,15 +114,5 @@ The Sahabah ؓ asked the Holy Prophet ﷺ as to what it will be about. He said t
 
 So by your Rabb! We will certainly question them all.
 
-## AI Tafsir
-
-**Context:** (Who have made the Qur'an into parts.) meaning, they have split up the Books that were revealed to them, believing in parts of them and rejecting parts of them.
-
-**What this ayah teaches:** In verse 92, swearing by His Own sacred Being, Allah Ta’ ala has declared that all such people who came earlier or later shall definitely be questioned.
-
-**Classical tafsir:** Ibn Kathir notes: Commentary Surah Al-Fatihah is the Text and Summary of the Whole Qur'an That Surah Al-Fatihah (The Opening) has been called the Glorious Qur’ an in this verse (87) indicates that Surah Al-Fatihah is, in a way, the whole Qur’ an - because the basic principles of Islam have been me…
-
-**From the Sunnah:** In the two Sahihs it is reported from Abu Musa that the Prophet ﷺ said:
 ## Personal Reflections
-
 

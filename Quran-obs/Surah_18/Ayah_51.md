@@ -92,11 +92,5 @@ The word: ذُرِّ‌يَّتَهُ (dhurriyyatah) in verse 50 indicates that 
 
 I never called them to witness the creation of the heavens and the earth or even their own creation, nor would I take the misleaders as helpers.
 
-## AI Tafsir
-
-**What this ayah teaches:** The gods of the Idolators did not witness the Creation of anything, not even Themselves Allah says: 'These whom you take as helpers instead of Me are creatures just like you. They did not witness the creation of the heavens and the earth nor their own creation, nor did I take those who mislead as 'Adudan .
-
-**Classical tafsir:** Ibn Kathir notes: According to his narration, the Holy Prophet ﷺ told him, "do not become like those who are the first to enter the bazaar (shopping centre), or those who are the last to leave it, for the bazaar is a place where the Shaitan has his eggs and offspring laid around." This would indic…
 ## Personal Reflections
-
 

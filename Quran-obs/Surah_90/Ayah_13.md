@@ -308,13 +308,5 @@ If an orphaned family member is given food to eat, its reward is twofold, for sa
 
 These opening letters—known as the muqatta'at—are among the signs whose full meaning Allah kept with Himself. They open the surah by reminding the reader that this Book is from beyond human authorship: approach it with humility, not arrogance.
 
-## AI Tafsir
-
-**What this ayah teaches:** And what will make you know the path that is steep?)(13.
-
-**Classical tafsir:** Ibn Kathir notes: Al-Hasan Al-Basri said, "Allah made it lawful (to fight in) for him (the Prophet ﷺ) for one hour of a day." The meaning of what they have said was mentioned in a Hadith that is agreed-upon as being authentic. Here the word 'aqabah refers to obedience and devotion.
-
-**From the Sunnah:** Al-Hasan Al-Basri said, "Allah made it lawful (to fight in) for him (the Prophet ﷺ) for one hour of a day." The meaning of what they have said was mentioned in a Hadith that is agreed-upon as being authentic.
 ## Personal Reflections
-
 

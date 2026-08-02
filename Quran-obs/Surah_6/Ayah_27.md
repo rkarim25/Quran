@@ -161,11 +161,5 @@ In the first verse, portrayed is the condition of wrong-doers and deniers of tru
 
 If only you could see when they will be detained before the Fire! They will cry, “Oh! If only we could be sent back, we would never deny the signs of our Rabb and we would be of those who have iman.”
 
-## AI Tafsir
-
-**What this ayah teaches:** In the first verse, portrayed is the condition of wrong-doers and deniers of truth who, when made to stand by the edges of the Hell, and to observe the horrifying punishment far beyond their imagination, would wish that they were sent back into the world where now they would never falsify the signs and commands of their Lord, would believe in them and would be the true believers.
-
-**Classical tafsir:** Ibn Kathir notes: And indeed they are liars.) meaning, they lie when they say they wish to go back to this life so that they can embrace the faith.
 ## Personal Reflections
-
 

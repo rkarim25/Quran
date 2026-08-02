@@ -119,13 +119,5 @@ Based on a narration of Salim ibn ` Amir, it has been reported by Abu Dawud, Tir
 
 If you fear treachery from a people, announce the dissolution of the treaty to them on equal terms. Allah does not love the treacherous.
 
-## AI Tafsir
-
-**What this ayah teaches:** The Holy Prophet ﷺ has said: When a ceasefire agreement or a peace pact with a people comes into effect, it is necessary that no knot be opened or tied against their provisions.
-
-**Classical tafsir:** Ibn Kathir notes: He wanted to go closer to their forces so that when the treaty of peace ended, he could invade them.
-
-**From the Sunnah:** Given this situation, it remains no more necessary that Muslims should continue to abide by their allegiance to the treaty. However, should there be the danger of a breach of trust from the other party, it is possible to go ahead and openly proclaim before them that Muslims shall not remain bound by the treaty in future.
 ## Personal Reflections
-
 

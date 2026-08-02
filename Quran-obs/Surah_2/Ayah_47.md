@@ -112,17 +112,5 @@ On the basis of verse 48, the Mu'tazilah and some other groups of a more recent 
 
 O Children of Israel — remember My favours to you and that I preferred you above the nations of your time.
 
-## AI Tafsir
-
-**Essence** Allah summons the Children of Israel to remember His favor (ni'mah) and how He preferred them — an honor the scholars read as over the nations of their age.
-
-**What it teaches** Maarif ul Quran: to "remember" (udhkuru) a favor is to let recognition ripen into thankfulness, then obedience. The blessing reached the forefathers, yet the Jews of the Prophet's ﷺ time are addressed — children usually partake of the benefits flowing from a father's favor.
-
-**The scholars** Abu Al-'Aliyah — echoed by Mujahid, Qatadah and others — said it means the kingship, Messengers and Books granted them over the kingdoms of their time, "for every period there is a nation." Ibn Kathir adds: the Ummah of Muhammad ﷺ is better still (3:110).
-
-**From the Sunnah** "You (Muslims) are the seventieth nation, but you are the best and most honored of them according to Allah." (the Musnad and Sunan Collections)
-
-**Reflection** Count the favors — honor from Allah is a trust to answer, not a rank to rest on.
 ## Personal Reflections
-
 

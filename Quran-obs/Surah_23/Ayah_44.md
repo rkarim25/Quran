@@ -146,11 +146,5 @@ Commentary
 
 Then We sent Our messengers in succession: whenever a messenger came to his people, they denied him. So We destroyed them, one after the other, reducing them to cautionary tales. So away with the people who refuse to believe!
 
-## AI Tafsir
-
-**What this ayah teaches:** Then, after them, We created other generations (42)No nation can advance their term, nor can they delay it (43)Then We sent Our Messengers in succession. Every time there came to a nation their Messenger, they denied him; so, We made them follow one another, and We made them as Ahadith.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

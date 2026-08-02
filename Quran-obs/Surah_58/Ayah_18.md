@@ -175,15 +175,5 @@ In contra-distinction to Muwalah [ intimate friendship ], there is a concept of 
 
 On the Day Allah resurrects them all, they will swear to Him as they swear to you, imagining they have a case. They are the total liars.
 
-## AI Tafsir
-
-**Context:** وَيَحْلِفُونَ عَلَى الْكَذِبِ (and they swear false oaths ...58:14). It means they swear oaths profanely. According to some reports, this verse was revealed in connection with ` Abdullah Ibn 'Ubayy and ` Abdullah Ibn Nab…
-
-**What this ayah teaches:** Evil indeed is that which they used to do (15)They have made their oaths a screen.
-
-**Classical tafsir:** Ibn Kathir notes: Here 'love', 'affection' or 'intimacy' refers to the one coming from the heart involving intense emotional commitment (which necessarily includes having love with his way of life.
-
-**From the Sunnah:** Allah chastises the hypocrites for secretly aiding and supporting the those who reject the truth even though, in reality, they were neither with the those who reject the truth nor with the Muslims.
 ## Personal Reflections
-
 

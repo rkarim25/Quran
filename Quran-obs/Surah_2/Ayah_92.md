@@ -150,15 +150,5 @@ The verse also suggests that no wonder if these people, whose forefathers denied
 
 Moses came to you with clear proofs, then you worshipped the calf in his absence, wronging yourselves.
 
-## AI Tafsir
-
-**Essence** Musa came with clear proofs, yet the moment he withdrew they took the calf — their claim of faith exposed as hollow.
-
-**What it teaches** The bayyinat are Musa's miracles — the staff turned serpent, the shining hand, the sea split open — affirming Allah's Oneness (tawhid) and Musa's prophethood. Taking the calf "after him," in his absence, was shirk — a wrong without excuse.
-
-**The scholars** Ibn Kathir adds the plagues — flood, locusts, lice, frogs, blood — and locates "after him" at Musa's going to Mount Tur to speak with Allah; zalimun, he says, because they knew none deserves worship but Allah. Maarif ul-Quran: the Prophet's ﷺ Jewish contemporaries never worshipped the calf, yet by approving their forefathers' deed and taking their side, they shared the guilt — no wonder these same addressees now deny him ﷺ as their fathers denied Musa.
-
-**Reflection** Faith is tested when the reminder is far — guard your tawhid then, and never defend your people's sin out of loyalty.
 ## Personal Reflections
-
 

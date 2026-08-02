@@ -152,13 +152,5 @@ The entrant also said: وَلَا تُشْطِطْ (and do not cross the limits 
 
 "This is my brother. He has ninety-nine sheep while I have only one. Still he demanded I give mine to him, overwhelming me with his argument."
 
-## AI Tafsir
-
-**What this ayah teaches:** Two men barging into one's privacy in that manner at an odd hour beating the security cordon can only be because of some bad intention in most cases.
-
-**Classical tafsir:** Ibn Kathir notes: Two men barging into one's privacy in that manner at an odd hour beating the security cordon can only be because of some bad intention in most cases.
-
-**From the Sunnah:** The evidence for it is the report recorded by Imam Ahmad from Ibn 'Abbas, may Allah be pleased with him, who said; "The prostration in Surah Sad is not one of the obligatory prostrations; I saw the Messenger of Allah ﷺ prostrating in this Surah." This was also… (Sahih al-Bukhari, Musnad Ahmad) he asked Mujahid about the prostration in Surah Sad. (Sahih al-Bukhari)
 ## Personal Reflections
-
 

@@ -116,11 +116,5 @@ And when Sayyidna Abu Hurairah ؓ saw rain falling, he used to say: مُطِرن
 
 If they reject you, messengers before you were rejected too. And to Allah all matters return for judgment.
 
-## AI Tafsir
-
-**What this ayah teaches:** And if they deny you, so were Messengers denied before you. Trust in Allah delivers from all hardships The lesson taught by the cited verse (2) to all human beings is that one should not hope any benefit or fear any harm from anyone other than Allah, instead, one should keep his or her sight trained towards Allah alone.
-
-**Classical tafsir:** Ibn Kathir notes: Trust in Allah delivers from all hardships The lesson taught by the cited verse (2) to all human beings is that one should not hope any benefit or fear any harm from anyone other than Allah, instead, one should keep his or her sight trained towards Allah alone.
 ## Personal Reflections
-
 

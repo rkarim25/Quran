@@ -128,13 +128,5 @@ From these verses we learn that it is more appropriate to tackle people bent on 
 
 Has He chosen daughters over sons?
 
-## AI Tafsir
-
-**Context:** (Except the servants of Allah, whom He chooses.) The pronoun in the verb translated as "they attribute" refers to all of mankind, then He excludes those whom He chooses, who are the ones who follow the truth revealed to…
-
-**What this ayah teaches:** Here, to refute their belief, Allah Ta’ ala has used their own view that the existence of daughters is a cause of disgrace.
-
-**Classical tafsir:** Ibn Kathir notes: As for a reported proof, you do not have that too because one only goes by the word of people who are trustworthy and whose veracity is well established.
 ## Personal Reflections
-
 

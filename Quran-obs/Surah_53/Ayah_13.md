@@ -260,13 +260,5 @@ Allah said,
 
 He certainly saw him descend a second time
 
-## AI Tafsir
-
-**Context:** He has been taught by one mighty in power (5)Dhu Mirrah then he Istawa (6)While he was in the highest part of the horizon (7)Then he approached and came closer (8)And was at a distance of two bows' length or less (9)So (…
-
-**What this ayah teaches:** The word sidrah literally denotes lote-tree and muntaha means the place of intiha' [ end ]. Generally the access of angels ends at this point, and therefore, it is called muntaha (the end).
-
-**Classical tafsir:** Ibn Kathir notes: The word sidrah literally denotes lote-tree and muntaha means the place of intiha' [ end ].
 ## Personal Reflections
-
 

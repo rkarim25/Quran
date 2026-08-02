@@ -201,15 +201,5 @@ We need to bear in mind the verse foretells that they will be invited to take pa
 
 Those who stayed behind will say, when you set out for spoils of war: Let us come with you. They wish to change Allah's promise. Say: You will not come with us. Allah has already said so. They will say: You are jealous of us. In truth, they barely understand.
 
-## AI Tafsir
-
-**Context:** Some people have tried to argue that the restrictive injunction is found in the Qur'an itself, that is in verses 18 and 19 of this very Surah "so He sent down tranquility upon them, and rewarded them with a well-nigh vic…
-
-**What this ayah teaches:** Allah the Exalted ordered His Messenger ﷺ to refuse to give them permission to accompany him, being a punishment that is similar to their error.
-
-**Classical tafsir:** Ibn Kathir notes: Wahy Matluww refers to the Qur'an - the words and meanings of which are both from Allah.
-
-**From the Sunnah:** Allah characterizes the bedouins who lagged behind the Messenger of Allah ﷺ during the 'Umrah of Hudaybiyyah, saying that when the Prophet ﷺ and his Companions later went on to conquer Khaybar, the bedouins asked them to take them along.
 ## Personal Reflections
-
 

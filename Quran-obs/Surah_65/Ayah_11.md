@@ -235,11 +235,5 @@ Some said that the Messenger is the subject of what is being sent [as a reminder
 
 and sent a messenger reciting Allah's revelations, making things clear, to bring those who believe and do good from darkness into light. Whoever believes in Allah and does good will be admitted to Gardens under which rivers flow, to stay forever. Allah will have granted them an excellent provision.
 
-## AI Tafsir
-
-**What this ayah teaches:** For instance some say that the word dhikr ('Reminder' ) refers to the Holy Prophet ﷺ himself, and the word 'messenger' is an explanatory complement to the word 'dhikr', because abundance of his remembering Allah made him a personified Remembrance of Allah.
-
-**Classical tafsir:** Ibn Kathir notes: For instance some say that the word dhikr ('Reminder' ) refers to the Holy Prophet ﷺ himself, and the word 'messenger' is an explanatory complement to the word 'dhikr', because abundance of his remembering Allah made him a personified Remembrance of Allah.
 ## Personal Reflections
-
 

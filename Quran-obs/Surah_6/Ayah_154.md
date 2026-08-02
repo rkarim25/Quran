@@ -171,13 +171,5 @@ As for their second saying: لَوْ أَنَّا أُنزِلَ عَلَيْن�
 
 Additionally, We gave Moses the Scripture, completing the favour upon those who do good, detailing everything, and as a guide and a mercy, so perhaps they would be certain of the meeting with their Rabb.
 
-## AI Tafsir
-
-**Context:** ("O our people! Verily, we have heard a Book sent down after Musa, confirming what came before it, it guides to the truth.")[46:30] Allah's statement, (...complete for that which is best, and explaining all things in det…
-
-**What this ayah teaches:** Then, We gave Musa the Book [the Tawrah], complete for that which is best, and explaining all things in detail and a guidance and a mercy that they might believe in the meeting with their Lord (154)And this is a blessed Book (the Qur'an) which We have sent down, so follow it and have Taqwa, so that you may receive mercy .
-
-**Classical tafsir:** Ibn Kathir notes: He also describes it as being blessed, for those who follow and implement it in this life and the Hereafter, because it is the Firm Rope of Allah.
 ## Personal Reflections
-
 

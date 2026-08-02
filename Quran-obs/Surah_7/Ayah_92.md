@@ -122,11 +122,5 @@ In verse 92, the fate of the people of Sayyidna Shu'aib (علیہ السلام) 
 
 Those who rejected Shu’aib were as if they had never lived there. Those who rejected Shu’aib were the true losers.
 
-## AI Tafsir
-
-**What this ayah teaches:** The sense of the sentence is that the homes where they lived in peace and comfort, turned so deserted after this punishment as if peace and comfort had never existed there. Therefore, Allah stated that each of these forms of punishment struck them on the Day of the Shadow.
-
-**Classical tafsir:** Ibn Kathir notes: Allah describes the enormity of disbelief, rebellion, transgression and misguidance (of Shu'ayb's people) and the defiance of truth encrypted in their hearts.
 ## Personal Reflections
-
 

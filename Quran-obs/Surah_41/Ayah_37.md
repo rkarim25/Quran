@@ -152,11 +152,5 @@ Prostration of worship for any being other than Allah has never been lawful for 
 
 Among His signs are the day and the night, the sun and the moon. Do not prostrate to the sun or the moon, but prostrate to Allah, Who created them all, if you truly worship Him alone.
 
-## AI Tafsir
-
-**Context:** Prostration of worship for any being other than Allah has never been lawful for any Ummah in any Shari` ah of any prophet, because it becomes a practice of shirk (polytheism) and shirk has never been allowed in any code…
-
-**What this ayah teaches:** Do not prostrate yourselves to the sun nor to the moon, but prostrate yourselves to Allah Who created them, if you worship Him (37)But if they are too proud, then there are those who are with your Lord glorify Him night and day, and never are they tired (38)And among His signs; that you see the earth barren, but when We send down water to it, it is stirred to life and growth.
 ## Personal Reflections
-
 

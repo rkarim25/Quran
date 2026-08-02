@@ -114,13 +114,5 @@ When Tha'labah had submitted in repentance, the question is why was his Taubah n
 
 So He caused hypocrisy to plague their hearts until the Day they will meet Him, for breaking their promise to Allah and for their lies.
 
-## AI Tafsir
-
-**What this ayah teaches:** The consequence of this action is that hypocrisy was placed in their hearts until the Day they meet Allah the Exalted, on the Day of Resurrection. Now, after the Holy Prophet JI no one knows the hypocrisy hidden in the heart of a person, therefore, the rule to follow in future is: Anyone who makes Taubah and confesses to his Islam and 'Iman should be treated as Muslims are treated - no matter what…
-
-**Classical tafsir:** Ibn Kathir notes: A serious note of warning From here we learn that there are occasions when the curse of evil deeds assumes alarming proportions, so much so that one is deprived of the very ability (taufiq) of making Taubah.
-
-**From the Sunnah:** He was simply trying to deceive Muslims for the time being only to put matters right between them. (Sahih Muslim)
 ## Personal Reflections
-
 

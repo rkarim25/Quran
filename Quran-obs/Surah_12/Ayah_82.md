@@ -138,11 +138,5 @@ The Holy Prophets ﷺ has, by his personal conduct, affirmed it positively. On h
 
 Ask the people of the land where we were and the caravan we travelled with. We are certainly telling the truth.’”
 
-## AI Tafsir
-
-**What this ayah teaches:** Therefore, in order to make things clear, the testimony of the people of the city, and the caravan, was presented in support.
-
-**Classical tafsir:** Ibn Kathir notes: Yusuf's Brothers consult Each Other in Confidence; the Advice Their Eldest Brother gave Them Allah narrates to us that Yusuf's brothers were desperate because they could not secure the release of their brother Binyamin, even though they had given a promise and sworn to their fath…
 ## Personal Reflections
-
 

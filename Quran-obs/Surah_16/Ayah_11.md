@@ -112,11 +112,5 @@ After that, when came the description of the night and day, the sun, the moon an
 
 With it He produces for you various crops, olives, palm trees, grapevines, and every type of fruit. Surely in this is a sign for those who reflect.
 
-## AI Tafsir
-
-**What this ayah teaches:** Anyone having some reason in him would understand, because there was obviously some human input in the growth of vegetation and trees, but, in this case, there is none.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, while these blessings are being mentioned, they are tied up with a notice to pay attention, think, understand and accept advice.
 ## Personal Reflections
-
 

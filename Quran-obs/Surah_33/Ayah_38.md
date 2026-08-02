@@ -126,11 +126,5 @@ The opening sentence of verse 38: سُنَّةَ اللَّـهِ فِي الّ�
 
 There is no blame on the Prophet for doing what Allah has ordained for him. That has been the way of Allah with those prophets who had gone before. And Allah’s command has been firmly decreed.
 
-## AI Tafsir
-
-**What this ayah teaches:** It has continued to be so in the case of earlier prophets as well, that is, under the dictate of beneficial religious considerations, permission was given for multiple marriages.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

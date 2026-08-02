@@ -119,11 +119,5 @@ Commentary
 
 And the decree of torment will be justified against them for their wrongdoing, leaving them speechless.
 
-## AI Tafsir
-
-**What this ayah teaches:** Gathering the Wrongdoers on the Day of Resurrection Allah tells us about the Day of Resurrection when the wrongdoers who disbelieved in the signs and Messengers of Allah will be gathered before Allah, so that He will ask them about what they did in this world, rebuking, scolding and belittling them.
-
-**Classical tafsir:** Ibn Kathir notes: Commentary (and they will be kept under control - 27:83), The word used here is derived from Waz', which means to stop.
 ## Personal Reflections
-
 

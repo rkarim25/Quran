@@ -130,15 +130,5 @@ Injunctions and related considerations
 
 When told, "Trust as other people trust," they reply, "Shall we trust as the foolish trust?" In reality, they are the foolish — but they do not know.
 
-## AI Tafsir
-
-**Essence** Those who call the believers fools are themselves the fools.
-
-**What it teaches** Called to believe as "the people" believed, the hypocrites scoffed, "Shall we believe as the sufaha' — the fools — believe?" The safih is the simple-minded one, ignorant of what benefits and harms. Allah turns the word back upon them: it is they who are the fools, "but they do not know" — an ignorance so complete it cannot see itself.
-
-**The scholars** Ibn Kathir — citing Abu Al-'Aliyah, and As-Suddi in his Tafsir with a chain to Ibn 'Abbas and Ibn Mas'ud — says "the fools" they meant were the Companions of the Messenger of Allah ﷺ; being unaware of one's own deviation is "a severer case of blindness" than knowing error. Maarif ul Quran adds that, by the consensus of the commentators, al-nas here means the Companions: their Iman is the touchstone, and whatever departs from their faith and practice, however pleasing in its looks, is not valid in the Shari'ah.
-
-**Reflection** Measure your faith against the faith of the Companions, not the verdict of those who mock it.
 ## Personal Reflections
-
 

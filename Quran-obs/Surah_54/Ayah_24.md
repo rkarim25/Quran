@@ -138,13 +138,5 @@ The forthcoming verses address the people of the time of the Prophet Muhammad �
 
 saying: Shall we follow a single man from among us? We would then be lost and mad.
 
-## AI Tafsir
-
-**Context:** رَ‌اوَدُوهُ عَن ضَيْفِهِ (And they had even tried to tempt him against his guests...54:37). The word murawadah signifies to entice someone to satisfy one's lust.
-
-**What this ayah teaches:** First it has appeared in verse 24 in connection with the people of Thamud where it is their own word, and means 'madness or insanity'.
-
-**Classical tafsir:** Ibn Kathir notes: As-Suddi said that they became like the dry grass in the desert when it becomes burned and the wind scatters it all about. First it has appeared in verse 24 in connection with the people of Thamud where it is their own word, and means 'madness or insanity'.
 ## Personal Reflections
-
 

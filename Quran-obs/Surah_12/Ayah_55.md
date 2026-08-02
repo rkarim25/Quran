@@ -137,13 +137,5 @@ A Functional Statement of Some Personal Ability is Not Included under Self-Sanct
 
 Joseph proposed, “Put me in charge of the store-houses of the land, for I am truly reliable and adept.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Then, he said to her: Is it not better than what you had wished?
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, he himself made a request for that office of responsibility - though, he had to support his request by pointing out to some areas of his expertise, as a matter of necessity, of course, so that the king be-comes satisfied and entrusts the office with him.
-
-**From the Sunnah:** Similarly, according to another Hadith of Sahih Muslim, someone requested the Holy Prophet ﷺ that he be appointed to a certain office. (Sahih Muslim) According to the respected Tafsir authority, Mujahid, the reason for this was that the king of Egypt had become a believer, a Muslim, at that time. (Sahih Muslim)
 ## Personal Reflections
-
 

@@ -252,13 +252,5 @@ So, whatever good there is in gratitude, that is for you alone. There-fore, when
 
 Those who rejected the truth threatened their messengers: "We will expel you from our land unless you return to our faith." Their Rabb revealed to them: "We will destroy the wrongdoers,
 
-## AI Tafsir
-
-**Context:** And those who disbelieved, said to their Messengers: "Surely, we shall drive you out of our land, or you shall return to our religion." So their Lord revealed to them: "Truly, We shall destroy the wrongdoers.
-
-**What this ayah teaches:** Then thereafter, verily, their return is to the flaming fire of Hell.)[37:64-68] Allah states that they will either be eating from the Zaqqum, drinking the Hamim, or being tormented in the Fire, again and again; we seek refuge with Allah from all of this.
-
-**Classical tafsir:** Ibn Kathir notes: And other (torments) of similar kind all together!)[38:57-58] Mujahid and 'Ikrimah said that this festering water is made of puss and blood.
 ## Personal Reflections
-
 

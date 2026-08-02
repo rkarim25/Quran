@@ -93,11 +93,5 @@ The Pharaoh, out of his obstinacy, did not listen to anything, but demanded sayi
 
 Pharaoh said, “If you have come with a sign, then bring it if what you say is true.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Therefore, he said, 'if you have proof, then produce it for us to see, so that we know if your claim is true.'
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, he said, 'if you have proof, then produce it for us to see, so that we know if your claim is true.'
 ## Personal Reflections
-
 

@@ -127,13 +127,5 @@ After the command to stand firm, it was said: وَلَا تَطْغَوْا is (
 
 So be steadfast as you were commanded — you and those who turned with you — and do not transgress. He sees what you do.
 
-## AI Tafsir
-
-**Context:** Sayyidna ` Abdullah ibn ` Abbas ؓ ، said that no verse revealed to the Holy Prophet ﷺ in the entire Qur'an was harder and more trying than this (112).
-
-**What this ayah teaches:** So stand (ask Allah to make) you firm and straight as you are commanded and those who turn in repentance with you, and transgress not. Perhaps, it was because the verse did not ask him to stand firm in an absolute sense, instead, asked him that this act of standing firm should be as commanded by Allah.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, the Holy Prophet ﷺ has very emphatically prohibited his community from indulging in self-innovated ways in established religion (bid'at and muhdathat) and has declared that to be acute error and straying.
 ## Personal Reflections
-
 

@@ -110,13 +110,5 @@ Another interpretation given to these words by Sayyidna Said ibn Jubair ؓ is th
 
 Allah will respond, “It is so, just as Our revelations came to you and you neglected them, so Today you are neglected.”
 
-## AI Tafsir
-
-**Context:** (But whosoever turns away from My Reminder,) This means, "Whoever opposes my command and what I have revealed to My Messenger, then he has turned away from it, neglected it and taken his guidance from other than it."
-
-**What this ayah teaches:** The answer to the question posed above is that the punishment which the evil-doers will suffer in this world refers to the chastisement which awaits them in the grave where their existence will be made miserable and beyond endurance.
-
-**Classical tafsir:** Ibn Kathir notes: The Descent of Adam to the Earth and the Promise of Good for the Guided and Evil for the Transgressors Allah says to Adam, Hawwa' and Iblis, "Get down from here, all of you." This means each of you should get out of Paradise.
 ## Personal Reflections
-
 

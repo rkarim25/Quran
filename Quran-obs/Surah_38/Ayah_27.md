@@ -115,11 +115,5 @@ Now, from here it is in an imperceptible manner that the Hereafter has been posi
 
 We did not create the heavens and the earth and everything between without purpose, as those who reject the truth assume. Woe to them because of the Fire.
 
-## AI Tafsir
-
-**What this ayah teaches:** And We created not the heaven and the earth and all that is between them without purpose!
-
-**Classical tafsir:** Ibn Kathir notes: Then Allah explains that because of His justice and wisdom, He does not treat the believers and the those who reject the truth equally.
 ## Personal Reflections
-
 

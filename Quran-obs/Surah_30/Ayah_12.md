@@ -64,11 +64,5 @@ Allah originates the creation, then He will repeat it, then to Him you will be r
 
 On the Day the Hour arrives, the wicked will be struck dumb.
 
-## AI Tafsir
-
-**What this ayah teaches:** It means that the Makkans live in a land where there is neither any cultivation and industry nor any tall and beautiful buildings, but for the sake of trade they do travel to Syria and Yemen.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

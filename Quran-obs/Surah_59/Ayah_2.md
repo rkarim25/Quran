@@ -360,11 +360,5 @@ The Two Sahihs also recorded from Ibn 'Umar that the Messenger of Allah ﷺ burn
 
 He expelled the those who reject the truth among the People of the Book from their homes at their first banishment. You did not expect them to leave; they thought their fortresses would protect them from Allah. But Allah's decree reached them from where they did not expect, and He cast terror into their hearts so they destroyed their houses with their own hands and the hands of the believers. Take a lesson from this, people of insight.
 
-## AI Tafsir
-
-**Context:** Ibn 'Abbas used to call this chapter, 'Surah Bani An-Nadir.' Sa'id bin Mansur recorded that Sa'id bin Jubayr said, "I asked Ibn 'Abbas about Surat Al-Hashr and he said, 'It was revealed about Bani An-Nadir.'" Al-Bukhari…
-
-**What this ayah teaches:** He it is Who drove out the those who reject the truth among the People of the Scripture from their homes at the first gathering. But Allah reached them from a place whereof they expected it not, and He cast terror into their hearts so that they demolished their own dwellings with their own hands and the hands of the believers.
 ## Personal Reflections
-
 

@@ -129,11 +129,5 @@ In verse 19, it was said: يَعْلَمُ خَائِنَةَ الْأَعْيُ
 
 Allah knows the sly glances of the eyes and whatever the hearts conceal.
 
-## AI Tafsir
-
-**What this ayah teaches:** They will pay attention to the fact that He can see them, for He knows the fraud of the eyes, even if the eyes look innocent, and He knows what the hearts conceal. There will be no friend, nor an intercessor for the wrongdoers, who could be given heed to (18)Allah knows the fraud of the eyes, and all that the breasts conceal (19)And Allah judges with truth, while those to whom they invoke besides…
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

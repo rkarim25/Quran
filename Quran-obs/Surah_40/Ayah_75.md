@@ -142,11 +142,5 @@ and because you used to show arrogance.) has been derived from: فَرَح (fara
 
 They will be told: "This punishment is for being prideful on earth unjustly and for acting arrogantly.
 
-## AI Tafsir
-
-**What this ayah teaches:** As for marah, it is a cause of punishment absolutely, without any restriction.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, no qualifying words were added to it.
 ## Personal Reflections
-
 

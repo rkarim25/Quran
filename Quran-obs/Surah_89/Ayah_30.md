@@ -144,15 +144,5 @@ Ends here
 
 And enter My Paradise.
 
-## AI Tafsir
-
-**Context:** He said, "This Ayah was revealed while Abu Bakr was sitting (with the Prophet ﷺ). So he said, 'O Messenger of Allah! There is nothing better than this!' The Prophet ﷺ then replied,
-
-**What this ayah teaches:** In this verse, Paradise is attributed to Allah, and Allah said 'My Paradise'.
-
-**Classical tafsir:** Ibn Kathir notes: This is a great honour, and indicates that Paradise will not only have all sorts of eternal comfort, but above all it is a place of Allah's pleasure.
-
-**From the Sunnah:** This is similar to what Imam Ahmad bin Hanbal recorded from Muhammad bin Abi 'Amirah, who was one of the Companions of the Messenger of Allah ﷺ. (Musnad Ahmad) Paradise' [ to the end of narration. (Sunan Ibn Majah, Sunan an-Nasa'i)
 ## Personal Reflections
-
 

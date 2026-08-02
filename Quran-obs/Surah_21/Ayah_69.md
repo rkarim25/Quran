@@ -78,11 +78,5 @@ According to some historic versions he remained in the fire for seven days and u
 
 We ordered, “O fire! Be cool and safe for Abraham!”
 
-## AI Tafsir
-
-**What this ayah teaches:** Be you cool and safety for Ibrahim! According to some historic versions he remained in the fire for seven days and used to recall that those seven days were the most comfortable time of his entire life.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

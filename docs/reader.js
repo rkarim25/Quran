@@ -335,7 +335,7 @@ function route() {
   return { view: "surah", surah: +parts[0], ayah: +parts[1], study };
 }
 
-const DATA_VERSION = "26";
+const DATA_VERSION = "27";
 
 async function loadIndex() {
   if (!cache.index) cache.index = await (await fetch(`data/index.json?v=${DATA_VERSION}`)).json();
@@ -647,15 +647,35 @@ function revelationLabel(place) {
   return place === "makkah" ? "Makkah" : "Madinah";
 }
 
-function md(text) {
-  if (!text) return "";
-  return esc(text)
+// Inline formatting for one block of text (escaped first, so no HTML injection).
+function mdInline(chunk) {
+  return esc(chunk)
     .replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>")
     .replace(/\*(.+?)\*/g, "<em>$1</em>")
-    .replace(/^&gt; (.+)$/gm, "<blockquote>$1</blockquote>")
-    .replace(/\n\n+/g, "</p><p>")
-    .replace(/^/, "<p>")
-    .replace(/$/, "</p>")
+    .replace(/^&gt; (.+)$/gm, "<blockquote>$1</blockquote>");
+}
+
+function md(text) {
+  if (!text) return "";
+  // Blocks are separated by blank lines. Headings are pulled out so they render
+  // as real headings rather than literal "## " inside a paragraph — passage
+  // tafsir leans on them to break up a long passage on a phone.
+  return String(text)
+    .split(/\n{2,}/)
+    .map((block) => {
+      let b = block.trim();
+      if (!b) return "";
+      let out = "";
+      const h = b.match(/^(#{1,4})\s+(.*)$/m);
+      if (h && b.startsWith(h[0])) {
+        const level = Math.min(Math.max(h[1].length, 2), 4); // never emit <h1>
+        out += `<h${level}>${mdInline(h[2].trim())}</h${level}>`;
+        b = b.slice(h[0].length).trim();
+        if (!b) return out;
+      }
+      return out + `<p>${mdInline(b)}</p>`;
+    })
+    .join("")
     .replace(/<p><\/p>/g, "");
 }
 

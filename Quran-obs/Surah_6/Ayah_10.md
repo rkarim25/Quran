@@ -148,11 +148,5 @@ In short, the Holy Prophet ﷺ has been assured that his mission is to convey th
 
 Messengers had already been ridiculed before you, but those who mocked them were overtaken by what they used to ridicule.
 
-## AI Tafsir
-
-**What this ayah teaches:** In this case, the angel (in the shape of a human) will also cause confusion for them, just as the confusion they caused themselves over accepting humans as Messengers! and We would have certainly caused them confusion in a matter which they have already covered with confusion.) meaning, We would confuse them over their confusion.
-
-**Classical tafsir:** Ibn Kathir notes: In other words, it means ` If We do send the miracle they demand, that is, send an angel, then, these people who are not the kind who would accept truth will still act contrary and hostile even after having seen the miracle, then, the Divine command to have them destroyed would s…
 ## Personal Reflections
-
 

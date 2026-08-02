@@ -103,11 +103,5 @@ Before we move to the next verse, let us clarify the first sentence of verse 12:
 
 And He has subjected for your benefit the day and the night, the sun and the moon. And the stars have been subjected by His command. Surely in this are signs for those who understand.
 
-## AI Tafsir
-
-**What this ayah teaches:** Surely, His is the creation and commandment.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

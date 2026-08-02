@@ -166,13 +166,5 @@ Based on these narrations of Hadith, the verse can be taken in its real sense, t
 
 Only the attentive will respond. As for the dead, Allah will raise them up, then to Him they will be returned.
 
-## AI Tafsir
-
-**What this ayah teaches:** And had Allah willed, He could have gathered them together upon true guidance, so be not you one of the ignorant (35)It is only those who listen, that will respond, but as for the dead, Allah will raise them up, then to Him they will be returned .
-
-**Classical tafsir:** Ibn Kathir notes: Muhammad bin Ishaq mentioned that Az-Zuhri said that Abu Jahl, Abu Sufyan Sakhr bin Harb and Al-Akhnas bin Shurayq once came to listen to the Prophet ﷺ reciting the Qur'an at night, but these three men were not aware of the presence of each other.
-
-**From the Sunnah:** Allah comforts the Prophet ﷺ in his grief over his people's denial and defiance of him, Abu Jahl, Abu Sufyan Sakhr bin Harb and Al-Akhnas bin Shurayq once came to listen to the Prophet ﷺ reciting the Qur'an at night, but these three men were not aware of the presence of each other.
 ## Personal Reflections
-
 

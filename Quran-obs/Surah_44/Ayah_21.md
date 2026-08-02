@@ -182,13 +182,5 @@ Commentary
 
 But if you do not believe me, then let me be."
 
-## AI Tafsir
-
-**Context:** And indeed We revealed to Mu0sa0 (saying): Travel by night with My servants and strike a dry path for them in the sea, fearing neither to be overtaken nor being afraid (of drowning in the sea). (20:77)
-
-**What this ayah teaches:** Destroy their wealth, and harden their hearts, so that they will not believe until they see the painful torment." Allah said: "Verily, the invocation of you both is accepted. So they did not deserve to be given a respite, because of their disbelief, sin, transgression and stubbornness.
-
-**Classical tafsir:** Ibn Kathir notes: This refers to the clear signs and definitive evidence with which Allah sent him.
 ## Personal Reflections
-
 

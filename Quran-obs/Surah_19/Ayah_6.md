@@ -183,15 +183,5 @@ It is quite obvious that the Holy Prophet ﷺ did not inherit any material wealt
 
 who will inherit prophethood from me and from the family of Jacob, and make him, my Rabb, pleasing to You."
 
-## AI Tafsir
-
-**Context:** The reason for his fear was that he was afraid that the generation that would succeed him would be a wicked generation.
-
-**What this ayah teaches:** Therefore, if this was not referring to a specific type of inheritance, then Allah would not have mentioned it.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, if this was not referring to a specific type of inheritance, then Allah would not have mentioned it.
-
-**From the Sunnah:** about Zakariyya] that He was a carpenter who used to eat from what he earned with his own hand through carpentry (Sahih al-Bukhari) All of this is supported and affirmed by what is in the authentic Hadith: (authentic hadith)
 ## Personal Reflections
-
 

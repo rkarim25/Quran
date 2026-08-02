@@ -111,13 +111,5 @@ When Canaan, the son of Sayyidna Nuh (علیہ السلام) did not board the a
 
 Noah called out to his Rabb, saying, “My Rabb! Certainly my son is also of my family, Your promise is surely true, and You are the most just of all judges!”
 
-## AI Tafsir
-
-**What this ayah teaches:** And certainly, Your promise is true, and You are the Most Just of the judges.
-
-**Classical tafsir:** Ibn Kathir notes: Verily, my son is of my family!") This means, "Verily, You promised to save my family and Your promise is the truth that does not fail.
-
-**From the Sunnah:** 'Abdur-Razzaq recorded that Ibn 'Abbas said, "He was the son of Nuh, but he opposed him in deeds and intention." 'Ikrimah said in some of the modes of recitation it said here,
 ## Personal Reflections
-
 

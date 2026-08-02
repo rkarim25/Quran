@@ -231,13 +231,5 @@ By mentioning the blessings of Allah on Sayyidna Ibrahim (علیہ السلام)
 
 Likewise, Zachariah, John, Jesus, and Elias, who were all of the righteous.
 
-## AI Tafsir
-
-**Context:** (And indeed it has been revealed to you, as it was to those (Allah's Messengers) before you: "If you join others in worship with Allah, surely your deeds will be in vain.")[39:65]
-
-**What this ayah teaches:** This phenomena also punishment tells us that, though honour and salvation or disgrace and punishment really depend on one's personal deeds, but having a prophet or man of Allah (waliy) among forefathers, or having observing ` Alims of Din and men and women of righteous conduct among children, is also a great blessing as this too brings its benefits.
-
-**Classical tafsir:** Ibn Kathir notes: Certainly, one becomes jubilant and joyous when he becomes a grandfather, because this means that his offspring will continue to exist.
 ## Personal Reflections
-
 

@@ -204,15 +204,5 @@ Ends here
 
 then you will see it with the eye of certainty, not theory.
 
-## AI Tafsir
-
-**Context:** In Sahih Al-Bukhari, it is recorded in the Book of Ar-Riqaq (Narrations that soften the Heart) from Anas bin Malik, who reported that Ubayy bin Ka'b said, "We used to think that this was a part of the Qur'an until the Ay…
-
-**What this ayah teaches:** Therefore, whoever does not maintain the right that is obligatory upon him, then he is unjust.
-
-**Classical tafsir:** Ibn Kathir notes: Verily, you shall see the blazing Fire!)(7.
-
-**From the Sunnah:** this Hadith. (Sahih Muslim, Jami' at-Tirmidhi) This Hadith has also been recorded by Muslim, At-Tirmidhi and An-Nasa'i. (Sahih Muslim, Musnad Ahmad)
 ## Personal Reflections
-
 

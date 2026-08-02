@@ -347,13 +347,5 @@ Similar is the case of the Rights of the Servants of Allah (Huquq al-'lbad). If 
 
 When those who have iman in Our revelations come to you, say, “Peace be upon you! Your Rabb has taken upon Himself to be Merciful. Whoever among you commits evil ignorantly then repents afterwards and mends their ways, then Allah is truly All-Forgiving, the Rahim.”
 
-## AI Tafsir
-
-**Context:** Say: "I don't tell you that with me are the treasures of Allah, nor (that) I know the Unseen; nor do I tell you that I am an angel.
-
-**What this ayah teaches:** You are accountable for them in nothing, and they are accountable for you in nothing, that you may turn them away, and thus become of the wrongdoers (52)Thus We have tried some of them with others, that they might say: "Is it these (poor believers) that Allah has favored from amongst us?" Does not Allah know best those who are grateful (53)When those who believe in Our Ayat come to you, say: "Sala…
-
-**Classical tafsir:** Ibn Kathir notes: But, this is not true - because Jahalah (ignorance) here means acting ignorantly which refers to the act of ignorance, that is, one ends up doing something as would have been done by one who is ignorant and unaware of the outcome of his or her act.
 ## Personal Reflections
-
 

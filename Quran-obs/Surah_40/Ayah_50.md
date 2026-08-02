@@ -137,13 +137,5 @@ This verse is a proof of punishment in graves. Uninterrupted reports of ahadith 
 
 The keepers will reply: "Did your messengers not constantly come to you with clear proofs?" They will say, "Yes they did." The keepers will say: "Then pray! Though the prayer of those who reject the truth is only in vain."
 
-## AI Tafsir
-
-**What this ayah teaches:** And the invocation of the those who reject the truth is nothing but in vain!
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** Uninterrupted reports of ahadith and the consensus (ijma) of the Muslim Ummah confirm it. (Sahih Muslim)
 ## Personal Reflections
-
 

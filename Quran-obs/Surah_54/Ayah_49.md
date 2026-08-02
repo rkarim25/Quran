@@ -216,15 +216,5 @@ Ends here
 
 We created everything according to precise measure.
 
-## AI Tafsir
-
-**Context:** Imam Ahmad recorded that Abu Hurayrah said, "The idolators of the Quraysh came to the Messenger of Allah ﷺ arguing with him and discounting the Qadar.
-
-**What this ayah teaches:** In the prepositional phrase bi-qadar, the word qadar literally denotes to 'measure' and to create something with a proper measure and proportion. He created everything with predestined limits before they were created.
-
-**Classical tafsir:** Ibn Kathir notes: In the prepositional phrase bi-qadar, the word qadar literally denotes to 'measure' and to create something with a proper measure and proportion.
-
-**From the Sunnah:** I mentioned this subject in detail in my explanation on the chapter on faith of Sahih Al-Bukhari. (Sahih al-Bukhari) his father said that the Prophet ﷺ recited this Ayah,
 ## Personal Reflections
-
 

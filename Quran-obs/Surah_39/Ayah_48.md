@@ -116,13 +116,5 @@ Someone asked Rabi' Ibn-u1_-Khaitham about the shahadah (martyrdom) of Sayyidna 
 
 And the evil consequences of their deeds will unfold before them, and they will be overwhelmed by what they used to ridicule.
 
-## AI Tafsir
-
-**What this ayah teaches:** Even they themselves used to deceive themselves by thinking that these deeds will become a source of salvation for them in the Hereafter.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** She said, may Allah be pleased with her: 'When the Messenger of Allah ﷺ stood up to pray at night, he would start his prayer with the words: (Sahih Muslim)
 ## Personal Reflections
-
 

@@ -170,13 +170,5 @@ Another basharah (good news) of this world unfolds in the form that Muslims at l
 
 They say, “Allah has offspring.” Glory be to Him! He is the Self-Sufficient. To Him belongs whatever is in the heavens and whatever is on the earth. You have no proof of this! Do you say about Allah what you do not know?
 
-## AI Tafsir
-
-**What this ayah teaches:** His is all that is in the heavens and all that is in the earth.
-
-**Classical tafsir:** Ibn Kathir notes: and then unto Us will be their return, then We shall make them taste the severest torment because they used to disbelieve .
-
-**From the Sunnah:** Another basharah (good news) of this world unfolds in the form that Muslims at large love someone and take him to be good without any personal motive or interest. (Sahih Muslim)
 ## Personal Reflections
-
 

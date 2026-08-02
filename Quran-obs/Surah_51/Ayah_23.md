@@ -178,11 +178,5 @@ When he would talk to one of his friends, Mu'adh used to say: "What I am saying 
 
 Then by the Rabb of heaven and earth—this is as true as the fact that you can speak.
 
-## AI Tafsir
-
-**What this ayah teaches:** Will you not then see (21)And in the heaven is your provision, and that which you are promised (22)Then by the Lord of the heaven and the earth, it is the truth, just as you can speak .
-
-**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas said, "Every night, they would worship Allah, even during a little part of the night." Qatadah narrated that Mutarrif bin 'Abdullah said, "Hardly a night would pass by them that they did not pray to Allah the Exalted and Most Honored, either in the beginning, or the middle of it." Mujahid… As for the Mahrum, Ibn 'Abbas and Mujahid said, "He is the poor person who does not receive a stipen…
 ## Personal Reflections
-
 

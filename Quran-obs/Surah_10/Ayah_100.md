@@ -236,13 +236,5 @@ In this story, as for parts that have been mentioned in the Qur'an, or stand pro
 
 It is not for any soul to believe except by Allah’s leave, and He will bring His wrath upon those who are unmindful.
 
-## AI Tafsir
-
-**What this ayah teaches:** So, will you then compel mankind, until they become believers (99)It is not for any person to believe, except by the leave of Allah, and He will put the Rijs on those who do not reason . So, they said, let that person show himself up so that others do not suffer because of one person.
-
-**Classical tafsir:** Ibn Kathir notes: So, they said, let that person show himself up so that others do not suffer because of one person.
-
-**From the Sunnah:** protection from other sins. (Sahih Muslim) If there were something somewhere even in the Qur'an, and Hadith, seemingly contrary to the established principles of Qur'an, and Sunnah, and the collective Muslim belief in prophets being protected from sins, it would have been necessary to interpret it in a… (Sahih Muslim)
 ## Personal Reflections
-
 

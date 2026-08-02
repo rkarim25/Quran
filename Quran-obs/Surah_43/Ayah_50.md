@@ -69,11 +69,5 @@ Incidents related to Sayyidna Musa (علیہ السلام) have been stated by t
 
 But as soon as We removed the torments from them, they broke their promise.
 
-## AI Tafsir
-
-**What this ayah teaches:** On each occasion, they promised Musa that if the torment was lifted from them, they would believe in him and let the Children of Israel go with him, but on each occasion they went back on their word.
-
-**Classical tafsir:** Ibn Kathir notes: Invoke your Lord for us because of His promise to you.
 ## Personal Reflections
-
 

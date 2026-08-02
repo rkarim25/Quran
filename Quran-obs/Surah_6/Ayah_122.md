@@ -213,13 +213,5 @@ In this similitude, there is yet another hint that light is after all universall
 
 Can those who had been dead, to whom We gave life and a light with which they can walk among people, be compared to those in complete darkness from which they can never emerge? That is how the misdeeds of those who reject the truth have been made appealing to them.
 
-## AI Tafsir
-
-**What this ayah teaches:** The light mentioned here is the Qur'an, according to Ibn 'Abbas, as Al-'Awfi and Ibn Abi Talhah reported from him.
-
-**Classical tafsir:** Ibn Kathir notes: As-Suddi said that the light mentioned here is Islam. It means that the those who reject the truth and deniers of truth who do not accept proofs which are open and clear do so because everyone has a craze of his own which keeps him pleased with himself.
-
-**From the Sunnah:** In Musnad Ahmad, it is recorded that the Prophet ﷺ said; It means that one who was dead earlier, that is, was a those who reject the truth, then, Allah raised him back to life, that is, gave him the taufiq to become a Muslim - and then, He gave him a light, that is, ` Iman or faith, with which he moves about among people. (Sahih Muslim)
 ## Personal Reflections
-
 

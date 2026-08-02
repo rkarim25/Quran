@@ -191,11 +191,5 @@ In conclusion, it can be said that this last verse (98) under study is showing a
 
 And He is the One Who originated you all from a single soul, then assigned you a place to live and another to rest. We have already made the signs clear for people who comprehend.
 
-## AI Tafsir
-
-**What this ayah teaches:** So, "mustawda"' will denote a place where something is placed temporarily for a few days.
-
-**Classical tafsir:** Ibn Kathir notes: This Ayah means, contemplate the ability of the Creator of these fruits, Who brought them into existence after they were dry wood, and they later became grapes and dates; and similar is the case with the various colors, shapes, tastes and fragrance of whatever Allah created.
 ## Personal Reflections
-
 

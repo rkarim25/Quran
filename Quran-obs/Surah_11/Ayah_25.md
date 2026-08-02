@@ -107,11 +107,5 @@ When Sayyidna Nuh علیہ السلام invited his people to believe, they resp
 
 Surely We sent Noah to his people. He said, “Indeed, I am sent to you with a clear warning.
 
-## AI Tafsir
-
-**What this ayah teaches:** No one continues doubtfully pondering the truth (after it is made clear) except one who is ignorant and excessively critical.
-
-**Classical tafsir:** Ibn Kathir notes: For verily, the truth is not to be rejected because of the lowly status of those who follow it.
 ## Personal Reflections
-
 

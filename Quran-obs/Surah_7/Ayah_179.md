@@ -244,11 +244,5 @@ The people of ` Ad and Thamud being allured by satanic influences involved thems
 
 Indeed, We have destined many jinn and humans for Hell. They have hearts they do not understand with, eyes they do not see with, and ears they do not hear with. They are like cattle. In fact, they are even less guided! Such are heedless.
 
-## AI Tafsir
-
-**What this ayah teaches:** As a substance of the verse we are given to understand that ultimate end or destiny is a divine secret, not known to anyone, but there are definite signs which help us to make a surmise.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, those people who obey Allah are more honorable than some angels, while cattle are better than those who disbelieve in Him.
 ## Personal Reflections
-
 

@@ -112,13 +112,5 @@ As to what is the Throne of the Rahman, what is its reality, its form and shape,
 
 with the angels on its sides. On that Day eight mighty angels will bear the Throne of your Lord above them.
 
-## AI Tafsir
-
-**What this ayah teaches:** As to what is the Throne of the Rahman, what is its reality, its form and shape, how the angels carry it - are transcendental matters and are all beyond human intellect.
-
-**Classical tafsir:** Ibn Kathir notes: It is emphasized here that it is one blowing, because the command of Allah cannot be opposed or prevented, and it does not need to be repeated or stressed.
-
-**From the Sunnah:** Between the lobe of his ear to his shoulder is the distance of seven hundred years (of travelling).) This is the wording recorded in Abu Dawud. (Sunan Abi Dawud) Some of them will receive the records in their right hands and some will receive them in their left hands.) Ibn Majah and At-Tirmidhi both recorded this Hadith. (Jami' at-Tirmidhi, Sunan Ibn Majah)
 ## Personal Reflections
-
 

@@ -169,13 +169,5 @@ Finally, if we consider the statement in verse 25, that is: أُولَـٰئِك
 
 Allah gives abundant or limited provision to whomever He wills. Those who reject the truth grow proud of the dunya—this temporary worldly life. But compared to the Akhirah, the life of this world is only fleeting enjoyment.
 
-## AI Tafsir
-
-**What this ayah teaches:** Allah increases the provision for whom He wills, and straitens (it for whom He wills), and they rejoice in the life of the world, whereas the life of this world compared to the Hereafter is but a brief passing enjoyment .
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, when a human being deviates from any injunction made binding by Allah or deviates from the command given by His Messenger, he or she commits a breach of trust by breaking this pledge to have faith.
-
-**From the Sunnah:** Imam Muslim also collected this Hadith in his Sahih. (Sahih Muslim) It appears in a IIadith of Sahih Muslim that the Holy Prophet ﷺ said: 'Most commendable is the act of maintaining relations when a person maintains the same relations with the friends of his dead father, as they were during his lifetime. (Sahih Muslim)
 ## Personal Reflections
-
 

@@ -215,15 +215,5 @@ On the basis of verse 48, the Mu'tazilah and some other groups of a more recent 
 
 Guard yourselves against the Day when no soul will avail another, no intercession be accepted, no ransom taken, and no help given.
 
-## AI Tafsir
-
-**Essence** Taqwa of the Day of Resurrection — every soul stands alone before its Lord; every worldly refuge fails.
-
-**What it teaches** Ittaqu — guard yourselves — against a Day when no soul pays another's dues, no 'adl (ransom) is taken — not the earth's fill of gold (3:91) — no patron rises to help, and no shafa'ah is accepted for those without iman.
-
-**The scholars** Ibn Kathir: neither father nor son avails the other (31:33); lineage and masters profit nothing for one who rejected His Messenger ﷺ. Ibn Jarir: judgment that Day belongs to the Most Great, the Most Just. Maarif ul Quran (Bayan al-Qur'an): the verse denies intercession only to those without iman — answering the Mu'tazilah, described there as denying all intercession for Muslims.
-
-**Reflection** Stand before Allah in obedience now, so you need not stand helpless and alone then.
 ## Personal Reflections
-
 

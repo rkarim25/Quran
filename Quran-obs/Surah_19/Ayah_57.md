@@ -62,13 +62,5 @@ On the other hand Nabi is the one who is the bearer of Wahy (Allah's message) re
 
 We elevated him to an honourable station.
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, he was a man of truth, (and) a Prophet (56)And We raised him to a high station . But in such situations where the two words appear separately one against the other, then having regard to the relative position of the two words in the verse the term Nabi will denote someone who is following the religious code brought by someone else.
-
-**Classical tafsir:** Ibn Kathir notes: But in such situations where the two words appear separately one against the other, then having regard to the relative position of the two words in the verse the term Nabi will denote someone who is following the religious code brought by someone else.
-
-**From the Sunnah:** It has previously been mentioned that in the Sahih it is recorded that the Messenger of Allah ﷺ passed by Idris on the night of the Isra (Night Journey) and he (Idris) was in the fourth heaven.
 ## Personal Reflections
-
 

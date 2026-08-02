@@ -148,13 +148,5 @@ In other words, it is said here that those who obey the commands of Allah are th
 
 Whoever allies themselves with Allah, His Messenger, and fellow those who have iman, then it is certainly Allah’s party that will prevail.
 
-## AI Tafsir
-
-**What this ayah teaches:** And those who are with him are severe against those who reject the truth, and merciful among themselves.)[48:29] The Prophet ﷺ is described as the smiling fighter, smiling to his allies and fighting his enemies.
-
-**Classical tafsir:** Ibn Kathir notes: Threatening to Replace the Believers With Another People if They Revert from Islam Allah emphasizes His mighty ability and states that whoever reverts from supporting His religion and establishing His Law, then Allah will replace them with whomever is better, mightier and more ri…
-
-**From the Sunnah:** The Prophet ﷺ is described as the smiling fighter, smiling to his allies and fighting his enemies.
 ## Personal Reflections
-
 

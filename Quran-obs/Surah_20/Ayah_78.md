@@ -112,13 +112,5 @@ When the Pharaoh learned that the Bani Isra'il had taken flight, he assembled a 
 
 Then Pharaoh pursued them with his soldiers—but how overwhelming were the waters that submerged them!
 
-## AI Tafsir
-
-**Context:** And indeed We revealed to Musa: "Travel by night with My servants and strike a dry path for them in the sea, fearing neither to be overtaken nor being afraid.
-
-**What this ayah teaches:** The Pharaoh who saw all this was frightened but he urged his men on by declaring that the dry paths were formed because the river stopped flowing on account of the awe which it felt in his presence.
-
-**Classical tafsir:** Ibn Kathir notes: The Pharaoh who saw all this was frightened but he urged his men on by declaring that the dry paths were formed because the river stopped flowing on account of the awe which it felt in his presence.
 ## Personal Reflections
-
 

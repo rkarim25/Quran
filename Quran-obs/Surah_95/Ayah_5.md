@@ -114,13 +114,5 @@ Then Allah says,
 
 Then We return him to the lowest of the low—
 
-## AI Tafsir
-
-**What this ayah teaches:** This is why He swore by a noble place, then by a nobler place, and then by a place that is the nobler than both of them.
-
-**Classical tafsir:** Ibn Kathir notes: In short, the phrase 'the lowest of the low' refers to bodily condition.
-
-**From the Sunnah:** Malik and Shu'bah narrated from 'Adi bin Thabit, who narrated that Al-Bara' bin 'Azib said, "The Prophet ﷺ used to recite in one of his Rak'ahs while traveling 'At-Tin waz-Zaytun' (Surat At-Tin), and I have never heard anyone with a nicer voice or recitation t…
 ## Personal Reflections
-
 

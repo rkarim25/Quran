@@ -127,11 +127,5 @@ Allah the Exalted said,
 
 and He overturned the overturned cities,
 
-## AI Tafsir
-
-**What this ayah teaches:** Allah turned their cities upside down over them and sent on them stones of Sijjil. 53:53) The word Mu'tafikah literally means mu'talifah (joined together).
-
-**Classical tafsir:** Ibn Kathir notes: 53:53) The word Mu'tafikah literally means mu'talifah (joined together).
 ## Personal Reflections
-
 

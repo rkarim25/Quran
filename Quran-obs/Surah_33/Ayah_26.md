@@ -173,13 +173,5 @@ In the last verse (27), good news of future victories has been given. Gone is th
 
 And He brought down those from the People of the Book who supported the enemy alliance from their own strongholds, and cast horror into their hearts. You mu'mins killed some, and took others captive.
 
-## AI Tafsir
-
-**What this ayah teaches:** And those of the People of the Scripture who backed them, Allah brought them down from their forts and cast terror into their hearts; a group you killed, and a group you made captives (26)And He caused you to inherit their lands, and their houses, and their riches, and a land which you had not trodden.
-
-**Classical tafsir:** Ibn Kathir notes: And any act or omission on his part that is proved to have been done as a preferable conduct (istihbab) and not as an obligatory one, should be followed by us too as a commendable (mustahab) conduct and not as a necessary obligation This, in other words, means that its contravent…
-
-**From the Sunnah:** We have already noted that when the Confederates came and camped outside Al-Madinah, Banu Qurayzah broke the covenant that existed between them and the Messenger of Allah ﷺ.
 ## Personal Reflections
-
 

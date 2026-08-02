@@ -207,15 +207,5 @@ Secondly, and primarily too, the purpose of saying, قُلْ هُوَ مِنْ �
 
 Why is it when you suffered casualties —although you had made your enemy suffer twice as much —you protested, “How could this be?”? Say, “It is because of your disobedience.” Surely Allah is Most Capable of everything.
 
-## AI Tafsir
-
-**Context:** Mujahid said that Jabir bin 'Abdullah said, "This Ayah [3:168] was revealed about 'Abdullah bin Ubayy bin Salul (the chief hypocrite)."
-
-**What this ayah teaches:** The purpose behind this reminder is that Muslims should think positively in their present state of depression in view of the fact that they had already won a battle, inflicting a loss on the enemy twice as much as they had themselves suffered at their hands.
-
-**Classical tafsir:** Ibn Kathir notes: Mujahid said that Jabir bin 'Abdullah said, "This Ayah [3:168] was revealed about 'Abdullah bin Ubayy bin Salul (the chief hypocrite)."
-
-**From the Sunnah:** Thus, they suffered the loss of seventy fatalities and the Companions of the Messenger of Allah ﷺ gave flight and abandoned him.
 ## Personal Reflections
-
 

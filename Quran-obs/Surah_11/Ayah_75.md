@@ -71,11 +71,5 @@ Allah Ta` ala has, in His great design, made this world of ours an open gallery 
 
 Truly, Abraham was forbearing, tender-hearted, and ever turning to his Rabb.
 
-## AI Tafsir
-
-**What this ayah teaches:** Indeed, the commandment of your Lord has gone forth.) This means the decree was settled concerning them and the Word was already given that they should be destroyed. Therefore, the harsh punishment that descended on these people had never hit known practitioners of common acts of immodesty.
-
-**Classical tafsir:** Ibn Kathir notes: Indeed, the commandment of your Lord has gone forth.) This means the decree was settled concerning them and the Word was already given that they should be destroyed.
 ## Personal Reflections
-
 

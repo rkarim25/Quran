@@ -106,11 +106,5 @@ The story of Sayyidna Musa (علیہ السلام) is related extensively in the
 
 These are the verses of the clear Book.
 
-## AI Tafsir
-
-**What this ayah teaches:** So Fir'awn took precautions against that happening, by ordering that all boys born to the Children of Israel should be killed, but this precaution did not protect him against the divine decree, because when the term of Allah comes, it cannot be delayed, and for each and every matter there is a decree from Allah.
-
-**Classical tafsir:** Ibn Kathir notes: So Fir'awn took precautions against that happening, by ordering that all boys born to the Children of Israel should be killed, but this precaution did not protect him against the divine decree, because when the term of Allah comes, it cannot be delayed, and for each and every mat…
 ## Personal Reflections
-
 

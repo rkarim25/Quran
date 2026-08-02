@@ -218,13 +218,5 @@ After having heard these verses of poetry, the Holy Prophet ﷺ held the son by 
 
 And be humble with them out of mercy, and pray, “My Rabb! Be merciful to them as they raised me when I was young.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Ruling If parents are Muslims, making a prayer for mercy in their favor is obvious.
-
-**Classical tafsir:** Ibn Kathir notes: The word Qada [normally having the meaning of decree] here means "commanded".
-
-**From the Sunnah:** Paradise is at her feet. (Musnad Ahmad, Sunan Ibn Majah) If parents are Muslims, making a prayer for mercy in their favor is obvious.
 ## Personal Reflections
-
 

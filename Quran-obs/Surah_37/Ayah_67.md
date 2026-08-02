@@ -136,11 +136,5 @@ The sense of the rest of the verses is clear from their translation.
 
 Then on top of that they will be given a blend of boiling drink.
 
-## AI Tafsir
-
-**What this ayah teaches:** Then thirst will be sent upon them, so they will ask to be given something to drink, and they will be given water like boiling oil that has been heated to the ultimate degree.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, in Urdu and Hindi too, it is called 'nagphan' (hood of the serpent) for this very reason.
 ## Personal Reflections
-
 

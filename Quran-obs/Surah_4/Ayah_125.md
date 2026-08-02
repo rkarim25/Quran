@@ -263,11 +263,5 @@ At the end of the verse (125), an example has been cited, the example of sinceri
 
 And who is better in faith than those who submit themselves to Allah, do good, and follow the Way of Abraham, the upright? Allah chose Abraham as a close friend.
 
-## AI Tafsir
-
-**What this ayah teaches:** It will not be in accordance with your desires, nor those of the People of the Scripture, whosoever works evil, will have the recompense thereof, and he will not find any protector or helper besides Allah (123)And whoever does righteous good deeds, male or female, and is a believer, such will enter Paradise and not the least injustice, even to the size of a Naqir, will be done…
-
-**Classical tafsir:** Ibn Kathir notes: Firstly, 'surrenders his or her self to Allah.' In other words, acts for the good pleasure of Allah with all sincerity at one's command without ever contaminating one's deeds with hypocritical or materialistic motives.
 ## Personal Reflections
-
 

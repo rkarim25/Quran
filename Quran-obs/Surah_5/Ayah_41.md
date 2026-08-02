@@ -574,15 +574,5 @@ Now as we move on to other aspects of verse 41, we see that it be-gins with word
 
 O Messenger! Do not grieve for those who race to reject the truth—those who say, “We believe” with their tongues, but their hearts are in rejection of the truth. Nor those among the Jews who eagerly listen to lies, attentive to those who are too arrogant to come to you. They distort the Scripture, taking rulings out of context, then say, “If this is the ruling you get, accept it. If not, beware!” Whoever Allah allows to be deluded, you can never be of any help to them against Allah. It is not Allah’s Will to purify their hearts. For them is disgrace in this dunya, and they will suffer a tremendous punishment in the Akhirah.
 
-## AI Tafsir
-
-**Context:** These honorable Ayat were revealed about those who rush into disbelief, deviating from the obedience of Allah, His Messenger, prefering their opinions and lusts to what Allah has legislated, It was reported that this par…
-
-**What this ayah teaches:** He asked, ` What do you think about him?' They said, ` Of the learned people among Jews, there is no scholar greater than him on this earth.' He said, ` Call him in.' So, he came.
-
-**Classical tafsir:** Ibn Kathir notes: Al-'Awfi and 'Ali bin Abi Talhah reported that Ibn 'Abbas said that these Ayat were revealed about the two Jews who committed adultery, and we mentioned the Hadiths about this story before.
-
-**From the Sunnah:** It is the verse about stoning.' The Messenger of Allah ﷺ decided that the adulterers be stoned to death and his command was carried out.
 ## Personal Reflections
-
 

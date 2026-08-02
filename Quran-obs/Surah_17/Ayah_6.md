@@ -176,13 +176,5 @@ The outcome of the events mentioned above is that Allah Ta’ ala had decreed th
 
 Then after your repentance We would give you the upper hand over them and aid you with wealth and offspring, causing you to outnumber them.
 
-## AI Tafsir
-
-**Context:** Allah tells us that He made a declaration to the Children of Israel in the Scripture, meaning that He had already told them in the Book which He revealed to them, that they would cause mischief on the earth twice, and wo…
-
-**What this ayah teaches:** This wealth is still there, and there it will remain until comes the Mahdi who would bring these back to Baytul-maqdis on one hundred and seventy thousand boats and it will be at this place that Allah Ta’ ala will assemble everyone, former and later.
-
-**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas said, "Hasir here means a jail." Mujahid said, "They will be detained in it." Others said likewise.
 ## Personal Reflections
-
 

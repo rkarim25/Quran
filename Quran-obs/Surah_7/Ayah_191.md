@@ -169,13 +169,5 @@ It is a pity that, one by one, we are depriving ourselves of all the Islamic man
 
 Do they associate those which cannot create anything, but are in fact created; which cannot help them, or even help themselves?
 
-## AI Tafsir
-
-**What this ayah teaches:** Idols do not create, help, or have Power over Anything Allah admonishes the idolators who worshipped idols, rivals and images besides Him, although these objects were created by Allah, and neither own anything nor can they bring harm or benefit. Therefore, the result is the same, whether calling the idols or shunning them.
-
-**Classical tafsir:** Ibn Kathir notes: The verse refers to the generations coming after them who were ungrateful to Allah and involved themselves in Shirk.
-
-**From the Sunnah:** In addition, we find that most of the parents abbreviate the names of their children into English initials which makes it all the more difficult to distinguish them as Muslims.
 ## Personal Reflections
-
 

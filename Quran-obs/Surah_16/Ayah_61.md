@@ -177,11 +177,5 @@ To sum up, it can be said that taking the birth of a girl to be bad is a detesta
 
 If Allah were to punish people immediately for their wrongdoing, He would not have left a single living being on earth. But He delays them for an appointed term. And when their time arrives, they cannot delay it for a moment, nor could they advance it.
 
-## AI Tafsir
-
-**What this ayah teaches:** And if Allah were to punish (all) mankind for their wrongdoing, He would not leave on it (the earth) a single moving creature, but He defers them to an appointed term; and when their term comes, they can neither delay nor advance it an hour (or a moment)(61)They assign to Allah that which they dislike (for themselves), and their tongues assert the lie that the better things will be theirs.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

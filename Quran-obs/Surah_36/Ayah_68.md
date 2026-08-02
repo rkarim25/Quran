@@ -119,13 +119,5 @@ Not only that this major change in man's frame of existence is a standing manife
 
 And whoever We grant a long life, We reverse them in development. Will they not then understand?
 
-## AI Tafsir
-
-**What this ayah teaches:** And he whom We grant long life – We reverse him in creation. Clearly understanding what is being said becomes difficult because one becomes hard of hearing.
-
-**Classical tafsir:** Ibn Kathir notes: Clearly understanding what is being said becomes difficult because one becomes hard of hearing.
-
-**From the Sunnah:** It was narrated that he ﷺ never memorized a stanza of poetry with the correct meter or rhyme – he would transpose words or memorize it incompletely. In Ad-Dala'il, Al-Bayhaqi recorded that the Messenger of Allah ﷺ said to Al-'Abbas bin Mirdas As-Sulami, may Allah be pleased with him:
 ## Personal Reflections
-
 

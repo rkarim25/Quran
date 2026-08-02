@@ -121,13 +121,5 @@ Those hostile to Allah and the Messenger were warned of and alerted to curse and
 
 Surely Allah condemns those who reject the truth, and has prepared for them a blazing Fire,
 
-## AI Tafsir
-
-**Context:** Here Allah tells His Messenger ﷺ that he cannot know when the Hour will come, and if people ask him about that, He instructs him to refer the matter to Allah, may He be exalted, as Allah says in Surat Al-A'raf, even thou…
-
-**What this ayah teaches:** It has been said so because nobody knows the exact date of the Doomsday, and therefore everyone should be prepared for it as if it were very close. Commentary Those hostile to Allah and the Messenger were warned of and alerted to curse and punishment in the present world and in the Hereafter while many factions among the those who reject the truth, in their own place, simply denied the eventuality of any Qiyama…
-
-**Classical tafsir:** Ibn Kathir notes: It has been said so because nobody knows the exact date of the Doomsday, and therefore everyone should be prepared for it as if it were very close.
 ## Personal Reflections
-
 

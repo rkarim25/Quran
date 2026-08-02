@@ -111,11 +111,5 @@ These miracles also occurred during the battle of Badr (غزوہ بدر) when th
 
 They ask the believers, “When will this threat come to pass if what you say is true?”
 
-## AI Tafsir
-
-**What this ayah teaches:** The word is used in situations when one desires things to happen before their time, and this trait is bad by its very nature.
-
-**Classical tafsir:** Ibn Kathir notes: The word is used in situations when one desires things to happen before their time, and this trait is bad by its very nature.
 ## Personal Reflections
-
 

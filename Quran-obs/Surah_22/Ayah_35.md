@@ -135,13 +135,5 @@ Allah tells us that sacrifice and shedding blood in the Name of Allah has been p
 
 those whose hearts tremble at the dhikr of Allah, who patiently endure whatever may befall them, and who establish salah and donate from what We have provided for them.
 
-## AI Tafsir
-
-**Context:** (And We did not send any Messenger before you but We revealed to him (saying): None has the right to be worshipped but I, so worship Me.)(21:25). Allah says:
-
-**What this ayah teaches:** And give glad tidings to the Mukhbitin (34)Whose hearts are filled with fear when Allah is mentioned, and the patient who bear whatever may befall them, and who perform the Salah, and who spend out of what We have provided for them . And for every nation We have appointed religious ceremonies, that they may mention the Name of Allah over the beast of cattle that He has given them for food.
-
-**Classical tafsir:** Ibn Kathir notes: And for every nation We have appointed religious ceremonies, that they may mention the Name of Allah over the beast of cattle that He has given them for food.
 ## Personal Reflections
-
 

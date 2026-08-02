@@ -199,11 +199,5 @@ Allah says,
 
 Look around and you would see bliss and a vast kingdom.
 
-## AI Tafsir
-
-**What this ayah teaches:** Therefore, it is mentioned in the context of Paradise [ so that they are served with drinks flavoured with ginger of paradisiacal quality and splendour ]. This refers to Paradise and its beauty, its vastness, its loftiness and the joy and happiness it contains.
-
-**Classical tafsir:** Ibn Kathir notes: This refers to Paradise and its beauty, its vastness, its loftiness and the joy and happiness it contains.
 ## Personal Reflections
-
 

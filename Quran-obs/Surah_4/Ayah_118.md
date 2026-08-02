@@ -219,13 +219,5 @@ In short, taking any created being as equal to Allah in His particular attribute
 
 Instead of Allah, they only invoke female gods and they invoke none but a rebellious Satan— cursed by Allah—who said, “I will surely take hold of a certain number of Your servants.
 
-## AI Tafsir
-
-**What this ayah teaches:** Therefore, his line of action is accompanied by his firm intention that he will always be like that. Now, if such a Kafir or Mushrik adheres to this position right through the last breath, he has committed a permanent crime to the extent of his choice and volition, therefore, the punishment for it has to be permanent.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, his line of action is accompanied by his firm intention that he will always be like that.
-
-**From the Sunnah:** In his Sahih, Muslim recorded the prohibition of tattooing the face, which in one of its wordings states: "May Allah curse whoever does this." It is also recorded in the Sahih that Ibn Mas'ud said, "May Allah curse those who have tattoos and those who do it, w… (Sahih Muslim) The Messenger of Allah ﷺ used to proclaim in his speech,
 ## Personal Reflections
-
 

@@ -179,11 +179,5 @@ The grave punishment sent upon the people of Sayyidna Nuh (علیہ السلام
 
 And to the people of ’Âd We sent their brother Hûd. He said, “O my people! Worship Allah—you have no other god except Him. Will you not then fear Him?”
 
-## AI Tafsir
-
-**What this ayah teaches:** And to 'Ad (the people, We sent) their brother Hud. Prophet Hud called 'Ad to worship Allah alone without partners, and to obey and fear Him.
-
-**Classical tafsir:** Ibn Kathir notes: So remember the graces (bestowed upon you) from Allah so that you may be successful.
 ## Personal Reflections
-
 

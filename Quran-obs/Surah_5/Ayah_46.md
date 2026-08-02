@@ -197,13 +197,5 @@ At the end of the verse it was said: وَمَن لَّمْ يَحْكُم بِم
 
 Then in the footsteps of the prophets, We sent Jesus, son of Mary, confirming the Torah revealed before him. And We gave him the Gospel containing guidance and light and confirming what was revealed in the Torah—a guide and a lesson to the Allah-fearing.
 
-## AI Tafsir
-
-**Context:** (And whosoever does not judge by what Allah has revealed, such are the rebellious.) meaning, the rebellious and disobedient of Allah who prefer falsehood and abandon truth.
-
-**What this ayah teaches:** Mentioned after that is the Injil because that too, like the Torah, is guidance and light.
-
-**Classical tafsir:** Ibn Kathir notes: Or, the Ayah means, so that they believe in all that is in it and adhere to all its commands, including the good news about the coming of Muhammad ﷺ and the command to believe in and follow him when he is sent.
 ## Personal Reflections
-
 

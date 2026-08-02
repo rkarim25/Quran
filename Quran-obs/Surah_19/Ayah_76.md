@@ -100,11 +100,5 @@ These words have been interpreted differently by different scholars as has been 
 
 Allah increases guidance for those already guided. Everlasting good deeds are far better with your Rabb in reward and outcome.
 
-## AI Tafsir
-
-**What this ayah teaches:** And the righteous good deeds that last are better with your Lord for reward and better for resort . Increasing Guidance of Those Who are guided After Allah mentions the extended time and respite that is allowed to those who are in misguidance, increasing them in misguidance, He informs of the increase in guidance of those who are rightly guided.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

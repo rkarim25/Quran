@@ -184,15 +184,5 @@ And Sayyidah Asma' bint Yazid ؓ narrates: The Holy Prophet ﷺ said, 'when Alla
 
 They leave their beds calling on their Rabb with hope and fear, and give from what We provided them.
 
-## AI Tafsir
-
-**Context:** Sayyidna Abu ad-Darda', Qatadah and Dahhak ؓ have said that this attribute of sides remaining apart from beds also applies to those who make their Salah of ` Isha' with Jama` ah and then go on to make their Salah of Fajr…
-
-**What this ayah teaches:** Ibn Kathir and other Tafsir authorities have said that there is no contradiction in all these sayings.
-
-**Classical tafsir:** Ibn Kathir notes: Because they conceal their good deeds, Allah conceals the reward for them, a fitting reward which will suit their deeds.
-
-**From the Sunnah:** Their leader in this world and the Hereafter is the Messenger of Allah ﷺ. Paradise and keep me away from Hell. (Musnad Ahmad)
 ## Personal Reflections
-
 

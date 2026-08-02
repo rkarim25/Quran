@@ -172,11 +172,5 @@ The third category consists of As-sabiqun [ the foremost ] who are described as 
 
 the people of the left—how wretched they will be;
 
-## AI Tafsir
-
-**What this ayah teaches:** So those on the right – how (fortunate) will be those on the right!)(9.
-
-**Classical tafsir:** Ibn Kathir notes: So those on the right – how (fortunate) will be those on the right!)(9.
 ## Personal Reflections
-
 

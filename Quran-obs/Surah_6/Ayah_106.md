@@ -114,13 +114,5 @@ In the fourth verse (106), the Holy Prophet ﷺ at has been guided to a specific
 
 Follow what is revealed to you from your Rabb—there is no god except Him—and turn away from the polytheists.
 
-## AI Tafsir
-
-**Context:** (Follow what has been inspired to you from your Lord,) meaning, follow it, obey it and act according to it. What has been revealed to you from your Lord is the Truth, no doubt, and there is no deity worthy of worship exc…
-
-**What this ayah teaches:** Follow what has been inspired (revealed) to you from your Lord, none has the right to be worshipped but He, and turn aside from the idolators (106)Had Allah willed, they would not have taken others besides Him in worship.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

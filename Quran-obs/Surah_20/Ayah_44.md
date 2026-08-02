@@ -307,15 +307,5 @@ An unfortunate tendency is in vogue among the scholars of criticizing each other
 
 Speak to him gently, so perhaps he may be living with taqwa of Me or fearful of My punishment.”
 
-## AI Tafsir
-
-**Context:** As Sayyidna Musa and Bani Isra'il continued their journey they came across a people who worshipped idols which they themselves had fashioned.
-
-**What this ayah teaches:** Therefore, their invitation to him was with gentle, soft and easy speech that is used by one who is a close friend.
-
-**Classical tafsir:** Ibn Kathir notes: Rather, they both should remember Allah during their meeting with Fir'awn so that the remembrance of Allah can be an aid for them against him.
-
-**From the Sunnah:** protection from the Muslims. (Sahih Muslim) The very foundation of Muslim polity rests on Islamic nationalism where people of diverse description, race, lineage and culture constitute one single nation. (Sahih Muslim)
 ## Personal Reflections
-
 

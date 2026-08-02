@@ -103,15 +103,5 @@ By describing Allah's omnipotence through different examples in the earlier vers
 
 So put your trust in Allah, for you are surely upon the Path of clear truth.
 
-## AI Tafsir
-
-**Context:** By describing Allah's omnipotence through different examples in the earlier verses, the reality of the Hereafter and the rational possibility of resurrection of the dead has been established.
-
-**What this ayah teaches:** 'Allah Ta’ ala is to make judgment Himself in his case.
-
-**Classical tafsir:** Ibn Kathir notes: So much so that in matters in which the scholars of Bani Isra'il had differed strongly and could not resolve them, the Qur'an has given them evaluated verdict to follow for correct judgment.
-
-**From the Sunnah:** You can only make to hear those who believe in Our Ayat, so they submit (became Muslims).
 ## Personal Reflections
-
 

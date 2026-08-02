@@ -205,15 +205,5 @@ In verse 67 it has been averred that Allah Ta’ ala granted to the earlier nati
 
 Whenever Our clear revelations are recited to them, you O Prophet recognize rage on the faces of those who reject the truth, as if they are going to snap at those who recite Our revelations to them. Say, “Shall I inform you of something far more enraging than that? It is the Fire with which Allah has threatened those who reject the truth. What an evil destination!”
 
-## AI Tafsir
-
-**Context:** One interpretation of this verse is that the infidels used to engage the Muslims in futile arguments regarding the slaughter of animals.
-
-**What this ayah teaches:** And they worship besides Allah others for which He has sent down no authority, and of which they have no knowledge; and for the wrongdoers there is no helper (71)And when Our clear Ayat are recited to them, you will notice a denial on the faces of the those who reject the truth!
-
-**Classical tafsir:** Ibn Kathir notes: have adopted this meaning of the word, and the context of the verse also lends support to this interpretation.
-
-**From the Sunnah:** One interpretation of this verse is that the infidels used to engage the Muslims in futile arguments regarding the slaughter of animals.
 ## Personal Reflections
-
 

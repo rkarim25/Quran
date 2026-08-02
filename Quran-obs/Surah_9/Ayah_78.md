@@ -98,13 +98,5 @@ When Tha'labah had submitted in repentance, the question is why was his Taubah n
 
 Do they not know that Allah knows their thoughts and secret talks, and that Allah is the Knower of all unseen?
 
-## AI Tafsir
-
-**What this ayah teaches:** Truly, Allah knows them better than they know themselves, for He is the All-Knower of all unseen and apparent things, every secret, every session of counsel, and all that is seen and hidden.
-
-**Classical tafsir:** Ibn Kathir notes: A serious note of warning From here we learn that there are occasions when the curse of evil deeds assumes alarming proportions, so much so that one is deprived of the very ability (taufiq) of making Taubah.
-
-**From the Sunnah:** He was simply trying to deceive Muslims for the time being only to put matters right between them. (Sahih Muslim)
 ## Personal Reflections
-
 

@@ -187,11 +187,5 @@ This tells us that saying:.. بسم اللہ (bismillah: With the name of Allah)
 
 And when he saw that their hands did not reach for the food, he became suspicious and fearful of them. They reassured him, “Do not be afraid! We are angels sent only against the people of Lot.”
 
-## AI Tafsir
-
-**What this ayah teaches:** A casual look is enough, because looking at the morsels of food being eaten by the guest is contrary to the etiquette of entertainment and certainly very humiliating for the invited guest.
-
-**Classical tafsir:** Ibn Kathir notes: Surely, He (Allah) is All-Praiseworthy, All-Glorious.) This means that He is the Most Praiseworthy in all of His actions and statements.
 ## Personal Reflections
-
 

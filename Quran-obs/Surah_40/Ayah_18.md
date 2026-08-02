@@ -171,11 +171,5 @@ But, some other narrations show that this statement will be made by Allah Ta’ 
 
 Warn them of the approaching Day when hearts will jump into throats, suppressing distress. The wrongdoers will have neither a close friend nor intercessor whose plea is heard.
 
-## AI Tafsir
-
-**What this ayah teaches:** And warn them of the Day that is drawing near, when the hearts will be at the throats Kazimin.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, everyone will be in an open expanse, open to view.
 ## Personal Reflections
-
 

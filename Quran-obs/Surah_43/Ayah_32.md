@@ -277,15 +277,5 @@ Islamic equality, therefore, from the purely economic point of view means that e
 
 Is it they who distribute your Lord's mercy? We alone have distributed their livelihood among them in this dunya and raised some in rank above others so some may employ others in service. But your Lord's mercy is far better than whatever wealth they amass.
 
-## AI Tafsir
-
-**Context:** (And they say) means, objecting to that which Allah has revealed to him, (Why is not this Qur'an sent down to some great man of the two towns?) meaning, why was this Qur'an not revealed to some man who was great and prom…
-
-**What this ayah teaches:** But the mercy of your Lord is better than what they amass (32)And were it not that mankind would have become of one community, We would have provided for those who disbelieve in the ar-Rahman, silver roofs for their houses, and elevators whereby they ascend (33)And for their houses, doors, and thrones on which they could recline (34)And adornments of gold.
-
-**Classical tafsir:** Ibn Kathir notes: Ibn Zayd said, "The word of Islam," which refers to the same thing suggested by the group.
-
-**From the Sunnah:** In as the Two Sahihs and elsewhere, it is reported that the Messenger of Allah ﷺ said:
 ## Personal Reflections
-
 

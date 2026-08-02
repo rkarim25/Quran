@@ -173,11 +173,5 @@ In verse 77, it was said: فَاصْبِرْ‌ إِنَّ وَعْدَ اللّ
 
 Have they not travelled throughout the land to see the end of those destroyed before them? They were far superior in might and richer in monuments throughout the land, but their worldly gains were of no benefit to them.
 
-## AI Tafsir
-
-**What this ayah teaches:** They were more in number than them and mightier in strength, and in the traces in the land; yet all that they used to earn availed them not (82)Then when their Messengers came to them with clear proofs, they were glad (and proud) with that which they had of the knowledge (of worldly things).
-
-**Classical tafsir:** Ibn Kathir notes: The Lesson to be learned from what happened to Those Who Came before Allah tells us about the nations who rejected their Messengers in ancient times.
 ## Personal Reflections
-
 

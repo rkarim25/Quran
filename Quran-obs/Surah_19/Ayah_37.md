@@ -156,13 +156,5 @@ The phrase قَوْلَ الْحَقِّ (translated in the text as 'the word of
 
 Yet their factions differed about him. Woe to those who reject the truth when they face a tremendous Day.
 
-## AI Tafsir
-
-**What this ayah teaches:** That is the straight path.) Meaning, "That which I have come to you with from Allah is the straight path." This means that the path is correct; whoever follows it will be rightly guided and whoever opposes it will deviate and go astray.
-
-**Classical tafsir:** Ibn Kathir notes: That is the straight path.) Meaning, "That which I have come to you with from Allah is the straight path." This means that the path is correct; whoever follows it will be rightly guided and whoever opposes it will deviate and go astray.
-
-**From the Sunnah:** This has been related in a Hadith collected in the Two Sahihs,
 ## Personal Reflections
-
 

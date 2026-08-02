@@ -140,15 +140,5 @@ At the end of the first verse (87), it was said: وَلَا تَعْتَدُوا
 
 Eat of the good, lawful things provided to you by Allah. And live with taqwa toward Allah in Whom you believe.
 
-## AI Tafsir
-
-**Context:** Ali bin Abi Talhah said that Ibn 'Abbas said, "This Ayah [5:87] was revealed about some of the Companions of the Prophet ﷺ who said, 'We should cut off our male organs, abandon the desires of this life and travel in the…
-
-**What this ayah teaches:** This is something an ignorant person takes to be Taqwa, fear of Allah, while, in the sight of Allah, that is transgression, which is impermissible.
-
-**Classical tafsir:** Ibn Kathir notes: Of course, if such a restriction is not there with the intention of Thawab, instead, it is there for some other reason, such as, some physical or spiritual sickness because of which one abandons something permanently, then, there will be no sin in doing so.
-
-**From the Sunnah:** Ibn 'Abbas narrated a similar Hadith.
 ## Personal Reflections
-
 

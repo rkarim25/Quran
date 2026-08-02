@@ -176,11 +176,5 @@ And when the absence of the first situation becomes clear, the second situation 
 
 Say: "I advise you to one thing: stand up for Allah's sake, alone or in pairs, then reflect. Your companion is not mad—he is only a warner to you before a severe punishment."
 
-## AI Tafsir
-
-**What this ayah teaches:** And then, the expression 'in pairs and singles' is not intended to point out a particular number.
-
-**Classical tafsir:** Ibn Kathir notes: It means that his presence among them signifies nothing but that he has been sent there to save people from the severe punishment of the Day of Judgment by warning them of it in advance.
 ## Personal Reflections
-
 

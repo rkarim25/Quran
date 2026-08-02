@@ -412,13 +412,5 @@ The verse, while permitting the Muslims to marry such women, has added: إِذَ
 
 O believers: when believing women come to you as emigrants, test their intentions—Allah knows their faith best—and if you find them to be believers, do not return them to the those who reject the truth. Those women are not lawful for the those who reject the truth, nor are the those who reject the truth lawful for them. Repay the those who reject the truth whatever dowries they paid. There is no blame on you if you marry them once you pay their dowries. Do not hold to marriages with women who commit shirk—giving anything the devotion owed to Allah alone. Demand repayment of dowries you paid, and let the those who reject the truth do the same. That is Allah's judgment between you. He is All-Knowing, All-Wise.
 
-## AI Tafsir
-
-**Context:** Ibn Thawr narrated that Ma'mar said that Az-Zuhri said, "This Ayah was revealed to Allah's Messenger ﷺ while he was in the area of Al-Hudaybiyyah, after making peace.
-
-**What this ayah teaches:** Exemption of Women from the Terms of the Treaty is not a Breach of Treaty.
-
-**Classical tafsir:** Ibn Kathir notes: " Ibn Jarir recorded that Az-Zuhri said, "The believers abided by Allah's decree and paid what they owed the idolators to compensate for the dowery the idolators gave to the women (who emigrated).
 ## Personal Reflections
-
 

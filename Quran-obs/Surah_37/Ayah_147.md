@@ -141,13 +141,5 @@ It was said in verse 147: Y); وَأَرْ‌سَلْنَاهُ إِلَىٰ م�
 
 We later sent him back to his city of at least one hundred thousand people,
 
-## AI Tafsir
-
-**What this ayah teaches:** Why would He have to express the doubt that the number of those people was 'one hundred thousand, or more?' It can be answered by saying that this statement has been made in congruity with the view of common people, that is, if an average person would have seen them, he would have said that their number is one hundred thousand or somewhat more than that (Mazhari).
-
-**Classical tafsir:** Ibn Kathir notes: Mujahid said, narrating from Ash-Sha'bi, "It swallowed him in the morning and cast him forth in the evening." And Allah knows best how long exactly was.
-
-**From the Sunnah:** In the Two Sahihs it is reported that the Messenger of Allah ﷺ said: This is what is indicated in the authentic Hadith which we quote below, if Allah wills. (authentic hadith)
 ## Personal Reflections
-
 

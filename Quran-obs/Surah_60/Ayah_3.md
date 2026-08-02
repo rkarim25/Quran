@@ -196,15 +196,5 @@ This is why Allah's Messenger ﷺ accepted Hatib's excuse when he said that he o
 
 Neither your relatives nor your children will benefit you on Judgment Day. Allah will decide between you. He is All-Seeing of what you do.
 
-## AI Tafsir
-
-**Context:** (O you who believe! Take not my enemies and your enemies as protecting friends'...) was revealed about Hatib, but I do not know if the Ayah was mentioned in the Hadith (or was added as an explanation by one of the narrat…
-
-**What this ayah teaches:** He will decide between you, and Allah is watchful of what you do...60:3).
-
-**Classical tafsir:** Ibn Kathir notes: Should they gain the upper hand over you, they would behave to you as enemies, and stretch forth their hands and their tongues against you with evil, and they desire that you should disbelieve.)(3.
-
-**From the Sunnah:** And whosoever of you (Muslims) does that, then indeed he has gone (far) astray from the straight path.)(2. The Prophet ﷺ sent someone after the woman and retrieved the letter.
 ## Personal Reflections
-
 

@@ -106,11 +106,5 @@ In verse 177, it was said: فَإِذَا نَزَلَ بِسَاحَتِهِم�
 
 Our Word has already gone forth to Our servants, the messengers,
 
-## AI Tafsir
-
-**What this ayah teaches:** The sense of these verses is that it stands predetermined with Allah that His chosen servants, that is, the prophets would be the ones to prevail.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, simply due to this temporary ascendancy, neither can we call that robber an authority, nor that authority a subject.
 ## Personal Reflections
-
 

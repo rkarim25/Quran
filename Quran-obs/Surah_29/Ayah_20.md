@@ -149,11 +149,5 @@ The infidels of Makkah believed that it is Allah who has created the whole unive
 
 Say, O Prophet: Travel the land and see how He originated creation. Then Allah will produce it again. He is Most Capable of everything.
 
-## AI Tafsir
-
-**What this ayah teaches:** The One Who originated this is able to repeat it, it is very easy for Him.
-
-**Classical tafsir:** Ibn Kathir notes: All of that indicates that these are themselves created things, and that there must be a Creator Who does as He chooses, Who merely says to a thing "Be!" and it is.
 ## Personal Reflections
-
 

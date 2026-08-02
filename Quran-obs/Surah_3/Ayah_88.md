@@ -111,17 +111,5 @@ The answer is that the withholding of guidance mentioned here is in accordance w
 
 They will be in Hell forever. Their punishment will not be lightened, nor will they be delayed.
 
-## AI Tafsir
-
-**Essence** For those who turn away after the truth was made plain, the punishment endures with no respite — yet the door of return stays open to whoever repents before death.
-
-**What it teaches** The verse describes the apostates of the preceding ayat: khalidina fiha — they abide in the curse and its torment forever, which "will not be lightened" (la yukhaffafu) and from which they "will not be reprieved" (la hum yunzarun) — no reduction and no delay. Read with verse 89, it draws a sharp line between willful, settled rejection and the soul that turns back in this life.
-
-**The scholars** Ibn Kathir explains that they "abide therein, in the curse," and that "the torment will not be lessened, not even for an hour" — neither softened nor postponed. Yet he stresses that the immediately following verse, "Except for those who repent after that and do righteous deeds. Verily, Allah is Oft-Forgiving (Ghafur), Most Merciful (Rahim)," "indicates Allah's kindness, graciousness, compassion, mercy and favor on His creatures when they repent to Him, for He forgives them in this case." Maarif ul Quran, citing Bayan al-Qur'an, removes a doubt: the earlier statement that Allah does not guide such people follows common usage — like saying a hardened criminal merits no special favor — and does not mean an apostate can never again become a recipient of guidance, for many re-embrace the faith and are guided.
-
-**From the Sunnah** Ibn Jarir (al-Tabari) recorded that Ibn 'Abbas relates: an Ansari man embraced Islam, then reverted and joined the polytheists; later, full of regret, he sent word, "Ask the Messenger of Allah ﷺ for me, if I can repent." The passage from verse 86 ("How shall Allah guide a people who disbelieved after their belief...") through to verse 89 ("Verily, Allah is Oft-Forgiving, Most Merciful") was then revealed, his people brought him the news, and he re-embraced Islam — showing that sincere repentance reopens the door however far one has strayed. This wording was also recorded by an-Nasa'i, al-Hakim and Ibn Hibban; al-Hakim graded its chain Sahih.
-
-**Reflection** Never despair of return: the very verses that warn of unending loss close by naming Allah Oft-Forgiving and Most Merciful — the harshest warning and the widest mercy set side by side, that one may flee the first into the second.
 ## Personal Reflections
-
 

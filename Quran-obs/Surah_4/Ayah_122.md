@@ -274,13 +274,5 @@ In short, taking any created being as equal to Allah in His particular attribute
 
 And those who believe and do good, We will soon admit them into Gardens under which rivers flow, to stay there for ever and ever. Allah’s promise is true. And whose word is more truthful than Allah’s?
 
-## AI Tafsir
-
-**What this ayah teaches:** Allah's promise is the truth; and whose words can be truer than those of Allah .
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, his line of action is accompanied by his firm intention that he will always be like that.
-
-**From the Sunnah:** In his Sahih, Muslim recorded the prohibition of tattooing the face, which in one of its wordings states: "May Allah curse whoever does this." It is also recorded in the Sahih that Ibn Mas'ud said, "May Allah curse those who have tattoos and those who do it, w… (Sahih Muslim) The Messenger of Allah ﷺ used to proclaim in his speech,
 ## Personal Reflections
-
 

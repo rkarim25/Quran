@@ -94,13 +94,5 @@ If only the translation of the Qur'an is written in any language without the Ara
 
 in a clear Arabic tongue.
 
-## AI Tafsir
-
-**Context:** Here Allah tells us about the Book which He revealed to His servant and Messenger Muhammad ﷺ. (In the plain Arabic language.) meaning, 'this Qur'an which We have revealed to you, We have revealed in perfect and eloquent…
-
-**What this ayah teaches:** Printing, calling or trading of something in the name of Qur'an, without the Arabic text of the Qur'an, is not permitted.
-
-**Classical tafsir:** Ibn Kathir notes: Answer to this apparent contradiction is that according to majority of the Ummah, sometimes even the subject matter of the Qur’ an is called Qur'an in a general sense, because the real purpose of a book is the subjects it deals with.
 ## Personal Reflections
-
 

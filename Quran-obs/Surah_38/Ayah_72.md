@@ -89,11 +89,5 @@ Mentioned here is the event of the creation of 'Adam (علیہ السلام) . N
 
 When I have fashioned him and breathed into him a spirit of My creation, fall down in prostration to him."
 
-## AI Tafsir
-
-**What this ayah teaches:** He refused to prostrate to Adam, and he disputed with his Lord about him, claiming that he was better than Adam, because he was created from fire while Adam was created from clay, and fire was better than clay, or so he said. What prevents you from prostrating yourself to one whom I have created with Both My Hands.
-
-**Classical tafsir:** Ibn Kathir notes: He refused to prostrate to Adam, and he disputed with his Lord about him, claiming that he was better than Adam, because he was created from fire while Adam was created from clay, and fire was better than clay, or so he said.
 ## Personal Reflections
-
 

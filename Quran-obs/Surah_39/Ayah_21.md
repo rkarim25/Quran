@@ -208,11 +208,5 @@ In the last sentence of verse 21, it was said: إِنَّ فِي ذَٰلِكَ 
 
 Do you not see that Allah sends down rain from the sky—channelling it through streams in the earth—then produces with it crops of various colours, then they dry up and you see them wither, and then He reduces them to chaff? Surely in this is a reminder for people of reason.
 
-## AI Tafsir
-
-**What this ayah teaches:** The sense is that the act of sending down water from the sky is by itself a great blessing, but also crucial was the arrangement to conserve it underground.
-
-**Classical tafsir:** Ibn Kathir notes: Sa'id bin Jubayr said, its origins lie in the snow, meaning that snow piles up in the mountains, then settles at the bottom (of the mountains) and springs flow from the bottom of them.
 ## Personal Reflections
-
 

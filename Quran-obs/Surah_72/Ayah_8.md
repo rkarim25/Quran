@@ -110,13 +110,5 @@ A doubt that may arise here is that the existence of Meteors, which in common pa
 
 We used to try to reach the heavens for news, but found them guarded by stern angels and shooting stars.
 
-## AI Tafsir
-
-**What this ayah teaches:** It happened only after his Advent A doubt that may arise here is that the existence of Meteors, which in common parlance are called inqidad-ul-kaukab the 'falling stars', is not a new phenomenon.
-
-**Classical tafsir:** Ibn Kathir notes: As-Suddi said, "The sky was never guarded except if there was a Prophet in the earth or the religion of Allah was victorious and dominant in the earth." So the devils before the time of Muhammad ﷺ had taken sitting stations for themselves in the heaven of this world and they would listen to the matt… This verse, however, indicates that they showed up to repel the devils as if they are new-age phenom…
-
-**From the Sunnah:** Then they found the Messenger of Allah ﷺ reciting (the Qur'an) while leading his Companions in prayer.
 ## Personal Reflections
-
 

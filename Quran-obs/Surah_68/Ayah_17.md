@@ -175,13 +175,5 @@ Likewise, when the crop was thrashed, and the grain separated from the chaff, he
 
 We tested those Meccans as We tested the owners of the garden—when they swore to harvest all its fruit by early morning,
 
-## AI Tafsir
-
-**What this ayah teaches:** In other words, they swore that they would harvest very early in the morning and return with it before the throng of poor people could arrive at the garden. The description of the story given in the verses indicates that they did not only have a garden, but they also had large tracts of land which they cultivated and had fields of crops.
-
-**Classical tafsir:** Ibn Kathir notes: The description of the story given in the verses indicates that they did not only have a garden, but they also had large tracts of land which they cultivated and had fields of crops.
-
-**From the Sunnah:** The preceding verses rebutted the criticisms of pagan Arabs levelled against Allah's Messenger and gave reasons why the charges are not only unfounded, but also absurd.
 ## Personal Reflections
-
 

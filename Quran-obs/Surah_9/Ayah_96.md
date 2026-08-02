@@ -112,13 +112,5 @@ Allah will inform you of your deeds, whether they were good or evil, and will re
 
 They will swear to you in order to please you. And even if you are pleased with them, Allah will never be pleased with the rebellious people.
 
-## AI Tafsir
-
-**What this ayah teaches:** Surely, they are Rijs (impure), and Hell is their dwelling place – a recompense for that which they used to earn (95)They (the hypocrites) swear to you (Muslims) that you may be pleased with them, but if you are pleased with them, certainly Allah is not pleased with the people who are Fasiqin (rebellious).
-
-**Classical tafsir:** Ibn Kathir notes: Allah said that the hypocrites will swear to the believers in apology, so that the believers turn away from them without admonishing them.
-
-**From the Sunnah:** They (the hypocrites) will present their excuses to you (Muslims), when you return to them.
 ## Personal Reflections
-
 

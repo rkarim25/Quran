@@ -240,13 +240,5 @@ By mentioning the blessings of Allah on Sayyidna Ibrahim (علیہ السلام)
 
 And some of their forefathers, their descendants, and their brothers. We chose them and guided them to the Sirat al-Mustaqim—the Sirat al-Mustaqim—the way of living that pleases Allah that pleases Allah.
 
-## AI Tafsir
-
-**Context:** (And indeed it has been revealed to you, as it was to those (Allah's Messengers) before you: "If you join others in worship with Allah, surely your deeds will be in vain.")[39:65]
-
-**What this ayah teaches:** Thus do We reward the good-doers (84)And Zakariyya, and Yahya and 'Isa and Iliyas, each one of them was of the righteous (85)And Isma'il and Al-Yasa', and Yunus and Lut, and each one of them We preferred above the 'Alamin (mankind and Jinns, of their times)(86)And also some of their fathers and their progeny and their brethren, We chose them, and We guided them to a straight pa…
-
-**Classical tafsir:** Ibn Kathir notes: Certainly, one becomes jubilant and joyous when he becomes a grandfather, because this means that his offspring will continue to exist.
 ## Personal Reflections
-
 

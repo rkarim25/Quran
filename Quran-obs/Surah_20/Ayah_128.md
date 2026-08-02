@@ -169,11 +169,5 @@ The word ھُدٰی - (guidance) implied in the first sentence of verse 128 can 
 
 Is it not yet clear to them how many peoples We destroyed before them, whose ruins they still pass by? Surely in this are signs for people of sound judgment.
 
-## AI Tafsir
-
-**What this ayah teaches:** They showed open hostility, so now there is not trace of them and none of them are left. By Allah, He has not given them anything better than the opportunity to look upon Him, and that is the increase (extra blessing).)
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

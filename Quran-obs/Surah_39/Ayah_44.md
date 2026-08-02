@@ -110,11 +110,5 @@ In the verse cited above, the word: يَتَوَفَّى (yatawaffa) in the sens
 
 Say: "All intercession belongs to Allah alone. To Him belongs the kingdom of the heavens and the earth. Then to Him you will all be returned."
 
-## AI Tafsir
-
-**What this ayah teaches:** Then Allah says: 'Say – O Muhammad – to these people who claim that those whom they have taken as intercessors with Allah, that intercession is of no avail except for the one with whom Allah is pleased and to whom He has granted permission to intercede.
-
-**Classical tafsir:** Ibn Kathir notes: There is no Intercession except with Allah, and how the Idolators are filled with Disgust when Allah is mentioned alone Allah condemns the idolators for taking intercessors besides Allah, namely the idols and false gods whom they have taken on the basis of their own whims, with n…
 ## Personal Reflections
-
 

@@ -107,13 +107,5 @@ And since human beings have the ability to absorb the manifestations of Divine l
 
 So when I have fashioned him and had a spirit of My Own creation breathed into him, fall down in prostration to him.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Then, this lower form of spirit which is identified as Nafs or self armed with the states and effects which it has acquired from the higher forms of spirits first gets connected with the heart muscle of the human body.
-
-**Classical tafsir:** Ibn Kathir notes: Though they are, because of their purity and detachment, very high and elevated in station, and far distant too, yet their reflection appears in the mirror of the lower spirit and transfers the states and effects of the higher spirits into it.
-
-**From the Sunnah:** But, the majority of the ` Ulama' of the Muslim Ummah declare Ruh (spirit, soul) to be a highly refined physical entity. (Sahih Muslim)
 ## Personal Reflections
-
 

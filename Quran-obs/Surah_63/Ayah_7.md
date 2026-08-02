@@ -171,13 +171,5 @@ In his Musnad, Abu Bakr 'Abdullah bin Az-Zubayr Al-Humaydi recorded from Abu Har
 
 They say to one another: 'Do not spend on those with the Messenger of Allah so they will break away from him.' Yet to Allah alone belong the treasuries of the heavens and the earth, but the hypocrites do not comprehend.
 
-## AI Tafsir
-
-**Context:** Several of the Salaf mentioned that this entire passage was revealed in the case of 'Abdullah bin Ubay bin Salul, as we will soon mention, Allah willing and our trust and reliance are on Him.
-
-**What this ayah teaches:** He will not enter it until you say so." The Messenger ﷺ gave his permission to 'Abdullah bin Ubay and his son said, "Enter, now that the Messenger of Allah ﷺ gave you his permission." In his Musnad, Abu Bakr 'Abdullah bin Az-Zubayr Al-Humaydi recorded from Abu Harun Al-Madani that 'Abdullah, the son of 'Abdullah bin Ubay bin Salul, said to his father, "You will never enter Al-M…
-
-**Classical tafsir:** Ibn Kathir notes: Go back so that Allah's Messenger ﷺ asks Allah to forgive you.' He said, 'By Allah, I do not wish that he ask Allah to forgive me.'" Qatadah and As-Suddi said, "This Ayah was revealed about 'Abdullah bin Ubay.
 ## Personal Reflections
-
 

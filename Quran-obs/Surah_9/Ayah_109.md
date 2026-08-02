@@ -159,13 +159,5 @@ In the third (109) and the fourth (110) verses, Masjid Dirar (the harmful mosque
 
 Which is better: those who laid the foundation of their building on the fear and pleasure of Allah, or those who did so on the edge of a crumbling cliff that tumbled down with them into the Fire of Hell? And Allah does not guide the wrongdoing people.
 
-## AI Tafsir
-
-**What this ayah teaches:** Now, if someone starts building there, it is obvious that the whole thing would collapse instantly.
-
-**Classical tafsir:** Ibn Kathir notes: Is it then he who laid the foundation of his building on Taqwa to Allah and His good pleasure better, or he who laid the foundation of his building on the brink of an undetermined precipice ready to crumble down, so that it crumbled to pieces with him into the fire of Hell.
-
-**From the Sunnah:** Jabir bin 'Abdullah said, "I saw the Masjid that was built to cause harm with smoke rising up from it, during the time of the Messenger of Allah ﷺ." Allah's statement,
 ## Personal Reflections
-
 

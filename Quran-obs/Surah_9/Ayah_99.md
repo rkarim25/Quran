@@ -203,15 +203,5 @@ That Sadaqat are a source of nearness to Allah Ta` ala is obvious. However, the 
 
 However, among the nomadic Arabs are those who believe in Allah and the Last Day, and consider what they donate as a means of coming closer to Allah and the prayers of the Messenger. It will certainly bring them closer. Allah will admit them into His mercy. Surely Allah is All-Forgiving, the Rahim.
 
-## AI Tafsir
-
-**Context:** The bedouins are the worst in disbelief and hypocrisy, and more likely to not know the limits which Allah has revealed to His Messenger.
-
-**What this ayah teaches:** However, the hope of prayers from the Holy Prophet ﷺ is on a different basis.
-
-**Classical tafsir:** Ibn Kathir notes: This was done in verse 99 - very much in line with the typical style of the Qur'an - so that, it stands established that Bedouins too are not all alike.
-
-**From the Sunnah:** this Hadith. (Jami' at-Tirmidhi, Sunan Abi Dawud) After having described the state of affairs prevailing among hypocrites of distant deserts, it was considered appropriate that the true and staunch Muslims from among the same stock of Bedouins should also be mentioned.
 ## Personal Reflections
-
 

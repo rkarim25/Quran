@@ -135,11 +135,5 @@ These verses describe the horrors and terrors of the Day of Resurrection. Verse 
 
 If you persist in rejection, how will you guard yourselves against a Day that turns children's hair grey?
 
-## AI Tafsir
-
-**What this ayah teaches:** Towards the conclusion, the verse says that if no torment is inflicted in this world, no one can escape the horrors and terrors and length of the Day of Resurrection that will turn the children grey.
-
-**Classical tafsir:** Ibn Kathir notes: This means, 'you should beware of denying this Messenger, lest you be afflicted by that which befell Fir'awn.
 ## Personal Reflections
-
 

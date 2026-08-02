@@ -234,13 +234,5 @@ Commentary
 
 Those who do not expect to meet Us say, “If only the angels were sent down to us, or we could see our Rabb!” They have certainly been carried away by their arrogance and have entirely exceeded all limits.
 
-## AI Tafsir
-
-**What this ayah teaches:** And those who expect not a meeting with Us said: "Why are not the angels sent down to us, or why do we not see our Lord" Indeed they think too highly of themselves, and are scornful with great pride (21)On the Day they will see the angels – no good news will there be for the criminals that day.
-
-**Classical tafsir:** Ibn Kathir notes: This day you shall be recompensed with the torment of degradation because of what you used to utter against Allah other than the truth.
-
-**From the Sunnah:** Paradise which you have been promised! We have been your friends in the life of this world and are (so) in the Hereafter. (authentic hadith) this referred to the words of the idolators.
 ## Personal Reflections
-
 

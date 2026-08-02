@@ -173,15 +173,5 @@ It should be noted here that there are two types of rida' [ pleasure ]: one in g
 
 Those who reject among the People of the Book and the mushrikun are in the Fire of Jahannam, abiding forever. They are the worst of creation in outcome.
 
-## AI Tafsir
-
-**Context:** It should be noted here that there are two types of rida' [ pleasure ]: one in general sense; and second in specific or higher sense. In the general sense, rida' bil-qadr (i.e.
-
-**What this ayah teaches:** Verily, those who disbelieve from among the People of the Scripture and idolators, will abide in the fire of Hell. He says that they will be in the fire of Hell on the Day of Judgement and they will abide therein forever.
-
-**Classical tafsir:** Ibn Kathir notes: This means that they will remain in it and they will have no way out of it and they will not cease being in it.
-
-**From the Sunnah:** Paradise, that is, the Divine pleasure with no danger of Divine displeasure. When this verse was revealed, the Messenger of Allah ﷺ expressed his wish and ambition that he would not be pleased until every single believer is taken out of Hell.
 ## Personal Reflections
-
 

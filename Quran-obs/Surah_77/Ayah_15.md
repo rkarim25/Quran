@@ -168,13 +168,5 @@ Allah is saying, 'for which day are the Messengers postponed and their matter ex
 
 Woe that Day to those who deny!
 
-## AI Tafsir
-
-**Context:** (By the Mursalat.) was revealed to him. He was reciting it and I was learning it from his mouth. Verily, his mouth was moist with it when a snake leaped out at us. The Prophet ﷺ said,
-
-**What this ayah teaches:** Woe that Day to the deniers.) meaning, woe unto them from Allah's torment that is coming in the future. And what will explain to you what is the Day of Sorting Out?)(15.
-
-**Classical tafsir:** Ibn Kathir notes: This means, what you all have been promised concerning the establishment of the Hour (Judgement Day), the blowing of the horn, the resurrection of the bodies, the gathering of those of old and those of latter times on one common ground and the rewarding of every doer of a deed ba…
 ## Personal Reflections
-
 

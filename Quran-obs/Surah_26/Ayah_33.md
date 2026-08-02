@@ -99,13 +99,5 @@ This is what is known as God gifted awe of truth, veracity and reality. The cont
 
 Then he drew his hand out of his collar and it was shining white for all to see.
 
-## AI Tafsir
-
-**What this ayah teaches:** After the Rational Proof, Fir'awn Resorts to Force When proof had been established against Fir'awn, clearly and rationally, he resorted to using force against Musa, thinking that after this there would no further room for discussion.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** The contentions and dialectics of Allah's messengers are also full of truth, veracity and wishing well for the addressee.
 ## Personal Reflections
-
 

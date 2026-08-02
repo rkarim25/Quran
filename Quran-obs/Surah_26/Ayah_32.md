@@ -98,13 +98,5 @@ This is what is known as God gifted awe of truth, veracity and reality. The cont
 
 So he threw down his staff and—behold!—it became a real snake.
 
-## AI Tafsir
-
-**What this ayah teaches:** So, he said ` that he realized his mistake and left the city for the fear of being caught. But in any case, the real cause of his upbringing in the home of the Pharaoh was the cruelty exercised by him against the Israelites.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** The contentions and dialectics of Allah's messengers are also full of truth, veracity and wishing well for the addressee.
 ## Personal Reflections
-
 

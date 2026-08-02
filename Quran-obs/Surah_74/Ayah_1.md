@@ -170,13 +170,5 @@ The Holy Prophet is addressed in this Surah as: يٰٓاَيُّهَا الْم�
 
 O you wrapped in your cloak—
 
-## AI Tafsir
-
-**Context:** (0 you, enveloped in a mantle...74:1) The word al-Muddaththir is derived from dithar which refers to a 'thick, warm over-garment [ such as a cloak or mantle ] which a person wears in winter over his other clothes in orde…
-
-**What this ayah teaches:** Therefore, some of the scholars considered this Surah to be the first one in order of revelation. Therefore, it is very likely that the two Surahs might have been revealed in connection with the same incident - when the Holy Prophet, whilst walking, heard a voice from the sky and saw Jibra'il Amin sitting on a chair between the sky and the earth, and then went to the house and wrapped himself in a…
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, some of the scholars considered this Surah to be the first one in order of revelation.
 ## Personal Reflections
-
 

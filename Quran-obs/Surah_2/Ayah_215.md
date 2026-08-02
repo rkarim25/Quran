@@ -170,17 +170,5 @@ The statement about spending the surplus' العفو (al-'afw), that which is ex
 
 They ask you what they should spend. Say, "Whatever good you spend is for parents, relatives, orphans, the poor, and travellers. Whatever good you do, Allah knows it."
 
-## AI Tafsir
-
-**Essence** When the believers asked what to give, Allah answered first *where* it should go — parents, kin, orphans, the poor, and the stranded traveller — placing the recipient ahead of the amount.
-
-**What it teaches** The ayah answers a real question the Companions put to the Prophet ﷺ about charity (infaq). That question had two parts — *what* to spend and *where* — yet Allah answers the "where" frontally, naming the categories: parents, near relatives, orphans, the poor (*masakin*), and the wayfarer (*ibn al-sabil*). The "what" He leaves open, treating it as a corollary: spend whatever *khayr* (good, wealth) you can. The verse then closes, "Allah is All-Aware (*Alim*) of it" — every good act is fully known and perfectly rewarded.
-
-**The scholars** Per the source, Muqatil bin Hayyan held this ayah concerns voluntary charity, and Ibn 'Abbas and Mujahid read the question as "how they should spend," which Allah clarified by naming the recipients. Maarif ul Quran traces the question to 'Amr ibn Jamuh and the Muslims generally, and notes that no fixed amount is imposed, since "whatever you spend in accordance with your capability will become deserving of a matching reward with Allah." Maarif clarifies these verses address voluntary charity (*sadaqat al-nafilah*), not the fixed obligation of zakah — which is why parents may be recipients here though zakah to parents is not permitted; it adds that even a gift or food given to parents and near kin, when intended to obey Allah, counts as spending in His way and earns reward. Maarif also cautions (with verse 219's "the surplus," *al-'afw*) that one should give what is extra to one's needs, not harm one's own family or neglect debts. Ibn Kathir relays Maymun bin Mihran's reflection on reciting this ayah: "These are the areas of spending. Allah did not mention among them the drums, pipe, wooden pictures, or the curtains that cover the walls" — charity belongs to people in need, not idle luxuries. He reads the closing words to mean Allah "will reward you for them in the best manner, no one will be dealt with unjustly, even the weight of an atom."
-
-**From the Sunnah** Charity is ranked by nearness of kin: give first to your mother, father, sister, and brother, then to the closest and then the farthest relatives. (cited as a Hadith by Ibn Kathir)
-
-**Reflection** Begin your giving at home — honour parents and kin first — and spend freely from your surplus, certain that Allah sees and rewards every atom of good.
 ## Personal Reflections
-
 

@@ -109,13 +109,5 @@ In the last verse (27), good news of future victories has been given. Gone is th
 
 Say, O Prophet, “Fleeing will not benefit you if you try to escape a natural or violent death. If it is not your time, you will only be allowed enjoyment for a little while.”
 
-## AI Tafsir
-
-**What this ayah teaches:** And any act or omission on his part that is proved to have been done as a preferable conduct (istihbab) and not as an obligatory one, should be followed by us too as a commendable (mustahab) conduct and not as a necessary obligation This, in other words, means that its contravention will not be declared to be a sin.
-
-**Classical tafsir:** Ibn Kathir notes: And any act or omission on his part that is proved to have been done as a preferable conduct (istihbab) and not as an obligatory one, should be followed by us too as a commendable (mustahab) conduct and not as a necessary obligation This, in other words, means that its contravent…
-
-**From the Sunnah:** Onward from here, mention has been made of two groups of hypocrites who were practically a part of the Jihad effort along with Muslims, though outwardly only.
 ## Personal Reflections
-
 

@@ -198,11 +198,5 @@ The rule about doing a good deed is simple. If anyone does a good deed, then loo
 
 When Allah took the covenant of those who were given the Scripture to make it known to people and not hide it, yet they cast it behind their backs and traded it for a fleeting gain. What a miserable profit!
 
-## AI Tafsir
-
-**Context:** Imam Ahmad recorded that Marwan told his guard Rafi' to go to Ibn 'Abbas and proclaim to him, "If every person among us who rejoices with what he has done and loves to be praised for what he has not done will be tormente…
-
-**What this ayah teaches:** Chastising the People of the Scriptures for Breaking the Covenant and Hiding the Truth In this Ayah, Allah chastises the People of the Scriptures, from whom Allah took the covenant by the words of their Prophets, that they would believe in Muhammad ﷺ and describe him to the people, so that they would recognize and follow him when Allah sent him.
 ## Personal Reflections
-
 

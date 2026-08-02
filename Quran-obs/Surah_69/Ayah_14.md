@@ -113,13 +113,5 @@ According to some narratives, a third 'trumpet' will also be blown before the tw
 
 and the earth and mountains are lifted and crushed with one blow,
 
-## AI Tafsir
-
-**What this ayah teaches:** Then when the Trumpet will be blown with one blowing (13)And the earth and the mountains shall be removed from their places, and crushed with a single crushing (14)Then on that Day shall the Event occur (15)And the heaven will be rent asunder, for that Day it will be frail and torn up (16)And the angels will be on its sides, and eight angels will, that Day, bear the Throne of your Lord above them…
-
-**Classical tafsir:** Ibn Kathir notes: It is emphasized here that it is one blowing, because the command of Allah cannot be opposed or prevented, and it does not need to be repeated or stressed.
-
-**From the Sunnah:** Between the lobe of his ear to his shoulder is the distance of seven hundred years (of travelling).) This is the wording recorded in Abu Dawud.
 ## Personal Reflections
-
 

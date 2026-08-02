@@ -185,15 +185,5 @@ Here we see that the Holy Prophet ﷺ has been asked to pray for those who give 
 
 Do they not know that Allah alone accepts the repentance of His servants and receives charity, and that Allah alone is the Accepter of Repentance, the Rahim?
 
-## AI Tafsir
-
-**Context:** The imperative: خُذْ مِنْ أَمْوَالِهِمْ صَدَقَةً : "Take out of their wealth a Sadaqah (obligatory alms) " in the second verse (103) has its background.
-
-**What this ayah teaches:** The answer is that the sin has, no doubt, been forgiven by virtue of the repentance, but it is quite possible that it may have left behind some residual effects following the forgiveness of sin which could be-come the cause of falling into sin.
-
-**Classical tafsir:** Ibn Kathir notes: When this happened, they presented their entire wealth as a token of their gratitude so that it could be given out as Sadaqah.
-
-**From the Sunnah:** Allah commanded His Messenger ﷺ to take Sadaqah from the Muslims' money to purify and sanctify them with it.
 ## Personal Reflections
-
 

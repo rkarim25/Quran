@@ -403,13 +403,5 @@ This subject has become clear enough from the discussion of verses in this part 
 
 Every one of the People of the Book will definitely believe in him before his death. And on the Day of Judgment Jesus will be a witness against them.
 
-## AI Tafsir
-
-**What this ayah teaches:** I asked, 'Who is this?' The people said, 'He is the son of Maryam.' Then I looked behind and I saw a red-complexioned, fat, curly-haired man, blind in the right eye, which looked like a bulging out grape.
-
-**Classical tafsir:** Ibn Kathir notes: Verily, you are a mad man!)[15:6] When Allah sent 'Isa with proofs and guidance, the Jews, may Allah's curses, anger, torment and punishment be upon them, envied him because of his prophethood and obvious miracles; curing the blind and leprous and bringing the dead back to life,…
-
-**From the Sunnah:** Paradise)?' One of the youngest ones among them volunteered and 'Isa asked him to sit down. (Sahih Muslim, Sunan an-Nasa'i) And on the Day of Resurrection, he will be a witness against them.) Ibn Jarir recorded that Ibn 'Abbas commented,
 ## Personal Reflections
-
 

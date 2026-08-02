@@ -216,15 +216,5 @@ After that, in verse هَا أَنتُمْ أُولَاءِ تُحِبُّونَ
 
 Here you are! You love them but they do not love you, and you believe in all Scriptures. When they meet you they say, “We believe.” But when alone, they bite their fingertips in rage. Say, “ die of your rage!” Surely Allah knows best what is in the heart.
 
-## AI Tafsir
-
-**Essence** Allah exposes the buried hatred of the hypocrites and reassures the believers that He alone knows what hearts conceal.
-
-**What it teaches** The believers love the hypocrites (thinking them fellow Muslims) and accept all of Allah's Scriptures without reservation, yet the hypocrites secretly despise them and reject the believers' Book; outwardly they say "We believe," but in private they bite their fingertips (al-anamil) in ghayz — extreme anger and fury. Allah commands the Prophet ﷺ to answer their fury with "Perish in your rage," because He is al-'Alim bi-dhat al-sudur — fully aware of every secret in the breasts.
-
-**The scholars** Ibn Kathir explains that the believers like the hypocrites because they pretend to be believers, "but they do not like you publicly or secretly," and that the believers "have no doubt in any part of Allah's Book, while the hypocrites have deep doubts, confusion and reservations about it." Citing Ibn 'Abbas (through Muhammad bin Ishaq, collected by Ibn Jarir), "you believe in all the Scriptures" means you believe in your Book, their Book, and the previous Books, while they disbelieve in your Book — "this is why they deserve that you dislike them instead of them disliking you." Qatadah notes that al-anamil are the tips of the fingers. Ibn Kathir adds that "Perish in your rage" carries a promise: no matter how much the hypocrites envy the believers, "Allah shall perfect His favor on His believing servants, complete His religion, raise high His Word and give dominance to His religion." Maarif ul Quran calls it "strange" that the believers extend friendship to their worst enemies, noting the hypocrites not only reject the Prophet ﷺ and the believers' Book but that "their belief in their own Books is not correct either" — so the situation should have been the reverse.
-
-**Reflection** Carry your own heart honestly before the One who knows all hearts, and let no enemy's hidden rage shake your trust that Allah will perfect His favor on the believers.
 ## Personal Reflections
-
 

@@ -142,19 +142,5 @@ As regards the possibility of 'Allah Almighty and the angels coming upon them in
 
 If you slip after clear proofs have come to you, know that Allah is Almighty, All-Wise.
 
-## AI Tafsir
-
-**Essence**
-Once Allah's clear proofs have reached you, turning from His command is no light matter — for the One whose truth you would forsake is Almighty in punishment and All-Wise in every decree.
-
-**What it teaches**
-Coming after the command to "enter Silm (Islam) completely, in its entirety," this ayah warns: if you zalaltum — slip or slide back — after the bayyinat (the clear proofs: Prophet Muhammad ﷺ, the Qur'an, and Islam) have come to you, then know Allah is ʿAziz (Almighty, whose vengeance none can escape) and Hakim (All-Wise in His every ruling, action, and the timing of His justice).
-
-**The scholars**
-Ibn Kathir explains that Allah commands the believers to implement all of Islam's law as much as they can and to shun all it forbids; "enter Silm" means Islam — as reported from Ibn 'Abbas, Mujahid, Tawus, Ad-Dahhak, 'Ikrimah, Qatadah, As-Suddi and Ibn Zayd — and "kaffah" means in its entirety, the Tafsir of Ibn 'Abbas, Mujahid, Abu Al-'Aliyah, 'Ikrimah, Ar-Rabi' bin Anas, As-Suddi, Muqatil bin Hayyan, Qatadah and Ad-Dahhak. To "slip after the clear signs" is to deviate from the Truth once proofs have been established against you; Abu Al-'Aliyah, Qatadah and Ar-Rabi' bin Anas said Allah is "Mighty in His vengeance, Wise in His decision." Maarif ul Quran ties the verse to companions like 'Abdullah ibn Salam (radiyallahu 'anhu), former Jewish scholars who, after Islam, wished to keep honouring the Sabbath and avoiding camel-meat as a supposed extra obedience — a "Satanic slip" that risks a punishment far severer than ordinary sin, since Islam must be embraced as one indivisible whole spanning worship, dealings, and every field of life. Maarif adds a stern note against those who confine religion to the mosque and ritual while neglecting social and business rights as though they were no part of faith. Turning to the verse's closing image of the Day matters revert to Allah, Maarif affirms the way of the majority of the Companions, the Tabi'in, their successors and the elders of the ummah toward such mutashabihat: believe in its truth and do not probe the "how," for the reality of Allah's Being and Attributes lies beyond human reason.
-
-**Reflection**
-Surrender to Allah whole — heart, limbs, dealings and worship together — and let any delay in His justice draw you back, never embolden you, before the One who is Almighty and All-Wise.
 ## Personal Reflections
-
 

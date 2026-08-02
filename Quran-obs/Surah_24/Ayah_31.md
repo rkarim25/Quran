@@ -570,13 +570,5 @@ In this verse first the men have been enjoined to keep their eyes low, then the 
 
 And tell the believing women to lower their gaze and guard their chastity, and not to reveal their adornments except what normally appears. Let them draw their veils over their chests, and not reveal their hidden adornments except to their husbands, their fathers, their fathers-in-law, their sons, their stepsons, their brothers, their brothers’ sons or sisters’ sons, their fellow women, those bondwomen in their possession, male attendants with no desire, or children who are still unaware of women’s nakedness. Let them not stomp their feet, drawing attention to their hidden adornments. Turn to Allah in repentance all together, O mu'mins, so that you may be successful.
 
-## AI Tafsir
-
-**Context:** This is a command from Allah to the believing women, and jealousy on His part over the wives of His believing servants.
-
-**What this ayah teaches:** And tell the believing women to lower their gaze, and protect their private parts and not to show off their adornment except that which is apparent, and to draw their veils all over their Juyub and not to reveal their adornment except to their husbands, or their fathers, or their husband's fathers, or their sons, or their husband's sons, or their brothers or their brother's son…
-
-**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas said, "This is the kind of person who has no desire." Ikrimah said, "This is the hermaphrodite, who does not experience erections." This was also the view of others among the Salaf.
 ## Personal Reflections
-
 

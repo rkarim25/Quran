@@ -164,13 +164,5 @@ Ends here
 
 the Scriptures of Ibrahim and Musa.
 
-## AI Tafsir
-
-**Context:** meaning, he purifies himself from despised characteristics and he follows what Allah has revealed to the Messenger ﷺ.
-
-**What this ayah teaches:** Indeed whosoever purifies himself shall achieve success (14)And remembers the Name of his Lord, and performs Salah (15)Rather you prefer the life of this world (16)Although the Hereafter is better and more lasting (17)Verily, this is in the former Scripture (18)The Scriptures of Ibrahim and Musa .
-
-**Classical tafsir:** Ibn Kathir notes: I did not give you kingdom so that you may amass wealth, but I had given you power so that you may let the supplication of the oppressed against the oppressor reach me, because my law does not reject the supplication of an oppressed, even though it may be uttered by an unbeliever…
 ## Personal Reflections
-
 

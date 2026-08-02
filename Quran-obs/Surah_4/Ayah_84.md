@@ -262,15 +262,5 @@ In addition to this, the possible danger in having to fight alone has been remov
 
 So fight in the cause of Allah. You are accountable for none but yourself. And motivate those who have iman, so perhaps Allah will curb those who reject the truth’ might. And Allah is far superior in might and in punishment.
 
-## AI Tafsir
-
-**Context:** (Intercede and you will gain a reward of it. Yet, Allah shall decide whatever He wills by the words of His Prophet.) Mujahid bin Jabr said, "This Ayah was revealed about the intercession of people on behalf of each other…
-
-**What this ayah teaches:** The proof follows immediately when it is declared that he is being helped and supported by Allah Almighty whose strength and might at war far exceeds those of such those who reject the truth, therefore, it is certain that success has got to be his.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, the better Salam is recommended, while returning it equally is an obligation.
-
-**From the Sunnah:** For instance, the Prophet ﷺ said to the believers at the battle of Badr, while organizing their lines, Paradise, between each two grades is the distance between heaven and Earth.
 ## Personal Reflections
-
 

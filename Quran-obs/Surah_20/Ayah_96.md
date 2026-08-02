@@ -183,11 +183,5 @@ Later on he moulded the ornaments, which the Bani Isra'il had thrown in the pit,
 
 He said, “I saw what they did not see, so I took a handful of dust from the hoof-prints of the horse of the messenger-angel Gabriel then cast it on the moulded calf. This is what my lower-self tempted me into.”
 
-## AI Tafsir
-
-**What this ayah teaches:** There is a tradition that he was present on his horse at the river crossing when, the Bani Isra'il having crossed it safely to the other side, the Pharaoh and his army entered the river in pursuit of the fugitives. The detailed story of Samiri and his calf has been given in (hadith ul-futun) in earlier pages of this volume.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

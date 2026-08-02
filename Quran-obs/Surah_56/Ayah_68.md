@@ -144,13 +144,5 @@ Next to food, water is the most important thing upon which human life depends fo
 
 Have you considered the water you drink?
 
-## AI Tafsir
-
-**What this ayah teaches:** Next to food, water is the most important thing upon which human life depends for its sustenance.
-
-**Classical tafsir:** Ibn Kathir notes: Qatadah commented, "You would say, 'We were punished,' sometimes, and, 'We were deprived,' some other times." 'Ikrimah said that 'You will be Tafakkahun' means 'You will blame each other (and yourselves),' or, feel sorrow, according to Al-Hasan, Qatadah and As-Suddi.
-
-**From the Sunnah:** This narration from Qatadah which is Mursal, was recorded by Imam Ahmad in his Musnad from Abu Hurayrah, from the Prophet ﷺ; (Musnad Ahmad)
 ## Personal Reflections
-
 

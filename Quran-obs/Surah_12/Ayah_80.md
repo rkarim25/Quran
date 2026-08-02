@@ -231,11 +231,5 @@ This is the statement of the oldest brother. Some commentators identify him as b
 
 When they lost all hope in him, they spoke privately. The eldest of them said, “Do you not know that your father had taken a solemn oath by Allah from you, nor how you failed him regarding Joseph before? So I am not leaving this land until my father allows me to, or Allah decides for me. For He is the Best of Judges.
 
-## AI Tafsir
-
-**What this ayah teaches:** Yusuf's Brothers consult Each Other in Confidence; the Advice Their Eldest Brother gave Them Allah narrates to us that Yusuf's brothers were desperate because they could not secure the release of their brother Binyamin, even though they had given a promise and sworn to their father to bring him back.
-
-**Classical tafsir:** Ibn Kathir notes: Yusuf's Brothers consult Each Other in Confidence; the Advice Their Eldest Brother gave Them Allah narrates to us that Yusuf's brothers were desperate because they could not secure the release of their brother Binyamin, even though they had given a promise and sworn to their fath…
 ## Personal Reflections
-
 

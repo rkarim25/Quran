@@ -306,15 +306,5 @@ These three requests were aimed at safety against punishment and pain and loss. 
 
 Our Rabb! Indeed, those You commit to the Fire will be disgraced! And the wrongdoers will have no helpers.
 
-## AI Tafsir
-
-**Context:** (O Bilal! What prevents me from crying, when this night, this Ayah was revealed to me,)
-
-**What this ayah teaches:** Verily, we have heard the call of one calling to faith: 'Believe in your Lord,' and we have believed.
-
-**Classical tafsir:** Ibn Kathir notes: In other words it means that they are engaged in the remembrance of Allah under all conditions and at all times.
-
-**From the Sunnah:** The Messenger of Allah ﷺ spoke with his wife for a while and then went to sleep. (Sahih al-Bukhari) The Prophet ﷺ then stood up, performed ablution, used Siwak (to clean his teeth) and prayed eleven units of prayer. (Sahih Muslim)
 ## Personal Reflections
-
 

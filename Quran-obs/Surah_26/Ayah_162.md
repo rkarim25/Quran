@@ -48,11 +48,5 @@ This verse indicates that nice vocations are Allah's Graces, and to draw benefit
 
 I am truly a trustworthy messenger to you.
 
-## AI Tafsir
-
-**What this ayah teaches:** Therefore, the meaning of the verse is that Allah Ta’ ala has favoured you by teaching such skills that you could make houses by cutting hills. Useful vocations are Divine Graces provided they are not employed in bad things This verse indicates that nice vocations are Allah's Graces, and to draw benefit from them is lawful.
-
-**Classical tafsir:** Ibn Kathir notes: Useful vocations are Divine Graces provided they are not employed in bad things This verse indicates that nice vocations are Allah's Graces, and to draw benefit from them is lawful.
 ## Personal Reflections
-
 

@@ -122,13 +122,5 @@ The answer is that the restriction in this verse is in contrast to a palatable f
 
 with no food except a foul, thorny plant
 
-## AI Tafsir
-
-**What this ayah teaches:** This verse restricts their food to dari', thus: 'There will be no food for them except from a thorny plant...88:6) The answer is that the restriction in this verse is in contrast to a palatable food that may be fit for [ human ] consumption.
-
-**Classical tafsir:** Ibn Kathir notes: On another occasion, it refers to zaqqum, and on a third occasion it refers to ghislin.
-
-**From the Sunnah:** It has already been mentioned on the authority of An-Nu'man bin Bashir that the Messenger of Allah ﷺ used to recite Surat Al-A'la (87) and Al-Ghashiyah in the 'Id and Friday prayers. (Sahih Muslim, Sunan Abi Dawud)
 ## Personal Reflections
-
 

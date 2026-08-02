@@ -127,13 +127,5 @@ Tafsir authority, Mujahid, has said: Since Sayyidna Yusuf (علیہ السلام
 
 This is how We established Joseph in the land to settle wherever he pleased. We shower Our mercy on whoever We will, and We never discount the reward of the good-doers.
 
-## AI Tafsir
-
-**What this ayah teaches:** We bestow of Our mercy on whom We will, and We make not to be lost the reward of the good doers (56)And verily, the reward of the Hereafter is better for those who believed and had Taqwa .
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, he never lost sight of his basic objective, that is, inviting the king of Egypt to faith and Islam.
-
-**From the Sunnah:** As time passed, his efforts bore fruits by the grace of Allah and the king of Egypt too became a believing Muslim. (Sahih Muslim)
 ## Personal Reflections
-
 

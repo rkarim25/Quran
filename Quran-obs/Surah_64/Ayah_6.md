@@ -125,13 +125,5 @@ Informing about the past nations and the torment and disciplinary lessons that t
 
 That was because their messengers came with clear proofs, but they said mockingly: 'How can humans be our guides?' So they persisted in rejection and turned away. Allah was not in need of them. He is Self-Sufficient, Praiseworthy.
 
-## AI Tafsir
-
-**What this ayah teaches:** And so they tasted the evil result of their disbelief, and theirs will be a painful torment (5)That was because there came to them their Messengers with Bayyinat, but they said: "Shall mere men guide us?" So they disbelieved and turned away.
-
-**Classical tafsir:** Ibn Kathir notes: And so they tasted the evil result of their disbelief, and theirs will be a painful torment (5)That was because there came to them their Messengers with Bayyinat, but they said: "Shall mere men guide us?" So they disbelieved and turned away.
-
-**From the Sunnah:** Alas, there is also a group of Muslims who denies the mortality of the Allah’ s Messenger.
 ## Personal Reflections
-
 

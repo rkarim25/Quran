@@ -227,11 +227,5 @@ The word لَنُحَرِّقَنَّہ، means "we will certainly burn it". Her
 
 Moses said, “Go away then! And for the rest of your life you will surely be crying, ‘Do not touch me!’ Then you will certainly have a fate that you cannot escape. Now look at your god to which you have been devoted: we will burn it up, then scatter it in the sea completely.”
 
-## AI Tafsir
-
-**What this ayah teaches:** And verily, your (punishment) in this life will be that you will say: 'Touch me not;' and verily, you have a promise that will not fail. Thus he was condemned to spend the rest of his life away from all social contacts - like a wild animal.
-
-**Classical tafsir:** Ibn Kathir notes: Here the question arises: how could the calf which was carved from gold and silver be burnt, because these metals when subjected to extreme heat are melted but are not reduced to ashes.
 ## Personal Reflections
-
 

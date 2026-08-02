@@ -178,13 +178,5 @@ Commentary
 
 O mu'mins! Bow down, prostrate yourselves, worship your Rabb, and do what is good so that you may be successful.
 
-## AI Tafsir
-
-**What this ayah teaches:** A person is not obliged to stand during the prayer if he is sick; the sick person may pray sitting down, and if he is not able to do that then he may pray lying on his side.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, on the Day of Resurrection the testimony of the members of this community will be accepted as proof that the Messengers conveyed the Message of their Lord to them, and the Messenger will testify that he conveyed the Message to them.
-
-**From the Sunnah:** He has named you Muslims both before and in this (Qur'an), that the Messenger may be a witness over you and you be witnesses over mankind! It was reported from 'Uqbah bin 'Amir that the Prophet ﷺ said:
 ## Personal Reflections
-
 

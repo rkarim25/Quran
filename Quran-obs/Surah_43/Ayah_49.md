@@ -87,11 +87,5 @@ Incidents related to Sayyidna Musa (علیہ السلام) have been stated by t
 
 Then they pleaded: "O mighty sorcerer! Pray to your Lord on our behalf, by virtue of the covenant He made with you. We will certainly accept guidance."
 
-## AI Tafsir
-
-**What this ayah teaches:** Invoke your Lord for us according to what He has made a pact with you. Invoke your Lord for us because of His promise to you.
-
-**Classical tafsir:** Ibn Kathir notes: Invoke your Lord for us because of His promise to you.
 ## Personal Reflections
-
 

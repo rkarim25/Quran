@@ -269,13 +269,5 @@ In gist, the people of Sayyidna ibn Musa (علیہ السلام) ، bygiving him
 
 They said, “O Moses! we will never enter as long as they remain there. So go—both you and your Rabb—and fight; we are staying right here!”
 
-## AI Tafsir
-
-**What this ayah teaches:** Therefore, they said, we are incapable of entering this city as long as they are still in it, but if they leave it, we will enter it. Therefore, the evil works of the Jews were exposed to everyone, and the exposure was such an enormous one that the night, or the tail, can never cover its tracks.
-
-**Classical tafsir:** Ibn Kathir notes: It was also said that the Ayah reads in a way that means that these men were respected and honored by their people.
-
-**From the Sunnah:** The Muslim Ummah is more respected and honored before Allah, and has a more perfect legislative code and system of life, it has the most honorable Prophet, the larger kingdom, more provisions, wealth and children, a larger domain and more lasting glory than th… (Sahih Muslim) Musa, Allah's Messenger, ordered the Children of Israel to enter Jerusalem and fight their enemy, and he promised them…
 ## Personal Reflections
-
 

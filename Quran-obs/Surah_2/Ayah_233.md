@@ -469,22 +469,5 @@ After stating all these injunctions relating to rada` ah (suckling) رضاعہ �
 
 Mothers should nurse their children two full years for those who wish to complete nursing. The father is responsible for their food and clothing fairly. No soul is burdened beyond capacity. No mother or father should suffer because of their child. The heirs have the same duty. If both agree by mutual consent to wean early, there is no blame. If you choose wet-nurses, pay them fairly. Live with taqwa and know that Allah sees what you do.
 
-## AI Tafsir
-
-**Essence**
-Allah orders that infants be nursed for two full years, places the cost of the mother's food and clothing on the father in fairness, and forbids either parent from using the child as a weapon to harm the other.
-
-**What it teaches**
-The ayah sets the complete nursing term at two years (hawlayn kamilayn) for those who wish to fulfil it, and makes the father responsible for the mother's provision (rizq) and clothing (kiswah) bil-ma'ruf, "in a fair manner" used by similar women, without extravagance or stinginess. It closes with a command to taqwa (mindfulness of Allah), reminding the parties that Allah is Basir, All-Seeing of what they do.
-
-**The scholars**
-Ibn Kathir explains this is Allah's direction to mothers to nurse for the full two-year term, so the suckling that establishes Tahrim (the marriage prohibition through milk-kinship) is only what occurs within those two years; what comes after does not establish it. On "no mother shall be made to suffer on account of her child, nor father on account of his child," he reports the Tafsir of Mujahid, Qatadah, Ad-Dahhak, Az-Zuhri, As-Suddi, Ath-Thawri and Ibn Zayd: the mother must not withhold nursing to harm the father, nor may the father seize the child from her to harm the mother. On the heir's duty (wa 'ala al-warith mithlu dhalik), Ibn Kathir cites the view of the majority that the inheritor must spend on the mother and preserve her rights just as the father did. Ad-Dahhak adds that a man who divorces the mother of his child must still provide her food and clothing within reason. Maarif ul Quran stresses the Qur'an's tender wording: it calls the father al-mawludi lahu, "the one to whom the child is born," rather than simply "father," so the duty of expenses feels lighter, since the child's lineage is ascribed to him. Maarif also notes that nursing is the mother's own duty for which she may claim no wages while married or in 'iddah (her maintenance suffices), that Abu Hanifah extended the legal term to thirty months for a valid excuse while breastfeeding beyond two and a half years is unanimously forbidden, and that weaning must be by mutual consultation so the child's welfare, not the parents' quarrels, governs the decision.
-
-**From the Sunnah**
-The Prophet ﷺ said milk-kinship is established only by suckling "on the breast and before weaning (fitam)" (Jami' at-Tirmidhi, from Umm Salamah, graded Hasan Sahih); Tirmidhi's chapter and the scholars gloss this as the suckling that falls within the first two years. In a second narration the Prophet ﷺ said suckling establishes Tahrim "only within the two years," with the added words "whatever occurs after the two years is not considered" (Sunan ad-Daraqutni, from Ibn 'Abbas; also reported by Imam Malik through Thawr bin Zayd from Ibn 'Abbas).
-
-**Reflection**
-Carry out family duties not as cold law but with taqwa and fairness, never turning a child into a tool of resentment, knowing Allah is All-Seeing of what they do.
 ## Personal Reflections
-
 

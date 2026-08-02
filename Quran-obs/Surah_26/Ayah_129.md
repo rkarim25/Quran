@@ -90,11 +90,5 @@ This verse indicates that the construction of houses and buildings without need 
 
 and construct castles, as if you are going to live forever,
 
-## AI Tafsir
-
-**What this ayah teaches:** This refers to the fact that they were physically strong and well-built, and very violent, and very tall; they had also been given a great deal of provisions, wealth, gardens, rivers, sons, crops and fruits. His people used to live in the Ahqaf, curved sand-hills near Hadramawt, on the borders of Yemen.
-
-**Classical tafsir:** Ibn Kathir notes: This refers to the fact that they were physically strong and well-built, and very violent, and very tall; they had also been given a great deal of provisions, wealth, gardens, rivers, sons, crops and fruits.
 ## Personal Reflections
-
 

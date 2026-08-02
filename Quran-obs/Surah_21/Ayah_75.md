@@ -105,13 +105,5 @@ The name of the city from which Sayyidna Lut (علیہ السلام) was saved a
 
 And We admitted him into Our mercy, for he was truly one of the righteous.
 
-## AI Tafsir
-
-**Context:** And We rescued him and Lut to the land which We have blessed for the nations (71)And We bestowed upon him Ishaq, and Ya'qub Nafilatan.
-
-**What this ayah teaches:** Verily, they were a people given to evil, and were rebellious (74)And We admitted him to Our mercy; truly, he was of the righteous . And We admitted him to Our mercy; truly, he was of the righteous.)
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

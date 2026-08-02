@@ -88,11 +88,5 @@ The meaning of مُسَارَعَت فِی الخَیرَات is that just as or
 
 it is they who race to do good deeds, always taking the lead.
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, those who live in awe for fear of their Lord (57)And those who believe in the Ayat of their Lord (58)And those who join not anyone as partners with their Lord (59)And those who give that which they give with their hearts full of fear, because they are sure to return to their Lord (60)It is these who hasten in the good deeds, and they are foremost in them .
-
-**Classical tafsir:** Ibn Kathir notes: Verily, those who live in awe for fear of their Lord (57)And those who believe in the Ayat of their Lord (58)And those who join not anyone as partners with their Lord (59)And those who give that which they give with their hearts full of fear, because they are sure to return to th…
 ## Personal Reflections
-
 

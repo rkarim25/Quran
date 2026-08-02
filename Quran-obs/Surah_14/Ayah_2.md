@@ -146,13 +146,5 @@ The gist of the verse is that the Qur'an has been revealed so that it rescues al
 
 Allah, to whom belongs whatever is in the heavens and whatever is on the earth. Woe to those who reject the truth for a severe torment.
 
-## AI Tafsir
-
-**Context:** ((This is) a Book which We have revealed unto you...) Allah says, 'This is a Book that We have revealed to you, O Muhammad.
-
-**What this ayah teaches:** Allah to Whom belongs all that is in the heavens and all that is in the earth!
-
-**Classical tafsir:** Ibn Kathir notes: When the those who reject the truth do this, they become engulfed in ignorance and misguidance far away from truth, and therefore, there is no hope that they will gain guidance and correctness while on this state.
 ## Personal Reflections
-
 

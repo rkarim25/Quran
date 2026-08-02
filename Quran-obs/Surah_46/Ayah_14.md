@@ -174,13 +174,5 @@ The first two of the above verses are a complement to the previous verses which 
 
 They are the people of Paradise, remaining there forever—a reward for what they used to do.
 
-## AI Tafsir
-
-**Context:** (from Allah, and you disbelieved in it?) meaning, 'what do you think that Allah will do to you if this Book that I have come to you with is actually revealed to me from Him in order that I convey it to you, and yet you d…
-
-**What this ayah teaches:** And Qurtubi, with reference to Qushairi has stated the connection to be that there is a kind of solace in it for the Holy Prophet ﷺ that he should continue calling people towards faith and 'tauhid' (the Oneness of Allah) and should not be disheartened if some people do not accept his invitation, because men, by nature, are of diverse characteristics, and some of them do not ref…
-
-**Classical tafsir:** Ibn Kathir notes: The pagans said this only because they thought that they held a high status with Allah, and that He took special care of them.
 ## Personal Reflections
-
 

@@ -162,13 +162,5 @@ To protect him from the guile of these women, Allah Ta ala made his own wise arr
 
 So his Rabb responded to him, turning their cunning away from him. Surely He is the All-Hearing, All-Knowing.
 
-## AI Tafsir
-
-**What this ayah teaches:** Surely, He is the All-Hearing, the All-Knowing.
-
-**Classical tafsir:** Ibn Kathir notes: This indicates the best and most perfect grade in this case, for Yusuf was youthful, beautiful and full of manhood.
-
-**From the Sunnah:** An authentic Hadith stated that the Messenger of Allah passed ﷺ by Prophet Yusuf, during the Night of Isra' in the third heaven and commented, (authentic hadith)
 ## Personal Reflections
-
 

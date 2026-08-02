@@ -95,11 +95,5 @@ The word سَمِی means "person having the same name." It also means "similar.
 
 The angels announced: "O Zachariah, We give you good news of a son whose name will be John—a name We have given to no one before."
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, We give you the good news of a son, whose name will be Yahya. We have given that name to none before (him).
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

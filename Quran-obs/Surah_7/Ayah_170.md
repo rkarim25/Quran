@@ -176,11 +176,5 @@ The next thing we note in this verse is that out of a large number of doctrines 
 
 As for those who firmly abide by the Scripture and establish salah—surely We never discount the reward of those acting righteously.
 
-## AI Tafsir
-
-**What this ayah teaches:** Do not you then understand (169)And as to those who hold fast to the Book (act on its teachings) and perform the Salah, certainly We shall never waste the reward of those who do righteous deeds .
-
-**Classical tafsir:** Ibn Kathir notes: The term 'Book' most probably refers to the Torah.
 ## Personal Reflections
-
 

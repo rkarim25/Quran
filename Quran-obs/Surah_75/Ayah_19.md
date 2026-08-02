@@ -178,15 +178,5 @@ In conclusion, the passage says: اِنَّ عَلَيْنَا بَيَانَه�
 
 Then it is upon Us to make its meaning clear.
 
-## AI Tafsir
-
-**Context:** This is Allah teaching His Messenger ﷺ how to receive the revelation from the angel. For verily, he (the Prophet ﷺ) was rushing in his attempts to grasp the revelation and he would be reciting the revelation with the ang…
-
-**What this ayah teaches:** This issue is something that the Companions, the Successors and the Salaf of this nation have agreed upon, and all praise is due to Allah.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, Allah commanded him that when the angel brings some revelation to him he should just listen.
-
-**From the Sunnah:** For verily, he (the Prophet ﷺ) was rushing in his attempts to grasp the revelation and he would be reciting the revelation with the angel while he was reciting it. the Messenger of Allah ﷺ used to struggle very hard to grasp the revelation and he used to move his lips (rapidly with the recitation). (Musnad Ahmad)
 ## Personal Reflections
-
 

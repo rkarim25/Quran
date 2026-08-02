@@ -175,13 +175,5 @@ In brief, when the Holy Prophet ﷺ became very sad because of such demands, thi
 
 Perhaps you O Prophet may wish to give up some of what is revealed to you and may be distressed by it because they say, “If only a treasure had been sent down to him, or an angel had come with him!” You are only a warner, and Allah is the Trustee of All Affairs.
 
-## AI Tafsir
-
-**Context:** The fourth verse (12) has been revealed about a particular event. What happened was that the Mushriks of Makkah placed a host of demands before the Holy Prophet One of these was, ` our idols have been maligned in this Qu…
-
-**What this ayah teaches:** So perchance you may give up a part of what is revealed unto you, and that your breast feels straitened for it because they say, "Why has not a treasure been sent down unto him, or an angel come with him" But you are only a warner.
-
-**Classical tafsir:** Ibn Kathir notes: The introduction of the statement in verse 12 with the word: aW (la'allaka: Is it then expected of you) does not mean that something like that could be expected of him actually.
 ## Personal Reflections
-
 

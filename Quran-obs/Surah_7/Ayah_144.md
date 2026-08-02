@@ -119,11 +119,5 @@ As to the question what was the nature and character of this discourse, cannot b
 
 Allah said, “O Moses! I have elevated you above all others by My messages and speech. So hold firmly to what I have given you and be grateful.”
 
-## AI Tafsir
-
-**What this ayah teaches:** So hold that which I have given you and be of the grateful. The wording of the present verse indicates that this later discourse of Allah had some additional characteristics as compared to the first speech of Allah.
-
-**Classical tafsir:** Ibn Kathir notes: The wording of the present verse indicates that this later discourse of Allah had some additional characteristics as compared to the first speech of Allah.
 ## Personal Reflections
-
 

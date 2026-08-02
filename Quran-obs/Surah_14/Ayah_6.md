@@ -224,11 +224,5 @@ The second verse (6) carries details of what was said earlier, that is, when Say
 
 Recall when Moses said to his people: "Remember Allah's favour upon you when He rescued you from Pharaoh's people, who afflicted you with dreadful torment—slaughtering your sons and sparing your women. That was a severe trial from your Rabb."
 
-## AI Tafsir
-
-**What this ayah teaches:** Allah delivered them from all this torment, and this is a great bounty, indeed.
-
-**Classical tafsir:** Ibn Kathir notes: It is possible that this Ayah means, your Lord has vowed and sworn by His might, grace and exaltness.
 ## Personal Reflections
-
 

@@ -162,11 +162,5 @@ Therefore, those who rush to obey Allah in this life and are foremost in perform
 
 When the earth is shaken with a violent shake,
 
-## AI Tafsir
-
-**What this ayah teaches:** When the earth will be shaken with a terrible shake.)(5.
-
-**Classical tafsir:** Ibn Kathir notes: They are the chiefs of those on the right side, because they include the Messengers, Prophets, true believers and martyrs.
 ## Personal Reflections
-
 

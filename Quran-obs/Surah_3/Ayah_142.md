@@ -182,13 +182,5 @@ In this mortal world, the customary practice of Allah Almighty is to cause the d
 
 Do you think you will enter Paradise without Allah proving which of you struggled and patiently endured?
 
-## AI Tafsir
-
-**What this ayah teaches:** Do you think that you will enter Paradise before Allah knows (tests) those of you who will perform Jihad and (also) knows (tests) those who are the patient?) The Ayah asks, do you think that you will enter Paradise without being tested with warfare and hardships?
-
-**Classical tafsir:** Ibn Kathir notes: This is a plain statement for mankind), meaning, the Qur'an explains the true reality of things and narrates how the previous nations suffered by the hands of their enemies.
-
-**From the Sunnah:** Paradise before Allah knows (tests) those of you who performed Jihad and knows (tests) those who are patient (142)You did indeed wish for death before you met it. The second verse that follows gives consolation to Muslims from another angle. (Sahih Muslim)
 ## Personal Reflections
-
 

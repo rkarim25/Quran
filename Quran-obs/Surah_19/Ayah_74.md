@@ -107,11 +107,5 @@ Allah Ta` ala has dispelled the mistaken notions of the infidels by saying that 
 
 How many peoples We destroyed before them who were far better in luxury and splendour!
 
-## AI Tafsir
-
-**What this ayah teaches:** However, it is a common experience that material wealth turns people's heads and makes them unduly proud and arrogant, so that even the sensible and wise among them are led to believe that their prosperity and affluence is the reward of their personal merit and effort, and will last forever.
-
-**Classical tafsir:** Ibn Kathir notes: Thus, this means that their meeting rooms are full of more people who come to attend.
 ## Personal Reflections
-
 

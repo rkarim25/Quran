@@ -188,11 +188,5 @@ In a Hadith, the Holy Prophet ﷺ said, 'Of some صِّدِّيقِين (siddiqi
 
 When he came to them with the truth from Us, they said: "Kill the sons of those who believe with him and keep their women." But the plotting of those who reject the truth was only in vain.
 
-## AI Tafsir
-
-**What this ayah teaches:** But, the truth of the matter is that Habib is the name of the person who has been mentioned in Surah Sin (36:20).
-
-**Classical tafsir:** Ibn Kathir notes: Qatadah said, this was one command after another.
 ## Personal Reflections
-
 

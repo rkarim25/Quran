@@ -127,13 +127,5 @@ Included within this grace and increase is the promise of Allah Ta’ ala that H
 
 Those who recite the Book of Allah, establish salah, and spend from what We provided—secretly and openly—can hope for an exchange that will never fail,
 
-## AI Tafsir
-
-**What this ayah teaches:** When the text says 'secretly and openly', it indicates that it is often better to spend secretly in order to stay safe from riya' (show off) in acts of worship.
-
-**Classical tafsir:** Ibn Kathir notes: When the text says 'secretly and openly', it indicates that it is often better to spend secretly in order to stay safe from riya' (show off) in acts of worship.
-
-**From the Sunnah:** The Muslims will be the Ones Who gain in the Hereafter Muslim jurists have laid out details in the matter of salah and spending in the way of Allah. (Sahih Muslim)
 ## Personal Reflections
-
 

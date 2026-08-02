@@ -158,13 +158,5 @@ This is what is known as God gifted awe of truth, veracity and reality. The cont
 
 Pharaoh protested, “Did we not raise you among us as a child, and you stayed several years of your life in our care?
 
-## AI Tafsir
-
-**What this ayah teaches:** This is not only cruelty but also ingratitude toward those among whom you are raised to your manhood. In the first place he changed the sequence of the topics in that he brought up the case of the Egyptian first which the Pharaoh had raised latter.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** The contentions and dialectics of Allah's messengers are also full of truth, veracity and wishing well for the addressee.
 ## Personal Reflections
-
 

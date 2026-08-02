@@ -140,11 +140,5 @@ About the sentence which follows immediately after: يَرْ‌جُونَ رَ�
 
 Even the closest to Allah of those invoked would be seeking a way to their Rabb, hoping for His mercy, and fearing His punishment. Indeed, your Rabb’s torment is fearsome.
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, the torment of your Lord is (something) to be afraid of .
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

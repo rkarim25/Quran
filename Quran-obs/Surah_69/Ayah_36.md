@@ -82,11 +82,5 @@ Ad-Dahhak said, "Meaning a death which is not followed by any life." Likewise sa
 
 nor any food except oozing pus,
 
-## AI Tafsir
-
-**What this ayah teaches:** The verses signify that on the Day of Resurrection he will have no friend that will support him or save him from punishment, nor will he have anything to eat except the filthy water with which pus exuding from the wound of the inmates of Hell might have been washed. Nor any food except filth from the washing of wounds.
-
-**Classical tafsir:** Ibn Kathir notes: Qatadah said, "It will be the worst food of the people of the Hellfire." Ar-Rabi' and Ad-Dahhak both said, "It (Ghislin) is a tree in Hell." Shabib bin Bishr reported from 'Ikrimah that Ibn 'Abbas said, 'Ghislin will be the blood and fluid that will flow from their flesh." 'Ali bin Abi Talhah report… The word ghislin with 'gh' bearing the kasrah [= i ] refers to the water with which the pus and bloo…
 ## Personal Reflections
-
 

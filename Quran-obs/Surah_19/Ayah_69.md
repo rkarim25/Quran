@@ -140,11 +140,5 @@ The word is applied to a particular person or the followers of a particular fait
 
 We will begin by dragging from every group those most defiant toward the Rahman.
 
-## AI Tafsir
-
-**What this ayah teaches:** Then, Allah will begin with the greatest of them in crime and continue in succession. This means that He, the Exalted, created the human being while he was nothing.
-
-**Classical tafsir:** Ibn Kathir notes: This means that He, the Exalted, created the human being while he was nothing.
 ## Personal Reflections
-
 

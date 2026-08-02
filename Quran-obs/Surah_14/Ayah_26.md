@@ -150,13 +150,5 @@ As a matter of principle, it can be said that taking one world on the analogy of
 
 The parable of an evil word is an evil tree, uprooted from the earth, with no stability.
 
-## AI Tafsir
-
-**What this ayah teaches:** A goodly word as a goodly tree, whose root is firmly fixed, and its branches (reach) to the sky (24)Giving its fruit at all times, by the leave of its Lord, and Allah sets forth parables for mankind in order that they may remember (25)And the parable of an evil word is that of an evil tree uprooted from the surface of earth, having no stability .
-
-**Classical tafsir:** Ibn Kathir notes: As for the bad tree, the Quran describes it by saying that its roots do not go deep into the earth, therefore, anyone can pull out the whole of it at will.
-
-**From the Sunnah:** At that time, he asked his Companions: Out of the many trees, there is the tree which is like a believer (at this point, in a narration of Sahih al-Bukhari, it has been mentioned that the Holy Prophet ﷺ also said: The leaves of this tree do not fall in any sea… (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
-
 

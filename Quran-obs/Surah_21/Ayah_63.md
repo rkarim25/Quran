@@ -149,13 +149,5 @@ Thus these attributes being only habitual, they can be changed whenever God so w
 
 He replied sarcastically, “No, this one—the biggest of them—did it! So ask them, if they can talk!”
 
-## AI Tafsir
-
-**What this ayah teaches:** One of them is that his statement is in the nature of an assumption i.e.
-
-**Classical tafsir:** Ibn Kathir notes: This is called tauriyah (dissembling) where the words used may be interpreted differently, so that the listener understands them one way whereas the speaker means something else.
-
-**From the Sunnah:** In the Two Sahihs it was recorded from Abu Hurayrah that the Messenger of Allah ﷺ said:
 ## Personal Reflections
-
 

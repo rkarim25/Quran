@@ -128,11 +128,5 @@ Following forbidden things - a type of idolatry
 
 Or do you think that most of them listen or understand? They are only like cattle—no, more than that, they are astray from the Sirat al-Mustaqim!
 
-## AI Tafsir
-
-**What this ayah teaches:** Cattle only do what they were created to do, but these people were created to worship Allah Alone without associating partners with Him, but they worship others with Him, even though evidence has been established against them and Messengers have been sent to them.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

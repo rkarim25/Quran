@@ -88,11 +88,5 @@ As for the sense of: وَشَارِ‌كْهُمْ فِي الْأَمْوَال
 
 It is your Rabb Who steers the ships for you through the sea, so that you may seek His bounty. Surely He is ever Merciful to you.
 
-## AI Tafsir
-
-**What this ayah teaches:** Your Lord is He Who drives the ship for you through the sea, in order that you may seek of His bounty.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

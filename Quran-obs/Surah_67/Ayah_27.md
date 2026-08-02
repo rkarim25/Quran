@@ -183,11 +183,5 @@ After this, the non-believers are threatened with punishment. Towards the end of
 
 When they see the torment drawing near, the faces of the those who reject the truth will darken, and it will be said: 'This is what you claimed would never come.'
 
-## AI Tafsir
-
-**What this ayah teaches:** So, when what they denied occurs, it will grieve them because they will know what is awaiting them there (in Hell) of the worst evil.
-
-**Classical tafsir:** Ibn Kathir notes: This means that it will surround them and Allah will command what they were not able to reckon or fully comprehend to come to them.
 ## Personal Reflections
-
 

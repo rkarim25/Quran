@@ -114,11 +114,5 @@ The next verse (54) says إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِ�
 
 so eat and graze your cattle. Surely in this are signs for people of sound judgment.
 
-## AI Tafsir
-
-**What this ayah teaches:** And We have brought forth with it various kinds of vegetation (53)Eat and pasture your cattle; verily, in this are Ayat for men of understanding (54)Thereof We created you, and into it We shall return you, and from it We shall bring you out once again (55)And indeed We showed him (Fir'awn) all Our Ayat, but he denied and refused .
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

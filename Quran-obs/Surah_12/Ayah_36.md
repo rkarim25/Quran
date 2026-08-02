@@ -179,11 +179,5 @@ Another view of this problem is that Allah Ta` ala does not like His great proph
 
 And two other servants went to jail with Joseph. One of them said, “I dreamt I was pressing wine.” The other said, “I dreamt I was carrying some bread on my head, from which birds were eating.” Then both said, “Tell us their interpretation, for we surely see you as one of the good-doers.”
 
-## AI Tafsir
-
-**What this ayah teaches:** However, one of them, that is, the royal cup-bearer, said: ` I have seen myself (in dream) pressing wine,' and the other, that is, the cook, said: ` I have seen myself carrying bread on my head of which the birds are eating.' Then, they requested him to interpret the dreams for them.
-
-**Classical tafsir:** Ibn Kathir notes: Two Jail Mates ask Yusuf to interpret their Dreams Qatadah said, "One of them was the king's distiller and the other was his baker." Each of these two men had a dream and asked Yusuf to interpret it for them.
 ## Personal Reflections
-
 

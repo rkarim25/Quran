@@ -163,13 +163,5 @@ The other explanation could be that after getting in Hell, your sharing the puni
 
 So hold firmly to what has been revealed to you. You are truly on the Straight Path—the way of living that pleases Allah.
 
-## AI Tafsir
-
-**Context:** And whosoever Ya'shu (turns away blindly) from the remembrance of the ar-Rahman, We appoint for him Shaytan to be a Qarin (a companion) to him (36)And verily, they hinder them from the path, but they think that they…
-
-**What this ayah teaches:** Verily, you are on the straight path.) means, hold fast to the Qur'an which has been sent down to your heart, for it is truth and what it leads to is truth that shows the way to the straight path that leads to Gardens of Delight and eternal, everlasting goodness.
-
-**Classical tafsir:** Ibn Kathir notes: This means that it is an honor for them in that it was revealed in their language, so they are the people who have the best understanding of it among mankind and hence are obliged to be the most steadfast in adhering to its commandments.
 ## Personal Reflections
-
 

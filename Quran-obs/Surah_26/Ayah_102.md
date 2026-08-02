@@ -128,13 +128,5 @@ In accordance with the commonly adopted explanation of the verse it has now beco
 
 If only we could have a second chance, then we would be mu'mins.”
 
-## AI Tafsir
-
-**What this ayah teaches:** It simply says that the thing negated in the first sentence is found in someone else.) A simple example for this expression is that a person is asked about Zaid whether he has some wealth and children, and he replies, "No, his wealth and children are nothing but his sound heart." The same expression is used in this verse.
-
-**Classical tafsir:** Ibn Kathir notes: It may also be noted that "sound heart" literally means a healthy heart.
-
-**From the Sunnah:** In accordance with the commonly adopted explanation of the verse it has now become clear that the wealth of a person could be of help to him on the Dooms Day, provided he is a Muslim. (Sahih Muslim)
 ## Personal Reflections
-
 

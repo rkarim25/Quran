@@ -355,15 +355,5 @@ According to Sayyidna Ibn ` Abbas ؓ ، Sayyidah A’ shah ؓ and Hadrat Dahhak 
 
 O you who have iman! It is not permissible for you to inherit women against their will or mistreat them to make them return some of the dowry —unless they are found guilty of adultery. Treat them fairly. If you happen to dislike them, you may hate something which Allah turns into a great blessing.
 
-## AI Tafsir
-
-**Context:** (O you who believe! You are not permitted to inherit women against their will,) "Before, the practice was that when a man dies, his male relatives used to have the right to do whatever they wanted with his wife.
-
-**What this ayah teaches:** Similarly, if someone forces a woman and takes back the dower he had given her, or compels her to forgo the outstanding dower, this forced return or forgiveness is not valid in the sight of the Shari'ah.
-
-**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas, 'Ikrimah and Ad-Dahhak said that Fahishah refers to disobedience and defiance.
-
-**From the Sunnah:** that Ibn 'Abbas said about the Ayah, (Sahih al-Bukhari) It was the practice of the Messenger of Allah ﷺ to be kind, cheerful, playful with his wives, compassionate, spending on them and laughing with them.
 ## Personal Reflections
-
 

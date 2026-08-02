@@ -142,13 +142,5 @@ It is learnt from the above verse that making noises with the intention of creat
 
 So We will certainly make them taste severe punishment and repay them according to the worst of their deeds.
 
-## AI Tafsir
-
-**What this ayah teaches:** And the Word is justified against them as it was justified against those who were among the previous generations of Jinn and men that had passed away before them. Show us those among Jinn and men who led us astray, that we may crush them under our feet so that they become the lowest.
-
-**Classical tafsir:** Ibn Kathir notes: And the Word is justified against them as it was justified against those who were among the previous generations of Jinn and men that had passed away before them.
-
-**From the Sunnah:** "And make noise in the midst of its (recitation)" means whistling and trying to make the Messenger of Allah ﷺ confused when he recited Qur'an, which is what the Quraysh did.
 ## Personal Reflections
-
 

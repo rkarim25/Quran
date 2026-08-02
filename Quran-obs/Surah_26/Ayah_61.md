@@ -111,13 +111,5 @@ When the Pharaoh's army, which was in their pursuit, reached right behind them, 
 
 When the two groups came face to face, the companions of Moses cried out, “We are overtaken for sure.”
 
-## AI Tafsir
-
-**Context:** So, they pursued them at sunrise (60)And when the two hosts saw each other, the companions of Musa said: "We are sure to be overtaken. (61)(Musa) said: "Nay, verily with me is my Lord. He will guide me.
-
-**What this ayah teaches:** He, therefore, replied firmly that they will never be caught.
-
-**Classical tafsir:** Ibn Kathir notes: 'Ata' Al-Khurasani said, "It refers to a pass between two mountains." Ibn 'Abbas said, "The sea divided into twelve paths, one for each of the tribes." As-Suddi added, "And in it there were windows through which they could see one another, and the water was erected like walls." Allah sent the wind t…
 ## Personal Reflections
-
 

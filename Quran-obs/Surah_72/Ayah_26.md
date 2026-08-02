@@ -140,13 +140,5 @@ The purport of the verse under comment is to affirm the totality of Allah's know
 
 He is the Knower of the unseen and discloses none of it to anyone—
 
-## AI Tafsir
-
-**What this ayah teaches:** The definite article alif lam in al-ghaib 'the Unseen' is grammatically referred to as alif lam for istighraq lil jins 'the article encompassing and indicating the entire genus' [ as stated in Ruh with reference to Radi, that is, He is Omniscient - knowing every species of the Unseen and all genera of the Unseen.
-
-**Classical tafsir:** Ibn Kathir notes: In the idafah [ possessive case ] construction ghaibihi 'His Unseen', the possessive pronoun refers to 'Allah' and reinforces His predominance over the Unseen.
-
-**From the Sunnah:** In this noble Ayah is an evidence that the Hadith that many of the ignorant people often circulate, which says that the Prophet ﷺ will not remain under the earth more than one thousand years (i.e., the Hour will be before that period) is a baseless lie.
 ## Personal Reflections
-
 

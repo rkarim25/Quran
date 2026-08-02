@@ -82,11 +82,5 @@ My respected father, Maulana Muhammad Yasin, a dear disciple of Maulana Muhammad
 
 Pharaoh ordered: "O Haman, build me a high tower so I may reach the pathways
 
-## AI Tafsir
-
-**What this ayah teaches:** Since no one expects any head of the state to go that wild in his imagination, therefore, some commentators have said that this much he too knew that, no matter how high a structure is made for him, he still cannot reach the skies (by that mode of ascent).
-
-**Classical tafsir:** Ibn Kathir notes: Since no one expects any head of the state to go that wild in his imagination, therefore, some commentators have said that this much he too knew that, no matter how high a structure is made for him, he still cannot reach the skies (by that mode of ascent).
 ## Personal Reflections
-
 

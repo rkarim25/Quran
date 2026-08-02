@@ -140,13 +140,5 @@ Al-Bukhari recorded that Sa'id bin Jubayr said: "A Jew from the people of Hirah 
 
 One of the two daughters suggested, “O my dear father! Hire him. The best man for employment is definitely the strong and trustworthy one.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Rather she said: "My father is inviting you so that he may reward you for watering our sheep," i.e., give you some payment for that.
-
-**Classical tafsir:** Ibn Kathir notes: And there is evidence which indicates that Musa, peace be upon him, fulfilled the longer of the two terms.
-
-**From the Sunnah:** And the Messenger of Allah ﷺ said to Hamzah bin 'Amr Al-Aslami, may Allah be pleased with him, who used to fast a great deal and who asked him about fasting while traveling:
 ## Personal Reflections
-
 

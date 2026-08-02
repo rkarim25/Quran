@@ -129,13 +129,5 @@ At the end of the verse (34), it was said:إِنَّ الْإِنسَانَ لَ
 
 He granted you everything you asked for. If you tried to count Allah's blessings, you could never number them. Humanity is truly unfair—deeply ungrateful.
 
-## AI Tafsir
-
-**What this ayah teaches:** Allah is He Who has created the heavens and the earth and sends down water (rain) from the sky, and thereby brought forth fruits as provision for you; and He has made the ships to be of service to you, that they may sail through the sea by His command; and He has made rivers (also) to be of service to you (32)And He has made the sun and the moon, both constantly pursuing their courses, to be of se…
-
-**Classical tafsir:** Ibn Kathir notes: But man, because of his lack of knowledge, cannot realize that, therefore, he feels disappointed.
-
-**From the Sunnah:** In Sahih Al-Bukhari it is recorded that the Messenger of Allah ﷺ used to supplicate; (Sahih al-Bukhari)
 ## Personal Reflections
-
 

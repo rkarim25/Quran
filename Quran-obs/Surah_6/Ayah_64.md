@@ -233,13 +233,5 @@ Summing up the main elements of our explanations, we can say that Muslims should
 
 Say, “ Allah rescues you from this and any other distress, yet you associate others with Him.”
 
-## AI Tafsir
-
-**Context:** "Yalbisakum means, 'cover you with confusion', So it means to, 'divide into parties and sects'. Jabir bin 'Abdullah said, 'When this Ayah was revealed,
-
-**What this ayah teaches:** Not only that these two verses tell us about the perfect power of Allah Ta` ala which delivers human beings from their hour of distress, it also emphasizes that the removal of all sorts of hardships, troubles and anxieties is also in the hands of Allah Ta` ala alone as evident from the behaviour of diehard those who reject the truth too who are ultimately compelled to turn to Allah when ther…
-
-**Classical tafsir:** Ibn Kathir notes: Al-Walibi ('Ali bin Abi Talhah) reported that Ibn 'Abbas said that this Ayah refers to desires.
 ## Personal Reflections
-
 

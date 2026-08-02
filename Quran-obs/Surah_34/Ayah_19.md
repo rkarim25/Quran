@@ -156,13 +156,5 @@ Some commentators have taken the word: صَبَّارٍ‌ (Sabbar: very patient
 
 But they said, "Our Lord, lengthen the distances between our journeys"—wronging themselves. So We made them cautionary tales and scattered them completely. In this are signs for whoever has sabr—steadfast endurance—and shukr.
 
-## AI Tafsir
-
-**What this ayah teaches:** It means that so unjust were these people that they would go to the extent of dismissing the very blessing of Allah placed there to eliminate the hardships of travel, rather went deeper into their lack of recognition and straight ungratefulness by coming forward to pray that their Lord makes the distances they cover in travel longer - hoping that the habitations do not appear at such close distanc…
-
-**Classical tafsir:** Ibn Kathir notes: Because of this divergence, Banu ` Uthman were given the title of Khuza'ah.
-
-**From the Sunnah:** This was also recorded by An-Nasa'i in Al-Yawm wal-Laylah. (Sunan an-Nasa'i)
 ## Personal Reflections
-
 

@@ -94,13 +94,5 @@ The Qur'an on this occasion, when referring to the Holy Prophet ﷺ ، does not 
 
 Your companion is neither astray nor misguided.
 
-## AI Tafsir
-
-**What this ayah teaches:** Your companion has neither gone astray nor has he erred.)(3. He is neither led astray, such as in the case of the ignorant who does not proceed on any path with knowledge, nor is he one who erred, such as in the case of the knowledgeable, who knows the Truth, yet deviates from it intentionally to something else.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, Allah exonerated His Messenger and his Message from being similar to the misguided ways of the Christians and the erroneous paths of the Jews, such as knowing the Truth and hiding it, while abiding by falsehood.
-
-**From the Sunnah:** The Prophet ﷺ (recited it in Makkah) and prostrated. (Sahih al-Bukhari, Sahih Muslim) Ibn Abi Hatim recorded that Ash-Sha'bi and others stated that the Creator swears by whatever He wills among His creation, but the created only vow by the Creator.
 ## Personal Reflections
-
 

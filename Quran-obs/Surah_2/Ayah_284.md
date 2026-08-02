@@ -271,28 +271,5 @@ Let us bear in mind that ikhlas or pristine sincerity is the essence behind what
 
 To Allah belongs whatever is in the heavens and whatever is on earth. Whether you reveal what is in yourselves or conceal it, Allah will call you to account for it. He forgives whomever He wills and punishes whomever He wills. Allah is capable of everything.
 
-## AI Tafsir
-
-**Essence**
-All that is in the heavens and earth belongs to Allah, who knows and will reckon even what the hearts conceal—then He forgives whom He wills and punishes whom He wills, for He is able to do all things.
-
-**What it teaches**
-The ayah affirms Allah's total sovereignty—"To Allah belongs whatever is in the heavens and whatever is on earth"—and grounds in it His perfect watch: no outward act and no secret of the heart escapes Him, and He will hold His servants accountable (yuhasibkum) for both, then forgive (yaghfiru) whom He wills, for He is Qadir over all things.
-
-**The scholars**
-Ibn Kathir explains that to Allah belongs the kingship of the heavens and earth, with perfect watch so that "no secret the heart conceals is ever hidden from Him" (citing 3:29 and 20:7). Because it seemed to subject even hidden thoughts to reckoning, the verse weighed heavily on the Companions, who feared it would diminish their deeds. Maarif ul Quran reports from Ibn 'Abbas, 'Ikrimah, Sha'bi and Mujahid that in context it warns against knowingly concealing evidence, yet—as Ibn 'Abbas held—its wording is universal, embracing belief (i'tiqadat), worship ('ibadat) and dealings (mu'amalat). Resolving the tension with the hadith that involuntary heart-talk is pardoned, Imam al-Qurtubi notes the hadith concerns an act's worldly effects (divorce, sale, manumission are not concluded by mere intention) while the verse concerns the Hereafter's reckoning; others add that pardoned are involuntary passing thoughts, while one answers for firm, chosen intentions one strives to act on. Al-Tafsir al-Mazhari stresses that inward deeds—iman, kufr and shirk, and morals like humility and patience against arrogance and envy—are likewise accountable. Maarif adds that placing this at the close of al-Baqarah (Sinam al-Qur'an, its highest peak) underscores that ikhlas, sincerity for Allah alone, is the essence of every command, since He is al-'Alim and al-Khabir, the Raqib and Hafiz from whom nothing is concealed.
-
-**From the Sunnah**
-When this ayah was revealed it was hard on the Companions, who fell to their knees unable to bear it. The Prophet (peace be upon him) taught them not to say, as the People of the Two Scriptures, "We hear and we disobey," but "We hear and we obey; we seek Your forgiveness, our Lord, and to You is the Return." When they submitted, Allah revealed the Iman verse (2:285), then abrogated this ayah with His word that He burdens no soul beyond its capacity (2:286). (Imam Ahmad, also recorded by Muslim, from Abu Hurayrah)
-
-**From the Sunnah**
-In a second narration the worry was over what passes in the heart beyond one's control; the Prophet (peace be upon him) told them to say "We hear and we obey," and thereafter they were pardoned what happens in their hearts and held accountable only for their actions. (Imam Ahmad, Mujahid from Ibn 'Abbas)
-
-**From the Sunnah**
-Allah has pardoned this Ummah for the passing thoughts that occur to them, so long as they do not speak them out or act upon them. (The Group / al-Jama'ah, from Abu Hurayrah)
-
-**Reflection**
-The Companions trembled because they grasped what we forget: the Lord who owns the heavens and earth owns the hidden chambers of the heart. Yet His answer was not to lower the standard but to reframe it—pardon for the thoughts that merely cross us, accountability for the intentions we embrace. So meet His knowing with "We hear and we obey," trusting the One who burdens no soul beyond its capacity.
 ## Personal Reflections
-
 

@@ -68,11 +68,5 @@ Mentioned here is the event of the creation of 'Adam (علیہ السلام) . N
 
 The angels prostrated, all together—
 
-## AI Tafsir
-
-**What this ayah teaches:** Before creating Adam, peace be upon him, Allah told the angels that He was going to create a human being from sounding clay of altered smooth black mud. All of the angels obeyed this command except for Iblis, who was not one of them.
-
-**Classical tafsir:** Ibn Kathir notes: He refused to prostrate to Adam, and he disputed with his Lord about him, claiming that he was better than Adam, because he was created from fire while Adam was created from clay, and fire was better than clay, or so he said.
 ## Personal Reflections
-
 

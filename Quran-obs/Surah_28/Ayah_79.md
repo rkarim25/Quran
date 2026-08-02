@@ -128,11 +128,5 @@ However, it is more plausible in the context that the knowledge he was referring
 
 Then he came out before his people in all his glamour. Those who desired the life of this dunya wished, “If only we could have something like what Korah has been given. He is truly a man of great fortune!”
 
-## AI Tafsir
-
-**What this ayah teaches:** Some commentators are of the view that "knowledge" in this sentence refers to the understanding of Torah. How Qarun went forth in His Finery, and His People's Comments Allah tells us how Qarun went forth one day before his people with his magnificent regalia; wearing his fine clothes, accompanied by his fine horses, his servants and retinue.
-
-**Classical tafsir:** Ibn Kathir notes: Some commentators are of the view that "knowledge" in this sentence refers to the understanding of Torah.
 ## Personal Reflections
-
 

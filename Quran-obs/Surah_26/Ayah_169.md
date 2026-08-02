@@ -85,11 +85,5 @@ In the phrase مِّنْ أَزْوَاجِكُم the word مِّنْ (min) Min 
 
 My Rabb! Save me and my family from the consequences of what they do.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Save me and my family from what they do.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

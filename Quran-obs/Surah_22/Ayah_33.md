@@ -116,13 +116,5 @@ The Benefits of the Sacrificial Camels
 
 You may benefit from sacrificial animals for an appointed term, then their place of sacrifice is at the Ancient House.
 
-## AI Tafsir
-
-**What this ayah teaches:** Thus it is, and whosoever honors the Sha'a'ir of Allah, then it is truly from the Taqwa of the hearts (32)In them are benefits for you for an appointed term, and afterwards they are brought for sacrifice to the 'Atiq House .
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** In Sunan Ibn Majah, it was recorded from Abu Rafi' that the Messenger of Allah sacrificed two castrated, fat, horned rams. (Sahih al-Bukhari, Jami' at-Tirmidhi) According to a report recorded by Muslim from Jabir, the Messenger of Allah ﷺ said: (Sahih Muslim)
 ## Personal Reflections
-
 

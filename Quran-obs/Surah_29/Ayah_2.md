@@ -120,13 +120,5 @@ Although the background under which this verse was revealed, according to many n
 
 Do people imagine that saying We believe will leave them untested?
 
-## AI Tafsir
-
-**Context:** Although the background under which this verse was revealed, according to many narrations, was the harassment faced by the companions of the Holy Qur’ an from the infidels at the time of hijrah, but otherwise its message…
-
-**What this ayah teaches:** Evil is that which they judge!) The Believers are tested so that it may be known Who is Sincere and Who is Lying In the beginning of the Tafsir of Surat Al-Baqarah, we discussed the letters which appear at the beginning of some Surahs.
-
-**Classical tafsir:** Ibn Kathir notes: Do people think that they will be left alone because they say: "We believe," and will not be tested.)(3.
 ## Personal Reflections
-
 

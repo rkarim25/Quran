@@ -177,13 +177,5 @@ Then Allah rebukes the idolators who prostrate to idols and rivals instead of Al
 
 And We have sent you O Prophet only as a deliverer of good news and a warner.
 
-## AI Tafsir
-
-**Context:** (Then He rose over (Istawa) the Throne. The ar-Rahman! Ask Him, as He is the All-Knower.) meaning, find out about Him from one who knows most about Him, and follow him and take him as your example.
-
-**What this ayah teaches:** Ask Him, as He is the All-Knower (59)And when it is said to them: "Prostrate yourselves to Ar-Rahman!" They say: "And what is Ar-Rahman Shall we fall down in prostration to that which you command us" And it increases in them only aversion . They do this with no evidence or proof; the only thing that led them to do this was their own whims and desires.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

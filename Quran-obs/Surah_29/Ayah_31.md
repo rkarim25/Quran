@@ -119,11 +119,5 @@ Out of the three sins mentioned in this verse the first one is most disgusting, 
 
 When Our messenger-angels came to Abraham with good news, they said: We are going to destroy the people of this city, for they persist in wrong.
 
-## AI Tafsir
-
-**What this ayah teaches:** When they brought this news to Ibrahim and told him that they were sent to destroy the people of Lut, he began to speak up for them, hoping to win more time for them so that they might be guided by Allah.
-
-**Classical tafsir:** Ibn Kathir notes: When they brought this news to Ibrahim and told him that they were sent to destroy the people of Lut, he began to speak up for them, hoping to win more time for them so that they might be guided by Allah.
 ## Personal Reflections
-
 

@@ -175,22 +175,5 @@ From here we learn that a mother holds a certain measure of guardianship over he
 
 When she delivered, she said, “My Rabb! I have given birth to a girl,”—and Allah fully knew what she had delivered—“and the male is not like the female. I have named her Mary, and I seek Your protection for her and her offspring from Satan, the accursed.”
 
-## AI Tafsir
-
-**Essence**
-When her hoped-for son turned out to be a daughter, 'Imran's wife did not retract her vow but entrusted the girl — Maryam — and all her offspring to Allah's protection from Shaytan, and Allah honored that trust.
-
-**What it teaches**
-'Imran's wife had vowed her unborn child as muharrar — freed from worldly chores and dedicated to the service of Bayt al-Maqdis — expecting a male. On one understanding the clause "the male is not like the female" is her own words, voicing her remorse that a girl seemed unfit for that duty; Ibn Kathir glosses the difference as one of strength and capacity for worship and serving the Masjid. Yet she named the child Maryam and sealed her supplication with isti'adha — u'idhuha bika, "I seek refuge for her in You" — placing the girl and her descendants under Allah's shelter from al-Shaytan al-rajim, the outcast.
-
-**The scholars**
-Ibn Kathir, citing Muhammad bin Ishaq, names the mother as Hannah bint Faqudh: barren, she saw a bird feeding its chick, longed for a child, and supplicated; Allah answered, and she vowed the child to His service. Allah's interjection "and Allah knew better what she bore" signals that what she saw as a lesser gift, Allah was raising to a unique station — as Maarif ul Quran notes, Allah, honoring her sincerity, accepted that very girl and made her status distinct from any other girl of the world. Ibn Kathir draws from the verse that naming a child on the day of birth is established (it was the law of those before us and the Sunnah of the Prophet ﷺ), and Maarif (from al-Jassas) adds that the very act of her vowing and naming proves a mother holds real guardianship over her child's upbringing and the right to name. The refuge sought, Ibn Kathir explains, extended to her offspring — meaning 'Isa, peace be upon him — and Allah accepted it.
-
-**From the Sunnah**
-Every newborn is touched by Shaytan at birth and cries out from that touch, except Maryam and her son — Abu Hurayrah recited this very verse as proof that Allah granted the mother's plea (The Two Sahihs, via 'Abdur-Razzaq from Abu Hurayrah). And the Prophet ﷺ said, "This night, a son was born for me and I called him by my father's name, Ibrahim," showing it is allowed to name a child the day it is born (Al-Bukhari and Muslim).
-
-**Reflection**
-Surrender your plans to Allah and shelter your children in Him — what you receive may be greater than what you asked for.
 ## Personal Reflections
-
 

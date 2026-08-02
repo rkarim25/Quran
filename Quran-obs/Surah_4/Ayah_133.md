@@ -128,11 +128,5 @@ The third mention of these words embodies a statement of Allah's mercy which mak
 
 If it is His Will, He can remove you altogether, O humanity, and replace you with others. And Allah is Most Capable to do so.
 
-## AI Tafsir
-
-**What this ayah teaches:** And Allah is Ever All-Sufficient as Disposer of affairs (132)If He wills, He can take you away, O people, and bring others.
-
-**Classical tafsir:** Ibn Kathir notes: It means: Should one fear Allah and be obedient to Him, Allah will fulfill all his needs, because He is the owner of everything in this universe.
 ## Personal Reflections
-
 

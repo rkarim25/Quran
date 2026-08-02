@@ -83,11 +83,5 @@ Detailed comments have been given in the Tafsir of that Surah. If needed, please
 
 He added, “There you will live, there you will die, and from there you will be resurrected.”
 
-## AI Tafsir
-
-**What this ayah teaches:** On it, they will live, die and be buried in their graves; and from it, they will be resurrected for the Day of Resurrection.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

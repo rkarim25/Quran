@@ -154,11 +154,5 @@ The Reason why Provision is not Increased
 
 He is the One Who sends down rain after people have given up hope, spreading out His mercy. He is the Guardian, the Praiseworthy.
 
-## AI Tafsir
-
-**What this ayah teaches:** And He it is Who accepts repentance from His servants, and forgives sins, and He knows what you do (25)And He answers those who believe and do righteous good deeds, and gives them increase of His bounty.
-
-**Classical tafsir:** Ibn Kathir notes: Here losing hope means losing hope in their contrivances because disappointment with Allah's kindness is kufr (infidelity).
 ## Personal Reflections
-
 

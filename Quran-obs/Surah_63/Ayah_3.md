@@ -206,15 +206,5 @@ Another point illustrated by this incident is that an act which is permissible i
 
 This is because they believed and then abandoned faith, so their hearts were sealed and they do not comprehend.
 
-## AI Tafsir
-
-**Context:** The incident, in which this Surah was revealed, took place in the campaign against Banul-Mustaliq which happened, according to Muhammad Ibn Ishaq in Sha’ ban 6AH and according to Qatadah and ‘Urwah, in Sha’ ban 5AH.
-
-**What this ayah teaches:** Therefore, the campaign is also known as the battle of Muraisi’.
-
-**Classical tafsir:** Ibn Kathir notes: That is because they believed, and then disbelieved; therefore their hearts are sealed, so they understand not.)(4.
-
-**From the Sunnah:** Allah the Exalted states that the hypocrites pretended to be Muslims when they went to the Prophet ﷺ. Thus they hinder (others) from the path of Allah.) meaning, the hypocrites shield themselves from Muslims when they falsely and sinfully swear to be what they are not in reality.
 ## Personal Reflections
-
 

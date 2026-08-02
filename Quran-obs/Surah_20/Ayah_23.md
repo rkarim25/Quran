@@ -110,13 +110,5 @@ The Supplication of Musa
 
 so that We may show you some of Our greatest signs.
 
-## AI Tafsir
-
-**What this ayah teaches:** "And press your (right) hand to your (left) side: it will come forth white (and shining), without any disease as another sign, (22)"That We may show you (some) of Our greater signs.
-
-**Classical tafsir:** Ibn Kathir notes: Ath-Thawri reported from Abu Sa'id, from 'Ikrimah, who said that Ibn 'Abbas said, "Harun was made a Prophet at the same moment that Musa was made a Prophet." Ibn Abi Hatim recorded that 'A'ishah went out intending to perform 'Umrah and stopped to camp among some bedouins.
-
-**From the Sunnah:** Ibn 'Abbas said, "Harun was made a Prophet at the same moment that Musa was made a Prophet." Ibn Abi Hatim recorded that 'A'ishah went out intending to perform 'Umrah and stopped to camp among some bedouins.
 ## Personal Reflections
-
 

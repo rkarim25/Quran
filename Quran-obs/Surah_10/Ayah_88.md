@@ -194,13 +194,5 @@ But, in terms of the hard facts of the situation here, Sayyidna Musa (علیہ �
 
 Moses prayed, “Our Rabb! You have granted Pharaoh and his chiefs luxuries and riches in this worldly dunya, which they abused to lead people astray from Your Way! Our Rabb, destroy their riches and harden their hearts so that they will not believe until they see the painful punishment.”
 
-## AI Tafsir
-
-**What this ayah teaches:** The invocation of this curse obviously appears to be something far out as coming through the speech of an apostle or prophet, because the sole mission of a prophet's life is nothing but to invite people to believe and act right and make efforts towards that end.
-
-**Classical tafsir:** Ibn Kathir notes: So you both keep to the straight way) So as I have answered your prayer, you should remain steadfast on My command.' Ibn Jurayj narrated that Ibn 'Abbas said about this Ayah: "Be steadfast and follow My command."
-
-**From the Sunnah:** So you both keep to the straight way) So as I have answered your prayer, you should remain steadfast on My command.' Ibn Jurayj narrated that Ibn 'Abbas said about this Ayah: "Be steadfast and follow My command."
 ## Personal Reflections
-
 

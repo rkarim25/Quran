@@ -101,15 +101,5 @@ In the previous verse (98), there was an instruction to say اَعُوذ بِا�
 
 And We surely know that they say, “No one is teaching him except a human.” But the man they refer to speaks a foreign tongue, whereas this Quran is in eloquent Arabic.
 
-## AI Tafsir
-
-**Context:** (The tongue of the man they refer to is foreign, while this (the Qur'an) is a (in) clear Arabic tongue.) meaning, how could it be that this Qur'an with its eloquent style and perfect meanings, which is more perfect than…
-
-**What this ayah teaches:** And indeed We know that they (polytheists and pagans) say: "It is only a human being who teaches him." The tongue of the man they refer to is foreign, while this (the Qur'an) is (in) a clear Arabic tongue .
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** Maybe the Messenger of Allah ﷺ used to sit with him sometimes and talk to him a little, but he was a foreigner who did not know much Arabic, only enough simple phrases to answer questions when he had to.
 ## Personal Reflections
-
 

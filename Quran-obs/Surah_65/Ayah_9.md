@@ -121,11 +121,5 @@ Commentary
 
 So they tasted the evil consequences of their deeds, and the outcome was total loss.
 
-## AI Tafsir
-
-**What this ayah teaches:** And many a town revolted against the command of its Lord and His Messengers; and We called it to a severe account, and We shall punish it with a horrible torment (8)So it tasted the evil result of its affair, and the consequence of its affair was loss (9)Allah has prepared for them a severe torment.
-
-**Classical tafsir:** Ibn Kathir notes: In this interpretation, the 'punishment' refers to the past nations who were destroyed by Divine punishment in this world because they defied Allah's and His Messengers' commandments.
 ## Personal Reflections
-
 

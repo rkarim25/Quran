@@ -180,15 +180,5 @@ Allah then said,
 
 Let those who would sacrifice this life for the Akhirah fight in the cause of Allah. And whoever fights in Allah’s cause—whether they achieve martyrdom or victory—We will honour them with a great reward.
 
-## AI Tafsir
-
-**Context:** (There is certainly among you he who would linger behind.) Mujahid and others said that this Ayah was revealed about the hypocrites. Muqatil bin Hayyan said that,
-
-**What this ayah teaches:** Because he considers this one of Allah's favors on him, unaware of the reward that he might have gained from enduring war or martyrdom, if he was killed. I wish I had been with them; then I would have achieved a great success.
-
-**Classical tafsir:** Ibn Kathir notes: Because he considers this one of Allah's favors on him, unaware of the reward that he might have gained from enduring war or martyrdom, if he was killed.
-
-**From the Sunnah:** Since, they were the ones who used to claim being Muslims, at least outwardly.
 ## Personal Reflections
-
 

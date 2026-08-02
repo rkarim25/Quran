@@ -200,17 +200,5 @@ The meaning of Ihsan احسان
 
 And when We said, "Enter this town and eat freely wherever you wish. Enter the gate humbly, saying 'Remove our burdens,' and We will forgive your sins and increase reward for the doers of good."
 
-## AI Tafsir
-
-**Essence** At the gate of victory Allah commanded humility: enter bowed, saying "Hittah" — pardon for the obedient, increase for the muhsinin.
-
-**What it teaches** Forty years of wandering end in a gift with an etiquette: triumph is met with lowered heads and a plea for pardon, not pride.
-
-**The scholars** Ibn Kathir: the town is Bayt al-Maqdis (per As-Suddi and Qatadah), taken under Yusha' bin Nun; Ibn 'Abbas read sujjadan as "bowing" and Hittah as "seek Allah's forgiveness." Maarif: ihsan is "doing a thing beautifully."
-
-**From the Sunnah** They twisted the command — entering on their behinds, saying "Habbah in Sha'rah," a seed in a hair (Al-Bukhari). And ihsan — worship as though seeing Him: "Offer your prayers as if you can see Him, and if you do not see Him, He is seeing you (in any case)" (famous Hadith, via Maarif ul Quran).
-
-**Reflection** Enter every blessing the way the gate demands: head lowered, tongue asking forgiveness.
 ## Personal Reflections
-
 

@@ -123,13 +123,5 @@ The word: وَالطَّيْرَ‌ (wattair: and you too 0 birds) refers to the
 
 We gave Dawud a great favour from Us: "O mountains, echo his praise with him! And you too, birds." We softened iron for him,
 
-## AI Tafsir
-
-**What this ayah teaches:** The Favors which Allah bestowed upon Dawud Here Allah tells us how He blessed His servant and Messenger Dawud (David), peace be upon him, and what He gave him of His great bounty, giving him both prophethood and kingship, and huge numbers of troops.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** In the Sahih it is recorded that the Messenger of Allah ﷺ heard the voice of Abu Musa Al-Ash'ari, may Allah be pleased with him, reciting at night, and he stopped and listened to his recitation, then he said:
 ## Personal Reflections
-
 

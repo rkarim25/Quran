@@ -234,15 +234,5 @@ Please see Ma` arif--ul-Qur'an Vol. 1/pp 331-343, under the Surah Al-Baqarah Ver
 
 He is the One Who raised among the unlettered a messenger from themselves—reciting to them His revelations, purifying them, and teaching them the Book and wisdom, though they had been clearly astray—
 
-## AI Tafsir
-
-**Context:** (And others among them who have not yet joined them. And He is the Almighty, the All-Wise.) Imam Abu 'Abdullah Al-Bukhari, may Allah have mercy upon him, recorded that Abu Hurayrah said, "We were sitting with the Prophet…
-
-**What this ayah teaches:** This Hadith indicates that Surat Al-Jumu'ah was revealed in Al-Madinah and that the Messenger's Message is universal.
-
-**Classical tafsir:** Ibn Kathir notes: The word 'at refers to the verses of the Qur'an.
-
-**From the Sunnah:** Ibn 'Abbas and Abu Hurayrah narrated that Allah's Messenger ﷺ used to recite Surat Al-Jumu'ah and Surat Al-Munafiqin during the Friday Prayer. (Sahih Muslim) So Allah's Messenger ﷺ placed his hand on Salman, saying,
 ## Personal Reflections
-
 

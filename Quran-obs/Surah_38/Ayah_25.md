@@ -122,13 +122,5 @@ Yet another aspect of this event needs to be mentioned here. Let this slip of Sa
 
 We forgave him that. He will have closeness to Us and an honourable destination.
 
-## AI Tafsir
-
-**What this ayah teaches:** Those who do their duty in this field should know that the conduct of a person is not to be corrected casually.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** The evidence for it is the report recorded by Imam Ahmad from Ibn 'Abbas, may Allah be pleased with him, who said; "The prostration in Surah Sad is not one of the obligatory prostrations; I saw the Messenger of Allah ﷺ prostrating in this Surah." This was also… (Sahih al-Bukhari, Musnad Ahmad) he asked Mujahid about the prostration in Surah Sad. (Sahih al-Bukhari)
 ## Personal Reflections
-
 

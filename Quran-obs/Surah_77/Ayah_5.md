@@ -192,15 +192,5 @@ In this interpretation, the question arises as to the contextual relationship be
 
 by those delivering revelation—
 
-## AI Tafsir
-
-**Context:** (By the Mursalat.) was revealed to him. He was reciting it and I was learning it from his mouth. Verily, his mouth was moist with it when a snake leaped out at us.
-
-**What this ayah teaches:** The word dhikr 'Reminder' refers to the Qur'an or revelation in general. The word ` asifat is derived from ` asf that literally means 'winds that blow violently or vehemently'.
-
-**Classical tafsir:** Ibn Kathir notes: The word ` asifat is derived from ` asf that literally means 'winds that blow violently or vehemently'.
-
-**From the Sunnah:** from Ibn 'Abbas, who reported from his mother that she heard the Prophet ﷺ reciting (Sahih Muslim, Musnad Ahmad) In a report from Malik on the authority of Ibn 'Abbas, he narrated that Umm Al-Fadl (his mother) heard him (Ibn 'Abbas) reciting
 ## Personal Reflections
-
 

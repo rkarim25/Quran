@@ -294,15 +294,5 @@ Tirmidhi transmits a Hadith on the authority of Sayyidna Abu Dharr Al-Ghifari th
 
 He is Rabb of east and west. There is no god worthy of worship except Him—take Him alone as the One you trust with all affairs.
 
-## AI Tafsir
-
-**Context:** (Stand (to pray) all night, except a little. Half of it or less than that, a little.)(73:2-3) "This became difficult on the believers.
-
-**What this ayah teaches:** So take Him a trustee.) meaning, He is the Owner and Controller of affairs in the eastern regions and the western regions.
-
-**Classical tafsir:** Ibn Kathir notes: The word wakil, lexicologically, refers to a 'person who has been given a task to do'.
-
-**From the Sunnah:** Thus, the Prophet ﷺ did as Allah ordered him, by standing for prayer at night. In Sahih Al-Bukhari, it is recorded from Anas that he was asked about the recitation of the Messenger of Allah ﷺ, so he replied, "He used to elongate the letters." Then he (Anas) recited, (Sahih al-Bukhari)
 ## Personal Reflections
-
 

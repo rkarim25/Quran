@@ -229,15 +229,5 @@ In the phrase مَقْعَدِ صِدْقٍ maq` adi-sidqin, the word maq'ad mea
 
 On the Day they are dragged into the Fire on their faces: Taste the touch of Hell!
 
-## AI Tafsir
-
-**Context:** Imam Ahmad recorded that Abu Hurayrah said, "The idolators of the Quraysh came to the Messenger of Allah ﷺ arguing with him and discounting the Qadar.
-
-**What this ayah teaches:** And just as they were misguided, they will end up being dragged on their faces, unaware of where they will be taken. The Destination of the Criminals Allah the Exalted states that the criminals are misguided away from the truth and engulfed in confusion, because of the doubts and uncertainty they are in.
-
-**Classical tafsir:** Ibn Kathir notes: The Destination of the Criminals Allah the Exalted states that the criminals are misguided away from the truth and engulfed in confusion, because of the doubts and uncertainty they are in.
-
-**From the Sunnah:** I mentioned this subject in detail in my explanation on the chapter on faith of Sahih Al-Bukhari.
 ## Personal Reflections
-
 

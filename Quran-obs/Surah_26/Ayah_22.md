@@ -149,13 +149,5 @@ This is what is known as God gifted awe of truth, veracity and reality. The cont
 
 How can that be a ‘favour,’ of which you remind me, when it was only because you have enslaved the Children of Israel?”
 
-## AI Tafsir
-
-**What this ayah teaches:** First, ` We have brought you up in our household and have done so many favours to you. After that he turned to the second point regarding his upbringing in the Pharaoh's house, upon which the Pharaoh had stressed to remind his favour to him.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** The contentions and dialectics of Allah's messengers are also full of truth, veracity and wishing well for the addressee.
 ## Personal Reflections
-
 

@@ -168,13 +168,5 @@ This explanation of the Holy Prophet ﷺ clarifies that the deeds of the believe
 
 and burn in a blazing Fire.
 
-## AI Tafsir
-
-**What this ayah teaches:** And he shall enter a blazing Fire, and made to taste its burning.)(13.
-
-**Classical tafsir:** Ibn Kathir notes: This means that he will not be investigated for all the minute details of his deeds.
-
-**From the Sunnah:** Then when he completed the prayer, he informed them that the Messenger of Allah ﷺ prostrated during its recitation. (Sahih Muslim, Sunan an-Nasa'i) from Abu Rafi' that he prayed the Night prayer with Abu Hurayrah) recited, (Sahih al-Bukhari)
 ## Personal Reflections
-
 

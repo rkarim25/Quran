@@ -195,13 +195,5 @@ At that point Allah Ta` ala revealed the verse : إِنَّ الَّذِينَ �
 
 not even hearing the slightest hissing from it. And they will delight forever in what their souls desire.
 
-## AI Tafsir
-
-**Context:** (while they abide in that which their own selves desire.) means, they will be safe from that which they fear, and they will have all that they love and desire.
-
-**What this ayah teaches:** They shall not hear the slightest sound of it,) means, they will not feel its heat in their bodies. They shall not hear the slightest sound of it (Hell), while they abide in that which their own selves desire.) It was revealed about the mention of 'Isa, 'Uzayr and rabbis and monks who were also worshipped, who had spent their lives in devotion towards Allah, but the misguided people who came after…
-
-**Classical tafsir:** Ibn Kathir notes: Mujahid, 'Ikrimah and Qatadah said: "Its fuel." Ad-Dahhak said: "The fuel of Hell means that which is thrown into it." This was also the view of others.
 ## Personal Reflections
-
 

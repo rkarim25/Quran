@@ -180,11 +180,5 @@ Having mentioned in the preceding verses the beginning and the end of human life
 
 olives and palm trees,
 
-## AI Tafsir
-
-**What this ayah teaches:** And grapes and Qadb, and olives and date palms. Verily, Allah has decreed the existence of mankind, and its duration, therefore, when that is finished with Allah, He resurrects the creatures and repeats their creation just as He initially created them.
-
-**Classical tafsir:** Ibn Kathir notes: Verily, Allah has decreed the existence of mankind, and its duration, therefore, when that is finished with Allah, He resurrects the creatures and repeats their creation just as He initially created them.
 ## Personal Reflections
-
 

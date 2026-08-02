@@ -95,11 +95,5 @@ Incidents related to Sayyidna Musa (علیہ السلام) have been stated by t
 
 although every sign We showed them was greater than the one before. Ultimately We seized them with torments so that they might return to the Straight Path.
 
-## AI Tafsir
-
-**What this ayah teaches:** He sent him with mighty signs, such as his hand and his staff, other signs such as the flood, locusts, Qummal, frogs and blood, and the loss of their crops and lives. Allah sent him to call them to worship Allah alone, with no partner or associate, and to forbid them from worshipping anything other than Him.
-
-**Classical tafsir:** Ibn Kathir notes: Invoke your Lord for us because of His promise to you.
 ## Personal Reflections
-
 

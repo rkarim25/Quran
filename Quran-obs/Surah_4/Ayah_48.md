@@ -221,13 +221,5 @@ Shirk in ` Ibidah: This means the ascribing of a partner to Allah in acts of wor
 
 Indeed, Allah does not forgive associating others with Him, but forgives anything else of whoever He wills. And whoever associates others with Allah has indeed committed a grave sin.
 
-## AI Tafsir
-
-**What this ayah teaches:** Shirk in ` Ibidah: This means the ascribing of a partner to Allah in acts of worship (` Ibadah) which is the sole due of Allah.
-
-**Classical tafsir:** Ibn Kathir notes: Shirk in ` Ibidah: This means the ascribing of a partner to Allah in acts of worship (` Ibadah) which is the sole due of Allah.
-
-**From the Sunnah:** It was reported that Ka'b Al-Ahbar became Muslim when he heard this Ayah [4:47]. (Sahih Muslim) Some of the forms it could take are to go down in sajdah (prostration) for anyone, to release an animal dedicated in the name of somebody, making cere-monious offering for a person or thing, living or dead, to make a vow (mannat, nadhr) in someone's name; to m… (Sahih Muslim)
 ## Personal Reflections
-
 

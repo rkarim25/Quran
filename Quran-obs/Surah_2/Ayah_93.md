@@ -155,19 +155,5 @@ Having referred to such example of their perversity and rebellion, the Holy Qur'
 
 And when We took your covenant and raised the mountain over you: "Hold firmly to what We gave you and obey." They said, "We hear and disobey." Love of the calf was rooted in their hearts because of rejection. Say, "How evil is what your belief drives you to do, if you truly believe."
 
-## AI Tafsir
-
-**Essence**
-Under the raised Mount, Israel pledged Allah's covenant — then answered "we hear and disobey," love of the calf already settled in their hearts.
-
-**What it teaches**
-Allah took their mithaq (covenant) and raised Mount Tur over them: "Hold firmly to what We gave you and listen." Ushribu — "they were made to drink": their hearts absorbed the calf's worship because of their kufr.
-
-**The scholars**
-Qatadah — with Abu Al-'Aliyah and Ar-Rabi' bin Anas: "They absorbed its love, until its love resided in their hearts." Ibn Kathir: their worst deed was disbelieving in Muhammad ﷺ, the Final Messenger to all mankind, while claiming belief. Maarif ul-Quran: feeble repentance and weak hatred of the calf-worship left the rot inside; their "we heard" was tongue-only fright, no consent in the heart. Could a true faith ever inspire men to such deeds?
-
-**Reflection**
-Watch what your heart is made to drink; let obedience, not your tongue, testify to your iman.
 ## Personal Reflections
-
 

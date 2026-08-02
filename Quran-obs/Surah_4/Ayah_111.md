@@ -122,11 +122,5 @@ In the event that these people choose not to repent despite the option given to 
 
 And whoever commits a sin—it is only to their own loss. Allah is All-Knowing, All-Wise.
 
-## AI Tafsir
-
-**What this ayah teaches:** And Allah is Ever All-Knowing, All-Wise (110)And whoever earns a fault or a sin and then blames it on someone innocent, he has indeed burdened himself with falsehood and a manifest sin (111)Had not the grace of Allah and His mercy been upon you, a party of them would certainly have made a decision to mislead you, but they mislead none except their own selves, and no harm can they do to you in the…
-
-**Classical tafsir:** Ibn Kathir notes: The Encouragement to Seek Allah's Forgiveness, and Warning those who Falsely Accuse Innocent People Allah emphasizes His generosity and kindness, in that He forgives whoever repents to Him from whatever evil they commit.
 ## Personal Reflections
-
 

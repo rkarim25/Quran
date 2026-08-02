@@ -94,13 +94,5 @@ The essence of the answer given by the polytheists is that they simply refused t
 
 So enter the gates of Hell, to stay there forever. Indeed, what an evil home for the arrogant!”
 
-## AI Tafsir
-
-**What this ayah teaches:** Earlier to that (24), there is a question about the Qur’ an, and the addressees of the question, at this place, are the polytheists.
-
-**Classical tafsir:** Ibn Kathir notes: In the present verses, the text describes how they, not content with their own straying, tried that others should also go astray like them.
-
-**From the Sunnah:** Still others take one question to have been asked by the polytheists while the other by Muslims.
 ## Personal Reflections
-
 

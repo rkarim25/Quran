@@ -98,13 +98,5 @@ After that, say the verses cited above, Allah Ta` ala created through the workin
 
 They replied, “These are confused visions and we do not know the interpretation of such dreams.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Yusuf's Interpretation of the King's Dream This is when Yusuf, peace be upon him, told the interpretation of the dream, without criticizing the man for forgetting his request that he had made to him.
-
-**Classical tafsir:** Ibn Kathir notes: Stay away from extravagance, so that you use what remains of the harvest during the seven years of drought that will follow the seven fertile years.' This was represented by the seven lean cows that eat the seven fat cows.
-
-**From the Sunnah:** During the seven years of drought, they will eat from the harvest they collected during the seven fertile years, as represented by the dry ears of corn in the dream.
 ## Personal Reflections
-
 

@@ -47,11 +47,5 @@ Addressing Iblis in Surah Al-A` raf, it was said: مَا مَنَعَكَ أَل
 
 Allah commanded, “Then get out of Paradise, for you are truly cursed.
 
-## AI Tafsir
-
-**What this ayah teaches:** This indicates that the main prostraters were after all the angels but Iblis too, being present with them, was reason-bound to join the prostrating an-gels. He told him that he was an outcast, i.e., cursed, and that he would be followed by a curse that would hound him until the Day of Resurrection.
-
-**Classical tafsir:** Ibn Kathir notes: This indicates that the main prostraters were after all the angels but Iblis too, being present with them, was reason-bound to join the prostrating an-gels.
 ## Personal Reflections
-
 

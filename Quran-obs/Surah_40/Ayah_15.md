@@ -163,11 +163,5 @@ According to some further investigation into this verse by Ibn Kathir, it should
 
 Highly Exalted in rank, Rabb of the Throne. He sends down revelation by His command to whichever of His servants He wills, to warn all of the Day of Meeting—
 
-## AI Tafsir
-
-**What this ayah teaches:** Allah sends the Revelation to warn His Servants of the Day of Mutual Meeting Allah tells us of His might and pride, and that His Mighty Throne is raised above all of His creation like a roof.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

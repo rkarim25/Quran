@@ -93,11 +93,5 @@ boat with an axe because of which there was a danger that water would fill up th
 
 Moses pleaded, “Excuse me for forgetting, and do not be hard on me.”
 
-## AI Tafsir
-
-**What this ayah teaches:** So they both proceeded, till, when they boarded the boat, he (Khidr) damaged it.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

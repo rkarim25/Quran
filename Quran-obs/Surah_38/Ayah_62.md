@@ -153,11 +153,5 @@ Then there is the other situation. If being of the same age is taken to mean tha
 
 The tyrants will ask, "Why do we not see those we considered lowly among us?"
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, they shall enter in the Fire!) Here Allah tells us what the people of Hell will say to one another. Verily, they shall enter in the Fire!) meaning, because they are of the people of Hell.
-
-**Classical tafsir:** Ibn Kathir notes: Verily, they shall enter in the Fire!) meaning, because they are of the people of Hell.
 ## Personal Reflections
-
 

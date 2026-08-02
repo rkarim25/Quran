@@ -148,17 +148,5 @@ Verse 50 speaks of the splitting of the sea, and clearly proves that miracles do
 
 And when We parted the sea for you, saved you, and drowned Pharaoh's people while you watched.
 
-## AI Tafsir
-
-**Essence** Allah made the Children of Israel eyewitnesses to their rescue and their enemy's end.
-
-**What it teaches** Faraqnā bikumu l-baḥra — "We parted the sea for you": rescue and judgment in one stroke — wa-antum tanẓurūna, "while you were watching" — leaving no doubt that it was Allah who had saved them.
-
-**The scholars** Ibn Kathir: Fir'awn — the title of every disbelieving king of Egypt, as "Caesar" was of Rome and Damascus — pursued them after their escape with Musa; Allah drowned the pursuers, "bringing relief to your hearts and humiliation to your enemy." Maarif ul-Quran: this proves that miracles do occur at the hands of prophets.
-
-**From the Sunnah** In Madinah the Prophet ﷺ found the Jews fasting 'Ashura', "a good day during which Allah saved the Children of Israel from their enemy," a day Musa fasted. He said, "I have more right to Musa than you have," fasted it, and ordered that it be fasted. (Imam Ahmad; Al-Bukhari, Muslim, An-Nasa'i, Ibn Majah)
-
-**Reflection** When every path seems sealed, remember the sea that split — and answer Allah's deliverance with gratitude.
 ## Personal Reflections
-
 

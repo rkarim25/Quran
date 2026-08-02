@@ -164,13 +164,5 @@ The truth of the matter is that the love of wealth and children is a great trial
 
 Your wealth and children are only a test, but with Allah is a great reward.
 
-## AI Tafsir
-
-**What this ayah teaches:** The purport of the verse is to say that Allah tests man by means of his wealth and children as to whether he is so much engrossed in the love of wealth and children as to become heedless of Divine laws and injunctions, or he maintains his love for them within limits and remains heedful of his duties and obligations toward Allah.
-
-**Classical tafsir:** Ibn Kathir notes: Verily, among your wives and your children there are enemies for you; therefore beware of them!
-
-**From the Sunnah:** Later when they joined Allah's Messenger ﷺ, they found that those who were with him (the Companions) have gained knowledge in the religion, so they were about to punish their wives and children.
 ## Personal Reflections
-
 

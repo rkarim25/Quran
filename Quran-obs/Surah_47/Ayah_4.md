@@ -391,13 +391,5 @@ Wisdom in the Legality of Jihad
 
 When you meet those who reject the truth in battle, strike until they are subdued, then bind them firmly. Later, release them by grace or by ransom until the war ends. Had Allah willed, He could have punished them Himself—but He tests some of you through others. Those martyred in Allah's cause: He will never let their deeds go to waste.
 
-## AI Tafsir
-
-**Context:** (tighten their bonds.) 'This is referring to the prisoners of war whom you have captured. Later on, after the war ends and the conflict has ceased, you have a choice in regard to the captives: You may either act gracious…
-
-**What this ayah teaches:** Thus none of them is abrogated, because when the those who reject the truth are arrested and come into our control, the leader of the Muslims has four options: [ 1] if he deems appropriate, he may kill them ; [ 2] if he feels that it is in the best interest of the Muslims, he may hold them in bondage; [ 3] if it is appropriate, he may release them in lieu of pecuniary ransom or in exchange o…
-
-**Classical tafsir:** Ibn Kathir notes: Misery awaits him, and degeneracy; and if he is pricked by a thorn, may he not find anyone to pull it for him.) This means may Allah not cure him.
 ## Personal Reflections
-
 

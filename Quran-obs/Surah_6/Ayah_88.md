@@ -269,13 +269,5 @@ By mentioning the blessings of Allah on Sayyidna Ibrahim (علیہ السلام)
 
 This is Allah’s guidance with which He guides whoever He wills of His servants. Had they associated others with Him, their deeds would have been wasted.
 
-## AI Tafsir
-
-**Context:** (And indeed it has been revealed to you, as it was to those (Allah's Messengers) before you: "If you join others in worship with Allah, surely your deeds will be in vain.")[39:65]
-
-**What this ayah teaches:** Most learned Muslim scholars and jurists have answered it by saying that progeny is inclusive of both paternal and maternal grandsons.
-
-**Classical tafsir:** Ibn Kathir notes: Certainly, one becomes jubilant and joyous when he becomes a grandfather, because this means that his offspring will continue to exist.
 ## Personal Reflections
-
 

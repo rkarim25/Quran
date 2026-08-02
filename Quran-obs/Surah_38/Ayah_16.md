@@ -85,11 +85,5 @@ It was also said that they asked for their share of Paradise to be hastened, if 
 
 They mockingly say, "Our Lord, hasten our share of punishment before the Day of Reckoning!"
 
-## AI Tafsir
-
-**What this ayah teaches:** Here, this very sense is meant, that is, 'let us have whatever share is coming to us from the reward and punishment of the Hereafter right here in this world.'
-
-**Classical tafsir:** Ibn Kathir notes: Qitt refers to a book or record, or it was said that it means one's allotted share or fortune.
 ## Personal Reflections
-
 

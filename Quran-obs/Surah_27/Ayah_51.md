@@ -124,13 +124,5 @@ The other thing worth noting in this verse is that the one whom these infidels h
 
 See then what the consequences of their plan were: We utterly destroyed them and their people all together.
 
-## AI Tafsir
-
-**What this ayah teaches:** The plan was that all of them together should attack him and his companions in the darkness of night, and kill them all. Verily, We destroyed them and their nation all together (51)These are their houses in utter ruin, for they did wrong.
-
-**Classical tafsir:** Ibn Kathir notes: Al-'Awfi reported that Ibn 'Abbas said: "These were the people who killed the she-camel," Meaning, that happened upon their instigation, may Allah curse them.
-
-**From the Sunnah:** The other possibility is that he might have been a Muslim but enjoyed a prominent position and hence there could have been the risk of uprising and reprisal among the people. (Sahih Muslim)
 ## Personal Reflections
-
 

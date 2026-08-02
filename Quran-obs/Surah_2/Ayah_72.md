@@ -110,15 +110,5 @@ In this incident the statement of the murdered man was considered evidence for c
 
 When a man was killed and you disputed over who did it, Allah brought out what you were hiding.
 
-## AI Tafsir
-
-**Essence** A man was slain, blame traded hand to hand — but Allah brings forth what hearts conspire to bury.
-
-**What it teaches** Fa-iddāra'tum: each thrust the crime onto another. Concealment before people is nothing before Allah. Struck with part of the cow, the dead man rose, named his murderer, and died again — living proof the Resurrection shall occur.
-
-**The scholars** Ibn Kathir cites Al-Bukhari and Mujahid ("disputed") and Ibn Jurayj ("You killed him" — "No, you killed him"); the cow's part Allah left vague, so we leave it vague; he counts five revival scenes in al-Baqarah alerting us that bodies become whole after rotting. Maarif ul-Quran: the inverted order condemns two misdeeds equally — committing a murder then trying to hide it, and raising uncalled-for objections to Allah's command; the dead man's word convicted only because revelation to Musa (peace be upon him) confirmed its truth.
-
-**Reflection** Whatever you conceal, He already knows — live as one ever under His sight.
 ## Personal Reflections
-
 

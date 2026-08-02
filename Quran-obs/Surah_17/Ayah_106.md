@@ -144,15 +144,5 @@ Since this explanation of the verse stands proved on the authority of Sahih Hadi
 
 It is a Quran We have revealed in stages so that you may recite it to people at a deliberate pace. And We have sent it down in successive revelations.
 
-## AI Tafsir
-
-**Context:** (And (it is) a Qur'an which We have divided), The word translated here as "We have divided" may be read in two ways.
-
-**What this ayah teaches:** Therefore, a number of commentators have taken the word 'ayat' to mean miracles - and the number nine does not make it necessary that they will not be more than nine - but, at this place, the figure 'nine' has been mentioned on the basis of some particular importance it has.
-
-**Classical tafsir:** Ibn Kathir notes: And a Sahih Hadith tells us that the word 'ayat' used here means divine injunctions.
-
-**From the Sunnah:** It was also narrated that Ibn 'Abbas read it as "Farraqnahu", with a Shaddah, meaning, 'We revealed it Ayah by Ayah , and have explained it and made it clear.' Hence Allah says: This Hadith has been reported in Abu Dawud, an-Nasa'i, Tirmidhi and Ibn Majah on the authority of Sayyidna Safwan ibn al-` Aththal.
 ## Personal Reflections
-
 

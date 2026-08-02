@@ -91,11 +91,5 @@ As part of this event, the people of Sayyidna Salih (علیہ السلام) have
 
 And O my people! This she-camel of Allah is a sign for you. So leave her to graze freely on Allah’s earth and do her no harm, or a swift punishment will overtake you!”
 
-## AI Tafsir
-
-**What this ayah teaches:** This she-camel of Allah is a sign to you, so leave her to graze in Allah's land, and touch her not with evil, lest a near torment should seize you.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

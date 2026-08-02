@@ -144,13 +144,5 @@ This is what is known as God gifted awe of truth, veracity and reality. The cont
 
 Then you did what you did, being utterly ungrateful!”
 
-## AI Tafsir
-
-**What this ayah teaches:** And you did dwell many years of your life with us. In the first place he changed the sequence of the topics in that he brought up the case of the Egyptian first which the Pharaoh had raised latter.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** The contentions and dialectics of Allah's messengers are also full of truth, veracity and wishing well for the addressee.
 ## Personal Reflections
-
 

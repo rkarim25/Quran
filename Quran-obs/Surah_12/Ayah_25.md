@@ -210,11 +210,5 @@ But, it is obvious that all these terms have been employed by later scholars and
 
 They raced for the door and she tore his shirt from the back, only to find her husband at the door. She cried, “What is the penalty for someone who tried to violate your wife, except imprisonment or a painful punishment?”
 
-## AI Tafsir
-
-**What this ayah teaches:** It stands proved (from verse 26) that, should a person be accused falsely by someone, speaking out in defence is the way of the prophets (the Sunnah of the Anbiya' ).
-
-**Classical tafsir:** Ibn Kathir notes: Ath-Thawri reported that Jabir said that Ibn Abi Mulaykah said that Ibn 'Abbas said, "He was from the king's entourage." Mujahid, 'Ikrimah, Al-Hasan, Qatadah, As-Suddi, Muhammad bin Ishaq and others also said that the witness was an adult male.
 ## Personal Reflections
-
 

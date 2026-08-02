@@ -130,13 +130,5 @@ At the end of verse 12, it was said: لَعَلَّهُمْ يَنتَهُونَ
 
 But if they break their oaths after making a pledge and attack your faith, then fight the champions of rejection of the truth—who never honour their oaths—so perhaps they will desist.
 
-## AI Tafsir
-
-**What this ayah teaches:** Honest critical study of Islam by Protected Non-Muslim Citizens of Dar al-Islam is possible - vilification is not Some commentators have interpreted the words: (speak evil of your faith) to mean that speaking evil of the Faith of Muslims is included under contravention of pledge.
-
-**Classical tafsir:** Ibn Kathir notes: Some commentators say that ` leaders of infidelity' at this place refers to the chiefs of the tribe of Quraysh in Makkah who kept on instigating people against Muslims and remained busy making war preparations.
-
-**From the Sunnah:** And in the 11th verse it was announced that, despite having broken their solemn covenant, if these Mushriks become Muslims and start expressing their faith in Islam through prayers and fasting, then, Muslims are duty-bound to keep their present dealings with t… Some commentators say that ` leaders of infidelity' at…
 ## Personal Reflections
-
 

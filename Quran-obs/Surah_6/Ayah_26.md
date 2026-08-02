@@ -160,13 +160,5 @@ The verse: وَهُمْ يَنْهَوْنَ عَنْهُ (And from it they prev
 
 They turn others away from the Prophet and distance themselves as well. They ruin none but themselves, yet they fail to perceive it.
 
-## AI Tafsir
-
-**Context:** The verse: وَهُمْ يَنْهَوْنَ عَنْهُ (And from it they prevent - 26), according to early commentators Dahhak, Qatadah and Muhammad ibn Hanafiyah, was revealed about the common those who reject the truth of Makkah who prevented people f…
-
-**What this ayah teaches:** Yet, they do not perceive this fact!
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

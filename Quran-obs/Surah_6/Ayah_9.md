@@ -132,11 +132,5 @@ In short, the Holy Prophet ﷺ has been assured that his mission is to convey th
 
 And if We had sent an angel, We would have certainly made it a man—leaving them more confused than they already are.
 
-## AI Tafsir
-
-**What this ayah teaches:** Firstly, an angel may come as he is, in his form and state of being.
-
-**Classical tafsir:** Ibn Kathir notes: In other words, it means ` If We do send the miracle they demand, that is, send an angel, then, these people who are not the kind who would accept truth will still act contrary and hostile even after having seen the miracle, then, the Divine command to have them destroyed would s…
 ## Personal Reflections
-
 

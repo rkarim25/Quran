@@ -255,19 +255,5 @@ Now, returning back to the 'unjust', the Holy Qur'an makes a subtle suggestion t
 
 Among people are some who take rivals besides Allah, loving them as only Allah should be loved. The mu'min love Allah more. If only the wrongdoers could see the punishment awaiting them — they would know that all power belongs to Allah and that He is severe in punishment.
 
-## AI Tafsir
-
-**Essence** The believer's love for Allah is supreme and exclusive, while the idolater squanders that love on powerless rivals who will abandon him the moment the punishment comes into view.
-
-**What it teaches** The ayah exposes a disorder of the heart: some people take *andad* — rivals set up *min duni Allah*, besides Allah — and direct toward them the love that belongs to Allah alone. The flaw is not that they love, but *what* they love and *how*: they give a created thing the devotion owed only to the Creator. Against them stand those who believe, who are *ashaddu hubban lillah* — and the difference is one of kind, not merely degree. Their love is anchored in the One who cannot fail them, so it cannot be misplaced or outbid. The ayah then turns to the wrongdoers (*zalimun*) with a warning framed as a wish: *if only* they could see the torment now, they would grasp what they deny today — that *all* power (*al-quwwah*) belongs to Allah and that He is severe in punishment.
-
-**The scholars** Ibn Kathir reads these verses as the polytheists' condition in this life set beside their destination in the next: they appointed equals to Allah and loved them as Allah is loved, yet Allah alone is worthy of worship, having no rival, opponent, or partner. He pinpoints *why* the believers love more — because they know Allah's greatness, revere Him, and affirm His Oneness (*tawhid*); so they associate nothing with Him, worship Him alone, depend on Him, and seek His help for every single need. Had the idolaters known the terrible punishment their disbelief and Shirk would bring, he adds, they would have shunned the deviation they live by.
-
-Maarif ul Quran sharpens the contrast to its finest point: a polytheist will turn away from his self-made god the instant loss looms over him — but the believer reposes total confidence in Allah in gain and loss alike, never leaving his Creator whatever the odds against him. That is the practical test of *ashaddu hubban*: love that holds when it costs something. Maarif notes too that the wrongdoers were not without warning — their very frustrations with helpless gods could have shown them where real power lies; they missed the chance, so the stern warning came.
-
-**From the Sunnah** When Ibn Mas'ud asked the Prophet (peace be upon him) which sin is the greatest, he answered that it is to appoint a rival to Allah while He alone has created you — naming Shirk itself, the very setting-up of *andad* that this ayah condemns, as the gravest of all sins. (Sahihayn — al-Bukhari and Muslim)
-
-**Reflection** Give your deepest love to the One who created you and never abandons you — not to anything that will desert you the moment you need it most.
 ## Personal Reflections
-
 

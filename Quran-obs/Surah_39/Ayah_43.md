@@ -123,11 +123,5 @@ In the verse cited above, the word: يَتَوَفَّى (yatawaffa) in the sens
 
 Or have they taken others besides Allah as intercessors? Say: "Would they do so, even though those idols have neither authority nor intelligence?"
 
-## AI Tafsir
-
-**What this ayah teaches:** And then, at times, even this inward connection is severed because of which the life of the body goes extinct, totally.
-
-**Classical tafsir:** Ibn Kathir notes: There is no Intercession except with Allah, and how the Idolators are filled with Disgust when Allah is mentioned alone Allah condemns the idolators for taking intercessors besides Allah, namely the idols and false gods whom they have taken on the basis of their own whims, with n…
 ## Personal Reflections
-
 

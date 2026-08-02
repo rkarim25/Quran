@@ -94,13 +94,5 @@ The reasoning for this he gave إِنَّ مَعِيَ رَ‌بِّي سَيَ�
 
 And your Rabb is certainly the Almighty, the Rahim.
 
-## AI Tafsir
-
-**Context:** So, they pursued them at sunrise (60)And when the two hosts saw each other, the companions of Musa said: "We are sure to be overtaken. (61)(Musa) said: "Nay, verily with me is my Lord. He will guide me.
-
-**What this ayah teaches:** And verily your Lord, He is truly the All-Mighty, the ar-Rahim.) The explanation of this phrase has already been discussed above.
-
-**Classical tafsir:** Ibn Kathir notes: 'Ata' Al-Khurasani said, "It refers to a pass between two mountains." Ibn 'Abbas said, "The sea divided into twelve paths, one for each of the tribes." As-Suddi added, "And in it there were windows through which they could see one another, and the water was erected like walls." Allah sent the wind t…
 ## Personal Reflections
-
 

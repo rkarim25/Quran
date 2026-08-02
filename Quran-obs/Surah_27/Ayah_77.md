@@ -90,15 +90,5 @@ By describing Allah's omnipotence through different examples in the earlier vers
 
 And it is truly a guide and mercy for the mu'mins.
 
-## AI Tafsir
-
-**Context:** By describing Allah's omnipotence through different examples in the earlier verses, the reality of the Hereafter and the rational possibility of resurrection of the dead has been established.
-
-**What this ayah teaches:** Verily, this Qur'an narrates to the Children of Israel most of that in which they differ (76)And truly, it is a guide and a mercy for the believers (77)Verily, your Lord will decide between them by His judgement.
-
-**Classical tafsir:** Ibn Kathir notes: So much so that in matters in which the scholars of Bani Isra'il had differed strongly and could not resolve them, the Qur'an has given them evaluated verdict to follow for correct judgment.
-
-**From the Sunnah:** You can only make to hear those who believe in Our Ayat, so they submit (became Muslims).
 ## Personal Reflections
-
 

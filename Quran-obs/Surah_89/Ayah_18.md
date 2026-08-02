@@ -90,11 +90,5 @@ Spending on the Orphan is not Sufficient. Their respect is also necessary
 
 Nor urge one another to feed the poor—
 
-## AI Tafsir
-
-**What this ayah teaches:** The style of this verse, in condemning the evil trait of the unbelievers, indicates that it is an obligation of the affluent to spend on the poor and indigent from their own wealth. But you treat not the orphans with kindness and generosity (17)And urge not one another on the feeding of the Miskin (18)And you devour the Turath – devouring with greed (19)And you love wealth with love Jamma .
-
-**Classical tafsir:** Ibn Kathir notes: The style of this verse, in condemning the evil trait of the unbelievers, indicates that it is an obligation of the affluent to spend on the poor and indigent from their own wealth.
 ## Personal Reflections
-
 

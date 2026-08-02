@@ -125,11 +125,5 @@ This is a proof that he did not speak to his people for these three nights and t
 
 Zachariah said: "My Rabb, grant me a sign." He replied: "Your sign is that you will not speak to people for three nights, though you are healthy."
 
-## AI Tafsir
-
-**What this ayah teaches:** Appoint for me a sign." He said: "Your sign is that you shall not speak unto mankind for three nights, though having no bodily defect.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

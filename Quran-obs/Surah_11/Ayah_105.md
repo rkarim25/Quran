@@ -160,15 +160,5 @@ During the Khilafah of Sayyidna ` Umar ibn ` Abd al-` Aziz (رح) ، someone was
 
 When that Day arrives, no one will dare speak except with His permission. Some of them will be miserable, others joyful.
 
-## AI Tafsir
-
-**Context:** (So their Lord revealed to them: "Truly, We shall destroy the wrongdoers.)[14:13] Concerning Allah's statement, (When a party will be in Paradise and a party in the blazing Fire)[42:7] Al-Hafiz Abu Ya'la recorded in his…
-
-**What this ayah teaches:** Indeed in that (there) is a sure lesson for those who fear the torment of the Hereafter.
-
-**Classical tafsir:** Ibn Kathir notes: This means an admonition and lesson concerning the truthfulness of that which We are promised in the Hereafter.
-
-**From the Sunnah:** There is a consensus of the entire Muslim Ummah that doing so is strictly Haram (unlawful). (Sahih Muslim)
 ## Personal Reflections
-
 

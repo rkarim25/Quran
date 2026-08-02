@@ -277,15 +277,5 @@ The wife mentioned here was Umm Salamah, and she is the one who advised 'Umar to
 
 It would be better if you both turned to Allah in repentance, for your hearts have faltered. If you continue to collaborate against him, know that Allah Himself is his Guardian—and Gabriel, the righteous believers, and the angels are his supporters.
 
-## AI Tafsir
-
-**Context:** In another narration collected from 'Ubayd bin 'Umayr, from 'A'ishah, it was Zaynab bint Jahsh who gave the honey to the Prophet ﷺ, while 'A'ishah and Hafsah were the plotters. Allah knows best.
-
-**What this ayah teaches:** If you two turn in repentance to Allah, your hearts are indeed so inclined; but if you help one another against him, then verily, Allah is his Protector, and Jibril, and the righteous among the believers; and after that the angels are his helpers.)(5.
-
-**Classical tafsir:** Ibn Kathir notes: Then when he told her thereof, she said: "Who told you this?" He said: "The All-Knower, the All-Aware has told me.")(4.
-
-**From the Sunnah:** he heard 'A'ishah claiming that Allah's Messenger ﷺ used to stay for a period in the house of Zaynab bint Jahsh and drink honey in her house.
 ## Personal Reflections
-
 

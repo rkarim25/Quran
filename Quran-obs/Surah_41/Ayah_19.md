@@ -123,11 +123,5 @@ Imam Ahmad recorded that 'Abdullah, may Allah be pleased with him, said, "I was 
 
 Consider the Day the enemies of Allah will be gathered for the Fire, all driven in ranks.
 
-## AI Tafsir
-
-**What this ayah teaches:** Most of the learned exegetes have explained it in the sense that when people of Hell, who will be numerous, will be taken forward to the field of hashr and the place of reckoning, the people in the front will be halted for a while, so that the people in the rear also catch up with them.
-
-**Classical tafsir:** Ibn Kathir notes: Most of the learned exegetes have explained it in the sense that when people of Hell, who will be numerous, will be taken forward to the field of hashr and the place of reckoning, the people in the front will be halted for a while, so that the people in the rear also catch up wit…
 ## Personal Reflections
-
 

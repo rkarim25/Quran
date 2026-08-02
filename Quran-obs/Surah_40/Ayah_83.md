@@ -133,11 +133,5 @@ In verse 83, it was said: فَرِ‌حُوا بِمَا عِندَهُم مِّ
 
 When their messengers came to them with clear proofs, they were prideful in whatever worldly knowledge they had, and were ultimately overwhelmed by what they used to ridicule.
 
-## AI Tafsir
-
-**What this ayah teaches:** They were more in number than them and mightier in strength, and in the traces in the land; yet all that they used to earn availed them not (82)Then when their Messengers came to them with clear proofs, they were glad (and proud) with that which they had of the knowledge (of worldly things).
-
-**Classical tafsir:** Ibn Kathir notes: The Lesson to be learned from what happened to Those Who Came before Allah tells us about the nations who rejected their Messengers in ancient times.
 ## Personal Reflections
-
 

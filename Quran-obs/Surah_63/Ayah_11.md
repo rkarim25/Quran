@@ -106,11 +106,5 @@ Ends here
 
 Allah never delays a soul when its appointed time comes. He is All-Aware of what you do.
 
-## AI Tafsir
-
-**What this ayah teaches:** If only You would give me respite for a little while, then I should give Sadaqah from my wealth, and be among the righteous (10)And Allah grants respite to none when his appointed time comes. And Allah is All-Aware of what you do.) meaning, when the time of death comes, no one will be granted respite.
-
-**Classical tafsir:** Ibn Kathir notes: Earlier on it was learned that the word dhikr (remembrance of Allah) refers to all forms of obedience and following the dictates of Shari’ ah, which include spending wealth as due.
 ## Personal Reflections
-
 

@@ -99,11 +99,5 @@ Allah Did Not Create His Servants in Vain
 
 They will reply, “We remained only a day or part of a day. But ask those who kept count.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Out of the five, replies were furnished to four, but in reply to the fifth Allah commanded them not to speak to Him.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

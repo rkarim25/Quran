@@ -269,15 +269,5 @@ This is an account of how the Bani Isra'il kept breaking the pledge taken from t
 
 Those who say, “Allah is the Messiah, son of Mary,” have certainly fallen into rejection of the truth. The Messiah said, “O Children of Israel! Worship Allah—my Rabb and your Rabb.” Whoever associates others with Allah will surely be forbidden Paradise by Allah. Their home will be the Fire. And the wrongdoers will have no helpers.
 
-## AI Tafsir
-
-**Context:** Mujahid and several others said that this Ayah was revealed about the Christians in particular. As-Suddi and others said that this Ayah was revealed about taking 'Isa and his mother as gods besides Allah, thus making All…
-
-**What this ayah teaches:** And for the wrongdoers there are no helpers (72)Surely, they have disbelieved who say: "Allah is the third of three." And there is no Allah but One Allah (Allah).
-
-**Classical tafsir:** Ibn Kathir notes: Despite all of this, Allah calls them to repent so that He will forgive them, for Allah forgives those who sincerely repent to Him.
-
-**From the Sunnah:** It is recorded in the Sahih that the Prophet ﷺ had someone proclaim to the people,
 ## Personal Reflections
-
 

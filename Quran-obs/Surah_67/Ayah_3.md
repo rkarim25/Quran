@@ -215,13 +215,5 @@ Qatadah said, "These stars were only created for three purposes: Allah created t
 
 He created seven heavens, one above another. You will not see any flaw in the creation of the Rahman. Look again—do you see any imperfection?
 
-## AI Tafsir
-
-**What this ayah teaches:** Who has created the seven heavens one above the other; you can see no fault in the creation of the ar-Rahman. This Ayah means that He brought creation into existence from nothing in order to test the creatures.
-
-**Classical tafsir:** Ibn Kathir notes: This Ayah means that He brought creation into existence from nothing in order to test the creatures.
-
-**From the Sunnah:** This Hadith was collected by At-Tirmidhi and the four Sunan Compilers. (Jami' at-Tirmidhi)
 ## Personal Reflections
-
 

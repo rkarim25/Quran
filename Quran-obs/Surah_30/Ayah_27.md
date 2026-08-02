@@ -126,13 +126,5 @@ Al-Bukhari recorded that Abu Hurayrah, may Allah be pleased with him, said that 
 
 He originates creation then will resurrect it — easier for Him. To Him belong the finest attributes in the heavens and earth. He is the Almighty, All-Wise.
 
-## AI Tafsir
-
-**What this ayah teaches:** As for his denying Me, it is his saying: 'He will not remake me as He originated me' – while originating the creation is not easier for Me than re-creating him.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, the Qur'an has used the word 'mathal' for Allah Ta’ ala at several places, as in this very verse, and in another but Allah Ta’ ala's Being is completely beyond resemblance.
-
-**From the Sunnah:** the Prophet ﷺ said: (Sahih al-Bukhari)
 ## Personal Reflections
-
 

@@ -163,13 +163,5 @@ The questions asked and the demands made in these verses from the Holy Prophet �
 
 They challenge the Prophet, “We will never believe in you until you cause a spring to gush forth from the earth for us,.
 
-## AI Tafsir
-
-**Context:** (My case is not as you say. I have not brought what I have brought to you because I want your wealth or to be your leader or king.
-
-**What this ayah teaches:** And they say: "We shall not believe in you, until you cause a spring to gush forth from the earth for us; (90)"Or you have a garden of date palms and grapes, and cause rivers to gush forth in their midst abundantly; (91)"Or you cause the heaven to fall upon us in pieces, as you have pretended, or you bring Allah and the angels before (us) face to face; (92)"Or you have a house of Zukhruf, or you a…
-
-**Classical tafsir:** Ibn Kathir notes: So he came and sat with them, and they said, 'O Muhammad, we have sent for you so that nobody will think we are to blame.
 ## Personal Reflections
-
 

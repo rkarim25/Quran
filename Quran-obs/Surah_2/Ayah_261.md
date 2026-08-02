@@ -209,19 +209,5 @@ The correct and masnun مسنون (according to Sunnah) method of giving sadaqah
 
 The likeness of those who spend their wealth in Allah's cause is a grain that sprouts seven ears, each bearing a hundred grains. Allah multiplies for whomever He wills. Allah is all-bountiful, all-knowing.
 
-## AI Tafsir
-
-**Essence** A single coin spent purely in Allah's cause is sown like one grain that yields seven hundred — and Allah, the All-Encompassing, multiplies it still more for whom He wills.
-
-**What it teaches** Allah likens the one who spends his wealth fi sabilillah (in the way of Allah) to a grain that sprouts seven ears, each bearing a hundred grains — one unit of giving returning the merit of seven hundred. The closing names are a promise: Wasi' (All-Encompassing, His bounty wider than all creation) and 'Alim (All-Knowing, who knows exactly who deserves the increase).
-
-**The scholars** Ibn Kathir explains that this parable is more impressive on the heart than merely stating "seven hundred," and that Allah "grows" good deeds for their doer just as He grows a plant for whoever sows it in fertile soil. He cites Sa'id bin Jubayr that spending here means "spending in Allah's obedience," and Makhul that it includes Jihad, horse stalls, and weapons; on "Allah multiplies for whom He wills," he notes this is according to the person's sincerity, and on Wasi' 'Alim, that His Favor is so wide it encompasses far more than His creation and He fully knows who merits it. Maarif ul Quran draws out the parable's hidden condition: as a farmer reaps seven hundred only when seed, sower, and soil are all sound, so charity is accepted only when (1) what is spent is clean, pure and halal, (2) the giver is good in intention and righteous in deed, not ill-intentioned or showy, and (3) the recipient is genuinely deserving — merely emptying one's coffers earns no such reward. Maarif also reports from Ibn 'Abbas that one dirham spent in Jihad and Hajj equals seven hundred dirhams.
-
-**From the Sunnah** A man gave a camel with its bridle in the cause of Allah, and the Prophet (peace be upon him) told him he would receive seven hundred bridled camels on the Day of Resurrection — the parable borne out in a reported promise. (Imam Ahmad; also Muslim and An-Nasa'i)
-
-**From the Sunnah** Every deed of the son of Adam is multiplied from ten up to seven hundred times, to as much as Allah wills — except fasting, which Allah keeps for Himself and rewards for Himself. (Muslim; recorded by Ahmad from Abu Hurayrah)
-
-**Reflection** Give from what is lawful, with a sincere heart, to one who truly needs it — then trust Allah's harvest, not your own arithmetic.
 ## Personal Reflections
-
 

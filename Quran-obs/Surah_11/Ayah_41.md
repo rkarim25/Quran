@@ -144,11 +144,5 @@ From here unfolds the difference between the world of a believer and the world o
 
 And he said, “Board it! In the Name of Allah it will sail and cast anchor. Surely my Rabb is All-Forgiving, the Rahim — special mercy for believers in the Akhirah.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Surely, my Lord is Oft-Forgiving, ar-Rahim.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, he (Nuh) mentions that His Lord is Oft Forgiving, ar-Rahim.
 ## Personal Reflections
-
 

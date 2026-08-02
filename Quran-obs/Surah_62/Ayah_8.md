@@ -154,11 +154,5 @@ As for as bubonic plague or epidemic is concerned, it is a separate issue. The d
 
 Say: 'The death you flee will surely reach you. Then you will be returned to the Knower of the seen and unseen, and He will inform you of what you used to do.'
 
-## AI Tafsir
-
-**What this ayah teaches:** Since we do not know for sure whether fire, or poison, or some other obnoxious thing will be the destined cause of our death in a particular situation, running away from them would not amount to fleeing from death that is denounced in the verse.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, they are worse than the donkey, because the donkey cannot understand.
 ## Personal Reflections
-
 

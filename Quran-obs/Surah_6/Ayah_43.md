@@ -171,11 +171,5 @@ At the end of verse 42 itself, this element of wisdom finds expression through t
 
 Why did they not humble themselves when We made them suffer? Instead, their hearts were hardened, and Satan made their misdeeds appealing to them.
 
-## AI Tafsir
-
-**What this ayah teaches:** But their hearts became hardened, and Shaytan made fair-seeming to them that which they used to do (43)So, when they forgot (the warning) with which they had been reminded, We opened to them the gates of every (pleasant) thing, until in the midst of their enjoyment in that which they were given, all of a sudden, We took them to punishment, and lo!
-
-**Classical tafsir:** Ibn Kathir notes: And We seized them with extreme poverty and loss of health so that they might believe with humility (42)When Our torment reached them, why then did they not believe with humility?
 ## Personal Reflections
-
 

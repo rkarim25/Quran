@@ -217,13 +217,5 @@ Sayyidna ` Abdullah Ibn ` Umar ؓ says: "When you hear anyone reviling a Compani
 
 Even united, they would not fight you except from fortified strongholds or behind walls. Their hatred for each other is intense: you think they are united, but their hearts are divided—because they are a people with no real understanding.
 
-## AI Tafsir
-
-**What this ayah teaches:** That is because they are a people who comprehend not (13)They fight not against you even together, except in fortified townships, or from behind walls.
-
-**Classical tafsir:** Ibn Kathir notes: That is because they are a people who comprehend not (13)They fight not against you even together, except in fortified townships, or from behind walls.
-
-**From the Sunnah:** They only fight when they have to defend themselves (even though they threaten Muslims of reprisals). All Muslims after the Muhajirin and the Ansar are entitled to fai'
 ## Personal Reflections
-
 

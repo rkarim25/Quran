@@ -168,11 +168,5 @@ A tradition has reported the Messenger of Allah saying that Allah has appointed 
 
 There is no soul without a vigilant guardian recording its deeds.
 
-## AI Tafsir
-
-**What this ayah teaches:** There is no human being but has a protector over him.)(5.
-
-**Classical tafsir:** Ibn Kathir notes: In the first sense, the word hafiz refers to the angels who record the deeds.
 ## Personal Reflections
-
 

@@ -91,13 +91,5 @@ From this verse, says Tafsir Mazhari, it is clearly understood that there was ju
 
 They definitely thought they were about to lure you away from what We have revealed to you O Prophet, hoping that you would attribute something else to Us falsely—and then they would have certainly taken you as a close friend.
 
-## AI Tafsir
-
-**Context:** Verily, they were about to tempt you away from that which We have revealed to you, to fabricate something other than it against Us, and then they would certainly have taken you as an intimate frien (73)And had We not mad…
-
-**What this ayah teaches:** Verily, they were about to tempt you away from that which We have revealed to you, to fabricate something other than it against Us, and then they would certainly have taken you as an intimate frien (73)And had We not made you stand firm, you would nearly have inclined to them a little (74)In that case We would have made you taste a double portion in this life and a double portion after death.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

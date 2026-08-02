@@ -240,11 +240,5 @@ Referring to the Jews and Christians in: أَكْثَرَ‌كُمْ فَاسِ�
 
 Say, “O People of the Book! Do you resent us only because we believe in Allah and what has been revealed to us and what was revealed before—while most of you are rebellious?”
 
-## AI Tafsir
-
-**What this ayah teaches:** Those who were before you were destroyed because they committed sins and the 'Rabbāniyyūn' and 'Aḥbār' did not forbid them from evil.
-
-**Classical tafsir:** Ibn Kathir notes: Those who were before you were destroyed because they committed sins and the 'Rabbāniyyūn' and 'Aḥbār' did not forbid them from evil.
 ## Personal Reflections
-
 

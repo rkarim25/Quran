@@ -186,11 +186,5 @@ Now attention is drawn to the comforts we get from the sky. The most useful thin
 
 built above you seven strong heavens,
 
-## AI Tafsir
-
-**What this ayah teaches:** And We have built above you seven strong,)(13. And We have made the day for livelihood.)(12.
-
-**Classical tafsir:** Ibn Kathir notes: And We have made the day for livelihood.)(12.
 ## Personal Reflections
-
 

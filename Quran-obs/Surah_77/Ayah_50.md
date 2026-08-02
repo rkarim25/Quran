@@ -102,11 +102,5 @@ This is the end of the Tafsir of Surat Al-Mursalat, and all praise and thanks ar
 
 After this revelation, what message would they believe in?
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, you are criminals (46)Woe that Day to the deniers (47)And when it is said to them: "Bow down yourself!" They bow not down (48)Woe that Day to the deniers (49)Then in what statement after this will they believe...77:50) The Holy Qur'an is the last Book of Allah which explains its message and wisdom most lucidly, excellently, eloquently, elegantly, and its arguments most convincingly.
-
-**Classical tafsir:** Ibn Kathir notes: ...77:50) The Holy Qur'an is the last Book of Allah which explains its message and wisdom most lucidly, excellently, eloquently, elegantly, and its arguments most convincingly.
 ## Personal Reflections
-
 

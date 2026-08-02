@@ -322,15 +322,5 @@ Verse [ 113:1] قُلْ أَعُوذُ بِرَ‌بِّ الْفَلَقِ (Say
 
 Say: I seek refuge in the Rabb of the breaking dawn—the One who brings light after the deepest darkness, when fear feels loudest and the night feels endless.
 
-## AI Tafsir
-
-**Context:** (Do you not see that there have been Ayat revealed to me tonight the like of which has not been seen before?) They are This and the next Surah were revealed on the same occasion, and in the same event, as will be explain…
-
-**What this ayah teaches:** Say: "I seek refuge with the Lord of Al-Falaq,")(2. Hafiz Ibn-ul-Qayyim has, therefore, written their commentary together.
-
-**Classical tafsir:** Ibn Kathir notes: Hafiz Ibn-ul-Qayyim has, therefore, written their commentary together.
-
-**From the Sunnah:** from Zirr bin Hubaysh that Ubayy bin Ka'b told him that Ibn Mas'ud did not record the Mu'awwidhatayn in his Mushaf (copy of the Qur'an). (Musnad Ahmad) This Hadith was recorded by Ahmad, At-Tirmidhi and An-Nasa'i. (Jami' at-Tirmidhi, Sunan an-Nasa'i)
 ## Personal Reflections
-
 

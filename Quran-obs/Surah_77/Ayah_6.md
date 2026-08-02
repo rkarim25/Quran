@@ -168,13 +168,5 @@ Allah is saying, 'for which day are the Messengers postponed and their matter ex
 
 ending excuses and giving warnings—
 
-## AI Tafsir
-
-**Context:** (By the Mursalat.) was revealed to him. He was reciting it and I was learning it from his mouth. Verily, his mouth was moist with it when a snake leaped out at us. The Prophet ﷺ said,
-
-**What this ayah teaches:** There is no difference of opinion here, because they (the angels) are the ones who descend with Allah's command to the Messengers, separating between the truth and falsehood, guidance and misguidance, and the lawful and the forbidden.
-
-**Classical tafsir:** Ibn Kathir notes: This means, what you all have been promised concerning the establishment of the Hour (Judgement Day), the blowing of the horn, the resurrection of the bodies, the gathering of those of old and those of latter times on one common ground and the rewarding of every doer of a deed ba…
 ## Personal Reflections
-
 

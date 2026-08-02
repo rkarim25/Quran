@@ -168,11 +168,5 @@ After that, he declares his abhorrence for disbelief and his disengagement from 
 
 I follow the faith of my fathers: Abraham, Isaac, and Jacob. It is not right for us to associate anything with Allah in worship. This is part of Allah’s grace upon us and humanity, but most people are not showing shukr — gratitude shown in word and action.
 
-## AI Tafsir
-
-**What this ayah teaches:** Then, he said that the Taufiq of following a true religion ('the favour of Allah upon us and upon all people' ) was nothing but the Fadl or grace of Allah Ta’ ala, for it was He who, by giving proper understanding, made the acceptance of truth easy on us.
-
-**Classical tafsir:** Ibn Kathir notes: They have no personal attributes which could become deserving of assigning to them the least fund of power - because all of them are inert.
 ## Personal Reflections
-
 

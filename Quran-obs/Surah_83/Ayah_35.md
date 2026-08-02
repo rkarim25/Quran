@@ -88,13 +88,5 @@ Ends here
 
 reclining on couches, looking on.
 
-## AI Tafsir
-
-**What this ayah teaches:** Rather they were the close Awliya' of Allah, who will be looking at their Lord in the place of His honor.
-
-**Classical tafsir:** Ibn Kathir notes: In other words, they would mock them and despise them.
-
-**From the Sunnah:** May Allah salvage the Muslims from this painful scourge.
 ## Personal Reflections
-
 

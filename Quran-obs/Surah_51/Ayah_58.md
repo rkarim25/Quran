@@ -119,13 +119,5 @@ This is the end of the Tafsir of Surat Adh-Dhariyat; all praise is due to Allah 
 
 Allah is the Provider, the Lord of power, the Almighty.
 
-## AI Tafsir
-
-**What this ayah teaches:** Nay, they are themselves a people transgressing beyond bounds (53)So turn away from them, you are not blameworthy (54)And remind, for verily, the reminding profits the believers (55)And I created not the Jinn and mankind except that they should worship Me (56)I seek not any provision from them nor do I ask that they should feed Me (57)Verily, Allah is the All-Provider, Owner of…
-
-**Classical tafsir:** Ibn Kathir notes: It means that by creating jinn and mankind, Allah does not stand in need of them, so that they will have to produce sustenance for Him or for themselves or for any of His other creations or that they earn to feed Him.
-
-**From the Sunnah:** this Hadith. (Musnad Ahmad, Jami' at-Tirmidhi)
 ## Personal Reflections
-
 

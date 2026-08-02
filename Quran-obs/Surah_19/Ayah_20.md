@@ -160,11 +160,5 @@ This means that he will call to the worship of his Lord in his cradle and while 
 
 She wondered: "How can I have a son when no man has touched me, nor am I unchaste?"
 
-## AI Tafsir
-
-**What this ayah teaches:** This is what is legislated in defense against (evil), so that it may be repulsed with ease. Therefore, the first thing she did was try to make him fear Allah, the Mighty and Sublime.
-
-**Classical tafsir:** Ibn Kathir notes: And he will speak to the people, in the cradle and in manhood, and he will be one of the righteous.)[3:45-46] This means that he will call to the worship of his Lord in his cradle and while and adult.
 ## Personal Reflections
-
 

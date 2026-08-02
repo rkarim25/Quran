@@ -249,11 +249,5 @@ The Two Sahihs also recorded from Ibn 'Umar that the Messenger of Allah ﷺ burn
 
 Had Allah not decreed exile for them, He would have punished them in this dunya—this temporary worldly life. In the Akhirah—the everlasting life after death—they will face the Fire.
 
-## AI Tafsir
-
-**Context:** Ibn 'Abbas used to call this chapter, 'Surah Bani An-Nadir.' Sa'id bin Mansur recorded that Sa'id bin Jubayr said, "I asked Ibn 'Abbas about Surat Al-Hashr and he said, 'It was revealed about Bani An-Nadir.'" Al-Bukhari…
-
-**What this ayah teaches:** And had it not been that Allah had decreed exile for them, He would certainly have punished them in this world; and in the Hereafter theirs shall be the torment of the Fire.)(4. 'Urwah, As-Suddi and Ibn Zayd said that Allah decreed that the Jews would be punished in the life of this world and face the torment of the fire of Hell He prepared for them in the Hereafter.
 ## Personal Reflections
-
 

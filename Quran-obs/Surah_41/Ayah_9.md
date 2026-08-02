@@ -299,13 +299,5 @@ Briefly, of all the ahadith wherein the duration, days and sequence of creation 
 
 Ask them: "How can you reject the One Who created the earth in two Days? How can you set up equals with Him? He is the Lord of all worlds."
 
-## AI Tafsir
-
-**What this ayah teaches:** Allah says that He created the earth first, because it is the foundation, and the foundation should be built first, then the roof.
-
-**Classical tafsir:** Ibn Kathir notes: And the mountains He has fixed firmly, (to be) a provision and benefit for you and your cattle.)(79:27-33) This Ayah states that the spreading out of the earth came after the creation of the heavens, but the earth itself was created before the heavens according to some texts.
-
-**From the Sunnah:** This was the response of Ibn 'Abbas, may Allah be pleased with him, as recorded by Al-Bukhari in his Tafsir of this Ayah in his Sahih. (Sahih al-Bukhari) The commencement of creation took place on Saturday according to a Hadith narrated by Sayyidna Abu Hurairah, reported in Sahih of Muslim. (Sahih Muslim)
 ## Personal Reflections
-
 

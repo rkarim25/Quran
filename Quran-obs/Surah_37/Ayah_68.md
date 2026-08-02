@@ -128,11 +128,5 @@ The sense of the rest of the verses is clear from their translation.
 
 Then they will ultimately return to their place in Hell.
 
-## AI Tafsir
-
-**What this ayah teaches:** Is that (Paradise) better entertainment or the tree of Zaqqum (62)Truly, We have made it (as) a trial for the wrongdoers (63)Verily, it is a tree that springs out of the bottom of Hell-fire (64)The shoots of its fruit stalks are like the heads of Shayatin (65)Truly, they will eat thereof and fill their bellies therewith (66)Then on the top of that they will be given boiling Ham…
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, in Urdu and Hindi too, it is called 'nagphan' (hood of the serpent) for this very reason.
 ## Personal Reflections
-
 

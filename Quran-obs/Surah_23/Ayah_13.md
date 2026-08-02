@@ -126,13 +126,5 @@ In the next verse : ثُمَّ جَعَلْنَاهُ نُطْفَةً (then We 
 
 then placed each human as a sperm-drop in a secure place,
 
-## AI Tafsir
-
-**What this ayah teaches:** Another view is that (extract of clay) may also mean human seed because it is produced from the food which a man takes and the food grows out of the earth.
-
-**Classical tafsir:** Ibn Kathir notes: Another view is that (extract of clay) may also mean human seed because it is produced from the food which a man takes and the food grows out of the earth.
-
-**From the Sunnah:** from Abu Musa that the Prophet ﷺ said: (Musnad Ahmad) Paradise until there is no more than a forearm's length between him and it, then the decree will overtake him and he will do the deeds of the people of Hell and thus enter Hell. (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
-
 

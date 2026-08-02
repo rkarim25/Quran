@@ -163,13 +163,5 @@ Is the word Muslim restricted to the Ummah of Muhammad ﷺ or it is common to al
 
 When it is recited to them, they declare, “We believe in it. This is definitely the truth from our Rabb. We had already submitted even before this.”
 
-## AI Tafsir
-
-**Context:** (And there are, certainly, among the People of the Scripture, those who believe in Allah and in that which has been revealed to you, and in that which has been revealed to them, humbling themselves before Allah)(3:199).
-
-**What this ayah teaches:** The word used by these people of the book for their submission is 'muslims' which may also be translated as ` We were Muslims even before the revelation of Qur'an'. He has explained this verse advocating that the word Muslimin is used here in the sense that` we were ready and prepared to accept Islam even before'.
-
-**Classical tafsir:** Ibn Kathir notes: The word used by these people of the book for their submission is 'muslims' which may also be translated as ` We were Muslims even before the revelation of Qur'an'.
 ## Personal Reflections
-
 

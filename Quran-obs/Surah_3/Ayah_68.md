@@ -146,17 +146,5 @@ Verse 68 declares that the closest of people to Sayyidna Ibrahim (علیہ ال�
 
 Indeed, those who have the best claim to Abraham are his followers, this Prophet, and those who have iman. And Allah is the Guardian of those who believe.
 
-## AI Tafsir
-
-**Essence** True kinship with Ibrahim is not a matter of bloodline or borrowed labels but of following his pure monotheism — a claim that belongs most of all to Prophet Muhammad ﷺ and those who believe.
-
-**What it teaches** After Jews and Christians each claimed Ibrahim as their own, Allah declares that the people with the best claim (awla l-nas) to him are those who actually followed his way, "this Prophet" Muhammad ﷺ, and the believers — and that Allah Himself is the Wali, the Protector and Helper, of those who believe.
-
-**The scholars** Ibn Kathir relates, through Muhammad bin Ishaq from Ibn 'Abbas, the occasion of revelation: the Christians of Najran and the Jewish rabbis gathered and disputed before the Messenger of Allah ﷺ, the rabbis insisting "Ibrahim was Jewish" and the Christians "Ibrahim was Christian," so Allah sent down these verses — exposing the absurdity of claiming him for creeds that arose only after the Tawrah and Injil, long after his time. Ibn Kathir explains that those with the most right to Ibrahim are "those who followed his religion and this Prophet, Muhammad ﷺ, and his Companions from the Muhajirin, Ansar, and those who followed their lead." On Allah being Wali of the believers, he states it means Allah is "the Protector of all those who believe in His Messengers." Maarif ul Quran adds that the closest to Ibrahim were those who followed him in his own time, and now the closest is Muhammad al-Mustafa ﷺ together with the believers in him and in the past prophets — the community of Muhammad ﷺ, whose Guardian is Allah and who will be rewarded for their belief.
-
-**From the Sunnah** Every Prophet has a supporter and intimate friend from among the Prophets; the Prophet Muhammad ﷺ declared his own to be his father Ibrahim, the Khalil (intimate friend) of his Lord — then recited this very ayah, anchoring the believers' bond with Ibrahim in following, not lineage. (Sa'id bin Mansur, from Ibn Mas'ud)
-
-**Reflection** Claim Ibrahim not by name or heritage but by walking his path of pure tawhid — and rest in knowing that Allah Himself is the Wali of everyone who truly believes.
 ## Personal Reflections
-
 

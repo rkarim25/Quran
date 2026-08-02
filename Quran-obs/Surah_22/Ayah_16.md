@@ -98,11 +98,5 @@ Qurtubi also thinks that this is the best interpretation of this verse. There ar
 
 And so We revealed this Quran as clear verses. And Allah certainly guides whoever He wills.
 
-## AI Tafsir
-
-**What this ayah teaches:** Then let him see whether his plan will remove that whereat he rages (15)Thus have We sent it down as clear Ayat, and surely, Allah guides whom He wills .
-
-**Classical tafsir:** Ibn Kathir notes: Because of His wisdom, mercy, justice, knowledge, dominion and might, no one can overturn His ruling, and He is swift in bringing to account.
 ## Personal Reflections
-
 

@@ -214,13 +214,5 @@ Allah says,
 
 There they recline on canopied couches, untouched by scorching heat or bitter cold.
 
-## AI Tafsir
-
-**What this ayah teaches:** This is among the things of which there is nothing like in this world.
-
-**Classical tafsir:** Ibn Kathir notes: This refers to Paradise and its beauty, its vastness, its loftiness and the joy and happiness it contains.
-
-**From the Sunnah:** The word 'captive' refers to all prisoners, Muslim criminals, as well as infidels who are kept in prisons according to the principles of Shari` ah. (Sahih Muslim)
 ## Personal Reflections
-
 

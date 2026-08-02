@@ -233,13 +233,5 @@ Although the torment of Hereafter would increase on the one who is liar, after t
 
 and a fifth oath that Allah may be displeased with her if he is telling the truth.
 
-## AI Tafsir
-
-**Context:** In both these incidents it is reported that the verses of lian were revealed for that particular incident. Hafiz Ibn Hajar and Shaikh ul Islam Nawawi (رح) have noted the alikeness in the two by explaining that it looks t…
-
-**What this ayah teaches:** And the fifth; should be that the wrath of Allah be upon her if he speaks the truth.) The wrath of Allah is mentioned specially in the case of the woman, because usually a man would not go to the extent of exposing his wife and accusing her of Zina unless he is telling the truth and has good reason to do this, and she knows that what he is accusing her of is true.
-
-**Classical tafsir:** Ibn Kathir notes: Imam Ahmad recorded that Sa'id bin Jubayr said: During the governorship of Ibn Az-Zubayr I was asked about the couple who engage in Li'an, and whether they should be separated, and I did not know the answer.
 ## Personal Reflections
-
 

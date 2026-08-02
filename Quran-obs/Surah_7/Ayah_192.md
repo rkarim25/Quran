@@ -168,13 +168,5 @@ It is a pity that, one by one, we are depriving ourselves of all the Islamic man
 
 Do they associate those which cannot create anything, but are in fact created; which cannot help them, or even help themselves?
 
-## AI Tafsir
-
-**What this ayah teaches:** The above interpretation, however, clears away any possible doubt even if the story is taken to be authentic.
-
-**Classical tafsir:** Ibn Kathir notes: The verse refers to the generations coming after them who were ungrateful to Allah and involved themselves in Shirk.
-
-**From the Sunnah:** In addition, we find that most of the parents abbreviate the names of their children into English initials which makes it all the more difficult to distinguish them as Muslims.
 ## Personal Reflections
-
 

@@ -227,13 +227,5 @@ According to a narration of Sayyidna Jabir ؓ appearing in the Sahihs of al-Bukh
 
 The followers will say, "It was your scheming day and night when you ordered us to reject Allah and set up equals with Him." They will hide their remorse when they see the torment. We will put shackles around the necks of those who rejected the truth. Are they repaid except for what they used to do?
 
-## AI Tafsir
-
-**What this ayah teaches:** And We shall put iron collars round the necks of those who disbelieved. How the those who reject the truth have agreed in this World to deny the Truth, and how They will dispute with One Another on the Day of Ressurection Allah tells us about the excessive wrongdoing and stubbornness of the those who reject the truth, and their insistence on not believing in the Holy Qur'an and what it tells them about the Resurrection.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, it will hold on and survive till Qiyamah in its original state and there would be no need for some other prophet to be sent.
-
-**From the Sunnah:** intercede on behalf of others on the fateful plains of the Resurrection [ al-hashr ], I shall, then, be given the opportunity to intercede). (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
-
 

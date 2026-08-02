@@ -126,11 +126,5 @@ In this narration, the act of writing has been attributed to the Holy Prophet ï·
 
 They challenge you to hasten punishment. Had a term not been set, it would have come at once. It will take them by surprise when they least expect.
 
-## AI Tafsir
-
-**What this ayah teaches:** The Fire will cover them from all sides, which is more effective as a physical punishment.
-
-**Classical tafsir:** Ibn Kathir notes: How the Idolators asked for the Torment to be hastened on Allah tells us of the ignorance of the idolators and how they asked for the punishment of Allah to be hastened so that it would befall them quickly.
 ## Personal Reflections
-
 

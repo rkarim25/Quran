@@ -213,11 +213,5 @@ Sayyidna ` Ikrimah ؓ said that this is what the verse: لَا تَزِرُ‌ �
 
 No soul burdened with sin will bear another's burden. If a sin-burdened soul cries for help, none of it will be carried—even by a close relative. You can only warn those who stand in awe of their Lord without seeing Him and establish salah. Whoever purifies themselves does so for their own good. To Allah is the final return.
 
-## AI Tafsir
-
-**What this ayah teaches:** But Allah is the Rich, Worthy of all praise (15)If He willed, He could destroy you and bring about a new creation (16)And that is not hard for Allah (17)And no bearer of burdens shall bear another's burden; and if one heavily laden calls another to (bear) his load, nothing of it will be lifted even though he be near of kin.
-
-**Classical tafsir:** Ibn Kathir notes: Instead, their burden will weigh on them as it was in its own place and because of the crime of those who made people go astray, being twofold, their burden too will become twofold, one: that of being astray and two: that of making others go astray.
 ## Personal Reflections
-
 

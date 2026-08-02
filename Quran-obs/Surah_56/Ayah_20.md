@@ -186,13 +186,5 @@ This is the narration that Abu Ya'la collected, and Al-Hafiz Ad-Diya' said, "Thi
 
 Any fruit they choose,
 
-## AI Tafsir
-
-**What this ayah teaches:** This Ayah is a proof that we are allowed to choose the fruits that we prefer and wish to eat. Some said that the former means earlier (believing) nations, while the later refers to this Ummah.
-
-**Classical tafsir:** Ibn Kathir notes: Some said that the former means earlier (believing) nations, while the later refers to this Ummah.
-
-**From the Sunnah:** He considered it supported by the saying of Allah's Messenger ﷺ: And a few of those will be from the later ones.), this news became hard for the Companions of the Prophet ﷺ.
 ## Personal Reflections
-
 

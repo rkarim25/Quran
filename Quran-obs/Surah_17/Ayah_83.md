@@ -106,11 +106,5 @@ The last sentence of the verse: (And it adds nothing to the unjust but loss - 82
 
 When We grant people Our favours, they turn away, acting arrogantly. But when touched with evil, they lose all hope.
 
-## AI Tafsir
-
-**What this ayah teaches:** But if We let him taste good after evil has touched him, he is sure to say: "Ills have departed from me." Surely, he is exultant, and boastful.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

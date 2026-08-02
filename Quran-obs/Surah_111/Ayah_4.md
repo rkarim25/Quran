@@ -170,15 +170,5 @@ It is recorded in the two Sahihs that the Messenger of Allah ﷺ is reported to 
 
 and his wife too, the carrier of thorns—she who spread harm alongside him, fueling hostility against the truth.
 
-## AI Tafsir
-
-**Context:** The Reason for the Revelation of this Surah and the Arrogance of Abu Lahab toward the Messenger of Allah (ﷺ)
-
-**What this ayah teaches:** He will enter a Fire full of flames!)(4.
-
-**Classical tafsir:** Ibn Kathir notes: He will enter a Fire full of flames!)(4.
-
-**From the Sunnah:** from Ibn 'Abbas that the Prophet ﷺ went out to the valley of Al-Batha and he ascended the mountain. (Sahih al-Bukhari) This man Abu Lahab was one of the uncles of the Messenger of Allah ﷺ.His name was 'Abdul-'Uzza bin Abdul-Muttalib.
 ## Personal Reflections
-
 

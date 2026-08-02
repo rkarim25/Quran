@@ -156,15 +156,5 @@ It will be noticed that the two-fold punishment has been identified by the Qur'a
 
 O wives of the Prophet! If any of you were to commit a blatant misconduct, the punishment would be doubled for her. And that is easy for Allah.
 
-## AI Tafsir
-
-**Context:** (And indeed it has been revealed to you, as it was to those before you: "If you join others in worship with Allah, surely your deeds will be in vain.")(39:65)
-
-**What this ayah teaches:** Whoever of you commits an open Fahishah, the torment for her will be doubled, and that is ever easy for Allah (30)And whosoever of you is obedient to Allah and His Messenger, and does righteous good deeds, We shall give her, her reward twice over, and We have prepared for her a noble provision .
-
-**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas, may Allah be pleased with him, said: "This means Nushuz (rebellion) and a bad attitude." Whatever the case, this is a conditional phrase and it does not imply that what is referred to would actually happen.
-
-**From the Sunnah:** This Ayah is addressed to the wives of the Prophet who chose Allah and His Messenger and the Home of the Hereafter, and…
 ## Personal Reflections
-
 

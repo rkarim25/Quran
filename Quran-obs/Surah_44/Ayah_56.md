@@ -176,13 +176,5 @@ ends here.
 
 There they will never taste death, beyond the first death. And He will protect them from the punishment of the Hellfire—
 
-## AI Tafsir
-
-**What this ayah teaches:** It will be said, "O people of Paradise, it is eternal, no more death; and O people of Hell, it is eternal, no more death.") This Hadith was already quoted in our discussion of Surah Maryam.
-
-**Classical tafsir:** Ibn Kathir notes: The State of Those Who have Taqwa and the Delights.They will enjoy in Paradise When Allah describes the state of the doomed, He follows that with a description of the life of the blessed.
-
-**From the Sunnah:** It was reported in the Two Sahihs that the Messenger of Allah ﷺ said: Paradise and Hell, then it will be slaughtered.
 ## Personal Reflections
-
 

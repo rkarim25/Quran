@@ -106,17 +106,5 @@ But it was only an instinctive and physical fear, and the incident anyhow belong
 
 But those who reject and deny Our signs — they are the people of the Fire, remaining in it forever.
 
-## AI Tafsir
-
-**Essence** Whoever disbelieves and belies Allah's signs — such are the companions of the Fire, abiding in it forever.
-
-**What it teaches** At Adam's descent, verse 38 promised guidance's followers no fear, no grief; this ayah is the other edge: kufr (disbelief) joined to takdhib of Allah's ayat seals the opposite fate.
-
-**The scholars** Ibn 'Abbas, on the parallel 20:123: guidance's follower "will not be misguided in this life or miserable in the Hereafter." Ibn Kathir's own gloss here: the deniers "will remain in Hell for eternity and will not find a way out of it." Maarif ul-Quran: the descent was no punishment but the honour of vicegerency.
-
-**From the Sunnah** *(a commentator's report in Maarif ul-Quran; no collection named)* The Prophet ﷺ often appeared worried and in deep thought — not over worldly loss, but from anxiety for his Ummah and awe before Divine Glory.
-
-**Reflection** Follow the guidance and grief ends; belie it and the Fire never does. Choose now.
 ## Personal Reflections
-
 

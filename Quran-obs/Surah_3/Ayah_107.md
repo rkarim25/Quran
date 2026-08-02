@@ -170,17 +170,5 @@ The verse فَذُوقُوا الْعَذَابَ بِمَا كُنتُمْ تَ
 
 As for the bright-faced, they will be in Allah’s mercy, where they will remain forever.
 
-## AI Tafsir
-
-**Essence** As for those whose faces are made radiant on the Day of Resurrection, their home is the mercy of Allah, and there they abide forever.
-
-**What it teaches** Set against the darkened faces of the previous verse, this ayah names the believers' home as rahmat Allah — Allah's mercy, which Ibn Kathir glosses as Paradise. Mercy is not merely what greets them; it is the very dwelling they enter and never leave.
-
-**The scholars** Ibn Kathir explains that the bright-faced will reside in Paradise "for eternity and shall never desire to be removed" — their contentment is as endless as their stay. Drawing the contrast of the whole passage, he reports from Ibn 'Abbas that on that Day the faces of the followers of the Sunnah and the Jama'ah will radiate with whiteness, while the faces of the people of bid'ah (innovation) and division will be darkened — so radiance of face is the fruit of holding to united, authentic faith. Maarif ul Quran presses the force of "they are there forever": this mercy "will not be temporary; it would be forever and eternal," never taken away nor reduced — and notes only that, for the dark-faced, permanence is not expressly mentioned in this verse. Maarif adds, from verse 108, that Allah "wills no injustice to the worlds": every reward and punishment is nothing but justice, the perfect expression of divine wisdom and mercy.
-
-**From the Sunnah** Commenting on the Khawarij, Abu Umamah recited this very passage — "On the Day when some faces will become white and some faces will become black" — and affirmed he had heard it from the Messenger of Allah ﷺ many times over, binding the verse's promise and warning to authentic prophetic teaching. (Jami' at-Tirmidhi, graded Hasan)
-
-**Reflection** Cling to the united path of authentic faith now, so that on the Day of faces your face is among the radiant, sheltered forever in Allah's mercy.
 ## Personal Reflections
-
 

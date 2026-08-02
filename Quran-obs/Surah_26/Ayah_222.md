@@ -194,13 +194,5 @@ And warn the nearest people of your clan, -26:214.
 
 They descend upon every sinful liar,.
 
-## AI Tafsir
-
-**Context:** But this Surah was revealed in Makkah, so how could the reason for its revelation be the poets of the Ansar? This is something worth thinking about.
-
-**What this ayah teaches:** It did not come from the Shayatin, because they have no desire for anything like this Noble Qur'an – they descend upon those who are like them, the lying fortune-tellers. Shall I inform you upon whom the Shayatin descend (221)They descend on every lying, sinful person (Athim)(222)Who gives ear, and most of them are liars (223)As for the poets, the astray follow them (234)See you not that they spea…
-
-**Classical tafsir:** Ibn Kathir notes: It did not come from the Shayatin, because they have no desire for anything like this Noble Qur'an – they descend upon those who are like them, the lying fortune-tellers.
 ## Personal Reflections
-
 

@@ -115,11 +115,5 @@ Some commentators have interpreted the meaning of وَكَانُوا مُسْت�
 
 We also destroyed Korah, Pharaoh, and Haman. Moses came to them with clear proofs, yet they acted arrogantly in the land and could not escape Us.
 
-## AI Tafsir
-
-**What this ayah teaches:** And indeed (their destruction) is clearly apparent to you from their (ruined) dwellings.
-
-**Classical tafsir:** Ibn Kathir notes: It carried them through the air, lifting a man up to the sky and then hurling him headlong to the ground, so that his head split and he was left as a body without a head, like uprooted stems of date palms.
 ## Personal Reflections
-
 

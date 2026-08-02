@@ -158,13 +158,5 @@ Another basharah (good news) of this world unfolds in the form that Muslims at l
 
 For them is good news in this worldly dunya and the Akhirah — the everlasting life after death. There is no change in the promise of Allah. That is truly the ultimate triumph.
 
-## AI Tafsir
-
-**What this ayah teaches:** The Awliya' of Allah, no fear shall come upon them nor shall they grieve (62)Those who believed, and have Taqwa (63)For them is good news, in the life of the present world, and in the Hereafter.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** Ibn Jarir narrated from 'Ubadah bin As-Samit that he [recited] to Allah's Messenger ﷺ: Paradise which you have been promised! We have been your friends in the life of this world and are (so) in the Hereafter.
 ## Personal Reflections
-
 

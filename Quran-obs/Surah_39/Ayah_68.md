@@ -217,13 +217,5 @@ In verse 68, it was said: فَصَعِقَ مَن فِي السَّمَاوَا�
 
 The Trumpet will be blown and all those in the heavens and all those on the earth will fall dead, except those Allah wills to spare. Then it will be blown again and they will rise up at once, looking on in anticipation.
 
-## AI Tafsir
-
-**What this ayah teaches:** By this trumpet-blast, everyone who is alive in the heavens and on earth will be caused to die, except for him whom Allah wills.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** All that I said was that after a little while you would see something of great importance." 'Abdullah bin 'Amr, may Allah be pleased with him, said, "The Messenger of Allah ﷺ said: (Musnad Ahmad) Then Allah will send a cool wind from the direction of Ash-Sham, which will take the soul of every person who has even a speck of faith in his heart; even if one of them were to be inside the heart of a mountain, it would enter upon him.)" He said, "I heard it…
 ## Personal Reflections
-
 

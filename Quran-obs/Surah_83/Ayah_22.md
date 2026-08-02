@@ -132,13 +132,5 @@ However, the hadith that informs us that the souls of the unbelievers will remai
 
 The virtuous will be in bliss,
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, the Record of Al-Abrar (the righteous believers) is (preserved) in 'Illiyyin (18)And what will make you know what 'Illiyyin is (19)A Register inscribed (20)To which bear witness those nearest (21)Verily, Al-Abrar (the righteous believers) will be in Delight (22)On thrones, looking (23)You will recognize in their faces the brightness of delight (24)They will be given to…
-
-**Classical tafsir:** Ibn Kathir notes: This refers to a drink called Tasnim, and it is the most excellent and exalted drink of the people of Paradise.
-
-**From the Sunnah:** Paradise, and their abode will be the lamps suspended from [ the Divine ] Throne. (Sahih Muslim)
 ## Personal Reflections
-
 

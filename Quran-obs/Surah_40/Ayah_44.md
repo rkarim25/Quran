@@ -196,11 +196,5 @@ In verse 44, it was said: فَسَتَذْكُرُ‌ونَ مَا أَقُول�
 
 You will remember what I say to you, and I entrust my affairs to Allah. Surely Allah is All-Seeing of all His servants."
 
-## AI Tafsir
-
-**Context:** (The Fire, they are exposed to it, morning and afternoon). But the question arises: this Ayah was undoubtedly revealed in Makkah, but they use it as evidence to prove that there will be torment in the grave during the pe…
-
-**What this ayah teaches:** And when by virtue of this lengthy dialogue, advice and invitation, the 'iman or faith of this believer from the House of Pharaoh stood disclosed before these people, he realized that they might bring some harm to him, therefore, he said that he was leaving his case to rest with Allah, for He is the guardian and protector of His servants.
 ## Personal Reflections
-
 

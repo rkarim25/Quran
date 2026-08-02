@@ -106,11 +106,5 @@ Allah said,
 
 He will also give you another favour you long for: help from Allah and an imminent victory. Give good news to the believers.
 
-## AI Tafsir
-
-**What this ayah teaches:** There is one blessing that will be granted right here in this world, which is the Divine help and an imminent victory, that is, conquests of enemy territories.
-
-**Classical tafsir:** Ibn Kathir notes: If the word qarib (near) is taken as the opposite of Hereafter, it would include all later Islamic conquests of Arab and non-Arab territories.
 ## Personal Reflections
-
 

@@ -128,11 +128,5 @@ The story of Sayyidna Musa (علیہ السلام) is related extensively in the
 
 We narrate to you, O Prophet, part of the story of Moses and Pharaoh in truth, for people of iman — faith that reshapes how they live.
 
-## AI Tafsir
-
-**What this ayah teaches:** We recite to you some of the news of Musa and Fir'awn in truth, for a people who believe.)(4. So Fir'awn took precautions against that happening, by ordering that all boys born to the Children of Israel should be killed, but this precaution did not protect him against the divine decree, because when the term of Allah comes, it cannot be delayed, and for each and every matter there is a decree from…
-
-**Classical tafsir:** Ibn Kathir notes: So Fir'awn took precautions against that happening, by ordering that all boys born to the Children of Israel should be killed, but this precaution did not protect him against the divine decree, because when the term of Allah comes, it cannot be delayed, and for each and every mat…
 ## Personal Reflections
-
 

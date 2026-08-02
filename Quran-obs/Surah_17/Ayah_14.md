@@ -111,11 +111,5 @@ It means that one's book of deed stays with the doer no matter where or in whate
 
 And it will be said, “Read your record. You alone are sufficient this Day to take account of yourself.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Everyone will be able to read his Book, whether he is literate or illiterate.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

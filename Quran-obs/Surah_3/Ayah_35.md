@@ -149,22 +149,5 @@ From here we learn that a mother holds a certain measure of guardianship over he
 
 When the wife of ’Imrân said, “My Rabb! I dedicate what is in my womb entirely to Your service, so accept it from me. You are truly the All-Hearing, All-Knowing.”
 
-## AI Tafsir
-
-**Essence**
-A barren woman, made pregnant by Allah's grace, dedicates her unborn child wholly to His service and begs Him to accept her vow, certain that He hears her words and knows her heart.
-
-**What it teaches**
-The wife of 'Imran — Hannah bint Faqudh, mother of Maryam — vows that the child in her womb will be muharrar, "freed" from all worldly tasks and devoted purely to worshipping Allah and serving Bayt al-Maqdis. She seals her vow with "fataqabbal minni" (so accept it from me) and the two names she leans on: as-Sami' (the All-Hearing) of her supplication and al-'Alim (the All-Knowing) of her intention.
-
-**The scholars**
-Ibn Kathir, citing Muhammad bin Ishaq, recounts that Hannah was childless until she saw a bird feeding its chick, longed for a child, and supplicated; Allah answered, and on becoming aware of her pregnancy she vowed the child to His service. He explains "You are the All-Hearer, the All-Knowing" as "You hear my supplication and You know my intention," noting she did not yet know whether she carried a boy or a girl. Maarif ul Quran adds that the earlier prophetic law permitted devoting one child entirely to Allah, freed from worldly chores; she assumed she carried a son, yet when a girl came Allah, honoring her sincerity, accepted that very girl and — in Maarif's words — made her status distinct from any other girl of the world. Maarif (citing al-Jassas) draws two rulings: a mother holds a real measure of guardianship over her child's upbringing — she could not have vowed otherwise — and a mother has the right to name her child.
-
-**From the Sunnah**
-After the birth the mother prayed, "I seek refuge with You for her and for her offspring from Shaytan, the outcast." Ibn Kathir notes Allah accepted this plea: Abu Hurayrah reports the Prophet ﷺ said that every newborn is touched by Shaytan at birth and cries from that touch "except Maryam and her son" — Abu Hurayrah then recited that very verse of refuge. (The Two Sahihs)
-
-**Reflection**
-Offer your most precious hopes to Allah before you even know their outcome — vow sincerely, ask Him to accept, and trust that the One who hears and knows will honor a pure heart beyond what you imagined.
 ## Personal Reflections
-
 

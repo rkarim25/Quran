@@ -126,11 +126,5 @@ Ends here.
 
 These are the verses of the clear Book.
 
-## AI Tafsir
-
-**What this ayah teaches:** Then Allah tells those who dared to oppose His Messenger ﷺ and disbelieve in His Book, that He is the Subduer, the Almighty, the All-Powerful, Who created the earth and caused every good kind of crop, fruit and animal to grow therein.
-
-**Classical tafsir:** Ibn Kathir notes: Abu Al-'Aliyah, Qatadah, Ar-Rabi' bin Anas and Ibn Ishaq said: "He is Almighty in His punishment of those who went against His commands and worshipped others besides Him." Sa'id bin Jubayr said: "He is ar-Rahim towards those who repent to Him and turn to Him."
 ## Personal Reflections
-
 

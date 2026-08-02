@@ -104,13 +104,5 @@ The verse 154 describes that the Prophet Musa (علیہ السلام) lifted up 
 
 When Moses’ anger subsided, he took up the Tablets whose text contained guidance and mercy for those who stand in awe of their Rabb.
 
-## AI Tafsir
-
-**What this ayah teaches:** And when the anger of Musa calmed, he took up the Tablets; and in their inscription was guidance and mercy for those who fear their Lord .
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** when Musa threw the Tablets on the ground they were shattered and he collected the pieces afterwards.
 ## Personal Reflections
-
 

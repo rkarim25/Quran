@@ -77,11 +77,5 @@ Allah originates the creation, then He will repeat it, then to Him you will be r
 
 Allah originates creation and will resurrect it. Then to Him you will all be returned.
 
-## AI Tafsir
-
-**What this ayah teaches:** Then, Allah Ta’ ala sent prophets and books to remind them of their duties, but they did not pay any heed. So, have they not seen, during the course of their trips, what was the fate of the earlier people, whom Allah Ta’ ala had endowed with skills to make use of the land?
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

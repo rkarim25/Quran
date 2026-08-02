@@ -74,11 +74,5 @@ It is related in this verse that the disbelievers rejected the invitation of Say
 
 Noah prayed, “My Rabb! My people have truly rejected me.
 
-## AI Tafsir
-
-**What this ayah teaches:** And verily your Lord, He is indeed the All-Mighty, the ar-Rahim.) Hence, it was their ignorance to put the label of sordidness on his followers, because they did not know about their deeds and disposition.
-
-**Classical tafsir:** Ibn Kathir notes: Hence, it was their ignorance to put the label of sordidness on his followers, because they did not know about their deeds and disposition.
 ## Personal Reflections
-
 

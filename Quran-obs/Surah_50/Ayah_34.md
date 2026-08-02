@@ -112,13 +112,5 @@ In verse [ 33] we have the statement وَجَاءَ بِقَلْبٍ مُّنِ�
 
 Enter it in peace. This is the Day of everlasting life.
 
-## AI Tafsir
-
-**What this ayah teaches:** Jahannam and Paradise and their Dwellers Allah states that He will say to Jahannam on the Day of Resurrection, "Have you had your fill?" Allah the Most Honored has promised Hell that it will have its fill from the Jinns and mankind.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** Paradise until Allah creates another creation and He, the Exalted, makes them dwell in the empty parts of Paradise. (Sahih Muslim)
 ## Personal Reflections
-
 

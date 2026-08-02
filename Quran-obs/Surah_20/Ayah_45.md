@@ -123,15 +123,5 @@ The second point is that fear of fearsome things is a natural instinct and even 
 
 They both pleaded, “Our Rabb! We fear that he may be quick to harm us or act tyrannically.”
 
-## AI Tafsir
-
-**Context:** Both of them said: "Our Lord! Verily, we fear lest he should hasten to punish us or lest he should transgress. (45)He (Allah) said: "Fear not, verily, I am with you both, hearing and seeing.
-
-**What this ayah teaches:** The second point is that fear of fearsome things is a natural instinct and even prophets are not free from it in spite of their complete faith in the promises of Allah.
-
-**Classical tafsir:** Ibn Kathir notes: But on the contrary, he belied and turned away.)[75:31-32] This means that he denied with his heart and turned away by his actions.
-
-**From the Sunnah:** In the Battle of Ahzab the Muslims were so overawed by the strength of their enemies that they dug a trench as a protective measure even though Allah had promised them victory on numerous occasions.
 ## Personal Reflections
-
 

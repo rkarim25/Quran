@@ -152,15 +152,5 @@ A Preacher must not give up his preaching due to disappointment
 
 Consider how many prophets We sent to those destroyed before!
 
-## AI Tafsir
-
-**Context:** (Ha-Mim. By the manifest Book.) means, plain and clear in both wording and meaning, because it was revealed in the language of the Arabs, which is the most eloquent language for communication among people. Allah says:
-
-**What this ayah teaches:** Shall We then take away the Reminder from you, because you are a people excessive.)(6. And how many a Prophet have We sent amongst the men of old.)(7.
-
-**Classical tafsir:** Ibn Kathir notes: By the manifest Book.) means, plain and clear in both wording and meaning, because it was revealed in the language of the Arabs, which is the most eloquent language for communication among people.
-
-**From the Sunnah:** Consolation to the Prophet ﷺ for the Disbelief of Quraysh
 ## Personal Reflections
-
 

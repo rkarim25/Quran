@@ -85,11 +85,5 @@ After that, a command will go forth to angels: فَاهْدُوهُمْ إِلَ
 
 Then they will be asked: "What is the matter with you that you can no longer help each other?"
 
-## AI Tafsir
-
-**What this ayah teaches:** The Day of Recompense Allah tells us what the those who reject the truth will say on the Day of Resurrection, how they will blame themselves and admit that they wronged themselves in this world.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

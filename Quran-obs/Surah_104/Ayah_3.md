@@ -98,11 +98,5 @@ The third evil quality denounced severely in this Surah is greed, that is, the s
 
 thinking his fortune makes him immortal—immune to illness, accident, obsolescence, and death.
 
-## AI Tafsir
-
-**What this ayah teaches:** The third evil quality denounced severely in this Surah is greed, that is, the selfish hoarding of wealth, against which is the stern warning of the dreadful end of those who have passion for worldly riches.
-
-**Classical tafsir:** Ibn Kathir notes: This means that the person finds fault with people and belittles them.
 ## Personal Reflections
-
 

@@ -202,19 +202,5 @@ It was through this very verse that talking in salah was forbidden. Earlier, tal
 
 Guard your prayers, especially the middle prayer, and stand before Allah with devotion.
 
-## AI Tafsir
-
-**Essence** Stand guard over every prayer — above all the middle ('Asr) prayer — and stand before Allah in still, humble obedience.
-
-**What it teaches** Allah commands believers to perform the five obligatory prayers properly and at their fixed times, singling out al-salat al-wusta (the middle prayer) for special care. The closing words wa qumu lillahi qanitin — "stand before Allah, qanitin" — call for humbleness and humility in the prayer; qunut here has been explained in the Hadith as sukut, motionless silence before Allah.
-
-**The scholars** Ibn Kathir relates that the majority of the Companions and Tabi'in — among them 'Umar, 'Ali, Ibn Mas'ud, Abu Hurayrah, Ibn 'Abbas and 'A'ishah — held the Middle prayer to be the 'Asr prayer, a view At-Tirmidhi, Al-Baghawi, and the scholars of the Athar affirm. Maarif ul Quran explains it is called "middle" because two daytime prayers (Fajr and Zuhr) precede it and two evening prayers (Maghrib and 'Isha) follow it, and that it is given special emphasis because most people are busy in their work at that hour. On wa qumu lillahi qanitin, Ibn Kathir notes that "stand before Allah with obedience" means with humility, and that this command shows speech is not allowed in prayer, since ordinary speech contradicts its nature — this is why the Prophet ﷺ refused to answer Ibn Mas'ud's greeting while praying, saying afterwards, "The prayer makes one sufficiently busy"; and as he ﷺ told Mu'awiyah bin Hakam, the prayer is only Tasbih, Takbir, and the remembrance of Allah.
-
-**From the Sunnah** At the battle of Al-Ahzab the Prophet ﷺ identified the Middle prayer the disbelievers had kept him from as the 'Asr prayer, supplicating against them, then prayed it between Maghrib and 'Isha. (Muslim and An-Nasa'i)
-
-**From the Sunnah** Zayd bin Arqam said that people used to speak to one another about their affairs during prayer, until this ayah was revealed and they were ordered to refrain from speaking. (The Group except Ibn Majah)
-
-**Reflection** What we guard reveals what we treasure: to hold fast to 'Asr when work is at its peak is to let nothing on earth outrank the call of Allah. And having entered, fall silent — the tongue that chatters in the world stills before its Lord.
 ## Personal Reflections
-
 

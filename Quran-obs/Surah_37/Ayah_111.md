@@ -174,13 +174,5 @@ In verse 107, it was said: وَفَدَيْنَاهُ بِذِبْحٍ عَظِ�
 
 He was truly one of Our faithful servants.
 
-## AI Tafsir
-
-**What this ayah teaches:** They inserted the name of Ishaq because he is their ancestor, while Isma'il is the ancestor of the Arabs. They were jealous of them, so they added this idea and changed the meaning of the phrase "only son" to mean 'the only son who is with you,' because Isma'il had been taken with his mother to Makkah.
-
-**Classical tafsir:** Ibn Kathir notes: They inserted the name of Ishaq because he is their ancestor, while Isma'il is the ancestor of the Arabs.
-
-**From the Sunnah:** The Muslims and the People of the Book agree, and indeed it is stated in their Book, that Isma'il, peace be upon him, was born when Ibrahim, peace be upon him, was eighty-six years old, and Ishaq was born when Ibrahim was ninety-nine years old.
 ## Personal Reflections
-
 

@@ -251,15 +251,5 @@ As for the reports attributed to some revered Sufis, that they listened to 'ghin
 
 Yet some use empty display only to lead others off Allah's path without knowledge, treating the deen — the way of life aligned with divine guidance — as something to mock. They will meet a humiliating punishment.
 
-## AI Tafsir
-
-**Context:** This verse was revealed because of a particular event relating to Nadr Ibn Harith. He was one of the top businessmen from among the Mushriks of Makkah who used to travel to different countries in connection with his busi…
-
-**What this ayah teaches:** There it has been declared to be an act of grave error and infidelity, the punishment of which is painful, a punishment particular to those who have disbelieved (kuffar).
-
-**Classical tafsir:** Ibn Kathir notes: He turns a deaf ear to them as if he can hear nothing, because it annoys him to hear them since he gains no benefit from them and has no interest in them.
-
-**From the Sunnah:** Imam al-Bukhari in his book, al-'Adab al-Mufrad, and al-Baihaqi in his Sunan have both elected to go by this Tafsfr.
 ## Personal Reflections
-
 

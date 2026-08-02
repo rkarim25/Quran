@@ -124,11 +124,5 @@ The infidels of Makkah believed that it is Allah who has created the whole unive
 
 Have they not seen how Allah originates creation then resurrects it? That is easy for Allah.
 
-## AI Tafsir
-
-**What this ayah teaches:** It is stated that repeating the process of creation is much easier than its origination.
-
-**Classical tafsir:** Ibn Kathir notes: All of that indicates that these are themselves created things, and that there must be a Creator Who does as He chooses, Who merely says to a thing "Be!" and it is.
 ## Personal Reflections
-
 

@@ -207,11 +207,5 @@ The statement: وَكَانَ الْإِنسَانُ أَكْثَرَ‌ شَي�
 
 And who does more wrong than those who, when reminded of their Rabb’s revelations, turn away from them and forget what their own hands have done? We have certainly cast veils over their hearts—leaving them unable to comprehend this Quran—and deafness in their ears. And if you O Prophet invite them to true guidance, they will never be rightly guided.
 
-## AI Tafsir
-
-**What this ayah teaches:** And who does more wrong than he who is reminded of the Ayat (signs) of his Lord, but turns away from them, forgetting what his hands have sent forth.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

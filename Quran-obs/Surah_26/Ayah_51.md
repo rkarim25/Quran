@@ -100,11 +100,5 @@ It is worth noting here that the magicians who had involved all their lives prac
 
 We really hope that our Rabb will forgive our sins, as we are the first to believe.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Even if we are killed we will go back to our Lord, where there is nothing but comfort'.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

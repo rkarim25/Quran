@@ -139,13 +139,5 @@ This was the reason why, at the very initial stage of the event, when Sayyidna Y
 
 Joseph ordered his servants to put his brothers’ money back into their saddlebags so that they would find it when they returned to their family and perhaps they would come back.
 
-## AI Tafsir
-
-**What this ayah teaches:** Yusuf's Brothers travel to Egypt As-Suddi, Muhammad bin Ishaq and several others said that the reason why Yusuf's brothers went to Egypt, is that after Yusuf became minister of Egypt and the seven years of abundance passed, then came the seven years of drought that struck all areas of Egypt.
-
-**Classical tafsir:** Ibn Kathir notes: They were ten, because Ya'qub peace be upon him kept his son and Yusuf's brother Binyamin with him.
-
-**From the Sunnah:** Prophet Yusuf efficiently guarded the people's harvest and collected it, and what he collected became a great fortune for the people. Muslim jurists have explained this provision in details. (Sahih Muslim)
 ## Personal Reflections
-
 

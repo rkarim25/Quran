@@ -288,15 +288,5 @@ The Holy Prophet ﷺ is reported to have said that it is the right of a believer
 
 O you who have iman: Let not some men ridicule other men—they may be better than them. Let not some women ridicule other women—they may be better than them. Do not insult one another or call each other by offensive nicknames. How wretched it is to return to rebellion after iman! Whoever does not repent—they are the wrongdoers.
 
-## AI Tafsir
-
-**Context:** (nor insult one another by nicknames.) means, 'you should not address people by nick names that people dislike.' Imam Ahmad recorded that Abu Jabirah bin Ad-Dahhak said, "This Ayah was revealed about us, Banu Salamah; Th…
-
-**What this ayah teaches:** It means that calling others with bad nicknames is a sinful act, and the real bad name for a person after embracing Faith is that he is known among people for sinful acts.
-
-**Classical tafsir:** Ibn Kathir notes: The Qur'an, however, generally employs the word qawm for both men and women, but here it is specifically used for men in contradistinction to the word nisa' which specifically refers to women.
-
-**From the Sunnah:** When the Prophet ﷺ called a man by one of these nicknames, people would say, 'O Allah's Messenger!
 ## Personal Reflections
-
 

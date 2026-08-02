@@ -85,11 +85,5 @@ This verse has confirmed that if a man commits sodomy, he may be punished with t
 
 pouring upon them a rain of brimstone. How evil was the rain of those who had been warned!
 
-## AI Tafsir
-
-**What this ayah teaches:** So they patiently obeyed the command of Allah and persevered, and Allah sent upon the people a punishment which struck them all, and rained upon them stones of baked clay, piled up.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

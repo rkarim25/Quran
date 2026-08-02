@@ -126,13 +126,5 @@ Those hostile to Allah and the Messenger were warned of and alerted to curse and
 
 And they will say, “Our Rabb! We obeyed our leaders and elite, but they led us astray from the Sirat al-Mustaqim.
 
-## AI Tafsir
-
-**Context:** Here Allah tells His Messenger ﷺ that he cannot know when the Hour will come, and if people ask him about that, He instructs him to refer the matter to Allah, may He be exalted, as Allah says in Surat Al-A'raf, even thou…
-
-**What this ayah teaches:** It has been said so because nobody knows the exact date of the Doomsday, and therefore everyone should be prepared for it as if it were very close.
-
-**Classical tafsir:** Ibn Kathir notes: It has been said so because nobody knows the exact date of the Doomsday, and therefore everyone should be prepared for it as if it were very close.
 ## Personal Reflections
-
 

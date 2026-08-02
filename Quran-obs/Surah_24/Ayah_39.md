@@ -159,11 +159,5 @@ The second category of deeds is that of atheists or infidels, for which the exam
 
 As for those who reject the truth, their deeds are like a mirage in a desert, which the thirsty perceive as water, but when they approach it, they find it to be nothing. Instead, they find Allah there in the Akhirah, ready to settle their account. And Allah is swift in reckoning.
 
-## AI Tafsir
-
-**What this ayah teaches:** Their likeness is that of a mirage which is seen in a desert plain, looking from a distance as if it is a deep sea.
-
-**Classical tafsir:** Ibn Kathir notes: The word Qi'ah refers to a vast, flat, level area of land in which the mirage may appear.
 ## Personal Reflections
-
 

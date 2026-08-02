@@ -128,11 +128,5 @@ Verily, Allah responded to the supplication of both of these Prophets concerning
 
 urging their followers: Do not abandon your idols—especially Wadd, Suwa, Yaghuth, Yauq, and Nasr.'
 
-## AI Tafsir
-
-**Context:** وَلَا تَزِدِ الظَّالِمِينَ إِلَّا ضَلَالًا (…let not the wrongdoers progress in anything but deviation from the right path 71:24). This is the supplication of Prophet Nuh (علیہ السلام) against his people.
-
-**What this ayah teaches:** And they have said: 'You shall not leave your gods, nor shall you leave Wadd, nor Suwa', nor Yaghuth, and Ya'uq and Nasr.') These are the names of their idols which they used to worship besides Allah. They had many idols, the five mentioned in the verse under comment being the most popular because of the deep love they had for them.
 ## Personal Reflections
-
 

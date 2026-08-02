@@ -89,13 +89,5 @@ It was said in the fourth verse (117) that Allah does not destroy towns and habi
 
 And your Rabb O Prophet would never destroy a society unjustly while its people were acting rightly.
 
-## AI Tafsir
-
-**What this ayah teaches:** Those who did wrong pursued the enjoyment of good things of (this worldly) life, and were criminals (116)And your Lord would never destroy the towns wrongfully, while their people were doers of good . It was said in the fourth verse (117) that Allah does not destroy towns and habitations unjustly while people living there are good in their ways, that is, they are believing Muslims.
-
-**Classical tafsir:** Ibn Kathir notes: Thus, the sense of the verse comes to be that the punishment of the world does not fall on a people simply because of their being Mushriks and Kafirs - unless they were to spread disorder in the land by their very deeds and morals.
-
-**From the Sunnah:** It was said in the fourth verse (117) that Allah does not destroy towns and habitations unjustly while people living there are good in their ways, that is, they are believing Muslims.
 ## Personal Reflections
-
 

@@ -165,13 +165,5 @@ Sayyidi Hakim-ul-Ummah Ashraf Thanavi (رح) has given another distinction betwe
 
 Corruption has spread on land and sea because of what people's hands earned, so Allah may let them taste some consequences and perhaps they will return.
 
-## AI Tafsir
-
-**What this ayah teaches:** After that, it is pointed out that whatever trouble and tribulation is sent down to them in this world, though as a result of their misdeeds, is in fact blessing and grace from Him, if only one could ponder.
-
-**Classical tafsir:** Ibn Kathir notes: The author of Ruh ul-Ma’ ani has explained that the word fasad' (translated in the text as 'plight' ) means all sorts of calamities, such as famine, epidemic diseases, frequency of the incidents of fire, drowning, lack of Allah's blessing in everything, and reduction in profits a…
-
-**From the Sunnah:** Abu Al-'Aliyah said: "Whoever disobeys Allah in the earth has corrupted it, because the good condition of the earth and the heavens depends on obedience to Allah." Hence it says in the Hadith which was recorded by Abu Dawud: (Sunan Abi Dawud) Further, it is also a common experience that generally the Muslim believers…
 ## Personal Reflections
-
 

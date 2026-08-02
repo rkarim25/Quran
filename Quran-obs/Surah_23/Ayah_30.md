@@ -97,13 +97,5 @@ as Allah mentions in another Ayah:
 
 Surely in this are lessons. And We always put people to the test.
 
-## AI Tafsir
-
-**Context:** He said: "O my Lord! Help me because they deny me. (26)So, We revealed to him: "Construct the ship under Our Eyes and under Our revelation.
-
-**What this ayah teaches:** Cause me to land at a blessed landing place, for You are the Best of those who bring to land.' (29)Verily, in this, there are indeed Ayat, for sure We are ever putting (men) to the test . Help me because they deny me.) At that point, Allah commanded him to build a boat and to make it strong and firm, and to carry therein of every kind two, i.e., a male and a female of every species of animals, pla…
-
-**Classical tafsir:** Ibn Kathir notes: Then, when Our command comes, and (water) gushes forth from the oven, take on board of each kind two, and your family, except those thereof against whom the Word has already gone forth.
 ## Personal Reflections
-
 

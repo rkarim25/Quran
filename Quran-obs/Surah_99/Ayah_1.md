@@ -234,13 +234,5 @@ Verse [ 1] إِذَا زُلْزِلَتِ الْأَرْ‌ضُ زِلْزَا�
 
 When the earth is shaken with its final earthquake—
 
-## AI Tafsir
-
-**What this ayah teaches:** Here it probably refers to the second quake, and the context supports it, because the Surah later on describes the scenes of the Day of Resurrection, such as reckoning, weighing and evaluating of deeds, and recompense. This refers to the alteration of the state of things and the earth moving and shaking.
-
-**Classical tafsir:** Ibn Kathir notes: Here it probably refers to the second quake, and the context supports it, because the Surah later on describes the scenes of the Day of Resurrection, such as reckoning, weighing and evaluating of deeds, and recompense.
-
-**From the Sunnah:** Then the man said, 'Rather give me something to recite that is comprehensive (of all of these), O Messenger of Allah.' So the Prophet ﷺ told him to recite So the man came to him and the Prophet ﷺ said to him,
 ## Personal Reflections
-
 

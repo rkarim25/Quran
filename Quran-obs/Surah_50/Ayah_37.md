@@ -174,13 +174,5 @@ Channels of Acquiring Knowledge
 
 In this is a reminder for whoever has a mindful heart and listens attentively.
 
-## AI Tafsir
-
-**What this ayah teaches:** The message of the above verses is that two types of people benefit: [ 1] a person who has the mind and the intellect who understands it in his mind and accepts it; and [ 2] a person who gives his ears and listens to the Divine verses with an attentive heart, while his heart is present and not absent.
-
-**Classical tafsir:** Ibn Kathir notes: Some scholars of Qur'an say that "heart" here refers to life, because the axis of life is heart.
-
-**From the Sunnah:** Have what they collected benefited them or averted Allah's torment when it came to them on account of their denial of the Messengers? Qiyam Al-Layl, prayer at night, was a command for the Prophet ﷺ and his followers for sometime but it was later abrogated for the Ummah. (Musnad Ahmad)
 ## Personal Reflections
-
 

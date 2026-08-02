@@ -80,11 +80,5 @@ The word: يَدَّعُونَ (yadda’ un) appearing in verse 57: وَلَهُ
 
 And "Peace!" will be their greeting from the Merciful Lord.
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, the dwellers of the Paradise, that Day, will be busy with joyful things (55)They and their wives will be in pleasant shade, reclining on thrones (56)They will have therein fruits and all that they ask for (57)(It will be said to them): "Salam (Peace!)" – a Word from the Lord, ar-Rahim .
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

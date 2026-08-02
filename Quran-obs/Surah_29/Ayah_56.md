@@ -116,13 +116,5 @@ During the course of migration one is likely to encounter, as a rule, two types 
 
 O My believing servants, My earth is spacious — so worship Me alone.
 
-## AI Tafsir
-
-**What this ayah teaches:** Advice to migrate and the Promise of Provision and a Goodly Reward Allah commands His believing servants to migrate from a land in which they are not able to establish Islam, to the spacious earth of Allah where they can do so, by declaring Allah to be One and worshipping Him as He has commanded.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore worship Me.) When things became too difficult for the believers in Makkah who were in a weak position and were oppressed, they left and migrated to Ethiopia, where they were able to practice their religion.
-
-**From the Sunnah:** The Muslims found Ethiopia the best place for guest; where Ashamah, the Negus or king, may Allah have mercy on him, gave them refuge, helped them, supported them, and honored them in his land.
 ## Personal Reflections
-
 

@@ -98,11 +98,5 @@ This is the end of the Tafsir of Surat Al-Mursalat, and all praise and thanks ar
 
 Woe that Day to those who deny!
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, you are criminals (46)Woe that Day to the deniers (47)And when it is said to them: "Bow down yourself!" They bow not down (48)Woe that Day to the deniers (49)Then in what statement after this will they believe .
-
-**Classical tafsir:** Ibn Kathir notes: There is no discrepancy between the two verses, because there will be various stages on the Plain of Gathering (Mahshar) through which people will have to pass.
 ## Personal Reflections
-
 

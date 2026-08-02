@@ -137,11 +137,5 @@ It means that one's book of deed stays with the doer no matter where or in whate
 
 We have bound every human’s destiny to their neck. And on the Day of Judgment We will bring forth to each person a record which they will find laid open.
 
-## AI Tafsir
-
-**What this ayah teaches:** The one who is on your right records your good deeds, and the one who is on your left records your bad deeds. 'So do whatever you want, a lot or a little, until you die, then I will fold up your Book and tie it to your neck with you in your grave.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

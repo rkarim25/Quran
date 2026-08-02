@@ -108,11 +108,5 @@ Then Allah says,
 
 and as dark as blackened camels.'
 
-## AI Tafsir
-
-**What this ayah teaches:** Some scholars have translated the word 'sufr' as 'black' because yellowish colour of camels tends to blackness.
-
-**Classical tafsir:** Ibn Kathir notes: Some scholars have translated the word 'sufr' as 'black' because yellowish colour of camels tends to blackness.
 ## Personal Reflections
-
 

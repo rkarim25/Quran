@@ -90,13 +90,5 @@ The foregoing discussion also allays the following doubt: It seems, according to
 
 He does not speak from his own desire.
 
-## AI Tafsir
-
-**What this ayah teaches:** The foregoing discussion also allays the following doubt: It seems, according to the above verses, that the Messenger ﷺ does not speak of his own desire, but whatever he conveys to the people is a revelation from Allah. Your companion has neither gone astray nor has he erred.)(3.
-
-**Classical tafsir:** Ibn Kathir notes: Your companion has neither gone astray nor has he erred.)(3.
-
-**From the Sunnah:** The Prophet ﷺ (recited it in Makkah) and prostrated. (Sahih al-Bukhari, Sahih Muslim) Ibn Abi Hatim recorded that Ash-Sha'bi and others stated that the Creator swears by whatever He wills among His creation, but the created only vow by the Creator.
 ## Personal Reflections
-
 

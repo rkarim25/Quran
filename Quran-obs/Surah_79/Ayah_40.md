@@ -195,13 +195,5 @@ Ends here
 
 Whoever stood in awe of appearing before their Rabb and restrained their nafs from base desire
 
-## AI Tafsir
-
-**What this ayah teaches:** The complement to this level is that one abstains from doubtful things and those acts that are permissible in themselves, but there is apprehension that if committed, they may lead one to slip into impermissible acts.
-
-**Classical tafsir:** Ibn Kathir notes: In other words, [ 1] the first characteristic of a Allah-fearing person is that, in this life, he shudders at the thought of appearing before Allah to account for his deeds on the Day of Reckoning; and [ 2] forbids the baser self from its evil desires.
-
-**From the Sunnah:** In this level, a person deserves to be called 'Sunni Muslim'. (Sahih Muslim)
 ## Personal Reflections
-
 

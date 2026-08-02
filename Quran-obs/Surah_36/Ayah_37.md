@@ -175,11 +175,5 @@ In verse 37, it was said: وَآيَةٌ لَّهُمُ اللَّيْلُ نَ�
 
 There is also a sign for them in the night: We strip from it daylight, then—behold!—they are in darkness.
 
-## AI Tafsir
-
-**What this ayah teaches:** In a predetermined system, at a fixed time, this light that is spread over the darkness of the world is removed from on top.
-
-**Classical tafsir:** Ibn Kathir notes: Dar'a' refers to the black sheep, i.e., the one whose head is black; the next three nights Zulam; then Hanadis, then Da'adi; then Mihaq, because of the absence of moonlight at the beginning of the month.
 ## Personal Reflections
-
 

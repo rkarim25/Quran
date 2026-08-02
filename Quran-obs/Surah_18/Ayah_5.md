@@ -224,15 +224,5 @@ The word: عوج ('iwaj) in: وَلَمْ يَجْعَل لَّهُ عِوَجً
 
 They have no knowledge of this, nor did their forefathers. What a terrible claim that comes out of their mouths! They say nothing but lies.
 
-## AI Tafsir
-
-**Context:** Muhammad bin Ishaq mentioned the reason why this Surah was revealed. He said that an old man from among the people of Egypt who came to them some forty-odd years ago told him, from 'Ikrimah that Ibn 'Abbas said:
-
-**What this ayah teaches:** The people of Makkah started to doubt him, and said, 'Muhammad promised to tell us the next day, and now fifteen days have gone by and he has not told us anything in response to the questions we asked.' The Messenger of Allah ﷺ felt sad because of the delay in revelation, and was grieved by what the people of Makkah were saying about him.
-
-**Classical tafsir:** Ibn Kathir notes: And to warn those who say, "Allah has begotten a child.")(5.
-
-**From the Sunnah:** from Abu Ad-Darda' that the Prophet ﷺ said: (Musnad Ahmad) In his Mustadrak, Al-Hakim recorded from Abu Sa'id that the Prophet ﷺ said: (al-Mustadrak)
 ## Personal Reflections
-
 

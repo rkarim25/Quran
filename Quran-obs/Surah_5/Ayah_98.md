@@ -158,13 +158,5 @@ In the second verse (98), it was said اعْلَمُوا أَنَّ اللَّـ
 
 Know that Allah is severe in punishment and that He is All-Forgiving, the Rahim.
 
-## AI Tafsir
-
-**Context:** Allah says, fear Allah, O people, and beware of His might, by obeying what He commands you and avoiding what He prohibits for you in these Ayat revealed to your Prophet ﷺ.
-
-**What this ayah teaches:** And have Taqwa of Allah to Whom you shall be gathered back (96)Allah has made the Ka'bah, the Sacred House, an asylum of security and benefits for mankind, and also the Sacred Month and the animals of offerings and the garlanded, that you may know that Allah has knowledge of all that is in the heavens and all that is in the earth, and that Allah is the All-Knower of each and ev…
-
-**Classical tafsir:** Ibn Kathir notes: If he hunts by mistake, he will have to pay the expiation and is not allowed to eat from it, because this type of game is just like dead animals, be he a Muhrim or a non-Muhrim.
 ## Personal Reflections
-
 

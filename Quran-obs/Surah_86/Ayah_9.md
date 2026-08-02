@@ -150,13 +150,5 @@ Likewise, his deeds and actions that he had done secretly, and no one was aware 
 
 on the Day all secrets are laid bare.
 
-## AI Tafsir
-
-**Context:** يَوْمَ تُبْلَى السَّرَائِرُ (on a day when all the secrets will be searched out.. 86:9). The word tubla literally means 'to test/examine' and sara'ir means 'secrets'.
-
-**What this ayah teaches:** The word tubla literally means 'to test/examine' and sara'ir means 'secrets'. On the Day of Reckoning, the secrets will be tested and examined and laid bare.
-
-**Classical tafsir:** Ibn Kathir notes: The word tubla literally means 'to test/examine' and sara'ir means 'secrets'.
 ## Personal Reflections
-
 

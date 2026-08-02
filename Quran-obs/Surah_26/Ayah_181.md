@@ -88,11 +88,5 @@ This verse has confirmed that if a man commits sodomy, he may be punished with t
 
 Give full measure, and cause no loss to others.
 
-## AI Tafsir
-
-**What this ayah teaches:** The Command to Give Full Measure Allah commanded them to give full measure, and forbade them to give short measure.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

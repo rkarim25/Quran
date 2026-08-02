@@ -211,11 +211,5 @@ There is a lengthy Hadith in Tafsir Mazhari. It has been reported from Sayyidna 
 
 Yusuf already came to you earlier with clear proofs, yet you never ceased to doubt what he brought. When he died you said, 'Allah will never send a messenger after him.' This is how Allah leaves every transgressor and doubter to stray—
 
-## AI Tafsir
-
-**What this ayah teaches:** And whomsoever Allah sends astray, for him there is no guide (33)And indeed Yusuf did come to you, in times gone by, with clear signs, but you ceased not to doubt in that which he did bring to you, till when he died, you said: "No Messenger will Allah send after him." Thus Allah leaves astray him who is a transgressor and a skeptic (34)Those who dispute about the Ayat of Allah,…
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

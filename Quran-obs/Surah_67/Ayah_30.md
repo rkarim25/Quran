@@ -112,11 +112,5 @@ Ends here
 
 Say: 'Consider: if your water sank into the earth, who else could bring you flowing water?'
 
-## AI Tafsir
-
-**What this ayah teaches:** So, it is merely out of His favor and His grace that He causes water to spring forth for you, and He makes it run to the various regions of the earth in an amount that is suitable for the needs of servants, be it little or abundant.
-
-**Classical tafsir:** Ibn Kathir notes: In other words, if all the water, which people draw from the wells easily, were to disappear into the depths of the earth, do they have any power through which they will be able to obtain pure running water?
 ## Personal Reflections
-
 

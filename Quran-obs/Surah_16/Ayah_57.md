@@ -125,11 +125,5 @@ First of all, by using the word: رَبّ (Rabb: Lord) here, the hint given is t
 
 And they attribute angels as daughters to Allah—glory be to Him!—the opposite of what they desire for themselves.
 
-## AI Tafsir
-
-**What this ayah teaches:** And for themselves (they assign) what they desire (57)And when the news of (the birth of) a female (child) is brought to any of them, his face becomes dark, and he is filled with inner grief (58)He hides himself from the people because of the evil of what he has been informed. By Allah, you shall certainly be questioned about (all) that you used to fabricate (56)And they assign daughters to Allah!
-
-**Classical tafsir:** Ibn Kathir notes: And for themselves (they assign) what they desire (57)And when the news of (the birth of) a female (child) is brought to any of them, his face becomes dark, and he is filled with inner grief (58)He hides himself from the people because of the evil of what he has been informed.
 ## Personal Reflections
-
 

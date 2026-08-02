@@ -146,11 +146,5 @@ A common misdeed, in our days, is that when a calamity befalls a group of people
 
 Then they turned on each other, blaming one another.
 
-## AI Tafsir
-
-**What this ayah teaches:** That is to say, at the beginning they made admission of guilt, but then they turned to face each other in mutual accusation, blaming each other for the punishment that visited them, whereas the crime was not committed by only a single person from among them, but it was committed jointly by all or most of them.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

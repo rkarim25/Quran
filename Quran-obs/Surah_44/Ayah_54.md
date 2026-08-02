@@ -143,13 +143,5 @@ This is the end of the Tafsir of Surat Ad-Dukhan. All praise and thanks are due 
 
 So it will be. And We will pair them to maidens with gorgeous eyes.
 
-## AI Tafsir
-
-**What this ayah teaches:** If the word is taken in the first sense, houris having big dark eyes will be given as life partners to the men of Paradise.
-
-**Classical tafsir:** Ibn Kathir notes: The word tazwij originally means 'to make one person partner of another'.
-
-**From the Sunnah:** It was reported in the Two Sahihs that the Messenger of Allah ﷺ said: Paradise and Hell, then it will be slaughtered.
 ## Personal Reflections
-
 

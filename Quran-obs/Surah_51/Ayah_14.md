@@ -147,11 +147,5 @@ Allah the Exalted said,
 
 Taste your torment. This is what you kept rushing to bring upon yourselves.
 
-## AI Tafsir
-
-**What this ayah teaches:** This is what you used to ask to be hastened!") Affirming the News of the Resurrection The Commander of the faithful, 'Ali bin Abi Talib may Allah be pleased with him, ascended the Minbar in Kufah and declared, "Any Ayah in the Book of Allah the Exalted and any Sunnah from Allah's Messenger ﷺ you ask me about today, I will explain them." Ibn Al-Kawwa stood up and said, "O Leader…
-
-**Classical tafsir:** Ibn Kathir notes: In this context the word refers to those stubborn and obstinate infidels who, without any reason or evidence, say discordant things about the Messenger ﷺ .
 ## Personal Reflections
-
 

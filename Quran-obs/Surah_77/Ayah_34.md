@@ -108,11 +108,5 @@ Then Allah says,
 
 Woe that Day to those who deny!
 
-## AI Tafsir
-
-**What this ayah teaches:** We have brought you and the men of old together (38)So, if you have a plot, use it against Me (Allah)(39)Woe that Day to the deniers (of the Day of Resurrection). Some scholars have translated the word 'sufr' as 'black' because yellowish colour of camels tends to blackness.
-
-**Classical tafsir:** Ibn Kathir notes: Some scholars have translated the word 'sufr' as 'black' because yellowish colour of camels tends to blackness.
 ## Personal Reflections
-
 

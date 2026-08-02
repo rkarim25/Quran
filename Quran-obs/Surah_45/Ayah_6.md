@@ -136,13 +136,5 @@ Allah explained the type of torment that these people earn on the Day of Return;
 
 These are Allah's revelations which We recite to you in truth. After rejecting Allah and His revelations, what message will they believe in?
 
-## AI Tafsir
-
-**What this ayah teaches:** It is worth noting that in all these verses reference is made to the various signs in nature and a concluding statement is made on each occasion: Here it concludes: ` there are signs for those who have faith', in another place it concludes: ` there are signs for those who believe' and in a third place it concludes: ` there are signs for those who understand'.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, if they do not believe in Allah's Ayat nor abide by them, what speech after Allah and His Ayat will they then believe in?
-
-**From the Sunnah:** In the Sahih, Muslim recorded from 'Abdullah bin 'Umar that the Messenger of Allah ﷺ prohibited traveling with the Qur'an to enemy lands for fear that the Qur'an might be desecrated by the enemy. (Sahih Muslim)
 ## Personal Reflections
-
 

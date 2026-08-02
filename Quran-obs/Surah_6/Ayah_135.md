@@ -185,11 +185,5 @@ Commenting on this verse, Tafsir authority, Ibn Kathir pointed out that the exac
 
 Say, “O my people! Persist in your ways, for I will persist in mine. You will soon know who will fare best in the end. Indeed, the wrongdoers will never succeed.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Certainly the wrongdoers will not be successful)[6:135], You will come to know if the happy end will be mine (Muhammad's) or yours (the those who reject the truth).
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

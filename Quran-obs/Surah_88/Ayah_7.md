@@ -116,15 +116,5 @@ This means that the intent in eating it will not be achieved, and nothing harmfu
 
 that neither nourishes nor satisfies hunger.
 
-## AI Tafsir
-
-**Context:** لَّا يُسْمِنُ وَلَا يُغْنِي مِن جُوعٍ (that will neither nourish, nor satisfy hunger...88:7). When the preceding verse was revealed in which it was stated that the inmates of Hell will get food like Dari`, some of the pa…
-
-**What this ayah teaches:** No food will there be for them but from Dari',)(7.
-
-**Classical tafsir:** Ibn Kathir notes: No food will there be for them but from Dari',)(7.
-
-**From the Sunnah:** It has already been mentioned on the authority of An-Nu'man bin Bashir that the Messenger of Allah ﷺ used to recite Surat Al-A'la (87) and Al-Ghashiyah in the 'Id and Friday prayers. (Sahih Muslim, Sunan Abi Dawud)
 ## Personal Reflections
-
 

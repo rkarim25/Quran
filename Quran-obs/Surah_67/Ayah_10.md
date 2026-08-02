@@ -124,11 +124,5 @@ The statement '[ We ] have made them [ stars ] devices to stone the devils' prob
 
 They will lament: 'If only we had listened and reasoned, we would not be among the people of the Blaze.'
 
-## AI Tafsir
-
-**What this ayah teaches:** The word 'masabih' (translated above as 'lamps' ) stands for 'stars'.
-
-**Classical tafsir:** Ibn Kathir notes: The word 'masabih' (translated above as 'lamps' ) stands for 'stars'.
 ## Personal Reflections
-
 

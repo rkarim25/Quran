@@ -145,17 +145,5 @@ These Verses show how the Israelites were disposed to disobedience, and how this
 
 They said, "Call on your Rabb to make it clear to us, for all cows look alike to us — then, if Allah wills, we will be guided."
 
-## AI Tafsir
-
-**Essence** A third evasive question — "all cows look alike to us." They made the matter hard, so Allah made it hard for them.
-
-**What it teaches** Told simply to sacrifice a cow, the Israelites press Musa yet again: "Call upon your Lord," for the cows tashabaha — look alike — to them; cows are plentiful, describe this one further, and "if Allah wills, we will be guided."
-
-**The scholars** Ibn Kathir relates from Ibn 'Abbas and 'Ubaydah that any cow at all would have sufficed; because they were stubborn, Allah made the decision difficult. Maarif ul Quran sees here their disposition to disobedience in ever-new forms.
-
-**From the Sunnah** Maarif ul Quran cites a hadith (collection and grading unnamed in the source): had they obeyed without doubts and needless questions, no strict condition would have been imposed.
-
-**Reflection** Meet Allah's command with swift, simple obedience — ease lives in compliance; hardship grows from hesitation.
 ## Personal Reflections
-
 

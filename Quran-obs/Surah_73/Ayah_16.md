@@ -127,11 +127,5 @@ These verses describe the horrors and terrors of the Day of Resurrection. Verse 
 
 Pharaoh disobeyed the messenger, so We seized him with a crushing grip.
 
-## AI Tafsir
-
-**What this ayah teaches:** [ 15] Then, Fir'aun disobeyed the messenger; so We seized him with a severe seizure. And give them respite for a little (11)Verily, with Us are Ankal, and Jahim (12)And a food that chokes, and a painful torment (13)On the Day when the earth and the mountains will (Tarjufu) shake, and the mountains will be a heap of sand poured out (14)Verily, We have sent to you a Messenger to be a witness over yo…
-
-**Classical tafsir:** Ibn Kathir notes: This means, 'you should beware of denying this Messenger, lest you be afflicted by that which befell Fir'awn.
 ## Personal Reflections
-
 

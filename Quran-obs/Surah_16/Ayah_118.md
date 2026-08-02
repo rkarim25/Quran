@@ -134,15 +134,5 @@ The restrictive particle: اَنَّمَا (innama: only) appearing in verse 115
 
 To the Jews, We have forbidden what We related to you before. We did not wrong them, but it was they who wronged themselves.
 
-## AI Tafsir
-
-**Context:** The restrictive particle: اَنَّمَا (innama: only) appearing in verse 115 seems to give the impression that things Haram are no more than the four mentioned in the verse.
-
-**What this ayah teaches:** And for those who are Jews, We have forbidden such things as We have mentioned to you before. And We did not wrong them, but they wronged themselves (118)Then, your Lord for those who did evil out of ignorance and afterward repent and do righteous deeds - verily, after that, your Lord is Pardoning, ar-Rahim .
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** It seems to be suggestive of nothing being Haram other than the things mentioned in the verse while the fact is that according to clarifications of the Qur'an and Sunnah and by the Consensus of the Muslim Ummah, there are many mor…
 ## Personal Reflections
-
 

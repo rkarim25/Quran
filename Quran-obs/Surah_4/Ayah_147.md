@@ -144,13 +144,5 @@ A sincere person is one who acts for Allah alone and does not like that people p
 
 Why should Allah punish you if you are grateful and faithful? Allah is ever Appreciative, All-Knowing.
 
-## AI Tafsir
-
-**What this ayah teaches:** And Allah is Ever All-Appreciative (of good), All-Knowing .
-
-**Classical tafsir:** Ibn Kathir notes: Since the inherent effect of such impending punishment generates a sense of fear in a good-natured person which usually becomes the reason for early repentance, therefore, exemption from punishment has been promised to those who repent alongwith the incentive of good reward for t…
-
-**From the Sunnah:** Ibn Abi Hatim recorded that when Ibn Mas'ud was asked about the hypocrites, he said, "They will be placed in coffins made of fire and they will be closed in them in the lowest depth of the Fire."
 ## Personal Reflections
-
 

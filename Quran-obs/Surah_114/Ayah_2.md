@@ -110,13 +110,5 @@ Verse [ 114:1] قُلْ أَعُوذُ بِرَ‌بِّ النَّاسِ Say, (
 
 The Sovereign of humanity—whose authority no government, corporation, or algorithm can override.
 
-## AI Tafsir
-
-**What this ayah teaches:** This is because they (the Jinns) are also included in the usage of the word An-Nas (the people) in most cases.
-
-**Classical tafsir:** Ibn Kathir notes: This is because they (the Jinns) are also included in the usage of the word An-Nas (the people) in most cases.
-
-**From the Sunnah:** It is also confirmed in the Two Sahihs from Anas, who reported the story of Safiyyah when she came to visit the Prophet ﷺ while he was performing I'tikaf, that he went out with her during the night to walk her back to her house.
 ## Personal Reflections
-
 

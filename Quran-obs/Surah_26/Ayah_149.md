@@ -68,11 +68,5 @@ This verse indicates that nice vocations are Allah's Graces, and to draw benefit
 
 to carve homes in the mountains with great skill?
 
-## AI Tafsir
-
-**What this ayah teaches:** There is no contradiction between the two views, because they built the houses which they carved in the mountains as a form of extravagant play, with no need for them as dwelling places. Therefore, the meaning of the verse is that Allah Ta’ ala has favoured you by teaching such skills that you could make houses by cutting hills.
-
-**Classical tafsir:** Ibn Kathir notes: Useful vocations are Divine Graces provided they are not employed in bad things This verse indicates that nice vocations are Allah's Graces, and to draw benefit from them is lawful.
 ## Personal Reflections
-
 

@@ -232,15 +232,5 @@ A group of commentators find a third interpretation of this verse. A statement a
 
 where they will remain for endless ages.
 
-## AI Tafsir
-
-**Context:** (But they denied Our Ayat Kidhdhaba.) meaning, they used to deny the evidences of Allah and His proofs for His creation, which He revealed to His Messengers. So they met these proofs with rejection and obstinance.
-
-**What this ayah teaches:** Therefore, Baidawi has interpreted the word as 'many long periods of time successively following the others. The word ahqab is the plural of hiqbah and means 'ages or a long time'.
-
-**Classical tafsir:** Ibn Kathir notes: The word labithin is the plural of labith which means 'one who abides'.
-
-**From the Sunnah:** Al-Bukhari reported concerning the explanation of Allah's statement, (Sahih al-Bukhari)
 ## Personal Reflections
-
 

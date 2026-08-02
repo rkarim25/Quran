@@ -150,11 +150,5 @@ That the combined blessings of the whole world are paltry has been stated in the
 
 And do not trade Allah’s covenant for a fleeting gain. What is with Allah is certainly far better for you, if only you knew.
 
-## AI Tafsir
-
-**What this ayah teaches:** Sim-ilarly, if not doing something is obligatory on a person, then, should that person do it against returns received from someone, that too will constitute the breaking of the Covenant of Allah. This is because if a those who reject the truth were to find that after having agreed to a covenant, then the believer betrayed him, then the believer will have hindered him from entering Islam.
-
-**Classical tafsir:** Ibn Kathir notes: This is an analogy describing one who was on the right path but then deviated and slipped from the path of guidance because of an unfulfilled oath that involved hindering people from the path of Allah.
 ## Personal Reflections
-
 

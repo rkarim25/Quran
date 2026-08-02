@@ -307,25 +307,5 @@ The verse ends with the statement: فَاتَّقُوا اللَّـهَ لَع�
 
 When you said to those who have iman, “Is it not enough that your Rabb will send down a reinforcement of three thousand angels for your aid?”
 
-## AI Tafsir
-
-**Essence**
-
-On the eve of battle, the Prophet ﷺ steadies the believers' hearts: is it not enough that your Lord will reinforce you with three thousand angels sent down?
-
-**What it teaches**
-
-The verse recalls the Prophet's ﷺ words to the believers, "Is it not enough (alan yakfiyakum) that your Lord (Rabbukum) reinforces you with three thousand of the angels sent down?" The rhetorical question is itself the reassurance: their Rabb — the One who nurtures and sustains them — pledges unseen aid, so the disparity in numbers and weapons need not shake them. The next verse raises a further promise (five thousand marked angels) but makes it conditional: "But if you hold to patience (sabr) and have taqwa." Taqwa, says Ibn Kathir, is to fear Allah and obey His command while standing firm against the enemy.
-
-**The scholars**
-
-Ibn Kathir reports that the scholars of tafsir differ over whether this promise concerned Badr or Uhud. The first and favored view — from al-Hasan al-Basri, 'Amr Ash-Sha'bi, Ar-Rabi' bin Anas and others, agreed to by Ibn Jarir — ties it to the preceding verse, "And Allah has already made you victorious at Badr" (3:123). Ash-Sha'bi explained the occasion: at Badr the Muslims heard that the chief Kurz bin Jabir was coming to aid the idolaters, and this weighed heavily on them, so Allah revealed this promise of three thousand angels; when news of the idolaters' defeat reached Kurz he never reinforced them, so Allah did not need to send the further five thousand. Ar-Rabi' bin Anas said the support rose from one thousand (as in 8:9) to three thousand to five thousand; Ibn Kathir notes the "one thousand" of 8:9 does not contradict this, since "in succession" implies more would follow — and the angels did in fact fight at Badr. On the second view the promise pointed to Uhud, but the angels never came, because Allah had made the aid conditional and the Muslims "were not patient... rather, they ran away," and so received the support of not a single angel.
-
-Commenting separately on 3:123 — which closes "So fear Allah, that you may be grateful" — Maarif ul Quran observes that taqwa and sabr are prescribed across the Qur'an as the believer's security shield against hostile schemes, and that here taqwa alone is named because it is so comprehensive an attribute that sabr is already contained within it; in these two stand the secret of organized struggle and the clear victory that follows.
-
-**Reflection**
-
-The believers trembled at a reinforcement for the enemy that, in the end, never even arrived — while their own reinforcement was three thousand angels promised by their Rabb. We measure our trials against the strength we can see; Allah measures His help against nothing but His own word. Hold to sabr and taqwa, and the unseen aid is already on its way.
 ## Personal Reflections
-
 

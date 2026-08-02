@@ -120,13 +120,5 @@ Commentary
 
 Obey Allah and obey the Messenger. If you turn away, the Messenger's duty is only to deliver the message clearly.
 
-## AI Tafsir
-
-**What this ayah teaches:** And Allah is the All-Knower of everything (11)Obey Allah, and obey the Messenger; but if you turn away, then the duty of Our Messenger is only to convey clearly (12)Allah!
-
-**Classical tafsir:** Ibn Kathir notes: 'Az-Zuhri said, "From Allah comes the Message, its deliverance is up to the Messenger, and the adherence is up to us." Tawhid Allah states that He is the One, Whom all creations need and seek, the One other than Whom there is no (true) Allah.
-
-**From the Sunnah:** There is an agreed upon Hadith [that Al-Bukhari and Muslim collected and] which states, (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
-
 

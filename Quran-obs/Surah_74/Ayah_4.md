@@ -164,13 +164,5 @@ And according to a hadith narrative 'Cleanliness is half the faith'. Therefore, 
 
 Keep your garments—and yourself—pure from what defiles.
 
-## AI Tafsir
-
-**What this ayah teaches:** The different interpretations attached to the verse enrich its significance. Thus the verse would signify that the body and clothes must be kept clean from all kinds of physical impurity.
-
-**Classical tafsir:** Ibn Kathir notes: The different interpretations attached to the verse enrich its significance.
-
-**From the Sunnah:** It has been confirmed in the Sahih Al-Bukhari and Sahih Muslim on the authority of Abu Salamah that Jabir bin 'Abdullah informed him that he heard the Messenger of Allah ﷺ speaking about the time period (of the pause in) revelation. (Sahih al-Bukhari, Sahih Muslim) from Abu Salamah bin 'Abdur-Rahman that Jabir bin 'Abdullah informed him that he heard the Messenger of Allah ﷺ saying, (Musnad Ahmad)
 ## Personal Reflections
-
 

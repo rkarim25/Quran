@@ -238,15 +238,5 @@ The second group is [ the unsuccessful one ] and its three characteristics are: 
 
 Your strivings are indeed diverse—people chase different ends.
 
-## AI Tafsir
-
-**Context:** Ibn Jarir recorded from 'Amir bin 'Abdullah bin Az-Zubayr that he said, "Abu Bakr used to free servants upon their acceptance of Islam in Makkah. He used to free the elderly and the women when they accepted Islam.
-
-**What this ayah teaches:** By Him Who created male and female.)(4.
-
-**Classical tafsir:** Ibn Kathir notes: By Him Who created male and female.)(4.
-
-**From the Sunnah:** This Hadith has been recorded by At-Tirmidhi in the Book of Al-Qadar and he said "Hasan Sahih.". (Jami' at-Tirmidhi, authentic hadith) : "Each morning when a man gets up, he goes to conduct his business and keeps himself busy
 ## Personal Reflections
-
 

@@ -106,11 +106,5 @@ The habitation mentioned أَهْلَ قَرْ‌يَةٍ (the people of a town 
 
 He replied, “This is the parting of our ways. I will explain to you what you could not bear patiently.
 
-## AI Tafsir
-
-**What this ayah teaches:** So this is the parting of the ways between me and you.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

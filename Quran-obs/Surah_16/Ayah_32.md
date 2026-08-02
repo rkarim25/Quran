@@ -148,15 +148,5 @@ The essence of the answer given by the polytheists is that they simply refused t
 
 those whose souls the angels take while they are virtuous, saying to them, “Peace be upon you! Enter Paradise for what you used to do.”
 
-## AI Tafsir
-
-**Context:** (What is it that your Lord has revealed?) they will reluctantly answer, "He did not reveal anything, these are just the fables of old." But the blessed, on the other hand, will say, "That which is good," meaning - He rev…
-
-**What this ayah teaches:** Enter Paradise because of what (good) you used to do (in the world). In the present verses, the text describes how they, not content with their own straying, tried that others should also go astray like them.
-
-**Classical tafsir:** Ibn Kathir notes: In the present verses, the text describes how they, not content with their own straying, tried that others should also go astray like them.
-
-**From the Sunnah:** Still others take one question to have been asked by the polytheists while the other by Muslims.
 ## Personal Reflections
-
 

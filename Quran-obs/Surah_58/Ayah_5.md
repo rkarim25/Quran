@@ -158,13 +158,5 @@ The Fate of those who Challenge Allah and His Apostle
 
 Those who defy Allah and His Messenger will be humiliated, as those before them were. Clear revelations have been sent down, and those who reject the truth will face a degrading punishment.
 
-## AI Tafsir
-
-**What this ayah teaches:** And for the those who reject the truth is a disgraceful torment (5)On the Day when Allah will resurrect them all together and inform them of what they did.
-
-**Classical tafsir:** Ibn Kathir notes: And Our messengers are by them to record.)(43:80) For this reason, several mentioned that there is a consensus among the scholars that this "with" refers to Allah's knowledge.
-
-**From the Sunnah:** Imam Ahmad commented, "Allah began the Ayah (58:7) by mentioning His knowledge and ended it by mentioning His knowledge." (Musnad Ahmad)
 ## Personal Reflections
-
 

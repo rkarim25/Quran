@@ -105,13 +105,5 @@ Commentary
 
 Have you seen one who rejects Our revelations yet boasts: "I will definitely be granted wealth and children"?
 
-## AI Tafsir
-
-**What this ayah teaches:** It means, "We will take all of this from him, in opposition to his claim that he will be given more wealth and children in the Hereafter than he had in this life." To the contrary, in the Hereafter that which he had in this life will be taken from him.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** It has already been stated that in Sahih Al-Bukhari it is mentioned that covenant means an agreement. (Sahih al-Bukhari)
 ## Personal Reflections
-
 

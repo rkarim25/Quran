@@ -108,17 +108,5 @@ They were also told that the earth would be a temporary dwelling-place for them,
 
 Then Adam received words from his Rabb, and He accepted his repentance. He is the Accepter of Repentance, the Rahim — special mercy for believers in the Akhirah.
 
-## AI Tafsir
-
-**Essence** When Adam slipped, Allah Himself gave him the words of return, then turned to him: He is At-Tawwab, the Accepter of repentance, Ar-Rahim, the Most Merciful.
-
-**What it teaches** Adam did not invent his own apology: he "received" (talaqqā) words of prayer from his Lord. Tawbah is Allah's gift before it is the servant's deed.
-
-**The scholars** Ibn Kathir relates from Mujahid, Sa'id bin Jubayr, Qatadah, Al-Hasan and others that the Words were the prayer of 7:23: "Our Lord! We have wronged ourselves..." Allah forgives whoever regrets his error and returns to Him. Maarif ul Quran adds: Satan had no power of his own, the descent came by divine command, and the earth was only a temporary dwelling.
-
-**From the Sunnah** A report of Ibn 'Abbas (Al-Hakim's Mustadrak, via Ibn Jubayr; chain graded Sahih by Al-Hakim) relates Adam's plea: "Does not Your mercy precede Your anger?... If I repent, will You send me back to Paradise?" Allah said, "Yes."
-
-**Reflection** However far the descent, the way back begins with words Allah Himself is ready to accept.
 ## Personal Reflections
-
 

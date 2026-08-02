@@ -102,11 +102,5 @@ As for the appointed time not being late or early as stated in this verse, it is
 
 For each community there is an appointed term. When their time arrives, they can neither delay it for a moment, nor could they advance it.
 
-## AI Tafsir
-
-**What this ayah teaches:** And every Ummah has its appointed term; when their term comes, neither can they delay it nor can they advance it an hour (or a moment)(34)O Children of Adam! Similarly, the real objective here is to state that there will be no delay after the appointed time.
-
-**Classical tafsir:** Ibn Kathir notes: The third verse (34) describes their sad end and the punishment they would have in the Hereafter.
 ## Personal Reflections
-
 

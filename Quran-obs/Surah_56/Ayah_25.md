@@ -196,13 +196,5 @@ This is the narration that Abu Ya'la collected, and Al-Hafiz Ad-Diya' said, "Thi
 
 There they will hear no idle or sinful talk—
 
-## AI Tafsir
-
-**What this ayah teaches:** There is a difference over the meaning of the first generations and the later generations.
-
-**Classical tafsir:** Ibn Kathir notes: Some said that the former means earlier (believing) nations, while the later refers to this Ummah.
-
-**From the Sunnah:** He considered it supported by the saying of Allah's Messenger ﷺ: And a few of those will be from the later ones.), this news became hard for the Companions of the Prophet ﷺ.
 ## Personal Reflections
-
 

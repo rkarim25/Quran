@@ -111,11 +111,5 @@ In verse 177, it was said: فَإِذَا نَزَلَ بِسَاحَتِهِم�
 
 Yet when it descends upon them: how evil will that morning be for those who had been warned!
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, when we descend on the courtyard of a people, the morning of those who had been already warned is too bad).
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, simply due to this temporary ascendancy, neither can we call that robber an authority, nor that authority a subject.
 ## Personal Reflections
-
 

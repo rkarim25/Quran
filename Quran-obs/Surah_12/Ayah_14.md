@@ -85,11 +85,5 @@ The brothers told Yahuda: We know what you mean. You wish to rise higher than us
 
 They said, “If a wolf were to devour him, despite our strong group, then we would certainly be losers!”
 
-## AI Tafsir
-
-**What this ayah teaches:** If a wolf could be expected to eat up Yusuf despite their being there to guard him, it would render their very presence around him totally senseless.
-
-**Classical tafsir:** Ibn Kathir notes: This demonstrates the deep love that Ya'qub had for his son, because he saw in Yusuf great goodness and exalted qualities with regards to conduct and physical attractiveness associated with the rank of prophethood.
 ## Personal Reflections
-
 

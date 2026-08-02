@@ -166,11 +166,5 @@ However, it appears that the meaning here is that Allah kept ships as a sign. Fo
 
 and made the earth burst with springs until the waters met for a matter already decreed.
 
-## AI Tafsir
-
-**What this ayah teaches:** But the sky's gates were opened on them that day, and therefore, the water that came down was not from clouds. So, the waters met for a matter predestined (12)And We carried him on a (ship) made of planks and nails (Dusur (13)Floating under Our Eyes, a reward for him who had been rejected (14)And indeed, We have left this as a sign.
-
-**Classical tafsir:** Ibn Kathir notes: But the sky's gates were opened on them that day, and therefore, the water that came down was not from clouds.
 ## Personal Reflections
-
 

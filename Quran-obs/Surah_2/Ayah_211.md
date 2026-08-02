@@ -168,15 +168,5 @@ It has been reported that Sayyidna ` Ali ؓ said: 'Anyone who takes a Muslim man
 
 Ask the Children of Israel how many clear signs We gave them. Whoever trades Allah's favour after receiving it for rejection should know that Allah is severe in punishment.
 
-## AI Tafsir
-
-**Essence** Whoever, after Allah's clear signs and favor have reached him, trades that favor away for disbelief invites Allah's severe punishment.
-
-**What it teaches** Allah commands the Prophet (peace be upon him) to ask the Children of Israel how many bayyinat — clear, decisive signs — they were given, then warns that to "change" (yubaddil) Allah's ni'mah (favor) after it has come means to renounce His religion and accept kufr (disbelief). The verdict is that Allah is shadid al-'iqab — severe in punishment — for those who knowingly exchange guidance for rejection.
-
-**The scholars** Ibn Kathir explains that the Children of Israel personally witnessed signs confirming Musa: his shining hand, the parting of the sea, water gushing from the struck rock, the shading clouds, and the manna and quails — proofs of the Creator's existence and of Musa's truthfulness — yet many of them "changed Allah's favor, by preferring disbelief to faith and by ignoring Allah's favors." He links this to the Quraysh, of whom Allah said they "changed the blessings of Allah into disbelief" and caused their people to dwell in the house of destruction — Hell, in which they burn (14:28-29). Maarif ul Quran traces the same pattern: they denied the Torah and were threatened by Mount Sinai; tinkered with doubts in Allah's Word and were struck dead by lightning; took to the calf after being saved from Pharaoh; grew ungrateful for the manna and salwa; and killed the prophets sent among them — so the divine law followed: "one who changes the blessings or clear signs of Allah, especially after it has come to him... Allah Almighty punishes such a deviant severely."
-
-**Reflection** Guard every favor Allah grants — above all the favor of faith — by living gratefully, never bartering His guidance for the fleeting gains of this world.
 ## Personal Reflections
-
 

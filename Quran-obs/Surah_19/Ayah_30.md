@@ -165,11 +165,5 @@ In these words, Sayyidna ` Isa I even in his infancy announced his future prophe
 
 Jesus declared: "I am truly a servant of Allah. He has destined me to receive the Scripture and be a prophet.
 
-## AI Tafsir
-
-**What this ayah teaches:** Therefore, she referred all speech to him (the child) and she directed them to his address and speech to them. They scoffed at her because they thought that she was mocking at them and playing with them.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, she referred all speech to him (the child) and she directed them to his address and speech to them.
 ## Personal Reflections
-
 

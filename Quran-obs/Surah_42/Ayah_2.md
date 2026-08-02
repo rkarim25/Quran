@@ -106,13 +106,5 @@ Just as this surah was revealed to the Holy Prophet ﷺ for the ascertainment of
 
 These opening letters—known as the muqatta'at—are among the signs whose full meaning Allah kept with Himself. They open the surah by reminding the reader that this Book is from beyond human authorship: approach it with humility, not arrogance.
 
-## AI Tafsir
-
-**Context:** (Likewise Allah, the Almighty, the All-Wise sends revelation to you as to those before you.) means, 'just as this Qur'an has been revealed to you, so too the Books and Scriptures were revealed to the Prophets who came be…
-
-**What this ayah teaches:** And that is how it should be, because throughout the heavens there is not even a space of four fingers left vacant by angels who are in the state of prostration.
-
-**Classical tafsir:** Ibn Kathir notes: And that is how it should be, because throughout the heavens there is not even a space of four fingers left vacant by angels who are in the state of prostration.
 ## Personal Reflections
-
 

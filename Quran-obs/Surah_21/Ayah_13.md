@@ -124,11 +124,5 @@ This King was placed in authority over them just as he was used as an instrument
 
 They were told, “Do not run away! Return to your luxuries and your homes, so you may be questioned about your fate.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Hence it will be apt to leave the subject open, so that these settlements of Yemen may also come in its ambit.
-
-**Classical tafsir:** Ibn Kathir notes: Hence it will be apt to leave the subject open, so that these settlements of Yemen may also come in its ambit.
 ## Personal Reflections
-
 

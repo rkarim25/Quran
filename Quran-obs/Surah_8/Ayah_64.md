@@ -113,13 +113,5 @@ In the second verse (64) as well, by stating the same subject briefly, the Holy 
 
 O Prophet: Allah is sufficient for you and for the believers who follow you.
 
-## AI Tafsir
-
-**Context:** The Ayah says, one Muslim should endure ten those who reject the truth. Allah abrogated this part later on, but the good news remained.
-
-**What this ayah teaches:** Allah is sufficient for you and for the believers who follow you (64)O Prophet! In the second verse (64) as well, by stating the same subject briefly, the Holy Prophet ﷺ has been comforted by telling him that sufficient for him is Allah Ta` ala in the real sense, and the group of believers in the physical sense.
-
-**Classical tafsir:** Ibn Kathir notes: If there are twenty steadfast persons among you, they will overcome two hundred, and if there be a hundred steadfast persons they will overcome a thousand of those who disbelieve, because they (the those who reject the truth) are people who do not understand (65)Now Allah has lightened your (t…
 ## Personal Reflections
-
 

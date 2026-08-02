@@ -121,11 +121,5 @@ A sermon should have high degree of eloquence
 
 Moses responded, “My Rabb knows best who has come with true guidance from Him and will fare best in the end. Indeed, the wrongdoers will never succeed.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Fir'awn and his chiefs saw that with their own eyes and realized that it was certainly from Allah, but because of their disbelief and sin they resorted to stubbornness and false arguments.
-
-**Classical tafsir:** Ibn Kathir notes: Fir'awn and his chiefs saw that with their own eyes and realized that it was certainly from Allah, but because of their disbelief and sin they resorted to stubbornness and false arguments.
 ## Personal Reflections
-
 

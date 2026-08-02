@@ -1054,15 +1054,5 @@ To sum up, the Qur'anic prayer (guide us in the straight path) is most comprehen
 
 Guide us to the Sirat al-Mustaqim—the way of living that aligns with Your pleasure, not the path of confusion offered by a world that keeps changing what it calls truth.
 
-## AI Tafsir
-
-**Essence** Having praised Allah and pledged worship to Him alone, the servant asks for what he most needs: guidance upon the Straight Path.
-
-**What it teaches** "Ihdina," says Ibn Kathir, means direct, lead, and grant us the correct guidance. As-Sirat al-Mustaqim is the clear path that At-Tabari and Ibn Kathir identify as Islam itself: knowing the truth and abiding by it. The plural "us" widens the plea to one's brethren.
-
-**The scholars** Why do even the guided ask this every prayer? Ibn Kathir: we need Allah every hour, powerless to benefit ourselves except by His leave; so "guide us" means "make us firm, and do not let us deviate." Maarif ul-Quran (citing Imam Raghib) names the highest guidance as tawfiq, help that makes obedience easy, sought by prophets to their last breath.
-
-**Reflection** Pray this knowing the path is a gift Allah renews, never a possession to take for granted.
 ## Personal Reflections
-
 

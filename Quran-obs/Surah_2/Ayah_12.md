@@ -125,15 +125,5 @@ This is an indication that Allah alone10 knows the states of men's hearts and th
 
 In truth, they are the ones spreading corruption — but they do not perceive it.
 
-## AI Tafsir
-
-**Essence** Allah unmasks the hypocrites: their self-styled peacemaking is the corruption they deny — la yash'urun, they cannot perceive it.
-
-**What it teaches** Fasad is not only open crime — in the salaf's reading it is disbelief and disobedience, faith's quiet undoing beneath noble slogans. Conformity to revelation, not self-description, makes the reformer.
-
-**The scholars** Ibn 'Abbas and Ibn Mas'ud: this mischief is "disbelief and acts of disobedience." Abu al-'Aliyah: peace on earth and in the heavens is ensured through obedience to Allah. Ibn Jarir: they doubt Allah's religion, lie to believers, aid disbelievers — "while thinking that they are doing righteous work on earth." Ibn Kathir: the peacemaking claim is itself the mischief. Maarif ul-Quran: innama ("we are nothing but reformers") claims exclusivity, yet only deeds guided by the Shari'ah reform — Allah alone "knows the one who makes mischief distinct from him who promotes good" (2:220).
-
-**Reflection** Weigh your "good works" against obedience to Allah, not slogans — unperceived corruption begins where self-scrutiny ends.
 ## Personal Reflections
-
 

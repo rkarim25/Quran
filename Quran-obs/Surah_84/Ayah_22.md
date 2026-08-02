@@ -154,11 +154,5 @@ Ends here
 
 Those who reject the truth persist in denial.
 
-## AI Tafsir
-
-**What this ayah teaches:** The word sajdah /sujud literally denotes 'to bow' and it connotes 'obedience'.
-
-**Classical tafsir:** Ibn Kathir notes: However, this interpretation is after all merely a possibility, but the clear context of the verse indicates that it seems to be far-fetched to take the verse in this sense.
 ## Personal Reflections
-
 

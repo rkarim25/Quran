@@ -157,11 +157,5 @@ After 'kinsman', the rights of indigent and then of the travelers follow. For me
 
 Give close relatives their due, and the poor and the traveller. That is best for those seeking Allah's pleasure — they will succeed.
 
-## AI Tafsir
-
-**What this ayah teaches:** It should also be understood that the right of close relatives is not restricted to financial support, but it includes looking after them, and providing any physical service to them as well.
-
-**Classical tafsir:** Ibn Kathir notes: The words, 'his right' also refers to the rights of the kinsmen in general terms, and encompasses obligatory rights, such as those of parents, children and other close relations.
 ## Personal Reflections
-
 

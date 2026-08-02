@@ -73,11 +73,5 @@ Ibn Kathir while commenting on verse 20 of Surah Al-Muzzammil: وَأَقِيم�
 
 They are the ones truly guided by their Rabb — the One who creates, owns, nurtures, and sustains — and they are the ones who will succeed when outcomes are finally weighed.
 
-## AI Tafsir
-
-**What this ayah teaches:** Those who perform the Salah and give Zakah and they have faith in the Hereafter with certainty.)(5. Such are on guidance from their Lord, and such are the successful.) At the beginning of Surat Al-Baqarah we discussed the letters such as those that appear at the beginning of this Surah.
-
-**Classical tafsir:** Ibn Kathir notes: As for the popular assumption that the injunction of Zakah was enforced in the second year of Hijrah, it refers to the arrangement of fixing its nisab (threshold), providing details of obligatory amount to be paid, collecting and disbursing it on authorized heads by the Islamic g…
 ## Personal Reflections
-
 

@@ -144,13 +144,5 @@ Commentary
 
 And say, “All praise is for Allah! He will show you His signs, and you will recognize them. And your Rabb is never unaware of what you do.”
 
-## AI Tafsir
-
-**What this ayah teaches:** And your Lord is not unaware of what you do.
-
-**Classical tafsir:** Ibn Kathir notes: Word Haram is derived from Tahrim, which means "to prohibit" and also means "complete respect and veneration", and because of this respect and veneration whatever special religious prohibitions are applicable to Makkah and its surrounding land are also included in it.
-
-**From the Sunnah:** It was recorded that Imam Ahmad, may Allah have mercy upon him, used to recite the following two lines of verse, whether they were written by him or someone else: "If you are alone one day, do not say, 'I am alone.' Rather say, 'Someone is watching me.' Do not… (Musnad Ahmad)
 ## Personal Reflections
-
 

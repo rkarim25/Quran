@@ -224,15 +224,5 @@ This incident too is an apt testimony to the fact that all Sahabah considered th
 
 Always remember what is recited in your homes of Allah’s revelations and prophetic wisdom. Surely Allah is Most Subtle, All-Aware.
 
-## AI Tafsir
-
-**Context:** (Allah wishes only to remove Ar-Rijs from you, O members of the family, and to purify you with a thorough purification.) This is a clear statement that the wives of the Prophet ﷺ are included among the members of his fam…
-
-**What this ayah teaches:** Allah wishes only to remove the Ar-Rijs from you, O members of the family, and to purify you with a thorough purification (33)And remember, that which is recited in your houses of the Ayat of Allah and Al-Hikmah.
-
-**Classical tafsir:** Ibn Kathir notes: Some of the scholars, may Allah have mercy on them, said: "This was because he did not marry any other virgin besides her, and no man slept with her in her bed before him ﷺ, may Allah be pleased with her." So it was befitting that she should be singled out for this blessing and h…
-
-**From the Sunnah:** These are the good manners which Allah enjoined upon the wives of the Prophet…
 ## Personal Reflections
-
 

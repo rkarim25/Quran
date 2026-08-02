@@ -183,13 +183,5 @@ The explanation given above is taken from the Tafsir of Qurtubi, and this is the
 
 Who is more lost than those who pray to others besides Allah—beings that cannot answer them until the Day of Resurrection, and are not even aware of their worship?
 
-## AI Tafsir
-
-**Context:** (But those who disbelieve, turn away from that of which they are warned.) Meaning, the those who reject the truth are distracted from what is intended for them. Allah has indeed revealed to them a Book and sent to them a Messenger.
-
-**What this ayah teaches:** And who is more astray than those who invoke besides Allah others who will not answer them until the Day of Resurrection, and who are unaware of their invocations to them?)(6.
-
-**Classical tafsir:** Ibn Kathir notes: Allah then describes Himself as being of unimaginable glory, possessing ultimate wisdom in His statements and actions.
 ## Personal Reflections
-
 

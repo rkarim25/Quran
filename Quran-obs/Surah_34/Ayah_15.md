@@ -213,11 +213,5 @@ As for the statement of the Hadith quoted above in which it is said that out of 
 
 There was a sign for the people of Saba in their homeland: two gardens, one on the right and one on the left. They were told: "Eat from your Lord's provision and be grateful to Him—a good land and a forgiving Lord."
 
-## AI Tafsir
-
-**What this ayah teaches:** Indeed there was for Saba' a sign in their dwelling place – two gardens on the right and on the left; (and it was said to them:) "Eat of the provision of your Lord, and be grateful to Him." A fair land and an Oft-Forgiving Lord (15)But they turned away, so We sent against them flood released from the dam, and We converted their two gardens into gardens producing bitter bad fruit, and Athl, and som…
-
-**Classical tafsir:** Ibn Kathir notes: And never do We requite in such a way except those who are ungrateful.) meaning, 'We punished them for their disbelief.' Mujahid said, "He does not punish anyone except the those who reject the truth." Al-Hasan Al-Basri said, "Allah the Almighty has spoken the truth: no one will be punished in a manner that befit… The Disbelief of Saba' (Sheba) and Their Punishment Saba' refers to the kings and people of the Yeme…
 ## Personal Reflections
-
 

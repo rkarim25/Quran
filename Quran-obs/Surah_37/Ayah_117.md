@@ -58,13 +58,5 @@ Described in the verses cited above is the third event relating to Sayyidna Musa
 
 We gave them the clear Scripture,
 
-## AI Tafsir
-
-**Context:** Allah tells us how He blessed Musa and Harun with prophethood and how He saved them, along with those who believed, from the oppression of Fir'awn and his people, who had persecuted them by killing their sons and sparing…
-
-**What this ayah teaches:** The purpose is to tell how Allah Ta’ ala helps out His sincere and obedient servants, and how He bestows so many of His rewards on them.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

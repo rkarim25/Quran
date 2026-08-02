@@ -217,13 +217,5 @@ After learning the background of the episode it would be easier to understand th
 
 And to Dhu'l-Nun, when he went off in anger and thought We would not restrict him — he cried out in the darkness: There is none worthy of worship except You. Glory be to You. I was among the wrongdoers.
 
-## AI Tafsir
-
-**What this ayah teaches:** Similarly, his dissociation from his people was nothing new and was in line with the practice of other prophets in similar situations and must, therefore, also have been done by the command and approval from Allah Ta` ala.
-
-**Classical tafsir:** Ibn Kathir notes: Similarly, his dissociation from his people was nothing new and was in line with the practice of other prophets in similar situations and must, therefore, also have been done by the command and approval from Allah Ta` ala.
-
-**From the Sunnah:** You passed by me a short while ago but I was preoccupied with thoughts of something I had heard from the Messenger of Allah ﷺ, which I never think of but a veil comes down over my eyes and my heart.' Sa'd said: 'And I will tell you what it was. (Musnad Ahmad) the Messenger of Allah ﷺ said: (Sahih Muslim, Jami' at-Tirmidhi)
 ## Personal Reflections
-
 

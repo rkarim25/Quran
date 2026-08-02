@@ -118,13 +118,5 @@ This is what is known as God gifted awe of truth, veracity and reality. The cont
 
 Pharaoh said to those around him, “Did you hear what he said?”
 
-## AI Tafsir
-
-**What this ayah teaches:** They wanted to go back to their land but the Pharaoh would not let them. In the first place he changed the sequence of the topics in that he brought up the case of the Egyptian first which the Pharaoh had raised latter.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** The contentions and dialectics of Allah's messengers are also full of truth, veracity and wishing well for the addressee.
 ## Personal Reflections
-
 

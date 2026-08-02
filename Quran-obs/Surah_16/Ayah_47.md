@@ -113,11 +113,5 @@ First of all, by using the word: رَبّ (Rabb: Lord) here, the hint given is t
 
 Or that He will not destroy them gradually? But your Rabb is truly Ever Gracious, the Rahim.
 
-## AI Tafsir
-
-**What this ayah teaches:** Indeed, Your Lord is full of kindness, ar-Rahim .
-
-**Classical tafsir:** Ibn Kathir notes: Do then those who devise evil plots feel secure that Allah will not cause them to sink into the earth, or that torment will not seize them from where they do not perceive it (45)Or that He may punish them in the midst of their going to and fro (in their livelihood), so that there…
 ## Personal Reflections
-
 

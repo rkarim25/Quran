@@ -84,11 +84,5 @@ The expression: اُولُوا الطَّولِ (ulu 'at-caul: translated as ` t
 
 Allah has prepared for them Gardens under which rivers flow, to stay there forever. That is the ultimate triumph.
 
-## AI Tafsir
-
-**What this ayah teaches:** Such are they for whom are the good things, and it is they who will be successful (88)For them Allah has prepared Gardens (Paradise) under which rivers flow, to dwell therein forever.
-
-**Classical tafsir:** Ibn Kathir notes: This describes the qualities, as well as, the reward of faithful believers.
 ## Personal Reflections
-
 

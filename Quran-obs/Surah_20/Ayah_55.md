@@ -112,11 +112,5 @@ The words مِنْهَا خَلَقْنَاكُمْ (From this We created you) i
 
 From the earth We created you, and into it We will return you, and from it We will bring you back again.
 
-## AI Tafsir
-
-**What this ayah teaches:** Others have said that the seed itself is made of earth therefore anything created from the seed is in fact created from the earth.
-
-**Classical tafsir:** Ibn Kathir notes: Others have said that the seed itself is made of earth therefore anything created from the seed is in fact created from the earth.
 ## Personal Reflections
-
 

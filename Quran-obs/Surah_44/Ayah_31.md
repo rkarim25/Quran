@@ -192,13 +192,5 @@ Some scholars interpret the verse metaphorically, not literally. They say that t
 
 of Pharaoh. He was truly a tyrant, a transgressor.
 
-## AI Tafsir
-
-**Context:** And indeed We revealed to Mu0sa0 (saying): Travel by night with My servants and strike a dry path for them in the sea, fearing neither to be overtaken nor being afraid (of drowning in the sea). (20:77)
-
-**What this ayah teaches:** And We made other people inherit them (28)And the heavens and the earth wept not for them, nor were they given respite (29)And indeed We saved the Children of Israel from the humiliating torment (30)From Fir'awn; verily, he was arrogant and was of the excessive (31)And We chose them above the nations (Al-'Alamin) with knowledge (32)And granted them signs in which there was a plain trial (33).
-
-**Classical tafsir:** Ibn Kathir notes: This means they did not perform any righteous deeds on earth which would weep for them when they died, nor did any of their righteous deeds ascend through the gates of heaven, so that the sky would weep on their death.
 ## Personal Reflections
-
 

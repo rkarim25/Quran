@@ -189,13 +189,5 @@ Let us look at an anecdote ascribed to a pious elder, which will further clarify
 
 Indeed, those who unjustly consume orphans’ wealth consume nothing but fire into their bellies. And they will be burned in a blazing Hell!
 
-## AI Tafsir
-
-**What this ayah teaches:** Many commentators have interpreted this metaphorically, that is, eating the property of the orphans unjustly is like stuffing one's stomach with fire - because this is what is going to happen to him ultimately in the Hereafter.
-
-**Classical tafsir:** Ibn Kathir notes: Ibn Jarir recorded that Ibn 'Abbas said that this Ayah still applies and should be implemented.
-
-**From the Sunnah:** this Ayah still applies and should be implemented.
 ## Personal Reflections
-
 

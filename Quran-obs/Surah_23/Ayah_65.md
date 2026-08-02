@@ -139,13 +139,5 @@ Although the Holy Prophet ﷺ and his companions, when faced ill-treatment from 
 
 They will be told, “Do not cry for help today. Surely you will never be saved from Us.
 
-## AI Tafsir
-
-**Context:** (from this.) means, the Qur'an which Allah revealed to His Messenger ﷺ. (In pride, talking evil about it by night.) refers to the arrogant pride which the Quraysh felt because they believed themselves to be the guardians…
-
-**What this ayah teaches:** The rich people have been specially mentioned here because they are the ones who make adequate arrangements to protect themselves against disasters and misfortunes. Certainly you shall not be helped by Us (65)Indeed My Ayat used to be recited to you, but you used to turn back on your heels (66)In pride, talking evil about it by night .
-
-**Classical tafsir:** Ibn Kathir notes: The rich people have been specially mentioned here because they are the ones who make adequate arrangements to protect themselves against disasters and misfortunes.
 ## Personal Reflections
-
 

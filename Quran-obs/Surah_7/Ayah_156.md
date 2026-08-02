@@ -312,15 +312,5 @@ The next verse, however, has indicated that people who shall perfectly fit the a
 
 Ordain for us what is good in this life and the next. Indeed, we have turned to You.” Allah replied, “I will inflict My torment on whoever I will. But My mercy encompasses everything. I will ordain mercy for those who shun evil, pay zakat, and believe in Our revelations.
 
-## AI Tafsir
-
-**Context:** (and give the Zakah), purify themselves, according to one opinion. It was also said that, 'the Zakah', here pertains to wealth.
-
-**What this ayah teaches:** Whenever mercy is mentioned along with forgiveness [such as in Musa's supplication to Allah], it includes the hope that Allah does not permit one to fall into that act again.
-
-**Classical tafsir:** Ibn Kathir notes: The verse 156 contains the last portion of the prayer.
-
-**From the Sunnah:** When the Messenger of Allah ﷺ finished the prayer, that man untied his camel mounted it and supplicated aloud, 'O Allah! (Musnad Ahmad) He left with Him ninety-nine mercies, so do you say that this man is more misguided or his camel?) Ahmad and Abu Dawud collected this Hadith. (Sunan Abi Dawud)
 ## Personal Reflections
-
 

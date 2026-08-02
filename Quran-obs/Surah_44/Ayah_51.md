@@ -162,13 +162,5 @@ Let us carefully analyze the six verses in this set. The dwelling of the inmates
 
 Indeed, the righteous will be in a secure place,
 
-## AI Tafsir
-
-**What this ayah teaches:** The State of Those Who have Taqwa and the Delights.They will enjoy in Paradise When Allah describes the state of the doomed, He follows that with a description of the life of the blessed. The current set of verses describes the eternal blessings of Paradise.
-
-**Classical tafsir:** Ibn Kathir notes: The State of Those Who have Taqwa and the Delights.They will enjoy in Paradise When Allah describes the state of the doomed, He follows that with a description of the life of the blessed.
-
-**From the Sunnah:** It was reported in the Two Sahihs that the Messenger of Allah ﷺ said: Paradise and Hell, then it will be slaughtered.
 ## Personal Reflections
-
 

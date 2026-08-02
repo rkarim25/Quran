@@ -178,15 +178,5 @@ The subject of Jihad and Hijrah were taken up in previous verses. Since travel i
 
 When you travel through the land, it is permissible for you to shorten the prayer— if you fear an attack by those who reject the truth. Indeed, those who reject the truth are your sworn enemies.
 
-## AI Tafsir
-
-**Context:** (if you fear that the those who reject the truth may put you in trial (attack you)), refers to the typical type of fear prevalent when this Ayah was revealed.
-
-**What this ayah teaches:** Since travel is involved in Jihad and Hijrah under most conditions, the likelihood of confrontation with the enemy is strong and frequent while making such a trip.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, special mention has been made in the verses cited above of some particular leaves and concessions in the performance of Sarah in due consideration of travel and its dangers.
-
-**From the Sunnah:** In the beginning of Islam, and after the Hijrah, Muslims used to experience fear during most of their travels. this Hadith. (Sahih Muslim, Jami' at-Tirmidhi)
 ## Personal Reflections
-
 

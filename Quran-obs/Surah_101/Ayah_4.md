@@ -156,11 +156,5 @@ Ends here
 
 It is the Day humanity will scatter like moths thrown into light—panicked, directionless, fragile.
 
-## AI Tafsir
-
-**What this ayah teaches:** Qatadah said, "He will fall into the Hellfire on his head." Abu Salih made a similar statement when he said, "They will fall into the Fire on their heads." It has also been said that it means his mother that he will return to and end up with in the Hereafter will be Hawiyah, which is one of the names of the Hellfire.
-
-**Classical tafsir:** Ibn Kathir notes: Qatadah said, "He will fall into the Hellfire on his head." Abu Salih made a similar statement when he said, "They will fall into the Fire on their heads." It has also been said that it means his mother that he will return to and end up with in the Hereafter will be Hawiyah, which is one of the name…
 ## Personal Reflections
-
 

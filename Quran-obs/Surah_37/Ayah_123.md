@@ -136,13 +136,5 @@ In short, it is not proved from any authentic Islamic report that Sayyidna Ilyas
 
 And Elias was indeed one of the messengers.
 
-## AI Tafsir
-
-**What this ayah teaches:** Since the noble Qur'an is no book of history, therefore, rather than describe details of this struggle, it restricts itself to saying only that which was necessary for taking a lesson. But, except for a few votaries of truth, no one listened to him, in fact, tried to harass him in all sorts of ways, so much so that Ahab and his wife, Isabelle planned to kill him.
-
-**Classical tafsir:** Ibn Kathir notes: 'Ikrimah and Qatadah said, "This is the language of the people of Yemen." According to another report from Qatadah, it is the language of Azd Shanu'ah.
-
-**From the Sunnah:** Qatadah and Muhammad bin Ishaq said, "Ilyas is another name for Idris." Ibn Abi Hatim recorded that 'Abdullah bin Mas'ud, may Allah be pleased with him, said, "Ilyas is Idris." This was also the view of Ad-Dahhak .
 ## Personal Reflections
-
 

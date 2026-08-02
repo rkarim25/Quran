@@ -88,11 +88,5 @@ This verse directs the Holy Prophet ﷺ to tell his people the story of the piou
 
 And remember the one who guarded her chastity, so We breathed into her through Our angel, Gabriel, making her and her son a sign for all peoples.
 
-## AI Tafsir
-
-**What this ayah teaches:** And she who guarded her chastity, We breathed into her through Our Ruh, and We made her and her son a sign for nations .
-
-**Classical tafsir:** Ibn Kathir notes: He mentions the story of Zakariyya first, followed by the story of Maryam because the one is connected to the other.
 ## Personal Reflections
-
 

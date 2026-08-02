@@ -84,13 +84,5 @@ In verse 69, it was said: مَا كَانَ لِيَ مِنْ عِلْمٍ بِ�
 
 What is revealed to me is only that I am sent with a clear warning."
 
-## AI Tafsir
-
-**Context:** Say: "I am only a warner and there is no Allah (worthy of worship) except Allah the One, the Irresistible, (65)"The Lord of the heavens and the earth and all that is between them, the Almighty, the Oft-Forgiving.
-
-**What this ayah teaches:** Say: "I am only a warner and there is no Allah (worthy of worship) except Allah the One, the Irresistible, (65)"The Lord of the heavens and the earth and all that is between them, the Almighty, the Oft-Forgiving.
-
-**Classical tafsir:** Ibn Kathir notes: This is similar to a younger person questioning an elder person, who refers to that question and answer, in a frank and casual manner, as a debate or quarrel.
 ## Personal Reflections
-
 

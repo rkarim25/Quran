@@ -127,11 +127,5 @@ That the noble Sahabah did so was the result of the great feeling of love and th
 
 They are the ones who honour Allah's covenant and never break the pledge.
 
-## AI Tafsir
-
-**What this ayah teaches:** People who were parties to this solemn pledge were so true to their word of honour that, should they happen to drop their whip from their hand while riding, they would never ask anyone to pick up and hand over that whip to them.
-
-**Classical tafsir:** Ibn Kathir notes: One of them would die while his need is still in his chest, because he was unable to satisfy it himself.
 ## Personal Reflections
-
 

@@ -168,17 +168,5 @@ It has been reported that Sayyidna ` Ali ؓ said: 'Anyone who takes a Muslim man
 
 The dunya has been made appealing to those who reject, and they mock the believers. But those who live with taqwa will rank above them on the Day of Judgment. Allah provides for whomever He wills without limit.
 
-## AI Tafsir
-
-**Essence** Worldly life is made dazzling to those who reject faith, so they mock the believers; yet the people of taqwa will tower above them on the Day of Resurrection, for honor and provision rest entirely with Allah.
-
-**What it teaches** Why do the disbelievers ridicule the faithful? Because the glitter of the dunya (this worldly life) has them in its grip: they collect wealth yet refuse to spend it on what Allah commanded, and so they scorn the believers who give for His sake. Taqwa — a watchful consciousness of Allah that says no to kufr and shirk — is what raises the believers "fawqahum," above them, at the Resurrection. The closing words, "Allah provides for whoever He wills without limit (bighayri hisab)," dismantle the pride of the wealthy: rizq and real honor descend by Allah's decree, never from human riches or influence.
-
-**The scholars** Ibn Kathir explains that Allah made this life beautiful to the disbelievers who are "satisfied with it, who collect wealth, but refrain from spending it on what they have been commanded," so they ridicule the believers who instead spend "seeking Allah's Face" — and for this the believers gain "the highest grades in the utmost highs," while the disbelievers reside "in the lowest of lows (in the Fire)." He reads "without limit" as Allah giving sustenance "without count or limit in this and the Hereafter." Maarif ul Quran traces the root of opposing truth to love of the dunya: "When materialism overpowers, the urge for faith evaporates," so chiefs of the Israelites and ignorant polytheists mocked poor Muslims; yet the verse warns "those who pride on their brute economic strength," since "real honour cannot be anything other than what turns out to be valid in the sight of Allah" — to claim honor on "the crutches of worldly riches" is a plain "absence of sense." Maarif also relays from Sayyidna Ali (via al-Qurtubi) that whoever demeans a Muslim for his poverty, "Allah Almighty will put him to disgrace before a gathering of all, from the first to the last."
-
-**From the Sunnah** The Prophet ﷺ said: "O Bilal! Spend and do not fear deprivation from the Owner of the Throne." And it is reported in the Sahih that two angels descend each morning, one praying, "O Allah! Compensate every person who spends in Your cause," the other, "O Allah! Destroy every miser" — which is why the giver is enriched and the hoarder ruined. The Prophet ﷺ also warned how a man clings to what is not truly his: "The son of Adam says, 'My money, my money!' Yet what is your money except what you eat and use up, wear and wear out, and spend in charity and so keep — the rest will go and be left for others." (All cited by Ibn Kathir)
-
-**Reflection** Do not be dazzled by the wealth or the scorn of those who reject faith. What you cling to feeds you nothing beyond what you consume or give away; what you spend for Allah is the only portion that stays. So give freely, honor the poor believer, and leave the verdict on true rank to the Day when it is finally settled.
 ## Personal Reflections
-
 

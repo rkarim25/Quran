@@ -206,11 +206,5 @@ So, whatever good there is in gratitude, that is for you alone. There-fore, when
 
 Have you not heard of those before you—Noah's people, 'Ad, Thamud, and those after them? Only Allah knows their number. Their messengers came with clear proofs, but they covered their mouths and said: "We reject what you were sent with, and we are in alarming doubt about what you invite us to."
 
-## AI Tafsir
-
-**What this ayah teaches:** Earlier Nations disbelieved in Their Prophets Allah narrated to this Ummah (followers of Muhammad ﷺ) the stories of the people of Prophet Nuh, 'Ad and Thamud, and other ancient nations that belied their Messengers.
-
-**Classical tafsir:** Ibn Kathir notes: Mujahid, Muhammad bin Ka'b and Qatadah said that they belied the Messengers and refuted their call with their mouths.
 ## Personal Reflections
-
 

@@ -80,11 +80,5 @@ This was a proof from Allah for Musa and a great miracle. This was something tha
 
 So he did, then—behold!—it became a serpent, slithering.
 
-## AI Tafsir
-
-**What this ayah teaches:** In other words, that which is in your right hand is a stick that you are familiar with. It was a snake, moving quickly.) This means that the stick changed into a huge snake, like a long python, and it moved with rapid movements.
-
-**Classical tafsir:** Ibn Kathir notes: It was a snake, moving quickly.) This means that the stick changed into a huge snake, like a long python, and it moved with rapid movements.
 ## Personal Reflections
-
 

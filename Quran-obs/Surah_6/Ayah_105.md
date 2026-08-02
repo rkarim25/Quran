@@ -129,13 +129,5 @@ Then, said along with it was: وَلِنُبَيِّنَهُ لِقَوْمٍ ي
 
 And so We vary our signs to the extent that they will say, “You have studied,” and We make this clear for people who know.
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, Basa'ir (proofs) have come to you from your Lord, so whosoever sees, will do so for (the good of) himself, and whosoever blinds himself, will do so against himself, and I am not a 'Hafīz' over you (104)Thus We explain variously the verses so that they (the those who reject the truth) may say: "You have Darasta (studied)" and that We may make the matter clear for the people who have knowledge (105).
-
-**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas, Mujahid, Sa'id bin Jubayr and Ad-Dahhak said similarly.
-
-**From the Sunnah:** Basa'ir are the proofs and evidences in the Qur'an and the Message of Allah's Messenger ﷺ. he heard Ibn 'Abbas saying, "Darasta, means, 'recited, argued and debated.'" This is similar to Allah's statement about the denial and rebellion of the those who reject the truth,
 ## Personal Reflections
-
 

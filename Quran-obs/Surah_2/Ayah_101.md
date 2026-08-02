@@ -302,17 +302,5 @@ The Torah had already given the Jews the good tidings of the coming of the Holy 
 
 When a messenger from Allah came to them confirming what they had, a group among the People of the Book threw Allah's Book behind their backs as if they did not know.
 
-## AI Tafsir
-
-**Essence** When the Messenger ﷺ came confirming their own Scripture, a party of the People of the Book flung Allah's Book — *nabadha* — behind their backs, as if they did not know.
-
-**What it teaches** The Torah had foretold him; he came as *musaddiq*, confirming it. So rejecting him was rejecting their own Book — ignorance feigned, not real.
-
-**The scholars** As-Suddi relates (in Ibn Kathir): they sought to refute him from the Tawrah, but Tawrah and Qur'an affirmed each other — so they traded it for the Book of Asaf and the magic tied to the trial of Harut and Marut. Qatadah: "They knew the truth but abandoned it, hid it and denied the fact that they even had it." Maarif ul Quran: kufr even in terms of the Torah itself.
-
-**From the Sunnah** Of the lore they turned to instead, Ibn Kathir cites: "Whoever came to a soothsayer or a sorcerer and believed in what he said, will have disbelieved in what Allah revealed to Muhammad ﷺ" (Abu Bakr Al-Bazzar; graded authentic by Ibn Kathir) — kufr because it credits men's claims to the unseen over Allah's revelation.
-
-**Reflection** Knowledge unlived is knowledge thrown behind the back — keep Allah's Book before your eyes, and let it lead you.
 ## Personal Reflections
-
 

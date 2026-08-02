@@ -118,11 +118,5 @@ Allah tells us that man never gets bored of asking his Lord for good things, suc
 
 One never tires of praying for good. But if touched with evil, they become desperate and hopeless.
 
-## AI Tafsir
-
-**What this ayah teaches:** But when We have removed his harm from him, he passes on as if he had never invoked Us for a harm that touched him!)(10:12) Therefore ` ajamiyy is a person who is non-Arab, even though he may speak eloquently, and a'jamiyy is a person who cannot speak eloquently (Qurtubi).
-
-**Classical tafsir:** Ibn Kathir notes: Therefore ` ajamiyy is a person who is non-Arab, even though he may speak eloquently, and a'jamiyy is a person who cannot speak eloquently (Qurtubi).
 ## Personal Reflections
-
 

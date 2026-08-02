@@ -138,11 +138,5 @@ As it appears in some narratives, this verse was revealed in response to a quest
 
 That is because Allah alone is the Truth, and what they invoke besides Him is falsehood, and because Allah alone is the Most High, the Magnificent.
 
-## AI Tafsir
-
-**Context:** As it appears in some narratives, this verse was revealed in response to a question posed by Jewish priests. The reason which prompted them to ask this question was the verse of the Qur'an where it has been said: وَمَا أ…
-
-**What this ayah teaches:** See you not that Allah merges the night into the day, and merges the day into the night, and has subjected the sun and the moon, each running its course for a term appointed; and that Allah is All-Aware of what you do (29)That is because Allah, He is the Truth, and that which they invoke besides Him is falsehood; and that Allah, He is the Most High, the Most Great .
 ## Personal Reflections
-
 

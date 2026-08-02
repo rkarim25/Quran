@@ -165,11 +165,5 @@ These verses were revealed on a special occasion. Tabari and others have related
 
 Is there a sickness in their hearts? Or are they in doubt? Or do they fear that Allah and His Messenger will be unjust to them? In fact, it is they who are the true wrongdoers.
 
-## AI Tafsir
-
-**Context:** (And when they are called to Allah and His Messenger, to judge between them...) means, when they are asked to follow the guidance which Allah has revealed to His Messenger ﷺ, they turn away and are too arrogantly proud o…
-
-**What this ayah teaches:** Nay, it is they themselves who are the wrongdoers (50)The only saying of the faithful believers, when they are called to Allah and His Messenger, to judge between them, is that they say: "We hear and we obey." And such are the successful (51)And whosoever obeys Allah and His Messenger, fears Allah, and has Taqwa of Him, such are the successful .
 ## Personal Reflections
-
 

@@ -90,13 +90,5 @@ Another basharah (good news) of this world unfolds in the form that Muslims at l
 
 Do not let their words grieve you O Prophet. Surely all honour and power belongs to Allah. He is the All-Hearing, All-Knowing.
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, to Allah belongs whosoever is in the heavens and whosoever is in the earth.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** Another basharah (good news) of this world unfolds in the form that Muslims at large love someone and take him to be good without any personal motive or interest. (Sahih Muslim)
 ## Personal Reflections
-
 

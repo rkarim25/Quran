@@ -232,13 +232,5 @@ It was narrated earlier that one of the evil practices of some of the Jews of Ma
 
 O believers: when you speak privately, let it not be for sin, hostility, or disobedience to the Messenger, but for goodness and righteousness. Fear Allah, to whom you will all be gathered.
 
-## AI Tafsir
-
-**What this ayah teaches:** Have you not seen those who were forbidden to hold secret counsels, and afterwards returned to that which they had been forbidden, and conspired together for sin and wrongdoing and disobedience to the Messenger.
-
-**Classical tafsir:** Ibn Kathir notes: The word 'As-Sam' means 'death' instead of 'As-Salam' which means 'peace'.
-
-**From the Sunnah:** The Prophet ﷺ advised them to abandon their evil secret talks, but they did not listen and kept on holding the Najwa. the Jews used to say, "Sam 'Alayka," to Allah's Messenger ﷺ. (Musnad Ahmad)
 ## Personal Reflections
-
 

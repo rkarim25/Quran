@@ -160,13 +160,5 @@ Under the phrase above طَبَقًا عَن طَبَقٍ tabaqan ` an tabaq 'fr
 
 by the night and whatever it gathers in,
 
-## AI Tafsir
-
-**What this ayah teaches:** And when the Qur'an is recited to them, they fall not prostrate.) meaning, what prevents them from believing in Allah, His Messenger ﷺ and the Last Day, and what is wrong with them that when Allah's Ayat and His Words are recited to them they do not prostrate due to awe, respect and reverence?
-
-**Classical tafsir:** Ibn Kathir notes: The primitive sense of the word wasaqa means to 'pile, gather, heap up the thing'.
-
-**From the Sunnah:** His main goal in this life should be to cultivate for the next life as the Prophet ﷺ said:
 ## Personal Reflections
-
 

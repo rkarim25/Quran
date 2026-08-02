@@ -124,11 +124,5 @@ Sayyidna Salih (علیہ السلام) warned them: If Allah Ta` ala shows you y
 
 They argued, “O Hûd! You have not given us any clear proof, and we will never abandon our gods upon your word, nor will we believe in you.
 
-## AI Tafsir
-
-**What this ayah teaches:** And we are not believers in you (53)All that we say is that some of our gods (false deities) have seized you with evil (madness).
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

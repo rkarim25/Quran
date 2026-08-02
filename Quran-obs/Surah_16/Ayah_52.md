@@ -108,11 +108,5 @@ First of all, by using the word: رَبّ (Rabb: Lord) here, the hint given is t
 
 To Him belongs whatever is in the heavens and the earth, and to Him alone is the everlasting devotion. Will you then fear any other than Allah?
 
-## AI Tafsir
-
-**What this ayah teaches:** Then fear Me Alone (51)To Him belongs all that is in the heavens and the earth and the religion.
-
-**Classical tafsir:** Ibn Kathir notes: It was also reported that Ibn 'Abbas said, "It means obligatory." Mujahid said: "It means purely for Him," i.e., worship is due to Him Alone, from whoever is in the heavens and on earth.
 ## Personal Reflections
-
 

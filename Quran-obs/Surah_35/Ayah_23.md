@@ -100,11 +100,5 @@ This verse has itself clarified it that, at this place, making someone hear mean
 
 You are only a warner.
 
-## AI Tafsir
-
-**What this ayah teaches:** This proves that the negation of making the ( dead hear referred to in this verse means a particular listening that is beneficial, something because of which the listener forsakes the false and takes to the true. And there never was a nation but a warner had passed among them (24)And if they deny you, those before them also denied.
-
-**Classical tafsir:** Ibn Kathir notes: This proves that the negation of making the ( dead hear referred to in this verse means a particular listening that is beneficial, something because of which the listener forsakes the false and takes to the true.
 ## Personal Reflections
-
 

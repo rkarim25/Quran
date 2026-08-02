@@ -172,13 +172,5 @@ All these virtues were already part of the habits and traits of the Holy Prophet
 
 Walk with moderation. Lower your voice, for the harshest of voices is the braying of donkeys.
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, the harshest of all voices is the braying of the asses.
-
-**Classical tafsir:** Ibn Kathir notes: And whosoever does evil equal to the weight of a speck of dust shall see it.)(99:7-8) Even if this tiny thing were to be hidden inside a solid rock or anywhere in the heavens and the earth, Allah will bring it forth, because nothing is hidden from Him, not even the weight of a sp…
-
-**From the Sunnah:** Likening a loud voice to that of a donkey implies that it is forbidden and extremely blameworthy, because the Messenger of Allah ﷺ said:
 ## Personal Reflections
-
 

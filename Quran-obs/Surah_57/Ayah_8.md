@@ -261,13 +261,5 @@ The answer to this question is that the unbelievers did not deny the existence o
 
 What is the matter with you that you do not believe in Allah when the Messenger calls you to have iman in your Rabb, and He has already taken your pledge—if you are truthful?
 
-## AI Tafsir
-
-**What this ayah teaches:** Ibn Jarir said that the covenant mentioned here, is that taken from mankind, when they were still in Adam's loin.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, O mankind, spend as Allah commanded you from the wealth that He entrusted to you for His obedience.
-
-**From the Sunnah:** And we have reported the Hadith through different routes in the beginning of the explanation on the chapter on Faith in Sahih Al-Bukhari, wherein one day the Messenger of Allah ﷺ said to his Companions, (Sahih al-Bukhari) Before Makkah was conquered, things were difficult for Muslims and only the righteous ones embraced Islam.
 ## Personal Reflections
-
 

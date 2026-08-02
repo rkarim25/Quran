@@ -319,11 +319,5 @@ And Sayyidna al-Murtada ؓ said: 'Even the smallest deed done with Taqwa is not 
 
 Relate to them in truth the story of Adam’s two sons—how each offered a sacrifice: Abel’s offering was accepted while Cain’s was not. So Cain threatened, “I will kill you!” His brother replied, “Allah only accepts of the sincerely devout.
 
-## AI Tafsir
-
-**Context:** In addition to what has been said above, through this very word, the addressees of the Holy Qur'an are also being chastened and guided to the fact that their noble prophet, on him be the peace and blessing of Allah, who…
-
-**What this ayah teaches:** And recite to them the story of the two sons of Adam in truth; when each offered a sacrifice, it was accepted from the one but not from the other. Habil (Abel) and Qabil (Cain) In these verses, Allah Ta` a1a has instructed the Holy Prophet ﷺ that he should relate the story of the two sons of Adam truthfully to the people of the Book, or to the whole Ummah.
 ## Personal Reflections
-
 

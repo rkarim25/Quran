@@ -143,11 +143,5 @@ In the previous verses, the command given was to shun Shirk and believe in the p
 
 Say, “I truly fear—if I were to disobey my Rabb—the torment of a tremendous Day.”
 
-## AI Tafsir
-
-**What this ayah teaches:** "And be not you of the idolators (14)Say: "I fear, if I disobey my Lord, the torment of a Mighty Day.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

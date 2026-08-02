@@ -304,13 +304,5 @@ May Allah Almighty bestow upon us the good fortune to become possessed with thes
 
 Those who, upon committing an evil deed or wronging themselves, remember Allah and seek forgiveness and do not knowingly persist in sin—and who forgives sins except Allah?
 
-## AI Tafsir
-
-**What this ayah teaches:** Do not consume Riba doubled and multiplied, but fear Allah that you may be successful (130)And fear the Fire, which is prepared for the those who reject the truth (131)And obey Allah and the Messenger that you may obtain mercy (132)And march forth in the way (which leads to) forgiveness from your Lord, and for Paradise as wide as the heavens and the earth, prepared for the Muttaqin (the pious)(133)Those who spe…
-
-**Classical tafsir:** Ibn Kathir notes: Allah also commands His servants to have Taqwa of Him so that they may achieve success in this life and the Hereafter.
-
-**From the Sunnah:** a man came to the Messenger of Allah ﷺ and asked him, about Allah's statement, This Hadith was recorded by Imam Ahmad, its chain of narration is good, it does not contain any disparraged narrators, and the meaning is good. (Musnad Ahmad)
 ## Personal Reflections
-
 

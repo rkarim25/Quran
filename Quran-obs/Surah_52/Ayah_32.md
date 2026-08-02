@@ -115,13 +115,5 @@ Allah's Fairness to Sinners
 
 Or do their minds command them to this? Or are they simply a people who transgress?
 
-## AI Tafsir
-
-**What this ayah teaches:** They believe not (33)Let them then produce a recitation like unto it if they are truthful . And even if they combine their strength to that of the people of the earth, Jinns and mankind alike, they will never produce something like the Qur'an, or ten Surahs like it, or even one Surah!
-
-**Classical tafsir:** Ibn Kathir notes: I am with you among those who wait!") 'wait and I too will wait with you, and you will come to know to whom the good end and triumph shall be granted in this life and the Hereafter.' Muhammad bin Ishaq reported that 'Abdullah bin Abi Najih said that Mujahid said that Ibn 'Abbas said, "When the Quray…
-
-**From the Sunnah:** Next, Allah refutes the false accusations that the liars and sinners accused the Prophet ﷺ of, Allah the Exalted said, while chastising the pagans for uttering false statements about the Prophet ﷺ,
 ## Personal Reflections
-
 

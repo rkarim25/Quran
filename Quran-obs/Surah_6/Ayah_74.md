@@ -214,13 +214,5 @@ The brotherhood of Sayyidna Ibrahim and his father were involved in a two-fold S
 
 And when Abraham said to his father, Ȃzar, “Do you take idols as gods? It is clear to me that you and your people are entirely misguided.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Since calling an uncle as father is common in Arab usage, 'Azar has been named here as Sayyidna Ibrahim's father.
-
-**Classical tafsir:** Ibn Kathir notes: This indicates the great sacrifice Sayyidna Ibrahim offered in the way of Allah by cutting off his bonds with his disbelieving brotherhood.
-
-**From the Sunnah:** Thus, by his deed, he demonstrated that Muslim nationality is founded through the bonds of Islam. (Sahih Muslim) Among Muslims, Islam as the identity of their nationhood became well-recognized. (Sahih al-Bukhari)
 ## Personal Reflections
-
 

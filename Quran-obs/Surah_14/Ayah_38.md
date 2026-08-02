@@ -166,11 +166,5 @@ However, ثَمَرَۃ thamrah or fruit is also used in the sense of outcome an
 
 Our Rabb, You know what we conceal and reveal. Nothing on earth or in heaven is hidden from Allah.
 
-## AI Tafsir
-
-**What this ayah teaches:** Nothing on the earth or in the heaven is hidden from Allah.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, there is no contradiction between this statement and the comment made on the verse 35.
 ## Personal Reflections
-
 

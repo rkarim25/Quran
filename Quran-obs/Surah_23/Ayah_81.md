@@ -132,11 +132,5 @@ It has been mentioned earlier that the Holy Prophet ﷺ had prayed to Allah to p
 
 But they just say what their predecessors said.
 
-## AI Tafsir
-
-**What this ayah teaches:** This is only the tales of the ancients!") This means, "It is impossible that we could be brought back. They said: "When we are dead and have become dust and bones, shall we be resurrected indeed?") They thought it very unlikely that this would happen after they had disintegrated into nothing.
-
-**Classical tafsir:** Ibn Kathir notes: This is only the tales of the ancients!") This means, "It is impossible that we could be brought back.
 ## Personal Reflections
-
 

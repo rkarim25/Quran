@@ -489,13 +489,5 @@ Abridged below is what Hafiz Ibn Taymiyyah (رح) has said in al-'Aqidatul Wasit
 
 Then after distress, He sent down serenity in the form of drowsiness overcoming some of you, while others were disturbed by evil thoughts about Allah—the thoughts of ignorance. They ask, “Do we have a say in the matter?” Say, “All matters are destined by Allah.” They conceal in their hearts what they do not reveal to you. They say, “If we had any say in the matter, none of us would have come to die here.” Say, “Even if you were to remain in your homes, those among you who were destined to be killed would have met the same fate.” Through this, Allah tests what is within you and purifies what is in your hearts. And Allah knows best what is in the heart.
 
-## AI Tafsir
-
-**What this ayah teaches:** Slumber Overcame the Believers; the Fear that the Hypocrites Suffered Allah reminds His servants of His favor when He sent down on them tranquillity and slumber that overcame them while they were carrying their weapons and feeling distress and grief.
-
-**Classical tafsir:** Ibn Kathir notes: In other words, all deeds - good and bad - have a sort of magnetic pull of their own.
-
-**From the Sunnah:** from Anas that Abu Talhah said, "On the day of Uhud, I raised my head and looked around and found that everyone's head was nodding from slumber." This is the wording of At-Tirmidhi, who said, "Hasan Sahih". (Sahih al-Bukhari, Jami' at-Tirmidhi) As for his statement that I remained behind from participating in Badr, I was nursing Ruqayyah, the daughter of the Messenger of Allah ﷺ, until she passed away.
 ## Personal Reflections
-
 

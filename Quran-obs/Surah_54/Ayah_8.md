@@ -85,11 +85,5 @@ Allah the Exalted says, 'O Muhammad, turn away from these people who, when they 
 
 rushing toward the caller. Those who rejected the truth will cry: This is a hard Day!
 
-## AI Tafsir
-
-**What this ayah teaches:** The Day that the caller will call (them) to a terrible thing (6)They will come forth, with humbled eyes from (their) graves as if they were locusts spread abroad (7)Hastening towards the caller. The word muhti` in literally denotes walking quickly with one's head raised above.
-
-**Classical tafsir:** Ibn Kathir notes: The word muhti` in literally denotes walking quickly with one's head raised above.
 ## Personal Reflections
-
 

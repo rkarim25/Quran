@@ -132,13 +132,5 @@ That this punishment would be everlasting for disbelievers has been made clear t
 
 They will be desperate to get out of the Fire but they will never be able to. And they will suffer an everlasting punishment.
 
-## AI Tafsir
-
-**What this ayah teaches:** Have Taqwa of Allah and seek the Wasilah to Him, and strive hard in His cause, so that you may be successful (35)Verily, those who disbelieve, if they had all that is in the earth, and as much again therewith to ransom themselves thereby from the torment on the Day of Resurrection, it would never be accepted of them.
-
-**Classical tafsir:** Ibn Kathir notes: Have Taqwa of Allah and seek the Wasilah to Him, and strive hard in His cause, so that you may be successful (35)Verily, those who disbelieve, if they had all that is in the earth, and as much again therewith to ransom themselves thereby from the torment on the Day of Resurrectio…
-
-**From the Sunnah:** Paradise, and it is the grade of the Messenger of Allah ﷺ, his residence and the nearest grade in Paradise to Allah's Throne. (Sahih al-Bukhari) he heard the Prophet ﷺ saying, (Sahih Muslim)
 ## Personal Reflections
-
 

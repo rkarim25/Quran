@@ -182,11 +182,5 @@ Now attention is drawn to the comforts we get from the sky. The most useful thin
 
 placed a blazing lamp in them,
 
-## AI Tafsir
-
-**What this ayah teaches:** And We have built above you seven strong,)(13.
-
-**Classical tafsir:** Ibn Kathir notes: And We have built above you seven strong,)(13.
 ## Personal Reflections
-
 

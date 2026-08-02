@@ -120,11 +120,5 @@ They said: 'Salih claims that he will finish with us in three days, but we will 
 
 And there were in the city nine elite men who spread corruption in the land, never doing what is right.
 
-## AI Tafsir
-
-**What this ayah teaches:** Imam Malik narrated from Yahya bin Sa'id that Sa'id bin Al-Musayyib said: "Cutting gold and silver (coins) is part of spreading corruption on earth." What is meant is that the nature of these evil those who reject the truth was to spread corruption on earth by every means possible, one of which was that mentioned by these Imams.
-
-**Classical tafsir:** Ibn Kathir notes: Al-'Awfi reported that Ibn 'Abbas said: "These were the people who killed the she-camel," Meaning, that happened upon their instigation, may Allah curse them.
 ## Personal Reflections
-
 

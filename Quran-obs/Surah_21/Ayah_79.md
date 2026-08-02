@@ -225,13 +225,5 @@ Glorification of Allah by birds and mountains
 
 We guided young Solomon to a fairer settlement, and granted each of them wisdom and knowledge. We subjected the mountains as well as the birds to hymn Our praises along with David. It is We Who did it all.
 
-## AI Tafsir
-
-**What this ayah teaches:** And (remember) Dawud and Sulayman, when they gave judgement in the case of the field in which the sheep of certain people had Nafashat; and We were witness to their judgement (78)And We made Sulayman to understand (the case); and to each of them We gave wisdom (Hukm) and knowledge. And We subjected the mountains and the birds to glorify Our praises along with Dawud.
-
-**Classical tafsir:** Ibn Kathir notes: Qatadah said that before that, they used to wear plated armor; he was the first one to make rings of chain-armor. This Hadith also explains that the difference among the scholars on this issue is one of semantics only.
-
-**From the Sunnah:** Ibn Abi Hatim recorded that when Iyas bin Mu'awiyah was appointed as a judge, Al-Hasan came to him and found Iyas weeping.
 ## Personal Reflections
-
 

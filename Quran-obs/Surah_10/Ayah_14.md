@@ -80,11 +80,5 @@ This tells us that worldly power is not something to be proud of or arrogant abo
 
 Then We made you their successors in the land to see how you would act.
 
-## AI Tafsir
-
-**What this ayah teaches:** Thus do We requite the people who are criminals (13)Then We made you successors after them, generations after generations in the land, that We might see how you would work . Allah then made this nation successors after them.
-
-**Classical tafsir:** Ibn Kathir notes: But, let this not give you any false idea that this vice-regency of the earth has been given to you so that you could have a good time.
 ## Personal Reflections
-
 

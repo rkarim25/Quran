@@ -130,11 +130,5 @@ We have already discussed the significance of the separate letters.
 
 and to establish them in the land; and through them show Pharaoh, Hamân, and their soldiers the fulfilment of what they feared.
 
-## AI Tafsir
-
-**What this ayah teaches:** And We wished to do a favor to those who were weak in the land, and to make them rulers and to make them the inheritors,)(6. And to establish them in the land, and We let Fir'awn and Haman and their armies receive from them that which they feared.).
-
-**Classical tafsir:** Ibn Kathir notes: And We wished to do a favor to those who were weak in the land, and to make them rulers and to make them the inheritors,)(6.
 ## Personal Reflections
-
 

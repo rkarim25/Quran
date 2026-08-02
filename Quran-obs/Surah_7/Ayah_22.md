@@ -161,13 +161,5 @@ Detailed comments have been given in the Tafsir of that Surah. If needed, please
 
 So he brought about their fall through deception. And when they tasted of the tree, their nakedness was exposed to them, prompting them to cover themselves with leaves from Paradise. Then their Rabb called out to them, “Did I not forbid you from that tree and tell you that Satan is your sworn enemy?”
 
-## AI Tafsir
-
-**What this ayah teaches:** Then when they tasted of the tree, that which was hidden from them of their shame (private parts) became manifest to them and they began to cover themselves with the leaves of Paradise. So he started running in fright through Paradise, but a tree in Paradise took him by the head.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** Paradise, but a tree in Paradise took him by the head.
 ## Personal Reflections
-
 

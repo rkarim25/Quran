@@ -227,13 +227,5 @@ Abu Hurayrah ؓ reports Allah's Messenger ﷺ as saying: "When the spoils of war
 
 Some of them listen to you, but when they leave they say mockingly to those gifted with knowledge, 'What did he just say?' These are people whose hearts Allah has sealed, and who follow only their desires.
 
-## AI Tafsir
-
-**What this ayah teaches:** But already there have come (some of) its portents; and when it (actually) is on them, how can they benefit then by their reminder (18)So know that La ilaha illallah and ask forgiveness for your sin, and also for (the sin of) believing men and women.
-
-**Classical tafsir:** Ibn Kathir notes: The Description of the Situation of the Hypocrites and the Command to maintain Tawhid and seek Forgiveness Allah describes the hypocrites' stupidity and limited understanding.
-
-**From the Sunnah:** They used to sit before Allah's Messenger ﷺ and listen to his words without understanding anything. Allah's Messenger ﷺ has most clearly informed about the signs and indications of the Hour, as we have discussed elsewhere.
 ## Personal Reflections
-
 

@@ -150,13 +150,5 @@ In relation to issues of religious beliefs embedded in this verse, it must be bo
 
 And so your Rabb’s decree has been proven true against the rebellious—that they will never believe.
 
-## AI Tafsir
-
-**What this ayah teaches:** Who protects all, while against Whom there is no protector?
-
-**Classical tafsir:** Ibn Kathir notes: How then are you turned away (32)Thus is the Word of your Lord justified against those who rebel (disobey Allah), that they will not believe .
-
-**From the Sunnah:** This is an established rule in the sight of the majority of scholars in the Muslim Ummah. (Sahih Muslim)
 ## Personal Reflections
-
 

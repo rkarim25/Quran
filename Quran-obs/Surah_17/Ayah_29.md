@@ -130,13 +130,5 @@ In this verse, the Holy Prophet ﷺ is the direct addressee while the entire Mus
 
 Do not be so tight-fisted, for you will be blameworthy; nor so open-handed, for you will end up in poverty.
 
-## AI Tafsir
-
-**Context:** In this verse, the Holy Prophet ﷺ is the direct addressee while the entire Muslim ummah is being addressed through him.
-
-**What this ayah teaches:** And let not your hand be tied (like a miser) to your neck, nor overextend it (like a spendthrift), so that you become blameworthy and in severe poverty (29)Truly, your Lord expands the provision for whom He wills and straitens (for whom He wills).
-
-**Classical tafsir:** Ibn Kathir notes: And let not your hand be tied (like a miser) to your neck, nor overextend it (like a spendthrift), so that you become blameworthy and in severe poverty (29)Truly, your Lord expands the provision for whom He wills and straitens (for whom He wills).
 ## Personal Reflections
-
 

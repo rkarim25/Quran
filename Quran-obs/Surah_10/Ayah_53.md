@@ -94,11 +94,5 @@ It was said in verse أَثُمَّ إِذَا مَا وَقَعَ آمَنتُ�
 
 They ask you O Prophet, “Is this true?” Say, “Yes, by my Rabb! Most certainly it is true! And you will have no escape.”
 
-## AI Tafsir
-
-**What this ayah teaches:** The event related to the people of Sayyidna Yunus going to appear towards the end of the Surah in which their Taubah was accepted falls under this very rule.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, the punishment was withdrawn.
 ## Personal Reflections
-
 

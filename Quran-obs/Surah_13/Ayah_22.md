@@ -187,11 +187,5 @@ After having recounted these nine attributes of the obedient servants of Allah T
 
 They endure with sabr—steadfast endurance that keeps you upright—seeking their Rabb's pleasure, establish salah, give from what We provided, secretly and openly, and respond to harm with good. They will have the ultimate home:
 
-## AI Tafsir
-
-**What this ayah teaches:** Doing it secretly is not appropriate so that other people could be pursuaded and prompted to do the same.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, religious scholars have said that the giving of obligatory Zakah and charities openly is better and more merit-worthy.
 ## Personal Reflections
-
 

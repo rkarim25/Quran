@@ -224,11 +224,5 @@ In verse 69, it was said: وَجِيءَ بِالنَّبِيِّينَ وَال
 
 Those who rejected the truth will be driven to Hell in successive groups. When they arrive there, its gates will be opened and its keepers will ask them: "Did messengers not come to you from among yourselves, reciting to you the revelations of your Lord and warning you of the coming of this Day of yours?" They will cry, "Yes indeed! But the decree of torment has come to pass against us."
 
-## AI Tafsir
-
-**What this ayah teaches:** And those who disbelieved will be driven to Hell in groups till when they reach it, the gates thereof will be opened.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

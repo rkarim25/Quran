@@ -168,13 +168,5 @@ These few examples from the contemporary scene show how deniers were themselves 
 
 And Allah has favoured some of you over others in provision. But those who have been much favoured would not share their wealth with those bondspeople in their possession, making them their equals. Do they then deny Allah’s favours?
 
-## AI Tafsir
-
-**What this ayah teaches:** As for comments under this verse, the purpose was limited to pointing out that the dissimilarity in provision and wealth is very natural and very much in accordance with considerations for human good.
-
-**Classical tafsir:** Ibn Kathir notes: Then, those who are so honored will by no means hand over their wealth and properties to those (captives of war) whom their right hands possess, so that they may be equal with them in that.
-
-**From the Sunnah:** Then, by making a categorical statement that the poor and needy have a right in the wealth of every Muslim, they were admitted as sharers, which is not supposed to be some favour done to them. (Sahih Muslim)
 ## Personal Reflections
-
 

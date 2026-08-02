@@ -78,13 +78,5 @@ In verse 128, it was said: إِلَّا عِبَادَ اللَّـهِ الْم
 
 We blessed him with honourable mention among later generations:
 
-## AI Tafsir
-
-**What this ayah teaches:** Their king believed in him, then he apostatized, and they persisted in their misguided ways, and not one person among them believed in him.
-
-**Classical tafsir:** Ibn Kathir notes: 'Ikrimah and Qatadah said, "This is the language of the people of Yemen." According to another report from Qatadah, it is the language of Azd Shanu'ah.
-
-**From the Sunnah:** Qatadah and Muhammad bin Ishaq said, "Ilyas is another name for Idris." Ibn Abi Hatim recorded that 'Abdullah bin Mas'ud, may Allah be pleased with him, said, "Ilyas is Idris." This was also the view of Ad-Dahhak .
 ## Personal Reflections
-
 

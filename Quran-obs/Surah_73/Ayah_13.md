@@ -128,11 +128,5 @@ Imam Alhmad, Ibn Abi Dawud, Ibn ` Adiyy and Baihaqi record a narration that a pe
 
 choking food, and a painful punishment waiting for them
 
-## AI Tafsir
-
-**What this ayah teaches:** Having described specific forms of punishment, this description is general - indicating that there will be many more horrible and terrible forms of punishment which man cannot even imagine.
-
-**Classical tafsir:** Ibn Kathir notes: This means, 'you should beware of denying this Messenger, lest you be afflicted by that which befell Fir'awn.
 ## Personal Reflections
-
 

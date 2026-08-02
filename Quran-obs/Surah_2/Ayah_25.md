@@ -227,17 +227,5 @@ In giving these good tidings to those who believe, the Holy Qur'an adds another 
 
 Give good news to those who believe and do righteous deeds: they will have Gardens beneath which rivers flow. Whenever they are given fruit there, they will say, "This resembles what we were given before" — though each taste is new. They will have pure spouses, and they will remain there forever.
 
-## AI Tafsir
-
-**Essence** Allah pairs the Fire's warning with glad tidings: faith joined to righteous deeds earns Gardens of flowing rivers, purified spouses, and bliss that never ends (khalidun).
-
-**What it teaches** This tiding is earned only when deeds join faith — though iman alone saves from eternal Fire, and even a sinful Muslim is finally brought out of it (Maarif). The fruits come mutashabihan, alike in look yet new in taste, so joy renews at every moment.
-
-**The scholars** Ibn Kathir: the Qur'an pairs threat with promise (Mathani); rivers run beneath Paradise's trees and rooms. Ibn 'Abbas: nothing there resembles this world "except in name." The spouses: "purified from filth and impurity" (Ibn 'Abbas); "purified from impurity and sin" (Qatadah). Maarif: these joys exist objectively, though not physically as we know it — their nature left to Allah.
-
-**From the Sunnah** "The rivers of Paradise spring from beneath hills, or mountains of musk." (Ibn Abi Hatim)
-
-**Reflection** Treat every sweetness here as only a name shared with what awaits — and let your deeds reach for the real thing.
 ## Personal Reflections
-
 

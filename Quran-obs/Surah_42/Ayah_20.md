@@ -204,13 +204,5 @@ Shah ` Abdul Ghani Phulpuri رحمۃ اللہ علیہ relates from Haji Imdadul
 
 Whoever desires the harvest of the Akhirah, We will increase their harvest. And whoever desires only the harvest of this dunya, We will give them some of it, but they will have no share in the Akhirah.
 
-## AI Tafsir
-
-**What this ayah teaches:** And He is the All-Strong, the Almighty (19)Whosoever desires the reward of the Hereafter, We give him increase in his reward, and whosoever desires the reward of this world, We give him thereof, and he has no portion in the Hereafter (20)Or have they partners with Allah who have instituted for them a religion which Allah has not ordained?
-
-**Classical tafsir:** Ibn Kathir notes: That is why many meanings of the word latif have been stated in the Tafsir of Qurtubi, all of which are covered by the words ` kind' and ` benefactor'.
-
-**From the Sunnah:** It was recorded in the Sahih that the Messenger of Allah ﷺ said:
 ## Personal Reflections
-
 

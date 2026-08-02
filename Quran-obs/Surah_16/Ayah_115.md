@@ -161,15 +161,5 @@ The restrictive particle: اَنَّمَا (innama: only) appearing in verse 115
 
 He has only forbidden you to eat carrion, blood, swine, and what is slaughtered in the name of any other than Allah. But if someone is compelled by necessity—neither driven by desire nor exceeding immediate need—then surely Allah is All-Forgiving, the Rahim.
 
-## AI Tafsir
-
-**Context:** The restrictive particle: اَنَّمَا (innama: only) appearing in verse 115 seems to give the impression that things Haram are no more than the four mentioned in the verse.
-
-**What this ayah teaches:** And be grateful for Allah's favor, if it is He Whom you worship (114)He has only forbidden dead flesh, blood, the flesh of swine, and any animal which is slaughtered as a sacrifice for other than Allah.
-
-**Classical tafsir:** Ibn Kathir notes: and then to Us will be their return, then We shall make them taste the severest torment because they disbelieved.)(10:69-70)
-
-**From the Sunnah:** It seems to be suggestive of nothing being Haram other than the things mentioned in the verse while the fact is that according to clarifications of the Qur'an and Sunnah and by the Consensus of the Muslim Ummah, there are many more things rated as Haram. (Sahih Muslim)
 ## Personal Reflections
-
 

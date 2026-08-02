@@ -170,11 +170,5 @@ The second verse (6) carries details of what was said earlier, that is, when Say
 
 We sent Moses with Our signs, commanding: "Lead your people out of darkness into light, and remind them of Allah's days of favour." In this are signs for whoever is steadfast and grateful.
 
-## AI Tafsir
-
-**What this ayah teaches:** The sentence means that the Days of Allah - that is, past events whether related to the punishment of the deniers of truth, or to the blessings and favours of Allah Ta’ ala - are full of the signs and proofs of the perfect power and eloquent wisdom of Allah Ta’ ala, particularly for a person who is much observing of patience and gratitude.
-
-**Classical tafsir:** Ibn Kathir notes: Story of Musa and His People Allah says here, 'Just as We sent you (O, Muhammad) and sent down to you the Book, in order that you might guide and call all people out of darkness into the light, We also sent Musa to the Children of Israel with Our Ayat (signs, or miracles).' Mujahid said that this pa… The 'Days of Allah' here refers to the events of the past when Allah had graced some people with His…
 ## Personal Reflections
-
 

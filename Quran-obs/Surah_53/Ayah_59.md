@@ -116,11 +116,5 @@ This is the end of the Tafsir of Surat An-Najm. All praise and thanks are due to
 
 Do you marvel at this discourse,
 
-## AI Tafsir
-
-**What this ayah teaches:** This is a warner from the warners of old (56)The Azifah draws near (57)None besides Allah can avert it (58)Do you then wonder at this recitation (59)And you laugh at it and weep not (60)While you are Sāmidūn (61)So fall you down in prostration to Allah and worship Him .
-
-**Classical tafsir:** Ibn Kathir notes: Al-Bukhari recorded that Abu Ma'mar said that 'Abdul-Warith said that Ayyub said that 'Ikrimah said that, Ibn 'Abbas said, "The Prophet ﷺ prostrated upon reciting An-Najm and the Muslims, idolators, Jinns and mankind who were present prostrated along with him." Only Muslim collected this Hadith.
 ## Personal Reflections
-
 

@@ -280,13 +280,5 @@ Let us now explain some expressions of these verses in the background of these e
 
 Whatever is in the heavens and whatever is on the earth glorifies Allah. He is the Almighty, All-Wise.
 
-## AI Tafsir
-
-**Context:** Ibn 'Abbas used to call this chapter, 'Surah Bani An-Nadir.' Sa'id bin Mansur recorded that Sa'id bin Jubayr said, "I asked Ibn 'Abbas about Surat Al-Hashr and he said, 'It was revealed about Bani An-Nadir.'" Al-Bukhari…
-
-**What this ayah teaches:** Whatsoever is in the heavens and whatsoever is on the earth glorifies Allah.
-
-**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas used to call this chapter, 'Surah Bani An-Nadir.' Sa'id bin Mansur recorded that Sa'id bin Jubayr said, "I asked Ibn 'Abbas about Surat Al-Hashr and he said, 'It was revealed about Bani An-Nadir.'" Al-Bukhari and Muslim recorded it using another chain of narration from Ibn 'Abbas.
 ## Personal Reflections
-
 

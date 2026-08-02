@@ -140,13 +140,5 @@ Ibn ` Arabi has said that it is evident from this verse that the desire for a ri
 
 Bless me with honourable mention among later generations.
 
-## AI Tafsir
-
-**What this ayah teaches:** Bestow Hukm on me, and join me with the righteous (83)And grant me an honorable mention in later generations (84)And make me one of the inheritors of the Paradise of Delight (85)And forgive my father, verily, he is of the erring (86)And disgrace me not on the Day when they will be resurrected (87)The Day whereon neither wealth nor sons will avail (88)Except him who brings to Allah a clean heart .
-
-**Classical tafsir:** Ibn Kathir notes: One, when the object is not to proclaim oneself as superior to others and to degrade them to an insignificant position, but for the benefit in the Hereafter, so that others may be influenced to follow his example and try to emulate him.
-
-**From the Sunnah:** Paradise to the those who reject the truth. (Sunan an-Nasa'i)
 ## Personal Reflections
-
 

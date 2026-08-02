@@ -108,11 +108,5 @@ However, it is obvious that these people too were infidels and Dhul-Qarnain hand
 
 until he reached the rising point of the sun. He found it rising on a people for whom We had provided no shelter from it.
 
-## AI Tafsir
-
-**What this ayah teaches:** Then he followed (another) way (89)Until, when he came to the rising place of the sun, he found it rising on a people for whom We (Allah) had provided no shelter against the sun (90)So (it was)!
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

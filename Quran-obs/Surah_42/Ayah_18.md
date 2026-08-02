@@ -192,11 +192,5 @@ The statement that those who believe are fearful of the Doomsday means the fear 
 
 Those who reject the truth ask to hasten it mockingly. But the believers are fearful of it, knowing that it is the truth. Surely those who dispute about the Hour have gone far astray.
 
-## AI Tafsir
-
-**What this ayah teaches:** And what can make you know that perhaps the Hour is close at hand (17)Those who believe not therein seek to hasten it, while those who believe are fearful of it, and know that it is the very truth.
-
-**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas, may Allah be pleased with him, and Mujahid said, "They disputed with the believers after they responded to Allah and His Messenger, and tried to prevent them from following the path of guidance, hoping that they would return to Jahiliyyah." Qatadah said, "These were the Jews and Christia…
 ## Personal Reflections
-
 

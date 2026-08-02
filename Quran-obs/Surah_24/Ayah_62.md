@@ -231,13 +231,5 @@ The second injunction is given in the last verse:
 
 The true mu'mins are only those who believe in Allah and His Messenger, and when they are with him on a public matter, they do not leave without his permission. Indeed, those who ask your permission O Prophet are the ones who truly believe in Allah and His Messenger. So when they ask your permission for a private matter, grant permission to whoever you wish and ask Allah’s forgiveness for them. Surely Allah is All-Forgiving, the Rahim.
 
-## AI Tafsir
-
-**Context:** This verse was revealed at the time of the battle of Ahzab, when the Arab those who reject the truth and other groups joined together and suddenly attacked Madinah.
-
-**What this ayah teaches:** The first injunction is that when the Holy Prophet ﷺ call people for the meeting in connection with jihad or any other religious matter, the demand of the faith is that all should attend and must not leave the meeting without his permission.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

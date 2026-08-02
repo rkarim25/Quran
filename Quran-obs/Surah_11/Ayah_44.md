@@ -124,11 +124,5 @@ The importance of the day of ` Ashura', that is, the tenth of Muharram, has been
 
 And it was said, “O earth! Swallow up your water. And O sky! Withhold your rain.” The floodwater receded and the decree was carried out. The Ark rested on Mount Judi, and it was said, “Away with the wrongdoing people!”
 
-## AI Tafsir
-
-**What this ayah teaches:** However, this mountain (Judi) humbled itself for Allah, the Mighty and Sublime, and therefore it was not drowned. The End of the Flood Allah, the Exalted, informs that when the people of the earth were all drowned, except for the people on the ship, He commanded the earth to swallow its water, which had sprang from it and gathered upon it.
-
-**Classical tafsir:** Ibn Kathir notes: This is why Nuh's ship anchored upon it." Qatadah said, "The ship rested upon it (Mount Judi) for a month before they (the people) came down from it.
 ## Personal Reflections
-
 

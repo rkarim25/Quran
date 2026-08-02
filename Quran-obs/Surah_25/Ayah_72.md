@@ -130,11 +130,5 @@ The Eleventh Characteristic
 
 They are those who do not bear false witness, and when they come across falsehood, they pass it by with dignity.
 
-## AI Tafsir
-
-**What this ayah teaches:** The biggest falsehood is the kufr (disbelief) and shirk, and the next in order comes the common lie and acts of sin.
-
-**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas said, "This means (offspring) who will strive to obey Allah and bring them joy in this world and the Hereafter." Imam Ahmad recorded that Jubayr bin Nufayr said: "We sat with Al-Miqdad bin Al-Aswad one day, and a man passed by and said, "How blessed are these two eyes which saw the Messen…
 ## Personal Reflections
-
 

@@ -122,13 +122,5 @@ Imam Ahmad recorded from Abu Musa that the Prophet ﷺ said:
 
 then on the Day of Judgment you will be resurrected.
 
-## AI Tafsir
-
-**What this ayah teaches:** Then the angel is sent to him and he breathes the soul into it, and four things are decreed: his provision, his life-span, his deeds, and whether he will be wretched or blessed.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** from Abu Musa that the Prophet ﷺ said: (Musnad Ahmad) Paradise until there is no more than a forearm's length between him and it, then the decree will overtake him and he will do the deeds of the people of Hell and thus enter Hell. (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
-
 

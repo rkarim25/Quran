@@ -176,15 +176,5 @@ Al-Qurtubi has taken up the issue of following the mujtahid imams within his com
 
 When told, "Follow what Allah has revealed," they say, "We follow only what we found our forefathers doing." Would they do so even if their forefathers understood nothing and were not guided?
 
-## AI Tafsir
-
-**Essence** When the truth Allah revealed is set before them, they cling instead to the inherited ways of their forefathers — and Allah exposes the folly of following men who possessed neither understanding nor guidance.
-
-**What it teaches** The ayah answers the call "Follow what Allah has revealed" with the disbelievers' refusal — "bal nattabiʿu mā alfaynā ʿalayhi ābāʾanā" (rather, we follow what we found our forefathers practicing) — and then dismantles their excuse with a question: would you imitate them even if those forefathers "lā yaʿqilūna shayʾan wa-lā yahtadūn" — understood nothing and were not guided? The point is that blind taqlīd of ancestors becomes ruinous precisely when the ones followed have no sound reason (ʿaql) and no revealed guidance (hudā).
-
-**The scholars** Ibn Kathir explains that the disbelievers and polytheists, called to follow what Allah revealed and to abandon the practices of misguidance and ignorance, insisted on imitating their fathers in worshipping idols and false deities; "lā yaʿqilūna shayʾan wa-lā yahtadūn" means they had no sound understanding or guidance. He cites Ibn Ishaq from Ibn 'Abbas that the ayah was revealed about a group of Jews whom the Messenger of Allah ﷺ called to Islam, but who refused, saying, "Rather, we shall follow what we found our forefathers following." Maarif ul Quran draws out a precise rule: the censure here falls on following forefathers who lacked reason and guidance, where "guidance" means injunctions Allah revealed openly and clearly, and "ʿaql" means imperative rulings deduced by Ijtihad from the recognized sources of the Shariah — so this verse condemns blind imitation in falsehood, not the legitimate following of a qualified mujtahid scholar who, having perfect knowledge of the Qur'an and Sunnah, derives rulings from them, since following him is in reality obeying Allah's injunctions alone and not the person. Al-Qurtubi, as Maarif quotes, confirms that the prohibition concerns following forefathers in false beliefs and deeds — not in correct belief and good deeds — pointing to Yusuf (peace be upon him), who chose "the community of my fathers, Ibrahim and Ishaq and Yaʿqub" (12:37-38); following the truth, al-Qurtubi notes, "is a basic religious principle, and a great means of protecting the religion of Muslims, in as much as one who does not have the ability to do Ijtihad must rely on 'following' in matters of religion."
-
-**Reflection** The ayah hands you a test, not just a verdict: before you carry an inherited practice forward, ask what it rests on — revelation and sound knowledge, or merely "this is how we found things." That single question divides the taqlīd Allah condemns from the following He commends, and learning to ask it honestly is itself a safeguard for your faith.
 ## Personal Reflections
-
 

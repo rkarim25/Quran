@@ -225,11 +225,5 @@ Messengers are from Towns
 
 We only sent before you O Prophet men inspired by Us from among the people of each society. Have the deniers not travelled through the land to see what was the end of those destroyed before them? And surely the eternal Home of the Akhirah is far better for those living with taqwa toward Allah. Will you not then understand?
 
-## AI Tafsir
-
-**What this ayah teaches:** And surely the abode of the Hereafter is better for those who fear Allah.
-
-**Classical tafsir:** Ibn Kathir notes: They both used to eat food.)[5:75] Therefore, the best description Allah gave her is Siddiqah.
 ## Personal Reflections
-
 

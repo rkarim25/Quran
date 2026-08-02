@@ -186,11 +186,5 @@ The Second Objection was that if the Holy Prophet ﷺ was a prophet, he should n
 
 Blessed is the One Who—if He wills—can give you far better than all that: gardens under which rivers flow, and palaces as well.
 
-## AI Tafsir
-
-**What this ayah teaches:** It almost bursts up with fury)(67:7-8), which means that parts of it almost separate from other parts because of its intense hatred towards those who disbelieved in Allah. And if this was not so, he should have at least enough wealth and gardens to take care of his day to day needs, so that he may not need to care for his living.
-
-**Classical tafsir:** Ibn Kathir notes: It almost bursts up with fury)(67:7-8), which means that parts of it almost separate from other parts because of its intense hatred towards those who disbelieved in Allah.
 ## Personal Reflections
-
 

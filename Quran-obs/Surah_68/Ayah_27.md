@@ -134,11 +134,5 @@ It has been said, "They were hoping for something better in exchange in this lif
 
 In fact, we have been deprived of our livelihood.
 
-## AI Tafsir
-
-**What this ayah teaches:** In other words, when they did not find their garden on that spot, they first thought that they must have lost their way and gone to the wrong place.
-
-**Classical tafsir:** Ibn Kathir notes: In other words, when they did not find their garden on that spot, they first thought that they must have lost their way and gone to the wrong place.
 ## Personal Reflections
-
 

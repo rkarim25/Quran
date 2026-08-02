@@ -163,13 +163,5 @@ ends here.
 
 as an act of grace from your Lord. That is the ultimate triumph.
 
-## AI Tafsir
-
-**What this ayah teaches:** Despite the fact that it is so plain and clear, there are still people who disbelieve, who stubbornly go against it.
-
-**Classical tafsir:** Ibn Kathir notes: The State of Those Who have Taqwa and the Delights.They will enjoy in Paradise When Allah describes the state of the doomed, He follows that with a description of the life of the blessed.
-
-**From the Sunnah:** It was reported in the Two Sahihs that the Messenger of Allah ﷺ said: Paradise and Hell, then it will be slaughtered.
 ## Personal Reflections
-
 

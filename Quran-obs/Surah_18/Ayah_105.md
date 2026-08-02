@@ -143,13 +143,5 @@ Sayyidna Abu Said al-Khudri says: ' (on the day of Qiyamah) deeds as big as the 
 
 It is they who reject the signs of their Rabb and their meeting with Him, rendering their deeds void, so We will not give their deeds any weight on Judgment Day.
 
-## AI Tafsir
-
-**Context:** Are they the Haruriyyah?' He said, 'No, they are the Jews and Christians. As for the Jews, they disbelieved in Muhammad ﷺ, and as for the Christians, they disbelieved in Paradise and said that there is no food or drink t…
-
-**What this ayah teaches:** 'Ali bin Abi Talib, Ad-Dahhak and others said: "They are the Haruriyyah," so this means, that according to 'Ali, may Allah be pleased with him, this Ayah includes the Haruriyyah just as it includes the Jews, the Christians and others.
-
-**Classical tafsir:** Ibn Kathir notes: 'Ali bin Abi Talib, Ad-Dahhak and others said: "They are the Haruriyyah," so this means, that according to 'Ali, may Allah be pleased with him, this Ayah includes the Haruriyyah just as it includes the Jews, the Christians and others.
 ## Personal Reflections
-
 

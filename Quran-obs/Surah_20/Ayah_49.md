@@ -78,11 +78,5 @@ In brief, every created thing has been programmed, by Allah, with a guidance of 
 
 Pharaoh asked, “Who then is the Rabb of you two, O Moses?”
 
-## AI Tafsir
-
-**What this ayah teaches:** Fir'awn said: "Who then, O Musa, is the Lord of you two (49)[Musa] said: "Our Lord is He Who gave to each thing its form and nature, then guided it aright.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, He did not give man the form of a wild beast, nor did He give wild beasts the form of the dog.
 ## Personal Reflections
-
 

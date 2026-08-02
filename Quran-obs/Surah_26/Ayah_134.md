@@ -82,11 +82,5 @@ This verse indicates that the construction of houses and buildings without need 
 
 and gardens, and springs.
 
-## AI Tafsir
-
-**What this ayah teaches:** This refers to the fact that they were physically strong and well-built, and very violent, and very tall; they had also been given a great deal of provisions, wealth, gardens, rivers, sons, crops and fruits.
-
-**Classical tafsir:** Ibn Kathir notes: This refers to the fact that they were physically strong and well-built, and very violent, and very tall; they had also been given a great deal of provisions, wealth, gardens, rivers, sons, crops and fruits.
 ## Personal Reflections
-
 

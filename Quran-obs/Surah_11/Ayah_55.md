@@ -91,11 +91,5 @@ Sayyidna Salih (علیہ السلام) warned them: If Allah Ta` ala shows you y
 
 with Him in worship. So let all of you plot against me without delay!
 
-## AI Tafsir
-
-**What this ayah teaches:** The only One Who is worthy of having worship directed solely towards Him is Allah alone, without any partners.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

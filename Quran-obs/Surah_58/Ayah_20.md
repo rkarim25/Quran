@@ -165,15 +165,5 @@ In contra-distinction to Muwalah [ intimate friendship ], there is a concept of 
 
 Those who defy Allah and His Messenger will be among the most debased.
 
-## AI Tafsir
-
-**Context:** (You will not find any people who believe in Allah and the Last Day...) was revealed in the case of Abu 'Ubaydah 'Amir bin 'Abdullah bin Al-Jarrah when he killed his disbelieving father, during the battle of Badr.
-
-**What this ayah teaches:** Indeed, this is the final judgement and a matter ordained; the final triumph and victory are for the believers in this life and the Hereafter.
-
-**Classical tafsir:** Ibn Kathir notes: Verily, the party of Allah will be the successful.) indicates that they are the party of Allah, meaning, His servants who are worthy of earning His honor.
-
-**From the Sunnah:** A similar matter is when Allah's Messenger ﷺ consulted with his Companions about what should be done with the captives of Badr.
 ## Personal Reflections
-
 

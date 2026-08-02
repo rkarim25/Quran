@@ -153,11 +153,5 @@ After Allah mentions the wrongdoers and their threat, He then commends the pious
 
 On that Day no intercession will be of any benefit, except by those granted permission by the the Rahman and whose words are agreeable to Him.
 
-## AI Tafsir
-
-**What this ayah teaches:** On that day no intercession shall avail, except the one for whom the ar-Rahman has given permission and whose word is acceptable to Him (109)He knows what happens to them, and what will happen to them, but they will never encompass anything of His knowledge (110)And (all) faces shall be humbled before the Ever Living, the Sustainer.
-
-**Classical tafsir:** Ibn Kathir notes: This means that their evils will not be increased and their good deeds will not be decreased.
 ## Personal Reflections
-
 

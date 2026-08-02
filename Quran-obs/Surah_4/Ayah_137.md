@@ -176,11 +176,5 @@ Important Notes
 
 Indeed, those who believed then disbelieved, then believed and again disbelieved— increasing in rejection of the truth—Allah will neither forgive them nor guide them to the Way.
 
-## AI Tafsir
-
-**Context:** Verily, those who believe, then disbelieve, then believe (again), and (again) disbelieve, and go on increasing in disbelief; Allah will not forgive them, nor guide them on the (right) way (137)Give to the hypocrites the…
-
-**What this ayah teaches:** Verily, those who believe, then disbelieve, then believe (again), and (again) disbelieve, and go on increasing in disbelief; Allah will not forgive them, nor guide them on the (right) way (137)Give to the hypocrites the tidings that there is for them a painful torment (138)Those who take those who reject the truth for friends instead of believers, do they seek honor with them?
 ## Personal Reflections
-
 

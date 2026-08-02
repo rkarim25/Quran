@@ -170,11 +170,5 @@ discourse coming from an infant was a miracle by itself to prove his miraculous 
 
 Peace upon me the day I was born, the day I die, and the day I am raised alive."
 
-## AI Tafsir
-
-**What this ayah teaches:** However, he will have peace in these situations, which are the most difficult situations for Allah's creatures.' May Allah's peace and blessings be upon him. Therefore, she referred all speech to him (the child) and she directed them to his address and speech to them.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, she referred all speech to him (the child) and she directed them to his address and speech to them.
 ## Personal Reflections
-
 

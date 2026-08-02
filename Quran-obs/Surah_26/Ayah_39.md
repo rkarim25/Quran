@@ -126,13 +126,5 @@ This is what is known as God gifted awe of truth, veracity and reality. The cont
 
 And the people were asked, “Will you join the gathering,
 
-## AI Tafsir
-
-**What this ayah teaches:** People regard the outcome of dialectics should be to come out winner, even though one knows that he is on the wrong. First, ` We have brought you up in our household and have done so many favours to you.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** The contentions and dialectics of Allah's messengers are also full of truth, veracity and wishing well for the addressee.
 ## Personal Reflections
-
 

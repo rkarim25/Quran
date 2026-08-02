@@ -140,13 +140,5 @@ In the fifth verse (184), the Holy Prophet ﷺ has been comforted by saying that
 
 If you are rejected by them, so too were messengers before you who came with clear proofs, divine Books, and enlightening Scriptures.
 
-## AI Tafsir
-
-**What this ayah teaches:** " Say: "Verily, there came to you Messengers before me, with Al-Bayinat and even with with what you speak of; why then did you kill them, if you are truthful?
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** This Hadith was collected by Ibn Marduwyah and Ibn Abi Hatim.
 ## Personal Reflections
-
 

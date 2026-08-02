@@ -147,13 +147,5 @@ The name of the city from which Sayyidna Lut (علیہ السلام) was saved a
 
 And to Lot We gave wisdom and knowledge, and delivered him from the society engrossed in shameful practices. They were certainly an evil, rebellious people.
 
-## AI Tafsir
-
-**Context:** And We rescued him and Lut to the land which We have blessed for the nations (71)And We bestowed upon him Ishaq, and Ya'qub Nafilatan.
-
-**What this ayah teaches:** Verily, they were a people given to evil, and were rebellious (74)And We admitted him to Our mercy; truly, he was of the righteous . Allah gave him wisdom and knowledge; He sent Revelation to him, made him a Prophet and appointed him to Sadum (Sodom) and its vicinity, but they rejected him and resisted him, so Allah utterly destroyed them, as He tells us in several places in His Book.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

@@ -106,15 +106,5 @@ The Egyptian magicians who were masters of their art realized at once that what 
 
 So the magicians fell down in prostration, declaring, “We believe in the Rabb of Aaron and Moses.”
 
-## AI Tafsir
-
-**Context:** (So Musa conceived fear in himself.) This means that he feared for the people that they would be tested and deceived by their magic before he could even have a chance to throw what was in his right hand.
-
-**What this ayah teaches:** Therefore, when this happened, they fell down into prostration to Allah.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, when this happened, they fell down into prostration to Allah.
-
-**From the Sunnah:** Paradise was raised up before them until they were looking at it.
 ## Personal Reflections
-
 

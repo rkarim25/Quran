@@ -90,13 +90,5 @@ Allah tells how His Messenger and Prophet Muhammad will say: "O my Lord! Verily,
 
 The Messenger has cried, “O my Rabb! My people have indeed received this Quran with neglect.”
 
-## AI Tafsir
-
-**Context:** وَقَالَ الرَّسُوْلُ يٰرَبِّ اِنَّ قَوْمِي اتَّخَذُوْا ھٰذَا الْقُرْاٰنَ مَهْجُوْرًا (That is Rasul will say, 0 my Lord my people have forgotten and forsaken Qur'an - 25:30).
-
-**What this ayah teaches:** When he would recite Qur'an to them, they would talk nonsense or speak about something else, so that they would not hear it. There is a difference of opinion among the commentators whether this complaint of the Holy Prophet ﷺ to Allah Ta’ ala about his people would be on Dooms Day or was made in his life time.
-
-**Classical tafsir:** Ibn Kathir notes: When he would recite Qur'an to them, they would talk nonsense or speak about something else, so that they would not hear it.
 ## Personal Reflections
-
 

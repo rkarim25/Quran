@@ -218,13 +218,5 @@ In the last verse (27), good news of future victories has been given. Gone is th
 
 They are totally unwilling to assist you. When danger comes, you see them staring at you with their eyes rolling like someone in the throes of death. But once the danger is over, they slash you with razor-sharp tongues, ravenous for worldly gains. Such people have not truly believed, so Allah has rendered their deeds void. And that is easy for Allah.
 
-## AI Tafsir
-
-**What this ayah teaches:** Then when fear comes, you will see them looking to you, their eyes revolving like one over whom hovers death; but when the fear departs, they will smite you with sharp tongues, miserly towards good.
-
-**Classical tafsir:** Ibn Kathir notes: And any act or omission on his part that is proved to have been done as a preferable conduct (istihbab) and not as an obligatory one, should be followed by us too as a commendable (mustahab) conduct and not as a necessary obligation This, in other words, means that its contravent…
-
-**From the Sunnah:** Onward from here, mention has been made of two groups of hypocrites who were practically a part of the Jihad effort along with Muslims, though outwardly only. But, the Shari'ah authorities have explained the rule about the different degrees of following required from a Muslim. (Sahih Muslim)
 ## Personal Reflections
-
 

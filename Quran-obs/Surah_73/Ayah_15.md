@@ -148,11 +148,5 @@ These verses describe the horrors and terrors of the Day of Resurrection. Verse 
 
 We sent you a messenger as a witness over you, just as We sent a messenger to Pharaoh.
 
-## AI Tafsir
-
-**What this ayah teaches:** [ 14] We have sent to you a messenger, as a witness over you, just as We sent a messenger to Fir'aun (the Pharaoh). And give them respite for a little (11)Verily, with Us are Ankal, and Jahim (12)And a food that chokes, and a painful torment (13)On the Day when the earth and the mountains will (Tarjufu) shake, and the mountains will be a heap of sand poured out (14)Verily, We have sent to you a Me…
-
-**Classical tafsir:** Ibn Kathir notes: This means, 'you should beware of denying this Messenger, lest you be afflicted by that which befell Fir'awn.
 ## Personal Reflections
-
 

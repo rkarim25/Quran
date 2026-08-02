@@ -125,13 +125,5 @@ From here we learn that, should one commit a mistake, let him not rely on his pe
 
 Noah pleaded, “My Rabb, I seek refuge in You from asking You about what I have no knowledge of, and unless You forgive me and have mercy on me, I will be one of the losers.”
 
-## AI Tafsir
-
-**What this ayah teaches:** I seek refuge with You from asking You that of which I have no knowledge. And unless You forgive me and have mercy on me, I would indeed be one of the losers.
-
-**Classical tafsir:** Ibn Kathir notes: Verily, my son is of my family!") This means, "Verily, You promised to save my family and Your promise is the truth that does not fail.
-
-**From the Sunnah:** 'Abdur-Razzaq recorded that Ibn 'Abbas said, "He was the son of Nuh, but he opposed him in deeds and intention." 'Ikrimah said in some of the modes of recitation it said here,
 ## Personal Reflections
-
 

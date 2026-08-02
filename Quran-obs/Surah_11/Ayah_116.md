@@ -167,11 +167,5 @@ In this verse, people of discernment, balance and foresight have been identified
 
 If only there had been among the destroyed peoples before you, O believers, virtuous individuals who forbade corruption in the land—other than the few We had saved from the torment. But the wrongdoers only pursued their worldly pleasures, becoming wicked.
 
-## AI Tafsir
-
-**What this ayah teaches:** If only there had been among the generations before you persons having wisdom, prohibiting (others) from Fasad (corruption) in the earth, except a few of those whom We saved from among them! There must be a Group of People Who forbid Lewdness Allah, the Exalted, says that there should have been a group of wise people present among the past generations who called to good and forbade the evil and co…
-
-**Classical tafsir:** Ibn Kathir notes: Given in the third and the fourth verse (116, 117) is the reason why Divine punishment came upon past peoples as well as the instruction as to how they could have stayed safe from it.
 ## Personal Reflections
-
 

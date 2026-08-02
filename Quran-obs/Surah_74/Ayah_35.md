@@ -120,15 +120,5 @@ In the next verses, there is the mention of the Hereafter and its horrors.
 
 Hell is among the greatest catastrophes,
 
-## AI Tafsir
-
-**Context:** وَمَا يَعْلَمُ جُنُوْدَ رَبِّكَ اِلَّا هُو (...And no one knows the hosts of your Lord but He 74:31) Muqatil, among the leading authorities, says that this is rebuttal to Abu Jahl's statement.
-
-**What this ayah teaches:** This is so that one does not make the mistake of thinking that they are only nineteen in all. The word kubar is the plural of kubaa which is an adjective for dahiyah or musibah 'calamity'.
-
-**Classical tafsir:** Ibn Kathir notes: This is so that one does not make the mistake of thinking that they are only nineteen in all.
-
-**From the Sunnah:** It has been confirmed in the Hadith concerning Al-Isra' that is reported in the Two Sahihs and other collections, that the Messenger of Allah ﷺ said in describing the Frequented House (Al-Bayt Al-Ma'mur), which is in the seventh heaven,
 ## Personal Reflections
-
 

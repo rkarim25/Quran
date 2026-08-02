@@ -122,13 +122,5 @@ Anyhow, whoever this person may be - it does not matter. This event has been men
 
 who used to ask me, 'Do you actually believe in resurrection?
 
-## AI Tafsir
-
-**What this ayah teaches:** The man said, 'This is like a man who has such and such.' The angel said, 'That is exactly what it is; this house, these gardens and this wife are all for you.' The man said, 'I had a companion who used to say: Are you among those who believe?' It was said to him, 'He is in Hell.' He said, 'Will you look down?' So he looked down and saw him in the midst of Hell.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, it cannot be said with any degree of certainty as to who this person could be.
-
-**From the Sunnah:** Abu Ja'far bin Jarir recorded that Furat bin Tha'labah Al-Bahrani said concerning the Ayah, Paradise – and he gave one thousand Dinars in charity.
 ## Personal Reflections
-
 

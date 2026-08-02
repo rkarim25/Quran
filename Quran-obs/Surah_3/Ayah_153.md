@@ -273,13 +273,5 @@ In Bay-an al-Qur'an, Maulana Ashraf Thanavi (رح) has said that the real reason
 
 When you were running far away —not looking at anyone—while the Messenger was calling to you from behind! So Allah rewarded your disobedience with distress upon distress. Now, do not grieve over the victory you were denied or the injury you suffered. And Allah is All-Aware of what you do.
 
-## AI Tafsir
-
-**What this ayah teaches:** But surely, He forgave you, and Allah is ar-Rahman to the believers (152)(And remember) when you ran away without even casting a side glance at anyone, and the Messenger was in your rear calling you back. Therefore, Fatimah, the daughter of Allah's Messenger ﷺ washed off the blood while 'Ali was pouring water on her hand.
-
-**Classical tafsir:** Ibn Kathir notes: Ibn Jurayj said that Ibn 'Abbas said that Fashiltum means, 'lost courage'. Al-Hasan and Qatadah said that, Tus'iduna, means, 'go up the mountain'.
-
-**From the Sunnah:** Allah next conveys the good news that He will put fear of the Muslims, and feelings of subordination to the Muslims in the hearts of their disbelieving enemies, because of their Kufr and Shirk.
 ## Personal Reflections
-
 

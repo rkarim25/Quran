@@ -279,15 +279,5 @@ After that, the Holy Prophet ﷺ has been specially commanded to proclaim - a co
 
 These were guided by Allah, so follow their guidance. Say, “I ask no reward of you for these verses—it is a reminder to the whole world.”
 
-## AI Tafsir
-
-**Context:** (And indeed it has been revealed to you, as it was to those (Allah's Messengers) before you: "If you join others in worship with Allah, surely your deeds will be in vain.")[39:65]
-
-**What this ayah teaches:** Thus, the guidance given in this verse is bi-polar.
-
-**Classical tafsir:** Ibn Kathir notes: Certainly, one becomes jubilant and joyous when he becomes a grandfather, because this means that his offspring will continue to exist.
-
-**From the Sunnah:** While mentioning this Ayah, Al-Bukhari recorded that Mujahid asked Ibn 'Abbas, "Is there an instance where prostration is warranted in [Surah] 'Şād'?" Ibn 'Abbas said, "Yes." He then recited, (Sahih al-Bukhari) The first element is addressed to the people of Arabia, and to the whole Muslim Ummah by implication, that is, they should forsake the superstition of following forefathers and take to following prophets guided by Al
 ## Personal Reflections
-
 

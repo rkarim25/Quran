@@ -186,25 +186,5 @@ Making the shape of a bird was the making of a picture, something permitted in t
 
 And I will confirm the Torah revealed before me and legalize some of what had been forbidden to you. I have come to you with a sign from your Rabb, so live with taqwa toward Allah and obey me.
 
-## AI Tafsir
-
-**Essence**
-
-'Isa (peace be upon him) declares that he confirms the Tawrah, makes lawful part of what was forbidden, and brings a sign from his Lord — so the response owed is taqwa of Allah and obedience to His Messenger.
-
-**What it teaches**
-
-'Isa came "confirming that which was before me of the Tawrah" — upholding Musa's revelation, not opposing it — while being authorized to "make lawful part of what was forbidden," meaning some of the earlier ruling stood abrogated by the new prophethood. He closes with "fataqullah wa atiuni": taqwa (an Allah-fearing, watchful guarding of oneself against disobedience) paired with obedience to the Messenger Allah sent.
-
-**The scholars**
-
-Ibn Kathir explains that "confirming that which was before me of the Tawrah" means affirming the Tawrah and upholding it, while the lifting of part of what was forbidden shows that 'Isa abrogated some of the laws of the Tawrah and clarified the truth on matters the Jews disputed — cross-referencing 43:63, "to make clear to you some of the points in which you differ." He frames 'Isa's miracles within a profound principle: Allah sent every Prophet with a miracle suited to his age — in Musa's time magic was supreme, so his sign overwhelmed the magicians until they believed; 'Isa came when medicine and the natural sciences were advancing, so he shaped birds from clay and breathed life into them, cured the blind and the leper, and raised the dead — feats no physician could match; and Muhammad (peace be upon him) came among master poets with the Qur'an, which mankind and jinn together could never imitate, "because the Qur'an is the Word of Allah and is nothing like that of the creatures."
-
-The verse's heart refutes any notion of 'Isa's divinity: "Allah is my Lord and your Lord, so worship Him." Ibn Kathir notes that here 'Isa places himself among the worshippers — a servant and Messenger, not an object of worship — "for I and you are equal in our servitude, submission and humbleness to Him." Maarif ul Quran summarizes that 'Isa's prophethood was itself the conclusive argument for the abrogation he announced, and that "Allah is my Lord and your Lord" is the ultimate in belief while "Worship Him" is the ultimate in deeds — together the straight path that joins sound creed to right action. Maarif adds a ruling: shaping the bird was the making of a picture, permitted in that Shari'ah, though its permissibility was abrogated in ours.
-
-**Reflection**
-
-Let every sign of Allah you witness bend you toward the same two things 'Isa asked for: a heart that fears Allah and a life that obeys Him.
 ## Personal Reflections
-
 

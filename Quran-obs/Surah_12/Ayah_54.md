@@ -121,11 +121,5 @@ The king was astonished. Though, it was not so much about the interpretation giv
 
 The King said, “Bring him to me. I will employ him exclusively in my service.” And when Joseph spoke to him, the King said, “Today you are highly esteemed and fully trusted by us.”
 
-## AI Tafsir
-
-**What this ayah teaches:** He wanted to be the guard, so that he could dispense the harvest in the wisest, best and most beneficial way. Keep whatever supply of grains comes to the government through fixed taxes or state lands stored for those coming from outside the country - because, this famine will be wide-spread.
-
-**Classical tafsir:** Ibn Kathir notes: He wanted to be the guard, so that he could dispense the harvest in the wisest, best and most beneficial way.
 ## Personal Reflections
-
 

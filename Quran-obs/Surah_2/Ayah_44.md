@@ -130,17 +130,5 @@ In short, verse 44 does not imply that the man who has been indifferent to good 
 
 Do you command others to righteousness and forget yourselves, though you recite the Scripture? Will you not use reason?
 
-## AI Tafsir
-
-**Essence** Allah rebukes those who command others to righteousness (al-birr) while forgetting their own souls, even as the Book is on their tongues.
-
-**What it teaches** Al-birr spans every act of obedience to Allah. Aimed first at the scholars of the Children of Israel, it condemns preaching piety while abandoning it.
-
-**The scholars** Ibn 'Abbas: they forgot the Tawrah's covenant to accept His Messenger. Ibn Kathir reads the closing "will you not use reason?" as a call to wake from slumber, and rules enjoining and performing both required — neither cancels the other. Via Imam Malik, Sa'id ibn Jubayr: if only the faultless could counsel, none would remain — a false purity Hasan al-Basri called Satan's very wish.
-
-**From the Sunnah** A man who enjoined good without doing it is thrown into the Fire, circling with spilled intestines "just as the donkey goes around the pole," confessing: "I used to enjoin righteousness, but refrained from performing righteousness." (Imam Ahmad; also Al-Bukhari and Muslim)
-
-**Reflection** Let your own soul be the first audience of every truth you speak.
 ## Personal Reflections
-
 

@@ -355,22 +355,5 @@ It is worth observing at this point how the noble Qur'an has, in a sentence so s
 
 Divorced women must wait three menstrual cycles before remarrying. It is not lawful for them to hide what Allah created in their wombs if they believe in Allah and the Last Day. Their husbands have the right to take them back within that period if they want reconciliation. Women have rights similar to men's obligations, though men have a degree of responsibility above them. Allah is Almighty, All-Wise.
 
-## AI Tafsir
-
-**Essence**
-After divorce a woman waits three menstrual cycles in honesty before Allah, her husband may take her back in that time for true reconciliation, and the marriage bond rests on mutual rights given in fairness, with men carrying a degree of responsibility above.
-
-**What it teaches**
-A divorced woman whose marriage was consummated and who still menstruates observes an 'iddah (waiting period) of three quru' — understood by the overwhelming majority as menstrual periods — and may not conceal a pregnancy or her cycle to shorten or stretch that wait. Within the 'iddah her husband has the better right to take her back if he genuinely seeks islah (reconciliation), not harm. And the verse defines the marriage itself: women have rights over men just as men have rights over women, all to be rendered bil-ma'ruf (in what is recognized as fair and kind), though men hold a darajah — a degree of caretaking responsibility — above them.
-
-**The scholars**
-Ibn Kathir reports that quru' means the menstruation period, the view of Abu Bakr, 'Umar, 'Uthman, 'Ali, Ibn Mas'ud, Ibn 'Abbas and a long line of the Tabi'in including Mujahid, Qatadah and Al-Hasan; the case of 'Umar with Ibn Mas'ud — that a woman remains a wife until the third period ends — illustrates the ruling. On "conceal what Allah created in their wombs," Ibn 'Abbas, Mujahid and others explain this as pregnancy or menses: since only she can know these, Allah entrusted the matter to her word and warned her to speak the exact truth, neither more nor less, "if they believe in Allah and the Last Day." Ibn Kathir notes the right of return here belonged to a divorce still reversible, before 2:229 limited divorce to three. On the spouses' rights he cites Ibn 'Abbas: "I like to take care of my appearance for my wife just as I like for her to take care of her appearance for me," because of this verse. On the darajah, Ibn Kathir reads it broadly — men placed in a more advantageous position in status, maintenance and managing affairs. Maarif ul Quran calls this "a great verse defining the status of man and woman," recounting how the age of ignorance bought and sold women like cattle and denied them soul and inheritance, until Islam made men responsible for women's rights parallel to their own and made spending on her an act of worship. Maarif explains why the woman's rights are named first: man, by his strength, tends to seize his rights anyway, so the verse urges him to take the first step in giving hers. The darajah, it stresses, is for caretaking and discipline, not superiority before Allah — for reward depends on faith and conduct, and some women surpass many men in nearness to Allah. Qurtubi, through Ibn 'Abbas, adds that the very degree given to men obliges them to greater forbearance: even if a wife falls short, a man should be patient and never withhold her rights. The closing "All-Mighty, All-Wise" means Allah is Mighty in punishing defiance of His commands and Wise in all He legislates.
-
-**From the Sunnah**
-Fear Allah regarding your women, for you took them by Allah's covenant and were made lawful to them by Allah's word ... They have the right to be provided for and clothed in what is reasonable. (Sahih Muslim)
-
-**Reflection**
-Watch your own duty before you demand your right — when each spouse gives in fairness and forbearance, the rights take care of themselves.
 ## Personal Reflections
-
 

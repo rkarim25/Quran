@@ -121,13 +121,5 @@ It was to make these very instructions become their ever-present response, the H
 
 Obey Allah and His Messenger, and do not quarrel with one another, lest you lose heart and your strength depart. Be patient. Surely Allah is with those who practice sabr, steadfast endurance that keeps you upright.
 
-## AI Tafsir
-
-**What this ayah teaches:** These days everyone knows and says that mutual dispute is very bad, but the master stroke of remaining safe from it - that one trains himself to become used to remaining patient over what does not match his physical temperament and that he does not worry about making people say yes to his view and see that they go by it - is something very few people have learnt to employ succe…
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, one individual feels the relative strength of his whole group in himself and once that mutual unity and trust is gone what remains behind is no more than his own solitary strength - which, obviously, means nothing in a killing field.
-
-**From the Sunnah:** Muslims are not allowed to run or shy away, or show cowardice in battle. Paradise lies under the shade of swords. (Sahih Muslim)
 ## Personal Reflections
-
 

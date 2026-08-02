@@ -136,11 +136,5 @@ These verses describe the horrors and terrors of the Day of Resurrection. Verse 
 
 on the Day the earth and mountains convulse, and mountains become dunes of shifting sand.
 
-## AI Tafsir
-
-**What this ayah teaches:** Verse [ 14] describes that the punishment will take place on the Day when the earth and mountains will shake and the mountains will be reduced to a heap of dust or shifting dunes. On the Day when the earth and the mountains will (Tarjuf) shake,) meaning, they will quake.
-
-**Classical tafsir:** Ibn Kathir notes: This means, 'you should beware of denying this Messenger, lest you be afflicted by that which befell Fir'awn.
 ## Personal Reflections
-
 

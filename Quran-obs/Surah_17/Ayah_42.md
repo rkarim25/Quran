@@ -87,11 +87,5 @@ According to the proof of Tauhid (the Oneness of Allah) given in the verse: إِ
 
 Say, O Prophet, “Had there been other gods besides Him—as they claim—then they would have certainly sought a way to challenge the Rabb of the Throne.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Allah says: 'Say, O Muhammad, to these idolators who claim that Allah has a partner among His creation, and who worship others besides Him that they may bring them nearer to Him: if the matter is as you say, and there is another Allah besides Him whom you worship in order to draw closer to Him and so that he will intercede for you with Him, then those whom you worship would thems…
-
-**Classical tafsir:** Ibn Kathir notes: And, in the eventuality of a difference, the whole universal system would have gone to ruins - because, ever abiding peace among them is habitually impossible.
 ## Personal Reflections
-
 

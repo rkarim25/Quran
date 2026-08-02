@@ -159,27 +159,5 @@ The same applies here as the punishment in the world has already been given; now
 
 We recite this to you as one of the signs and a wise reminder.
 
-## AI Tafsir
-
-**Essence**
-
-"That We recite to you" — closing the account of 'Isa, Allah tells the Prophet ﷺ that everything just narrated is not legend or hearsay but revelation, sent down as a sign and a wise reminder beyond all doubt.
-
-**What it teaches**
-
-Allah seals the passage on 'Isa by placing it among "al-āyāt" (the signs, the verses) and "al-dhikr al-hakīm" — the Wise Reminder. Dhikr is the Qur'an as a reminder that calls hearts back to truth; hakīm means wise. The reality of 'Isa is therefore not left to dispute but settled by the word of Allah Himself.
-
-**The scholars**
-
-Ibn Kathir explains the verse to mean: "What We narrated to you, O Muhammad, regarding 'Isa, his birth and his life, is what Allah conveyed and revealed to you, sent down from Al-Lawh Al-Mahfuz (The Preserved Tablet). So there is no doubt in it." He links it to Surah Maryam, where after naming "'Isa, son of Maryam" Allah declares it "a statement of truth, about which they doubt," and affirms the pure tawhid that crowns the account: "It befits not Allah that He should beget a son. Glorified be He. When He decrees a thing, He only says to it: 'Be!' and it is."
-
-Across the passage Ibn Kathir traces how 'Isa's followers split — some holding to him as a servant and Messenger of Allah, others falling into excess by calling him "a son of Allah," or Allah Himself, or one of a trinity — creeds the Qur'an names and refutes. He then elaborates at length on the later corruption of that religion and the worldly outworking of Allah's promise, concluding that the true followers of every Prophet are the believers in the unlettered Prophet ﷺ, who alone followed the truth in full.
-
-Maarif ul Quran (citing Bayan al-Qur'an) dwells on verse 56's warning of torment "in this world and in the Hereafter": for the disbeliever the worldly punishment is no expiation but is carried over and added to the Hereafter's, whereas the believer's suffering in this life forgives sins and lightens what is to come — the difference signalled by "Allah does not like the wrongdoers," for the beloved are treated as beloved and the detested are not.
-
-**Reflection**
-
-When the Qur'an reaches you, receive it as a "wise reminder" from the Preserved Tablet — certainty to live by, not a story to debate.
 ## Personal Reflections
-
 

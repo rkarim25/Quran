@@ -119,13 +119,5 @@ Ends here
 
 Who fed them against hunger and secured them against fear.
 
-## AI Tafsir
-
-**What this ayah teaches:** This is because the meaning of both of them is, "We have prevented the Elephant from entering Makkah and We have destroyed its people in order to gather (Ilaf) the Quraysh, which means to unite them and bring them together safely in their city." It has also been said that the meaning of this (Ilaf) is what they would gather during their journey in the winter to Yemen and in the…
-
-**Classical tafsir:** Ibn Kathir notes: So, let them worship the Lord of this House.)(4.
-
-**From the Sunnah:** And I am commanded to be from among the Muslims.)(27:91)
 ## Personal Reflections
-
 

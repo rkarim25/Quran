@@ -141,13 +141,5 @@ The Holy Prophet ﷺ is reported to have said: At the time of reckoning, Allah T
 
 They insisted, “There is nothing beyond this worldly life and we will never be resurrected.”
 
-## AI Tafsir
-
-**What this ayah teaches:** But the (lie) which they invented will disappear from them.) It is also possible that the meaning here is that the those who reject the truth will realize the truth that they knew all along in their hearts, that is, that what the Messengers brought them in this life is true, although they used to deny his Message before their followers.
-
-**Classical tafsir:** Ibn Kathir notes: And indeed they are liars.) meaning, they lie when they say they wish to go back to this life so that they can embrace the faith.
-
-**From the Sunnah:** the Creator knows, in His eternal knowledge, that the claim of these people that once they have been sent back to the world, they would become ideal Muslims, is a lie and a deception.
 ## Personal Reflections
-
 

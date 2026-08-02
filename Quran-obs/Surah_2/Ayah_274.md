@@ -235,19 +235,5 @@ Based on the authority of Ibn ` Asakir, there is a report in Ruh al-Ma` ani whic
 
 Those who spend their wealth night and day, secretly and openly — their reward is with their Rabb. They will have no fear and will not grieve.
 
-## AI Tafsir
-
-**Essence** Those who give continually for Allah's sake — by night and day, in secret and in the open — are promised their full reward with their Lord and a heart freed from fear and grief.
-
-**What it teaches** The ayah praises a settled habit of infaq (spending in Allah's cause) that is bound to no fixed time and no single manner: bi-al-layli wa-al-nahar (by night and day), sirran wa 'alaniyah (secretly and openly). Their recompense is kept "with their Lord" ('inda Rabbihim) — granted, as Ibn Kathir notes, on the Day of Resurrection as reward for acts of obedience — and they are sealed with the twin promise that "no fear shall be on them, nor shall they grieve."
-
-**The scholars** Ibn Kathir explains that this praises those who spend seeking Allah's pleasure at every time and in every manner, expressly including what a man spends on his own family. Maarif ul Quran draws the implication that there is no fixed time for sadaqah and khayrat and that giving both secretly and openly earns thawab — on the firm condition of ikhlas (sincerity), not seeking name and fame; secret giving is more excellent only where there is no pressing need to give openly, but where such a need exists, open giving is better. Maarif also records, on the authority of Ibn 'Asakir via Ruh al-Ma'ani, that Sayyidna Abu Bakr (may Allah be pleased with him) spent forty thousand dinars — ten thousand by day, ten thousand by night, ten thousand openly, ten thousand secretly — and that some commentators hold this very deed was the background of the verse, though other views on its circumstances also exist.
-
-**From the Sunnah** The Prophet ﷺ told Sa'd bin Abi Waqqas (may Allah be pleased with him) that no charity given seeking Allah's Face fails to raise the giver in degree and rank — even the morsel he places in his wife's mouth. (The Two Sahihs — al-Bukhari and Muslim)
-
-**From the Sunnah** Abu Mas'ud (may Allah be pleased with him) reported that when a Muslim spends on his family hoping for Allah's reward, that ordinary provision is written for him as charity. (Musnad Ahmad — also al-Bukhari and Muslim)
-
-**Reflection** Notice what counts: not only the gift to the poor at the door, but the meal you set before your own household — if it is sought purely for Allah's Face, it is charity. Let sincerity, not the eyes of others, govern your giving, and the smallest daily provision becomes a deposit kept with your Lord.
 ## Personal Reflections
-
 

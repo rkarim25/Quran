@@ -99,13 +99,5 @@ Given the aforesaid behavior pattern of disbelieving people, it could have been 
 
 How can that be? If they were to have the upper hand over you, they would have no respect for kinship or treaty. They only flatter you with their tongues, but their hearts are in denial, and most of them are rebellious.
 
-## AI Tafsir
-
-**What this ayah teaches:** Therefore, as the Qur'anic justice and equity would have it, the eleventh verse gives the following instruction: With their mouths they please you, but their hearts are averse to you, and most of them are rebellious .
-
-**Classical tafsir:** Ibn Kathir notes: 'Ali bin Abi Talhah, 'Ikrimah and Al-'Awfi narrated that Ibn 'Abbas said, "'Ill' means kinship, while, Dhimmah means covenant." Ad-Dahhak and As-Suddi said similarly.
-
-**From the Sunnah:** Allah encourages the believers to show enmity to the idolators and to dissociate from them, affirming that they do not deserve to enjoy a covenant of peace, because of their Shirk in Allah and disbelief in Allah's Messenger ﷺ. If these those who reject the truth have a chance to defeat Muslims, they will cause great mischief, leave nothing unharmed, disregard the ties of kinship and the sanctity of their vows.
 ## Personal Reflections
-
 

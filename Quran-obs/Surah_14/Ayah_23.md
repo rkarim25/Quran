@@ -186,11 +186,5 @@ So, whatever good there is in gratitude, that is for you alone. There-fore, when
 
 Those who believe and do good will enter Gardens beneath which rivers flow, to remain forever by their Rabb's will, greeted with "Peace."
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, there is a painful torment for the wrongdoers.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

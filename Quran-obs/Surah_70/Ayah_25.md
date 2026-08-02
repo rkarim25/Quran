@@ -138,13 +138,5 @@ Rates of Zakah are Specified by Allah
 
 and who give the rightful share of their wealth to the beggar and the poor,
 
-## AI Tafsir
-
-**What this ayah teaches:** This is because he is not being still in it and he does not remain (in its positions), rather he pecks in it (quickly) like the pecking of the crow. It has also been said that the meaning here refers to those who perform a deed and are constant in its performance and consistent in it.
-
-**Classical tafsir:** Ibn Kathir notes: It has also been said that the meaning here refers to those who perform a deed and are constant in its performance and consistent in it.
-
-**From the Sunnah:** This is like what is reported in the authentic Hadith, (authentic hadith)
 ## Personal Reflections
-
 

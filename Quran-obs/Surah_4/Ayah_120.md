@@ -215,13 +215,5 @@ In short, taking any created being as equal to Allah in His particular attribute
 
 Satan only makes them promises and deludes them with hopes. Truly Satan promises them nothing but delusion.
 
-## AI Tafsir
-
-**What this ayah teaches:** Surely, Shaytan deceitfully promises his supporters and tempts them into believing that they are winners in this and the Hereafter. Therefore, his line of action is accompanied by his firm intention that he will always be like that.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, his line of action is accompanied by his firm intention that he will always be like that.
-
-**From the Sunnah:** In his Sahih, Muslim recorded the prohibition of tattooing the face, which in one of its wordings states: "May Allah curse whoever does this." It is also recorded in the Sahih that Ibn Mas'ud said, "May Allah curse those who have tattoos and those who do it, w… (Sahih Muslim) The Messenger of Allah ﷺ used to proclaim in his speech,
 ## Personal Reflections
-
 

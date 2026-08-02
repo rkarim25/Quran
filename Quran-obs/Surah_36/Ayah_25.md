@@ -90,11 +90,5 @@ The addressee here could be his own people where calling Allah Ta’ ala their L
 
 I do believe in your Lord, so listen to me."
 
-## AI Tafsir
-
-**What this ayah teaches:** The addressee here could be his own people where calling Allah Ta’ ala their Lord was to express a reality - though, they did not accept it.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

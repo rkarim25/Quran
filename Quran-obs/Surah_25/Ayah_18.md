@@ -165,11 +165,5 @@ The Second Objection was that if the Holy Prophet ﷺ was a prophet, he should n
 
 They will say, “Glory be to You! It was not right for others like us to take any Rabbs besides You, but You allowed enjoyment for them and their forefathers for so long that they forgot Your dhikr and became a doomed people.”
 
-## AI Tafsir
-
-**What this ayah teaches:** It was not for us to take any Awliya' besides You, but You gave them and their fathers comfort till they forgot the warning, and became a lost people. And if this was not so, he should have at least enough wealth and gardens to take care of his day to day needs, so that he may not need to care for his living.
-
-**Classical tafsir:** Ibn Kathir notes: And if this was not so, he should have at least enough wealth and gardens to take care of his day to day needs, so that he may not need to care for his living.
 ## Personal Reflections
-
 

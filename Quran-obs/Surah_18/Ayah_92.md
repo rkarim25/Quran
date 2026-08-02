@@ -84,11 +84,5 @@ However, it is obvious that these people too were infidels and Dhul-Qarnain hand
 
 Then he travelled a third course.
 
-## AI Tafsir
-
-**What this ayah teaches:** Shall we then pay you a tribute in order that you might erect a barrier between us and them?
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

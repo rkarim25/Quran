@@ -122,13 +122,5 @@ A perfect believer, in fact, a perfect human being is one who is able to perceiv
 
 If We give people a taste of Our mercy then take it away from them, they become utterly desperate, ungrateful.
 
-## AI Tafsir
-
-**What this ayah teaches:** In other words, man is given to hurry things, takes the present as everything, does not bother to refer to the past or show concern for the future, therefore, a suffering after a blessing makes him lose hope and slide into ungratefulness.
-
-**Classical tafsir:** Ibn Kathir notes: Allah explains that when any hardship befalls man, after he has experienced blessings, he is disheartened and he despairs of any good in the future.
-
-**From the Sunnah:** At the beginning, in the first three verses (9-11), an instinctively bad human habit has been mentioned with an instruction to Muslims that they should stay away from it.
 ## Personal Reflections
-
 

@@ -124,13 +124,5 @@ Ends here
 
 It is the Day no soul can benefit another at all. All authority that Day belongs to Allah alone.
 
-## AI Tafsir
-
-**What this ayah teaches:** This does not negate intercession, because that will not happen with one's own free will, unless Allah grants permission to someone to intercede on someone's behalf, and then accepts the intercession.
-
-**Classical tafsir:** Ibn Kathir notes: This does not negate intercession, because that will not happen with one's own free will, unless Allah grants permission to someone to intercede on someone's behalf, and then accepts the intercession.
-
-**From the Sunnah:** We will mention here a Hadith (where the Prophet ﷺ said),
 ## Personal Reflections
-
 

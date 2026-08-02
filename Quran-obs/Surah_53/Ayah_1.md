@@ -92,13 +92,5 @@ The verb hawa means to fall or plunge. When stars fall, they set. In this verse 
 
 By the star as it sets—Allah swears by the celestial sign that just as stars guide travellers through the desert, His Messenger guides souls to their true destination.
 
-## AI Tafsir
-
-**What this ayah teaches:** Probably, the underlying wisdom in this is that as the Arabs are used to determine the course and direction of, and are guided in their travels by the movements of the stars in the sandy waste of Arabia, so they would now be led to the goal and end of their spiritual journey by the star par excellence, that is, by the Holy Prophet ﷺ .
-
-**Classical tafsir:** Ibn Kathir notes: 53:1) The word najm means a star, and as a common noun every star is referred to as najm, and in that case the plural is nujum.
-
-**From the Sunnah:** The Prophet ﷺ (recited it in Makkah) and prostrated. (Sahih al-Bukhari, Sahih Muslim) Ibn Abi Hatim recorded that Ash-Sha'bi and others stated that the Creator swears by whatever He wills among His creation, but the created only vow by the Creator.
 ## Personal Reflections
-
 

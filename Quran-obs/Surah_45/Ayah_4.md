@@ -93,11 +93,5 @@ There are the angels, Jinns, humans, animals, birds, beasts, carnivores, insects
 
 In your own creation, and in the living beings He spread across the earth, are signs for people of sure faith.
 
-## AI Tafsir
-
-**What this ayah teaches:** And in your creation, and what He spread (through the earth) of moving creatures are signs for people who have faith with certainty.)(5. Verily, in the heavens and the earth are signs for the believers.)(4.
-
-**Classical tafsir:** Ibn Kathir notes: Verily, in the heavens and the earth are signs for the believers.)(4.
 ## Personal Reflections
-
 

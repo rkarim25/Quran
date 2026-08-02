@@ -164,11 +164,5 @@ One may argue that a criminal is apprehended, he is exposed to disgrace and is p
 
 That is how We punish in this world. The punishment of the Akhirah is far worse, if only they knew.
 
-## AI Tafsir
-
-**What this ayah teaches:** And, of course, the punishment of the Hereafter is even greater, if they but realize!....68:33).
-
-**Classical tafsir:** Ibn Kathir notes: A Rational Proof of Resurrection These verses give a solid proof to the necessity of the Day of Judgment, because accountability, rewarding the righteous and punishing the evil are all rationally necessary.
 ## Personal Reflections
-
 

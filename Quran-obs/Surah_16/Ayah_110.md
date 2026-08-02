@@ -119,11 +119,5 @@ In the second verse (107), the last day of Qiyamah was mentioned for the reason 
 
 As for those who emigrated after being compelled to renounce Islam, then struggled in Allah’s cause, and persevered, your Rabb O Prophet is truly All-Forgiving, the Rahim after all.
 
-## AI Tafsir
-
-**What this ayah teaches:** Then, verily, your Lord for those who emigrated after they were put to trials and then performed Jihad, and were patient, - after this, your Lord is indeed Forgiving, ar-Rahim (110)(Remember) the Day when every person will come pleading for himself, and every one will be paid in full for what he did, and they will not be dealt with unjustly .
-
-**Classical tafsir:** Ibn Kathir notes: The One who is forced to renounce Islam will be forgiven if He does Righteous Deeds afterwards This refers to another group of people who were oppressed in Makkah and whose position with their own people was weak, so they went along with them when they were tried by them.
 ## Personal Reflections
-
 

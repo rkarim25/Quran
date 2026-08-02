@@ -117,13 +117,5 @@ The Holy Qur'an, after attributing the above qualities to the Holy Prophet ﷺ �
 
 Give good news to the mu'mins that they will have a great bounty from Allah.
 
-## AI Tafsir
-
-**Context:** Wahb bin Munabbih said: "Allah revealed to one of the Prophets of the Children of Israel whose name was Sha'ya' (Isaiah); 'Stand up among your people the Children of Israel and I shall cause your tongue to utter (words o…
-
-**What this ayah teaches:** I will make them the heirs of their Prophet, calling people to their Lord, enjoining what is good, forbidding what is evil, establishing regular prayer, paying the Zakah and fulfilling their promises.
-
-**Classical tafsir:** Ibn Kathir notes: If he were to pass by a lamp, it would not be extinguished, because of his tranquillity.
 ## Personal Reflections
-
 

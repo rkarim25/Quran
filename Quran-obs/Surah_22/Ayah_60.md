@@ -165,15 +165,5 @@ In all these verses it is encouraged not to retaliate for revenge and rather for
 
 That is so. And whoever retaliates in equivalence to the injury they have received, and then are wronged again, Allah will certainly help them. Surely Allah is Ever-Pardoning, All-Forgiving.
 
-## AI Tafsir
-
-**Context:** (That is so. And whoever has retaliated with the like of that which he was made to suffer....) Muqatil bin Hayan and Ibn Jurayj mentioned that this was revealed about a skirmish in which the Companions encountered some o…
-
-**What this ayah teaches:** But surely he who bears patiently and forgives - surely that is true constancy - 42:43.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** Salman Al-Farisi, may Allah be pleased with him, passed by me and said, 'I heard the Messenger of Allah ﷺ say: He also recorded that 'Abdur-Rahman bin Jahdam Al-Khawlani was with Fadalah bin 'Ubayd when they accompanied with two funerals, at (an island of) sea one of whom had been struck by a catapult, and the other had passed away.
 ## Personal Reflections
-
 

@@ -110,17 +110,5 @@ In short, the infidel, according to this divine law, must always live in Hell. S
 
 And those who believe and do righteous deeds will be among the people of Paradise, remaining there forever.
 
-## AI Tafsir
-
-**Essence** Faith joined to righteous deeds makes a soul a companion of Paradise, abiding there forever (khalidun).
-
-**What it teaches** Here, iman means believing in Allah and His Messenger ﷺ; the salihat are deeds conforming to the Islamic Law. This is Allah's law of recompense, refuting the claim of the Jews of Madinah (2:80) that the Fire would touch them only a few days.
-
-**The scholars** Ibn Kathir: the matter is not as you wished — by Allah's promise, recompense follows deeds, not desires: "not the least injustice, even the size of a Naqira" (4:123-124). Ibn 'Abbas: whoever believes and implements Muhammad's religion "shall acquire Paradise for eternity." Maarif ul Quran: iman is itself the greatest good deed, so evil can never wholly surround a believer, even a sinner.
-
-**From the Sunnah** "Beware of the belittled sins, because they gather on a person until they destroy him." (Imam Ahmad)
-
-**Reflection** Scatter the small sins before they gather; gather the small good deeds before they scatter — and walk toward the Garden on the footing of faith.
 ## Personal Reflections
-
 

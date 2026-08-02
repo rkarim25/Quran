@@ -130,11 +130,5 @@ Acceptance of this interpretation of the religious scholars is also necessary be
 
 The Romans have been defeated
 
-## AI Tafsir
-
-**Context:** These Ayat were revealed about the victory of Sabur, the king of Persia, over Ash-Sham (Greater Syria), the adjoining partisan states of the Arabian Peninsula, and the outlying regions of the land of the Romans.
-
-**What this ayah teaches:** The Muslims wanted the Romans to prevail over them (the Persians), because they were both people who followed a Book. On that, the Holy Prophet ﷺ said to him that he did not fix the time of three years, because Qur'an has used the word Bid' Sinin (a few years) under which the time limit could be anything between three to nine years.
 ## Personal Reflections
-
 

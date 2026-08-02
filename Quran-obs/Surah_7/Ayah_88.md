@@ -138,11 +138,5 @@ As for the return of ` the rest of believers in Sayyidna Shu'aib (علیہ ال�
 
 The arrogant chiefs of his people threatened, “O Shu’aib! We will certainly expel you and your fellow those who have iman from our land, unless you return to our faith.” He replied, “Even if we hate it?
 
-## AI Tafsir
-
-**What this ayah teaches:** Not convinced by his answer, the arrogant chiefs of those people said what is always said by oppressive practitioners of arrogance.
-
-**Classical tafsir:** Ibn Kathir notes: Allah describes the way the those who reject the truth answered His Prophet Shu'ayb and those who believed in him,by threatening them with expulsion from their village,or with forceful reversion to the those who reject the truth's religion.
 ## Personal Reflections
-
 

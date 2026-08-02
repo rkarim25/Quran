@@ -152,13 +152,5 @@ How the book of deeds will be given in the right or the left hand is something n
 
 But whoever is blind to the truth in this dunya — this temporary worldly life will be blind in the Akhirah, and even far more astray from the Right Way.
 
-## AI Tafsir
-
-**Context:** Allah tells us that on the Day of Resurrection, he will call each people to account by its Imam. The scholars differed as to the meaning of this (i.e. Imam.
-
-**What this ayah teaches:** So whosoever is given his record in his right hand, such will read their records, and they will not be dealt with unjustly in the least (71)And whoever is blind in this [world] then he will be blind in the Hereafter, and most astray from the path .
-
-**Classical tafsir:** Ibn Kathir notes: Mujahid and Qatadah said that it meant each nation would be called to account by its Prophet.
 ## Personal Reflections
-
 

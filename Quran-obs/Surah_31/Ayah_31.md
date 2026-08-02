@@ -153,13 +153,5 @@ As it appears in some narratives, this verse was revealed in response to a quest
 
 Do you not see ships sailing through the sea by Allah's grace so He may show you signs? In that are signs for whoever is steadfast and grateful.
 
-## AI Tafsir
-
-**Context:** As it appears in some narratives, this verse was revealed in response to a question posed by Jewish priests. The reason which prompted them to ask this question was the verse of the Qur'an where it has been said: وَمَا أ…
-
-**What this ayah teaches:** See you not that the ships sail through the sea by Allah's grace that He may show you of His signs? Allah tells us that He is the One Who has subjugated the sea so that ships may sail on it by His command,i.e, His power.For if He did not give the water the strength to carry the ships, they would not sail.
-
-**Classical tafsir:** Ibn Kathir notes: This word describes a person who, whenever he makes a promise, breaks his promise, and it refers to the worst form of treachery.
 ## Personal Reflections
-
 

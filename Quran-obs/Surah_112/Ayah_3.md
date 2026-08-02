@@ -254,13 +254,5 @@ Verse [ 112:3] لَمْ يَلِدْ وَلَمْ يُولَدْ (He neither beg
 
 He has never begotten a child, nor was He born—free from the cycle of birth and death that defines everything in this dunya.
 
-## AI Tafsir
-
-**What this ayah teaches:** Allah was not born nor does He beget—no lineage, no offspring, no partnership in divinity.
-
-**Classical tafsir:** Ibn Kathir: this refutes claims that angels are Allah's daughters or that He took a son. Pure *tawhid* in Allah's essence.
-
-**From the Sunnah:** Whoever recites al-Ikhlas ten times, Allah builds a house in Paradise (Bukhari, Ahmad).
 ## Personal Reflections
-
 

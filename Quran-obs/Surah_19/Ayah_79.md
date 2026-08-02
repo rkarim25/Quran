@@ -113,13 +113,5 @@ Or has he entered into a covenant with Allah Ta` ala and obtained a promise from
 
 No. We record what he claims and will extend his punishment extensively.
 
-## AI Tafsir
-
-**What this ayah teaches:** It means, "We will take all of this from him, in opposition to his claim that he will be given more wealth and children in the Hereafter than he had in this life." To the contrary, in the Hereafter that which he had in this life will be taken from him.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** It has already been stated that in Sahih Al-Bukhari it is mentioned that covenant means an agreement. (Sahih al-Bukhari)
 ## Personal Reflections
-
 

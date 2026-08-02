@@ -187,11 +187,5 @@ By using the masculine form in the last word: تَلْبَسُونَهَا (talb
 
 He merges night into day and day into night, and has subjected the sun and moon, each running for an appointed term. That is Allah—your Lord! All sovereignty belongs to Him. Those you invoke besides Him do not own even the skin of a date stone.
 
-## AI Tafsir
-
-**What this ayah teaches:** Such is Allah, your Lord; His is the kingdom.
-
-**Classical tafsir:** Ibn Kathir notes: Qatadah said, "He is referring to Himself, may He be blessed and exalted, for He undoubtedly tells the truth."
 ## Personal Reflections
-
 

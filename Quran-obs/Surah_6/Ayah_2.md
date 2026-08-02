@@ -175,13 +175,5 @@ Summing up in a sequence, we can say that, in the first verse, we have been told
 
 He is the One Who created you from clay, then appointed a term and another known only to Him —yet you continue to doubt!
 
-## AI Tafsir
-
-**Context:** Al-'Awfi, 'Ikrimah and 'Ata' said that Ibn 'Abbas said, "Surat Al-An'am was revealed in Makkah" At-Tabarani recorded that Ibn 'Abbas said, "All of Surat Al-An'am was revealed in Makkah at night, accompanied by seventy th…
-
-**What this ayah teaches:** Then, it is to shake human beings out of their negligence that they have been told that every human being has a particular age, after which death is certain.
-
-**Classical tafsir:** Ibn Kathir notes: All praise be to Allah, Who created the heavens and the earth, and originated the darkness and the light, yet those who disbelieve hold others as equal with their Lord.)(2.
 ## Personal Reflections
-
 

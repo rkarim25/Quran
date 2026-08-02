@@ -243,13 +243,5 @@ Commenting on the verse: لَا تَزِرُ‌ وَازِرَ‌ةٌ (And no be
 
 Whoever chooses to be guided, it is only for their own good. And whoever chooses to stray, it is only to their own loss. No soul burdened with sin will bear the burden of another. And We would never punish a people until We have sent a messenger to warn them.
 
-## AI Tafsir
-
-**What this ayah teaches:** No One will have to bear the Sins of Another Allah tells us that whoever is guided and follows the truth, walking in the footsteps of the Prophet ﷺ, he will gain the good consequences of that for himself.
-
-**Classical tafsir:** Ibn Kathir notes: Bring us out, we shall do righteous good deeds, not (the evil deeds) that we used to do." (Allah will reply:) "Did We not give you lives long enough, so that whosoever would receive admonition could receive it?
-
-**From the Sunnah:** Allah tells us that whoever is guided and follows the truth, walking in the footsteps of the Prophet ﷺ, he will gain the good consequences of that for himself. It was reported by Ibn Jarir from the Hadith of Ma'mar from Hammam from Abu Hurayrah, who attributed it to the Prophet ﷺ.
 ## Personal Reflections
-
 

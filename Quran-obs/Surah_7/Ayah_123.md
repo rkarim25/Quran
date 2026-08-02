@@ -174,13 +174,5 @@ It was a clever design of Pharaoh. He tried to keep his people stay in their for
 
 Pharaoh threatened, “How dare you believe in him before I give you permission? This must be a conspiracy you devised in the city to drive out its people, but soon you will see.
 
-## AI Tafsir
-
-**What this ayah teaches:** He turned it into a political issue by saying, "So that you may expel its people from there." He wanted to make his people believe that they planned the whole matter to gain power over the country and expel the people from there. Surely, this is a plot which you have plotted in the city to drive out its people, but you shall come to know.
-
-**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas said that Fir'awn was the first to crucify and cut off hands and legs on opposite sides.
-
-**From the Sunnah:** pour out on us patience, and cause us to die as Muslims. Fir'awn then sent emissaries to various cities of his kingdom and collected magicians who were scattered throughout Egypt.
 ## Personal Reflections
-
 

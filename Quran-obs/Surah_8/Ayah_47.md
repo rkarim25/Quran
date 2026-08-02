@@ -201,11 +201,5 @@ The outcome was that he and his well-known accomplices found themselves dumped t
 
 Do not be like those who left their homes in arrogance, to be seen by people and to turn others from Allah's path. Allah encompasses what they do.
 
-## AI Tafsir
-
-**What this ayah teaches:** Another negative and detrimental aspect of conduct against which warning has been given in verse 47 and from which abstinence has been advised is that believers should not wax proud over their strength and numbers nor should they be guilty of nursing some per-sonal interest of theirs rather than remaining sincere to their mission at hand, because these two approaches would usually bring down great…
-
-**Classical tafsir:** Ibn Kathir notes: Another negative and detrimental aspect of conduct against which warning has been given in verse 47 and from which abstinence has been advised is that believers should not wax proud over their strength and numbers nor should they be guilty of nursing some per-sonal interest of th…
 ## Personal Reflections
-
 

@@ -145,13 +145,5 @@ This is the end of the Tafsir of Surat Al-Waqi'ah, all praise and thanks are due
 
 then comfort, fragrance, and a Garden of Bliss.
 
-## AI Tafsir
-
-**What this ayah teaches:** If the dying person is among the Foremost believers, he will experience comfort, fragrance of happiness and a Garden of bliss.
-
-**Classical tafsir:** Ibn Kathir notes: Abu Hazrah said that Rawh means: "Rest from the world." Sa'id bin Jubayr and As-Suddi said that it means to rejoice. Ibn 'Abbas, Mujahid and Sa'id bin Jubayr said that Rayhan means provisions.
-
-**From the Sunnah:** I heard him say, 'So-and-so narrated to me that he heard the Messenger of Allah ﷺ say, (Musnad Ahmad) This is the narration that Imam Ahmad collected; and in the Sahih, there is a Hadith with this meaning collected from 'A'ishah. (Musnad Ahmad)
 ## Personal Reflections
-
 

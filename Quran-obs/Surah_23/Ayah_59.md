@@ -76,11 +76,5 @@ Description of the People of Good Deeds
 
 and who associate none with their Rabb,.
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, those who live in awe for fear of their Lord (57)And those who believe in the Ayat of their Lord (58)And those who join not anyone as partners with their Lord (59)And those who give that which they give with their hearts full of fear, because they are sure to return to their Lord (60)It is these who hasten in the good deeds, and they are foremost in them .
-
-**Classical tafsir:** Ibn Kathir notes: It should be noted that the difference of opinion among the mujtahidin (competent Shari` ah Scholars) in some minor issues is not included in this division which is condemned in this verse, because these differences do not cause a division of the religion, nor do the people maint…
 ## Personal Reflections
-
 

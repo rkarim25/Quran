@@ -114,11 +114,5 @@ In any case, the Muslims are cautioned in this verse that they should prepare th
 
 Know that Allah revives the earth after its death. We have made the signs clear to you so perhaps you will understand.
 
-## AI Tafsir
-
-**Context:** This verse admonishes the believers. Sayyidna ` Abdullah Ibn ` Abbas ؓ reports that some of the believers were found to be lacking in firmness, and somewhat laziness was felt in their practices.
-
-**What this ayah teaches:** Indeed We have made clear the Ayat to you, if you but understand.) This Ayah indicates that He brings subtleness to hearts after they have become hard, guides the confused after they were led astray, and relieves hardships after they have intensified.
 ## Personal Reflections
-
 

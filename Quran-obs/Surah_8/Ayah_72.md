@@ -314,13 +314,5 @@ His return in this manner was heart-rending for all Muslims present on the occas
 
 Those who believed, emigrated, and strove with their wealth and lives in Allah's cause, and those who gave shelter and help—they are allies of one another. As for those who believed but did not emigrate, you owe them no protection until they emigrate. If they seek your help in deen, it is your duty to help them—except against a people with whom you have a treaty. Allah sees what you do.
 
-## AI Tafsir
-
-**What this ayah teaches:** Allied with it, there is another injunction which concerns mutual inheritance between Muhajir and non-Muhajir Muslims about which it has been stated in the first verse that the relationship of a Muslim - until he emigrates from Makkah - shall also remain severed with Muslims who have emigrated, as far as inheritance is concerned.
-
-**Classical tafsir:** Ibn Kathir notes: These Ayat indicate that the Muhajirin are better in grade than the Ansar, and there is a consensus on this ruling among the scholars.
-
-**From the Sunnah:** There are also the Ansar, the Muslims of Al-Madinah, who gave asylum to their Muhajirin brethren in their own homes and comforted them with their wealth. This is why Allah's Messenger ﷺ forged ties of brotherhood between the Muhajirin and Ansar, as Al-Bukhari recorded from Ibn 'Abbas. (Sahih al-Bukhari, Musnad Ahmad)
 ## Personal Reflections
-
 

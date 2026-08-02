@@ -179,13 +179,5 @@ We learn from this verse that it is one of the obligatory duties of a Muslim to 
 
 He left this enduring declaration among his descendants, so they may always turn back to Allah.
 
-## AI Tafsir
-
-**Context:** (And they say) means, objecting to that which Allah has revealed to him, (Why is not this Qur'an sent down to some great man of the two towns?) meaning, why was this Qur'an not revealed to some man who was great and prom…
-
-**What this ayah teaches:** It is We Who portion out between them their livelihood in this world, and We raised some of them above others in ranks, so that some may employ others in their work. He hastens their reward for good deeds in the form of luxuries in this world, so that when they reach the Hereafter, they will have no good merits with Allah for which they may be rewarded, as was reported in the Sahih Hadith.
-
-**Classical tafsir:** Ibn Kathir notes: Ibn Zayd said, "The word of Islam," which refers to the same thing suggested by the group.
 ## Personal Reflections
-
 

@@ -162,17 +162,5 @@ Tawakkul توکل is one of the superior human qualities. It does not mean that 
 
 When two groups among you were about to cower, then Allah reassured them. So in Allah let those who have iman put their trust.
 
-## AI Tafsir
-
-**Essence** When two believing clans nearly buckled with fear, Allah Himself was their Protector — proof that victory and steadiness come from Him alone, so in Him let the believers place their trust.
-
-**What it teaches** Set at the battle of Uhud, the ayah recalls how two groups (tafshala = "to lose heart") were on the verge of cowering when the hypocrite 'Abdullah ibn Ubayy withdrew with a third of the army, yet Allah was their Wali (Supporter and Protector). It closes with a command to tawakkul — total reliance placed on Allah alone, not on numbers or supplies.
-
-**The scholars** Ibn Kathir, citing Ibn 'Abbas, Al-Hasan, Qatadah and As-Suddi, places these verses at Uhud (Shawwal, 3 AH), and states their lesson plainly: "victory is only from Allah, not because of a large army and adequate supplies" — the very reason Badr is recalled next, where 313 ill-equipped men overcame a force of nearly a thousand. Maarif ul Quran identifies the two groups as Bani Harithah (of Aws) and Bani Salamah (of Khazraj), and stresses, citing Ibn Hisham, that their wavering came from a passing thought caused by material weakness, "certainly not because of any weakness in faith" — indeed the words "wal-Lahu waliyyuhuma" (Allah was their guardian) testify to their perfect faith. On the closing command, Maarif explains true tawakkul: one gathers every lawful means to the best of one's ability — as the Prophet ﷺ himself organized weapons, battle plans and entrenchments — then trusts the outcome to none but Allah, never growing proud of the assets gathered. Material facilities are themselves a blessing of Allah, yet reliance rests on Allah alone.
-
-**From the Sunnah** Al-Bukhari narrates from Jabir bin 'Abdullah that this ayah was revealed about these two tribes, and Jabir said he would not be pleased had it not been revealed, because Allah said in it "wal-Lahu waliyyuhuma" — that Allah was their Supporter and Protector. Ibn Kathir adds that Muslim recorded the hadith through Sufyan bin 'Uyaynah. (Sahih al-Bukhari; Sahih Muslim)
-
-**Reflection** Gather your means with both hands, then lay your heart's reliance on Allah alone — He is the Wali who steadies the faithful when fear rises.
 ## Personal Reflections
-
 

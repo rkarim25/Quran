@@ -129,11 +129,5 @@ and because you used to show arrogance.) has been derived from: فَرَح (fara
 
 Enter the gates of Hell, to stay forever. What an evil home for the arrogant!"
 
-## AI Tafsir
-
-**What this ayah teaches:** As for farah or marah, it can be explained by saying that seeking enjoyment out of sinfulness under the intoxication of wealth coupled with the absence of any thought of there being a Allah is certainly Haram and impermissible.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, no qualifying words were added to it.
 ## Personal Reflections
-
 

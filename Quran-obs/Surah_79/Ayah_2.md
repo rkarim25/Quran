@@ -174,11 +174,5 @@ The second quality of the angels:
 
 and those who draw out souls gently,
 
-## AI Tafsir
-
-**What this ayah teaches:** This signifies 'to untie the knot of something which contains water or air, so that it may be released easily'. By those who pull out, drowning.)(2.
-
-**Classical tafsir:** Ibn Kathir notes: In this case too, the adverb 'smoothly' refers to the spiritual smoothness, and not to the physical experience.
 ## Personal Reflections
-
 

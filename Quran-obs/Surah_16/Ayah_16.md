@@ -82,11 +82,5 @@ As for the last statement in the verse: وَبِالنَّجْمِ هُمْ يَ
 
 He placed firm mountains on the earth so it does not shake with you, rivers and paths so you may find your way,
 
-## AI Tafsir
-
-**What this ayah teaches:** And you see the ships plowing through it, that you may seek from His bounty and that you may perhaps be grateful (14)And He has driven firm standing mountains into the earth, lest it should shake with you; and rivers and roads, that you may guide yourselve (15)And (by the) landmarks; and by the stars, they guide themselves (16)Is then He Who creates the same as one who creates,…
-
-**Classical tafsir:** Ibn Kathir notes: He was the first one to travel by ship, he was taught how to make them, then people took this knowledge from him and passed it down from generation to generation through the centuries, so that they could travel from country to country and from place to place, bringing goods from…
 ## Personal Reflections
-
 

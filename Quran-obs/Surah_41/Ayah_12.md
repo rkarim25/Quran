@@ -276,13 +276,5 @@ Ibn 'Abbas, may Allah be pleased with him, replied:
 
 So He formed the heaven into seven heavens in two Days, assigning to each its mandate. We adorned the lowest heaven with stars for beauty and protection. That is the design of the Almighty, All-Knowing."
 
-## AI Tafsir
-
-**What this ayah teaches:** And the mountains He has fixed firmly, (to be) a provision and benefit for you and your cattle.)(79:27-33) This Ayah states that the spreading out of the earth came after the creation of the heavens, but the earth itself was created before the heavens according to some texts. And We adorned the nearest (lowest) heaven with lamps (stars) to be an adornment as well as to guard.
-
-**Classical tafsir:** Ibn Kathir notes: And the mountains He has fixed firmly, (to be) a provision and benefit for you and your cattle.)(79:27-33) This Ayah states that the spreading out of the earth came after the creation of the heavens, but the earth itself was created before the heavens according to some texts.
-
-**From the Sunnah:** This was the response of Ibn 'Abbas, may Allah be pleased with him, as recorded by Al-Bukhari in his Tafsir of this Ayah in his Sahih. (Sahih al-Bukhari)
 ## Personal Reflections
-
 

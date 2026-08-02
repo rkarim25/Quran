@@ -133,11 +133,5 @@ The sense of the rest of the verses is clear from their translation.
 
 The evildoers will certainly be left to eat from it, filling up their bellies with it.
 
-## AI Tafsir
-
-**What this ayah teaches:** Therefore, in Urdu and Hindi too, it is called 'nagphan' (hood of the serpent) for this very reason. They will eat from it, then the skin of their faces will fall off, If someone were to pass by, he would recognize them from their faces.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, in Urdu and Hindi too, it is called 'nagphan' (hood of the serpent) for this very reason.
 ## Personal Reflections
-
 

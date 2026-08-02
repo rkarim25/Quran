@@ -147,15 +147,5 @@ Stated in the next four verses (7-10) is the wisdom behind the proclamation of w
 
 And if anyone from the polytheists asks for your protection, grant it to them so they may hear the Word of Allah, then escort them to a place of safety, for they are a people who have no knowledge.
 
-## AI Tafsir
-
-**Context:** Ibn Abi Najih narrated that Mujahid said that this Ayah, "Refers to someone who comes to you to hear what you say and what was revealed to you (O Muhammad).
-
-**What this ayah teaches:** And if anyone of the Mushrikin seeks your protection then grant him protection so that he may hear the Word of Allah (the Qur'an) and then escort him to where he can be secure, that is because they are men who know not .
-
-**Classical tafsir:** Ibn Kathir notes: And if anyone of the Mushrikin seeks your protection then grant him protection so that he may hear the Word of Allah (the Qur'an) and then escort him to where he can be secure, that is because they are men who know not .
-
-**From the Sunnah:** They witnessed the great respect the Muslims had for the Prophet ﷺ, which astonished them, for they never before saw such respect for anyone, kings nor czars.
 ## Personal Reflections
-
 

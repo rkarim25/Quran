@@ -110,11 +110,5 @@ After referring to the birth of man from very insignificant beginning, the Surah
 
 Have you considered what you emit?
 
-## AI Tafsir
-
-**What this ayah teaches:** We created you, then why do you believe not (57)Do you not see the semen you emit (58)Is it you who create it, or are We the Creator (59)We have decreed death to you all, and We are not outstripped (60)To transfigure you and create you in (forms) that you know not (61)And indeed, you have already known the first form of creation, why then do you not remember .
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, whatever comes into existence comes under the veils of causes.
 ## Personal Reflections
-
 

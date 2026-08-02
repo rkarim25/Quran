@@ -322,13 +322,5 @@ At the end of the verse, it was said: قُلِ انتَظِرُ‌وا إِنّ�
 
 Are they awaiting the coming of the angels, or your Rabb, or some of your Rabb’s signs? On the Day your Rabb’s signs arrive, belief will not benefit those who did not believe earlier or those who did no good through their faith. Say, “Keep waiting! We too are waiting.”
 
-## AI Tafsir
-
-**Context:** The major portion of Surah Al-An` am has been revealed to correct the beliefs and deeds of the people of Makkah and the those who reject the truth of Arabia and to remove their doubts and to answer questions raised by them.
-
-**What this ayah teaches:** But, the answer given to them will be: The time for belief and deed is over.
-
-**Classical tafsir:** Ibn Kathir notes: In other words, it means: ` Are these people waiting to believe only when the angels of death reach them, or are they waiting to be on the plains of Resurrection when Allah Ta` ala will come to decide destinies, or are they waiting to see some last signs of the coming of the fate…
 ## Personal Reflections
-
 

@@ -268,13 +268,5 @@ Sayyidna ` Abdullah Ibn ` Umar ؓ said that, out of all verses of the Qur'an, th
 
 Say that Allah says: "O My servants who have exceeded the limits against their souls! Do not lose hope in Allah's mercy, for Allah certainly forgives all sins. He is indeed the All-Forgiving, the Rahim.
 
-## AI Tafsir
-
-**What this ayah teaches:** Additionally, one must not despair of the mercy of Allah even if his sins are many and great, for the door of repentance and mercy is expansive.
-
-**Classical tafsir:** Ibn Kathir notes: Or he should say when he sees the torment: "If only I had another chance, then I should indeed be among the doers of good.") means, he will wish that he could go back to this world, so that he could do righteous deeds.
-
-**From the Sunnah:** some of the people of Shirk killed many people and committed Zina (illegal sexual acts) to a great extent; they came to Muhammad ﷺ and said, "What you are saying and calling us to is good; if only you could tell us that there is an expiation for what we have d… (Sahih al-Bukhari) Despair not of the mercy of Allah.) This was also recorded by Muslim, Abu Dawud and An-Nasa'i. (Sahih Muslim, Sunan Abi Dawud)
 ## Personal Reflections
-
 

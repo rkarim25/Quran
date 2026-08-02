@@ -125,11 +125,5 @@ Ibn Zayd said, "The Shawa is the marrow of the bones." As for,
 
 These opening letters—known as the muqatta'at—are among the signs whose full meaning Allah kept with Himself. They open the surah by reminding the reader that this Book is from beyond human authorship: approach it with humility, not arrogance.
 
-## AI Tafsir
-
-**What this ayah teaches:** This is because they were, as Allah said, of those who turned their backs and turned away. The phrase 'accumulated wealth' signifies 'wealth accumulated by unlawful means' and the phrase 'hoarded it' signifies 'not fulfilling the pecuniary obligations as imposed by the Shari` ah', as is confirmed by authentic ahadi'th.
-
-**Classical tafsir:** Ibn Kathir notes: The phrase 'accumulated wealth' signifies 'wealth accumulated by unlawful means' and the phrase 'hoarded it' signifies 'not fulfilling the pecuniary obligations as imposed by the Shari` ah', as is confirmed by authentic ahadi'th.
 ## Personal Reflections
-
 

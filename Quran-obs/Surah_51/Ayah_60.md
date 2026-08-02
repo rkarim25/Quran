@@ -127,13 +127,5 @@ Ends here
 
 Woe to those who reject the truth when they face the Day they were warned about.
 
-## AI Tafsir
-
-**What this ayah teaches:** A turn is designated for each of the persons using the large common bucket to draw out water from the well, so that he is conveniently able to fill it in his own private bucket in his turn.
-
-**Classical tafsir:** Ibn Kathir notes: This verse, in which the word dhanuban occurs, indicates that they will receive their due share of the torment, and it will surely come in due time; so they should not ask for it to be hastened on or rushed to them.
-
-**From the Sunnah:** this Hadith. (Musnad Ahmad, Jami' at-Tirmidhi)
 ## Personal Reflections
-
 

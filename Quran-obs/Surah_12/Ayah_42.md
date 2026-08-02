@@ -107,11 +107,5 @@ After that, to the person about whom Sayyidna Yusuf (علیہ السلام) had 
 
 Then he said to the one he knew would survive, “Mention me in the presence of your master.” But Satan made him forget to mention Joseph to his master, so he remained in prison for several years.
 
-## AI Tafsir
-
-**What this ayah teaches:** And he said to the one whom he knew to be saved: "Mention me to your king." But Shaytan made him forget to mention it to his master. That man forgot Yusuf's request and did not mention his story to the king, a plot from the devil, so that Allah's Prophet would not leave the prison.
-
-**Classical tafsir:** Ibn Kathir notes: That man forgot Yusuf's request and did not mention his story to the king, a plot from the devil, so that Allah's Prophet would not leave the prison.
 ## Personal Reflections
-
 

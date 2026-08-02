@@ -114,13 +114,5 @@ The verse said that a little reflection on their part shall be enough to prove t
 
 Have they not ever given it a thought? Their fellow man is not insane. He is only sent with a clear warning.
 
-## AI Tafsir
-
-**What this ayah teaches:** If you do this, it will become clear to you that he is the Messenger of Allah ﷺ in truth and justice.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** If you do this, it will become clear to you that he is the Messenger of Allah ﷺ in truth and justice.
 ## Personal Reflections
-
 

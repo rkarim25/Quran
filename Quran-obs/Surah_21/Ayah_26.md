@@ -102,11 +102,5 @@ Here Allah refutes those who claim that He has offspring among the angels – ex
 
 And they say, “The the Rahman — mercy that encompasses all creation in this life has offspring!” Glory be to Him! In fact, those angels are only His honoured servants,.
 
-## AI Tafsir
-
-**What this ayah teaches:** And they say: "The ar-Rahman has begotten children." Glory to Him!
-
-**Classical tafsir:** Ibn Kathir notes: Another explanation of the verse is given in Al-Bahr ul-Muhit according to which the word (dhikr) means here "description", and the sense is that this Qur'an is a description for the people who were in the days of the Holy Prophet ﷺ which describes for them the rules of Shari'ah…
 ## Personal Reflections
-
 

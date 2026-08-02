@@ -102,13 +102,5 @@ And Allah is Pure and High and He knows everything best.
 
 Had your Rabb so willed, He would have certainly made humanity one single community of believers, but they will always choose to differ—
 
-## AI Tafsir
-
-**What this ayah teaches:** Then it (Hell) will say, "Enough, enough, by Your might!") Difference: Blameworthy and Praiseworthy When it was said in the fifth verse (118) - ` had your Lord willed, He would have made all the people a single community' - the sense is that had it been the will of Allah, He would have made all human beings accept Islam by force.
-
-**Classical tafsir:** Ibn Kathir notes: Except him on whom your Lord has bestowed His mercy,) This means that people will always differ in religions, creeds, beliefs, opinions and sects.
-
-**From the Sunnah:** Paradise and some deserve the Hell Fire. All of them would have then become nothing but Muslims without any difference remaining between them.
 ## Personal Reflections
-
 

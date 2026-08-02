@@ -122,11 +122,5 @@ It is worth noting here that this saying of Musa (علیہ السلام) has est
 
 So Moses left the city in a state of fear and caution, praying, “My Rabb! Deliver me from the wrongdoing people.”
 
-## AI Tafsir
-
-**What this ayah teaches:** He was not used to being alone, because before that he had been living a life of luxury and ease, in a position of leadership. Therefore, by declaring him a criminal he vowed not to help such a person again.
-
-**Classical tafsir:** Ibn Kathir notes: He was not used to being alone, because before that he had been living a life of luxury and ease, in a position of leadership.
 ## Personal Reflections
-
 

@@ -103,11 +103,5 @@ Allah Did Not Create His Servants in Vain
 
 He will say, “You only remained for a little while, if only you knew.
 
-## AI Tafsir
-
-**What this ayah teaches:** Out of the five, replies were furnished to four, but in reply to the fifth Allah commanded them not to speak to Him. Thus these are the last words to be uttered by them after which they will not be able to speak.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

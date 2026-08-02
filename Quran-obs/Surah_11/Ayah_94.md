@@ -170,13 +170,5 @@ During the Khilafah of Sayyidna ` Umar ibn ` Abd al-` Aziz (رح) ، someone was
 
 When Our command came, We saved Shu’aib and those who believed with him by a mercy from Us. And the mighty blast overtook the wrongdoers, so they fell lifeless in their homes,.
 
-## AI Tafsir
-
-**What this ayah teaches:** And As-Sayhah (awful cry) seized the wrongdoers, and they lay (Jathimin) in their homes.) His saying Jathimin means extinct and lifeless without any movement.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** There is a consensus of the entire Muslim Ummah that doing so is strictly Haram (unlawful). (Sahih Muslim)
 ## Personal Reflections
-
 

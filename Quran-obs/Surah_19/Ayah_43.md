@@ -126,11 +126,5 @@ How to give counsel to elders.
 
 O dear father, I have received knowledge you have not received—follow me and I will guide you to the Straight Path.
 
-## AI Tafsir
-
-**What this ayah teaches:** Instead, guided by prophetic wisdom he merely invited his father's attention to the helplessness and insensitivity of his idols, so that he might himself realize the fallacy of his beliefs. So follow me, I will guide you to the straight path.
-
-**Classical tafsir:** Ibn Kathir notes: Verily, I fear lest a torment from the ar-Rahman should overtake you, so that you become a companion of Shaytan.
 ## Personal Reflections
-
 

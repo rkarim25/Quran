@@ -116,15 +116,5 @@ Similarly, they are described here as saying:
 
 In fact, he came with the truth, confirming earlier messengers.
 
-## AI Tafsir
-
-**Context:** (I have been commanded to fight the people until they say La ilaha ill-Allah. Whoever says La ilaha illallah, he and his property are safe from me except for his obligation, and his reckoning will be with Allah, may He b…
-
-**What this ayah teaches:** he has come with the truth and he confirms the Messengers . he has come with the truth) meaning, the Messenger of Allah ﷺ has brought the truth with all that Allah has revealed to him of stories and commandments.
-
-**Classical tafsir:** Ibn Kathir notes: And (they) said: "Are we going to abandon our gods for the sake of a mad poet?") meaning, 'Shall we stop worshipping our gods and the gods of our forefathers just because of the words of this mad poet?' – meaning the Messenger of Allah ﷺ.
-
-**From the Sunnah:** And (they) said: "Are we going to abandon our gods for the sake of a mad poet?") meaning, 'Shall we stop worshipping our…
 ## Personal Reflections
-
 

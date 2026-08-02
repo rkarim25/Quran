@@ -114,11 +114,5 @@ The last few verses of this Surah Al-Mu'minun from verse 115 to verse 118 have s
 
 Exalted is Allah, the True King! There is no god worthy of worship except Him, the Rabb of the Honourable Throne.
 
-## AI Tafsir
-
-**What this ayah teaches:** Allah tells them how much they wasted in their short lives in this world by failing to obey Allah and worship Him Alone. If you had patiently obeyed Allah and worshipped Him as the believers did, you would have attained victory just as they did.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

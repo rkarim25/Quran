@@ -118,11 +118,5 @@ In verse 69, it was said: وَجِيءَ بِالنَّبِيِّينَ وَال
 
 It will be said to them, "Enter the gates of Hell, to stay there forever." What an evil home for the arrogant!
 
-## AI Tafsir
-
-**What this ayah teaches:** And those who disbelieved will be driven to Hell in groups till when they reach it, the gates thereof will be opened.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

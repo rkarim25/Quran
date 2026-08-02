@@ -254,15 +254,5 @@ Another point illustrated by this incident is that an act which is permissible i
 
 When you see them, their appearance impresses you; when they speak, you listen to their polished words. But they are like worthless planks leaned against a wall. They think every cry is against them. They are the enemy—beware of them. May Allah condemn them! How can they be deluded from the truth?
 
-## AI Tafsir
-
-**Context:** The incident, in which this Surah was revealed, took place in the campaign against Banul-Mustaliq which happened, according to Muhammad Ibn Ishaq in Sha’ ban 6AH and according to Qatadah and ‘Urwah, in Sha’ ban 5AH.
-
-**What this ayah teaches:** They are arrogant; it is neither easy for them to blend in, nor it is easy for people to blend with them.
-
-**Classical tafsir:** Ibn Kathir notes: That is because they believed, and then disbelieved; therefore their hearts are sealed, so they understand not.)(4.
-
-**From the Sunnah:** Allah the Exalted states that the hypocrites pretended to be Muslims when they went to the Prophet ﷺ. Thus they hinder (others) from the path of Allah.) meaning, the hypocrites shield themselves from Muslims when they falsely and sinfully swear to be what they are not in reality.
 ## Personal Reflections
-
 

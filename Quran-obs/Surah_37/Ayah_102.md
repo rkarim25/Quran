@@ -285,15 +285,5 @@ After that, Sayyidna Ismail (علیہ السلام) also gave an assurance to hi
 
 Then when the boy reached the age to work with him, Abraham said: "O my dear son! I have seen in a dream that I must sacrifice you. So tell me what you think." He replied: "O my dear father! Do as you are commanded. If Allah wills, you will find me steadfast."
 
-## AI Tafsir
-
-**Context:** Right from here comes a clear refutation of those who deny the authority of Hadith and who do not accept the existence of any revelation that is not recited.
-
-**What this ayah teaches:** Furthermore, the firstborn son has a special status that is not shared by subsequent children, so the command to sacrifice him is a more exquisite test.
-
-**Classical tafsir:** Ibn Kathir notes: They inserted the name of Ishaq because he is their ancestor, while Isma'il is the ancestor of the Arabs.
-
-**From the Sunnah:** The Muslims and the People of the Book agree, and indeed it is stated in their Book, that Isma'il, peace be upon him, was born when Ibrahim, peace be upon him, was eighty-six years old, and Ishaq was born when Ibrahim was ninety-nine years old.
 ## Personal Reflections
-
 

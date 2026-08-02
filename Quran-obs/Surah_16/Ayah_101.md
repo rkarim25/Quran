@@ -125,11 +125,5 @@ In the previous verse (98), there was an instruction to say اَعُوذ بِا�
 
 When We replace a verse with another—and Allah knows best what He reveals—they say, “You Muḥammad are just a fabricator.” In fact, most of them do not know.
 
-## AI Tafsir
-
-**What this ayah teaches:** And when We change a verse in place of another - and Allah knows best what He reveals - they (the those who reject the truth) say: "You (O Muhammad) are but a forger." Rather, most of them know not (101)Say (O Muhammad); "Ruh-ul-Qudus has brought it (the Qur'an) down from your Lord with truth." for the conviction of those who believe, and as a guide and good news for the Muslims .
-
-**Classical tafsir:** Ibn Kathir notes: He explains that it is impossible for them to have faith when He has decreed that they are doomed.
 ## Personal Reflections
-
 

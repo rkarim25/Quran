@@ -151,11 +151,5 @@ This means that he will call to the worship of his Lord in his cradle and while 
 
 He said: "I am only a messenger from your Rabb, sent to bless you with a pure son."
 
-## AI Tafsir
-
-**What this ayah teaches:** And he will speak to the people, in the cradle and in manhood, and he will be one of the righteous.)[3:45-46] This means that he will call to the worship of his Lord in his cradle and while and adult.
-
-**Classical tafsir:** Ibn Kathir notes: And he will speak to the people, in the cradle and in manhood, and he will be one of the righteous.)[3:45-46] This means that he will call to the worship of his Lord in his cradle and while and adult.
 ## Personal Reflections
-
 

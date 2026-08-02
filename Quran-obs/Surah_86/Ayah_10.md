@@ -162,13 +162,5 @@ Likewise, his deeds and actions that he had done secretly, and no one was aware 
 
 Then one will have neither power nor helper.
 
-## AI Tafsir
-
-**Context:** يَوْمَ تُبْلَى السَّرَائِرُ (on a day when all the secrets will be searched out.. 86:9). The word tubla literally means 'to test/examine' and sara'ir means 'secrets'.
-
-**What this ayah teaches:** Then he will have no power, nor any helper.) Swearing by the Existence of Humanity surrounded by the Organized System of Allah Allah swears by the heaven and what He has placed in it of radiant stars. The word tubla literally means 'to test/examine' and sara'ir means 'secrets'.
-
-**Classical tafsir:** Ibn Kathir notes: The word tubla literally means 'to test/examine' and sara'ir means 'secrets'.
 ## Personal Reflections
-
 

@@ -319,17 +319,5 @@ trial.
 
 When Saul marched with his army, he said, "Allah will test you with a river. Whoever drinks his fill is not with me; whoever does not taste it — except a handful — is with me." They all drank except a few. When he and the faithful with him crossed, they said, "We have no strength today against Goliath and his forces." But those certain they would meet Allah said, "How often has a small band defeated a large army by Allah's will! Allah is with the steadfast."
 
-## AI Tafsir
-
-**Essence** When Talut led his army out, Allah sifted true faith from weak resolve at a single river-crossing — and the steadfast few learned that victory is granted by Allah's leave, not by numbers.
-
-**What it teaches** A thirst-test may seem a strange gate to a battlefield, but it is an exact proxy for the one quality war demands. As Talut (Saul) marched out, Allah announced a trial (ibtila): a river where those who drank their fill would be cut from his ranks, while those who refrained — or took only a sip from the hollow of the hand — would remain. To hold back from water in the grip of thirst is to prove the very patience a soldier needs under fire; to rush at it is to betray its absence. Most drank freely and failed; only a few crossed, then steadied one another with the truth that triumph comes "bi-idhnillah," by Allah's leave, and that "Allah is with the patient" (as-sabirin).
-
-**The scholars** Ibn Kathir, citing As-Suddi, reports Talut's army numbered about eighty thousand (adding "Allah knows best"); per Ibn 'Abbas the river flowed between Jordan and Palestine. He glosses "he is not of me" as "shall not accompany me today," and the sip in the hand as carrying "no harm." Ibn Jurayj relates from Ibn 'Abbas that whoever took only a handful had his thirst quenched, while those who drank freely were left thirsty still. When the believers, now few, feared the vast enemy, Ibn Kathir notes their knowledgeable scholars strengthened them: Allah's promise is true, and triumph is from Allah alone, not large numbers or ample supplies. Maarif ul Quran reads the test's wisdom as a pruning of the weak, whose panic spreads to others — and notes (from Ruh al-Ma'ani, via Ibn Abi Hatim from Ibn 'Abbas) that those who drank too much became mysteriously more incapacitated. Maarif distinguishes three kinds: the weak in faith who failed; the perfect who passed yet worried over their small numbers; and the most perfect, untroubled even by that.
-
-**From the Sunnah** That a believing remnant is what truly wins found its echo in Islam's first great battle. Al-Bara' bin 'Azib relates that the Companions who fought at Badr — more than three hundred and ten — were as many as the soldiers who crossed the river with Talut; and only those who truly believed crossed with him. (Al-Bukhari)
-
-**Reflection** When ease is set before you in your hour of thirst, hold steady — Allah is with the patient, and He alone grants the victory.
 ## Personal Reflections
-
 

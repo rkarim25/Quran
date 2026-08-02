@@ -139,13 +139,5 @@ Verse 48: إِنَّ رَ‌بِّي يَقْذِفُ بِالْحَقِّ عَ�
 
 Say: "If I am astray, the loss is only mine. If I am guided, it is only because of what my Lord reveals to me. He is All-Hearing, Ever Near."
 
-## AI Tafsir
-
-**What this ayah teaches:** But if I remain guided, it is because of the Revelation of my Lord to me.
-
-**Classical tafsir:** Ibn Kathir notes: But if I remain guided, it is because of the Revelation of my Lord to me.
-
-**From the Sunnah:** When the Messenger of Allah ﷺ entered Al-Masjid Al-Haram on the day of the conquest of Makkah, and found those idols standing around the Ka'bah, he started to hit the idols with his bow, reciting,
 ## Personal Reflections
-
 

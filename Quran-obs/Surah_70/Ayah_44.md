@@ -188,13 +188,5 @@ Ends here.
 
 with eyes downcast, utterly covered in disgrace. That is the Day they have always been warned of.
 
-## AI Tafsir
-
-**What this ayah teaches:** This (Nasb) is a verbal noun meaning something that is erected. The use of plural number in this verse too indicates that there are many types and categories of 'testimony', and it is necessary to stand firm by one's testimony of any type.
-
-**Classical tafsir:** Ibn Kathir notes: The use of plural number in this verse too indicates that there are many types and categories of 'testimony', and it is necessary to stand firm by one's testimony of any type.
-
-**From the Sunnah:** Allah rebukes the those who reject the truth who, in the time of the Prophet ﷺ, saw him and the guidance Allah sent him with. Jabir bin Samurah narrated that the Messenger of Allah ﷺ came out to them while they were sitting in circles.
 ## Personal Reflections
-
 

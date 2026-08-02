@@ -176,11 +176,5 @@ Then the Holy Qur'an has pointed to different demonstrations of His power to pro
 
 created you in pairs,
 
-## AI Tafsir
-
-**What this ayah teaches:** This is so that it may be suitable for dwelling and not quake with those who are in it. In other words, when they die, they will discover the realities of the next world.
-
-**Classical tafsir:** Ibn Kathir notes: This is so that it may be suitable for dwelling and not quake with those who are in it.
 ## Personal Reflections
-
 

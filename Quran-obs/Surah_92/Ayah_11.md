@@ -237,15 +237,5 @@ Mujahid said, "This means when he dies." Abu Salih and Malik said – narrating 
 
 His wealth will not help when he falls headlong—into ruin in the grave and on the Day of Judgment.
 
-## AI Tafsir
-
-**Context:** Ibn Jarir recorded from 'Amir bin 'Abdullah bin Az-Zubayr that he said, "Abu Bakr used to free servants upon their acceptance of Islam in Makkah. He used to free the elderly and the women when they accepted Islam.
-
-**What this ayah teaches:** The expression 'When he fall' signifies that when Divine decree regarding his destruction comes into operation, nothing - not even his wealth - will save him, whether in grave after his death, or on the Day of Judgment, when he will be falling into the abyss of Hell. We will make smooth for him the path to evil.)(11.
-
-**Classical tafsir:** Ibn Kathir notes: We will make smooth for him the path to evil.)(11.
-
-**From the Sunnah:** This Hadith has been recorded by At-Tirmidhi in the Book of Al-Qadar and he said "Hasan Sahih.". (Jami' at-Tirmidhi, authentic hadith)
 ## Personal Reflections
-
 

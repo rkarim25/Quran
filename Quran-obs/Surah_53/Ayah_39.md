@@ -172,13 +172,5 @@ The foregoing verses have elaborated on two issues with reference to the scriptu
 
 and that each person will have only what they strove for,
 
-## AI Tafsir
-
-**Context:** Allah the Exalted explained what He has revealed in the Scripture of Ibrahim and Musa,
-
-**What this ayah teaches:** They are that just as it is possible to pray for and proffer the reward of charity to another person, so likewise it is possible to recite the Qur'an and perform other voluntary prayers to pass the reward to another person who will receive it.
-
-**Classical tafsir:** Ibn Kathir notes: Such a person has stopped giving in charity for righteous causes and did not keep relations with kith and kin because of his miserliness, being stingy and out of fear of poverty.
 ## Personal Reflections
-
 

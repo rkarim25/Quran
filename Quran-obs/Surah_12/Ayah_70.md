@@ -115,13 +115,5 @@ Here, the word: (thumma ثُمَّ : translated as ` then' ) shows that this pub
 
 When Joseph had provided them with supplies, he slipped the royal cup into his brother’s bag. Then a herald cried, “O people of the caravan! You must be thieves!”
 
-## AI Tafsir
-
-**What this ayah teaches:** So when he furnished them forth with their provisions, he put the bowl in his brother's bag.
-
-**Classical tafsir:** Ibn Kathir notes: Shu'bah said that Abu Bishr narrated that Sa'id bin Jubayr said that Ibn 'Abbas said that the king's bowl was made from silver and he used it to drink with.
-
-**From the Sunnah:** Abu Bishr narrated that Sa'id bin Jubayr said that Ibn 'Abbas said that the king's bowl was made from silver and he used it to drink with.
 ## Personal Reflections
-
 

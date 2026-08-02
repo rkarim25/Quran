@@ -247,13 +247,5 @@ And We have not sent any (one) before you but men to whom We revealed from among
 
 The Messiah, son of Mary, was no more than a messenger. messengers had gone before him. His mother was a woman of truth. They both ate food. See how We make the signs clear to them, yet see how they are deluded !
 
-## AI Tafsir
-
-**Context:** Mujahid and several others said that this Ayah was revealed about the Christians in particular. As-Suddi and others said that this Ayah was revealed about taking 'Isa and his mother as gods besides Allah, thus making All…
-
-**What this ayah teaches:** In the present verse (75), the complimentary use of the word "Siddiqah" (truthful) obviously seems to indicate that she was a godly person, not a Nabiyy ( prophet) - because on a complimentary occasion, what is mentioned is the higher rank.
-
-**Classical tafsir:** Ibn Kathir notes: In the present verse (75), the complimentary use of the word "Siddiqah" (truthful) obviously seems to indicate that she was a godly person, not a Nabiyy ( prophet) - because on a complimentary occasion, what is mentioned is the higher rank.
 ## Personal Reflections
-
 

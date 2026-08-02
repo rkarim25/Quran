@@ -214,13 +214,5 @@ Commentary
 
 Pharaoh declared, “O chiefs! I know of no other god for you but myself. So bake bricks out of clay for me, O Hamân, and build a high tower so I may look at the Allah of Moses, although I am sure he is a liar.”
 
-## AI Tafsir
-
-**What this ayah teaches:** So kindle for me (a fire), O Haman, to bake clay, and set up for me a Sarh in order that I may look at the Allah of Musa; and verily, I think that he (Musa) is one of the liars. When the Pharaoh planned to build a very tall palace for himself, he asked his minister Haman to get the bricks baked properly first, because half baked bricks could not take the load of a tall building.
-
-**Classical tafsir:** Ibn Kathir notes: So kindle for me (a fire), O Haman, to bake clay, and set up for me a Sarh in order that I may look at the Allah of Musa; and verily, I think that he (Musa) is one of the liars.
-
-**From the Sunnah:** Historical narrations have recorded that Haman had collected fifty thousand masons for building this palace.
 ## Personal Reflections
-
 

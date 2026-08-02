@@ -204,13 +204,5 @@ After having generally mentioned prophets, peace be on them all, before saying: 
 
 O mu'mins! Remember Allah’s favour upon you when enemy forces came to besiege you in Medina, so We sent against them a bitter wind and forces you could not see. And Allah is All-Seeing of what you do.
 
-## AI Tafsir
-
-**What this ayah teaches:** Remember Allah's favor to you, when there came against you hosts, and We sent against them a wind and forces that you saw not.
-
-**Classical tafsir:** Ibn Kathir notes: It is to further confirm and emphasize these very two things that, in the present two verses as well, the same two subjects have been reiterated, that is, the recipient of the revelation has been obligated to follow the revelation received by him from Allah and the non-recipient…
-
-**From the Sunnah:** When the Messenger of Allah ﷺ heard that they had set out, he commanded the Muslims to dig a ditch (Khandaq) around Al-Madinah from the east. Banu Qurayzah, who were a group among the Jews, had a fortress in the south-east of Al-Madinah, and they had made a treaty with the Prophet ﷺ and were under his protection.
 ## Personal Reflections
-
 

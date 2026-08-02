@@ -126,15 +126,5 @@ This is the end of the Tafsir of Surat Al-Fajr, and all praise and blessings are
 
 O tranquil soul—the nafs mutma'innah, the soul at peace with Allah, no longer torn between craving and fear—
 
-## AI Tafsir
-
-**Context:** He said, "This Ayah was revealed while Abu Bakr was sitting (with the Prophet ﷺ). So he said, 'O Messenger of Allah! There is nothing better than this!' The Prophet ﷺ then replied,
-
-**What this ayah teaches:** Here the soul of the believer is referred to as nafs mutma'innah 'the contented soul'.
-
-**Classical tafsir:** Ibn Kathir notes: The word mutma'innah literally means 'calm'.
-
-**From the Sunnah:** This is similar to what Imam Ahmad bin Hanbal recorded from Muhammad bin Abi 'Amirah, who was one of the Companions of the Messenger of Allah ﷺ. (Musnad Ahmad)
 ## Personal Reflections
-
 

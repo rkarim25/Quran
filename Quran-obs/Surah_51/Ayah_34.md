@@ -80,11 +80,5 @@ Small pebbles of baked clay would be sent down upon them: مُّسَوَّمَة
 
 marked by your Rabb for those who crossed every limit.
 
-## AI Tafsir
-
-**What this ayah teaches:** Some scholars say that each stone bore the name of the person with which he was to be destroyed, and if he ran in any particular direction, he was pursued by the same stone.
-
-**Classical tafsir:** Ibn Kathir notes: Some scholars say that each stone bore the name of the person with which he was to be destroyed, and if he ran in any particular direction, he was pursued by the same stone.
 ## Personal Reflections
-
 

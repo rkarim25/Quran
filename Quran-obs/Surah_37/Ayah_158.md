@@ -151,13 +151,5 @@ Immediately next within verse 158 it was said: وَلَقَدْ عَلِمَتِ
 
 They have also established a marital relationship between Him and the jinn. Yet the jinn themselves know well that such people will certainly be brought for punishment.
 
-## AI Tafsir
-
-**Context:** (Except the servants of Allah, whom He chooses.) The pronoun in the verb translated as "they attribute" refers to all of mankind, then He excludes those whom He chooses, who are the ones who follow the truth revealed to…
-
-**What this ayah teaches:** But, this Tafsir leaves an unresolved difficulty behind: The verse is talking about the attribution of kinship between Allah Ta’ ala and the Jinns, while the marital relationship of a husband and wife is not based on kinship.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

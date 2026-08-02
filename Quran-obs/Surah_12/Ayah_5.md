@@ -173,13 +173,5 @@ To make your objectives succeed, seek help from keeping them secret - because, e
 
 He replied, “O my dear son! Do not relate your vision to your brothers, or they will devise a plot against you. Surely Satan is a sworn enemy to humankind.
 
-## AI Tafsir
-
-**What this ayah teaches:** Surely, Satan is an open enemy for mankind ...' [ for He seduces people to take such action for the sake of worldly wealth and power ].
-
-**Classical tafsir:** Ibn Kathir notes: As for the sense of the interpretation of a dream remaining hinged to it, Tafsir Mazhari explains it by saying that some matters of destiny are not absolutely pre-decided, instead, they remain in a state of suspension, that is, if something was done, the impending misfortune will…
-
-**From the Sunnah:** The dreams of common believing Muslims are not free of many a probability. This is against definite, categorical and absolute statements of the Holy Qur'an and against countless sound and authentic Ahadith, and squarely against the collective belief of the entire Muslim Ummah in the finality of prophethood (the ` Aqidah of Khatm Nubu… (Sahih Muslim)
 ## Personal Reflections
-
 

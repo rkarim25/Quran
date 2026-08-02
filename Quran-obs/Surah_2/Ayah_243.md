@@ -350,19 +350,5 @@ The third verse (245), which follows, deals with the merits of spending in the w
 
 Have you not considered those who left their homes by the thousands, fleeing death? Allah said to them, "Die," then revived them. Allah is bountiful to humanity, but most people are ungrateful.
 
-## AI Tafsir
-
-**Essence** No flight can outrun death: Allah made thousands die at His word and then restored them to life, a living proof that the decreed term is fixed and resurrection is real.
-
-**What it teaches** Allah recounts a people who "went out from their homes" as a great multitude (wa-hum ulufun) fleeing an epidemic, only for Him to command "Mutu — Die," and then He revived them. The reports differ on their number, which the ayah itself leaves as "thousands." The "seeing" in "Have you not seen" (alam tara) is ruyah al-qalb, seeing with the heart — knowledge and certainty — and the ayah closes that Allah is Dhu fadl, full of bounty, yet most people do not give shukr (gratitude).
-
-**The scholars** Ibn Kathir relates from Ibn 'Abbas (via Waki' and Ibn Abu Hatim) that they were people of a village called Dawardan near Wasit who fled the plague saying, "We should go to a land free of death," whereupon Allah made them die at once — this narration numbers them at four thousand. Several of the Salaf, however, report some ten thousand, and Maarif ul Quran notes that ulufun is a plural of multitude, in Arabic not used for fewer than ten, putting their number at no less than ten thousand. Long after, the Prophet Hizqil (Ezekiel) of the Children of Israel passed by their decayed bones and, at Allah's command, called the bones to join, be clothed with flesh, and receive back their souls — and they rose praising Allah, declaring there is no deity worthy of worship except Him. Ibn Kathir draws two lessons: this is "a clear proof that physical resurrection shall occur on the Day of Resurrection," and "no caution can ever avert destiny and there is no refuge from Allah but to Allah Himself." Maarif ul Quran adds that the command "Mutu" may come directly or through an angel, as in "Be, and it is" (36:82), and that the very bones obeying Allah show that all creation is "oriented to Divine commands"; the closing "most people are ungrateful" awakens man who witnesses countless signs of grace yet offers no thanks.
-
-**From the Sunnah** When 'Umar ibn al-Khattab learned plague had struck Syria, 'Abdur-Rahman bin 'Awf reported the Prophet's ﷺ command — if plague is in a land you are in, do not flee from it, and if you hear of it in a land, do not enter it — so 'Umar thanked Allah and turned back; flight does not escape the decree. (Bukhari and Muslim — Sahihayn)
-
-**From the Sunnah** The Prophet ﷺ told 'A'ishah that plague was a punishment sent upon a people, which Allah made a mercy for the believers: the servant who stays patiently in his land, certain that nothing strikes him except what Allah decreed, earns the reward of a martyr. (al-Bukhari)
-
-**Reflection** The same multitude that fled to "a land free of death" was seized by death the instant they arrived — while the believer who stays, patient and certain in Allah's decree, is promised the rank of the martyr. So take every lawful precaution, then rest your heart: what is written cannot be hastened or delayed, and one flees only from the decree of Allah to the decree of Allah.
 ## Personal Reflections
-
 

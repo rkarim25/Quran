@@ -92,11 +92,5 @@ There are different recitations for the word اِدّٰرَکَ (iddaraka) and t
 
 Do not grieve for them, nor be distressed by their schemes.
 
-## AI Tafsir
-
-**What this ayah teaches:** It is enough to understand here that some commentators have taken it to mean "completion" and have explained the verse thus: "Their knowledge and understanding will be completed in the Hereafter", because then the truth about every thing shall be laid bare. But knowledge of truth at that time will be of no avail, because they had been contradicting the Hereafter in the world.
-
-**Classical tafsir:** Ibn Kathir notes: It is enough to understand here that some commentators have taken it to mean "completion" and have explained the verse thus: "Their knowledge and understanding will be completed in the Hereafter", because then the truth about every thing shall be laid bare.
 ## Personal Reflections
-
 

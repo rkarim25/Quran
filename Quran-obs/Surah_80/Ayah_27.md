@@ -184,11 +184,5 @@ Having mentioned in the preceding verses the beginning and the end of human life
 
 causing grain to grow,
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, Allah has decreed the existence of mankind, and its duration, therefore, when that is finished with Allah, He resurrects the creatures and repeats their creation just as He initially created them. Thereupon He causes grain to grow out of it.
-
-**Classical tafsir:** Ibn Kathir notes: Verily, Allah has decreed the existence of mankind, and its duration, therefore, when that is finished with Allah, He resurrects the creatures and repeats their creation just as He initially created them.
 ## Personal Reflections
-
 

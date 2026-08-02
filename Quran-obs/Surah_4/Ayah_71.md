@@ -148,15 +148,5 @@ The best companions are four and the best military company is that of four hundr
 
 O you who have iman! Take your precautions and go forth either in groups or together.
 
-## AI Tafsir
-
-**Context:** (There is certainly among you he who would linger behind.) Mujahid and others said that this Ayah was revealed about the hypocrites. Muqatil bin Hayyan said that,
-
-**What this ayah teaches:** Take your precautions, and either go forth (on an expedition) in parties, or go forth all together (71)There is certainly among you he who would linger behind.
-
-**Classical tafsir:** Ibn Kathir notes: Now, in the present verses, Jihad has been prescribed for the obedient and faithful so that they can vitalize their Faith and raise the word of Allah high and supreme.
-
-**From the Sunnah:** itself to the command to ensure the supply of weapons, but it does not promise that, because of this support, Muslims will have any guaranteed security against their enemies. In that sense, it is being said here that Muslims, when they go out for Jihad, should not start off all alone.
 ## Personal Reflections
-
 

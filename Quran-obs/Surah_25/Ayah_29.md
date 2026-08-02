@@ -142,13 +142,5 @@ The one who reminds you of Allah when you see him, and adds to your knowledge wh
 
 It was he who truly made me stray from the Reminder after it had reached me.” And Satan has always betrayed humanity.
 
-## AI Tafsir
-
-**Context:** (And (remember) the Day when the wrongdoer will bite at his hands, he will say: "O! Would that I had taken a path with the Messenger.") Here Allah tells us of the regret felt by the wrongdoer who rejected the path of the…
-
-**What this ayah teaches:** The moral that can be deduced from these verses is that when two friends get together in acts of immorality and sin and help each other in performing forbidden deeds, then the same will apply to them and they will be remorseful and feel sorry for their friendship in the Hereafter.
-
-**Classical tafsir:** Ibn Kathir notes: Would that I had never taken so-and-so as an intimate friend!) meaning, the one among the propagators of misguidance who diverted him from true guidance and led him to follow the path of misguidance, whether this refers to Umayyah bin Khalaf or his brother Ubayy bin Khalaf, or to…
 ## Personal Reflections
-
 

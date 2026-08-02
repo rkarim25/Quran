@@ -270,13 +270,5 @@ There are no easy answers to questions such as - what is that distinct status an
 
 Never think of those martyred in the cause of Allah as dead. In fact, they are alive with their Rabb, well provided for— rejoicing in Allah’s bounties and being delighted for those yet to join them. There will be no fear for them, nor will they grieve.
 
-## AI Tafsir
-
-**Context:** Qatadah, Ar-Rabi' and Ad-Dahhak said that these Ayat were revealed about the martyrs of Uhud. (They rejoice in what Allah has bestowed upon them) indicates that the martyrs who were killed in Allah's cause are alive with…
-
-**What this ayah teaches:** He said, 'Ask Me and I will give you.' He said, 'I ask that I am returned to life so that I am killed in Your cause again.' The Lord, Exalted He be, said, 'I have spoken the word that they shall not be returned back to it (this life).
-
-**Classical tafsir:** Ibn Kathir notes: Nay, they are alive, with their Lord, and they have provision.) Qatadah, Ar-Rabi' and Ad-Dahhak said that these Ayat were revealed about the martyrs of Uhud.
 ## Personal Reflections
-
 

@@ -108,11 +108,5 @@ Out of the authorities of Tafsir, ` Ata and Ibn Zayd said that a person condemne
 
 So Allah made them taste humiliation in this worldly life, but far worse is the punishment of the Akhirah, if only they knew.
 
-## AI Tafsir
-
-**What this ayah teaches:** And what Allah has promised them of severe punishment in the Hereafter is worse than whatever befell them in this world.
-
-**Classical tafsir:** Ibn Kathir notes: Even if he wished to ward off the punishment in defense, he would have no option but to use his very face as the shield, because he would have been thrown in Jahannam with his hands and feet tied.
 ## Personal Reflections
-
 

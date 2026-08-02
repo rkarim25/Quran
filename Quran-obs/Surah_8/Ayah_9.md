@@ -190,13 +190,5 @@ The unmatched power with which Allah Ta` ala has blessed angels can be gauged fr
 
 Remember when you cried to your Rabb for help, He answered: I will reinforce you with a thousand angels, one rank after another.
 
-## AI Tafsir
-
-**What this ayah teaches:** Therefore, the promise of sending angels was kept synchronized with the numbers of the adversary in the combat, so that their hearts are put at rest fully and comprehensively. Immediately after, there appears the statement which describes how this prayer has been answered.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, the promise of sending angels was kept synchronized with the numbers of the adversary in the combat, so that their hearts are put at rest fully and comprehensively.
-
-**From the Sunnah:** Muslims invoke Allah for Help, Allah sends the Angels to help Them Al-Miqdad came to the Prophet ﷺ while he was invoking Allah against the idolators and proclaimed, 'We will not say as the people of Musa said, "So go you and your Lord and fight you two."
 ## Personal Reflections
-
 

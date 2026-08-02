@@ -213,15 +213,5 @@ Thus far the punishment of disbelievers was depicted. As opposed to this, the re
 
 They will be told, 'Taste this—there is only more torment from Us.'
 
-## AI Tafsir
-
-**Context:** (But they denied Our Ayat Kidhdhaba.) meaning, they used to deny the evidences of Allah and His proofs for His creation, which He revealed to His Messengers. So they met these proofs with rejection and obstinance.
-
-**What this ayah teaches:** Every part of the last person will deteriorate except for one bone, and it is the coccyx bone (tailbone).
-
-**Classical tafsir:** Ibn Kathir notes: In other words, in the world they continued to add disbelief.
-
-**From the Sunnah:** Al-Bukhari reported concerning the explanation of Allah's statement, (Sahih al-Bukhari)
 ## Personal Reflections
-
 

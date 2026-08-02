@@ -173,13 +173,5 @@ The statement at the end of the verse (8): وَقُولُوا لَهُمْ قَ�
 
 If relatives, orphans, or the needy are present at the time of distribution, offer them a provision from it and speak to them kindly.
 
-## AI Tafsir
-
-**What this ayah teaches:** There is a share for men and a share for women from what is left by parents and those nearest in relation, whether the property be small or large – a legal share (7)And when the relatives, and the orphans, and the poor are present at the time of division, give them from the property, and speak to them words of kindness and justice (8)And let those (executors and guardians) have the same fear in th…
-
-**Classical tafsir:** Ibn Kathir notes: Ibn Jarir recorded that Ibn 'Abbas said that this Ayah still applies and should be implemented.
-
-**From the Sunnah:** this Ayah still applies and should be implemented.
 ## Personal Reflections
-
 

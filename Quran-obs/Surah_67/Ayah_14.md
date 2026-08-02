@@ -99,13 +99,5 @@ The statement '[ We ] have made them [ stars ] devices to stone the devils' prob
 
 How could He not know His own creation? He alone is the Most Subtle, All-Aware.
 
-## AI Tafsir
-
-**What this ayah teaches:** And He is the Most Kind and Courteous, All-Aware (14)He it is Who has made the earth subservient to you; so walk in the paths thereof and eat of His provision.
-
-**Classical tafsir:** Ibn Kathir notes: This means that his sins will be remitted and he will be rewarded abundantly.
-
-**From the Sunnah:** This is similar to what Imam Ahmad recorded from 'Umar bin Al-Khattab, that he heard the Messenger of Allah ﷺ say, (Musnad Ahmad) this Hadith. (Jami' at-Tirmidhi, Sunan Ibn Majah)
 ## Personal Reflections
-
 

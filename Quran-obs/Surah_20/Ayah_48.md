@@ -125,13 +125,5 @@ In brief, every created thing has been programmed, by Allah, with a guidance of 
 
 It has indeed been revealed to us that the punishment will be upon whoever denies the truth and turns away.’”
 
-## AI Tafsir
-
-**Context:** Both of them said: "Our Lord! Verily, we fear lest he should hasten to punish us or lest he should transgress. (45)He (Allah) said: "Fear not, verily, I am with you both, hearing and seeing.
-
-**What this ayah teaches:** Truly, it has been revealed to us that the torment will be for him who denies, and turns away.) In His flawless revelation, Allah has revealed to us that torment is prepared exclusively for those who reject the signs of Allah and turn away from His obedience.
-
-**Classical tafsir:** Ibn Kathir notes: But on the contrary, he belied and turned away.)[75:31-32] This means that he denied with his heart and turned away by his actions.
 ## Personal Reflections
-
 

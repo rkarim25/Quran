@@ -89,11 +89,5 @@ The manifestations of Allah's knowledge, power and blessings are endless. These 
 
 We let them enjoy a little while, then We will drive them into harsh torment.
 
-## AI Tafsir
-
-**What this ayah teaches:** And whosoever submits his face (himself) to Allah, while he is a Muhsin, then he has grasped the most trustworthy handhold.
-
-**Classical tafsir:** Ibn Kathir notes: And whoever disbelieves, let not his disbelief grieve you.) means, 'do not grieve over them, O Muhammad, because they disbelieve in Allah and in the Message you have brought, for their return will be to Allah and He will tell them what they used to do,' i.e., He will punish them…
 ## Personal Reflections
-
 

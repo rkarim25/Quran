@@ -148,11 +148,5 @@ In the third, fourth and fifth verses (32-34), after recounting the major blessi
 
 Tell My believing servants to establish salah and give from what We provided—openly and secretly—before a Day arrives when there will be no ransom and no friendly ties.
 
-## AI Tafsir
-
-**What this ayah teaches:** Rather, on that Day, there will be fairness and justice." Qatadah said, "Allah knows that in this life, there is mutual bargaining and there are friendships which people benefit from.
-
-**Classical tafsir:** Ibn Kathir notes: Rather, on that Day, there will be fairness and justice." Qatadah said, "Allah knows that in this life, there is mutual bargaining and there are friendships which people benefit from.
 ## Personal Reflections
-
 

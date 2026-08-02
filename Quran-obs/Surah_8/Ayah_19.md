@@ -171,11 +171,5 @@ But, they did not know that the prayer they were making was really a curse for t
 
 If you Meccans wanted a decisive judgment, it has come to you. If you stop, it is better for you. If you return to hostility, We will return. Your numbers, no matter how great, will not help you. Allah is with the mu'minin.
 
-## AI Tafsir
-
-**What this ayah teaches:** It is interesting that these dimwitted people were under the impression that they were the ones higher and superior and better-guided as compared to Muslims, therefore, they surmised that the prayer they were making was in their own favour. Thus, when they win, their victory would become the Divine verdict on their being on the side of truth.
-
-**Classical tafsir:** Ibn Kathir notes: It is interesting that these dimwitted people were under the impression that they were the ones higher and superior and better-guided as compared to Muslims, therefore, they surmised that the prayer they were making was in their own favour.
 ## Personal Reflections
-
 

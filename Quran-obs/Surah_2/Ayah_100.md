@@ -254,15 +254,5 @@ The Holy Qur'an specifically speaks of one group or another breaking the pledge,
 
 Is it not so that whenever they make a covenant, a party among them casts it aside? In fact, most of them do not truly believe.
 
-## AI Tafsir
-
-**Essence** Each covenant flung aside by a faction exposes the deeper truth: most of them do not believe.
-
-**What it teaches** Allah answers the Jews' denial of their pledge to believe in His Messenger ﷺ: not a lapse but a pattern — every time they bind an 'ahd (covenant), a fariq (party) of them nabadhahu, hurls it away as worthless. The pledge slips because belief does not hold it.
-
-**The scholars** Ibn Kathir relates: when the Jews were reminded of Allah's covenant concerning Muhammad ﷺ, Malik bin As-Sayf swore, "By Allah! Allah never made a covenant with us about Muhammad" — and this ayah came down. Al-Hasan al-Basri: "They make a promise today and break it tomorrow." Maarif ul Quran: breaking a pledge is sin; having no faith in a pledge given to Allah is outright infidelity. And it is "a party of them," not all — some kept the pledge, and many Jews accepted the Prophet ﷺ and joined the Muslims.
-
-**Reflection** Hold your word to Allah as a trust gripped tight — never something to be thrown aside.
 ## Personal Reflections
-
 

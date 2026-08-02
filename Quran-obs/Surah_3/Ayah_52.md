@@ -158,27 +158,5 @@ Verse 52 states that Sayyidna ` Isa (علیہ السلام) looked for helpers i
 
 When Jesus sensed rejection of the truth from his people, he asked, “Who will stand up with me for Allah?” The disciples replied, “We will stand up for Allah. We believe in Allah, so bear witness that we have submitted.”
 
-## AI Tafsir
-
-**Essence**
-
-The disciples of 'Isa (peace be upon him) answered his call to stand for Allah — declaring their faith, their submission, and their readiness to be counted among the believers when their people had turned to disbelief.
-
-**What it teaches**
-
-Sensing his people were adamant in disbelief, 'Isa (peace be upon him) asked, "Who will be my helpers in Allah's cause?" — and the Hawariyyun, his pure and sincere disciples, declared their belief in Allah and asked him to bear witness that they were Muslims, those who submit. The word hawariyy derives from hawar (whiteness); the title was given to them for their sincerity, the purity of their hearts, or their white dress, much as the Prophet's (peace be upon him) loyal followers are called the Sahabah.
-
-**The scholars**
-
-Ibn Kathir explains that 'Isa (peace be upon him) "felt that they were adamant in disbelief and continuing in misguidance," then sought aid in conveying Allah's Message. Mujahid glossed "my helper in Allah's cause" as "who would follow me to Allah," though Ibn Kathir adds it appears 'Isa was asking who would help him convey the Message. Ibn Kathir draws a direct parallel to the Prophet (peace be upon him), who before the Hijrah sought someone to give him refuge so he could convey the Speech of his Lord after Quraysh prevented him, until the Ansar aided and protected him — just as some of the Children of Israel believed in 'Isa and followed the light sent with him. On the disciples' words "so write us down among those who bear witness," Ibn Kathir records from Ibn 'Abbas (via Ibn Abi Hatim, with a good chain) that it means "among the Ummah of Muhammad." Maarif ul Quran notes a key lesson: 'Isa sought helpers only when he sensed hostility, not at the outset — he had taken up his Lord's command alone, and "every worthy mission demands such determination and courage."
-
-**From the Sunnah**
-
-"Every Prophet has a sincere supporter (hawari), and Az-Zubayr is my hawari" — said when Az-Zubayr came forward as the Prophet (peace be upon him) called for fighters at the battle of Al-Ahzab, and again when he called for them a second time. (The Two Sahihs — Bukhari and Muslim)
-
-**Reflection**
-
-When truth meets rejection, do not retreat — answer like the Hawariyyun: "We are the helpers of Allah," and stand for His cause with sincerity and courage.
 ## Personal Reflections
-
 

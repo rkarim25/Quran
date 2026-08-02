@@ -62,13 +62,5 @@ Described in the verses cited above is the third event relating to Sayyidna Musa
 
 "Peace be upon Moses and Aaron."
 
-## AI Tafsir
-
-**Context:** Allah tells us how He blessed Musa and Harun with prophethood and how He saved them, along with those who believed, from the oppression of Fir'awn and his people, who had persecuted them by killing their sons and sparing…
-
-**What this ayah teaches:** Musa and Harun Allah tells us how He blessed Musa and Harun with prophethood and how He saved them, along with those who believed, from the oppression of Fir'awn and his people, who had persecuted them by killing their sons and sparing their women, and by forcing them to do the most menial tasks, then ultimately He caused them to prevail over them and to seize their lands and their wealth and all…
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

@@ -164,13 +164,5 @@ Since this explanation of the verse stands proved on the authority of Sahih Hadi
 
 So Pharaoh wanted to scare the Israelites out of the land of Egypt, but We drowned him and all of those with him.
 
-## AI Tafsir
-
-**Context:** (But We drowned him and all who were with him. And We said to the Children of Israel after him: "Dwell in the land...") This is good news for Muhammad ﷺ, a foretelling of the conquest of Makkah, even though this Surah wa…
-
-**What this ayah teaches:** And We said to the Children of Israel after him: "Dwell in the land...") This is good news for Muhammad ﷺ, a foretelling of the conquest of Makkah, even though this Surah was revealed in Makkah before the Hijrah.
-
-**Classical tafsir:** Ibn Kathir notes: As Mujahid said, "doomed" includes all of these meanings.
 ## Personal Reflections
-
 

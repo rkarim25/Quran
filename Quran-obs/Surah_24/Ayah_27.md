@@ -278,13 +278,5 @@ These days people do not pay any attention toward seeking permission, which is a
 
 O mu'mins! Do not enter any house other than your own until you have asked for permission and greeted its occupants. This is best for you, so perhaps you will be mindful.
 
-## AI Tafsir
-
-**What this ayah teaches:** One should seek permission three times, and if permission is given, (he may enter), otherwise he should go away.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, wives of the Sahabah included themselves in the address of the present verse and acted accordingly.
-
-**From the Sunnah:** the Messenger of Allah ﷺ asked for permission to enter upon Sa'd bin 'Ubadah. (Musnad Ahmad) In the Two Sahihs, it is recorded that the Messenger of Allah ﷺ said:
 ## Personal Reflections
-
 

@@ -178,11 +178,5 @@ Explaining ظِلًّا ظَلِيلًا ، Rabi' ibn Anas said:
 
 Surely those who reject Our signs, We will cast them into the Fire. Whenever their skin is burnt completely, We will replace it so they will taste the punishment. Indeed, Allah is Almighty, All-Wise.
 
-## AI Tafsir
-
-**What this ayah teaches:** As often as their skins are roasted through, We shall change them for other skins that they may taste the punishment. The Punishment of Those Who Disbelieve in Allah's Books and Messengers Allah describes the torment in the Fire of Jahannam for those who disbelieve in His Ayat and hinder from the path of His Messengers.
-
-**Classical tafsir:** Ibn Kathir notes: The Punishment of Those Who Disbelieve in Allah's Books and Messengers Allah describes the torment in the Fire of Jahannam for those who disbelieve in His Ayat and hinder from the path of His Messengers.
 ## Personal Reflections
-
 

@@ -70,11 +70,5 @@ According to some historic versions he remained in the fire for seven days and u
 
 They had sought to harm him, but We made them the worst losers.
 
-## AI Tafsir
-
-**What this ayah teaches:** Then they made a hole in the ground and set it aflame, and it burned with huge sparks and immense flames. But it increased them in faith, and they said: "Allah is sufficient for us, and He is the best disposer of affairs.")(3:173).
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

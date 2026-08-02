@@ -165,13 +165,5 @@ Allah explained the type of torment that these people earn on the Day of Return;
 
 Hell awaits them. Their worldly gains will not benefit them at all, nor will those they took as protectors besides Allah. They will face a tremendous punishment.
 
-## AI Tafsir
-
-**What this ayah teaches:** For such there will be a humiliating torment (9)In front of them there is Hell.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, if they do not believe in Allah's Ayat nor abide by them, what speech after Allah and His Ayat will they then believe in?
-
-**From the Sunnah:** In the Sahih, Muslim recorded from 'Abdullah bin 'Umar that the Messenger of Allah ﷺ prohibited traveling with the Qur'an to enemy lands for fear that the Qur'an might be desecrated by the enemy. (Sahih Muslim)
 ## Personal Reflections
-
 

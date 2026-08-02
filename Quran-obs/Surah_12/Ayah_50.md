@@ -228,13 +228,5 @@ In addition to that, as said in Tafsir al-Qurtubi, it is also possible that the 
 
 The King then said, “Bring him to me.” When the messenger came to him, Joseph said, “Go back to your master and ask him about the case of the women who cut their hands. Surely my Rabb has full knowledge of their cunning.”
 
-## AI Tafsir
-
-**What this ayah teaches:** And the king said: "Bring him to me." But when the messenger came to him, [Yusuf] said: "Return to your king and ask him, 'What happened to the women who cut their hands Surely, my Lord (Allah) is Well-Aware of their plot.' (50)(The king) said (to the women): "What was your affair when you did seek to seduce Yusuf" The women said: "Allah forbid!
-
-**Classical tafsir:** Ibn Kathir notes: He said this so that the king too will get to know the truth of the matter - which is a delicate approach to register his innocence in it.
-
-**From the Sunnah:** If I were to stay in prison for such a long time as Yusuf did, I would have accepted the offer.) In another narration collected by Ahmad from Abu Hurayrah, the Prophet ﷺ said about Yusuf's statement,
 ## Personal Reflections
-
 

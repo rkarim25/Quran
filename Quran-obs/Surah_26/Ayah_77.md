@@ -90,11 +90,5 @@ The reasoning for this he gave إِنَّ مَعِيَ رَ‌بِّي سَيَ�
 
 They are all enemies to me, except the Rabb of all worlds.
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, my Lord is on the straight path)(11:54-56).
-
-**Classical tafsir:** Ibn Kathir notes: Allah commanded His Messenger Muhammad ﷺ to recite this story to his Ummah so that they could follow this example of sincerity towards Allah, putting one's trust in Him, worshipping Him Alone with no partner or associate, and renouncing Shirk and its people.
 ## Personal Reflections
-
 

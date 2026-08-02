@@ -166,15 +166,5 @@ The wordings of the verse give good news, in general, to anyone who spends in Al
 
 But the most mindful of taqwa will be kept far from it—
 
-## AI Tafsir
-
-**Context:** Many of the scholars of Tafsir have mentioned that these Ayat were revealed about Abu Bakr As-Siddiq. Some of them even mentioned that there is a consensus among the Qur'anic commentators concerning this.
-
-**What this ayah teaches:** This verse describes the reward of the most Allah-fearing person, as opposed to the punishment of the most wretched in the preceding verse. The word atqa is the superlative form and signifies a man of taqwa, that is, the most Allah-fearing person, who spends his wealth in obedience of his Lord in order to purify himself from sins, will be kept far away from the fire of Hell.
-
-**Classical tafsir:** Ibn Kathir notes: This verse describes the reward of the most Allah-fearing person, as opposed to the punishment of the most wretched in the preceding verse.
-
-**From the Sunnah:** Paradise, and whoever disobeys me, then he has refused.
 ## Personal Reflections
-
 

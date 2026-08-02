@@ -197,13 +197,5 @@ In relation to issues of religious beliefs embedded in this verse, it must be bo
 
 Ask them, O Prophet, “Can any of your associate-gods guide to the truth?” Say, “Only Allah guides to the truth.” Who then is more worthy to be followed: the One Who guides to the truth or those who cannot find the way unless guided? What is the matter with you? How do you judge?
 
-## AI Tafsir
-
-**What this ayah teaches:** Is then He Who guides to the truth more worthy to be followed, or he who finds not guidance (himself) unless he is guided?
-
-**Classical tafsir:** Ibn Kathir notes: In other words, once it stands proved that Allah Ta` ala is the only true and rightful object of worship, it is terribly senseless to abandon this truth and allow yourself to be diverted elsewhere.
-
-**From the Sunnah:** This is an established rule in the sight of the majority of scholars in the Muslim Ummah. (Sahih Muslim)
 ## Personal Reflections
-
 

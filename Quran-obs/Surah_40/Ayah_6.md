@@ -118,13 +118,5 @@ In the last sentence of verse 4, it was said: فَلَا يَغْرُ‌رْ‌�
 
 Your Lord's decree has been proven true against those who reject the truth—that they will be inmates of the Fire.
 
-## AI Tafsir
-
-**What this ayah teaches:** So I seized them, and how was My punishment (5)Thus has the Word of your Lord been justified against those who disbelieved, that they will be the dwellers of the Fire . This verse declares quarreling in the matter of the Qur'an an act of kufr (disbelief).
-
-**Classical tafsir:** Ibn Kathir notes: This verse declares quarreling in the matter of the Qur'an an act of kufr (disbelief).
-
-**From the Sunnah:** He said, 'communities before you were ruined because they had started quarreling in the matter of the Book of Allah.' (Reported by Muslim from ` Abdullah Ibn ` Amr Ibn Shu'aib - Mazhari) (Sahih Muslim) That this state of affairs with them kept continuing despite the challenge from Islam and the Holy Prophet ﷺ was a matter of pride for them - 'Had we been the culprits in the sight of Allah, all these blessings would have been taken away from us!' This situati…
 ## Personal Reflections
-
 

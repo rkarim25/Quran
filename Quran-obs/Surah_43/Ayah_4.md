@@ -163,15 +163,5 @@ Ha Meem- Only Allah knows its meaning.
 
 It is—in the Master Record with Us—highly esteemed, rich in wisdom.
 
-## AI Tafsir
-
-**Context:** (Ha-Mim. By the manifest Book.) means, plain and clear in both wording and meaning, because it was revealed in the language of the Arabs, which is the most eloquent language for communication among people.
-
-**What this ayah teaches:** Verily, We have made it a Qur'an in Arabic that you may be able to understand.)(4. Indeed, He sent it so that those who were decreed to be guided might be guided by it, and so that proof might be established against those who were decreed to be.
-
-**Classical tafsir:** Ibn Kathir notes: By the manifest Book.) means, plain and clear in both wording and meaning, because it was revealed in the language of the Arabs, which is the most eloquent language for communication among people.
-
-**From the Sunnah:** Consolation to the Prophet ﷺ for the Disbelief of Quraysh
 ## Personal Reflections
-
 

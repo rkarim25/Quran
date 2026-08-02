@@ -95,15 +95,5 @@ Thereupon, Allah Ta’ ala revealed the verse: كَادُوا لَيَسْتَف
 
 They were about to intimidate you to drive you out of the land of Mecca, but then they would not have survived after you had left except for a little while.
 
-## AI Tafsir
-
-**Context:** This was revealed concerning the those who reject the truth among the Quraysh, when they wanted to expel the Messenger of Allah ﷺ from among themselves.
-
-**What this ayah teaches:** They told him: 'O Abu a1-Qasim, if you are true in your claim to be a prophet, you should go and live in Syria because the land of Syria is the land of al-Mahshar (the Resurrection) and the land of prophets too.' The Holy Prophet ﷺ was somewhat impressed by what they said and when he traveled to Syria at the time of the battle of Tabuk, the idea of taking up residence in Syria…
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** This was revealed concerning the those who reject the truth among the Quraysh, when they wanted to expel the Messenger of Allah ﷺ from among themselves.
 ## Personal Reflections
-
 

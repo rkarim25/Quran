@@ -124,13 +124,5 @@ The opening statement in the verse presents a very important principle bearing o
 
 Whoever obeys the Messenger has truly obeyed Allah. But whoever turns away, then We have not sent you as a keeper over them.
 
-## AI Tafsir
-
-**What this ayah teaches:** Obeying the Messenger (ﷺ) is Obeying Allah Allah states that whoever obeys His servant and Messenger, Muhammad ﷺ, obeys Allah; and whoever disobeys him, disobeys Allah.
-
-**Classical tafsir:** Ibn Kathir notes: As for the one who turns away from you, he will gain failure and loss and you will not carry a burden because of what he does.
-
-**From the Sunnah:** Here, the obedience to the Prophet ﷺ has been equated with obedience to Allah.
 ## Personal Reflections
-
 

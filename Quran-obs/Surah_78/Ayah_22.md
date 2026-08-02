@@ -198,15 +198,5 @@ Then he said, "They will continue increasing in torment forever."
 
 a home for transgressors
 
-## AI Tafsir
-
-**Context:** (But they denied Our Ayat Kidhdhaba.) meaning, they used to deny the evidences of Allah and His proofs for His creation, which He revealed to His Messengers. So they met these proofs with rejection and obstinance.
-
-**What this ayah teaches:** Thus the word taghi refers to a 'person who exceeds the limit in disobeying the authority [ of Allah ] '.
-
-**Classical tafsir:** Ibn Kathir notes: Thus the word taghi refers to a 'person who exceeds the limit in disobeying the authority [ of Allah ] '.
-
-**From the Sunnah:** Al-Bukhari reported concerning the explanation of Allah's statement, (Sahih al-Bukhari) It may also refer to the stray groups of Muslims who have deviated from the limits of Qur'an and Sunnah, though they may not have adopted kufr expressly, such as Rawafid, Khawarij, Mu'tazilah and others.
 ## Personal Reflections
-
 

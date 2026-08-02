@@ -264,13 +264,5 @@ Here, it has been hinted that they made a mistake when they abandoned the duty a
 
 No soul can ever die without Allah’s Will at the destined time. Those who desire worldly gain, We will let them have it, and those who desire heavenly reward, We will grant it to them. And We will reward those who are grateful.
 
-## AI Tafsir
-
-**What this ayah teaches:** Therefore, it cannot be said that these blessed Companions abandoned their post of duty under the temptation of worldly gains. And he who turns back on his heels, not the least harm will he do to Allah; and Allah will reward the grateful (144)And no person can ever die except by Allah's leave and at an appointed term.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, the Muslims' resolve was weakened and they did not actively participate in battle.
-
-**From the Sunnah:** When Muslims suffered defeat in battle at Uhud and some of them were killed, Shaytan shouted, "Muhammad has been killed." Ibn Qami'ah went back to the idolators and claimed, "I have killed Muhammad." Some Muslims believed this rumor and thought that the Messen… This story was collected by Al-Hafiz Abu Bakr Al-Bayhaqi in Dala'il An-Nubuwwah.
 ## Personal Reflections
-
 

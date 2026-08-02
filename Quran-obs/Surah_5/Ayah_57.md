@@ -188,13 +188,5 @@ These people do know outward matters of the present life while they are heedless
 
 O you who have iman! Do not seek the guardianship of those given the Scripture before you and those who reject the truth who have made your faith a mockery and amusement. And live with taqwa toward Allah if you are those who have iman.
 
-## AI Tafsir
-
-**What this ayah teaches:** Do not take as friends those who take your religion for a mockery and fun from those who received the Scriptures before you, and (nor) the those who reject the truth; and have Taqwa of Allah if you indeed are true believers (57)And when you proclaim the call for the Salah, they take it (but) as a mockery and fun; that is because they are a people who understand not .
-
-**Classical tafsir:** Ibn Kathir notes: They mock such acts and make them the subject of jest and play, because this is what these acts represent in their misguided minds and cold hearts.
-
-**From the Sunnah:** In the sixth verse (57), Allah Almighty has again stressed upon the injunction mentioned in verse 51 at the beginning of the Section, the sense of which is that the Muslims should not seek close friendship with people who make fun of their religion.
 ## Personal Reflections
-
 

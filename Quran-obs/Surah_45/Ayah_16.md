@@ -133,15 +133,5 @@ Some of the scholars maintain that the rule of forgiving the infidels applied on
 
 We gave the Children of Israel the Scripture, wisdom, and prophethood; granted them good lawful provisions; and favoured them above others.
 
-## AI Tafsir
-
-**Context:** (Then We have put you on a (legal) way of commandment. So follow you that.) 'follow what was revealed to you from your Lord, O Muhammad, there is no true deity except Him, and turn away from the idolators.' Allah said, ق…
-
-**What this ayah teaches:** And indeed We gave the Children of Israel the Scripture, and the understanding of the Scripture and its laws, and the prophethood; and provided them with good things, and preferred them above the nations (16)And gave them clear proofs in matters.
-
-**Classical tafsir:** Ibn Kathir notes: The word ayyam (days) in the Arabic language is abundantly used in the sense of ` turn of events'.
-
-**From the Sunnah:** This Ayah contains a warning to the Muslim Ummah as well. (Sahih Muslim) ` Abdullah Ibn 'Ubayy, the leader of the hypocrites, was with the Muslims.
 ## Personal Reflections
-
 

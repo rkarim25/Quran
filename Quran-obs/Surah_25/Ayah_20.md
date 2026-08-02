@@ -146,13 +146,5 @@ There is great wisdom in economic difference between people
 
 We never sent any messenger before you O Prophet, who did not eat food and go about in market-places. We have made some of you a trial for others. Will you not then be patient? And your Rabb is All-Seeing.
 
-## AI Tafsir
-
-**What this ayah teaches:** And We have made some of you as a trial for others; will you have patience And your Lord is Ever All-Seer .
-
-**Classical tafsir:** Ibn Kathir notes: The gist of the reply is that because of your ignorance and mental block you have raised the issue that if he were really a prophet, then he should have possessed a great deal of material wealth and gardens etc.
-
-**From the Sunnah:** Will you have patience) Muhammad bin Ishaq said: Allah is saying, "If I had willed that the world be such that no one would oppose My Messengers, I could have made it so, but I wanted to test My servants by means of them." In Sahih Muslim it is narrated from '… (Sahih Muslim) Especially in the case of the Holy Prophet ﷺ it was preferred by Allah Ta’ ala to keep him in line with the ordinary Muslims by way of worldly possessions, and he also preferred for himself to be like that.
 ## Personal Reflections
-
 

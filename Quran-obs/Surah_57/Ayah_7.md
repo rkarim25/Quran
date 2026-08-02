@@ -251,13 +251,5 @@ Ibn Abi Hatim recorded that 'Abdullah bin Mas'ud said, "When this Ayah,
 
 Believe in Allah and His Messenger, and spend from what He has made you trustees over. Those among you who have iman and spend will have a great reward.
 
-## AI Tafsir
-
-**What this ayah teaches:** And such of you as believe and spend, theirs will be a great reward (7)And what is the matter with you that you believe not in Allah!
-
-**Classical tafsir:** Ibn Kathir notes: Taken in the first meaning, the verse indicates that the wealth held by human beings originally belongs to Allah, but He has made them His deputies or representatives to use it according to His directions.
-
-**From the Sunnah:** And we have reported the Hadith through different routes in the beginning of the explanation on the chapter on Faith in Sahih Al-Bukhari, wherein one day the Messenger of Allah ﷺ said to his Companions, (Sahih al-Bukhari) Before Makkah was conquered, things were difficult for Muslims and only the righteous ones embraced Islam.
 ## Personal Reflections
-
 

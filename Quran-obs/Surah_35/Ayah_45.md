@@ -171,11 +171,5 @@ Ends here
 
 If Allah were to punish people immediately for what they commit, He would not leave a single living being on earth. But He gives them respite until an appointed term. When their time comes, Allah is All-Seeing of His servants.
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, He is All-Knowing, All-Able (44)And if Allah were to punish men for that which they earned, He would not leave a moving creature on the surface of the earth; but He gives them respite to an appointed term, and when their term comes, then verily, Allah is Ever All-Seer of His servants .
-
-**Classical tafsir:** Ibn Kathir notes: In other words, a person who wishes evil for others, he himself falls a victim to it.
 ## Personal Reflections
-
 

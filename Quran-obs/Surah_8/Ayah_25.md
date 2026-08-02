@@ -158,13 +158,5 @@ The same thing happened at the battle of Badr when some Muslims wavered with the
 
 Guard against a fitnah, a trial that tests faith, which will not strike only the wrongdoers among you. Know that Allah is severe in punishment.
 
-## AI Tafsir
-
-**What this ayah teaches:** And fear the Fitnah (affliction and trial) which affects not in particular (only) those of you who do wrong, and know that Allah is severe in punishment .
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, such Fitnah will not be restricted to the sinners and evildoers.
-
-**From the Sunnah:** You abandoned the Khalifah who was assassinated ('Uthman, may Allah be pleased with him) and then came asking for revenge for his blood' He said, 'We recited at the time of the Messenger of Allah ﷺ, and Abu Bakr, 'Umar and 'Uthman, (Musnad Ahmad) the Prophet ﷺ gave a speech in which he said, while pointing to his ears with two of his fingers, (Musnad Ahmad)
 ## Personal Reflections
-
 

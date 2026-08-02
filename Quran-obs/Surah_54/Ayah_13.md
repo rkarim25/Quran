@@ -148,11 +148,5 @@ However, it appears that the meaning here is that Allah kept ships as a sign. Fo
 
 We carried him on an ark of planks and nails,
 
-## AI Tafsir
-
-**What this ayah teaches:** So, the waters met for a matter predestined (12)And We carried him on a (ship) made of planks and nails (Dusur (13)Floating under Our Eyes, a reward for him who had been rejected (14)And indeed, We have left this as a sign. The word alwah is the plural of lawh and it refers to a board or a plank.
-
-**Classical tafsir:** Ibn Kathir notes: The word alwah is the plural of lawh and it refers to a board or a plank.
 ## Personal Reflections
-
 

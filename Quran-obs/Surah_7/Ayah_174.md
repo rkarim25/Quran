@@ -123,13 +123,5 @@ That is, Allah has made His signs clear through His elaborate verses to facilita
 
 This is how We make our signs clear, so perhaps they will return.
 
-## AI Tafsir
-
-**What this ayah teaches:** We testify," lest you should say on the Day of Resurrection: "Verily, we were unaware of this.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** the Messenger of Allah ﷺ said; (Sahih Muslim) "This Hadith is Hasan Sahih, and it was reported from various chains of narration through Abu Hurayrah from the Prophet ﷺ". (Sahih Muslim, Jami' at-Tirmidhi)
 ## Personal Reflections
-
 

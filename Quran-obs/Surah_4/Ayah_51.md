@@ -218,13 +218,5 @@ This tells us that religious knowledge as culled from a book is not enough to gu
 
 Have you not seen those who were given a portion of the Scriptures yet believe in idols and false gods and reassure those who reject the truth that they are better guided than those who have iman?
 
-## AI Tafsir
-
-**Context:** (Have you not seen those who claim sanctity for themselves?) was revealed about the Jews and Christians when they said, 'We are Allah's children and His loved ones.'" Ibn Zayd also said, "This Ayah was revealed concernin…
-
-**What this ayah teaches:** Nay, but Allah sanctifies whom He wills, and they will not be dealt with injustice even equal to the extent of a 'Fatīl' (49)Look, how they invent a lie against Allah, and enough is that as a manifest sin (50)Have you not seen those who were given a portion of the Scripture?
-
-**Classical tafsir:** Ibn Kathir notes: Commentators have explained have said that 'Jibt' comes from the Ethiopian language and refers to a magician while 'Taghut' signifies a soothsayer.
 ## Personal Reflections
-
 

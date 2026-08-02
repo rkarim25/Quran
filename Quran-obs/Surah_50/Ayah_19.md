@@ -197,13 +197,5 @@ In the prepositional phrase بِالْحَقِّ "with truth", through the prepo
 
 The throes of death will bring the truth that you kept trying to escape.
 
-## AI Tafsir
-
-**What this ayah teaches:** Life is dear to him and death is a calamity for him.
-
-**Classical tafsir:** Ibn Kathir notes: Pay my debt!' The fox went out howling and continued until his neck was cutoff, (i.e.,) he died.) This parable indicates that just as the fox had no way of escaping or avoiding the earth, likewise, man has no way of avoiding death.
-
-**From the Sunnah:** Those who explained 'We' in the Ayah to mean 'Our knowledge,' have done so to avoid falling into the idea of incarnation or indwelling; but these two creeds are false according to the consensus of Muslims. Alqamah used to say, "How many words did I not utter because of the Hadith that Bilal bin Al-Harith narrated." At-Tirmidhi, An-Nasa'i and Ibn Majah collected this Hadith. (Jami' at-Tirmidhi, Sunan Ibn Majah)
 ## Personal Reflections
-
 

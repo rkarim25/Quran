@@ -191,11 +191,5 @@ Sayyidna Sulaiman (علیہ السلام) was also praying for the grace of Alla
 
 So Solomon smiled in amusement at her words, and prayed, “My Rabb! Inspire me to always be thankful for Your favours which You have blessed me and my parents with, and to do good deeds that please you. Admit me, by Your mercy, into the company of Your righteous servants.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Grant me the power and ability that I may be grateful for Your favors which You have bestowed on me and on my parents, and that I may do righteous good deeds that will please You, and admit me by Your mercy among Your righteous servants.
-
-**Classical tafsir:** Ibn Kathir notes: What is meant here is not wealth, because if that were the case, Sulayman would not have been singled out from among the sons of Dawud, as Dawud had one hundred wives.
 ## Personal Reflections
-
 

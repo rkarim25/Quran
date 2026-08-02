@@ -107,13 +107,5 @@ The Benefits of the Sacrificial Camels
 
 That is so. And whoever honours the symbols of Allah, it is certainly out of the piety of the heart.
 
-## AI Tafsir
-
-**What this ayah teaches:** When the heart is equipped with this quality, it is reflected in all his actions.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** In Sunan Ibn Majah, it was recorded from Abu Rafi' that the Messenger of Allah sacrificed two castrated, fat, horned rams. (Sahih al-Bukhari, Jami' at-Tirmidhi) According to a report recorded by Muslim from Jabir, the Messenger of Allah ﷺ said: (Sahih Muslim)
 ## Personal Reflections
-
 

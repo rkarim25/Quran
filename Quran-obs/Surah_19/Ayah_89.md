@@ -104,11 +104,5 @@ Sayyidna Ibn ` Abbas ؓ has said that عَھد means a declaration of firm belie
 
 You have made an outrageous claim—
 
-## AI Tafsir
-
-**What this ayah teaches:** Just as the idolator does not benefit by his good deeds because of associating partners with Allah, we hope that Allah would forgive the sins of those who believed in His absolute Oneness by worshipping Him alone. There is no coequal for Him in His creation, because all creatures are His slaves.
-
-**Classical tafsir:** Ibn Kathir notes: Just as the idolator does not benefit by his good deeds because of associating partners with Allah, we hope that Allah would forgive the sins of those who believed in His absolute Oneness by worshipping Him alone.
 ## Personal Reflections
-
 

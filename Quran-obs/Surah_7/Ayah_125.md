@@ -114,13 +114,5 @@ The sorcerers were fully aware of Pharaoh's power and authority over them. They 
 
 They responded, “Surely to our Rabb we will return.
 
-## AI Tafsir
-
-**What this ayah teaches:** Surely, this is a plot which you have plotted in the city to drive out its people, but you shall come to know.
-
-**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas said that Fir'awn was the first to crucify and cut off hands and legs on opposite sides.
-
-**From the Sunnah:** pour out on us patience, and cause us to die as Muslims. Fir'awn then sent emissaries to various cities of his kingdom and collected magicians who were scattered throughout Egypt.
 ## Personal Reflections
-
 

@@ -126,13 +126,5 @@ Anyhow, whoever this person may be - it does not matter. This event has been men
 
 Then they will turn to one another inquisitively.
 
-## AI Tafsir
-
-**What this ayah teaches:** The gathering of the People of Paradise, and the exchange between One of Them and His Counterpart in Hell, and His Gratitude for the Blessings of Allah Allah tells us how the people of Paradise will turn to one another, asking one another about their situation, how they were in this world and what they suffered.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, it cannot be said with any degree of certainty as to who this person could be.
-
-**From the Sunnah:** Abu Ja'far bin Jarir recorded that Furat bin Tha'labah Al-Bahrani said concerning the Ayah, Paradise – and he gave one thousand Dinars in charity.
 ## Personal Reflections
-
 

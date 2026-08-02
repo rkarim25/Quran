@@ -126,11 +126,5 @@ However, ثَمَرَۃ thamrah or fruit is also used in the sense of outcome an
 
 Our Rabb, forgive me, my parents, and the believers on the Day judgment arrives."
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, my Lord is indeed the All-Hearer of invocations.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, there is no contradiction between this statement and the comment made on the verse 35.
 ## Personal Reflections
-
 

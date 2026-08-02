@@ -220,13 +220,5 @@ Thus, after the revelation of this verse, no one dared to harm the Holy Prophet 
 
 O Messenger! Convey everything revealed to you from your Rabb. If you do not, then you have not delivered His message. Allah will protect you from the people. Indeed, Allah does not guide the people who reject the truth.
 
-## AI Tafsir
-
-**Context:** Al-Bukhari recorded that 'A'ishah said, "Whoever says to you that Muhammad hid any part of what Allah revealed to him, then he is uttering a lie.
-
-**What this ayah teaches:** Therefore, in the last verse (67), the Holy Prophet ﷺ was, on the one hand, emphatically commanded to convey everything revealed to him by Allah, all of it, without any hesitation, to the people. Commanding the Prophet (ﷺ) to Convey the Message; Promising Him Immunity and Protection Allah addresses His servant and Messenger Muhammad by the title 'Messenger' and commands him to convey all that He h…
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, do not have any fear or sadness, for none of them will be able to touch you with harm.
 ## Personal Reflections
-
 

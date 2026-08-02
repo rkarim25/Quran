@@ -114,11 +114,5 @@ In verse 32, it was said: كَذَّبَ بِالصِّدْقِ (rejects the tru
 
 As such, Allah will absolve them of even the worst of what they did and reward them according to the best of what they used to do.
 
-## AI Tafsir
-
-**What this ayah teaches:** Its reward too is limitless, that is, living in Jannah forever - even though, it may happen after having gone through the punishment of sins and staying in Jahannam for a certain period of time.
-
-**Classical tafsir:** Ibn Kathir notes: The Punishment of the those who reject the truth and Liars, and the Reward of the Sincere Believers The idolators uttered lies against Allah and said that there were other gods besides Him and claimed that the angels were the daughters of Allah and that Allah had a son – glorified be He far ab…
 ## Personal Reflections
-
 

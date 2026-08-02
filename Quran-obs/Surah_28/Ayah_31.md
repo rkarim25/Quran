@@ -196,11 +196,5 @@ The place also becomes auspicious if righteous deeds are performed there
 
 Now, throw down your staff!” But when he saw it slithering like a snake, he ran away without looking back. Allah reassured him, “O Moses! Draw near, and have no fear. You are perfectly secure.
 
-## AI Tafsir
-
-**What this ayah teaches:** This indicates that when Musa headed for the fire, he headed in the direction of the Qiblah with the western mountain on his right. It swallowed every rock it passed, and every rock that fell into its mouth fell with a sound like a rock falling into a valley.
-
-**Classical tafsir:** Ibn Kathir notes: This indicates that when Musa headed for the fire, he headed in the direction of the Qiblah with the western mountain on his right.
 ## Personal Reflections
-
 

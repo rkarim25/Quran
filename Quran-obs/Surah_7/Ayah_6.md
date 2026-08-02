@@ -127,11 +127,5 @@ According to a narration in the Musnad of Ahmad, the Holy Prophet ﷺ is reporte
 
 We will surely question those who received messengers and We will question the messengers.
 
-## AI Tafsir
-
-**What this ayah teaches:** To convey to them the message of the Holy Prophet ﷺ means that people of every time should continue the chain of conveying this message to the generations coming next, so that all children of Adam to be born right through the day of Qiyamah will have received this message.
-
-**Classical tafsir:** Ibn Kathir notes: To convey to them the message of the Holy Prophet ﷺ means that people of every time should continue the chain of conveying this message to the generations coming next, so that all children of Adam to be born right through the day of Qiyamah will have received this message.
 ## Personal Reflections
-
 

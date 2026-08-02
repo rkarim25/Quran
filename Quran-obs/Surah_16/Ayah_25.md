@@ -143,15 +143,5 @@ The essence of the answer given by the polytheists is that they simply refused t
 
 Let them bear their burdens in full on the Day of Judgment as well as some of the burdens of those they mislead without knowledge. Evil indeed is what they will bear!
 
-## AI Tafsir
-
-**Context:** ("Tales of the men of old!") meaning nothing is revealed to him, what he is reciting to us is just tales of the men of old, taken from the previous Books. As Allah says,
-
-**What this ayah teaches:** Evil indeed is that which they shall bear .
-
-**Classical tafsir:** Ibn Kathir notes: Mujahid said: "They will bear the burden of their own sins, and they will bear the sins of those who obeyed them, but that will not lessen the punishment of those who obeyed them at all."
-
-**From the Sunnah:** They used to say that he (the Prophet ﷺ) was a sorcerer, a poet, a soothsayer, or a madman, then they settled on an idea proposed by their leader, an individual known as Al-Walid bin Al-Mughirah Al-Makhzumi, when: Still others take one question to have been asked by the polytheists while the other by Muslims.
 ## Personal Reflections
-
 

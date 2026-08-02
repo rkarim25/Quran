@@ -114,11 +114,5 @@ The statement: وَكَانَ الْإِنسَانُ أَكْثَرَ‌ شَي�
 
 Those are the societies We destroyed when they persisted in wrong, and We had set a time for their destruction.
 
-## AI Tafsir
-
-**What this ayah teaches:** And who does more wrong than he who is reminded of the Ayat (signs) of his Lord, but turns away from them, forgetting what his hands have sent forth.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

@@ -129,11 +129,5 @@ If you wish to remind me, remind me of God.'
 
 whose last sip smells of musk. Let whoever aspires to this strive for it.
 
-## AI Tafsir
-
-**What this ayah teaches:** This refers to a drink called Tasnim, and it is the most excellent and exalted drink of the people of Paradise. If he loses the means, it should not hurt him much, because it is not a loss that cannot be recovered.
-
-**Classical tafsir:** Ibn Kathir notes: This refers to a drink called Tasnim, and it is the most excellent and exalted drink of the people of Paradise.
 ## Personal Reflections
-
 

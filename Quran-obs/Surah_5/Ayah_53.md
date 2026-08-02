@@ -142,13 +142,5 @@ This has been clarified further in the third verse (53) where it was said that o
 
 Those who have iman will ask, “Are these the ones who swore solemn oaths by Allah that they were with you?” Their deeds have been in vain, so they have become losers.
 
-## AI Tafsir
-
-**What this ayah teaches:** Then they will become regretful for what they have been keeping as a secret in themselves (52)And those who believe will say: "Are these the men who swore their strongest oaths by Allah that they were with you?" All that they did has been in vain, and they have become the losers .
-
-**Classical tafsir:** Ibn Kathir notes: The Prohibition of Taking the Jews, Christians and Enemies of Islam as Friends Allah forbids His believing servants from having Jews and Christians as friends, because they are the enemies of Islam and its people, may Allah curse them.
-
-**From the Sunnah:** Ibn Abi Hatim recorded that 'Umar ordered Abu Musa Al-Ash'ari to send him on one sheet of balance the count of what he took in and what he spent.
 ## Personal Reflections
-
 

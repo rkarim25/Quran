@@ -577,27 +577,5 @@ In the end, I present some ahadith of the Holy Prophet to further strengthen the
 
 Those who consume interest will stand on the Day of Judgment like those driven to madness by Satan's touch. That is because they say trade is like interest — but Allah permitted trade and forbade interest. Whoever refrains after warning from his Rabb may keep past gains; his case is with Allah. Whoever persists — they are the people of the Fire, remaining forever.
 
-## AI Tafsir
-
-**Essence**
-
-Allah brands the devourer of riba (interest/usury) with a curse that begins on the Day of Resurrection — he rises staggering like one driven mad by Satan's touch — because, in defiance of Allah's command, he claimed forbidden interest was no different from the trade Allah made lawful.
-
-**What it teaches**
-
-Riba is the fixed increase taken on a loan in exchange for time, and the ayah condemns those who "eat" it — ya'kuluna signaling total, irretrievable consumption, since what is eaten cannot be given back. Their resurrection mirrors their crime: senseless in this life with greed, they rise senseless before Allah. Their deeper sin was claiming "trade is only like riba," twisting the lawful and the forbidden into one when Allah, the All-Knowing, decreed them worlds apart.
-
-**The scholars**
-
-Ibn Kathir reports from Ibn 'Abbas that on the Day of Resurrection the consumers of riba will be raised "while insane and suffering from seizures," a tafsir also transmitted from 'Awf bin Malik, Sa'id bin Jubayr, As-Suddi, Ar-Rabi' bin Anas, Qatadah and Muqatil bin Hayyan. He stresses that the disbelievers did not honestly call riba "trade"; rather, rejecting Allah's command, they said "trade is only like riba" in defiance — to which Allah answers not with debate but with sovereignty: He alone knows true benefit and harm, and in Ibn Kathir's words is "more merciful with them than the mother with her own infant," permitting what helps and forbidding what destroys. Maarif ul Quran explains that their two crimes were consuming the haram and then declaring it halal, and that here they took "a sort of mocking plunge" at those who called riba forbidden. Allah refused to meet their rational objection with a parallel rational reply — instead reminding them that He, al-'Alim and al-Khabir, encompasses benefits and harms no individual can survey. On "whoever refrains after the warning," Sa'id bin Jubayr and As-Suddi say the past gains pardoned are the riba consumed before its prohibition; the Prophet's ﷺ annulling of riba at the Conquest of Makkah — beginning with his own uncle Al-'Abbas's riba — shows past interest was forgiven, not clawed back, while "his case is left to Allah" entrusts the sincerity of his repentance to Allah alone.
-
-**From the Sunnah**
-
-In the Prophet's ﷺ dream, the consumer of riba was shown punished in a river red as blood, made to swim toward the shore only to be fed a stone in his open mouth and driven back again — a vivid image of his torment in the Hereafter. (Al-Bukhari) And the curse of riba, as Ali and Ibn Mas'ud narrated, falls not only on the one who consumes it but on the one who pays it, the two who witness the contract, and the scribe who records it — for guilt attaches to the transaction itself, not the legitimate form it is dressed in.
-
-**Reflection**
-
-Audit your earnings the way you would your prayer — refuse interest in every form, and do not let custom dress a sin in respectable clothes until the haram starts tasting halal.
 ## Personal Reflections
-
 

@@ -91,13 +91,5 @@ In response, it was said that a little thinking would unfold the reality behind 
 
 And let neither their wealth nor children impress you. Allah only intends to torment them through these things in this dunya, and their souls will depart while they are those who reject the truth.
 
-## AI Tafsir
-
-**What this ayah teaches:** Allah only wants to punish them with these things in this world, and that their souls shall depart (die) while they are those who reject the truth.) We mentioned before the explanation of a similar Ayah, all the thanks and praises are due to Alla (85) Their affluent life could have made Muslims ask, ` when these people are so unacceptable with Allah, why did they have to get all those blessings in this world?'…
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** Their affluent life could have made Muslims ask, ` when these people are so unacceptable with Allah, why did they have to get all those blessings in this world?'
 ## Personal Reflections
-
 

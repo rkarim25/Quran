@@ -113,11 +113,5 @@ At the end of this sign of divine omnipotence it is saidإِنَّ فِي ذَٰ
 
 One of His signs: your sleep by night and day for rest, and your seeking of His bounty. In that are signs for people who listen.
 
-## AI Tafsir
-
-**What this ayah teaches:** And among His signs is the creation of the heavens and the earth, and the difference of your languages and colors.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, one should try to earn the living through all the means available to him, but should not ignore the reality that the outcome of his endeavours depends on the will of Allah, as He is the real provider.
 ## Personal Reflections
-
 

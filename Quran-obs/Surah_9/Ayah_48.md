@@ -101,13 +101,5 @@ The statement وَظَهَرَ‌ أَمْرُ‌ اللَّـهِ وَهُمْ 
 
 They had already sought to spread discord before and devised every plot against you, until the truth came and Allah’s Will prevailed—much to their dismay.
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, they had plotted sedition before, and had upset matters for you, until the truth (victory) came and the decree of Allah became manifest though they hated it .
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** For a long time,' Allah says, hypocrites thought and plotted against you and your Companions, as well as, failing and attempting to extinguish your religion.' This occurred soon after the Prophet ﷺ migrated to Al-Madinah, when pagan Arabs joined force and the…
 ## Personal Reflections
-
 

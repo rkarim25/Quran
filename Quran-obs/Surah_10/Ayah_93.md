@@ -173,11 +173,5 @@ At the end of the verse, it was said that Allah Ta'ala will give His verdict abo
 
 Indeed, We settled the Children of Israel in a blessed land, and granted them good, lawful provisions. They did not differ until knowledge came to them. Surely your Rabb will judge between them on the Day of Judgment regarding their differences.
 
-## AI Tafsir
-
-**What this ayah teaches:** And indeed We settled the Children of Israel in an honorable dwelling place, and provided them with good things, and they differed not until the knowledge came to them. The Establishment of the Children of Israel in the Land and Their Provision from the Good Things In these Ayat, Allah tells us about all the worldly and religious gifts which He bestowed upon the Children of Israel.
-
-**Classical tafsir:** Ibn Kathir notes: And the fair Word of your Lord was fulfilled for the Children of Israel, because of their endurance.
 ## Personal Reflections
-
 

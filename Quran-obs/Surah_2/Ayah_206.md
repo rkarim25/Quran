@@ -222,19 +222,5 @@ However, some commentators cite similar events relating to other noble Companion
 
 When told, "Live with taqwa," pride drives him deeper into sin. Hell is enough for him — an evil resting place.
 
-## AI Tafsir
-
-**Essence** When the hypocrite is told "Fear Allah," his arrogance only drags him deeper into sin — and Hell is fitting recompense for such a soul.
-
-**What it teaches** This ayah exposes the man who rejects sincere counsel: when he is reminded to have taqwa (mindful fear of Allah, guarding oneself against His punishment), al-'izzah bi'l-ithm seizes him — a false "pride" or self-glory that pushes him toward more crime rather than repentance. His punishment is jahannam, called here an evil mihad (resting-place), a bitter parody of rest for one who refused the truth.
-
-**The scholars** Ibn Kathir places this verse in a portrait of the hypocrite (vv. 204-206): sweet of speech yet "the most quarrelsome of opponents" (aladd al-khisam), who spreads corruption in the land. As-Suddi reports it was revealed about Al-Akhnas bin Shariq, who professed Islam while his heart concealed otherwise; Ibn 'Abbas links it to hypocrites who slandered Khubayb and his companions slain at Al-Raji'. Qatadah, Mujahid and Ar-Rabi' bin Anas held it describes hypocrites and believers in general, which Ibn Kathir calls correct. On v. 206 itself he explains that when such a person is "advised and commanded to fear Allah, refrain from his evil deeds and adhere to the truth, he refuses and becomes angry and outraged, as he is used to doing evil" — so "the Fire is enough punishment for the hypocrite." Maarif ul Quran adds that any effort to make such a man fear Allah only drives him to the opposite extreme, "when he pleases his pride through sin," contrasting him with the sincere believer of v. 207 who stakes his very life for Allah's pleasure.
-
-**From the Sunnah** Expounding the word aladd ("most quarrelsome") in v. 204, Ibn Kathir cites the Prophet's ﷺ words that a hypocrite is known by three signs: "Whenever he speaks, he tells a lie; whenever he promises, he breaks it; and if you dispute with him, he is most quarrelsome" — naming the deceit and treachery that underlie the quarrel. (Sahih)
-
-He follows it with 'A'ishah's report that "the most hated person to Allah is he who is most fiercely quarrelsome (al-aladd al-khasim)" — Allah's own verdict on this temperament, the same hardened self that, in v. 206, recoils rather than yields when told to fear Him. (Bukhari)
-
-**Reflection** Measure yourself by your response to "Fear Allah" — let it soften you to repentance, never harden you in pride.
 ## Personal Reflections
-
 

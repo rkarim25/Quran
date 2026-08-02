@@ -214,13 +214,5 @@ The ultimate outcome of this too is no other but that one should not delay doing
 
 O you who have iman: respond to Allah and His Messenger when he calls you to what gives you life. Know that Allah comes between a person and his heart, and that to Him you will all be gathered.
 
-## AI Tafsir
-
-**What this ayah teaches:** Commanded to obey Allah and His Messenger in a particular manner, they have been told that the thing to which Allah and His Messenger invite you is something which brings no benefit to Allah and His Messenger per se.
-
-**Classical tafsir:** Ibn Kathir notes: Qatadah said: That is Qur'an in which lies all life and success of both the worlds, Dunya and 'Akhirah.
-
-**From the Sunnah:** Ibn 'Abbas commented, "Allah prevents the believer from disbelief and the those who reject the truth from faith." Al-Hakim recorded this in his Mustadrak and said, "It is Sahih and they did not record it." . (al-Mustadrak) This is the same narration recorded by At-Tirmidhi in the Book of Qadar in his Jami' [Sunan], and he said, "Hasan." Imam Ahmad recorded that An-Nawwas bin Sam'an Al-Kilabi said that he heard the Prophet ﷺ saying, (Musnad Ahmad, Jami' at-Tirmidhi)
 ## Personal Reflections
-
 

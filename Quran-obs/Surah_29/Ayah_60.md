@@ -125,13 +125,5 @@ Ibn Abi Hatim, may Allah have mercy on him, recorded from Abu Mu'aniq Al-Ash'ari
 
 How many creatures cannot secure their provision! Allah provides for them and for you. He is All-Hearing, All-Knowing.
 
-## AI Tafsir
-
-**What this ayah teaches:** Allah gives provision to it as well as to you, - 29:60), that is, ` You should ponder over the fact that there are innumerable animals on earth who do not collect and store their sustenance, nor do they worry about its collection.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore worship Me.) When things became too difficult for the believers in Makkah who were in a weak position and were oppressed, they left and migrated to Ethiopia, where they were able to practice their religion.
-
-**From the Sunnah:** The Muslims found Ethiopia the best place for guest; where Ashamah, the Negus or king, may Allah have mercy on him, gave them refuge, helped them, supported them, and honored them in his land. Ibn Abi Hatim, may Allah have mercy on him, recorded from Abu Mu'aniq Al-Ash'ari that Abu Malik Al-Ash'ari told him that the Messenger of Allah ﷺ told him:
 ## Personal Reflections
-
 

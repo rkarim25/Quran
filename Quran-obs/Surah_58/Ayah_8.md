@@ -339,15 +339,5 @@ It was narrated earlier that there was a peace treaty between the Holy Prophet a
 
 Have you not seen those who were forbidden from secret counsel yet return to it—plotting sin, aggression, and defiance of the Messenger? When they greet the Prophet, they do not greet him as Allah teaches greeting. They whisper among themselves: 'Why does Allah not punish us for what we say?' Hell is enough for them—they will burn in it. What an evil end.
 
-## AI Tafsir
-
-**Context:** Although the present verses were revealed in some particular events, as detailed above, the rules laid down by them are of general application, regardless of their cause of revelation.
-
-**What this ayah teaches:** Have you not seen those who were forbidden to hold secret counsels, and afterwards returned to that which they had been forbidden, and conspired together for sin and wrongdoing and disobedience to the Messenger.
-
-**Classical tafsir:** Ibn Kathir notes: Probably, people in this category might have felt it difficult to advance freewill alms, because on the one hand, their means were limited, and on the other hand, they were unsure whether they were indigent.
-
-**From the Sunnah:** The Prophet ﷺ advised them to abandon their evil secret talks, but they did not listen and kept on holding the Najwa. the Jews used to say, "Sam 'Alayka," to Allah's Messenger ﷺ.
 ## Personal Reflections
-
 

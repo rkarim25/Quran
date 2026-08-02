@@ -160,15 +160,5 @@ Some narrations have it that someone either abused or reviled Sayyidna Abu Bakr 
 
 Good and evil cannot be equal. Respond to evil with what is best, then the one you are in a feud with will become like a close friend.
 
-## AI Tafsir
-
-**Context:** The correct view is that the Ayah is general in meaning, and includes the Mu'adhdhin and others. When this Ayah was revealed, the Adhan had not been prescribed at all.
-
-**What this ayah teaches:** Repel (the evil) with one which is better, then verily he, between whom and you there was enmity, (will become) as though he was a close friend (34)But none is granted it except those who are patient – and none is granted it except the owner of the great portion in this world (35)And if an evil whisper from Shaytan tries to turn you away, then seek refuge in Allah.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** The Messenger of Allah ﷺ is the foremost among people in this regard, as Muhammad bin Sirin, As-Suddi and 'Abdur-Rahman bin Zayd bin Aslam said.
 ## Personal Reflections
-
 

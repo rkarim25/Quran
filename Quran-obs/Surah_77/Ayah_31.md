@@ -120,11 +120,5 @@ Then Allah says,
 
 giving neither coolness nor shelter from the flames.
 
-## AI Tafsir
-
-**What this ayah teaches:** So if you have a plot, use it against Me!) This is an address from the Creator to His servants.
-
-**Classical tafsir:** Ibn Kathir notes: This means it will not protect them from the heat of the flame.
 ## Personal Reflections
-
 

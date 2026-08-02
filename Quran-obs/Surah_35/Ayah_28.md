@@ -168,11 +168,5 @@ However, at times, awe and fear of Allah are rooted in one's creed and reason be
 
 and people, living beings, and cattle are of various colours too. Of all Allah's servants, only the knowledgeable are truly in awe of Him. Allah is Almighty, All-Forgiving.
 
-## AI Tafsir
-
-**What this ayah teaches:** Therefore, this sentence obviously means that only the ` Ulama' (the knowing, the learned, the initiated) fear Allah or have the genuine awe of Allah.
-
-**Classical tafsir:** Ibn Kathir notes: 'Ikrimah said, "Al-Gharabib means mountains which are high and black." This was also the view of Abu Malik, 'Ata' Al-Khurasani and Qatadah. Therefore, this sentence obviously means that only the ` Ulama' (the knowing, the learned, the initiated) fear Allah or have the genuine awe of Allah.
 ## Personal Reflections
-
 

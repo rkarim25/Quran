@@ -115,11 +115,5 @@ The purpose of the last sentence: لَا يَبْغُونَ عَنْهَا حِ�
 
 Say, O Prophet, “If the ocean were ink for writing the Words of my Rabb, it would certainly run out before the Words of my Rabb were finished, even if We refilled it with its equal.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Our Lord is as He says He is and He is beyond what we can say.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

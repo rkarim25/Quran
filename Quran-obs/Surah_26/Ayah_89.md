@@ -139,13 +139,5 @@ In accordance with the commonly adopted explanation of the verse it has now beco
 
 Only those who come before Allah with a pure heart will be saved.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Ibn Sirin said, "The clean heart knows that Allah is true, that the Hour will undoubtedly come and that Allah will resurrect those who are in the graves." Sa'id bin Al-Musayyib said, "The clean heart is the sound heart." This is the heart of the believer, for the heart of the those who reject the truth and the hypocrite is sick.
-
-**Classical tafsir:** Ibn Kathir notes: It may also be noted that "sound heart" literally means a healthy heart.
-
-**From the Sunnah:** Paradise to the those who reject the truth. (Sunan an-Nasa'i) In accordance with the commonly adopted explanation of the verse it has now become clear that the wealth of a person could be of help to him on the Dooms Day, provided he is a Muslim. (Sahih Muslim)
 ## Personal Reflections
-
 

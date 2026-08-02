@@ -133,15 +133,5 @@ Juwaybir reported that Ad-Dahhak said, "When Allah sent the Qur'an down to His M
 
 Whether you speak openly or not, He certainly knows what is secret and what is even more hidden.
 
-## AI Tafsir
-
-**Context:** Juwaybir reported that Ad-Dahhak said, "When Allah sent the Qur'an down to His Messenger ﷺ, he and his Companions adhered to it.
-
-**What this ayah teaches:** And if you speak aloud, then verily, He knows the secret and that which is yet more hidden.)(8.
-
-**Classical tafsir:** Ibn Kathir notes: To Him belongs the Best Names.) This means, 'He Who revealed this Qur'an to you (O Muhammad), He is Allah, there is no Allah except Him.
-
-**From the Sunnah:** He created the lofty heavens with their high altitudes and subtleties.' It has been reported in a Hadith, which At-Tirmidhi and others graded as authentic, that the density of each sky of the heavens is the distance of five hundred years travel and the distanc… (Jami' at-Tirmidhi)
 ## Personal Reflections
-
 

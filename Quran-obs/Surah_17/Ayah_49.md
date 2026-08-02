@@ -212,13 +212,5 @@ Imam al-Qurtubi (رح) says that he himself went through an incident in the Mant
 
 And they say mockingly, “When we are reduced to bones and ashes, will we really be raised as a new creation?”
 
-## AI Tafsir
-
-**Context:** The subject taken up in the first two verses (45, 46) has a particular event as a background. According to al-Qurtubi reporting on the authority of Sayyidna Said ibn Jubayr ؓ ، when Surah al-Masad/al-Lahab (iii) beginnin…
-
-**What this ayah teaches:** This means that if you were to assume that you would become dead, which is the opposite of living, Allah will resurrect you when He wills, for nothing can stop Him when He wills a thing. A word derived from the same root, Naghd, is used to refer to the young of the ostrich, because when it walks, it walks quickly and moves its head.
-
-**Classical tafsir:** Ibn Kathir notes: This means that if you were to assume that you would become dead, which is the opposite of living, Allah will resurrect you when He wills, for nothing can stop Him when He wills a thing.
 ## Personal Reflections
-
 

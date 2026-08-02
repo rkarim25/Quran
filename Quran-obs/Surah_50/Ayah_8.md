@@ -117,11 +117,5 @@ After mentioning the confused state of the infidels, Allah draws man's attention
 
 as an insight and reminder for every servant who turns back to Allah in repentance.
 
-## AI Tafsir
-
-**What this ayah teaches:** We have spread it out, and set thereon Rawasi standing firm, and We planted in it every lovely (Bahij) pair (7)An insight and a Reminder for every servant who turns to Allah in repentance (8)And We send down blessed water (rain) from the sky, then We produce therewith Jannat and grain that are reaped (9)And date palms Basiqat, with arranged clusters (10)A provision for the servants.
-
-**Classical tafsir:** Ibn Kathir notes: Lexically, the word furuj is the plural of farj which means a crack, or an opening.
 ## Personal Reflections
-
 

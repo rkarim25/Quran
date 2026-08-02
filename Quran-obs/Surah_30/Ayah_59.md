@@ -111,13 +111,5 @@ Ends here.
 
 This is how Allah seals hearts of those unwilling to know.
 
-## AI Tafsir
-
-**Context:** It is revealed in this verse that the infidels will lie on the Day of Resurrection in their swearing that they did not stay in the world or barzakh for more than an hour.
-
-**What this ayah teaches:** Do not turn away from it, for nowhere else is there truth which is to be followed; the truth rests exclusively in the Message with which you have been sent.' Reports concerning the Virtues of this Surah and that it is recommended to recite it during Fajr Imam Ahmad recorded from a man among the Companions of the Prophet ﷺ that the Messenger of Allah ﷺ led them in Fajr prayer an…
-
-**Classical tafsir:** Ibn Kathir notes: It is probable that the stay referred to here is the stay in this world, because they spent the time in this world in comfort and ease.
 ## Personal Reflections
-
 

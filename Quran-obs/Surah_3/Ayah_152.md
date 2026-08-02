@@ -339,13 +339,5 @@ Keeping this in view, it is obvious that their action cannot be classed as the u
 
 Indeed, Allah fulfilled His promise to you when you swept them away by His Will, then your courage weakened and you disputed about the command and disobeyed, after Allah had brought victory within your reach. Some of you were after worldly gain while others desired a heavenly reward. He denied you victory over them as a test, yet He has pardoned you. And Allah is Gracious to those who have iman.
 
-## AI Tafsir
-
-**What this ayah teaches:** The cause of your misery is still present.' Abu Sufyan said, 'O Hubal, be high!' On that the Prophet ﷺ said (to his Companions), 'Answer him back.' They said, 'What shall we say?' He said, 'Say, Allah is Higher and more Sublime.' Abu Sufyan said, 'We have the (idol) Al-'Uzza, and you have no 'Uzza.' The Prophet ﷺ said, 'Answer him back.' They asked, 'What shall we say?' He said…
-
-**Classical tafsir:** Ibn Kathir notes: Ibn Jurayj said that Ibn 'Abbas said that Fashiltum means, 'lost courage'. Al-Hasan and Qatadah said that, Tus'iduna, means, 'go up the mountain'.
-
-**From the Sunnah:** Allah next conveys the good news that He will put fear of the Muslims, and feelings of subordination to the Muslims in the hearts of their disbelieving enemies, because of their Kufr and Shirk.
 ## Personal Reflections
-
 

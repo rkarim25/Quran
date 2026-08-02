@@ -183,11 +183,5 @@ Atheists believed that ` Time' is the cause of life, death, vicissitudes of cond
 
 Say: "Allah gives you life, then causes you to die, then will gather you on the Day of Judgment, about which there is no doubt. But most people do not know."
 
-## AI Tafsir
-
-**What this ayah teaches:** Here Allah is referred to as ad-dahr metaphorically or figuratively.
-
-**Classical tafsir:** Ibn Kathir notes: The Messenger of Allah said: "Do not revile time because time actually is Allah." The ignorant who claim that a particular work was done by time is actually the work of Divine power - time is nothing.
 ## Personal Reflections
-
 

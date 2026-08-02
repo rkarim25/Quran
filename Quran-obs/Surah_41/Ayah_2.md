@@ -112,13 +112,5 @@ This is the meaning of the first five verses of this Surah. In these verses, All
 
 A revelation from the Rahman—mercy that encompasses all creation in this life—and the Rahim—special mercy for believers in the Akhirah.
 
-## AI Tafsir
-
-**Context:** The first addressees of this Surah are Quraysh of ` Arabia among whom Qur'an was revealed in their own language.
-
-**What this ayah teaches:** A revelation from the ar-Rahman, the ar-Rahim.) means, the Qur'an is revealed from the ar-Rahman, ar-Rahim.
-
-**Classical tafsir:** Ibn Kathir notes: In these verses, Allah Almighty has specially addressed and advised Quraysh that Qur'an has been revealed in Arabic language, so that you do not have any difficulty in understanding the contents.
 ## Personal Reflections
-
 

@@ -229,13 +229,5 @@ This sentence of the Qur'an gives everyone a clear lesson in wisdom - that none 
 
 When it is said to them, “Come to Allah’s revelations and to the Messenger,” they reply, “What we found our forefathers practicing is good enough for us.” even if their forefathers had absolutely no knowledge or guidance?
 
-## AI Tafsir
-
-**Context:** Following forefathers was one of the many customs of Jahiliyyah which had involved them in all sorts of evils, and equally deprived them of all kinds of virtues too.
-
-**What this ayah teaches:** But those who disbelieve invent lies against Allah, and most of them have no understanding (103)And when it is said to them: "Come to what Allah has revealed and unto the Messenger." They say: "Enough for us is that which we found our fathers following," even though their fathers had no knowledge whatsoever and no guidance (104).
-
-**Classical tafsir:** Ibn Kathir notes: As for the Sa'ibah, Mujahid said that it is for sheep, and mentioned a similar meaning as for Bahirah.
 ## Personal Reflections
-
 

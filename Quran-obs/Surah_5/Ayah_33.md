@@ -385,15 +385,5 @@ Towards the end of the verse (33), it was said: ذَٰلِكَ لَهُمْ خِ
 
 Indeed, the penalty for those who wage war against Allah and His Messenger and spread mischief in the land is death, crucifixion, cutting off their hands and feet on opposite sides, or exile from the land. This is a disgrace for them in this dunya, and they will suffer a tremendous punishment in the Akhirah.
 
-## AI Tafsir
-
-**Context:** (Allah is Of-Forgiving, ar-Rahim,) "Were revealed about the idolators. Therefore, the Ayah decrees that, whoever among them repents before you apprehend them, then you have no right to punish them.
-
-**What this ayah teaches:** And indeed, there came to them Our Messengers with Al-Bayyinat, even then after that many of them continued to exceed the limits in the land (32)The recompense of those who wage war against Allah and His Messenger and do mischief in the land is only that they shall be killed or crucified, or their hands and their feet be cut off on opposite sides, or be exiled from the land.
-
-**Classical tafsir:** Ibn Kathir notes: This view is supported by the fact that the word Aw (or), indicates a choice.
-
-**From the Sunnah:** That is their disgrace in this world, and a great torment is theirs in the Hereafter (33)Except for those who (having fled away and then…
 ## Personal Reflections
-
 

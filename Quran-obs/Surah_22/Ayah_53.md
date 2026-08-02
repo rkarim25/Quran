@@ -179,11 +179,5 @@ Commentary
 
 All that so He may make Satan’s influence a trial for those those of nifaq whose hearts are sick and those those who reject the truth whose hearts are hardened. Surely the wrongdoers are totally engrossed in opposition.
 
-## AI Tafsir
-
-**Context:** (And that those who have been given knowledge may know that it is the truth from your Lord, so that they may believe therein,) means, 'so that those who have been given beneficial knowledge with which they may differenti…
-
-**What this ayah teaches:** This verse explains that the disputes raised by the those who reject the truth in regard to Allah's message is not something new as similar doubts were raised by earlier people as well when their prophets presented to them the message of Truth, and the Shaitan cast doubts about it in the hearts of those who reject the truth.
 ## Personal Reflections
-
 

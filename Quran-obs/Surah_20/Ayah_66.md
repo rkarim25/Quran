@@ -120,15 +120,5 @@ The Egyptians were confident of their success and in a mood of complacency asked
 
 Moses responded, “No, you go first.” And suddenly their ropes and staffs appeared to him—by their magic—to be slithering.
 
-## AI Tafsir
-
-**Context:** (So Musa conceived fear in himself.) This means that he feared for the people that they would be tested and deceived by their magic before he could even have a chance to throw what was in his right hand.
-
-**What this ayah teaches:** The verse shows that the Egyptian magicians had cast a hypnotic spell on the onlookers to whom it appeared that the staffs and the ropes had turned into snakes and were running about on the ground, whereas in fact no such transformation had taken place.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, when this happened, they fell down into prostration to Allah.
-
-**From the Sunnah:** Paradise was raised up before them until they were looking at it.
 ## Personal Reflections
-
 

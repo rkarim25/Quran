@@ -146,13 +146,5 @@ Commentary
 
 He subjected for you whatever is in the heavens and whatever is on the earth—all by His grace. In this are signs for people who reflect.
 
-## AI Tafsir
-
-**What this ayah teaches:** Allah, it is He Who has subjected to you the sea, that ships may sail through it by His command, and that you may seek of His bounty, and that you may be thankful (12)And has subjected to you all that is in the heavens and all that is on the earth; it is all (as a favor and kindness) from Him.
-
-**Classical tafsir:** Ibn Kathir notes: Generally, when Qur'an uses the expression ` to seek His grace' it refers to exerting oneself in seeking one's livelihood.
-
-**From the Sunnah:** Then, when harm touches you unto Him you cry aloud for help.)(16:53) Ibn Jarir recorded that Al-'Awfi reported that Ibn 'Abbas said about Allah's statement, In the beginning of Islam, Muslims were ordered to observe patience in the face of the oppression of the idolators and the People of the Scriptures so that their hearts may incline towards Islam.
 ## Personal Reflections
-
 

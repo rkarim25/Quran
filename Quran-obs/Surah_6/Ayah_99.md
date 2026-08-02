@@ -305,11 +305,5 @@ The contents of this verse present a unique concern for thematic order. It will 
 
 And He is the One Who sends down rain from the sky—causing all kinds of plants to grow—producing green stalks from which We bring forth clustered grain. And from palm trees come clusters of dates hanging within reach. also gardens of grapevines, olives, and pomegranates, similar but dissimilar. Look at their fruit as it yields and ripens! Indeed, in these are signs for people who believe.
 
-## AI Tafsir
-
-**What this ayah teaches:** Indeed, We have explained in detail Our revelations for people who understand (98)It is He Who sends down water from the sky, and with it We bring forth vegetation of all kinds, and out of it We bring forth green stalks, from which We bring forth thick clustered grain.
-
-**Classical tafsir:** Ibn Kathir notes: This Ayah means, contemplate the ability of the Creator of these fruits, Who brought them into existence after they were dry wood, and they later became grapes and dates; and similar is the case with the various colors, shapes, tastes and fragrance of whatever Allah created.
 ## Personal Reflections
-
 

@@ -134,11 +134,5 @@ Allah the Exalted said,
 
 Only those already destined to stray are turned away from it.
 
-## AI Tafsir
-
-**What this ayah teaches:** Turned aside therefrom is he who is turned aside.)(10.
-
-**Classical tafsir:** Ibn Kathir notes: Certainly, you have different ideas.)(9.
 ## Personal Reflections
-
 

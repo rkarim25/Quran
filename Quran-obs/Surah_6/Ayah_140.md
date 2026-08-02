@@ -142,11 +142,5 @@ of slaughter, the calf came out alive, they would slaughter it as well - but, wo
 
 Lost indeed are those who have murdered their own children foolishly out of ignorance and have forbidden what Allah has provided for them—falsely attributing lies to Allah. They have certainly strayed and are not guided.
 
-## AI Tafsir
-
-**What this ayah teaches:** Indeed lost are they who have killed their children, foolishly, without knowledge, and (they) have forbidden that which Allah has provided for them, inventing a lie against Allah. As for this life, they lost when they killed their children and made it difficult for themselves by prohibiting some types of their wealth, as an act of innovation that they invented on their own.
-
-**Classical tafsir:** Ibn Kathir notes: As for the Hereafter, they will end up in the worst dwellings, because they used to lie about Allah and invent falsehood about Him.
 ## Personal Reflections
-
 

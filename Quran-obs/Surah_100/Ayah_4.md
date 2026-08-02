@@ -120,13 +120,5 @@ The word kanud, (100:6) according to Hasan Basri (رح) ، refers to the one who
 
 raising clouds of dust—
 
-## AI Tafsir
-
-**What this ayah teaches:** And scouring to the raid at dawn.)(4.
-
-**Classical tafsir:** Ibn Kathir notes: And scouring to the raid at dawn.)(4.
-
-**From the Sunnah:** This is just as the Messenger of Allah ﷺ used to perform raids in the early morning.
 ## Personal Reflections
-
 

@@ -88,11 +88,5 @@ In short, it is not within people's power to get together and save a soul or lif
 
 while you stand watching—
 
-## AI Tafsir
-
-**What this ayah teaches:** In the current verse the word is used in the sense of hypocrisy and rejection of Allah's verses carelessly. So, if you are not going to be recompensed [ in the Hereafter for your deeds ], then why do you not bring the soul back, if you are truthful?...56:83-87) The preceding verses proved two facts through rational arguments and by swearing an oath by the falling stars: [ 1] that the Holy Qur'an-i…
-
-**Classical tafsir:** Ibn Kathir notes: In the current verse the word is used in the sense of hypocrisy and rejection of Allah's verses carelessly.
 ## Personal Reflections
-
 

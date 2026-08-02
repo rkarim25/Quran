@@ -125,13 +125,5 @@ While stating the sex of children in this verse, Allah Ta’ ala has mentioned f
 
 To Allah alone belongs the kingdom of the heavens and the earth. He creates whatever He wills. He blesses whoever He wills with daughters, and blesses whoever He wills with sons,
 
-## AI Tafsir
-
-**What this ayah teaches:** To Allah belongs the kingdom of the heavens and the earth. He gives to whomsoever He wills and withholds from whomsoever he wills; none can withhold what He gives, and none can give what He withholds, and He creates whatever He wills.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** The earlier three of the above verses state the end of those people who, as against the virtuous Muslims, remained desirous of the delights and luxuries of this world, instead of caring about the Hereafter.
 ## Personal Reflections
-
 

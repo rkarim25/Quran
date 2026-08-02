@@ -177,15 +177,5 @@ In the last verse (21), it was said that these people of the Book who, despite k
 
 Those to whom We gave the Scripture recognize him as they recognize their own children. Those who have ruined themselves will never believe.
 
-## AI Tafsir
-
-**Context:** And if Allah touches you with harm, none can remove it but He, and if He touches you with good, then He is able to do all things (17)And He is the Irresistible, above His servants, and He is the All-Wise, Well-Acquainted…
-
-**What this ayah teaches:** At this point, the simile given in the text is that of children - ` as they would recognize their sons.' Not said here is: as children recognize their parents.
-
-**Classical tafsir:** Ibn Kathir notes: In verse 20, there is a refutation of the saying of those who had said that they had checked with the Jews and the Christians and none of them were ready to attest to his truth as a Messenger of Allah.
-
-**From the Sunnah:** It is recorded in the Sahih that the Messenger of Allah ﷺ used to supplicate,
 ## Personal Reflections
-
 

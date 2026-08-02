@@ -104,15 +104,5 @@ Commentary
 
 Indeed, Allah will admit those who believe and do good into Gardens, under which rivers flow. Surely Allah does what He wills.
 
-## AI Tafsir
-
-**Context:** (And among men there is one who worships Allah (standing) on the verge - 22:11.) Bukhari and Ibn Abi Haim have related from Sayyidna Ibn ` Abbas ؓ that when the Holy Prophet ﷺ migrated to Madinah, people flocked to him a…
-
-**What this ayah teaches:** Truly, Allah will admit those who believe and do righteous good deeds to Gardens underneath which rivers flow. Because of this, they will inherit dwellings in the lofty ranks of the gardens of Paradise.
-
-**Classical tafsir:** Ibn Kathir notes: Because of this, they will inherit dwellings in the lofty ranks of the gardens of Paradise.
-
-**From the Sunnah:** If, after becoming Muslims, favorable circumstances resulted in an increase in their prosperity and their children, they thought Islam was a very good religion, but they were equally ready to condemn it if things went against their personal interests.
 ## Personal Reflections
-
 

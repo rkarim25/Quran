@@ -148,15 +148,5 @@ It is recorded in Abu Dawud, Tirmidhi and Nasa'i that Sayyidna ` Irbad Ibn Sariy
 
 To Him belongs the dominion of the heavens and the earth. He gives life and causes death. He is capable of everything.
 
-## AI Tafsir
-
-**Context:** (So if you are in doubt concerning that which We have revealed to you, then ask those who are reading the Book before you. Verily, the truth has come to you from your Lord.)(10:94)'
-
-**What this ayah teaches:** It is He Who gives life and causes death; and He is Able to do all things.)(3.
-
-**Classical tafsir:** Ibn Kathir notes: Whatever is in the heavens and the earth glorifies Allah – and He is the Almighty, All-Wise.)(2.
-
-**From the Sunnah:** the Messenger of Allah ﷺ used to recite Al-Musabbihat before he went to sleep, saying, (Musnad Ahmad) There are about ten and some odd number of different sayings collected from the scholars of Tafsir regarding the explanation of this Ayah. (Sahih al-Bukhari)
 ## Personal Reflections
-
 

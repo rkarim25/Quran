@@ -97,13 +97,5 @@ The reason for the big trouble Muslims are in today is no other but that there a
 
 And they fall down upon their faces weeping, and it increases them in humility.”
 
-## AI Tafsir
-
-**Context:** ("Believe in it (the Qur'an) or do not believe (in it).) meaning, it is all the same whether you believe in it or not, for it is true in and of itself.
-
-**What this ayah teaches:** Verily, those who were given knowledge before it, when it is recited to them, fall down on their chins (faces) in humble prostration.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

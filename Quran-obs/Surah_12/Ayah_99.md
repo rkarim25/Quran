@@ -156,13 +156,5 @@ At the end of verse 99, the statement: وَقَالَ ادْخُلُوا مِص�
 
 When they entered Joseph’s presence, he received his parents graciously and said, “Enter Egypt, Allah willing, in security.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Yusuf welcomes His Parents - His Dream comes True Allah states that Ya'qub went to Yusuf in Egypt. When Yusuf received news of their approach to Egypt, he went out to receive them.
-
-**Classical tafsir:** Ibn Kathir notes: My Lord has made it come true!) using the word, 'Ta'wil', to describe what became of the matter, later on.
-
-**From the Sunnah:** The implication of this statement was collected from Qatadah and other scholars.
 ## Personal Reflections
-
 

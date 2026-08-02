@@ -108,11 +108,5 @@ Maulana Ashraf ` Ali Thanawi (رح) ، has, however, explained the issue in Baya
 
 and who enforce justice when wronged.
 
-## AI Tafsir
-
-**What this ayah teaches:** So whatever you have been given is but (a passing) enjoyment for this worldly life, but that which is with Allah is better and more lasting for those who believe and put their trust in their Lord (36)And those who shun the greater sins, and Al-Fawahish, and when they are angry, they forgive (37)And those who answer the Call of their Lord, and perform the Salah, and who (conduct…
-
-**Classical tafsir:** Ibn Kathir notes: And in the verse that refers to revenge, we are told that it is a particular quality of these virtuous people that if at any time their heart is inclined to take revenge of an injustice and they do so, they do not exceed the equitable limit, although to forgive is always better f…
 ## Personal Reflections
-
 

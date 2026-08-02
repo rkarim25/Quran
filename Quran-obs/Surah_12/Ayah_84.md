@@ -162,11 +162,5 @@ In the comment quoted above, it is worth noticing that this love, though not the
 
 He turned away from them, lamenting, “Alas, poor Joseph!” And his eyes turned white out of the grief he suppressed.
 
-## AI Tafsir
-
-**What this ayah teaches:** He was so affected by his disappearance that, during this whole period of his separation from him which has been reported to be forty years in some narrations while eighty in some others, he kept weeping continuously, so much so that he lost his eyesight.
-
-**Classical tafsir:** Ibn Kathir notes: He was so affected by his disappearance that, during this whole period of his separation from him which has been reported to be forty years in some narrations while eighty in some others, he kept weeping continuously, so much so that he lost his eyesight.
 ## Personal Reflections
-
 

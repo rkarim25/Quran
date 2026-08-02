@@ -194,13 +194,5 @@ Ibn Kathir, with reference to Ibn Abi Hatim, writes that the incidents of 'trenc
 
 when they sat around it
 
-## AI Tafsir
-
-**Context:** Then, after Ibn Ishaq explained that the people of Najran began following the religion of the boy after his murder, which was the religion of Christianity, he said, "Then (the king) Dhu Nuwas came to them with his army a…
-
-**What this ayah teaches:** He further states that the incident the Qur'an refers to here in Surah Buruj is the first one that occurred in Najran, the trench of the kingdom of Yemen, because that was in Arabia. Verily, those who put into trial the believing men and believing women, and then do not turn in repentance, then they will have the torment of Hell, and they will have the punishment of the burning Fire.) The Interpre…
-
-**Classical tafsir:** Ibn Kathir notes: He further states that the incident the Qur'an refers to here in Surah Buruj is the first one that occurred in Najran, the trench of the kingdom of Yemen, because that was in Arabia.
 ## Personal Reflections
-
 

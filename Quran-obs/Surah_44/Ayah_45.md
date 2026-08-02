@@ -104,13 +104,5 @@ Punishment of the Dwellers of Hell
 
 Like molten metal, it will boil in the bellies
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, the tree of Zaqqu (43)Will be the food of the sinners (44)Like boiling oil, it will boil in the bellies (45)Like the boiling of scalding water (46)(It will be said:) "Seize him and drag him into the midst of blazing Fire, (47)"Then pour over his head the torment of boiling water.
-
-**Classical tafsir:** Ibn Kathir notes: Mujahid said, "If a drop of it were to fall on the earth, it would corrupt the living of all the people of earth." A similar Marfu' report has been narrated earlier. Here the Qur'an apparently indicates that the infidels will be given zaqqum to eat even before they enter Hell, because in this verse the Qur'an says that after having fed them with zaqqum they will be seized by the keepers of Hell and…
-
-**From the Sunnah:** Ibn Jarir recorded that Abu Ad-Darda' was reciting to a man:
 ## Personal Reflections
-
 

@@ -186,11 +186,5 @@ Dhul-Qarnain). This way could be to take this address to have been made to Dhul-
 
 until he reached the setting point of the sun, which appeared to him to be setting in a spring of murky water, where he found some people. We said, “O Ⱬul-Qarnain! Either punish them or treat them kindly.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Now, if Dhul-Qarnain is taken to be a prophet, there is no problem here.
-
-**Classical tafsir:** Ibn Kathir notes: Hami'ah is, according to one of the two views, derived from the word Hama'ah, which means mud.
 ## Personal Reflections
-
 

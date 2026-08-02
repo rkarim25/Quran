@@ -169,13 +169,5 @@ Ends here
 
 This is a reminder. Let whoever wills take the path to their Rabb.
 
-## AI Tafsir
-
-**Context:** (Therefore be patient with constancy to the command of your Lord.,) meaning, 'just as you have been honored by what has been revealed to you, then be patient with His decree and decision and know that He will handle your…
-
-**What this ayah teaches:** Whoever He guides, there is no one who can lead him astray; and whoever He leads astray, there is no one who can guide him.
-
-**Classical tafsir:** Ibn Kathir notes: Secondly, he is commanded to pronounce the name of Allah, and worship Him day and night.
 ## Personal Reflections
-
 

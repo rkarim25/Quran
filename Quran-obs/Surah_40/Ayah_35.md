@@ -178,11 +178,5 @@ In verse 35, it was said: كَذَٰلِكَ يَطْبَعُ اللَّـهُ �
 
 those who dispute Allah's ayahs with no proof given to them. How despicable is that for Allah and the believers! This is how Allah seals the heart of every arrogant tyrant."
 
-## AI Tafsir
-
-**What this ayah teaches:** When this happens, the effect is that the light of faith does not enter that heart, and one is rendered unable to distinguish between good and bad.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, it has been said in Hadith that there is a piece of flesh (heart) in the human body which, when it works right, it makes the whole body work right, and when it goes bad, it makes the whole body go bad.
 ## Personal Reflections
-
 

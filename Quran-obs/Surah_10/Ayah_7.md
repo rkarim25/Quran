@@ -96,13 +96,5 @@ How regrettable that the signs of disbelievers and deniers pin-pointed by the Qu
 
 Indeed, those who do not expect to meet Us, being pleased and content with this this dunya — this temporary worldly life, and who are heedless of Our signs,.
 
-## AI Tafsir
-
-**What this ayah teaches:** The Abode of Those Who deny the Hour is Hell-Fire Allah describes the state of the wretched who disbelieved in the meeting with Allah on the Day of Resurrection and did not look forward to it, who were well-pleased with the life of this world and at rest in it.
-
-**Classical tafsir:** Ibn Kathir notes: Verily, those who hope not for their meeting with Us, but are pleased and satisfied with the life of the present world, and those who are heedless of Our Ayat (7)Those, their abode will be the Fire, because of what they used to earn .
-
-**From the Sunnah:** How regrettable that the signs of those who reject the truth and deniers pin-pointed by the Qur'an are no different as far as our own present condition as Muslims is concerned. (Jami' at-Tirmidhi)
 ## Personal Reflections
-
 

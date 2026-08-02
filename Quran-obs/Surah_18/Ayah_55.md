@@ -145,11 +145,5 @@ The statement: وَكَانَ الْإِنسَانُ أَكْثَرَ‌ شَي�
 
 And nothing prevents people from believing when guidance comes to them and from seeking their Rabb’s forgiveness except their demand to meet the same fate of earlier deniers or that the torment would confront them face to face.
 
-## AI Tafsir
-
-**What this ayah teaches:** And nothing prevents men from believing, while the guidance has come to them, and from asking forgiveness of their Lord, except that the ways of the ancients be repeated with them, or the torment be brought to them face to face (55)And We send not the Messengers except as bearers of good news and warners.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

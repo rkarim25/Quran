@@ -147,13 +147,5 @@ The real object is not the specific rites of pilgrimage but true devotion to All
 
 Neither their meat nor blood reaches Allah. Rather, it is your piety that reaches Him. This is how He has subjected them to you so that you may proclaim the greatness of Allah for what He has guided you to, and give good news to the good-doers.
 
-## AI Tafsir
-
-**What this ayah teaches:** It is neither their meat nor their blood that reaches Allah, but it is Taqwa from you that reaches Him.
-
-**Classical tafsir:** Ibn Kathir notes: The Goal of the Udhiyyah (Sacrifice) according to Allah is the Sincerity and Taqwa of His Servant Allah says: this sacrifice is prescribed for you so that you will remember Him at the time of slaughter, for He is the Creator and Provider.
-
-**From the Sunnah:** Ibn 'Umar said, "The Messenger of Allah ﷺ continued to offer sacrifice for ten years." This was recorded by At-Tirmidhi. (Sahih al-Bukhari, Jami' at-Tirmidhi) Concerning how old the sacrificial animal should be, Muslim recorded from Jabir that the Messenger of Allah ﷺ said: (Sahih Muslim)
 ## Personal Reflections
-
 

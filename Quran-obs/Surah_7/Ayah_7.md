@@ -127,11 +127,5 @@ According to a narration in the Musnad of Ahmad, the Holy Prophet ﷺ is reporte
 
 Then We will give them a full account with sure knowledge—for We were never absent.
 
-## AI Tafsir
-
-**What this ayah teaches:** Therefore, all of you should make sure that those who are present do convey my message to those absent. To convey to them the message of the Holy Prophet ﷺ means that people of every time should continue the chain of conveying this message to the generations coming next, so that all children of Adam to be born right through the day of Qiyamah will have received this message.
-
-**Classical tafsir:** Ibn Kathir notes: To convey to them the message of the Holy Prophet ﷺ means that people of every time should continue the chain of conveying this message to the generations coming next, so that all children of Adam to be born right through the day of Qiyamah will have received this message.
 ## Personal Reflections
-
 

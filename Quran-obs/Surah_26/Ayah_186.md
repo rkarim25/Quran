@@ -143,11 +143,5 @@ What it means is that it is unlawful to reduce any quantity or amount from that 
 
 Also, you are only a human being like us, and we think you are indeed a liar.
 
-## AI Tafsir
-
-**What this ayah teaches:** Indeed that was the torment of a Great Day (189)Verily, in this is indeed a sign, yet most of them are not believers (190)And verily your Lord, He is indeed the All-Mighty, the ar-Rahim . Therefore, if a servant or a laborer does not work his full time at his workplace, he too is included in this warning.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, if a servant or a laborer does not work his full time at his workplace, he too is included in this warning.
 ## Personal Reflections
-
 

@@ -140,13 +140,5 @@ Sayyidna Ibrahim (علیہ السلام) . Idol-worship was very much present wi
 
 Recall when Abraham prayed: "My Rabb, make this city secure, and keep me and my children away from worship of idols.
 
-## AI Tafsir
-
-**What this ayah teaches:** The second prayer made by him was: 'and keep me and my children away from worshiping idols.' Though, prophets on whom be peace are protected by Allah, so Shirk, idol-worship, or a sin cannot issue forth from them.
-
-**Classical tafsir:** Ibn Kathir notes: Ibrahim next mentioned that many among mankind were led astray because of idols, and he disowned those who worship them and referred their matter to Allah; if Allah wills, He will punish them, and if He wills, He will forgive them.
-
-**From the Sunnah:** 'Abdullah bin 'Amr narrated that the Messenger of Allah ﷺ recited Ibrahim's supplication, Allah said to the angel Jibril, "O Jibril, go to Muhammad, and Your Lord has more knowledge, and ask him what makes him cry." Jibril came to the Prophet ﷺ and asked him, and he repeated to him what he said (in his supplication).
 ## Personal Reflections
-
 

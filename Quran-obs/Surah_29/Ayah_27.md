@@ -166,13 +166,5 @@ The reward for some actions is bestowed in this world as well
 
 We blessed him with Isaac and Jacob, and placed prophethood and revelation among his descendants. We gave him his reward in this dunya, and in the Akhirah he is among the righteous.
 
-## AI Tafsir
-
-**What this ayah teaches:** It clarifies that although the real reward for good deeds will be awarded in the Hereafter, but a small part of it is also given in this world.
-
-**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas and Ad-Dahhak said that Ibrahim is the one who is referred in the phrase.
-
-**From the Sunnah:** But if it is asked how we may reconcile this Ayah with the Hadith narrated in the Sahih which says that when Ibrahim passed by that tyrant and he asked about Sarah and what her relationship was to him, Ibrahim said, "My sister." Then he went to her and said, "… (Sahih Muslim)
 ## Personal Reflections
-
 

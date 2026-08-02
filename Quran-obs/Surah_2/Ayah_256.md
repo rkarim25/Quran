@@ -205,17 +205,5 @@ Faith). (Mazhari, Qurtubi)
 
 There is no compulsion in deen — the truth stands clear from falsehood. Whoever rejects false gods and believes in Allah has grasped the firmest handhold that never breaks. Allah is All-Hearing, All-Knowing.
 
-## AI Tafsir
-
-**Essence** Faith cannot be forced: Islam's truth stands so plainly clear that the heart Allah opens embraces it freely — and to seize that truth is to grasp a handhold that never breaks.
-
-**What it teaches** "There is no compulsion in religion (la ikraha fi al-din)" because the right path (al-rushd) has become plainly distinct from error (al-ghayy) — Islam is clear in itself and clear in its proofs, so none need be coerced into it. The second half names the way in: to disbelieve in Taghut (every false object of worship Shaytan calls to) and believe in Allah alone is to grasp al-'urwa al-wuthqa, "the most trustworthy handhold that will never break."
-
-**The scholars** Ibn Kathir explains the verse means "Do not force anyone to become Muslim, for Islam is plain and clear" — whoever Allah guides and whose heart He opens embraces it with certainty, while one whose heart Allah seals gains nothing from being forced. He notes the Ansar were the occasion of revelation (some had vowed to raise children as Jews, and when Banu An-Nadir were expelled the Ansar would not abandon them), though its meaning is general. On the handhold, he relays 'Umar's "very sound" saying that "Taghut is Shaytan," which covers every evil of Jahiliyya — worshipping idols, seeking their judgment, invoking them for victory; Mujahid said the handhold is Iman (faith), and As-Suddi said it is Islam. Allah likens true religion to a firm handhold "that never breaks because it is built solid and because its handle is firmly connected." Maarif ul Quran (citing Maulana Thanavi) adds that one who holds Islam firmly stays protected from destruction, like one gripping the looped support of a strong rope; and it answers the objection about jihad and qital — these do not coerce faith (else why ordain jizya to protect the life, property, and honor of non-Muslims?), but remove fasad (disorder), since faith resides in the heart and coercion touches only the body. Maarif records that when 'Umar invited an old Christian woman to Islam and she declined as one "nearing death," he did not force her but recited this very verse.
-
-**From the Sunnah** Ibn Kathir cautions that even the report where the Prophet ﷺ told a man who said he disliked Islam, "Embrace it, even if you dislike it — for Allah will grant you sincerity and true intent," does not show compulsion: the Prophet ﷺ only invited him, and never forced him. (Musnad Ahmad) And 'Abdullah bin Salam saw in a vision a garden with an iron pole reaching the sky, topped by a handle he was helped to grasp; the Prophet ﷺ interpreted the garden as Islam, the pole as its pillar, and the handle as the most trustworthy handhold, telling him he would remain Muslim until death. (Recorded in the Two Sahihs)
-
-**Reflection** Invite others to the truth with clarity and patience, never force — and grip your own tawhid like a handhold that will not break.
 ## Personal Reflections
-
 

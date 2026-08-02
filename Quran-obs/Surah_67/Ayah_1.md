@@ -203,13 +203,5 @@ The proofs of the divine knowledge and power found in the man himself are indica
 
 Blessed is the One in Whose Hands rests all authority. He is Most Capable of everything.
 
-## AI Tafsir
-
-**What this ayah teaches:** Blessed be He in Whose Hand is the dominion; and He is Able to do all things.)(2.
-
-**Classical tafsir:** Ibn Kathir notes: This Ayah means that He brought creation into existence from nothing in order to test the creatures.
-
-**From the Sunnah:** This Hadith was collected by At-Tirmidhi and the four Sunan Compilers. (Jami' at-Tirmidhi)
 ## Personal Reflections
-
 

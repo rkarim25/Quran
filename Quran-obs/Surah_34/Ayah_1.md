@@ -153,13 +153,5 @@ With the help of and praise for Allah Ta’ ala
 
 All praise belongs to Allah—to Him belongs everything in the heavens and everything on earth. Praise belongs to Him in the Akhirah as well. He is All-Wise, fully aware of every hidden thing.
 
-## AI Tafsir
-
-**What this ayah teaches:** His is all praise in the Hereafter, and He is the All-Wise, the All-Aware.)(2.
-
-**Classical tafsir:** Ibn Kathir notes: Malik narrated that Az-Zuhri said, He is All-Aware of His creation, All-Wise in His commands.
-
-**From the Sunnah:** Malik narrated that Az-Zuhri said, He is All-Aware of His creation, All-Wise in His commands.
 ## Personal Reflections
-
 

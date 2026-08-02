@@ -1,0 +1,41 @@
+{
+ "surah": 1,
+ "ayah_count": 7,
+ "ayahs": [
+  {
+   "ayah": 1,
+   "translation": "In the Name of Allah—the Most Compassionate, Most Merciful.",
+   "commentary_chars": 28066
+  },
+  {
+   "ayah": 2,
+   "translation": "All praise is for Allah—Lord of all worlds,",
+   "commentary_chars": 7629
+  },
+  {
+   "ayah": 3,
+   "translation": "the Most Compassionate, Most Merciful,",
+   "commentary_chars": 1011
+  },
+  {
+   "ayah": 4,
+   "translation": "Master of the Day of Judgment.",
+   "commentary_chars": 6921
+  },
+  {
+   "ayah": 5,
+   "translation": "You ˹alone˺ we worship and You ˹alone˺ we ask for help.",
+   "commentary_chars": 4887
+  },
+  {
+   "ayah": 6,
+   "translation": "Guide us along the Straight Path,",
+   "commentary_chars": 89977
+  },
+  {
+   "ayah": 7,
+   "translation": "the Path of those You have blessed—not those You are displeased",
+   "commentary_chars": 111525
+  }
+ ]
+}

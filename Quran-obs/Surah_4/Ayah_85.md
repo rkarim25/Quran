@@ -300,13 +300,5 @@ It appears in Tafsir Al-Bahr Al-Muhit and al-Mazhari that praying to Allah that 
 
 Whoever intercedes for a good cause will have a share in the reward, and whoever intercedes for an evil cause will have a share in the burden. And Allah is Watchful over all things.
 
-## AI Tafsir
-
-**Context:** (Intercede and you will gain a reward of it. Yet, Allah shall decide whatever He wills by the words of His Prophet.) Mujahid bin Jabr said, "This Ayah was revealed about the intercession of people on behalf of each other…
-
-**What this ayah teaches:** From here we find out that prompting someone to do a good deed is a good deed in its own right and carries an identical reward for having done it and, by the same token, prompting someone to do an evil deed or to indulge in an act of sin is also a sin of equal gravity.
-
-**Classical tafsir:** Ibn Kathir notes: This is why the word 'shaf' means an even number, a pair or couple in Arabic, the antonym of which is referred to as 'witr' or odd.
 ## Personal Reflections
-
 

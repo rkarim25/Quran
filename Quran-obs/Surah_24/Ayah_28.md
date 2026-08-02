@@ -242,13 +242,5 @@ The foregoing ruling relates to the situation when one has sought permission thr
 
 If you find no one at home, do not enter it until you have been given permission. And if you are asked to leave, then leave. That is purer for you. And Allah has perfect knowledge of what you do.
 
-## AI Tafsir
-
-**What this ayah teaches:** One should seek permission three times, and if permission is given, (he may enter), otherwise he should go away.
-
-**Classical tafsir:** Ibn Kathir notes: Some people of the past ages are reported to have said ` I waited all my life wishing that I visit someone and seek permission to go in the house, and the host turns down my request asking me to go back so that I could be rewarded the grace of this Qur’ anic injunction by followi…
-
-**From the Sunnah:** the Messenger of Allah ﷺ asked for permission to enter upon Sa'd bin 'Ubadah. (Musnad Ahmad) In the Two Sahihs, it is recorded that the Messenger of Allah ﷺ said:
 ## Personal Reflections
-
 

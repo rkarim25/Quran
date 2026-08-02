@@ -222,17 +222,5 @@ Anyhow, the essential point is that Adam did not deliberately and willfully diso
 
 We said, "O Adam, live with your spouse in Paradise and eat freely, but do not approach this tree, or you will be among the wrongdoers."
 
-## AI Tafsir
-
-**Essence** Having honored Adam, Allah grants him and Hawwa' the free run of Paradise — bound by one prohibition, a test for Adam.
-
-**What it teaches** Uskun ("dwell") is a stay, not ownership — a home in Paradise, Maarif ul Quran notes, is owned only through iman and good deeds. Raghadan: provision without toil, never exhausted.
-
-**The scholars** Ibn Kathir endorses Ibn Jarir: the tree's identity is unknown — knowing it brings no benefit, ignorance no harm. From "do not approach," the jurists derive (via Maarif ul Quran) that whatever leads to sin is itself forbidden; Adam's slip was Shaytan's deception, not willful rebellion — the prophets are protected from deliberate sin.
-
-**From the Sunnah** Adam was a Prophet and a Messenger to whom Allah spoke directly — these very words (a report Ibn Kathir cites from Ibn Marduwyah). Friday is the best day on which the sun has risen: on it Allah created Adam, admitted him into Paradise, and expelled him from it (Muslim and An-Nasa'i).
-
-**Reflection** Guard the fence, not just the field — keep far from whatever draws you toward what Allah has forbidden.
 ## Personal Reflections
-
 

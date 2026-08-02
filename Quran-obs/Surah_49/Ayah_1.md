@@ -192,15 +192,5 @@ Some of the scholars have ruled that Muslims should observe the same rule in res
 
 O you who have iman: Do not put yourselves ahead of Allah and His Messenger. Have taqwa of Allah. Allah hears and knows everything.
 
-## AI Tafsir
-
-**Context:** (O you who believe! Raise not your voices above the voice of the Prophet,) This contains another kind of favorable behavior.
-
-**What this ayah teaches:** Make not (a decision) in advance before Allah and His Messenger,) meaning, do not rush in making decisions before him, rather, follow his lead in all matters. Therefore, scholars have ruled that teachers and spiritual guides should be treated with similar respect.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, scholars have ruled that teachers and spiritual guides should be treated with similar respect.
-
-**From the Sunnah:** Verily, those who lower their voices in the presence of Allah's Messenger, they are the ones whose hearts Allah has tested for Taqwa. Allah the Exalted is teaching the believers that they should not raise their voices above the voice of the Prophet ﷺ.
 ## Personal Reflections
-
 

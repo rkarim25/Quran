@@ -56,11 +56,5 @@ According to the proof of Tauhid (the Oneness of Allah) given in the verse: إِ
 
 Glorified and Highly Exalted is He above what they claim!
 
-## AI Tafsir
-
-**What this ayah teaches:** And, in the eventuality of a difference, the whole universal system would have gone to ruins - because, ever abiding peace among them is habitually impossible.
-
-**Classical tafsir:** Ibn Kathir notes: And, in the eventuality of a difference, the whole universal system would have gone to ruins - because, ever abiding peace among them is habitually impossible.
 ## Personal Reflections
-
 

@@ -131,11 +131,5 @@ So, Musa asked Allah to remove these difficulties for him, as he said in Surah T
 
 Remember when your Rabb called out to Moses, “Go to the wrongdoing people—
 
-## AI Tafsir
-
-**What this ayah teaches:** Between Musa and Fir'awn Allah tells us what He commanded His servant, son of 'Imran and Messenger Musa, peace be upon him, who spoke with Him, to do, when He called him from the right side of the mountain, and conversed with him, and chose him, sent him, and commanded him to go to Fir'awn and his people.
-
-**Classical tafsir:** Ibn Kathir notes: Sometimes the word Zawj is also used for a special kind.
 ## Personal Reflections
-
 

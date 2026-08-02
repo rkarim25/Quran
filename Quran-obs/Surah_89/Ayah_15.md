@@ -114,13 +114,5 @@ Wealth and Poverty are no Signs of One's Acceptance or Rejection
 
 Whenever a human being is tested by their Lord with generosity and ease, they boast, "My Lord has honoured me!"—mistaking wealth for divine approval.
 
-## AI Tafsir
-
-**What this ayah teaches:** Wealth does not indicate acceptance of a man by Allah, nor does poverty indicate rejection.
-
-**Classical tafsir:** Ibn Kathir notes: The word 'man' here primarily refers to an 'unbelieving man' who may form any thought about Allah as he feels like, but in its general sense, the word may include a Muslim as well who has the same thought as an unbeliever.
-
-**From the Sunnah:** Paradise forty years before the wealthy muhajirs (Immigrants). (Sahih Muslim, Jami' at-Tirmidhi)
 ## Personal Reflections
-
 

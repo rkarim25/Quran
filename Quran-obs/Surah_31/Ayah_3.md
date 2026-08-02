@@ -72,13 +72,5 @@ Ends here.
 
 It is guidance and mercy for those who do good — not merely people who feel virtuous, but those whose deeds match their claim.
 
-## AI Tafsir
-
-**Context:** It is revealed in this verse that the infidels will lie on the Day of Resurrection in their swearing that they did not stay in the world or barzakh for more than an hour.
-
-**What this ayah teaches:** Allah has made the Qur'an a guidance and healing and a mercy for the Muhsinin, who are those who do good deeds in accordance with the Shari'ah. These are Ayat of the Wise Book.)(3.
-
-**Classical tafsir:** Ibn Kathir notes: These are Ayat of the Wise Book.)(3.
 ## Personal Reflections
-
 

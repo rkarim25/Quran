@@ -224,11 +224,5 @@ After the shape of things to come upon them has been stated, the address is to t
 
 Warn people of the Day when punishment overtakes the wicked. Wrongdoers will cry: "Our Rabb, delay us a little—we will answer Your call and follow the messengers!" It will be said: "Did you not swear before that you would never be removed?"
 
-## AI Tafsir
-
-**What this ayah teaches:** In the second verse (43), it has been said that the postponement of sudden punishment against these unjust people is not any better for them because, ultimately, they will be seized in the great punishment of the Qiyamah and the 'Akhirah which will overtake them all of a sudden.
-
-**Classical tafsir:** Ibn Kathir notes: In the second verse (43), it has been said that the postponement of sudden punishment against these unjust people is not any better for them because, ultimately, they will be seized in the great punishment of the Qiyamah and the 'Akhirah which will overtake them all of a sudden.
 ## Personal Reflections
-
 

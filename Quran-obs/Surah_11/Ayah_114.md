@@ -221,11 +221,5 @@ In the last sentence of the verse (114): ذَٰلِكَ ذِكْرَ‌ىٰ لِ
 
 establish salah O Prophet at both ends of the day and in the early part of the night. Surely good deeds wipe out evil deeds. That is a reminder for the living with taqwa.
 
-## AI Tafsir
-
-**Context:** (They are the approach of the night: Maghrib and 'Isha'.) The same was said by Mujahid, Muhammad bin Ka'b, Qatadah and Ad-Dahhak (that this means the Maghrib and 'Isha' prayers).
-
-**What this ayah teaches:** In one narration reported by Qatadah, Ad-Dahhak and others, Al-Hasan said, "It means the morning prayer (Subh) and the late afternoon prayer ('Asr)." Mujahid said, "It is the morning prayer at the beginning of the day and the noon prayer (Zuhr) and late afternoon prayer ('Asr) at the end of the day." This was also said by Muhammad bin Ka'b Al-Qurazi and Ad-Dahhak in one narrati…
 ## Personal Reflections
-
 

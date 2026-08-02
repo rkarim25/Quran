@@ -187,13 +187,5 @@ In the next verse the third exemption is granted on the basis of a woman's perso
 
 As for elderly women past the age of marriage, there is no blame on them if they take off their outer garments, without revealing their adornments. But it is better for them if they avoid this altogether. And Allah is All-Hearing, All-Knowing.
 
-## AI Tafsir
-
-**What this ayah teaches:** And Allah is All-Knowing, All-Wise (59)And the Qawa'id among women who do not hope for marriage, it is no sin on them if they discard their (outer) clothing in such a way as not to show their adornment.
-
-**Classical tafsir:** Ibn Kathir notes: Abu Dawud recorded that Ibn 'Abbas said: "Most of the people do not follow it, the Ayah that speaks about asking permission, but I tell my servant woman to seek permission to enter." Abu Dawud said: 'Ata' also narrated that Ibn 'Abbas commanded this.
-
-**From the Sunnah:** that Ibn 'Abbas said: "Most of the people do not follow it, the Ayah that speaks about asking permission, but I tell my servant woman to seek permission to enter." Abu Dawud said: 'Ata' also narrated that Ibn 'Abbas commanded this. (Sunan Abi Dawud)
 ## Personal Reflections
-
 

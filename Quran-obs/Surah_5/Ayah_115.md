@@ -177,11 +177,5 @@ Whether or not the ` Ma'idah' (food-spread) came down from the heaven is somethi
 
 Allah answered, “I am sending it down to you. But whoever among you denies afterwards will be subjected to a torment I have never inflicted on anyone of My creation.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Sending Down the Ma'idah This is the story of the Ma'idah, the name of which this Surah bears, Surat Al-Ma'idah.
-
-**Classical tafsir:** Ibn Kathir notes: Some scholars said that the disciples requested this table because they were poor and deprived.
 ## Personal Reflections
-
 

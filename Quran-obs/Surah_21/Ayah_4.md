@@ -148,13 +148,5 @@ None of the peoples to whom Messengers were sent were given a sign at the hands 
 
 The Prophet responded, “My Rabb fully knows every word spoken in the heavens and the earth. For He is the All-Hearing, All-Knowing.”
 
-## AI Tafsir
-
-**What this ayah teaches:** No one can produce the like of this except the One Who knows all the secrets of the heavens and the earth.
-
-**Classical tafsir:** Ibn Kathir notes: They did not believe that he could be a Prophet because he was a human being like them, so how could he have been singled out to receive revelation, and not them?
-
-**From the Sunnah:** 'Abdullah said, "Banu Isra'il, Al-Kahf, Maryam, Ta Ha and Al-Anbiya' - they are among the earliest and most beautiful Surahs and they are my treasure." (Sahih al-Bukhari) that Abu Sa'id reported from the Prophet ﷺ: (Sunan an-Nasa'i)
 ## Personal Reflections
-
 

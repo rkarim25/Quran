@@ -42,11 +42,5 @@ Mentioned in these verses is the fifth event that relates to Sayyidna Lut (عل�
 
 Then We utterly destroyed the rest.
 
-## AI Tafsir
-
-**What this ayah teaches:** And verily, Lut was one of the Messengers (133)When We saved him and his family, all (134)Except an old woman (his wife) who was among those who remained behind (135)Then We destroyed the rest (136)Verily, you pass by them in the morning (137)And at night; will you not then reflect .
-
-**Classical tafsir:** Ibn Kathir notes: This event has appeared at several places earlier, therefore, no more details are needed.
 ## Personal Reflections
-
 

@@ -159,11 +159,5 @@ The word مِيزَانَ mizan has been interpreted variously. In the current v
 
 He raised the sky and set the balance of justice,
 
-## AI Tafsir
-
-**What this ayah teaches:** And the heaven He has raised high, and He has set up the balance.)(8. Having described the high position of the heaven, the Qur'an goes on to describe that Allah has set the balance, but 'placing the scale' vis-a-vis 'raising the heaven' does not seem to form a suitable pair according to the linguistic norm.
-
-**Classical tafsir:** Ibn Kathir notes: Mujahid said, "An-Najm (the star); the one that is in the sky." Al-Hasan and Qatadah said similarly. Ibn Jurayj reported that Ibn 'Abbas said said Al-Akmam, means sheathed fruit stalks.
 ## Personal Reflections
-
 

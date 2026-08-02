@@ -76,11 +76,5 @@ It was a dark and cold night and to add to the misery, his wife began to experie
 
 Has the story of Moses reached you O Prophet?
 
-## AI Tafsir
-
-**What this ayah teaches:** Therefore, he settled down, making a camp between some mountain passes and mountains that were covered with snow, sleet, dense clouds, darkness and fog. A Discussion of the Message of Musa From this point, Allah begins to mention the story of Musa, how revelation began to come to Him, and Allah's speaking directly to him.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, he settled down, making a camp between some mountain passes and mountains that were covered with snow, sleet, dense clouds, darkness and fog.
 ## Personal Reflections
-
 

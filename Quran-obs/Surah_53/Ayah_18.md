@@ -296,13 +296,5 @@ Likewise, Hafiz (رح) in Fath-ul-Bari [ vol 8/p.494] under the Tafsir of Surah 
 
 He certainly saw some of his Rabb's greatest signs.
 
-## AI Tafsir
-
-**Context:** He has been taught by one mighty in power (5)Dhu Mirrah then he Istawa (6)While he was in the highest part of the horizon (7)Then he approached and came closer (8)And was at a distance of two bows' length or less (9)So (…
-
-**What this ayah teaches:** He further says that Qurtubi in his work mufhim prefers to observe silence in the matter and not to decide either way, because this question does not concern our practical life so that we have to choose a particular direction.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, this verifies the facts mentioned, leaving no doubt or means of refute.
 ## Personal Reflections
-
 

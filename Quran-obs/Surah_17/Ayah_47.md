@@ -148,11 +148,5 @@ Imam al-Qurtubi (رح) says that he himself went through an incident in the Mant
 
 We know best how they listen to your recitation and what they say privately—when the wrongdoers say, “You would only be following a bewitched man.”
 
-## AI Tafsir
-
-**Context:** The subject taken up in the first two verses (45, 46) has a particular event as a background. According to al-Qurtubi reporting on the authority of Sayyidna Said ibn Jubayr ؓ ، when Surah al-Masad/al-Lahab (iii) beginnin…
-
-**What this ayah teaches:** In the morning, Al-Akhnas bin Shurayq took his stick and went to the house of Abu Sufyan bin Harb, where he said, 'Tell me, O Abu Hanzalah [i.e., Abu Sufyan], what do you think of what you have heard from Muhammad?' Abu Sufyan said, 'O Abu Tha'labah [i.e., Al-Akhnas], by Allah, I have heard something I understand and I know what is meant by it, and I have heard things I do not…
 ## Personal Reflections
-
 

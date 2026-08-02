@@ -197,19 +197,5 @@ In this, there is the necessary refutation of the Christians who claimed that it
 
 It is not appropriate for someone who Allah has blessed with the Scripture, wisdom, and prophethood to say to people, “Worship me instead of Allah.” Rather, he would say, “Be devoted to the worship of your Rabb ”—in accordance with what these prophets read in the Scripture and what they taught.
 
-## AI Tafsir
-
-**Essence**
-No human ever honored by Allah with Scripture, wisdom, and prophethood would call people to worship him instead of Allah — he calls them only to be devoted servants of their Lord.
-
-**What it teaches**
-It is impossible (mā kāna) for one whom Allah gifts the Book, al-Hukm (sound judgment in the Law), and prophethood to say "Worship me besides Allah"; instead he says "Be rabbāniyyīn" — those wholly devoted to their Rabb, formed by teaching and studying the Scripture. If even a prophet has no right to such a claim, then no one beneath him does.
-
-**The scholars**
-Ibn Kathir explains the rebuke targets the ignorant rabbis, priests, and teachers of misguidance — not the Messengers and their sincere knowledgeable followers, who command only what Allah commands and forbid only what He forbids, faithful emissaries conveying Allah's Message and Trust. On rabbāniyyīn, Ibn 'Abbas, Abu Razin, and others said it means "wise, learned, and forbearing," and Ad-Dahhak said whoever learns the Qur'an deserves to become a faqih, "studying it" meaning preserving its words. The next ayah confirms no prophet would order taking angels or prophets as lords, for that would be calling to kufr — and Allah warns that were any angel to claim "I am a god besides Him," it would be recompensed with Hell (21:29). Maarif ul Quran draws from this the doctrine of 'ismah, the prophets' divine protection — at its agreed core, from disbelief and shirk and in conveying the message: since Allah knows His chosen ones will never overstep loyalty to Him, it is impossible they later fall into shirk or revolt, otherwise Divine knowledge would be defective, which we seek refuge in Allah from. Tafsir Usmani notes this refutes those who claimed the Masih (peace be upon him) invited people to his own divinity, corrects Muslims who asked about prostrating to the Prophet (peace and blessings be upon him) instead of greeting him with salam, and admonishes the People of the Book who raised their rabbis and monks to the station of lordship.
-
-**Reflection**
-Anchor your devotion to Allah alone, and let every verse you learn make you more humble, learned, and forbearing — a true servant of your Rabb, never a servant of any creature.
 ## Personal Reflections
-
 

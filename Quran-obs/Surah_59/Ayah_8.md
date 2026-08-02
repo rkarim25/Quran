@@ -252,13 +252,5 @@ The fourth characteristic of the emigrants is described thus: أُولَـٰئِ
 
 A share is for poor emigrants who were driven from their homes and wealth while seeking Allah's bounty and pleasure and supporting Allah and His Messenger. They are the ones true in faith.
 
-## AI Tafsir
-
-**What this ayah teaches:** The word fadl [ bounty, grace ] is normally used for worldly blessings and ridwan [ good pleasure ] for blessings of the Hereafter.
-
-**Classical tafsir:** Ibn Kathir notes: [ Mazhari, Qurtubi ] An Important Issue: The rule about the control of unbelievers over the wealth and property of the Muslims This verse describes the emigrants as poor, whereas a faqir [ poor ] in Islamic law refers to a person who has no property whatever, or a person who poss…
-
-**From the Sunnah:** He also recorded that Abu Hurayrah said, "The Ansar said (to the Prophet ﷺ), 'Distribute our date-palms between us and our emigrant brothers.' He replied, 'No.' The Ansar said (to the emigrants), 'Look tend to the trees and share the fruits with us.' The emigr… (Sahih al-Bukhari, Sahih Muslim) Abu Bakr As-Siddiq gave away all his wealth in charity and Allah's Messenger ﷺ asked him,
 ## Personal Reflections
-
 

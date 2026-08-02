@@ -93,11 +93,5 @@ In short, it is not within people's power to get together and save a soul or lif
 
 Why then—when the soul reaches the throat at death,
 
-## AI Tafsir
-
-**What this ayah teaches:** In view of this graphic picture, the those who reject the truth are reminded that if they think that they cannot be resurrected after death, and they are too strong to come under Allah's grasp, then they must restore the soul when it has reached the throat and is about to depart from the body or it has already departed and died.
-
-**Classical tafsir:** Ibn Kathir notes: In the current verse the word is used in the sense of hypocrisy and rejection of Allah's verses carelessly.
 ## Personal Reflections
-
 

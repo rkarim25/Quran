@@ -106,11 +106,5 @@ This is the end of the Tafsir of Surat Al-Mursalat, and all praise and thanks ar
 
 Those who lived with taqwa—living with awareness that Allah sees them—will be amid shade and springs,
 
-## AI Tafsir
-
-**What this ayah teaches:** This means they will be in the opposite condition of the wretched people, who will be in shades of Al-Yahmum, which is purtrid, black smoke.
-
-**Classical tafsir:** Ibn Kathir notes: There is no discrepancy between the two verses, because there will be various stages on the Plain of Gathering (Mahshar) through which people will have to pass.
 ## Personal Reflections
-
 

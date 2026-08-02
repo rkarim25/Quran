@@ -196,13 +196,5 @@ The answer is that embellishment and beauty are subservient to practice or custo
 
 It is they who will have the Gardens of Eternity, with rivers flowing under their feet. There they will be adorned with bracelets of gold, and wear green garments of fine silk and rich brocade, reclining there on canopied couches. What a marvellous reward! And what a fabulous place to rest!
 
-## AI Tafsir
-
-**What this ayah teaches:** For them will be Jannatu 'Adn; wherein rivers flow beneath them; therein they will be adorned with bracelets of gold, and they will wear green garments of Sundus and Istabraq. Therein they shall be met with greetings and the word of peace and respect.
-
-**Classical tafsir:** Ibn Kathir notes: Therein they shall be met with greetings and the word of peace and respect.
-
-**From the Sunnah:** But, the creation of such a division would have amounted to seating the rebellious rich on a pedestal of honor, an action that could have broken the hearts of poor Muslims or dampened their courage.
 ## Personal Reflections
-
 

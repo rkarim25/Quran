@@ -118,11 +118,5 @@ Qatadah said, "Al-Munsha'at means created." Others said that it is Al-Munshi'at 
 
 So which of your Rabb's favours will you both—humans and jinn—deny?
 
-## AI Tafsir
-
-**What this ayah teaches:** Therefore, the source of the pearls and corals is said to be the salty seas.
-
-**Classical tafsir:** Ibn Kathir notes: Mujahid, Qatadah, Abu Ruzayn, Ad-Dahhak said it, and it has also been reported from 'Ali.
 ## Personal Reflections
-
 

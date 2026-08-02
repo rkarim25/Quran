@@ -102,13 +102,5 @@ When these two gentlemen reached Madinah, they went to see the Holy Prophet ﷺ 
 
 And there are some who had made a vow to Allah: “If He gives us from His bounty, we will surely spend in charity and be of the righteous.”
 
-## AI Tafsir
-
-**What this ayah teaches:** They told him that they have orders not to pick out the best among animals, in fact, they were supposed to take the average ones, therefore, they could not take these.
-
-**Classical tafsir:** Ibn Kathir notes: They told him that they have orders not to pick out the best among animals, in fact, they were supposed to take the average ones, therefore, they could not take these.
-
-**From the Sunnah:** He had the whole law of Sadaqat committed to writing, appointed two persons as the collectors of Sadaqah and sent them to collect the Sadaqat due on livestock owned by Muslims. When the two collectors reached Tha'labah and presented the order of the Holy Prophet ﷺ he said that this thing had be-come a sort of Jizyah which is taken from non-Muslims.
 ## Personal Reflections
-
 

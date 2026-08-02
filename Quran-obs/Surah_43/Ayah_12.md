@@ -138,11 +138,5 @@ Allah says: 'If you, O Muhammad, were to ask these idolators who associate other
 
 He is the One who created all things in pairs and made for you ships and animals to ride
 
-## AI Tafsir
-
-**What this ayah teaches:** Similarly the man made vehicles, right from the bicycles to the aeroplanes and the space-crafts are also great blessings of Allah Almighty, because they are, though, made by man apparently, there is no other than Allah Ta’ ala who has provided man with ability and techniques to manufacture them?
-
-**Classical tafsir:** Ibn Kathir notes: That cattle are Allah's great blessings is obvious, because despite their being many times stronger than man, Allah Almighty has made them so submissive to him that even a child leads them to wherever he wants through a hatter or mor-string.
 ## Personal Reflections
-
 

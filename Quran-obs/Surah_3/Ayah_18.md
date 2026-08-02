@@ -231,22 +231,5 @@ Another hadith from Sayyidna Abu Ayyub al-Ansari ؓ narrates that the Holy Proph
 
 Allah is a Witness that there is no god except Him—and so are the angels and people of knowledge. He is the Maintainer of justice. There is no god except Him—the Almighty, All-Wise.
 
-## AI Tafsir
-
-**Essence**
-Allah Himself testifies — joined by the angels and the people of knowledge — that there is no true deity but Him, the Almighty who maintains His creation in justice in all that He does.
-
-**What it teaches**
-This is the supreme testimony of tawhid: "La ilaha illa Huwa" — none has the right to be worshipped but Allah alone, every creature being His servant and in need of Him while He is Free of all need. He stands over His creation qaiman bil-qist — maintaining it in justice in all that He does — and He is al-Aziz (the Mighty who never submits to weakness) and al-Hakim (the All-Wise in His every statement, action, law, and decree).
-
-**The scholars**
-Ibn Kathir explains that Allah is the Most Truthful and Just of witnesses, whose statement is the absolute truth — "and verily, Allah is sufficient as a Witness." After His own testimony He couples that of the angels, who are near Him and bear witness knowing and seeing, and of those who have knowledge — and Ibn Kathir notes this "emphasizes the great virtue of those who have knowledge." Maarif ul Quran adds that Allah's witness is borne out by His very being, His attributes, and the signs of His power across creation, alongside the Messengers and Books He sent; it records that Imam al-Ghazali and Ibn Kathir saw great honour for the ulama in Allah pairing their witness with His own and the angels'. Maarif notes ulul-ilm may mean the prophets and those who have knowledge of Islam, and may extend to any who reach the knowledge of Allah's oneness through sound reflection upon the universe.
-
-**From the Sunnah**
-When the Prophet ﷺ recited this verse at Arafat, he added: "And to that, O my Lord, I too am a witness." (Musnad Ahmad, via Ibn Kathir) A narration from Imam al-A'mash adds that whoever recites the verse and then says this, Allah will say to the angels on the Last Day: "My servant has made a promise, and I am the Foremost to keep a promise — so let My servant be admitted into Paradise." (via Ibn Kathir) And it is reported from Abu Ayyub al-Ansari that whoever recites Ayah al-Kursi, this verse (Shahidal-lahu, 3:18), and Qulil-lahumma malik al-mulki through bighairi hisab, Allah will forgive all his sins, admit him to Paradise, and take care of seventy (i.e. plenty) of his needs, the simplest being his forgiveness. (Ruh al-Maani with reference to Dailami)
-
-**Reflection**
-This verse is unique: Allah Himself bears witness to His own oneness. So when you affirm "La ilaha illa Huwa," join your testimony to the testimony Allah, His angels, and the people of knowledge have borne — and let it reshape what you worship, fear, and seek.
 ## Personal Reflections
-
 

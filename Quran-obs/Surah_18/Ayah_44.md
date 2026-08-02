@@ -116,11 +116,5 @@ The word: حُسبانا - (husbana) in verse 40 has been explained by Qatadah a
 
 At this time, support comes only from Allah—the True Rabb. He is best in reward and best in outcome.
 
-## AI Tafsir
-
-**What this ayah teaches:** He (Allah) is the best for reward and the best for the final end .
-
-**Classical tafsir:** Ibn Kathir notes: He (Allah) is the best for reward and the best for the final end .
 ## Personal Reflections
-
 

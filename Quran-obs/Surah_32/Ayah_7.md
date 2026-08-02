@@ -104,11 +104,5 @@ The sentence that follows next reads: وَبَدَأَ خَلْقَ الْإِن
 
 Who perfected everything He created, and began the creation of humankind from clay.
 
-## AI Tafsir
-
-**What this ayah teaches:** Then, in those terms, everything is not good, in fact, it is circumscribed by a little detail, that is, whatever has not been allowed by Allah Ta` Hla is not good, but is, rather bad.' Allah knows best.
-
-**Classical tafsir:** Ibn Kathir notes: In fact, dogs, pigs, snakes, scorpions and wolfs are commonly considered bad because they are either poisonous or beastly.
 ## Personal Reflections
-
 

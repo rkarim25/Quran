@@ -143,13 +143,5 @@ On this occasion, Allah Ta'a1a has mentioned the faculties of hearing, seeing an
 
 And Allah brought you out of the wombs of your mothers while you knew nothing, and gave you hearing, sight, and intellect so perhaps you would be thankful.
 
-## AI Tafsir
-
-**What this ayah teaches:** Truly, Allah is able to do all things (77)And Allah has brought you out from the wombs of your mothers while you knew nothing. And He gave you hearing, sight, and hearts, that you might give thanks (78)Do they not see the birds held (flying) in the midst of the sky None holds them up but Allah.
-
-**Classical tafsir:** Ibn Kathir notes: Nature has poured a special kind of love in the hearts of the father and the mother for the needs of the infant, because of which, when they hear the sounds made by the child, they become all too eager to find out what is bothering the baby, and all too willing to remove the prob…
-
-**From the Sunnah:** Information collected visually is much less than that.
 ## Personal Reflections
-
 

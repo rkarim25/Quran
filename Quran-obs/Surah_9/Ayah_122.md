@@ -269,15 +269,5 @@ In the end, by saying: لَعَلَّهُمْ يَحْذَرُ‌ونَ (that th
 
 It is not necessary for those who have iman to march forth all at once. Only a party from each group should march forth, leaving the rest to gain religious knowledge then enlighten their people when they return to them, so that they may beware.
 
-## AI Tafsir
-
-**Context:** (Of every troop of them, a party only should go forth) in the expeditions that the Prophet ﷺ sent. When these armies returned to the Prophet ﷺ, who in the meantime received revealed parts of the Qur'an from Allah, the gr…
-
-**What this ayah teaches:** However, this is Fard al-Kifayah (collective obligation), and as such, it becomes the responsibility of the Islamic world as a whole.
-
-**Classical tafsir:** Ibn Kathir notes: Allah the Exalted here explains His order to Muslims to march forth with the Messenger of Allah ﷺ for the battle of Tabuk.
-
-**From the Sunnah:** Allah the Exalted here explains His order to Muslims to march forth with the Messenger of Allah ﷺ for the battle of Tabuk. This way, the group that went with the Prophet ﷺ will achieve both goals [Jihad and learning the revelation from the Prophet ﷺ]. (Sahih Muslim)
 ## Personal Reflections
-
 

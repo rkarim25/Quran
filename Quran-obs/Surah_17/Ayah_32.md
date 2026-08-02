@@ -127,13 +127,5 @@ It appears in Hadith that the Holy Prophet ﷺ said, "The heavens and the earth,
 
 Do not even approach unlawful intimacy. It is indecent and an evil path.
 
-## AI Tafsir
-
-**What this ayah teaches:** Therefore, Islam has declared this crime to be more serious than any other crime. Then, it has also fixed its punishment as the harshest of all crimes because this one is a carrier of hundreds of these.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, Islam has declared this crime to be more serious than any other crime.
-
-**From the Sunnah:** Its explanation, as it appears in the report of Abu Dawud, says: At the time those committing such crimes are practically involved in it, 'Iman (faith) leaves their heart and comes out, and when they turn away from it, 'Iman returns back in. (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
-
 

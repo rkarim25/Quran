@@ -233,15 +233,5 @@ Ibn Jauzi, in his book Sifat-us-Safwah, through his own chain of authorities, re
 
 Say: It has been revealed to me that a group of jinn listened to the Qur'an and said to their fellows, 'We have heard a recitation that amazes us.'
 
-## AI Tafsir
-
-**Context:** (1. Say: "It has been revealed to me that a group of Jinn listened. They said: 'Verily, we have heard a wonderful Recitation!')(2.
-
-**What this ayah teaches:** Reality of Jinn Jinn is one of the Divine creatures.
-
-**Classical tafsir:** Ibn Kathir notes: Then he would say, 'I seek refuge with the master (Jinn) of this valley from the Jinns, or that myself, my wealth, my child or my animals are harmed in it.'" Qatadah said, "When they sought refuge with them instead of Allah, the Jinns would overcome them with harm because of that." Ibn Abi Hatim rec… This species of creation is called 'Jinn' because it literally means 'hidden' or 'invisible'.
-
-**From the Sunnah:** Allah's Messenger ﷺ invited them to the call of Islam and mentioned about his people's hostility and persecution and asked for help.
 ## Personal Reflections
-
 

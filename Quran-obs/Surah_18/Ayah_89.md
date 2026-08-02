@@ -58,11 +58,5 @@ However, it is obvious that these people too were infidels and Dhul-Qarnain hand
 
 Then he travelled a different course.
 
-## AI Tafsir
-
-**What this ayah teaches:** Then he followed (another) way (89)Until, when he came to the rising place of the sun, he found it rising on a people for whom We (Allah) had provided no shelter against the sun (90)So (it was)! His Journey East Allah tells us that Dhul-Qarnayn then traveled from the west of the earth towards the east.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

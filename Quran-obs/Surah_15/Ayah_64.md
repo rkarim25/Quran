@@ -58,11 +58,5 @@ As for the third probability, that the blessings of Jannah may remain everlastin
 
 We come to you with the truth, and we are certainly truthful.
 
-## AI Tafsir
-
-**What this ayah teaches:** This is contrary to the affairs of the mortal world where the recipient of the best of conveniences lives under the apprehension that the Over of the facilities may become displeased with him one of those days and expel him out.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

@@ -152,11 +152,5 @@ If we analyse the verse of the Qur'an carefully, we notice that it does not spec
 
 from a spurting, humble fluid
 
-## AI Tafsir
-
-**What this ayah teaches:** It (the fluid) is yellow and fine in texture.
-
-**Classical tafsir:** Ibn Kathir notes: So, let man see from what he is created!)(6.
 ## Personal Reflections
-
 

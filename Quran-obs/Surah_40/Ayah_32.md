@@ -109,11 +109,5 @@ And it has been reported from Sayyidna Abu Hazim Al-A` raj ؓ that he used to ad
 
 O my people, I truly fear for you the Day all will be crying out to one another—
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, I fear for you an end like that day (of disaster) of the groups (of old)! Verily, I fear for you an end like that day (of disaster) of the groups (of old)!) meaning, those of the earlier nations who disbelieved the Messengers of Allah, such as the people of Nuh, 'Ad, Thamud and the disbelieving nations who came after them, how the punishment of Allah came upon them and they had no one to p…
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

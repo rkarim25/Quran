@@ -172,13 +172,5 @@ After having reported this Hadith narration in Tafsir Mazhari, the author said, 
 
 They will plead: "Our Lord, You made us lifeless twice and gave us life twice. Now we confess our sins. Is there any way out?"
 
-## AI Tafsir
-
-**What this ayah teaches:** Now we confess our sins, then is there any way to get out?
-
-**Classical tafsir:** Ibn Kathir notes: When they actually experience the unbearable punishment of Allah, they will hate themselves with the utmost hatred, because of the sins they committed in the past, which were the cause of their entering the Fire.
-
-**From the Sunnah:** that after ending every prayer, 'Abdullah bin Az-Zubayr used to say: "There is no (true) Allah except Allah Alone with no partner or associate, His is the dominion and praise, for He is able to do all things; there is no strength and no power except with Allah;… (Sahih Muslim, Musnad Ahmad) It was reported in Sahih from Ibn Az-Zubayr, may Allah be pleased with him, that the Messenger of Allah ﷺ used to say the following after the prescribed (obligatory) prayers:
 ## Personal Reflections
-
 

@@ -128,11 +128,5 @@ Then there is the other situation. If being of the same age is taken to mean tha
 
 and other torments of the same kind.
 
-## AI Tafsir
-
-**What this ayah teaches:** If being of the same age is taken to mean that spouses will be of the same age, the good thing about it would be that there would be temperamental harmony between them, and they will have consideration for each other's preferences.
-
-**Classical tafsir:** Ibn Kathir notes: Verily, they shall enter in the Fire!) meaning, because they are of the people of Hell.
 ## Personal Reflections
-
 

@@ -164,13 +164,5 @@ Ibn ` Abbas ؓ has remarked that even Hell seeks protection from غَیّ , whic
 
 Gardens of Eternity, promised in trust by the Rahman to His servants. His promise will be fulfilled.
 
-## AI Tafsir
-
-**What this ayah teaches:** The Description of the Gardens of the Truthful and Those Who repent Allah, the Exalted, says that the Gardens (of Paradise), which the penitent will enter, will be Gardens of 'Adn, meaning, eternity. These are Gardens that the Most Beneficent promises His servants in the unseen.
-
-**Classical tafsir:** Ibn Kathir notes: This means that these Gardens are from the unseen things that they believe in, even though they have never witnessed them.
-
-**From the Sunnah:** Paradise), but they will be living in times that alternate. (Musnad Ahmad) Paradise will have forms like the form of the moon on a night when it is full. (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
-
 

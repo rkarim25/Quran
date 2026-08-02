@@ -122,13 +122,5 @@ They (the Companions) said, "Not even you O Messenger of Allah?" He replied,
 
 Those given their record in their right hand will cry happily: 'Here, everyone! Read my record!'
 
-## AI Tafsir
-
-**What this ayah teaches:** read my Record!) is 'Here, read my Book.'...
-
-**Classical tafsir:** Ibn Kathir notes: read my Record!) meaning, 'take my Book and read it.' He will say this because he knows that what is in it is good and purely virtuous deeds.
-
-**From the Sunnah:** He responded by saying that he heard the Messenger of Allah ﷺ saying, Paradise,) meaning, having elevated castles, beautiful wide-eyed maidens, pleasant stations and eternal joy.
 ## Personal Reflections
-
 

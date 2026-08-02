@@ -208,13 +208,5 @@ Sayyidna Hasan Basri (رح) said that there will be an outpost of guardian angel
 
 Hell lies in wait for the wicked—
 
-## AI Tafsir
-
-**Context:** (But they denied Our Ayat Kidhdhaba.) meaning, they used to deny the evidences of Allah and His proofs for His creation, which He revealed to His Messengers. So they met these proofs with rejection and obstinance.
-
-**What this ayah teaches:** Verily, the Day of Decision is a fixed time (17)The Day when the Trumpet will be blown, and you shall come forth in crowds (18)And the heaven shall be opened, and it will become as gates (19)And the mountains shall be moved away from their places and they will be as if they were a mirage (20)Truly, Hell is a place of ambus (21)A dwelling place for the Taghun (22)They will abide…
-
-**Classical tafsir:** Ibn Kathir notes: The word mirsad means 'an ambush' or 'lying in wait to attack unawares' or 'a secret position for surprise attack'.
 ## Personal Reflections
-
 

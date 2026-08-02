@@ -169,13 +169,5 @@ Ends here
 
 So be patient with your Rabb's decree, and do not obey any evildoer or staunch rejecter among them.
 
-## AI Tafsir
-
-**Context:** (Therefore be patient with constancy to the command of your Lord.,) meaning, 'just as you have been honored by what has been revealed to you, then be patient with His decree and decision and know that He will handle your…
-
-**What this ayah teaches:** Verily, it is We Who have sent down the Qur'an to you by stages (23)Therefore be patient with constancy to the command of your Lord, and obey neither a sinner nor a those who reject the truth among them (24)And remember the Name of your Lord every morning and afternoon (25)And during the night, prostrate yourself to Him, and glorify Him a long night through (26)Verily, these love the present…
-
-**Classical tafsir:** Ibn Kathir notes: Secondly, he is commanded to pronounce the name of Allah, and worship Him day and night.
 ## Personal Reflections
-
 

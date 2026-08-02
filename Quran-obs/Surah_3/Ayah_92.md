@@ -204,31 +204,5 @@ Also stated in this last sentence of the verse is that Allah is fully aware of t
 
 You will never achieve righteousness until you donate some of what you cherish. And whatever you give is certainly well known to Allah.
 
-## AI Tafsir
-
-**Essence**
-
-True righteousness is out of reach so long as you cling to what you love most; you enter the ranks of the righteous only by giving the dearest of your possessions in the way of Allah.
-
-**What it teaches**
-
-Al-birr is the perfect, total fulfillment of what is due — here, the rights of Allah. The verse names the highest form of it: giving not the spare and the worthless but what your heart holds dear. The word "mimma" (from what) shows the aim is to spend some of your good things, not to empty out everything you own. And the closing "Allah knows it well" turns the gaze inward: He weighs the true worth of the gift and the intention behind it, so no display can substitute for sincerity.
-
-**The scholars**
-
-Maarif ul Quran explains that birr literally means the complete discharge of someone's rights — the Qur'an calls the prophets "barr" for perfectly fulfilling their parents' rights (19:14, 19:32), and the righteous are the "abrar," whose opposite is the "fujjar" (the sinful). Of the whole range of good deeds gathered under birr in 2:177, the most preferred is sacrificing one's most cherished things for Allah, so entry into the ranks of the abrar depends on this. Ibn Kathir cites 'Amr bin Maymun that "you will never attain al-Birr" refers to attaining Paradise. Maarif draws out the rulings: the consensus of researchers is that birr here covers both obligatory zakah and voluntary charity; what counts is not amount but sincerity — Hasan al-Basri said even a single date given purely for Allah's pleasure earns this perfect righteousness; "what you love" means something you still need and use (as in 76:8 and 59:9), not the surplus; and the poor who have little to give can still reach this great good through worship, dhikr, recitation of the Qur'an, and abundant nawafil. Giving away surplus or used items is still rewarded — only making a habit of always offering the bad and the extra is condemned, as warned in 2:267.
-
-**From the Sunnah**
-
-When this verse was revealed, Abu Talhah — the wealthiest of the Ansar, whose most beloved property was the Bayruha' garden, where the Prophet (peace be upon him) used to drink the fresh water of its well, Bi'r Ha' — gave it in charity for Allah's cause; the Prophet praised it as "profitable property" and advised him to distribute it among his kith and kin, which he did. (The Two Sahihs — al-Bukhari and Muslim)
-
-**From the Sunnah**
-
-'Umar said no property was more precious to him than his share in Khaybar and asked what to do with it; the Prophet (peace be upon him) told him to retain the land itself and give its fruits in Allah's cause. (The Two Sahihs)
-
-**Reflection**
-
-Name honestly the thing you would least like to part with — and let some of it go for Allah, certain that He sees not the gift alone but the heart behind it.
 ## Personal Reflections
-
 

@@ -266,15 +266,5 @@ The second argument in favour of their naked Tawaf advanced by these people was 
 
 Whenever they commit a shameful deed, they say, “We found our forefathers doing it and Allah has commanded us to do it.” Say, “No! Allah never commands what is shameful. How can you attribute to Allah what you do not know?”
 
-## AI Tafsir
-
-**Context:** The first verse among those cited above has been revealed to identify and eliminate this absurd custom. It was said in the verse that on occasions when they did something shameful and people told them not to do so, their…
-
-**What this ayah teaches:** Allah has originally created all of His servants able to recognize Him, to single Him out in worship, and know that there is no deity worthy of worship except Him.
-
-**Classical tafsir:** Ibn Kathir notes: Mmmm50 As obvious, the Quraysh could not provide clothes to the whole people of Arabia, therefore, the consequence was that these people would make Tawaf mostly naked, men and women, both, with women usually doing their Tawaf in the darkness of the night.
-
-**From the Sunnah:** [21:104] This Hadith was collected in the Two Sahihs.
 ## Personal Reflections
-
 

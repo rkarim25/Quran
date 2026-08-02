@@ -299,11 +299,5 @@ At the end of the verse (141) it was said: وَلَا تُسْرِ‌فُوا ۚ
 
 Say, “I do not find in what has been revealed to me anything forbidden to eat except carrion, running blood, swine—which is impure—or a sinful offering in the name of any other than Allah. But if someone is compelled by necessity—neither driven by desire nor exceeding immediate need—then surely your Rabb is All-Forgiving, the Rahim.”
 
-## AI Tafsir
-
-**Context:** Say: "I find not in that which has been revealed to me anything forbidden to be eaten by one who wishes to eat it, unless it be Maytah (a dead animal) or blood poured forth, or the flesh of swine; for that surely, is unc…
-
-**What this ayah teaches:** If someone finds an ancient treasure, or hits on a gold or silver mine while prospecting, then, one-fifth of it will be due on him as Zakah - because the labour and expenditure factor is less while the produce is more.
 ## Personal Reflections
-
 

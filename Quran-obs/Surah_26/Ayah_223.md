@@ -191,15 +191,5 @@ And warn the nearest people of your clan, -26:214.
 
 who gives an attentive ear to half-truths, mostly passing on sheer lies.
 
-## AI Tafsir
-
-**Context:** But this Surah was revealed in Makkah, so how could the reason for its revelation be the poets of the Ansar? This is something worth thinking about.
-
-**What this ayah teaches:** The shooting star may strike the Jinn before he passes it on, or he may pass it on before he is struck, and he adds to it one hundred lies, thus it is said: "Did he not tell us that on such and such a day, such and such would happen?" So they believe him because of that one thing which was heard from the heavens.) This was recorded by Al-Bukhari.
-
-**Classical tafsir:** Ibn Kathir notes: It did not come from the Shayatin, because they have no desire for anything like this Noble Qur'an – they descend upon those who are like them, the lying fortune-tellers.
-
-**From the Sunnah:** The shooting star may strike the Jinn before he passes it on, or he may pass it on before he is struck, and he adds to it one…
 ## Personal Reflections
-
 

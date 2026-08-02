@@ -136,13 +136,5 @@ Described in these verses is the greatness, virtues, blissfulness and fruitfulne
 
 Have you not seen those who meet Allah's favours with ingratitude and lead their people to ruin?
 
-## AI Tafsir
-
-**What this ayah teaches:** Have you not seen those who have changed the blessings of Allah into disbelief (by denying Prophet Muhammad ﷺ and his Message of Islam), and caused their people to dwell in the house of destruction (28)Hell, in which they will burn, - and what an evil place to settle in (29)And they set up rivals to Allah, to mislead (men) from His path!
-
-**Classical tafsir:** Ibn Kathir notes: And then unto Us will be their return, then We shall make them taste the severest torment because they used to disbelieve.)[10:70]
-
-**From the Sunnah:** Ibn Al-Kawwa' asked 'Ali about Allah's statement,
 ## Personal Reflections
-
 

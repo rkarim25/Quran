@@ -166,11 +166,5 @@ Maulana Shabbir Ahmad ` Usmani, in his comments on the opening statement of Vers
 
 As for those who believe and do good, He will reward them in full and increase them out of His grace. But those who are too proud and arrogant, He will subject them to a painful punishment. And besides Allah they will find no protector or helper.
 
-## AI Tafsir
-
-**What this ayah teaches:** Then, Allah will judge between them with His just judgment that is never unjust or wrong.
-
-**Classical tafsir:** Ibn Kathir notes: The Prophets and Angels Are Never too Proud to Worship Allah Ibn Abi Hatim recorded that Ibn 'Abbas said that, 'proud', means insolent.
 ## Personal Reflections
-
 

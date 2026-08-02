@@ -81,11 +81,5 @@ In verse 95, it was said: قَالُوا تَاللَّـهِ إِنَّكَ ل�
 
 They replied, “By Allah! You are definitely still in your old delusion.”
 
-## AI Tafsir
-
-**What this ayah teaches:** This ayah declares: They replied, “By Allah! You are definitely still in your old delusion.”
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

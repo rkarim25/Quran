@@ -232,17 +232,5 @@ In order to rescue men from this slavery to others, the Holy Qur'an says at the 
 
 He made the earth a place to settle for you and the sky a canopy; He sends rain from the sky and brings forth fruit as provision. Do not knowingly set up rivals to Allah in worship — that is shirk, giving anything the devotion owed to Allah alone.
 
-## AI Tafsir
-
-**Essence** He who made the earth your resting place, the sky a canopy, and feeds you by rain and fruit has no equal — worship Allah alone.
-
-**What it teaches** Four bounties no created being could supply: *firash* (the earth spread out — no denial of its roundness, Maarif notes), *bina'* (the sky a canopy), rain sent down, *rizq* (fruits as provision). So give no rival (*andad*) any share of His worship, "while you know."
-
-**The scholars** Ibn Kathir titles this Tawhid al-Uluhiyyah: the Creator, Sustainer and Provider alone deserves worship; Ar-Razi and others read these ayat as proof of the Creator. Maarif ul-Quran: the farmer only removes hindrances — growth is Divine Power alone.
-
-**From the Sunnah** Ibn Mas'ud asked the Prophet ﷺ, "Which evil deed is the worst with Allah?" — "To take an equal with Allah, while He alone created you." (The Two Sahihs)
-
-**Reflection** Every harvest and every rainfall is a summons: let nothing take the place that belongs to Allah alone.
 ## Personal Reflections
-
 

@@ -144,17 +144,5 @@ But this particular instance does in no way go to prove that the Hiyal are imper
 
 You already knew those among you who violated the Sabbath. We said to them, "Be disgraced apes."
 
-## AI Tafsir
-
-**Essence** Allah reminds the Children of Israel (Bani Isra'il) of the Sabbath-breakers He turned into despised apes.
-
-**What it teaches** Forbidden to fish on the Sabbath (sabt), a seaside town set nets before Saturday and hauled the catch after it ended. Allah said, "Be apes, khasi'in" — despised and rejected.
-
-**The scholars** Ibn Kathir: their deceit "appeared lawful on the surface," so the punishment matched the crime. Maarif ul-Quran: the change was truly physical, and such Shari'ah-mocking ruses are nothing like the jurists' lawful hiyal, which serve obedience, not evasion.
-
-**From the Sunnah** "Do not commit what the Jews committed, breaching what Allah has forbidden, by resorting to the lowest types of deceit" (Ibn Battah, jayyid chain). Asked if today's apes and swine descend from them, the Prophet ﷺ noted both existed before — a metamorphosed people leaves no progeny (Muslim).
-
-**Reflection** Before reaching for a loophole around Allah's command, remember: He judges the deed's reality, not its disguise.
 ## Personal Reflections
-
 

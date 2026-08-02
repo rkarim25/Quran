@@ -136,13 +136,5 @@ Ibrahim An-Nakha'i and Qatadah رحمۃ اللہ علیہما are of the opinion
 
 Lot believed in him. Abraham said: I am emigrating to my Rabb. He alone is the Almighty, All-Wise.
 
-## AI Tafsir
-
-**What this ayah teaches:** The Faith of Lut and His Emigration with Ibrahim Allah tells us that Lut believed in Ibrahim. None of Ibrahim's people believed in Ibrahim besides Lut and Sarah the wife of Ibrahim.
-
-**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas and Ad-Dahhak said that Ibrahim is the one who is referred in the phrase.
-
-**From the Sunnah:** But if it is asked how we may reconcile this Ayah with the Hadith narrated in the Sahih which says that when Ibrahim passed by that tyrant and he asked about Sarah and what her relationship was to him, Ibrahim said, "My sister." Then he went to her and said, "… (Sahih Muslim)
 ## Personal Reflections
-
 

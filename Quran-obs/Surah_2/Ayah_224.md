@@ -167,17 +167,5 @@ The Verse warns those who swear in the name of Allah that they will not do some 
 
 Do not use Allah's name in your oaths as an excuse to avoid doing good, guarding against evil, or making peace between people. Allah is All-Hearing, All-Knowing.
 
-## AI Tafsir
-
-**Essence** Never let an oath sworn in Allah's Name become your excuse to withhold good, abandon piety, or refuse to reconcile people.
-
-**What it teaches** `'Urdah` means a barrier set up in the way of something. The ayah forbids making Allah's Name — invoked in an oath (`yamin`) — into such a barrier against `birr` (righteousness), `taqwa` (mindfulness of Allah), and `islah bayna al-nas` (making peace between people). Maarif ul Quran underscores that turning the very sanctity of Allah's Name into a weapon against good deeds is itself a severe violation that must be avoided in every case. The verse then seals the command with two attributes: Allah is `Sami'` (All-Hearing) of the oath on your lips and `'Alim` (All-Knowing) of the intention in your heart.
-
-**The scholars** Ibn Kathir reads the verse as a prohibition: do not let a vow taken in Allah's Name hold you back from acts of obedience or from keeping ties of kinship — instead break it, pay the expiation (`kaffarah`), and do the good. He ties this to 24:22, where Allah rebukes the wealthy who swear off helping their relatives and the poor. This is the majority position, traced to Ibn 'Abbas (via 'Ali bin Abu Talhah) and held by a wide body of the salaf — among them Masruq, Ash-Sha'bi, Ibrahim An-Nakha'i, Mujahid, Tawus, Sa'id bin Jubayr, 'Ata', 'Ikrimah, Az-Zuhri, Al-Hasan, Qatadah, Ad-Dahhak and As-Suddi — on the principle that persisting in a sinful vow is worse than breaking it through expiation. 'Umar applied this when an Ansari man, quarreling with his brother over inheritance, vowed to spend all he owned on the Ka'bah rather than reconcile: 'Umar told him the Ka'bah needs no such money — break the vow, pay the `kaffarah`, and come to terms with your brother (reported by Abu Dawud).
-
-**From the Sunnah** The primary proof, in the Two Sahihs, is from Abu Musa Al-Ash'ari, that the Prophet ﷺ said: "By Allah! Allah willing, I will not vow to do a thing and then see a better act, but I would do what is better and break my vow." Muslim also reports from Abu Hurayrah: whoever makes a vow and then finds something better should pay its expiation and then do the better deed. And it is more sinful before Allah to persist in a vow that severs kinship than to break it and pay the prescribed expiation (Sahih Muslim and Musnad Ahmad). In the Ansari case 'Umar cited the Prophet's ﷺ words: "Do not make a vow against yourself, nor to disobey the Lord, cut the relations of the womb, or dispose of what you do not own."
-
-**Reflection** When anger or wounded pride dresses itself in an oath to justify withholding kindness or refusing peace, the nobler path is to break the oath, pay the expiation, and do the good.
 ## Personal Reflections
-
 

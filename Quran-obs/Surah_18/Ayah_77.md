@@ -157,11 +157,5 @@ The habitation mentioned أَهْلَ قَرْ‌يَةٍ (the people of a town 
 
 So they moved on until they came to the people of a town. They asked them for food, but the people refused to give them hospitality. There they found a wall ready to collapse, so the man set it right. Moses protested, “If you wanted, you could have demanded a fee for this.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Then they both proceeded till when they came to the people of a town, they asked them for food, but they refused to entertain them. Then they found therein a wall about to collapse and he set it up straight.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

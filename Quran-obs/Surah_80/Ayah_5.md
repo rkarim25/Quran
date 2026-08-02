@@ -178,15 +178,5 @@ Thereafter, in verses 13 and 14, Allah Almighty has described the high status of
 
 As for the one who felt self-sufficient,
 
-## AI Tafsir
-
-**Context:** (He frowned and turned away.) "This was revealed about Ibn Umm Maktum, the blind man. He came to the Messenger of Allah ﷺ and began saying, 'Guide me.' At the time the Messenger of Allah ﷺ had a man with him who was one…
-
-**What this ayah teaches:** Or he might receive admonition, and the admonition might profit him?)(5.
-
-**Classical tafsir:** Ibn Kathir notes: This indicates that education of Muslims and their reform are more important than, and take priority over, getting the non-Muslims to embrace the faith.
-
-**From the Sunnah:** He (Ibn Umm Maktum) then began asking the Messenger of Allah ﷺ about something, urgently beseeching him. He came to the Messenger of Allah ﷺ and began saying, 'Guide me.' At the time the Messenger of Allah ﷺ had a man with him who was one of the great leaders of the idolators.
 ## Personal Reflections
-
 

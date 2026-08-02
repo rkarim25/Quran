@@ -207,13 +207,5 @@ In the verses cited above, the answer to disbelievers who were demanding that th
 
 Say, “Indeed, I stand on a clear proof from my Rabb—yet you have denied it. That you seek to hasten is not within my power. It is only Allah Who decides. He declares the truth. And He is the Best of Judges.”
 
-## AI Tafsir
-
-**Context:** (Say: "I am on clear proof from my Lord...") means: I have a clear understanding of the Law of Allah that He has revealed to me,
-
-**What this ayah teaches:** Therefore, Allah has sent the Angel of the Mountains to you so that you may order him to do whatever you wish to these people.' The Angel of the Mountains called and greeted me, and then said, 'O Muhammad! With Him (Alone) is the knowledge of the Hour, He sends down the rain, and knows that which is in the wombs.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, Allah has sent the Angel of the Mountains to you so that you may order him to do whatever you wish to these people.' The Angel of the Mountains called and greeted me, and then said, 'O Muhammad!
 ## Personal Reflections
-
 

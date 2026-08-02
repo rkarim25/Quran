@@ -201,11 +201,5 @@ The other meaning of Bagha is conceit or arrogance. Many a commentators have ado
 
 Indeed, Korah was from the people of Moses, but he behaved arrogantly towards them. We had granted him such treasures that even their keys would burden a group of strong men. Some of his people advised him, “Do not be prideful! Surely Allah does not like the prideful.
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, Qarun was of Musa's people, but he behaved arrogantly towards them. Normally the keys of the locks are light, but because of their large number, their weight had multiplied so much that it was not possible even for a group of strong persons to lift them all.
-
-**Classical tafsir:** Ibn Kathir notes: Normally the keys of the locks are light, but because of their large number, their weight had multiplied so much that it was not possible even for a group of strong persons to lift them all.
 ## Personal Reflections
-
 

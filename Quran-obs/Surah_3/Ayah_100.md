@@ -138,27 +138,5 @@ The expression وَمَن يَعْتَصِم بِاللَّـهِ ,'translated a
 
 O you who have iman! If you were to yield to a group of those who were given the Scripture, they would turn you back from belief to rejection of the truth.
 
-## AI Tafsir
-
-**Essence**
-
-Believers are warned that yielding to the scheming of the People of the Book can drag a heart from faith back into disbelief — yet nearness to Allah’s verses and His Messenger ﷺ makes such a fall remote.
-
-**What it teaches**
-
-“If you obey (tuṭīʿū) a group (farīqan) of those given the Scripture, they would turn you back, after your belief, into disbelievers (kāfirīn).” The operative danger is not honest dialogue or mere contact but *obedience* — letting those who envy the believers steer one’s choices. The Scripture is not condemned wholesale: the threat comes from a farīqan, a single party who seek to sow discord, and the harm lands only when a believer submits to their lead.
-
-**The scholars**
-
-Ibn Kathir explains that Allah warns His believing servants against obeying the People of the Book, who envy the believers for the favor Allah granted by sending His Messenger ﷺ — linking it to 2:109, where they “wish that they could turn you away as disbelievers after you have believed, out of their own envy.” He reads the next verse (3:101) to mean disbelief “is far from touching you, since the Ayat of Allah are being sent down on His Messenger ﷺ day and night, and he recites and conveys them to you.” Maarif ul Quran (citing Ruh al-Ma’ani via Ibn Ishaq) anchors the ayah in a real event: the Jew Shammas ibn Qays, harboring chronic malice, incited the Ansar tribes Aws and Khazraj to recite old pre-Islamic war poetry until they nearly came to fresh battle; the Prophet ﷺ came and rebuked them — “Here I am present amidst you... Do you want, in this state of yours, to revert to kufr?” — and they wept, embraced, and repented. Maarif adds that the believers’ two “powerful, never-failing sources” of firmness are the Book and the Messenger of Allah, and that iʿtisam (holding firmly to Allah, 3:101) means affirming His Being and Attributes and staying committed to what He ordained.
-
-**From the Sunnah**
-
-In a Hadith the Prophet ﷺ asked his Companions whose faith they found most amazing. As the narration reasons, the angels were set aside (“since they are with their Lord”), then the Prophets (“while the revelation is sent down to them”), and the Companions themselves (“when I am among you”). He answered: “A people who will come after you and who will find only books that they will believe in” — exalting the faith of later believers who hold fast through the written revelation. (cited by Ibn Kathir)
-
-**Reflection**
-
-Guard your faith from those who would unsettle it, and cling to the two anchors Allah left you — His Book and the guidance of His Messenger ﷺ.
 ## Personal Reflections
-
 

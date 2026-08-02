@@ -161,11 +161,5 @@ The word لَنُحَرِّقَنَّہ، means "we will certainly burn it". Her
 
 Then Moses addressed his people, “Your only god is Allah, there is none worthy of worship of worship except Him. He encompasses everything in His knowledge.”
 
-## AI Tafsir
-
-**What this ayah teaches:** For everything is in need of Him and everything is His servant.
-
-**Classical tafsir:** Ibn Kathir notes: Here the question arises: how could the calf which was carved from gold and silver be burnt, because these metals when subjected to extreme heat are melted but are not reduced to ashes.
 ## Personal Reflections
-
 

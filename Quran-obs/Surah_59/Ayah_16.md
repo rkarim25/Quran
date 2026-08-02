@@ -181,13 +181,5 @@ Tafsir Mazhari, Qurtubi, Ibn Kathir and others have cited several incidents wher
 
 They are like Satan when he lures someone to reject the truth, then on Judgment Day says: 'I have nothing to do with you—I fear Allah, Lord of all worlds.'
 
-## AI Tafsir
-
-**What this ayah teaches:** If the verse refers to this incident, in which the Shaitan provokes man to disbelieve and when he does that, he washes his hands of them, it does not seem that the Shaitan asked them to commit kufr, because they were already kafirs.
-
-**Classical tafsir:** Ibn Kathir notes: If the verse refers to this incident, in which the Shaitan provokes man to disbelieve and when he does that, he washes his hands of them, it does not seem that the Shaitan asked them to commit kufr, because they were already kafirs.
-
-**From the Sunnah:** They only fight when they have to defend themselves (even though they threaten Muslims of reprisals). But when the Muslims besieged them, not a single hypocrite came forward to assist.
 ## Personal Reflections
-
 

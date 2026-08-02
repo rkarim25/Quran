@@ -118,11 +118,5 @@ Qatadah said, "Al-Munsha'at means created." Others said that it is Al-Munshi'at 
 
 So which of your Rabb's favours will you both—humans and jinn—deny?
 
-## AI Tafsir
-
-**What this ayah teaches:** The Creation of Humans and Jinns Allah mentions that He created mankind from clay, like that used in pottery, and created the Jinns from the tip of the flame of a smokeless fire.
-
-**Classical tafsir:** Ibn Kathir notes: Mujahid, Qatadah, Abu Ruzayn, Ad-Dahhak said it, and it has also been reported from 'Ali.
 ## Personal Reflections
-
 

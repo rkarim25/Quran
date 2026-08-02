@@ -167,11 +167,5 @@ Imam Ahmad recorded that 'Abdullah, may Allah be pleased with him, said, "I was 
 
 They will ask their skin furiously, "Why have you testified against us?" It will say, "We have been made to speak by Allah, Who causes all things to speak. He created you the first time, and to Him you were bound to return.
 
-## AI Tafsir
-
-**What this ayah teaches:** Most of the learned exegetes have explained it in the sense that when people of Hell, who will be numerous, will be taken forward to the field of hashr and the place of reckoning, the people in the front will be halted for a while, so that the people in the rear also catch up with them.
-
-**Classical tafsir:** Ibn Kathir notes: Most of the learned exegetes have explained it in the sense that when people of Hell, who will be numerous, will be taken forward to the field of hashr and the place of reckoning, the people in the front will be halted for a while, so that the people in the rear also catch up wit…
 ## Personal Reflections
-
 

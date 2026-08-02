@@ -176,13 +176,5 @@ Ends here
 
 and left them like eaten straw—power reduced to chaff, a lesson for every empire that thinks it is permanent.
 
-## AI Tafsir
-
-**What this ayah teaches:** And He made them like 'Asf, Ma'kul.) This is one of the favors Allah did for the Quraysh.
-
-**Classical tafsir:** Ibn Kathir notes: The Surah that follows refers to these journeys and invites the Quraish to be thankful to Allah and worship Him alone for providing them with all of their needs.
-
-**From the Sunnah:** However, this was a means of giving a sign and preparing the way for the coming of the Messenger of Allah ﷺ. We have mentioned previously in the Tafsir of Surat Al-Fath that when the Messenger of Allah ﷺ approached the mountain pass that would lead him to the Quraysh on the Day of Al-Hudaybiyyah, his she-camel knelt down.
 ## Personal Reflections
-
 

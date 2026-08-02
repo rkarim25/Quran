@@ -243,13 +243,5 @@ The current set of verses brought about reform in the custom in two ways: [ 1] z
 
 Those who divorce their wives through zihar—declaring them 'like my mother's back'—must understand: a wife is not a mother. Only the woman who bore you is your mother. What they utter is abhorrent and false. Yet Allah is Ever-Pardoning, All-Forgiving for those who turn back.
 
-## AI Tafsir
-
-**Context:** By Allah! Before I departed, parts of the Qur'an were revealed about me. Allah's Messenger ﷺ felt the hardship upon receiving the revelation as he usually did and then became relieved. He said to me,
-
-**What this ayah teaches:** And he who is unable to do so, should feed sixty of the poor.) is explained by the Hadiths that prescribe these punishments in this order, just as in the Hadith collected in the Two Sahihs about the man who had sexual intercourse with his wife during the day, in Ramadan.
-
-**Classical tafsir:** Ibn Kathir notes: Al-Hasan Al-Basri said that it is to utilize her sexual organ, and he did not see any harm in doing what is less than that before paying the expiation.
 ## Personal Reflections
-
 

@@ -146,11 +146,5 @@ Ibn Zayd said, "The Shawa is the marrow of the bones." As for,
 
 though they will be made to see each other. The wicked will wish to ransom themselves from that Day's punishment with their children,
 
-## AI Tafsir
-
-**What this ayah teaches:** Even the child that he had who was dearer to him than the last beat of his heart in the life of this world, he would wish to use the child as a ransom for himself against the torment of Allah on the Day of Judgement when he sees the horrors.
-
-**Classical tafsir:** Ibn Kathir notes: This means they denied with their hearts and abandoned the performance of deeds with their limbs.
 ## Personal Reflections
-
 

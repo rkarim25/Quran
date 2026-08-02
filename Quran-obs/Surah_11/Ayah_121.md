@@ -84,13 +84,5 @@ And Allah is Pure and High and He knows everything best.
 
 Say to those who reject the truth, “Persist in your ways; we will certainly persist in ours.
 
-## AI Tafsir
-
-**What this ayah teaches:** He made His Word uppermost (victorious), and the word of those who disbelieved lowly and disgraced.
-
-**Classical tafsir:** Ibn Kathir notes: He made His Word uppermost (victorious), and the word of those who disbelieved lowly and disgraced.
-
-**From the Sunnah:** All of them would have then become nothing but Muslims without any difference remaining between them.
 ## Personal Reflections
-
 

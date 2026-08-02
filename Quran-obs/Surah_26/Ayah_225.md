@@ -258,13 +258,5 @@ Ends here.
 
 Do you not see how they rant in every field,
 
-## AI Tafsir
-
-**Context:** But this Surah was revealed in Makkah, so how could the reason for its revelation be the poets of the Ansar? This is something worth thinking about.
-
-**What this ayah teaches:** Their objective was to call him a liar, because the word Sha` ir is also used in the sense of lie, and Shi` r for a liar. The commentators have therefore, elaborated that in the beginning of the verse the those who reject the truth poets are purported, because depraved people, defiant Shaitan and disobedient Jinn followed and narrated their poetry.
-
-**Classical tafsir:** Ibn Kathir notes: Their objective was to call him a liar, because the word Sha` ir is also used in the sense of lie, and Shi` r for a liar.
 ## Personal Reflections
-
 

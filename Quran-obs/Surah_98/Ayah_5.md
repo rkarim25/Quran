@@ -211,15 +211,5 @@ Verse [ 5] وَذَٰلِكَ دِينُ الْقَيِّمَةِ (And that is t
 
 They were commanded only to worship Allah with sincere devotion, establish salah, and give zakat. That is the upright deen.
 
-## AI Tafsir
-
-**Context:** (And We did not send any Messenger before you but We revealed to him: La ilaha illa Ana.)(21:25)
-
-**What this ayah teaches:** The verse purports to say that Allah commanded the People of the former Scriptures that they should render full and sincere obedience to Divine commandments, that is, to worship Allah alone. And the People of the Scripture differed not until after there came to them the Bayyinah.)(5.
-
-**Classical tafsir:** Ibn Kathir notes: It would appear that the phrase hutubun qayyimah [(right and) straight writings ], contextually, refers to the Qur'anic ordinances and injunctions.
-
-**From the Sunnah:** from Anas bin Malik that the Messenger of Allah ﷺ said to Ubayy bin Ka'b, (Musnad Ahmad) this Hadith from Shu'bah. (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
-
 

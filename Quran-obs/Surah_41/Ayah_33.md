@@ -146,15 +146,5 @@ The merits and blessings of adhan and its reply are very great, as stated in Sah
 
 And whose words are better than someone who calls others to Allah, does good, and says, "I am truly one of those who submit"?
 
-## AI Tafsir
-
-**Context:** The correct view is that the Ayah is general in meaning, and includes the Mu'adhdhin and others. When this Ayah was revealed, the Adhan had not been prescribed at all.
-
-**What this ayah teaches:** This is general in meaning and applies to everyone who calls people to what is good and is himself guided by what he says.
-
-**Classical tafsir:** Ibn Kathir notes: The one who calls adhan (call to obligatory prayer) is also included in this category, because he calls others towards prayers.
-
-**From the Sunnah:** The Messenger of Allah ﷺ is the foremost among people in this regard, as Muhammad bin Sirin, As-Suddi and 'Abdur-Rahman bin Zayd bin Aslam said. what was meant here is the righteous Mu'adhdhin, as it was mentioned in Sahih Muslim: (Sahih Muslim)
 ## Personal Reflections
-
 

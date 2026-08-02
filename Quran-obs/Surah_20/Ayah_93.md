@@ -80,11 +80,5 @@ In this affair the considered opinion of Sayyidna Musa (علیہ السلام) �
 
 from following after me? How could you disobey my orders?”
 
-## AI Tafsir
-
-**What this ayah teaches:** Where they differed, however, was the manner in which these objectives could be achieved whether to make a complete break with the dissidents or to bear with them in the hope those things would improve ultimately.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

@@ -119,15 +119,5 @@ In verse وَإِن مَّا نُرِ‌يَنَّكَ بَعْضَ الَّذِ
 
 They say, "You are no messenger." Say: "Allah is sufficient as Witness between me and you, and whoever has knowledge of the Scripture."
 
-## AI Tafsir
-
-**Context:** (and those too who have knowledge of the Scripture.) This refers to 'Abdullah bin Salam, according to Mujahid. However, this opinion is not plausible, since this Ayah was revealed in Makkah and 'Abdullah bin Salam embrac…
-
-**What this ayah teaches:** This is the end of Surat Ar-Ra'd, and all praise is due to Allah and all favors are from Him.
-
-**Classical tafsir:** Ibn Kathir notes: Qatadah said that among them are, 'Abdullah bin Salam, Salman (Al-Farisi) and Tamim Ad-Dari.
-
-**From the Sunnah:** However, this opinion is not plausible, since this Ayah was revealed in Makkah and 'Abdullah bin Salam embraced Islam soon after the Prophet ﷺ emigrated to Al-Madinah.
 ## Personal Reflections
-
 

@@ -74,13 +74,5 @@ Since it is established that Resurrection is a reality and inevitable, the rewar
 
 Should We then treat those who submit like the wicked?
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, for those who have Taqwa are Gardens of Delight with their Lord (34)Shall We then treat the Muslims like the criminals (35)What is the matter with you?
-
-**Classical tafsir:** Ibn Kathir notes: The Reward of those Who have Taqwa and that They will not be treated like the Criminals After Allah mentions the situation of the people of the worldly garden and the wrath they suffered when they disobeyed Allah and opposed his commands, He then explains that whoever has Taqwa o…
-
-**From the Sunnah:** Verily, for those who have Taqwa are Gardens of Delight with their Lord (34)Shall We then treat the Muslims like the criminals (35)What is the matter with you?
 ## Personal Reflections
-
 

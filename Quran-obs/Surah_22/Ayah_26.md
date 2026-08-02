@@ -165,13 +165,5 @@ The start of founding the structure of the House of Allah (the Holy Ka'bah)
 
 And remember when We assigned to Abraham the site of the House, saying, “Do not associate anything with Me in worship and purify My House for those who circle the Ka’bah, stand in salah — the formal prayer, and bow and prostrate themselves.
 
-## AI Tafsir
-
-**What this ayah teaches:** Tawaf is done around the Ka'bah and prayer is offered facing its direction in the majority of cases, with a few exceptions, such as when one is uncertain of the direction of the Qiblah, during battle and when praying optional prayers while traveling.
-
-**Classical tafsir:** Ibn Kathir notes: This verse describes the eminence and the superior status of the Baitullah which magnifies manifold the evil of their deeds.
-
-**From the Sunnah:** There is no one among the Muslims who does not long to see the Ka'bah and perform Tawaf, people come to this spot from every corner of the world. The previous verse contains a warning of severe punishment to the infidels who prevented the Muslims from entering the Sacred Mosque and the precincts of Haram.
 ## Personal Reflections
-
 

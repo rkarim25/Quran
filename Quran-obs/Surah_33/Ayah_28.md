@@ -145,13 +145,5 @@ In this case, what can be proved from the cited verse (28) is its desirability o
 
 O Prophet! Say to your wives, “If you desire the life of this dunya — this temporary worldly life and its luxury, then come, I will give you a suitable compensation for divorce and let you go graciously.
 
-## AI Tafsir
-
-**What this ayah teaches:** That the power of divorce is entrusted with the woman, that is, if she wishes, she can divorce herself and become free.
-
-**Classical tafsir:** Ibn Kathir notes: It was simply because of the wellbeing of common Muslims around them that they had also thought of the same for themselves.
-
-**From the Sunnah:** Here Allah commands His Messenger ﷺ to give his wives the choice of separating from him so that they may go to someone else with whom they can find what they want of the life of this world and its attractions, or of patiently bearing the straitened circumstanc… (Sahih al-Bukhari) that 'A'ishah, may Allah be pleased with her, said: "The Messenger of Allah ﷺ gave us the choice, and we chose him, so giving us that choice was not regarded as divorce." It was recorded by (Al-Bukhari and Muslim) from the Hadith of Al-A'mash. (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
-
 

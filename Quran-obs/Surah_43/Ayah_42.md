@@ -159,13 +159,5 @@ The other explanation could be that after getting in Hell, your sharing the puni
 
 Or if We show you what We threaten them with, We certainly have full power over them.
 
-## AI Tafsir
-
-**Context:** And whosoever Ya'shu (turns away blindly) from the remembrance of the ar-Rahman, We appoint for him Shaytan to be a Qarin (a companion) to him (36)And verily, they hinder them from the path, but they think that they…
-
-**What this ayah teaches:** All you have to do is convey the Message, but you do not have to guide them.
-
-**Classical tafsir:** Ibn Kathir notes: This means that it is an honor for them in that it was revealed in their language, so they are the people who have the best understanding of it among mankind and hence are obliged to be the most steadfast in adhering to its commandments.
 ## Personal Reflections
-
 

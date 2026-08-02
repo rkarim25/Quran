@@ -92,13 +92,5 @@ The Chapter ends on a note of warning to disbelievers that if they reject the Qu
 
 from their mother and father,
 
-## AI Tafsir
-
-**What this ayah teaches:** And from his mother and his father. They will try to flee from their brothers, from their mothers and fathers, from their spouses and their children.
-
-**Classical tafsir:** Ibn Kathir notes: And from his wife and his children.) meaning, he will see them and then flee from them, and seek to get away from them because horror will be so great and the matter will be so weighty.
-
-**From the Sunnah:** intercede with Allah on behalf of the creation, but each of them will say, "O myself! O myself! Today I will not ask You (O Allah) concerning anyone but myself. (authentic hadith) Every man among them on that Day will have enough (worries) to make him careless of others.) At-Tirmidhi said, "This Hadith is Hasan Sahih." (Jami' at-Tirmidhi, authentic hadith)
 ## Personal Reflections
-
 

@@ -190,13 +190,5 @@ After all these reports, why should it remain so far out to realize that everyth
 
 The seven heavens, the earth, and all those in them glorify Him. There is not a single thing that does not glorify His praises—but you simply cannot comprehend their glorification. He is indeed Most Forbearing, All-Forgiving.
 
-## AI Tafsir
-
-**What this ayah teaches:** The seven heavens and the earth and all that is therein, glorify Him and there is not a thing but glorifies His praise.
-
-**Classical tafsir:** Ibn Kathir notes: Some ` Ulama' say that their Tasbih is circumstantial, state-articulated, the testimony of their state of being - because, the collective condition of everything other than Allah Ta’ ala is telling us that it is neither permanent existence-wise nor survival-wise.
-
-**From the Sunnah:** It was reported in Sahih Al-Bukhari that Ibn Mas'ud said: "We used to hear the Tasbih of the food as it was being eaten." (Sahih al-Bukhari) ] the Messenger of Allah ﷺ came upon some people who were sitting on their mounts and talking to one another. (Musnad Ahmad)
 ## Personal Reflections
-
 

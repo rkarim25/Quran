@@ -138,11 +138,5 @@ This verse has itself clarified it that, at this place, making someone hear mean
 
 If they deny you, so did those before them. Their messengers came with clear proofs, divine Books, and enlightening Scriptures.
 
-## AI Tafsir
-
-**What this ayah teaches:** Their Messengers came to them with clear signs, and with the Scriptures, and with the Book giving light (25)Then I took hold of those who disbelieved, and how terrible was My denial . Their Messengers came to them with clear signs,) means, clear miracles and definitive proofs.
-
-**Classical tafsir:** Ibn Kathir notes: This proves that the negation of making the ( dead hear referred to in this verse means a particular listening that is beneficial, something because of which the listener forsakes the false and takes to the true.
 ## Personal Reflections
-
 

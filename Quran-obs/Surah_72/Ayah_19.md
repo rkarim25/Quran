@@ -162,15 +162,5 @@ The word masajid could also have another sense. It could be the plural of masjad
 
 Yet when Allah's servant stood calling on Him alone, the pagans almost swarmed over him.
 
-## AI Tafsir
-
-**Context:** (Say: "It has been revealed to me that a group of Jinn listened.")(72:1) They were listening to the Qur'an." This is one opinion and it has been reported from Az-Zubayr bin Al-'Awwam.
-
-**What this ayah teaches:** The Command to worship Allah Alone and shun Shirk Allah commands His servants to single Him out alone for worship and that none should be supplicated to along with Him, nor should any partners be associated with Him.
-
-**Classical tafsir:** Ibn Kathir notes: This means that the idolators have no helper at all and they are fewer in number than the soldiers of Allah.
-
-**From the Sunnah:** Al-Hasan said, "When the Messenger of Allah ﷺ stood up and said none has the right to be worshipped except Allah, and he called the people to their Lord, the Arabs almost crowded over him together (against him)." Qatadah said concerning Allah's statement,
 ## Personal Reflections
-
 

@@ -97,11 +97,5 @@ The word: الْحِكْمَةَ (al-hikmah) appearing in verse 38:20: وَآت�
 
 We strengthened his kingship and gave him wisdom and sound judgment.
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, he was ever oft-returning in all matters and in repentance (17)Verily, We made the mountains to glorify Our praises with him in the 'Ashi and Ishraq (18)And (so did) the birds assembled, all obedient to him (19)We made his kingdom strong and gave him Al-Hikmah and sound judgement in speech and decision .
-
-**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas, may Allah be pleased with him, As-Suddi and Ibn Zayd said, "Al-Ayd means strength." Mujahid said, "Al-Ayd means strength in obedience to Allah." Qatadah said, "Dawud, peace be upon him, was given strength in worship and the proper understanding of Islam." He told us that he, peace be upo… Mujahid and As-Suddi said, "It means passing the right judgement and understanding the case." Mujahi…
 ## Personal Reflections
-
 

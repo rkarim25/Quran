@@ -171,13 +171,5 @@ This verse carries a comprehensive statement of noble traits of character. Some 
 
 Be gracious, enjoin what is right, and turn away from those who act ignorantly.
 
-## AI Tafsir
-
-**Context:** (Show forgiveness) was only revealed about the peoples [bad] character." Under the comment on this verse Ibn Marduwaih has reported, on the authority of Sayyidna Sa'ad ibn ` Ubadah ؓ ، that this verse was revealed when,…
-
-**What this ayah teaches:** Show forgiveness, enjoin Al-'Urf (the good), and turn away from the foolish (don't punish them)(199)And if an evil whisper comes to you from Shaytan, then seek refuge with Allah. If he still insists on evil, becomes difficult and continues in his ignorance, then turn away from him, so that your ignoring him might avert his evilness.
-
-**Classical tafsir:** Ibn Kathir notes: If he still insists on evil, becomes difficult and continues in his ignorance, then turn away from him, so that your ignoring him might avert his evilness.
 ## Personal Reflections
-
 

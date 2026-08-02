@@ -302,13 +302,5 @@ Ends here
 
 O Prophet: when believing women come pledging that they will not associate anything with Allah in worship, nor steal, nor commit unlawful intimacy, nor kill their children, nor falsely attribute children to their husbands, nor disobey you in what is right—accept their pledge and ask Allah to forgive them. Allah is All-Forgiving, the Rahim—whose special mercy is for believers in the Akhirah.
 
-## AI Tafsir
-
-**What this ayah teaches:** When the believing women come to you pledging to you that they will not associate anything with Allah, and that they will not steal, and that they will not commit Zina, and that they will not kill their children, and that they will not utter slander, fabricating from between their hands and their feet, and that they will not disobey you in Ma'ruf (good), then accept their pledge, and ask Allah to…
-
-**Classical tafsir:** Ibn Kathir notes: This is because the Muslims in general are made to understand clearly that obedience to any creation in disobedience to Allah is absolutely forbidden, so much so that even obedience to the Holy Prophet ﷺ has been qualified by this condition.
-
-**From the Sunnah:** A Hadith collected from Samurah mentions that for the adulterers and fornicators there is a painful torment in the fire of Hell.
 ## Personal Reflections
-
 

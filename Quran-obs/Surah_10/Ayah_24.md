@@ -290,11 +290,5 @@ The Holy Prophet ﷺ has said: ` Allah Ta` ala hastens to repay mercy shown to r
 
 The life of this dunya is just like rain We send down from the sky, producing a mixture of plants which humans and animals consume. Then just as the earth looks its best, perfectly beautified, and its people think they have full control over it, there comes to it Our command by night or by day, so We mow it down as if it never flourished yesterday! This is how We make the signs clear for people who reflect.
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, the parable of the life of the world is as the water which We send down from the sky; so by it arises the intermingled produce of the earth of which men and cattle eat: until when the earth is clad in its adornments and is beautified, and its people think that they have all the powers of disposal over it, Our command reaches it by night or by day and We make it like a c…
-
-**Classical tafsir:** Ibn Kathir notes: Qatadah said: "As if it had not flourished; as if it was never blessed." Such are things after they perish, they are as if they had never existed.
 ## Personal Reflections
-
 

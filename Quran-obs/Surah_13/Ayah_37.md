@@ -181,13 +181,5 @@ In the verse: أَفَمَنْ هُوَ قَائِمٌ عَلَىٰ كُلِّ �
 
 We revealed it as an authority in Arabic. If you followed their desires after knowledge came to you, you would have no protector against Allah.
 
-## AI Tafsir
-
-**Context:** The Truthful Ones from among the People of the Scriptures rejoice at what Allah has revealed to Muhammad (ﷺ) (but there are among the Ahzab (Confederates) those who reject a part thereof.) meaning, 'There are those among…
-
-**What this ayah teaches:** Were you to follow their (vain) desires after the knowledge which has come to you, then you will not have any Wali (protector) or defender against Allah . Those to whom We have given the Book, rejoice at what has been revealed unto you, but there are among the Ahzab (Confederates) those who reject a part thereof.
-
-**Classical tafsir:** Ibn Kathir notes: Then, it was said that the real reason behind their unreasonable attitude is that shaitan has made their very ignorance look good in their sight and, therefore, this they take to be 'achievement' and 'success.'
 ## Personal Reflections
-
 

@@ -150,22 +150,5 @@ From this we also find out that the act of cursing is so grave that it has been 
 
 Those who reject and die while rejecting — upon them is the curse of Allah, the angels, and all people combined.
 
-## AI Tafsir
-
-**Essence**
-Those who reject the truth and die clinging to that rejection earn the combined curse of Allah, the angels, and all mankind — an exclusion from mercy that abides in the Fire, never lightened, never paused.
-
-**What it teaches**
-The decisive condition is dying "while they were disbelievers" (kuffar) — not disbelief at a passing moment, but disbelief carried unrepentant to the grave. The penalty is la'nah, which Maarif ul Quran defines as being driven away from the mercy of Allah. The curse is not partial: Allah, the angels, and humanity together (ajma'in) pronounce it, and it does not expire with death but endures in Jahannam, where the punishment is "neither lightened nor reprieved" — not tempered, in Ibn Kathir's words, "for even an hour."
-
-**The scholars**
-Ibn Kathir frames these verses (2:159-162) as a warning to those who conceal the clear signs after Allah made them plain — Abu Al-'Aliyah reports they "were revealed about the People of the Scripture who hid the description of Muhammad ﷺ." The concealer is cursed "by the cursers," which Abu Al-'Aliyah, Ar-Rabi' bin Anas, and Qatadah explain as the angels and the believers, while Mujahid adds that in drought even the animals say, "May Allah curse the sinners among the Children of Adam." On the ruling, Ibn Kathir records no disagreement that cursing disbelievers in general is lawful — 'Umar and the Imams after him did so in their Qunut — but on cursing a *specific* individual he lays out both sides: some forbid it "because we do not know how Allah will make his end," others permit it, citing the drinking-man report. Maarif takes the restrictive side (al-Jassas, al-Qurtubi): one may not curse a named infidel whose death in disbelief is uncertain; the Prophet ﷺ cursed some by name only because their dying state was revealed to him — and if it is withheld even toward an uncertain infidel, far more so toward a Muslim.
-
-**From the Sunnah**
-Concealing knowledge one is asked about brings a bridle of fire around the concealer's mouth on the Day of Resurrection — the very sin that opens these verses, and the fear of it moved Abu Hurayrah to narrate at all: "Whoever is asked about knowledge he has but hides it, a bridle of fire will be tied around his mouth on the Day of Resurrection." (Musnad; also Al-Bukhari for Abu Hurayrah's statement) And when a man repeatedly flogged for drinking was cursed by an onlooker, the Prophet ﷺ forbade it: "Do not curse him, for he loves Allah and His Messenger" — which, Ibn Kathir notes, the permitting side reads as implying a curse is allowed for one who lacks that love. (cited by Ibn Kathir)
-
-**Reflection**
-The same creation that begs forgiveness for the teacher turns to curse the one who hides what he knows. If even an uncertain infidel's name is spared because his end belongs to Allah alone, how much more should the tongue be guarded from condemning any named soul — and the heart most of all from leaving this world in denial, for the door of repentance closes only at death.
 ## Personal Reflections
-
 

@@ -102,11 +102,5 @@ The Fifth Characteristic
 
 It is certainly an evil place to settle and reside.”
 
-## AI Tafsir
-
-**What this ayah teaches:** This does not mean that they should walk like sick people, making a show of their humility, for the leader of the sons of Adam (the Prophet) used to walk as if he was coming downhill, and as if the earth were folded up beneath him.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

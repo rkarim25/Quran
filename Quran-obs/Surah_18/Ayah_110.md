@@ -246,15 +246,5 @@ End here.
 
 Say: I am only a human like you, to whom it has been revealed that your Allah is One Allah. Whoever hopes to meet his Rabb, let them do good deeds and associate none in worship with his Rabb.
 
-## AI Tafsir
-
-**Context:** Say: "I am only a man like you. It has been revealed to me that your Allah is One Allah. So whoever hopes for the meeting with his Lord, let him work righteousness and associate none as a partner in the worship of his Lord.
-
-**What this ayah teaches:** It has been revealed to me that your Allah is One Allah.
-
-**Classical tafsir:** Ibn Kathir notes: However, there are some other Sahih Ahadith which apparently seem to indicate otherwise.
-
-**From the Sunnah:** These are the two basic features of acceptable deeds: their intent is for the sake of Allah alone, and are done in accordance with the way of the Messenger of Allah ﷺ. the Messenger of Allah ﷺ said: (Musnad Ahmad)
 ## Personal Reflections
-
 

@@ -162,11 +162,5 @@ Commentary
 
 supply you with wealth and children, and give you gardens and rivers.
 
-## AI Tafsir
-
-**What this ayah teaches:** He will cause rivers to flow among these gardens.' This is the position of the invitation with encouragement.
-
-**Classical tafsir:** Ibn Kathir notes: This means that He will give you more wealth, more children and gardens with various types of fruits.
 ## Personal Reflections
-
 

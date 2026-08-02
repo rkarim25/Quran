@@ -144,13 +144,5 @@ Because some versions of the Tradition state that births, deaths and sustenance 
 
 There is no god worthy of worship except Him. He alone gives life and causes death. He is your Lord, and the Lord of your forefathers.
 
-## AI Tafsir
-
-**Context:** The statement that the Qur’ an was revealed in the Night of Power’ means that it was revealed in its entirety from the Preserved Tablet to the lowest Firmament in one night of the month of Ramadan.
-
-**What this ayah teaches:** We have already quoted the relevant Hadiths in (the Tafsir of) Surat Al-Baqarah, and there is no need to repeat them here.
-
-**Classical tafsir:** Ibn Kathir notes: Because some versions of the Tradition state that births, deaths and sustenance are decreed in the night of immunity or 15th night of Sha'ban, some of the scholars have interpreted the phrase 'laylah mubarakah' in the current verse as referring to 'laylat-ul-bara'ah' or 'the Nigh…
 ## Personal Reflections
-
 

@@ -243,22 +243,5 @@ However, some commentators cite similar events relating to other noble Companion
 
 Among people is one whose speech about worldly life impresses you, and he calls Allah to witness what is in his heart — yet he is your fiercest opponent.
 
-## AI Tafsir
-
-**Essence**
-There are people whose smooth speech impresses you and who swear by Allah to their sincerity, while their hearts conceal disbelief and their hostility runs deepest of all.
-
-**What it teaches**
-This ayah exposes the hypocrite (munafiq): his tongue is sweet and persuasive "in this worldly life," and he even calls Allah to witness over what is in his heart to appear sincere, yet he is *aladd al-khisam* — the fiercest, most stubborn of disputants. The word *Aladd* here literally means "wicked," and in this context means "quarrelsome." Such a man lies, alters the truth when he quarrels and does not care for it; rather, he deviates from the truth, deceives, and becomes most contentious.
-
-**The scholars**
-Ibn Kathir relates that As-Suddi tied these verses to Al-Akhnas bin Shariq Ath-Thaqafi, who came to the Messenger of Allah ﷺ professing Islam while his heart concealed otherwise; Ibn 'Abbas connected them to hypocrites who slandered Khubayb and his companions slain at Raji'. Qatadah, Mujahid, Ar-Rabi' bin Anas and others held the verses describe hypocrites and believers in general — which Ibn Kathir calls correct. Ibn Jarir related that Al-Qurazi reported the striking words of Nawf Al-Bikali, a reader of earlier scriptures, who found such people described there (Ibn Kathir grades Al-Qurazi's statement Hasan Sahih): "they use the religion to gain material benefit. Their tongues are sweeter than honey, but their hearts are more bitter than aloe. They show the people the appearance of sheep while their hearts hide the viciousness of wolves." On "he calls Allah to witness as to that which is in his heart," Ibn Kathir gives two grounded readings: that they pretend to be Muslims yet defy Allah by the disbelief their hearts conceal — for though they hide their crimes from men, they cannot hide them from Allah (4:108), reported from Ibn 'Abbas by Ibn Ishaq; and that they swear by Allah their hearts match their tongues — chosen by 'Abdur-Rahman bin Zayd bin Aslam and by Ibn Jarir, who related it to Ibn 'Abbas and Mujahid. Maarif ul Quran adds that this continues the prior verses' contrast between two kinds of supplicants: the sincere and the hypocritical.
-
-**From the Sunnah**
-The Prophet ﷺ named three signs of a hypocrite: when he speaks he lies, when he promises he breaks it, and when he disputes he is most quarrelsome — the very trait of *aladd al-khisam* in this ayah. (Sahih, as cited by Ibn Kathir) And Bukhari records via 'A'ishah that the most hated of men to Allah is the one who is *aladd* and *khasim*, the relentlessly contentious.
-
-**Reflection**
-Measure faith by what the heart conceals before Allah, not by how convincingly the tongue performs before people.
 ## Personal Reflections
-
 

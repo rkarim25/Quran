@@ -140,13 +140,5 @@ The text, after having confirmed the veracity of the glorious Qur'an and the nob
 
 Those who reject the truth and hinder from the Way of Allah have certainly strayed far away.
 
-## AI Tafsir
-
-**Context:** It has been narrated by Sayyidna Ibn ` Abbas ؓ عنہما that a group of Jews came to the Holy Prophet ﷺ . He said to them: Surely, you do know that I am a true messenger of Ajllah?
-
-**What this ayah teaches:** But if you disbelieve, then certainly to Allah belongs all that is in the heavens and the earth.
-
-**Classical tafsir:** Ibn Kathir notes: Verily, there has come to you the Messenger with the truth from your Lord, so believe in him, it is better for you.) This Ayah means, Muhammad ﷺ has come to you with guidance, the religion of truth and clear proof from Allah.
 ## Personal Reflections
-
 

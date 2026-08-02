@@ -169,11 +169,5 @@ A sermon should have high degree of eloquence
 
 Allah responded, “We will assist you with your brother and grant you both authority, so they cannot harm you. With Our signs, you and those who follow you will certainly prevail.”
 
-## AI Tafsir
-
-**What this ayah teaches:** This verse points out that a high degree of oratory and eloquence is desirable for sermons and preaching, and there is no harm if one takes training in that.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

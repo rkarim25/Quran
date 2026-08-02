@@ -292,13 +292,5 @@ In brief, the generality of the command to attend Salat-ul-Jumu’ ah is restric
 
 O believers: when the call to prayer is made on Friday, proceed diligently to the remembrance of Allah and leave off your trade. That is better for you, if only you knew.
 
-## AI Tafsir
-
-**What this ayah teaches:** When the Imam appears, the angels present themselves to listen to Allah's remembrance.) It is recommended that one cleans his body, performs Ghusl, wears his best clothes, applies perfume and uses Siwak (tooth stick) for Jumu'ah.
-
-**Classical tafsir:** Ibn Kathir notes: The verse under comment indicates that the bar on the activities of buying and selling after the adhan of Jumu’ ah needs to be implemented for particular purposes in such a way that the shops are closed at that particular time, so that all trading activities automatically come to…
-
-**From the Sunnah:** he heard Allah's Messenger ﷺ say, (Musnad Ahmad) This Hadith has various chains of narration, the compilers of the Four Sunan collected it, and At-Tirmidhi graded it Hasan. (Jami' at-Tirmidhi)
 ## Personal Reflections
-
 

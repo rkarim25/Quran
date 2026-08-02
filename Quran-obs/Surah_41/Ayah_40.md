@@ -225,13 +225,5 @@ He says that false interpretation of the Qur'an may be of two kinds. One, is an 
 
 Those who abuse Our revelations are not hidden from Us. Who is better: the one cast into the Fire or the one secure on Judgment Day? Do whatever you want—He is All-Seeing of what you do.
 
-## AI Tafsir
-
-**What this ayah teaches:** Is he who is cast into the Fire better or he who comes secure on the Day of Resurrection?
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, the scholars and jurisprudents have clarified that the rule mentioned above is subject to a condition that the interpretation in matters relating to the self-evident elements (Daruriyyat-ud-din) should not be against their definite (qat'i) meanings.
-
-**From the Sunnah:** the one who adheres to a wrong belief on the pretext of a different interpretation of the Qur'an and Sunnah) should not be declared to be a kafir or a Non-Muslim. (Sahih Muslim) Self-evident elements of religion (Daruriyyat-ud-din) are those injunctions and rules of Islam which are so continuously practiced, established, and well-known that even illiterate and ignorant Muslims are aware of them, such as the obligation of salah five ti…
 ## Personal Reflections
-
 

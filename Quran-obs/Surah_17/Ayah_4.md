@@ -185,13 +185,5 @@ The outcome of the events mentioned above is that Allah Ta’ ala had decreed th
 
 And We warned the Children of Israel in the Scripture, “You will certainly cause corruption in the land twice, and you will become extremely arrogant.
 
-## AI Tafsir
-
-**Context:** Allah tells us that He made a declaration to the Children of Israel in the Scripture, meaning that He had already told them in the Book which He revealed to them, that they would cause mischief on the earth twice, and wo…
-
-**What this ayah teaches:** Many Isra'iliyyat (reports from Jewish sources) were narrated about this, but I did not want to make this book too long by mentioning them, because some of them are fabricated, concocted by their heretics, and others may be true, but we have no need of them, praise be to Allah. Because of that blood, he killed seventy thousand of the believers and others, then the blood stopped boiling.
-
-**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas said, "Hasir here means a jail." Mujahid said, "They will be detained in it." Others said likewise.
 ## Personal Reflections
-
 

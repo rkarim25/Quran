@@ -160,11 +160,5 @@ A tradition has reported the Messenger of Allah saying that Allah has appointed 
 
 Let people consider what they were created from:
 
-## AI Tafsir
-
-**What this ayah teaches:** So, let man see from what he is created!)(6.
-
-**Classical tafsir:** Ibn Kathir notes: In the first sense, the word hafiz refers to the angels who record the deeds.
 ## Personal Reflections
-
 

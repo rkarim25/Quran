@@ -175,13 +175,5 @@ As for the use of the word: لِبَاس (libas: garment) to carry the sense of 
 
 And Allah sets forth the example of a society which was safe and at ease, receiving its provision in abundance from all directions. But its people met Allah’s favours with ingratitude, so Allah made them taste the clutches of hunger and fear for their misdeeds.
 
-## AI Tafsir
-
-**Context:** (So have Taqwa of Allah! O men of understanding who have believed, Allah has indeed revealed to you a reminder (this Qur'an). (And has also sent to you) a Messenger.)[65:10-11] and:
-
-**What this ayah teaches:** And Allah gives the example of a township (Makkah), it was secure and peaceful: its provision coming to it in abundance from every place, but it (its people) denied the favors of Allah. The Example of Makkah This example refers to the people of Makkah, which had been secure, peaceful and stable, a secure sanctuary while men were being snatched away from everywhere outside of it.
-
-**Classical tafsir:** Ibn Kathir notes: The Example of Makkah This example refers to the people of Makkah, which had been secure, peaceful and stable, a secure sanctuary while men were being snatched away from everywhere outside of it.
 ## Personal Reflections
-
 

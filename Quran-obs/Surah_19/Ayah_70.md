@@ -130,11 +130,5 @@ The word is applied to a particular person or the followers of a particular fait
 
 We know best who is most deserving of burning in it.
 
-## AI Tafsir
-
-**What this ayah teaches:** This means that He, the Exalted, created the human being while he was nothing. The word is applied to a particular person or the followers of a particular faith, and it also means a sect.
-
-**Classical tafsir:** Ibn Kathir notes: This means that He, the Exalted, created the human being while he was nothing.
 ## Personal Reflections
-
 

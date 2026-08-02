@@ -166,13 +166,5 @@ The last sentence وَ ھوَ یَتَوَلَّی اَلصَّلحِین "He he
 
 “Indeed, my Protector is Allah Who has revealed this Book. For He protects the righteous.
 
-## AI Tafsir
-
-**What this ayah teaches:** He is my protector, in this life and the Hereafter, and the protector of every righteous believer after me.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, if an object is this weak, how can it be worshipped and invoked for provisions and aid?
-
-**From the Sunnah:** The next sentence provides us with a general rule that Allah does not only help and protect His messengers, who have special favours of Allah, but also helps and protects all the Muslims who are righteous. Therefore, the opposition or hostility of any one does not harm a true Muslim in the real sense of the word. (Sahih Muslim)
 ## Personal Reflections
-
 

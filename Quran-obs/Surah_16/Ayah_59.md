@@ -171,11 +171,5 @@ The sense of the sentence: أَلَا سَاءَ مَا يَحْكُمُونَ (
 
 He hides himself from the people because of the bad news he has received. Should he keep her in disgrace, or bury her alive in the ground? Evil indeed is their judgment!
 
-## AI Tafsir
-
-**What this ayah teaches:** That their decision to take girls to be a punishment and a disgrace is by itself an evil decision; and (2) that the thing they would consider a matter of disgrace for their own selves, they would be too ready to attribute to Allah Ta’ ala.
-
-**Classical tafsir:** Ibn Kathir notes: And for themselves (they assign) what they desire (57)And when the news of (the birth of) a female (child) is brought to any of them, his face becomes dark, and he is filled with inner grief (58)He hides himself from the people because of the evil of what he has been informed.
 ## Personal Reflections
-
 

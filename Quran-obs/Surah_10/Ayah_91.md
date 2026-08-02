@@ -135,15 +135,5 @@ In short, when the soul is being drawn out and the certain knock of death is on,
 
 He was told, “Now you believe? But you always disobeyed and were one of the corruptors.
 
-## AI Tafsir
-
-**Context:** (and We made them leaders inviting to the Fire: and on the Day of Resurrection, they will not be helped.)(28:41) These facts about Fir'awn and his status at that time were among the secrets of the Unseen that Allah revea…
-
-**What this ayah teaches:** Therefore, nothing done at that time is acceptable, neither belief, nor disbelief. He wanted to sound strong before his chiefs, so he said: "The Children of Israel do not have more right in the sea." So they rushed into the sea.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, nothing done at that time is acceptable, neither belief, nor disbelief.
-
-**From the Sunnah:** Allah's Messenger ﷺ said; (Sunan Abi Dawud) "Hasan Gharib Sahih." About Allah's statement, (Jami' at-Tirmidhi)
 ## Personal Reflections
-
 

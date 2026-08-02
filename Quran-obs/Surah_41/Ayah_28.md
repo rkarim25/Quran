@@ -158,13 +158,5 @@ It is learnt from the above verse that making noises with the intention of creat
 
 That is the reward of Allah's enemies: the Fire, their eternal home—a fitting reward for their denial of Our revelations.
 
-## AI Tafsir
-
-**What this ayah teaches:** Therein will be for them the eternal home, a recompense for that they used to deny Our Ayat. And the Word is justified against them as it was justified against those who were among the previous generations of Jinn and men that had passed away before them.
-
-**Classical tafsir:** Ibn Kathir notes: And the Word is justified against them as it was justified against those who were among the previous generations of Jinn and men that had passed away before them.
-
-**From the Sunnah:** "And make noise in the midst of its (recitation)" means whistling and trying to make the Messenger of Allah ﷺ confused when he recited Qur'an, which is what the Quraysh did.
 ## Personal Reflections
-
 

@@ -489,15 +489,5 @@ Let there be no doubt at this point as to why the burden of a crime committed by
 
 It is not lawful for a believer to kill another except by mistake. And whoever kills a believer unintentionally must free a believing slave and pay blood-money to the victim’s family—unless they waive it charitably. But if the victim is a believer from a hostile people, then a believing slave must be freed. And if the victim is from a people bound with you in a treaty, then blood-money must be paid to the family along with freeing a believing slave. Those who are unable, let them fast two consecutive months—as a means of repentance to Allah. And Allah is All-Knowing, All-Wise.
 
-## AI Tafsir
-
-**Context:** (except by mistake). There is a difference of opinion concerning the reason behind revealing this part of the Ayah.
-
-**What this ayah teaches:** If the deceased belonged to a people at war with you and he was a believer, the freeing of a believing slave (is prescribed); and if he belonged to a people with whom you have a treaty of mutual alliance, then compensation (blood money) must be paid to his family, and a believing slave must be freed.
-
-**Classical tafsir:** Ibn Kathir notes: The former type requires three types of Diyah, just like intentional murder, because it is somewhat similar to intentional murder.
-
-**From the Sunnah:** When one commits any of these three offenses, it is not up to ordinary citizens to kill him or her, because this is the responsibility of the Muslim Leader or his deputy.
 ## Personal Reflections
-
 

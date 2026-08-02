@@ -96,11 +96,5 @@ Here the verse فَاتَّقُوا اللَّـهَ وَأَطِيعُونِ (S
 
 I do not ask you for any reward for this message. My reward is only from the Rabb of all worlds.
 
-## AI Tafsir
-
-**What this ayah teaches:** I convey the Messages of my Lord to you, and I do not add anything to them or take anything away from them.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, the righteous elders have ruled it as forbidden, but the later generations have allowed it under compelling circumstances.
 ## Personal Reflections
-
 

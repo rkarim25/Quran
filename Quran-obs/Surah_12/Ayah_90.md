@@ -157,11 +157,5 @@ Allah says, when Yusuf's brothers told him about the afflictions and hardship, a
 
 They replied in shock, “Are you really Joseph?” He said, “I am Joseph, and here is my brother Benjamin! Allah has truly been gracious to us. Surely whoever is living with taqwa toward Allah and patient, then certainly Allah never discounts the reward of the good-doers.”
 
-## AI Tafsir
-
-**What this ayah teaches:** He who has Taqwa, and is patient, then surely, Allah makes not the reward of the gooddoers to be lost. ` Surely, whoever fears Allah [ and abstains from sins ] and observes patience [ while in distress ], then Allah does not waste the reward of the good-doers [ like these ].'
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

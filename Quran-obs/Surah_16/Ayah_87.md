@@ -172,13 +172,5 @@ Finally, a note about the statement: سَرَ‌ابِيلَ تَقِيكُمُ 
 
 They will offer full submission to Allah on that Day, and whatever gods they fabricated will fail them.
 
-## AI Tafsir
-
-**Context:** Finally, a note about the statement: سَرَ‌ابِيلَ تَقِيكُمُ الْحَرَّ‌ (shirts which protect you from heat - 81). Here, protection from heat has been identified as the purpose of a shirt - though, a shirt protects one from…
-
-**What this ayah teaches:** Nay, it (the Fire) will come upon them all of a sudden and will perplex them, and they will have no power to avert it nor will they have any respite.)(21:39-40) The gods of the Idolators will disown Them at the Time when They need them most Then Allah tells us that their gods will disown them when they need them most.
-
-**Classical tafsir:** Ibn Kathir notes: Arabia is a hot country where the very thought of snow and winter chill is far-fetched, therefore, the statement was left with the mention of protection from heat as being sufficient.
 ## Personal Reflections
-
 

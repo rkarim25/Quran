@@ -176,13 +176,5 @@ Sayyidna Ibn ` Abbas says that the two 'shanks' refer to the two worlds: the Her
 
 and legs are bound together in the shroud.
 
-## AI Tafsir
-
-**What this ayah teaches:** This will become something witnessed by you with your own eyes.' If we consider the word "Kalla" to be a word of affirmation, then this would be the most obvious meaning. This means, 'you deserve to strut like this while you have disbelieved in your Creator and Maker.' This is what is commonly said in this type of situation in order to mock and intimidate (someone).
-
-**Classical tafsir:** Ibn Kathir notes: This means, 'you deserve to strut like this while you have disbelieved in your Creator and Maker.' This is what is commonly said in this type of situation in order to mock and intimidate (someone).
-
-**From the Sunnah:** this to Abu Jahl, then Allah, the Mighty and Sublime, revealed this Ayah.'
 ## Personal Reflections
-
 

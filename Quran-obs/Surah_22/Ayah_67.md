@@ -155,13 +155,5 @@ In verse 67 it has been averred that Allah Ta’ ala granted to the earlier nati
 
 For every community We appointed a code of life to follow. So do not let them dispute with you O Prophet in this matter. And invite all to your Rabb, for you are truly on the right guidance.
 
-## AI Tafsir
-
-**Context:** One interpretation of this verse is that the infidels used to engage the Muslims in futile arguments regarding the slaughter of animals.
-
-**What this ayah teaches:** For every nation We have made Mansak which they must follow; so let them not dispute with you on the matter, but invite them to your Lord. Surely, you are on straight Guidance - 22:67) in which the Holy Prophet ﷺ has been advised not to take any notice of the machinations and disputes raised by the infidels but to continue with his mission, because he was following the path of righteousness wherea…
-
-**Classical tafsir:** Ibn Kathir notes: A doubt and its answer In verse 67 it has been averred that Allah Ta’ ala granted to the earlier nations their own Shari` ah or set of rules, and the Mosaic Code and the Christian Code are instances in point.
 ## Personal Reflections
-
 

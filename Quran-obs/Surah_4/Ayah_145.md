@@ -144,13 +144,5 @@ A sincere person is one who acts for Allah alone and does not like that people p
 
 Surely the those living in nifaq—outward acceptance with inward rejection will be in the lowest depths of the Fire—and you will never find for them any helper— except those who repent, mend their ways, hold fast to Allah, and are sincere in their devotion to Allah; they will be with those who have iman. And Allah will grant those who have iman a great reward.
 
-## AI Tafsir
-
-**What this ayah teaches:** Do you wish to offer Allah a manifest Sultan against yourselves (144)Verily, the hyprocrites will be in the lowest depth (grade) of the Fire; no helper will you find for them (145)Except those who repent, do righteous good deeds, depend on Allah, and purify their religion for Allah, then they will be with the believers.
-
-**Classical tafsir:** Ibn Kathir notes: Since the inherent effect of such impending punishment generates a sense of fear in a good-natured person which usually becomes the reason for early repentance, therefore, exemption from punishment has been promised to those who repent alongwith the incentive of good reward for t…
-
-**From the Sunnah:** Ibn Abi Hatim recorded that when Ibn Mas'ud was asked about the hypocrites, he said, "They will be placed in coffins made of fire and they will be closed in them in the lowest depth of the Fire."
 ## Personal Reflections
-
 

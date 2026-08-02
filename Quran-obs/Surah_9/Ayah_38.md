@@ -249,15 +249,5 @@ The ` Aqa'id of Islam (articles of faith) are based on three principles: (1) Tau
 
 O you who have iman! What is the matter with you that when you are asked to march forth in the cause of Allah, you cling firmly to land? Do you prefer the life of this dunya over the Akhirah? The enjoyment of this worldly life is insignificant compared to that of the Akhirah.
 
-## AI Tafsir
-
-**Context:** But, destiny has its own workings. Is it not that Allah had already revealed about the blessed person of the Holy Prophet ﷺ .
-
-**What this ayah teaches:** Its treatment appears next when it was said: So, the enjoyment of the worldly life is but little as compared with the Hereafter - 38.
-
-**Classical tafsir:** Ibn Kathir notes: Tabuk is the name of a place located close to the Syrian border towards the north of Madinah.
-
-**From the Sunnah:** Allah admonishes those who lagged behind the Messenger of Allah ﷺ in the battle of Tabuk, at a time when fruits were ripe and shades tempting in the intense and terrible heat, Ath-Thawri narrated that Al-A'mash said about the Ayah, (Sahih Muslim)
 ## Personal Reflections
-
 

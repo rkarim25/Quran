@@ -81,13 +81,5 @@ It appears in Hadith that two men will be engaged in their activity of buying an
 
 They must be awaiting a single Blast, which will seize them while they are entrenched in worldly disputes.
 
-## AI Tafsir
-
-**What this ayah teaches:** While in this state, Allah will command Israfil to blow into the Trumpet, so he will sound a long note and there will be no one left on the face of the earth except he will tilt his head to listen to the sound coming from heaven.
-
-**Classical tafsir:** Ibn Kathir notes: And even if it were for finding out the true nature of the event, then, the mercy of the Lord of the universe requires that the full and precise knowledge of the year and day of the coming of Qiyamah should not be given to anyone, so much so that it was not given even to any one…
-
-**From the Sunnah:** The question of the those who reject the truth quoted here is the one they used to'-ask the Muslims by way of mockery, and the real purpose was to deny the Day of Judgment.
 ## Personal Reflections
-
 

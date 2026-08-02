@@ -126,13 +126,5 @@ And: مُّلَاقُو رَ‌بِّهِمْ (They are surely to meet their Lor
 
 O my people! I do not ask you for a payment for this message. My reward is only from Allah. And I will never dismiss the believers, for they will surely meet their Rabb. But I can see that you are a people acting ignorantly.
 
-## AI Tafsir
-
-**What this ayah teaches:** I ask of you no wealth for it, my reward is from none but Allah.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** They wanted the Prophet ﷺ to sit with them in a special gathering of the elite.
 ## Personal Reflections
-
 

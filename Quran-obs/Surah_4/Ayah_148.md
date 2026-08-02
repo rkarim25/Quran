@@ -126,11 +126,5 @@ A sincere person is one who acts for Allah alone and does not like that people p
 
 Allah does not like negative thoughts to be voiced—except by those who have been wronged. Allah is All-Hearing, All-Knowing.
 
-## AI Tafsir
-
-**What this ayah teaches:** And Allah is Ever All-Hearer, All-Knower (148)Whether you disclose a good deed or conceal it, or pardon an evil, verily, Allah is Ever Pardoning, All-Powerful .
-
-**Classical tafsir:** Ibn Kathir notes: Since the inherent effect of such impending punishment generates a sense of fear in a good-natured person which usually becomes the reason for early repentance, therefore, exemption from punishment has been promised to those who repent alongwith the incentive of good reward for t…
 ## Personal Reflections
-
 

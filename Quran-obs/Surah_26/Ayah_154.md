@@ -108,11 +108,5 @@ This verse indicates that nice vocations are Allah's Graces, and to draw benefit
 
 You are only a human being like us, so bring forth a sign if what you say is true.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, in this is indeed a sign, yet most of them are not believers (158)And verily, your Lord He is indeed the All-Mighty, the ar-Rahim . Therefore, the meaning of the verse is that Allah Ta’ ala has favoured you by teaching such skills that you could make houses by cutting hills.
-
-**Classical tafsir:** Ibn Kathir notes: Useful vocations are Divine Graces provided they are not employed in bad things This verse indicates that nice vocations are Allah's Graces, and to draw benefit from them is lawful.
 ## Personal Reflections
-
 

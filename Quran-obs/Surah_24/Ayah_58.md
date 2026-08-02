@@ -323,11 +323,5 @@ But Qur'an teaches for a pure society so that no one interferes in anyone's free
 
 O mu'mins! Let those bondspeople in your possession and those of you who are still under age ask for your permission to come in at three times: before dawn salah, when you take off your outer clothes at noon, and after the late evening salah. These are three times of privacy for you. Other than these times, there is no blame on you or them to move freely, attending to one another. This is how Allah makes the revelations clear to you, for Allah is All-Knowing, All-Wise.
 
-## AI Tafsir
-
-**What this ayah teaches:** Allah commanded the believers to ensure that their servants and their children who have not yet reached puberty should seek permission at three times: the first is before the Fajr prayer, because people are asleep in their beds at that time.
-
-**Classical tafsir:** Ibn Kathir notes: Abu Dawud recorded that Ibn 'Abbas said: "Most of the people do not follow it, the Ayah that speaks about asking permission, but I tell my servant woman to seek permission to enter." Abu Dawud said: 'Ata' also narrated that Ibn 'Abbas commanded this.
 ## Personal Reflections
-
 

@@ -234,13 +234,5 @@ Sayyidna Mu` adh ibn Jabal reports that the Holy Prophet ﷺ said: Allah Ta’ a
 
 And We gave Moses the Scripture and made it a guide for the Children of Israel, stating: “Do not take besides Me any other Trustee of Affairs,.
 
-## AI Tafsir
-
-**Context:** ("... other than Me as (your) Wakil") means, 'you have no protector, supporter or Allah besides Me,' because Allah revealed to every Prophet that he should worship Him alone with no partner or associate. Then Allah says:
-
-**What this ayah teaches:** After that, when he did tell people about it, the those who reject the truth of Makkah called it a lie and made fun of him, so much so that some neo-Muslims became apostates (murtadd) after hearing the news.
-
-**Classical tafsir:** Ibn Kathir notes: ) carries a hint in this direction because this word is used to register wonder or introduce a great marvel.
 ## Personal Reflections
-
 

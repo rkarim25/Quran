@@ -63,11 +63,5 @@ It is related in this verse that the disbelievers rejected the invitation of Say
 
 They argued, “How can we believe in you, when you are followed only by the lowest of the low?”
 
-## AI Tafsir
-
-**What this ayah teaches:** I am only a plain warner.) meaning, 'I have been sent as a warner, and whoever obeys me and follows me and believes in me, then he belongs to me and I to him, whether he is noble or common, upper-class or lower-class.' Hence, it was their ignorance to put the label of sordidness on his followers, because they did not know about their deeds and disposition.
-
-**Classical tafsir:** Ibn Kathir notes: Hence, it was their ignorance to put the label of sordidness on his followers, because they did not know about their deeds and disposition.
 ## Personal Reflections
-
 

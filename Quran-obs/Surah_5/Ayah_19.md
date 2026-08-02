@@ -208,13 +208,5 @@ With this in view, we can see that following the long gap when disbelief in and 
 
 O People of the Book! Our Messenger has indeed come to you, making things clear to you after an interval between the messengers so you do not say, “There has never come to us a deliverer of good news or a warner.” Now there has come to you a deliverer of good news and a warner. And Allah is Most Capable of everything.
 
-## AI Tafsir
-
-**What this ayah teaches:** It signifies the suspension of the coming of prophets for a certain interval of time which is the period of time in between Sayyidna ` Isa and the Last of the Prophets, Sayyidna Muhammad al-Mustafa ﷺ .
-
-**Classical tafsir:** Ibn Kathir notes: Qatadah said that this period was five hundred and sixty years, while Ma'mar said that it is five hundred and forty years. There is no contradiction here if we consider the fact that those who said that this period was six hundred years were talking about solar years, while the second refers to lunar years, since there is a difference of about three years between every one hundred lunar and solar ye…
-
-**From the Sunnah:** this opinion from Salman Al-Farisi.
 ## Personal Reflections
-
 

@@ -161,13 +161,5 @@ Commentary
 
 and to recite the Quran.” Then whoever chooses to be guided, it is only for their own good. But whoever chooses to stray, say, O Prophet, “I am only a warner.”
 
-## AI Tafsir
-
-**What this ayah teaches:** For instance, whoever takes refuge in Haram is secured.
-
-**Classical tafsir:** Ibn Kathir notes: Word Haram is derived from Tahrim, which means "to prohibit" and also means "complete respect and veneration", and because of this respect and veneration whatever special religious prohibitions are applicable to Makkah and its surrounding land are also included in it.
-
-**From the Sunnah:** It was recorded that Imam Ahmad, may Allah have mercy upon him, used to recite the following two lines of verse, whether they were written by him or someone else: "If you are alone one day, do not say, 'I am alone.' Rather say, 'Someone is watching me.' Do not… (Musnad Ahmad)
 ## Personal Reflections
-
 

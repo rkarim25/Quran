@@ -137,15 +137,5 @@ Juwaybir reported that Ad-Dahhak said, "When Allah sent the Qur'an down to His M
 
 Allah—there is none worthy of worship of worship except Him. He has the Most Beautiful Names.
 
-## AI Tafsir
-
-**Context:** Juwaybir reported that Ad-Dahhak said, "When Allah sent the Qur'an down to His Messenger ﷺ, he and his Companions adhered to it.
-
-**What this ayah teaches:** To Him belong the Best Names.) The Qur'an is a Reminder and a Revelation from Allah We have already discussed the separated letters at the beginning of Surah Al-Baqarah, so there is no need to repeat its discussion here.
-
-**Classical tafsir:** Ibn Kathir notes: To Him belongs the Best Names.) This means, 'He Who revealed this Qur'an to you (O Muhammad), He is Allah, there is no Allah except Him.
-
-**From the Sunnah:** He created the lofty heavens with their high altitudes and subtleties.' It has been reported in a Hadith, which At-Tirmidhi and others graded as authentic, that the density of each sky of the heavens is the distance of five hundred years travel and the distanc… (Jami' at-Tirmidhi)
 ## Personal Reflections
-
 

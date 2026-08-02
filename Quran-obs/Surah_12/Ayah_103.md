@@ -110,13 +110,5 @@ Since common people take the Knowledge of the Unseen (i1m al-Ghayb) only in the 
 
 And most people will not believe—no matter how keen you are—
 
-## AI Tafsir
-
-**What this ayah teaches:** Thereupon, said in the next verse was: And most of the people are not going to believe - even though, the proofs of his being a prophet were clear, and even if he himself longed for it, or tried his best.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, there is no way he could have known it in the manner he did except that it be Divine revelation itself.
-
-**From the Sunnah:** This is the reason why the Holy Prophet has informed the Muslim Ummah of many events due to happen right through the day of Qiyamah, either briefly, or in details. (Sahih Muslim)
 ## Personal Reflections
-
 

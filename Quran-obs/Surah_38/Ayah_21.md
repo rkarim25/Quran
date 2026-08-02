@@ -139,13 +139,5 @@ In the first verse (21), it was said: إِذْ تَسَوَّرُ‌وا الْ�
 
 Has the story of the two disputants who climbed over Dawud's sanctuary wall reached you?
 
-## AI Tafsir
-
-**What this ayah teaches:** Two Litigants In discussing this passage, the scholars of Tafsir mention a story which is mostly based upon Isra'iliyat narrations.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, no details have been given as to what that test was, and what was that slip he committed against which he sought forgiveness, something that Allah Ta'ala forgave him for.
-
-**From the Sunnah:** The evidence for it is the report recorded by Imam Ahmad from Ibn 'Abbas, may Allah be pleased with him, who said; "The prostration in Surah Sad is not one of the obligatory prostrations; I saw the Messenger of Allah ﷺ prostrating in this Surah." This was also… (Sahih al-Bukhari, Musnad Ahmad) he asked Mujahid about the prostration in Surah Sad. (Sahih al-Bukhari)
 ## Personal Reflections
-
 

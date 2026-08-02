@@ -155,11 +155,5 @@ According to some of the learned predecessors, this verse is a proof that man, b
 
 They will be veiled from their Rabb that Day,
 
-## AI Tafsir
-
-**What this ayah teaches:** The only thing that blocked their hearts from believing in it is the dark covering cast over it from the many sins and wrong they committed that has covered up their hearts.
-
-**Classical tafsir:** Ibn Kathir notes: Truly, the Record of the wicked is in Sijjin.) meaning, that their final destination and their abode will be in Sijjin, which is derived from the word prison (Sijn), and here it means straitened circumstances.
 ## Personal Reflections
-
 

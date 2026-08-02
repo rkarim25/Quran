@@ -55,11 +55,5 @@ Commentary
 
 And We certainly gave Moses the Scripture, so perhaps his people would be rightly guided.
 
-## AI Tafsir
-
-**What this ayah teaches:** Musa, Peace Be upon Him, And Fir'awn Allah tells us that He sent Musa, peace be upon him, and his brother Harun to Fir'awn and his chiefs with decisive evidence and definitive proof, but Fir'awn and his people were too arrogant to follow them and obey their commands because they were human beings, just as previous nations had denied the Message of the human Messengers.
-
-**Classical tafsir:** Ibn Kathir notes: Musa, Peace Be upon Him, And Fir'awn Allah tells us that He sent Musa, peace be upon him, and his brother Harun to Fir'awn and his chiefs with decisive evidence and definitive proof, but Fir'awn and his people were too arrogant to follow them and obey their commands because they…
 ## Personal Reflections
-
 

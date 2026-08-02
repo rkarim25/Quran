@@ -130,11 +130,5 @@ It has been said, "They were hoping for something better in exchange in this lif
 
 and it was reduced to ashes.
 
-## AI Tafsir
-
-**What this ayah teaches:** The word sarim means to harvest or to collect a crop from the fields'. The word sarim in the context of the verse is used in the sense of masrum or maqtu`, meaning 'harvested or cut'.
-
-**Classical tafsir:** Ibn Kathir notes: The word sarim means to harvest or to collect a crop from the fields'.
 ## Personal Reflections
-
 

@@ -93,13 +93,5 @@ The forthcoming verses address the people of the time of the Prophet Muhammad �
 
 By early morning an unrelenting torment overwhelmed them.
 
-## AI Tafsir
-
-**Context:** رَ‌اوَدُوهُ عَن ضَيْفِهِ (And they had even tried to tempt him against his guests...54:37). The word murawadah signifies to entice someone to satisfy one's lust.
-
-**What this ayah teaches:** And he indeed had warned them of Our punishment,) meaning, before the torment struck his people, he warned them of Allah's torment and punishment. The word murawadah signifies to entice someone to satisfy one's lust.
-
-**Classical tafsir:** Ibn Kathir notes: The word murawadah signifies to entice someone to satisfy one's lust.
 ## Personal Reflections
-
 

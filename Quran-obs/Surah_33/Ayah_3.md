@@ -85,13 +85,5 @@ The cited verse proves that, in religious matters, even consulting with disbelie
 
 And put your trust in Allah, for Allah is sufficient as a Trustee of Affairs.
 
-## AI Tafsir
-
-**Context:** (1. O Prophet! Have Taqwa of Allah, and obey not the those who reject the truth and the hypocrites. Verily, Allah is Ever All-Knower, All-Wise.)(2. And follow that which is revealed to you from your Lord.
-
-**What this ayah teaches:** And put your trust in Allah, and sufficient is Allah as a Trustee.) The Command to defy the those who reject the truth and Hypocrites by following the Revelation of Allah and putting One's Trust in Him Here Allah points out something lower by referring to something higher.
-
-**Classical tafsir:** Ibn Kathir notes: Verily, Allah is Well-Acquainted with what you do.)(3.
 ## Personal Reflections
-
 

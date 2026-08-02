@@ -146,17 +146,5 @@ In short, this is a matter in which hope and fear both are involved - there is t
 
 Seek help through sabr — steadfast endurance that keeps you upright — and through salah. It is heavy except for those who humble themselves before Allah,
 
-## AI Tafsir
-
-**Essence** When obedience grows heavy, Allah commands help through sabr and salah — a burden on all except al-khashi'in.
-
-**What it teaches** Sabr — fasting, by one report (Muqatil bin Hayan, with the like from Mujahid), or refraining from Allah's prohibitions, 'Umar's "better patience" (via Ibn Abi Hatim) — and salah are Allah's appointed means of help. "It is heavy": the prayer (Mujahid; Ibn Jarir's choice), or the whole counsel of patience and prayer (Ibn Kathir).
-
-**The scholars** Ibn Kathir: certainty of meeting and returning to Allah makes obedience easy. Ibn 'Abbas (via Ibn Abi Talhah): the khashi'in are "those who believe in what Allah has revealed."
-
-**From the Sunnah** It is related that the Prophet ﷺ said, "The Salah simply means self-abasement and humility" (Maarif ul Quran, no collection named). And in the Sahih, Allah will say to him who never thought he would meet Him: "This Day, I will forget you, just as you forgot Me" — requital in kind: abandonment, not a lapse in His knowledge.
-
-**Reflection** When prayer feels heavy, do not lighten the prayer — humble the heart that carries it.
 ## Personal Reflections
-
 

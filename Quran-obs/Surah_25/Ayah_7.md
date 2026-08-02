@@ -193,11 +193,5 @@ This is a clear proof of the fact that it is not a work of a human being. Otherw
 
 And they say mockingly, “What kind of messenger is this who eats food and goes about in market-places for a living? If only an angel had been sent down with him to be his co-warner,
 
-## AI Tafsir
-
-**What this ayah teaches:** What the those who reject the truth Said About the Messenger (ﷺ), Refutation of Their Words, and Their Ultimate Destiny Allah tells us about the those who reject the truth' stubborn resistance to and rejection of the truth, with no proof or evidence for doing so.
-
-**Classical tafsir:** Ibn Kathir notes: It almost bursts up with fury)(67:7-8), which means that parts of it almost separate from other parts because of its intense hatred towards those who disbelieved in Allah.
 ## Personal Reflections
-
 

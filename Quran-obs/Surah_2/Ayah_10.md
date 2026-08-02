@@ -154,17 +154,5 @@ The curse of telling lies
 
 There is sickness in their hearts, and Allah lets that sickness grow. A painful punishment awaits them for the lies they spread.
 
-## AI Tafsir
-
-**Essence** Hypocrisy is a heart-disease of doubt; Allah increases it as recompense for the sin — and the painful torment is earned by lying.
-
-**What it teaches** The increase is punishment fitting the sin, just as Allah increases the guided in guidance (47:17). The torment is tied to lying — the root habit, Maarif ul Quran observes, behind hypocrisy and disbelief; the Qur'an pairs lying with idolatry (22:30).
-
-**The scholars** Ibn 'Abbas, Ibn Mas'ud, Mujahid and Qatadah: the disease and its increase both mean doubt. 'Abdur-Rahman bin Zayd bin Aslam: "a disease in the religion, not a physical disease," its increase shameful behavior (9:125).
-
-**From the Sunnah** Allah disclosed to the Prophet ﷺ the fourteen who plotted against him at Tabuk, naming them to Hudhayfah bin Al-Yaman (hadith cited by Ibn Kathir, who adds the Prophet was not told of every hypocrite — 9:101). Over Ibn Salul he still prayed: "I was given the choice, so I chose" (the Sahih).
-
-**Reflection** Guard the tongue from every lie — truthfulness keeps the heart sound; falsehood feeds its disease.
 ## Personal Reflections
-
 

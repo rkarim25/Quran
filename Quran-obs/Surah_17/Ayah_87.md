@@ -79,15 +79,5 @@ We can now move to verse 86: وَلَئِن شِئْنَا لَنَذْهَبَ�
 
 had it not been for the mercy of your Rabb. Indeed, His favour upon you is immense.
 
-## AI Tafsir
-
-**Context:** And if We willed, We could surely take away that which We have revealed to you. Then you would find no protector for you against Us in that respect (86)Except as a mercy from your Lord.
-
-**What this ayah teaches:** If Allah willed, He could take away the Qur'an Allah mentions the blessing and great bounty that He has bestowed upon His servant and Messenger Muhammad ﷺ by revealing to Him the Noble Qur'an to which falsehood cannot come, from before it or behind it, (it is) sent down by the All-Wise, Worthy of all praise.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, getting entangled with unnecessary debates and investigations is a waste of precious time.
-
-**From the Sunnah:** It will be recollected that, in the previous verse (85), by giving an answer to the question about Ruh as true to the measure of its necessity, the underlying effort to find out the reality of the…
 ## Personal Reflections
-
 

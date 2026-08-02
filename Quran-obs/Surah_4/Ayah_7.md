@@ -242,15 +242,5 @@ It is likely that there are some relatives of the deceased who cannot receive a 
 
 For men there is a share in what their parents and close relatives leave, and for women there is a share in what their parents and close relatives leave—whether it is little or much. obligatory shares.
 
-## AI Tafsir
-
-**Context:** Inspite of what happened, the widow of Sayyidna Aws ibn Thabit ؓ still wanted that these cousins who had taken possession of the entire property left by her deceased husband might as well marry the two orphaned daughters…
-
-**What this ayah teaches:** But, this command is not obligatory; it is, rather, commendatory.
-
-**Classical tafsir:** Ibn Kathir notes: Ibn Jarir recorded that Ibn 'Abbas said that this Ayah still applies and should be implemented.
-
-**From the Sunnah:** this Ayah still applies and should be implemented. Other than these, the entire Muslim Ummah has been holding the belief, as clarified by the Qur'an and the Hadith, that the grandson will not inherit in the presence of a son of the deceased, irrespective of whether his father is dead or alive. (Sahih Muslim)
 ## Personal Reflections
-
 

@@ -128,15 +128,5 @@ Ends here
 
 Humanity as a whole is heading toward loss—squandering the one resource that never returns: the moments of a life that could have been lived with purpose.
 
-## AI Tafsir
-
-**Context:** They have mentioned that 'Amr bin Al-'As went to visit Musaylimah Al-Kadhdhab after the Messenger of Allah ﷺ was commissioned (as a Prophet) and before 'Amr had accepted Islam.
-
-**What this ayah teaches:** In this Surah, Allah swears an oath by the 'Time' and says that mankind is in a state of loss; exception, however, is made of people who are characterized by four qualities: [ 1] faith; [ 2] righteous deeds; [ 3] advising each other for Truth; and [ 4] advising each other for patience.
-
-**Classical tafsir:** Ibn Kathir notes: The term wasiyyah also refers to a 'will or testament' where a testator advises his executor regarding the disposal of his estate on his death.
-
-**From the Sunnah:** They have mentioned that 'Amr bin Al-'As went to visit Musaylimah Al-Kadhdhab after the Messenger of Allah ﷺ was commissioned (as a Prophet) and before 'Amr had accepted Islam.
 ## Personal Reflections
-
 

@@ -156,13 +156,5 @@ Jurists are all agreed that a promise is a debt and its fulfillment obligatory, 
 
 And mention Ishmael in the Book. He was true to his word—a messenger and prophet.
 
-## AI Tafsir
-
-**What this ayah teaches:** He (Isma'il) is the father of all of the Arabs of the Hijaz because he was true to what he promised.
-
-**Classical tafsir:** Ibn Kathir notes: He (Isma'il) is the father of all of the Arabs of the Hijaz because he was true to what he promised.
-
-**From the Sunnah:** Likewise, the Messenger of Allah ﷺ was true to his promise. Then, he commanded him to do so again, until he collected five hundred Dirhams.
 ## Personal Reflections
-
 

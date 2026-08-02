@@ -173,11 +173,5 @@ One can arrive at the station of leadership in religion only through sabr (patie
 
 Is it not clear to them how many peoples We destroyed before them, whose ruins they pass? In that are signs. Will they not listen?
 
-## AI Tafsir
-
-**What this ayah teaches:** Is it not a guidance for them: how many generations We have destroyed before them in whose dwellings they do walk about?
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

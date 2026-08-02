@@ -84,13 +84,5 @@ It is worth noting here that the magicians who had involved all their lives prac
 
 and said, “These outcasts are just a handful of people,
 
-## AI Tafsir
-
-**Context:** And We revealed to Musa, saying: "Depart by night with My servants, verily, you will be pursued. (52)Then Fir'awn sent callers to (all) the cities (53)(Saying): "Verily, these indeed are but a small band.
-
-**What this ayah teaches:** So Musa, peace be upon him, did as he was commanded by his Lord, may He be glorified, and he led them forth after they had borrowed an abundance of jewelry from the people of Fir'awn.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

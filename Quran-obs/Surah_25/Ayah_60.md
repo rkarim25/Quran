@@ -211,13 +211,5 @@ Then Allah rebukes the idolators who prostrate to idols and rivals instead of Al
 
 When it is said to them, “Prostrate to the the Rahman,” they ask in disgust, “What is ‘the the Rahman’? Will we prostrate to whatever you order us to?” And it only drives them farther away.
 
-## AI Tafsir
-
-**Context:** (Then He rose over (Istawa) the Throne. The ar-Rahman! Ask Him, as He is the All-Knower.) meaning, find out about Him from one who knows most about Him, and follow him and take him as your example.
-
-**What this ayah teaches:** What he says is true, and he is the leader whose decision counts; when there is a dispute, people are obliged to refer to him, and whatever is in accordance with his words and deeds is right, and whatever goes against them should be rejected no matter who says or does it.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

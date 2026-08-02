@@ -152,29 +152,5 @@ Immediately after the instruction of concealing the 'Sadaqat صداقات ', the
 
 To give charity openly is good, but to give privately to the poor is better and will absolve your sins. Allah is aware of what you do.
 
-## AI Tafsir
-
-**Essence**
-
-Giving charity openly is good, but giving it secretly to the poor is better — and Allah, who is aware of every deed, will wipe away part of your sins.
-
-**What it teaches**
-
-Sadaqat (acts of charity) given openly are praised — "it is well" — but giving them quietly to the fuqara' (the poor) is "better for you," because secrecy guards the heart from riya' (showing off). Allah promises that such giving will yukaffir (expiate, blot out) part of your sins, and He seals the ayah with His name al-Khabir — the One whose knowledge reaches the innermost, hidden realities of all you do.
-
-**The scholars**
-
-Ibn Kathir explains that concealing charity is better because it protects one from showing off and boasting; yet if there is an apparent wisdom in disclosing it — such as people imitating the righteous act — then disclosing becomes better. On "He will expiate some of your sins," he says this comes "in return for giving away charity, especially if it was concealed," so that no good deed escapes Allah's knowledge and reward. Maarif ul Quran (Mufti Shafi') notes the ayah covers all charity, obligatory or supererogatory, and that secrecy carries religious merit (far from riya', and more gracious to a receiver who feels shy) and worldly benefit (it does not expose one's wealth). It stresses, though, that this preference for secrecy is a matter of principle: openness can be more fitting for external reasons — to remove an accusation (e.g., of not paying Zakah) or to encourage others — without negating it. On the expiation, Maarif clarifies that public charity carries this benefit too; the verse mentions it here so that one who feels a secret gift "useless in this world" should not despair, for Allah's forgiveness is itself a great gain.
-
-**From the Sunnah**
-
-The Messenger of Allah ﷺ said: "He who utters aloud Qur'anic recitation is just like he who discloses charity acts. He who conceals Qur'anic recitation is just like he who conceals charity acts." (as cited by Ibn Kathir)
-
-And among the seven whom Allah will shade on the Day when there is no shade but His (understood as the shade of His Throne) is "a man who gives charitable gifts so secretly that his left hand does not know what his right hand has given." (The Two Sahihs — al-Bukhari and Muslim, from Abu Hurayrah)
-
-**Reflection**
-
-When you can, let your gift pass unseen — known only to you and to Allah. Nothing is lost in that silence: al-Khabir has already seen it, recorded it, and answered it with the lifting of your sins.
 ## Personal Reflections
-
 

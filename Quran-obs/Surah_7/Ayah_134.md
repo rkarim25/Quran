@@ -181,13 +181,5 @@ The people of Pharaoh were subjected to the above five punishments one after ano
 
 When tormented, they pleaded, “O Moses! Pray to your Rabb on our behalf, by virtue of the covenant He made with you. If you help remove this torment from us, we will certainly believe in you and let the Children of Israel go with you.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Invoke your Lord so that He will remove the locusts from us, and we will believe in you and release the Children of Israel to you.' Musa invoked his Lord, and He removed the locusts. They said to Musa, 'Invoke your Lord to release us from this rain, and we will believe in you and send the Children of Israel with you.' Musa invoked his Lord and He removed the affliction from them.
-
-**Classical tafsir:** Ibn Kathir notes: Mujahid said it is water that carries the plague every where. Al-Hasan and Sa'id bin Jubayr said that 'Qummal' are small black insects.
-
-**From the Sunnah:** They collected grains and kept them in their homes.
 ## Personal Reflections
-
 

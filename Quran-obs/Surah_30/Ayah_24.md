@@ -158,11 +158,5 @@ Allah Ta’ ala shows the flash of lightning to people in which there is risk of
 
 One of His signs: He shows you lightning, stirring hope and fear, and sends rain from the sky, reviving earth after death. In that are signs for people who understand.
 
-## AI Tafsir
-
-**What this ayah teaches:** Fifth sign of divine omnipotence Allah Ta’ ala shows the flash of lightning to people in which there is risk of its striking, thus destruction.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

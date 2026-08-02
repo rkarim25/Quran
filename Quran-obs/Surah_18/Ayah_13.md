@@ -166,13 +166,5 @@ The word: فِتْيَةٌ(fityah) in: إِنَّهُمْ فِتْيَةٌ (They
 
 We relate to you O Prophet their story in truth. They were youths who truly believed in their Rabb — the One who creates, owns, nurtures, and sustains, and We increased them in guidance.
 
-## AI Tafsir
-
-**What this ayah teaches:** According to Tafsir scholars, this word indicates that the time ripe for correction of deeds and morals, and the inculcation of guidance and righteousness, is invariably the time when one is young.
-
-**Classical tafsir:** Ibn Kathir notes: This indicates that this story was something recorded in the books of the People of the Book, and that it came before Christianity.
-
-**From the Sunnah:** As for the elders of Quraysh, most of them kept to their religion and only a few of them became Muslims. We have mentioned above the report from Ibn 'Abbas that the Quraysh sent a message to the Jewish rabbis in Al-Madinah to ask them for things with which they could test the Messenger of Allah ﷺ, and they told them to ask him about these young men, and about Dhu…
 ## Personal Reflections
-
 

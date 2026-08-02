@@ -159,11 +159,5 @@ But, some other narrations show that this statement will be made by Allah Ta’ 
 
 the Day all will appear before Allah. Nothing about them will be hidden. He will ask: "Who does all authority belong to this Day?" To Allah—the One, the Supreme!
 
-## AI Tafsir
-
-**What this ayah teaches:** He sends the revelation by His command to any of His servants He wills, that he may warn of the Day of Mutual Meeting (15)The Day when they will come out, nothing of them will be hidden from Allah.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, everyone will be in an open expanse, open to view.
 ## Personal Reflections
-
 

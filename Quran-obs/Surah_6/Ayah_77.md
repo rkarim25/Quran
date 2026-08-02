@@ -239,11 +239,5 @@ This debating style of Sayyidna Ibrahim (علیہ السلام) provides some im
 
 Then when he saw the moon rising, he said, “This one is my Rabb!” But when it disappeared, he said, “If my Rabb does not guide me, I will certainly be one of the misguided people.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Then, beaming at his people, he said: This is my Lord.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, you are in disarray and ignorance, and this fact is clear to all those who have sound reason.
 ## Personal Reflections
-
 

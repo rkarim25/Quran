@@ -134,15 +134,5 @@ But it was only an instinctive and physical fear, and the incident anyhow belong
 
 We said, "Go down from it, all of you. When guidance comes from Me, whoever follows it will have no fear and will not grieve."
 
-## AI Tafsir
-
-**Essence** Even as Adam descends, Allah opens the road home: guidance will come, and whoever follows it is safe in the end.
-
-**What it teaches** The descent carries a promise: huda — Allah's Books and Messengers — will reach Adam's offspring. Khawf is dread of coming harm; huzn, sorrow over loss; whoever follows revelation is freed of both in the final account.
-
-**The scholars** Ibn Kathir: Allah warned that He would reveal Books and send Prophets and Messengers; Abu Al-'Aliyah: al-huda is "the Prophets, Messengers, the clear signs and plain explanation" — no fear regarding the Hereafter, no grief over this world. Ibn 'Abbas, on its parallel (20:123): not "misguided in this life or miserable in the Hereafter." Maarif ul Quran: the post-pardon descent was vicegerency, an honour; the awliya' are freed of grief over worldly loss, while their awe of Allah and other-world anxiety run deeper than others'. It is reported the Prophet ﷺ often appeared worried — not for worldly loss, but from anxiety for his Ummah and awe before Divine Glory.
-
-**Reflection** Follow the guidance, and the heart's two tyrants — dread of tomorrow, grief over yesterday — lose their final word.
 ## Personal Reflections
-
 

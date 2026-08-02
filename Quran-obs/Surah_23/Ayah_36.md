@@ -82,11 +82,5 @@ An alternative explanation is that the word صَیحَہ (Cry) has been used in 
 
 Impossible, simply impossible is what you are promised!
 
-## AI Tafsir
-
-**What this ayah teaches:** Far, very far is that which you are promised!) meaning, very unlikely. It was said that this was 'Ad, because they were the successors of the people of Nuh.
-
-**Classical tafsir:** Ibn Kathir notes: It was said that this was 'Ad, because they were the successors of the people of Nuh.
 ## Personal Reflections
-
 

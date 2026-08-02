@@ -142,13 +142,5 @@ The Qur'an then goes on to say that it is from an assured and regular supply of 
 
 With it We produce for you gardens of palm trees and grapevines, in which there are abundant fruits, and from which you may eat,
 
-## AI Tafsir
-
-**What this ayah teaches:** Allah's Signs and Blessings in the Rain, Vegetation, Trees and Cattle Allah mentions His innumerable blessings to His servants, whereby He sends down rain in due measure, meaning, according to what is needed, not so much that it damages the lands and buildings, and not so little to be insufficient for crops and fruits, but whatever is needed for irrigation, drinking and other b…
-
-**Classical tafsir:** Ibn Kathir notes: The water brings the red soil which is used to irrigate the land of Egypt, and whatever of it is deposited is used for agriculture, because the land of Egypt is infertile, and most of it is sand.
-
-**From the Sunnah:** Abd bin Humayd recorded in his Musnad and Tafsir from 'Umar that the Messenger of Allah ﷺ said:
 ## Personal Reflections
-
 

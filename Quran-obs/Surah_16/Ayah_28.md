@@ -140,13 +140,5 @@ The essence of the answer given by the polytheists is that they simply refused t
 
 Those whose souls the angels seize while they wrong themselves will then offer full submission and say falsely, “We did not do any evil.” The angels will say, “No! Surely Allah fully knows what you used to do.
 
-## AI Tafsir
-
-**What this ayah teaches:** The Condition of the those who reject the truth during and after Death Allah informs us of the state of the idolators who are doing wrong to themselves when death approaches and the angels come to seize their evil souls. Those whose lives the angels take while they are doing wrong to themselves.
-
-**Classical tafsir:** Ibn Kathir notes: In the present verses, the text describes how they, not content with their own straying, tried that others should also go astray like them.
-
-**From the Sunnah:** Still others take one question to have been asked by the polytheists while the other by Muslims.
 ## Personal Reflections
-
 

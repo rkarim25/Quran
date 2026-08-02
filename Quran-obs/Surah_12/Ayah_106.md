@@ -111,13 +111,5 @@ After that, in verse 107, questioned and deplored is their heedlessness and igno
 
 And most of them do not believe in Allah without associating others with Him in worship.
 
-## AI Tafsir
-
-**What this ayah teaches:** And how many a sign in the heavens and the earth they pass by, while they are averse therefrom (105)And most of them believe not in Allah except that they attribute partners unto Him (106)Do they then feel secure from the coming against them of the covering veil of the torment of Allah, or of the coming against them of the (Final) Hour, all of a sudden while they perceive not .
-
-**Classical tafsir:** Ibn Kathir notes: Or that He may catch them in the midst of their going to and from, so that there be no escape for them (from Allah's punishment)?
-
-**From the Sunnah:** included under the sense of this verse are Muslims who, despite having 'Iman, are involved with different kinds of Shirk. (Sahih Muslim, Jami' at-Tirmidhi)
 ## Personal Reflections
-
 

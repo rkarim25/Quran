@@ -114,11 +114,5 @@ In the second sentence of the second verse (22), it was said: وَكَذَٰلِ
 
 And when he reached maturity, We gave him wisdom and knowledge. This is how We reward the good-doers.
 
-## AI Tafsir
-
-**What this ayah teaches:** And Allah has full power and control over His affairs, but most of men know not (21)And when he [Yusuf] attained his full manhood, We gave him wisdom and knowledge (the prophethood), thus We reward the doers of good . He also ordered his wife to be kind to Yusuf and had good hopes for his future, because of his firm righteous behavior.
-
-**Classical tafsir:** Ibn Kathir notes: He also ordered his wife to be kind to Yusuf and had good hopes for his future, because of his firm righteous behavior.
 ## Personal Reflections
-
 

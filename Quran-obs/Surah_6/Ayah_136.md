@@ -208,11 +208,5 @@ This is an admonition directed against the waywardness of the disbelievers of Ar
 
 The pagans set aside for Allah a share of the crops and cattle He created, saying, “This is for Allah,” so they claim, “and this for our associate-gods.” Yet the portion of their associate-gods is not shared with Allah while Allah’s portion is shared with their associate-gods. What unfair judgment!
 
-## AI Tafsir
-
-**What this ayah teaches:** And they assign to Allah a share of the tilth and cattle which He has created, and they say: "This is for Allah," according to their claim, "and this is for our partners." But the share of their "partners" reaches not Allah, while the share of Allah reaches their "partners"!
-
-**Classical tafsir:** Ibn Kathir notes: It means that their judgment is evil and crude because they are not realizing that it is Allah who created them and created everything that appears to belong to them, yet they go about equating others with Him, and to top it all, they find excuses to shift elsewhere what, accordi…
 ## Personal Reflections
-
 

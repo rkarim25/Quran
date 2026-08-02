@@ -156,11 +156,5 @@ All three verses cited above carry an affirmation of the veracity of the Qur'an 
 
 Allah created the heavens and the earth and everything between them in six days, then settled upon the Throne — the seat of His dominion. You have no protector or intercessor besides Him. Will you not then live with taqwa?
 
-## AI Tafsir
-
-**What this ayah teaches:** Allah it is He Who has created the heavens and the earth, and all that is between them in six Days.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

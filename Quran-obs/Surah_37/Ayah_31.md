@@ -125,11 +125,5 @@ When the leading elders among disbelievers who had misled their common adherents
 
 The decree of our Lord has come to pass against us all: we will certainly taste the punishment.
 
-## AI Tafsir
-
-**Context:** (I have been commanded to fight the people until they say La ilaha ill-Allah. Whoever says La ilaha illallah, he and his property are safe from me except for his obligation, and his reckoning will be with Allah, may He b…
-
-**What this ayah teaches:** And (they) said: "Are we going to abandon our gods for the sake of a mad poet?") meaning, 'Shall we stop worshipping our gods and the gods of our forefathers just because of the words of this mad poet?' – meaning the Messenger of Allah ﷺ.
 ## Personal Reflections
-
 

@@ -269,13 +269,5 @@ The answer to this question is that the unbelievers did not deny the existence o
 
 He is the One who sends down clear ayahs to His servant, to bring you out of darkness into light. Allah is truly Most Kind to you, the Rahim.
 
-## AI Tafsir
-
-**What this ayah teaches:** And verily, Allah is to you full of kindness, ar-Rahim (9)And what is the matter with you that you spend not in the cause of Allah?
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, O mankind, spend as Allah commanded you from the wealth that He entrusted to you for His obedience.
-
-**From the Sunnah:** And we have reported the Hadith through different routes in the beginning of the explanation on the chapter on Faith in Sahih Al-Bukhari, wherein one day the Messenger of Allah ﷺ said to his Companions, (Sahih al-Bukhari) Before Makkah was conquered, things were difficult for Muslims and only the righteous ones embraced Islam.
 ## Personal Reflections
-
 

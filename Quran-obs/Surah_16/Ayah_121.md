@@ -131,15 +131,5 @@ The word: اُمَّہ (ummah) has a few other meanings, but the well-known sens
 
 utterly showing shukr for Allah’s favours. So He chose him and guided him to the Sirat al-Mustaqim.
 
-## AI Tafsir
-
-**Context:** (Then, We have sent the revelation to you: "Follow the religion of Ibrahim (he was a) Hanif...) meaning, 'because of his perfection, greatness, and the soundness of his Tawhid and his way, We revealed to you, O Seal of t…
-
-**What this ayah teaches:** And in the second verse (121), by saying that he was grateful to Allah and was on the straight path, a warning signal was given to his adversaries who claimed to be his followers - how could they, being as ungrateful as they were, had the cheek to call themselves his adherents and followers?
-
-**Classical tafsir:** Ibn Kathir notes: Some commentators have taken exactly this meaning of the word at this place.
-
-**From the Sunnah:** Of course, the Jews, the Christians and the Muslims revere him.
 ## Personal Reflections
-
 

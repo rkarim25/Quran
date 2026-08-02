@@ -130,11 +130,5 @@ We have already discussed the significance of the separate letters.
 
 But it was Our Will to favour those who were oppressed in the land, making them models of iman as well as successors;
 
-## AI Tafsir
-
-**What this ayah teaches:** So Fir'awn took precautions against that happening, by ordering that all boys born to the Children of Israel should be killed, but this precaution did not protect him against the divine decree, because when the term of Allah comes, it cannot be delayed, and for each and every matter there is a decree from Allah. Verily, he was of the mischief-makers.)(5.
-
-**Classical tafsir:** Ibn Kathir notes: So Fir'awn took precautions against that happening, by ordering that all boys born to the Children of Israel should be killed, but this precaution did not protect him against the divine decree, because when the term of Allah comes, it cannot be delayed, and for each and every mat…
 ## Personal Reflections
-
 

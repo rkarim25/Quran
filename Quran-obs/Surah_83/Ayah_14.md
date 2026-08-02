@@ -159,11 +159,5 @@ sins has destroyed their innate capacity to distinguish right from wrong. Sayyid
 
 No—their hearts are stained by what they used to commit.
 
-## AI Tafsir
-
-**What this ayah teaches:** But on their hearts is the Ran (covering) which they used to earn (14)Nay!
-
-**Classical tafsir:** Ibn Kathir notes: Truly, the Record of the wicked is in Sijjin.) meaning, that their final destination and their abode will be in Sijjin, which is derived from the word prison (Sijn), and here it means straitened circumstances.
 ## Personal Reflections
-
 

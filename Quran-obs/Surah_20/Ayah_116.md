@@ -126,13 +126,5 @@ Al-Bukhari recorded that Abu Hurayrah said that the Prophet ﷺ said,
 
 And remember when We said to the angels, “Prostrate before Adam,” so they all did—but not Iblîs, who refused arrogantly.
 
-## AI Tafsir
-
-**What this ayah teaches:** In this story, Allah mentions the creation of Adam and that He commanded the angels to prostrate to Adam as a sign of honor and respect. He also explains the enmity of Iblis for the Children of Adam and for their father, Adam, before them.
-
-**Classical tafsir:** Ibn Kathir notes: Adam and Iblis Ibn Abi Hatim recorded that Ibn 'Abbas said, "Verily, man was named Insan only because he was given a covenant, but he forgot it (Nasiya)." 'Ali bin Abi Talhah reported the same from Ibn 'Abbas. He also explains the enmity of Iblis for the Children of Adam and for their father, Adam, before them.
-
-**From the Sunnah:** Ibn Abi Hatim recorded that Ibn 'Abbas said, "Verily, man was named Insan only because he was given a covenant, but he forgot it (Nasiya)." 'Ali bin Abi Talhah reported the same from Ibn 'Abbas.
 ## Personal Reflections
-
 

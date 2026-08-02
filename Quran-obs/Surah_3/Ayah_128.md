@@ -340,19 +340,5 @@ According to yet another story from the Sahih al-Bukhari, the Holy Prophet ﷺ h
 
 You have no say in the matter. It is up to Allah to turn to them in mercy or punish them, for indeed they are wrongdoers.
 
-## AI Tafsir
-
-**Essence** At the moment of His Prophet's deepest anguish on the field of Uhud â€” bloodied, a tooth broken â€” Allah reminds him that all final authority, over mercy and punishment alike, belongs to Allah alone.
-
-**What it teaches** The phrase *laysa laka min al-amri shay'* â€” "not for you is any part of the decision" â€” strips even the most beloved of Prophets of sovereign power over outcomes. The *amr* (decree, authority) in all its dimensions rests exclusively with Allah: whether the disbelievers receive tawbah (a returning to Allah in guided repentance) or 'adhab (punishment in this life and the next). The closing *fa-innahum zalimun* â€” "they are indeed wrongdoers" â€” establishes that even punishment, should it fall on them, is perfectly just; injustice cannot be attributed to Allah's decree.
-
-**The scholars** Ibn Kathir explains that the verse declares the matter of Allah's servants belongs entirely to Allah â€” drawing a direct line to parallel ayat such as "Your duty is only to convey, and on Us is the reckoning" (13:40) and "You guide not whom you love, but Allah guides whom He wills" (28:56). Muhammad ibn Ishaq reads the verse to mean the Prophet ï·º has no part in decisions concerning Allah's servants except what Allah Himself commands. Mufti Muhammad Shafi Usmani in Maarif ul Quran â€” drawing on the Bayan al-Quran of Maulana Ashraf Ali Thanawi on this point â€” stresses sabr (steadfast patience) and forbearance: the Prophet ï·º was being counseled not merely about theology but about emotional restraint in the face of devastating personal injury. Maarif further underscores that the wider passage teaches that the angels were not sent to Muslims to win the war for them; victory is from Allah alone, and Jihad exists so that believers may earn ranks in the Hereafter through their own striving.
-
-**From the Sunnah** Al-Bukhari recorded â€” via Hamid and Thabit from Anas ibn Malik â€” that the Prophet ï·º was injured at Uhud and said: "How can a people achieve success after having injured their Prophet?" Thereupon *laysa laka min al-amri shay'* was revealed. Imam Ahmad recorded a fuller narration from Anas: the Prophet's front tooth was broken and blood dripped down his face, and he said, "How can a people achieve success after having done this to their Prophet who is calling them to their Lord, the Exalted and Most Honored?" â€” and Muslim also collected this narration.
-
-**From the Sunnah** Al-Bukhari recorded that Salim ibn 'Abdullah said his father (Ibn 'Umar) heard the Prophet ï·º supplicate after rising from ruku' in the Fajr prayer: "O Allah! Curse so-and-so" â€” whereupon this ayah was revealed. Imam Ahmad's narration of the same chain specifies those cursed by name: Al-Harith ibn Hisham, Suhayl ibn 'Amr, and Safwan ibn Umayyah. All three later embraced Islam, pardoned by Allah â€” a living proof that tawbah belongs entirely to Allah alone.
-
-**Reflection** When grief or injustice tempts us to demand that Allah punish our enemies now, this ayah calls us back: release the outcome, hold to sabr, and trust that tawbah and 'adhab both move on a timeline only Allah controls.
 ## Personal Reflections
-
 

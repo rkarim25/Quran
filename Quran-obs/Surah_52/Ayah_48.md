@@ -180,13 +180,5 @@ On the authority of Sayyidna Abu Hurairah ؓ ، the Holy Prophet ﷺ is reported
 
 So endure with sabr your Rabb's decree. You are under Our watchful care. Glorify your Rabb when you rise,
 
-## AI Tafsir
-
-**What this ayah teaches:** At the conclusion of the chapter, the Qur'an says 'You are before Our eyes', that is, under Our care and We shall protect you from every evil.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** In his Sahih, Muslim recorded that 'Umar used to recite this supplication when he began Salah. (Sahih Muslim) Ahmad and the Sunan compilers recorded this Hadith from Abu Sa'id and other Companions, who stated that the Prophet ﷺ used to say that.
 ## Personal Reflections
-
 

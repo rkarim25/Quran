@@ -100,13 +100,5 @@ There are many verses of the Qur'an which contain warnings of punishment to the 
 
 then, my Rabb, do not count me among the wrongdoing people.”
 
-## AI Tafsir
-
-**What this ayah teaches:** And when Allah's wrath descends upon a people, it is not confined to sinners alone, but sometimes it afflicts virtuous people too, who may not be punished in the Hereafter and may even be compensated by extra rewards for the undeserved punishment which they suffered in this world.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** If You would show me that with which they are threatened.) meaning, 'if You punish them while I am witnessing that, then do not cause me to be one of them.' As was said in the Hadith recorded by Imam Ahmad and At-Tirmidhi, who graded it Sahih: (Musnad Ahmad, Jami' at-Tirmidhi) We have already stated, when discussing Isti'adhah (seeking refuge), that the Messenger of Allah ﷺ used to say,
 ## Personal Reflections
-
 

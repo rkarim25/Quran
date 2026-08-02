@@ -120,15 +120,5 @@ Ends here.
 
 So bear sabr — the promise of Allah is true. Do not be disturbed by those without sure iman.
 
-## AI Tafsir
-
-**Context:** It is revealed in this verse that the infidels will lie on the Day of Resurrection in their swearing that they did not stay in the world or barzakh for more than an hour.
-
-**What this ayah teaches:** Verily, the promise of Allah is true; and let not those who have no certainty of faith discourage you (from conveying Allah's Message).
-
-**Classical tafsir:** Ibn Kathir notes: It is probable that the stay referred to here is the stay in this world, because they spent the time in this world in comfort and ease.
-
-**From the Sunnah:** from a man among the Companions of the Prophet ﷺ that the Messenger of Allah ﷺ led them in Fajr prayer and recited Ar-Rum in the prayer, but he became confused in his recitation. (Musnad Ahmad) It contains amazing information, that the Prophet ﷺ was affected by the faulty Wudu' of some of those whom he was leading in prayer.
 ## Personal Reflections
-
 

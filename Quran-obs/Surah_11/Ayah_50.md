@@ -119,11 +119,5 @@ Three basic principles of the call of faith Sayyidna Hud (علیہ السلام)
 
 And to the people of ’Âd We sent their brother Hûd. He said, “O my people! Worship Allah. You have none other worthy of worship than Him. You do nothing but fabricate lies against Allah.
 
-## AI Tafsir
-
-**What this ayah teaches:** One: Belief in Tauhid (Oneness of Allah) and that taking some-one or something else worthy of worship other than Allah is nothing but a lie and fabrication.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

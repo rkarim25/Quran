@@ -132,15 +132,5 @@ Once the Arabs tapered down their use of camels for riding and transport purpose
 
 We never gave them scriptures to study, nor sent them any warner before you.
 
-## AI Tafsir
-
-**Context:** (And We had not given them Scriptures that they could study, nor sent to them before you any warner) meaning, Allah did not reveal any Book to the Arabs before the Qur'an, and He did not send any Prophet to them before M…
-
-**What this ayah teaches:** They used to wish for that and say, 'if only a warner comes to us or a Book is revealed to us, we would be more guided than others,' but when Allah blessed them with that, they disbelieved him and stubbornly rejected him.
-
-**Classical tafsir:** Ibn Kathir notes: but that did not protect them from the punishment of Allah, and Allah destroyed them because they denied His Messengers.
-
-**From the Sunnah:** Incidentally, what has been said here also helps remove that atheistic doubt usually dished out with reference to the Islamic injunctions of sacrifice saying that it is likely to affect the economy of Muslims adversely.
 ## Personal Reflections
-
 

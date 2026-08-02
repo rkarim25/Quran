@@ -155,11 +155,5 @@ In the present scientific age, experiments are being conducted in an effort to c
 
 O assembly of jinn and humans: If you can pass beyond the realms of the heavens and earth, then do so—but you cannot except by authority from Allah.
 
-## AI Tafsir
-
-**What this ayah teaches:** If the purpose of 'penetrating through the heavens and the earth' mentioned in the verse is to escape death, then it refers to this world and means: It is not within the power of any man or Jinns to cross the bounds of the heavens and the earth and escape death.
-
-**Classical tafsir:** Ibn Kathir notes: Mujahid said, "Molten brass poured over their heads." Qatadah held the same view. But he said that the scholars of Qur'anic recitation said that in this Ayah, the word recited is Nuhas.
 ## Personal Reflections
-
 

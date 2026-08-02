@@ -94,13 +94,5 @@ Other exegetes, like Qurtubi and others, interpret this to mean: 'the one who is
 
 So which of your Rabb's favours will you both—humans and jinn—deny?
 
-## AI Tafsir
-
-**What this ayah teaches:** The word 'fearful' signifies that he is mindful under all conditions, whether in public or in private, that one day he has to appear in the Court of Allah to give an account of his deeds.
-
-**Classical tafsir:** Ibn Kathir notes: This phrase refers to those fortunate believers who are, at all times, concerned about reckoning on the Day of Judgment and, as a result, keep away from all sorts of sins under all circumstances.
-
-**From the Sunnah:** The Group, with the exception of Abu Dawud, collected this via the Hadith of 'Abdul-'Aziz. (Sunan Abi Dawud)
 ## Personal Reflections
-
 

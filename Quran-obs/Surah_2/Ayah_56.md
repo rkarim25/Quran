@@ -91,19 +91,5 @@ This verse refers to death, which suggests that the thunderbolt had killed them.
 
 Then We revived you after your death, so that you might be grateful.
 
-## AI Tafsir
-
-**Essence**
-After striking the seventy elders dead for their audacious demand to see Allah openly, Allah — in a display of mercy and power — restored them to life, so that gratitude, not pride, would define their remaining days.
-
-**What it teaches**
-The word *ba'athnakum* — "We revived you" — announces a real, witnessed resurrection. Death was divine chastisement for presumption; the closing phrase *la'allakum tashkurun* — "so that you might be grateful" — frames the revival as an invitation: life returned is a gift demanding *shukr*, the recognition that existence, second chances, and guidance all belong to Allah alone.
-
-**The scholars**
-Ibn Kathir records As-Suddi: Musa wept and pleaded, "O Lord, what shall I say to the Children of Israel?" Allah then revealed that these seventy had worshipped the calf — their death was just. Allah brought them back one man at a time, while the rest watched. Ar-Rabi' ibn Anas and Qatadah said simply: death was their punishment; they were revived to complete their lives. Abdur-Rahman ibn Zayd narrates that even after being raised, the elders refused to accept the Tablets — a sobering portrait of hearts unmoved even by resurrection. Al-Qurtubi held that the resurrected remained fully accountable for the commandments, since witnessing calamity does not dissolve religious obligation. Maarif ul-Quran adds a different angle: Musa feared the Israelites would accuse him of having secretly killed the men; Allah's public revival vindicated him entirely.
-
-**Reflection**
-Every breath after a moment of ruin is not luck but mercy — accept it with *shukr*, not renewed defiance.
 ## Personal Reflections
-
 

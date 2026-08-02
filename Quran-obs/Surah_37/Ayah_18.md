@@ -100,11 +100,5 @@ In addition to that, it has been the customary practice of Allah Ta’ ala that,
 
 Say: "Yes! And you will be fully humbled."
 
-## AI Tafsir
-
-**What this ayah teaches:** And place after place in the Qur'an, the word: v i (ayat) has appeared in the sense of mu jizah or miracle. The Certainty of Life after Death Allah says: 'Ask these people, those who deny the resurrection, which is harder to create?
-
-**Classical tafsir:** Ibn Kathir notes: And place after place in the Qur'an, the word: v i (ayat) has appeared in the sense of mu jizah or miracle.
 ## Personal Reflections
-
 

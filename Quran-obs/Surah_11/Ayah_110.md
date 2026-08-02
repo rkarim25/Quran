@@ -153,13 +153,5 @@ During the Khilafah of Sayyidna ` Umar ibn ` Abd al-` Aziz (رح) ، someone was
 
 Indeed, We had given Moses the Scripture, but differences arose regarding it. Had it not been for a prior decree from your Rabb, their differences would have been settled at once. They are truly in alarming doubt about it.
 
-## AI Tafsir
-
-**What this ayah teaches:** And verily, We shall repay them in full their portion without diminution (109)Indeed, We gave the Book to Musa, but differences arose therein, and had it not been for a Word that had gone forth before from your Lord, the case would have been judged between them, and indeed they are in grave doubt concerning it (this Qur'an)(110)And verily, to each of them your Lord will repay their works in full.
-
-**Classical tafsir:** Ibn Kathir notes: Surely, He is All-Aware of what they do.) This means that He is All-Knower of all of their deeds.
-
-**From the Sunnah:** There is a consensus of the entire Muslim Ummah that doing so is strictly Haram (unlawful). (Sahih Muslim)
 ## Personal Reflections
-
 

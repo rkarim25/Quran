@@ -141,11 +141,5 @@ The word, ` sukun' appearing in verse 13: وَلَهُ مَا سَكَنَ فِ�
 
 To Him belongs whatever exists in the day and night. And He is the All-Hearing, All-Knowing.
 
-## AI Tafsir
-
-**What this ayah teaches:** Those who destroy themselves will not believe (12)And to Him belongs whatsoever exists in the night and the day, and He is the All-Hearing, the All-Knowing.
-
-**Classical tafsir:** Ibn Kathir notes: Or, it is also possible that the sense could be that of a combined state of stillness and movement (which would amount to saying - what tarries and what moves), but what was mentioned here is the state of sukun or rest only - because, movement which stands in contrast to it can b…
 ## Personal Reflections
-
 

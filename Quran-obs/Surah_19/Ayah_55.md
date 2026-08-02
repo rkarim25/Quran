@@ -140,13 +140,5 @@ Then why has a special mention been made of Sayyidna Ismail (علیہ السلا
 
 He used to urge his people to establish salah and give zakat. His Rabb was well pleased with him.
 
-## AI Tafsir
-
-**What this ayah teaches:** The most effective means for bringing about an improvement in the character of the people is by creating a religious environment.
-
-**Classical tafsir:** Ibn Kathir notes: He (Isma'il) is the father of all of the Arabs of the Hijaz because he was true to what he promised.
-
-**From the Sunnah:** Likewise, the Messenger of Allah ﷺ was true to his promise. Then, he commanded him to do so again, until he collected five hundred Dirhams.
 ## Personal Reflections
-
 

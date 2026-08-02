@@ -187,15 +187,5 @@ We learn from this verse that it is one of the obligatory duties of a Muslim to 
 
 When the truth came to them, they said: "This is magic, and we totally reject it."
 
-## AI Tafsir
-
-**Context:** (And they say) means, objecting to that which Allah has revealed to him, (Why is not this Qur'an sent down to some great man of the two towns?) meaning, why was this Qur'an not revealed to some man who was great and prom…
-
-**What this ayah teaches:** It is We Who portion out between them their livelihood in this world, and We raised some of them above others in ranks, so that some may employ others in their work.
-
-**Classical tafsir:** Ibn Kathir notes: Ibn Zayd said, "The word of Islam," which refers to the same thing suggested by the group.
-
-**From the Sunnah:** In as the Two Sahihs and elsewhere, it is reported that the Messenger of Allah ﷺ said: We learn from this verse that it is one of the obligatory duties of a Muslim to try his best to put his or her children on the path of the correct religion and to make them practice it throughout their lives. (Sahih Muslim)
 ## Personal Reflections
-
 

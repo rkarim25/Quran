@@ -282,27 +282,5 @@ The sentence وَدُّوا مَا عَنِتُّمْ ; (they want you to be in 
 
 O you who have iman! Do not associate closely with others who would not miss a chance to harm you. Their only desire is to see you suffer. Their prejudice has become evident from what they say—and what their hearts hide is far worse. We have made Our revelations clear to you, if only you understood.
 
-## AI Tafsir
-
-**Essence**
-
-O believers, do not draw into your inner circle, as trusted confidants, those hostile outsiders who will spare no effort to corrupt you and who long for your ruin.
-
-**What it teaches**
-
-The key word is *bitanah* — literally the lining of a garment that lies closest to the body, and so the intimate confidant who knows one's secrets and whose counsel one seeks. Allah forbids the believers from drawing such people — those hostile to the faith who seek the community's harm — into the inner circle where its secrets and plans are exposed. The ayah unmasks them: their hatred (*al-baghda*) has already slipped from their mouths, yet what their breasts conceal is *akbar* — far greater — and Allah closes with "if you understood" (*in kuntum ta'qilun*), making this a matter of plain reason for anyone of sound mind.
-
-**The scholars**
-
-Ibn Kathir explains that Allah forbids His believing servants from taking the hypocrites and followers of other religions as allies and advisors, "for advisors of a certain person have access to his most secret affairs," lest they convey those secrets to the enemy; their enmity shows on their faces and in what they utter, while their hearts hide worse. Maarif ul Quran, drawing on Lisan al-Arab, al-Raghib and al-Qurtubi, fixes *bitanah* as "one who knows his secrets and has access to his affairs in which he seeks his advice," and stresses the balance: Islam commands compassion, goodwill and tolerance toward non-Muslims — the Prophet ﷺ said whoever wrongs a Dhimmi or one protected by treaty, "I shall be his opponent on the Day of Judgment" (narrated by Ibn Mas'ud) — yet binding wisdom forbids handing the community's sensitive secrets to those hostile to its Law. Both works cite Umar ibn al-Khattab, who refused to appoint a skilled non-Muslim scribe of Hirah, saying, "I would then be taking advisors from among the disbelievers." Imam al-Qurtubi laments that abandoning this teaching — trusting outsiders with secrets and offices — has historically brought ruin upon the Muslims.
-
-**From the Sunnah**
-
-Narrated by Abu Sa'id, the Prophet ﷺ said: Allah has not sent any Prophet nor appointed any successor without two kinds of intimate advisors (*bitanah*): one that commands him to good and urges him to it, and one that commands him to evil and urges him to it — and protected is only the one whom Allah protects. (Al-Bukhari and An-Nasa'i)
-
-**Reflection**
-
-Choose your closest confidants from people of faith and sincerity, and guard what is sensitive — for the company you make your "lining" shapes the counsel you absorb and the secrets you keep safe.
 ## Personal Reflections
-
 

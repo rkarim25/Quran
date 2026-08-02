@@ -121,13 +121,5 @@ Muhammad bin Sirin said, "When Abu Hurayrah narrated this Hadith, he said, 'This
 
 They protested, “Who dared do this to our gods? It must be an evildoer!”
 
-## AI Tafsir
-
-**What this ayah teaches:** This was Ibrahim's ultimate purpose, so that he could tell this great gathering about the extent of their ignorance and how foolish they were to worship idols which could not defend themselves from harm or help themselves, so how could they ask them for help?
-
-**Classical tafsir:** Ibn Kathir notes: This was Ibrahim's ultimate purpose, so that he could tell this great gathering about the extent of their ignorance and how foolish they were to worship idols which could not defend themselves from harm or help themselves, so how could they ask them for help?
-
-**From the Sunnah:** In the Two Sahihs it was recorded from Abu Hurayrah that the Messenger of Allah ﷺ said:
 ## Personal Reflections
-
 

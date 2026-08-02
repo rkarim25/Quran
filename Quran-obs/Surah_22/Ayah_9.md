@@ -143,11 +143,5 @@ Allah has already told us about the ignorant imitators who are led astray:
 
 turning away in pride to lead others astray from Allah’s Way. They will suffer disgrace in this dunya — this temporary worldly life, and on the Day of Judgment We will make them taste the torment of burning.
 
-## AI Tafsir
-
-**What this ayah teaches:** For him there is disgrace in this worldly life, and on the Day of Resurrection We shall make him taste the torment of burning (9)That is because of what your hands have sent forth, and verily, Allah is not unjust to servants .
-
-**Classical tafsir:** Ibn Kathir notes: That is because of what your hands have sent forth,) means, this will be said to him by way of rebuke.
 ## Personal Reflections
-
 

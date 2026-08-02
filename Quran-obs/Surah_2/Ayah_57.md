@@ -150,17 +150,5 @@ Allah had commanded the Israelites to take as much of the miraculous food as the
 
 And We shaded you with clouds and sent down manna and quails: "Eat from the good things We provided." They did not wrong Us — they wronged themselves.
 
-## AI Tafsir
-
-**Essence** Allah shaded the wandering Children of Israel with clouds and fed them manna and quails — their ingratitude harmed only themselves.
-
-**What it teaches** Forty years in the Tih, they lived on pure gift: mann — often identified as honeydew, its name meaning "a gift or favour" — and salwa, quails caught with little effort. "Eat of the tayyibat" is gracious permission; zulm never touches Allah, only the soul that commits it.
-
-**The scholars** Ibn Kathir cites An-Nasai's report from Ibn 'Abbas: clouds shaded the wandering years. Qatadah: manna whiter than milk, sweeter than honey, fell like snow — one day's share each. Maarif ul-Quran: the Tih was the penalty for refusing jihad, yet Musa's (peace be upon him) prayer drew shade, food, water and light. Ibn Kathir contrasts the Companions' patient restraint at Tabuk.
-
-**From the Sunnah** "Kam'ah (truffles) is a type of manna, and its liquid is a remedy for the eyes." (Al-Bukhari)
-
-**Reflection** Gather today's share with gratitude; leave tomorrow to the Provider.
 ## Personal Reflections
-
 

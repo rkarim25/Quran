@@ -126,11 +126,5 @@ Though the noble Companions had not disobeyed any command given to them - in fac
 
 They argued with you about the truth after it was plain, as if they were being driven toward death while staring at it.
 
-## AI Tafsir
-
-**What this ayah teaches:** As your Lord caused you to go out from your home with the truth; and verily, a party among the believers disliked it (5)Disputing with you concerning the truth after it was made manifest, as if they were being driven to death, while they were looking (at it)(6)And (remember) when Allah promised you (Muslims) one of the two parties, that it should be yours; you wished that the one not armed should…
-
-**Classical tafsir:** Ibn Kathir notes: This is because the majority of the people with him then were the Ansar.
 ## Personal Reflections
-
 

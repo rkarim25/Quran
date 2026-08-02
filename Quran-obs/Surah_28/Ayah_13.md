@@ -147,11 +147,5 @@ There was only a short time between the distress and the way out, a day and nigh
 
 This is how We returned him to his mother so that her heart would be put at ease, and not grieve, and that she would know that Allah’s promise is always true. But most people do not know.
 
-## AI Tafsir
-
-**What this ayah teaches:** The intense Grief of Musa's Mother, and how He was returned to Her Allah tells us how, when her child was lost in the river, the heart of Musa's mother became empty, i.e., she could not think of any matter in this world except Musa.
-
-**Classical tafsir:** Ibn Kathir notes: Qatadah said: "She started to look at him as if she was not really interested." When Musa had settled into the house of Fir'awn, after the king's wife had begun to love him and asked Fir'awn not to kill him, they brought to him the wet nurses who were to be found in their household, and he did not a… It was decreed that no one should nurse him except his own mother, and Allah caused this to be the m…
 ## Personal Reflections
-
 

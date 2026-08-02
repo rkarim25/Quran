@@ -187,13 +187,5 @@ Allah's Fairness to Sinners
 
 They will say: Before this we used to stand in awe of Allah among our people.
 
-## AI Tafsir
-
-**What this ayah teaches:** And those who believe and whose offspring follow them in faith, – to them shall We join their offspring, and We shall not decrease the reward of their deeds in anything. The verse means that for upgrading the children of the believers who died in the state of true faith, no part of the reward of their parents will be diminished for them to make up for the children's deeds.
-
-**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas said that Laghw means 'falsehood' while Ta'thim means 'lying'.
-
-**From the Sunnah:** Ibn Abi Hatim also recorded that Ibn 'Abbas commented on Allah's statement, Paradise, while the idolators and their offspring will dwell in the Hellfire.
 ## Personal Reflections
-
 

@@ -162,11 +162,5 @@ Commentary
 
 He is the Originator of the heavens and the earth. He made for you spouses from among yourselves, and mates for cattle—multiplying you both. There is nothing like Him, for He alone is the All-Hearing, All-Seeing.
 
-## AI Tafsir
-
-**What this ayah teaches:** There is nothing like Him, and He is the All-Hearer, the All-Seer (11)To Him belong the keys of the heavens and the earth.
-
-**Classical tafsir:** Ibn Kathir notes: The direction in many verses to obey Rasulullah ﷺ and in some verses to obey those in authority does not contradict the above, because the orders of Rasulullah ﷺ and of the authorities are also, in a way, orders of Allah.
 ## Personal Reflections
-
 

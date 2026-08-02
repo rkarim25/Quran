@@ -217,31 +217,5 @@ Evidently this indicates if repentance ( توبہ Taubah) was not done by resolv
 
 If you do not, then take notice of war from Allah and His Messenger. If you repent, you may keep your principal — neither harming nor being harmed.
 
-## AI Tafsir
-
-**Essence**
-
-Abandon what remains of riba, or stand in declared war against Allah and His Messenger ﷺ. Repent, and you take back your capital alone — no more, no less.
-
-**What it teaches**
-
-After the command to give up riba (2:278), this verse names the consequence for refusal: harb — a notice of war "from Allah and His Messenger ﷺ." Yet the door of mercy stays open. If you make tawbah — repenting and resolving to leave riba — you take back only ru'us amwalikum, your principal capital: lā taẓlimūna wa lā tuẓlamūn — you wrong no one by demanding increase, and no one wrongs you by cutting your principal short.
-
-**The scholars**
-
-Ibn Kathir records the occasion: Bani 'Amr bin 'Umayr, a sub-tribe of Thaqif, demanded Jahiliyyah-era riba from Bani Al-Mughirah of Makhzum, who answered, "We do not pay Riba in Islam." 'Attab bin Usayd, the Prophet's deputy over Makkah, wrote to the Messenger of Allah ﷺ, and this verse came down.
-
-Two transmissions from Ibn 'Abbas gloss the "war." Through Ibn Jurayj, he read it as "Be sure of a war from Allah and His Messenger," adding that on the Day of Resurrection the riba-eater will be told, "take up arms for war." Through Ali bin Abi Talhah, he drew the worldly ruling on one who persists: the Muslim leader must require him to repent, and if he still refuses, "should cut off his head" — a sentence for the obstinate defiant, not for every debtor settling accounts.
-
-On "you shall have your capital sums," Ibn Kathir explains your principal neither grows nor shrinks — only what you lent returns. Maarif ul Quran stresses the gravity: no sin in the Qur'an, however great, draws so severe a threat save kufr. It reads the conditional "if you repent" strictly: only one who deems riba lawful (istihlal) apostatizes, forfeiting even his principal; and one who, without deeming it lawful, persists and takes up arms against the Islamic state is a rebel, his wealth held in the Baytul-Mal until he repents. The ordinary Muslim who takes riba knowing it forbidden remains a sinning believer.
-
-**From the Sunnah**
-
-In his Farewell Hajj the Prophet ﷺ annulled every case of Jahiliyyah riba, declaring that people would take back only their capital — "without increase or decrease" — and the first riba he cancelled was that of his own uncle, al-'Abbas bin 'Abdul-Muttalib. (Recorded by Ibn Abi Hatim, from 'Amr bin Al-Ahwas)
-
-**Reflection**
-
-Release the increase that was never truly yours, and rest in your principal — for the same justice that forbids you to wrong forbids that you be wronged.
 ## Personal Reflections
-
 

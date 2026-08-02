@@ -170,15 +170,5 @@ This is the subject of these oaths. It means that the Day of Judgment, Reckoning
 
 the mountains are blown away like dust,
 
-## AI Tafsir
-
-**Context:** (By the Mursalat.) was revealed to him. He was reciting it and I was learning it from his mouth. Verily, his mouth was moist with it when a snake leaped out at us. The Prophet ﷺ said,
-
-**What this ayah teaches:** And when the mountains are blown away.)(11. The third event to occur is that the mountains will be blown away as dust.
-
-**Classical tafsir:** Ibn Kathir notes: This means, what you all have been promised concerning the establishment of the Hour (Judgement Day), the blowing of the horn, the resurrection of the bodies, the gathering of those of old and those of latter times on one common ground and the rewarding of every doer of a deed ba…
-
-**From the Sunnah:** from Ibn 'Abbas, who reported from his mother that she heard the Prophet ﷺ reciting (Sahih Muslim, Musnad Ahmad) In a report from Malik on the authority of Ibn 'Abbas, he narrated that Umm Al-Fadl (his mother)…
 ## Personal Reflections
-
 

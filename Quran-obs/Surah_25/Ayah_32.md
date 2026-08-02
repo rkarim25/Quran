@@ -137,15 +137,5 @@ The sequence of objections by the infidels and polytheists and their answers, wh
 
 those who reject the truth say, “If only the Quran had been sent down to him all at once!” We have sent it as such in stages so We may reassure your heart with it. And We have revealed it at a deliberate pace.
 
-## AI Tafsir
-
-**Context:** And those who disbelieve say: "Why is not the Qur'an revealed to him all at once" Thus, that We may strengthen your heart thereby.
-
-**What this ayah teaches:** The wisdom of keeping the heart strong is not dependent on gradual revelations alone.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** Abu 'Abdur-Rahman An-Nasa'i recorded that Ibn 'Abbas said, "The Qur'an was sent down all at once to the first heaven on Laylatul-Qadr (the Night of Power), then it was revealed over twenty years." Allah says: (Sunan an-Nasa'i)
 ## Personal Reflections
-
 

@@ -159,11 +159,5 @@ Everyone knows that animals have not been obligated to observe the percepts of a
 
 Ask, “Imagine if you were overwhelmed by Allah’s torment or the Hour—would you call upon any other than Allah ? if your claims are true!
 
-## AI Tafsir
-
-**What this ayah teaches:** And We seized them with extreme poverty and loss of health so that they might believe with humility (42)When Our torment reached them, why then did they not believe with humility? To Him alone you call, and, if He willed, He would remove that (distress) for which you call upon Him, and you forget at that time whatever partners you joined with Him (in worship)(41)Verily, We sent (Messengers) to man…
-
-**Classical tafsir:** Ibn Kathir notes: And We seized them with extreme poverty and loss of health so that they might believe with humility (42)When Our torment reached them, why then did they not believe with humility?
 ## Personal Reflections
-
 

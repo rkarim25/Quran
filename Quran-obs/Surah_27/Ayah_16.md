@@ -179,13 +179,5 @@ The expression "speech of birds" is used in the verse because of the incident of
 
 And David was succeeded by Solomon, who said, “O people! We have been taught the language of birds, and been given everything we need. This is indeed a great privilege.”
 
-## AI Tafsir
-
-**What this ayah teaches:** He also knew the language of the birds and animals, which is something that had never been given to any other human being – as far as we know from what Allah and His Messenger ﷺ told us.
-
-**Classical tafsir:** Ibn Kathir notes: Here also it is used in that sense and "everything" refers to those things only which are needed by the government or an empire.
-
-**From the Sunnah:** Rather what is meant is the inheritance of kingship and prophethood, for the wealth of the Prophets cannot be inherited, as the Messenger of Allah ﷺ said: Grant me the power and ability that I may be grateful for Your favors which You have bestowed on me and on my parents, and that I may do righteous good deeds that will please You,) meaning: 'inspire me to give thanks for the blessings that You have bestowed up…
 ## Personal Reflections
-
 

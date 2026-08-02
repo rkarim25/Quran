@@ -101,13 +101,5 @@ It is worth noting here that the magicians who had involved all their lives prac
 
 And We inspired Moses, saying, “Leave with My servants at night, for you will surely be pursued.”
 
-## AI Tafsir
-
-**Context:** And We revealed to Musa, saying: "Depart by night with My servants, verily, you will be pursued. (52)Then Fir'awn sent callers to (all) the cities (53)(Saying): "Verily, these indeed are but a small band.
-
-**What this ayah teaches:** So Allah commanded Musa, peace be upon him, to take the Children of Israel out of Egypt by night, and take them wherever he would be commanded. The Exodus of the Children of Israel From Egypt After Musa stayed in Egypt for a long time, and the proof of Allah was established against Fir'awn and his chiefs, yet they were still arrogant and stubborn, then there was nothing left for them but punishmen…
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

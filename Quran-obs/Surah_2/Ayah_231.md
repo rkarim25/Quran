@@ -343,25 +343,5 @@ The third rule identified in this verse is: Should a man be left with no other o
 
 When you divorce women and they reach the end of their waiting period, either retain them honourably or release them honourably. Do not retain them to harm them or take advantage. Whoever does that wrongs himself. Do not treat Allah's signs lightly. Remember Allah's favours upon you and the Book and wisdom He sent for your guidance. Live with taqwa, and know that Allah has knowledge of all things.
 
-## AI Tafsir
-
-**Essence**
-When a divorce nears its end, a man must either keep his wife back in genuine kindness or release her with dignity — never hold her hostage to harm her, for trifling with Allah's laws of marriage wrongs only one's own soul.
-
-**What it teaches**
-Addressing a revocable divorce, Allah gives the husband two honourable paths — fa-amsikuhunna bi-ma'ruf (retain "in fairness," with witnesses and renewed good intent) or sarrihuhunna bi-ma'ruf (release "in fairness," without quarrel, foul words, or withholding her rights). To take her back as dirar — out of spite, to trap and prolong her 'iddah — is forbidden, and to treat Allah's ayat (His revealed laws) huzuwan, "in jest," is to mock the very Book and Hikmah (the Prophet's Sunnah) by which He counsels you — a grave act, not a verdict on any one person. The ayah seals it with taqwa and the truth that Allah is 'Alim of all things, including the secret intentions of the heart.
-
-**The scholars**
-Ibn Kathir explains this as a command to treat the reversibly divorced wife kindly: as her 'iddah nears its end he either takes her back in a better way — with witnesses — and lives with her in kindness, or lets her depart from his house without disputing or harsh words. He cites Ibn 'Abbas, Mujahid, Masruq, al-Hasan, Qatadah, ad-Dahhak, ar-Rabi' and Muqatil bin Hayyan that a man would take his wife back near the end of her 'iddah only to harm her and bar her from remarrying, then divorce her again to drag out her waiting period — a practice Allah prohibited and warned against with "he has wronged himself," i.e. by defying Allah's commandments. On "the verses in jest," al-Hasan, Qatadah, 'Ata' al-Khurasani, ar-Rabi' and Muqatil add it is the man who divorces, frees a servant, or marries and then claims "I was only joking" — and such men were made to bear the consequences. Ibn Kathir glosses Allah's "favours" as His sending the Messenger with guidance, the Book and al-Hikmah (the Sunnah), and "All-Aware" as nothing secret or public ever escaping His knowledge. Maarif ul Quran frames divorce as the dignified termination of a contract, not a "hotbed of enmity": fairness binds both retaining and releasing, the husband must not withhold the mahr or harass her, and behind every ruling Allah places the reminder to fear Him and remember the Hereafter — since even in this world the oppressor is often overtaken by the recoil of his own cruelty.
-
-**From the Sunnah**
-Toying with divorce — saying "I divorced her, I took her back" — is not how Muslims conduct divorce; divorce the woman when she has fulfilled the term of her prescribed period. (Ibn Jarir, from Abu Musa al-Ash'ari)
-
-**From the Sunnah**
-Three things take effect equally whether done seriously or in jest: divorce, the freeing of a slave, and marriage — so the plea of "I was only joking" is no valid excuse. (Ibn Marduwayh from Ibn al-'Abbas; Ibn al-Mundhir from 'Ubadah ibn al-Samit. A version from Abu Hurayrah lists marriage, divorce, and the revocation of divorce — Mazhari.)
-
-**Reflection**
-End every relationship the way you would want yours ended — with fairness, restraint, and the awareness that Allah sees the intention behind the act.
 ## Personal Reflections
-
 

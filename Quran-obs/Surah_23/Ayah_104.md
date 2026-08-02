@@ -100,11 +100,5 @@ Allah says that when the Trumpet is blown for the Resurrection, and the people r
 
 The Fire will burn their faces, leaving them deformed.
 
-## AI Tafsir
-
-**What this ayah teaches:** they are the successful (102)And those whose Scales (of good deeds) are light, they are those who lose themselves, in Hell will they abide (103)The Fire will burn their faces, and therein they will grin, with displaced lips (disfigured).
-
-**Classical tafsir:** Ibn Kathir notes: The word is used for a person whose lips do not meet and leave his teeth fully exposed, which looks very ugly.
 ## Personal Reflections
-
 

@@ -101,11 +101,5 @@ Because of this, some of the Salaf (predecessors) said, "No one in this life ple
 
 We called him from the right side of Mount Tur and drew him near for direct conversation.
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, he was Mukhlasan and he was a Messenger, (and) a Prophet (51)And We called him from the right side of the Mount (Tur), and made him draw near to Us for a talk with him (52)And We granted him his brother Harun, (also) a Prophet, out of Our mercy .
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

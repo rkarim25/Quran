@@ -85,11 +85,5 @@ It was also said that they asked for their share of Paradise to be hastened, if 
 
 Before them the people of Nuh denied the truth, as did 'Ad, Pharaoh of the mighty structures,
 
-## AI Tafsir
-
-**What this ayah teaches:** Ibn Jarir said, "They asked for whatever they deserved, good or bad, to be hastened for them in this world." What he said is good, and A-Dahhak and Isma'il bin Abi Khalid based their views on it.
-
-**Classical tafsir:** Ibn Kathir notes: Qitt refers to a book or record, or it was said that it means one's allotted share or fortune.
 ## Personal Reflections
-
 

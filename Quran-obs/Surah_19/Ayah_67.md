@@ -142,11 +142,5 @@ Many commentators, among them Mujahid, Ibn Zubair, Qatadah, and Ibn ` Abbas Ø“ Ø
 
 Do they not remember We created them before when they were nothing?
 
-## AI Tafsir
-
-**What this ayah teaches:** This means that He, the Exalted, created the human being while he was nothing.
-
-**Classical tafsir:** Ibn Kathir notes: This means that He, the Exalted, created the human being while he was nothing.
 ## Personal Reflections
-
 

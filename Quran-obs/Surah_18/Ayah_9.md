@@ -156,11 +156,5 @@ One major reason for differences existing among historians lies in the great imp
 
 Have you O Prophet thought that the people of the cave and the plaque were the only wonders of Our signs?
 
-## AI Tafsir
-
-**What this ayah teaches:** Qatadah, ` Atiyyah, ` Awfi and Mujhid have said that Raqim is the name of the valley adjoining the mountain in which the hollow cavern of the People of Kahf was located.
-
-**Classical tafsir:** Ibn Kathir notes: Ad-Dahhak said: "As for Al-Kahf, it is a cave in the valley, and Ar-Raqim is the name of the valley." Mujahid said, "Ar-Raqim refers to their buildings." Others said it refers to the valley in which their cave was.
 ## Personal Reflections
-
 

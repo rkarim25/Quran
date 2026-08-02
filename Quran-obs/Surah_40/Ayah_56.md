@@ -198,13 +198,5 @@ In verse 56, it was said: إِن فِي صُدُورِ‌هِمْ إِلَّا �
 
 Those who dispute Allah's ayahs with no proof given them have nothing in their hearts but greed for dominance, which they will never attain. So seek refuge in Allah. Indeed, He alone is All-Hearing, All-Seeing.
 
-## AI Tafsir
-
-**What this ayah teaches:** It means that people who quarrel in the matter of the verses of Allah without having any valid argument really look forward to rejecting this faith simply because their hearts are filled with pride and arrogance.
-
-**Classical tafsir:** Ibn Kathir notes: It means that people who quarrel in the matter of the verses of Allah without having any valid argument really look forward to rejecting this faith simply because their hearts are filled with pride and arrogance.
-
-**From the Sunnah:** They would like to stay ahead in the game and are so dim-witted that they have taken for granted that they have this position of strength as a result of their staunch adherence to their faith, and if they were to surrender this stance by becoming Muslims, they…
 ## Personal Reflections
-
 

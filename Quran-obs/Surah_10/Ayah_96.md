@@ -73,11 +73,5 @@ In the fourth (95), fifth (96) and sixth (97) verses, the same subject finds sup
 
 Indeed, those against whom Allah’s decree of torment is justified will not believe—
 
-## AI Tafsir
-
-**What this ayah teaches:** So be not of those who doubt (it)(94)And be not one of those who belie the Ayat of Allah, for then you shall be one of the losers (95)Truly, those, against whom the Word of your Lord has been justified, will not believe (96)Even if every sign should come to them, until they see the painful torment .
-
-**Classical tafsir:** Ibn Kathir notes: So be not of those who doubt (it)(94)And be not one of those who belie the Ayat of Allah, for then you shall be one of the losers (95)Truly, those, against whom the Word of your Lord has been justified, will not believe (96)Even if every sign should come to them, until they see t…
 ## Personal Reflections
-
 

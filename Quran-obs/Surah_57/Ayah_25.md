@@ -233,13 +233,5 @@ Another point of consideration here is that the Holy Qur'an has set forth two fa
 
 We sent Our messengers with clear proofs, and sent down with them the Scripture and the balance of justice, so people may uphold equity. We sent down iron, in which is great might and benefit for people, so Allah may know who supports Him and His messengers unseen. Allah is Strong, Almighty.
 
-## AI Tafsir
-
-**What this ayah teaches:** If the defiant group obdurately refuses to accept the parameters of justice and is left free to go about violating them, he will not allow justice to be established.
-
-**Classical tafsir:** Ibn Kathir notes: Surely Allah is Strong, Mighty (57:25) The word bayyinat means 'clear' or 'evident' things.
-
-**From the Sunnah:** Allah's Messenger ﷺ remained in Makkah for thirteen years. (Musnad Ahmad, Sunan Abi Dawud)
 ## Personal Reflections
-
 

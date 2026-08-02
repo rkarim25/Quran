@@ -195,17 +195,5 @@ They were also told that the earth would be a temporary dwelling-place for them,
 
 But Satan caused them to slip and removed them from the state they were in. We said, "Go down — some of you enemies to others. On earth you will have residence and provision for a fixed time."
 
-## AI Tafsir
-
-**Essence** One slip engineered by Shaytan ended Adam and Hawwa's bliss; by Allah's command they descended to earth — a dwelling (mustaqarr) and provision (mata') only "for a time."
-
-**What it teaches** Shaytan "made them slip" (azallahuma), yet the expulsion came under Allah's command — Satan was only an intermediary, with no power of his own.
-
-**The scholars** Ibn Kathir: the slip was from Paradise itself or "because of the tree" — Al-Hasan and Qatadah: "He tripped them." Maarif ul-Quran: if Shaytan is included in "some of you enemies of some," his enmity follows Adam's children to an earth with no real peace of mind.
-
-**From the Sunnah** Ibn Kathir relays from Ibn Abi Hatim: Adam ate, fled in shame, and Ar-Rahman called, "O Adam! Are you running away from Me?" — "No, O my Lord! But I am shy." And in the sahih: "Friday is the best day on which the sun has risen" — on it Allah created Adam, admitted him into Paradise, and expelled him from it (Muslim and An-Nasa'i).
-
-**Reflection** When you slip, do not flee from Allah — answer His call as Adam did, and live here as a traveler, only "for a time."
 ## Personal Reflections
-
 

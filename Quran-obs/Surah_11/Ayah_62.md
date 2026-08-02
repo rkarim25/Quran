@@ -136,11 +136,5 @@ As part of this event, the people of Sayyidna Salih (علیہ السلام) have
 
 They argued, “O Ṣâliḥ! We truly had high hopes in you before this. How dare you forbid us to worship what our forefathers had worshipped? We are certainly in alarming doubt about what you are inviting us to.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Do you (now) forbid us the worship of what our fathers have worshipped?
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

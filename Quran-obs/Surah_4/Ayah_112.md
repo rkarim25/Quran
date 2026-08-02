@@ -134,11 +134,5 @@ In the eighth verse (112), a general rule of conduct has been set forth. It stip
 
 And whoever commits an evil or sinful deed then blames it on an innocent person, they will definitely bear the guilt of slander and blatant sin.
 
-## AI Tafsir
-
-**What this ayah teaches:** The Encouragement to Seek Allah's Forgiveness, and Warning those who Falsely Accuse Innocent People Allah emphasizes His generosity and kindness, in that He forgives whoever repents to Him from whatever evil they commit.
-
-**Classical tafsir:** Ibn Kathir notes: The Encouragement to Seek Allah's Forgiveness, and Warning those who Falsely Accuse Innocent People Allah emphasizes His generosity and kindness, in that He forgives whoever repents to Him from whatever evil they commit.
 ## Personal Reflections
-
 

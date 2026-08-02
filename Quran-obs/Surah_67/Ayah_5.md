@@ -195,13 +195,5 @@ The statement '[ We ] have made them [ stars ] devices to stone the devils' prob
 
 We adorned the lowest heaven with lamps and made them missiles against eavesdropping devils, for whom We prepared the torment of the Blaze.
 
-## AI Tafsir
-
-**What this ayah teaches:** And indeed We have adorned the nearest heaven with lamps, and We have made such lamps (as) missiles to drive away the Shayatin, and have prepared for them the torment of the blazing Fire.) Glorification of Allah and mentioning the Creation of Death, Life, the Heavens and the Stars Allah the Exalted glorifies His Noble Self and informs that the dominion is in His Hand.
-
-**Classical tafsir:** Ibn Kathir notes: This Ayah means that He brought creation into existence from nothing in order to test the creatures.
-
-**From the Sunnah:** This Hadith was collected by At-Tirmidhi and the four Sunan Compilers. (Jami' at-Tirmidhi)
 ## Personal Reflections
-
 

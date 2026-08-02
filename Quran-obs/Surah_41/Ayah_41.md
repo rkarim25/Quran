@@ -112,11 +112,5 @@ The Punishment of the Deniers and the Description of the Qur'an
 
 Those who deny the Reminder after it has come to them are doomed—for it is truly a mighty Book.
 
-## AI Tafsir
-
-**What this ayah teaches:** - 41:41-42) Most Exegetes have stated that the ` advice' in this verse refers to the Qur'an, and the sentence "those who have rejected the advice when it came to them" is a complement of the former phrase "those who go crooked about Our verse" and hence, according to Arabic grammar, is subject to the same predicate, and thus the meaning is that these people cannot be hidden fro…
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

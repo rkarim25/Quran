@@ -98,11 +98,5 @@ There is a verse in Surah Al-Ma'arij which says that the day with your Lord will
 
 But those who strive to discredit Our revelations, they will be the residents of the Hellfire.”
 
-## AI Tafsir
-
-**What this ayah teaches:** The first meaning is that the verse refers to the Day of Resurrection and the events which will take place on that day will be so horrifying and of such extreme severity that the day will appear never to end, as if it was equal to one thousand years according to our reckoning.
-
-**Classical tafsir:** Ibn Kathir notes: The first meaning is that the verse refers to the Day of Resurrection and the events which will take place on that day will be so horrifying and of such extreme severity that the day will appear never to end, as if it was equal to one thousand years according to our reckoning.
 ## Personal Reflections
-
 

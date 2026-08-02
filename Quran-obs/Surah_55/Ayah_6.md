@@ -152,11 +152,5 @@ So we say, just as the believers among the Jinns said, "O Allah! None of Your fa
 
 The stars and trees bow in submission to His laws.
 
-## AI Tafsir
-
-**What this ayah teaches:** The word najm refers to the 'plants having no stem' and the word shajar refers to any 'tree' with stems or trunk, twigs and branches. In the current verse, the word sajdah refers to this type of 'obedience to Allah's laws in nature' where the natural objects have no choice.
-
-**Classical tafsir:** Ibn Kathir notes: Mujahid said, "An-Najm (the star); the one that is in the sky." Al-Hasan and Qatadah said similarly. Ibn Jurayj reported that Ibn 'Abbas said said Al-Akmam, means sheathed fruit stalks.
 ## Personal Reflections
-
 

@@ -82,13 +82,5 @@ so they were seized by the torment of the Day of Canopy. - 26:189
 
 This is certainly a revelation from the Rabb of all worlds,
 
-## AI Tafsir
-
-**Context:** Here Allah tells us about the Book which He revealed to His servant and Messenger Muhammad ﷺ. (In the plain Arabic language.) meaning, 'this Qur'an which We have revealed to you, We have revealed in perfect and eloquent…
-
-**What this ayah teaches:** And truly, this is a revelation from the Lord of all that exists (192)Which the trustworthy Ruh (Jibril) has brought down (193)Upon your heart that you may be (one) of the warners (194)In the plain Arabic language .
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

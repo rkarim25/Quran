@@ -41,11 +41,5 @@ It was said in verse أَثُمَّ إِذَا مَا وَقَعَ آمَنتُ�
 
 He is the One Who gives life and causes death, and to Him you will all be returned.
 
-## AI Tafsir
-
-**What this ayah teaches:** In Hadith, the Holy Prophet ﷺ has said, ` Allah Ta` ala keeps accepting the repentance of His servant until he is seized by the agony of death.' It means that believing and repenting at the time of the agony of death is not credible in the sight of Allah.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, the punishment was withdrawn.
 ## Personal Reflections
-
 

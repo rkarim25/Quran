@@ -123,11 +123,5 @@ And Allah says in this Ayah, after mentioning this argument of theirs:
 
 Has He taken angels as daughters from what He created, while favouring you pagans with sons?
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, man is indeed a manifest ingrate (15)Or has He taken daughters out of what He has created, and He has selected for you sons (16)And if one of them is informed of the news of that which he sets forth as a parable to the ar-Rahman, his face becomes dark, and he is filled with grief (17)A creature who is brought up in adornments, and who in dispute cannot make itself c…
-
-**Classical tafsir:** Ibn Kathir notes: They do nothing but lie!) Mujahid said, "They do not appreciate the power of Allah."
 ## Personal Reflections
-
 

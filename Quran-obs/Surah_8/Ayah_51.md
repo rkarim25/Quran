@@ -106,13 +106,5 @@ Addressing the disbelievers in the second verse (51), it was said that the punis
 
 That is for what your hands sent ahead. Allah is never unjust to His servants.
 
-## AI Tafsir
-
-**What this ayah teaches:** Addressing the those who reject the truth in the second verse (51), it was said that the punishment of this world and that of the Hereafter was nothing but what they had earned with their own hands. Since things done usually take their shape through the work of hands, therefore, mention was made of hands.
-
-**Classical tafsir:** Ibn Kathir notes: Addressing the those who reject the truth in the second verse (51), it was said that the punishment of this world and that of the Hereafter was nothing but what they had earned with their own hands.
-
-**From the Sunnah:** the Messenger of Allah ﷺ said; (Sahih Muslim)
 ## Personal Reflections
-
 

@@ -382,13 +382,5 @@ There are many people, educated but ignorant, visibly spread out in our contempo
 
 Also married women—except captives in your possession. This is Allah’s commandment to you. Lawful to you are all beyond these—as long as you seek them with your wealth in a legal marriage, not in fornication. Give those you have consummated marriage with their due dowries. It is permissible to be mutually gracious regarding the set dowry. Surely Allah is All-Knowing, All-Wise.
 
-## AI Tafsir
-
-**Context:** Imam Ahmad recorded that Abu Sa'id Al-Khudri said, "We captured some women from the area of Awtas who were already married, and we disliked having sexual relations with them because they already had husbands.
-
-**What this ayah teaches:** There are conditions and circumstances in married life when it is not possible for her to fulfill the rights of even one husband, let alone more than one husband seeking her physical attention.
-
-**Classical tafsir:** Ibn Kathir notes: Literally, it means 'flowing of water' and indicates to seeking ejaculation out of lust.
 ## Personal Reflections
-
 

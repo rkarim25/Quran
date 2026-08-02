@@ -356,13 +356,5 @@ Benefits of olive oil
 
 Allah is the Light of the heavens and the earth. His light is like a niche holding a lamp; the lamp is in a crystal, shining like a radiant star, lit from the oil of a blessed olive tree neither eastern nor western — whose oil nearly glows without fire touching it. Light upon light. Allah guides whom He wills to His light. He sets parables for humanity, for He knows all things.
 
-## AI Tafsir
-
-**What this ayah teaches:** The heart of the believer in its purity and clarity is likened to a lamp in transparent and jewel-like glass, and the Qur'an and Shari'ah by which it is guided are likened to good, pure, shining oil in which there is no impurity or deviation.
-
-**Classical tafsir:** Ibn Kathir notes: The second view is that the pronoun refers to the believer, which is indicated by the context of the words and implies that the parable of the light in the heart of the believer is as a niche.
-
-**From the Sunnah:** To You be praise, You are the Light of the heavens and the earth and whoever is in them.) It was narrated that Ibn Mas'ud said, "There is no night or day with your Lord; the Light of the Throne comes from the Light of His Face." Ibn Abi Hatim recorded that Ibn 'Abbas commented on:
 ## Personal Reflections
-
 

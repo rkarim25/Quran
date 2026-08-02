@@ -205,11 +205,5 @@ The word, ` sukun' appearing in verse 13: وَلَهُ مَا سَكَنَ فِ�
 
 Say, “Will I take any guardian other than Allah, the Originator of the heavens and the earth, Who provides for all and is not in need of provision?” Say, “I have been commanded to be the first to submit and not be one of the polytheists.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Allah is the Creator and the Sustainer Allah states that He is the King and Owner of the heavens and earth and all of what is in them, and that He has written mercy on His Most Honorable Self.
-
-**Classical tafsir:** Ibn Kathir notes: Or, it is also possible that the sense could be that of a combined state of stillness and movement (which would amount to saying - what tarries and what moves), but what was mentioned here is the state of sukun or rest only - because, movement which stands in contrast to it can b…
 ## Personal Reflections
-
 

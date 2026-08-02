@@ -90,11 +90,5 @@ The state of their dying has been expressed through the word: خَامِدُون
 
 Yet they will all be brought before Us.
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, they will not return to them (31)And surely, all – everyone of them will be brought before Us . And regarding the sending of punishment, it was said that Allah did not have to send an army of angels to seize these people - nor was it the way of Allah to send such an army, because just a single angel of Allah is enough to destroy the greatest, mightiest and the bravest of nations.
-
-**Classical tafsir:** Ibn Kathir notes: And regarding the sending of punishment, it was said that Allah did not have to send an army of angels to seize these people - nor was it the way of Allah to send such an army, because just a single angel of Allah is enough to destroy the greatest, mightiest and the bravest of na…
 ## Personal Reflections
-
 

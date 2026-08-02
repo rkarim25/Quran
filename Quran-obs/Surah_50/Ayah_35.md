@@ -119,13 +119,5 @@ The second part of the verse states: وَلَدَيْنَا مَزِيدٌ (and 
 
 There they will have whatever they desire, and with Us is even more.
 
-## AI Tafsir
-
-**What this ayah teaches:** In other words, the righteous will have whatever delights they wish brought forthwith without any delay.
-
-**Classical tafsir:** Ibn Kathir notes: In other words, the righteous will have whatever delights they wish brought forthwith without any delay.
-
-**From the Sunnah:** Paradise until Allah creates another creation and He, the Exalted, makes them dwell in the empty parts of Paradise. (Sahih Muslim)
 ## Personal Reflections
-
 

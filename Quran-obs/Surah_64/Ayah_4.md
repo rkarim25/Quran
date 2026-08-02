@@ -129,11 +129,5 @@ This is the last Surah among Al-Musabbihat. We mentioned before that all creatur
 
 He knows what is in the heavens and the earth, and what you conceal and what you reveal. Allah knows best what is hidden in the heart.
 
-## AI Tafsir
-
-**What this ayah teaches:** Whatsoever is in the heavens and whatsoever is on the earth glorifies Allah.
-
-**Classical tafsir:** Ibn Kathir notes: The human face is no more than six to seven square inches, and there are uncountable faces of the same type, and yet one face does not look exactly like the other one so that distinguishing one from the other would be difficult.
 ## Personal Reflections
-
 

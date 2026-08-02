@@ -373,13 +373,5 @@ The same rule applies to mosques, religious schools and institu-tions, khanqahs 
 
 It is not appropriate for a prophet to illegally withhold spoils of war. And whoever does so, it will be held against them on the Day of Judgment. Then every soul will be paid in full for what it has done, and none will be wronged.
 
-## AI Tafsir
-
-**Context:** (It is not for any Prophet to illegally take a part of the booty,) was revealed in connection with a red robe that was missing from the spoils of war of Badr.
-
-**What this ayah teaches:** This is also applied particularly to misappropriation in the spoils as the crime of stealing from the spoils is far more serious as compared to common thefts and filching since spoils belong to the whole Muslim army as a matter of right.
-
-**Classical tafsir:** Ibn Kathir notes: His abode is Hell, and worse indeed is that destination!)[3:162], This refers to those seeking what pleases Allah by obeying His legislation, thus earning His pleasure and tremendous rewards, while being saved from His severe torment.
 ## Personal Reflections
-
 

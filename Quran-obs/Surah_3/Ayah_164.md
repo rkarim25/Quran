@@ -380,13 +380,5 @@ What is new in the present verse is the statement: 'And Allah has surely conferr
 
 Indeed, Allah has done those who have iman a favour by raising a messenger from among them—reciting to them His revelations, purifying them, and teaching them the Book and wisdom. For indeed they had previously been clearly astray.
 
-## AI Tafsir
-
-**Context:** (It is not for any Prophet to illegally take a part of the booty,) was revealed in connection with a red robe that was missing from the spoils of war of Badr.
-
-**What this ayah teaches:** And in Allah (Alone) let believers put their trust (160)It is not for any Prophet to illegally take a part of the booty, and whosoever deceives his companions over the booty, he shall bring forth on the Day of Resurrection that which he took.
-
-**Classical tafsir:** Ibn Kathir notes: His abode is Hell, and worse indeed is that destination!)[3:162], This refers to those seeking what pleases Allah by obeying His legislation, thus earning His pleasure and tremendous rewards, while being saved from His severe torment.
 ## Personal Reflections
-
 

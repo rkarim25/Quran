@@ -191,17 +191,5 @@ This verse shows the basic weakness of the Jews which did not allow them to acce
 
 You will find them clinging to life more eagerly than any other people — even more than those who associate partners with Allah. Each of them wishes to live a thousand years, but even that would not save them from punishment. Allah sees everything they do.
 
-## AI Tafsir
-
-**Essence** Their craving for a thousand more years is a confession: clinging to life betrays what awaits them — and no span of years is a muzahzih, a remover of the punishment.
-
-**What it teaches** Allah names them ahras al-nas, greediest of mankind for life — beyond even the resurrection-denying polytheists — and Allah is Basir, All-Seeing of what they do.
-
-**The scholars** Ibn Kathir: they crave longevity because "they know their evil end"; long life will avail them no more than it availed Iblis (Ibn Zayd). Maarif ul-Quran: no surprise in polytheists who denied the Hereafter — but these claimed Paradise as theirs alone, and their dread of death exposes the hollow claim.
-
-**From the Sunnah** "Had the Jews wished for death, they would have died and seen their seats in the Fire" (Ibn Jarir's Tafsir via Ibn Kathir — a report without a full chain).
-
-**Reflection** Do not make long life a shield against meeting Allah — live each granted day so death finds you ready.
 ## Personal Reflections
-
 

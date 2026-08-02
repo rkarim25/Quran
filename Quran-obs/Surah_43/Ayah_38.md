@@ -179,13 +179,5 @@ We learn from this that the punishment one gets even in this world for turning a
 
 But when such a person comes to Us, one will say to their associate: "I wish you were as distant from me as the east is from the west! What an evil associate you were!"
 
-## AI Tafsir
-
-**Context:** And whosoever Ya'shu (turns away blindly) from the remembrance of the ar-Rahman, We appoint for him Shaytan to be a Qarin (a companion) to him (36)And verily, they hinder them from the path, but they think that they…
-
-**What this ayah teaches:** This devil who is assigned to such a person, as mentioned here, is in addition to the 'Shaitan' (Satan) who is attached to every believer and those who reject the truth, because that 'shaitan' (Shaitan) does leave the man alone at certain specific times, whereas this devil accompanies him all the time.
-
-**Classical tafsir:** Ibn Kathir notes: This means that it is an honor for them in that it was revealed in their language, so they are the people who have the best understanding of it among mankind and hence are obliged to be the most steadfast in adhering to its commandments.
 ## Personal Reflections
-
 

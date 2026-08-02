@@ -151,11 +151,5 @@ To sum up, it can be said that taking the birth of a girl to be bad is a detesta
 
 They attribute to Allah what they hate for themselves, and their tongues utter the lie that they will have the finest reward. Without a doubt, for them is the Fire, where they will be abandoned.
 
-## AI Tafsir
-
-**What this ayah teaches:** No doubt the Fire is for them, and they will be forsaken .
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

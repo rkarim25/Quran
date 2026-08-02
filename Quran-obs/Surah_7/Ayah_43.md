@@ -243,13 +243,5 @@ Imam Raghib al-Isfahani (رح) ، who has explained Hidayah or guidance in a com
 
 We will remove whatever bitterness they had in their hearts. Rivers will flow under their feet. And they will say, “Praise be to Allah for guiding us to this. We would have never been guided if Allah had not guided us. The messengers of our Rabb had certainly come with the truth.” It will be announced to them, “This is Paradise awarded to you for what you used to do.”
 
-## AI Tafsir
-
-**What this ayah teaches:** They will drink from one of them, and all hatred will be removed from their hearts, for it is the cleansing drink.
-
-**Classical tafsir:** Ibn Kathir notes: The purpose is to emphasize that good deeds - which is a condition for entry into Paradise - is really not something so difficult as would be beyond the ability of a man or woman.
-
-**From the Sunnah:** Paradise that belonged to the people of the Fire, they will be told, "This is the Paradise that you inherited because of what you used to do. Instead of that, in accordance with a Hadith in al-Bukhari and Muslim, this payment will be made in the currency of deeds. (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
-
 

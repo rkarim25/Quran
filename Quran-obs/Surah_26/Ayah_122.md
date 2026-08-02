@@ -74,11 +74,5 @@ It is related in this verse that the disbelievers rejected the invitation of Say
 
 And your Rabb is certainly the Almighty, the Rahim.
 
-## AI Tafsir
-
-**What this ayah teaches:** And verily your Lord, He is indeed the All-Mighty, the ar-Rahim.)
-
-**Classical tafsir:** Ibn Kathir notes: Hence, it was their ignorance to put the label of sordidness on his followers, because they did not know about their deeds and disposition.
 ## Personal Reflections
-
 

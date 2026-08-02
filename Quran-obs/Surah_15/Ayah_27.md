@@ -100,11 +100,5 @@ What is apparent here is that real merit does lie in praying in the first row - 
 
 As for the jinn, We created them earlier from smokeless fire.
 
-## AI Tafsir
-
-**What this ayah teaches:** He said: 'This smokeless flame is one of the seventy parts of the smokeless fire from which the Jinn where created.
-
-**Classical tafsir:** Ibn Kathir notes: The Substances from which Mankind and Jinns were created Ibn 'Abbas, Mujahid and Qatadah said that Salsal means dry mud. They can be accommodated all in one because the all-encompassing knowledge of Allah Ta` ala covers all kinds of people 'who go ahead' or 'remain behind.' In his Tafsir, Al-Qurtubi has said that this verse indicates the merit of performing Salah in the first row, and soon after th…
 ## Personal Reflections
-
 

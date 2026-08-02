@@ -155,11 +155,5 @@ The word shatat means 'vile words, extravagant or exorbitant or enormous lies'. 
 
 The foolish among us used to speak outrageous falsehoods about Allah.
 
-## AI Tafsir
-
-**Context:** (1. Say: "It has been revealed to me that a group of Jinn listened. They said: 'Verily, we have heard a wonderful Recitation!')(2.
-
-**What this ayah teaches:** 'And that the foolish among us used to utter against Allah that which was an enormity in falsehood.')(5. The believers from amongst Jinn used to put forward their excuse for being involved in disbelief and idolatry thus: The foolish people from amongst their nation uttered vile slander against Allah, whilst they did not think it possible for a human being or a Jinn to impute a lie to Allah.
 ## Personal Reflections
-
 

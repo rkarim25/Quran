@@ -92,11 +92,5 @@ By saying: لَعَلَّهُمْ يَذَّكَّرُ‌ونَ (so that they ta
 
 If you gain the upper hand over them in war, disperse those behind them by making a severe example, so they may take heed.
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, the worst of living creatures before Allah are those who disbelieve, – so they shall not believe (55)They are those with whom you made a covenant, but they break their covenant every time and they do not have Taqwa (56)So if you gain the mastery over them in war, then disperse those who are behind them, so that they may learn a lesson .
-
-**Classical tafsir:** Ibn Kathir notes: Verily, the worst of living creatures before Allah are those who disbelieve, – so they shall not believe (55)They are those with whom you made a covenant, but they break their covenant every time and they do not have Taqwa (56)So if you gain the mastery over them in war, then dis…
 ## Personal Reflections
-
 

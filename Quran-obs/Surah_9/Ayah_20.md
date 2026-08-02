@@ -135,15 +135,5 @@ Verse 20 enlarges upon the subject initiated with the words: لَا يَسْتَ
 
 Those who have believed, emigrated, and strived in the cause of Allah with their wealth and their lives are greater in rank in the sight of Allah. It is they who will triumph.
 
-## AI Tafsir
-
-**Context:** Ali bin Abi Talhah reported that Ibn 'Abbas said, "This Ayah was revealed about Al-'Abbas bin 'Abdul-Muttalib, for when he was captured in the battle of Badr, he said, 'If you rushed before us to embrace Islam, perform H…
-
-**What this ayah teaches:** And Allah guides not those people who are the wrongdoers (19)Those who believed and emigrated and strove hard and fought in Allah's cause with their wealth and their lives, are far higher in degree with Allah. These actions – maintaining and serving Allah's House – will not benefit them with Allah because they associate others with Him.
-
-**Classical tafsir:** Ibn Kathir notes: These actions – maintaining and serving Allah's House – will not benefit them with Allah because they associate others with Him.
-
-**From the Sunnah:** They used to talk about this by night while shunning the Qur'an and the Prophet ﷺ.
 ## Personal Reflections
-
 

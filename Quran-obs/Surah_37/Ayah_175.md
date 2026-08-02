@@ -98,11 +98,5 @@ In verse 177, it was said: فَإِذَا نَزَلَ بِسَاحَتِهِم�
 
 You will see what will happen to them, and they too will see!
 
-## AI Tafsir
-
-**What this ayah teaches:** Therefore, simply due to this temporary ascendancy, neither can we call that robber an authority, nor that authority a subject. they verily would be the victors (173)So, turn away from them for a while (174)And watch them and they shall see (175)Do they seek to hasten on Our torment (176)Then, when it descends in their courtyard, evil will be the morning for those who had warned (177)So, turn away…
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, simply due to this temporary ascendancy, neither can we call that robber an authority, nor that authority a subject.
 ## Personal Reflections
-
 

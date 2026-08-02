@@ -199,13 +199,5 @@ Commentary
 
 Be upright in devotion to Allah, associating none with Him in worship. For whoever associates others with Allah is like someone who has fallen from the sky and is either snatched away by birds or swept by the wind to a remote place.
 
-## AI Tafsir
-
-**What this ayah teaches:** The detail of these animals is given in other verses, such as carrion, an animal which is beaten to death, or slaughtered without reciting the name of Allah, or in the name of someone other than Allah.
-
-**Classical tafsir:** Ibn Kathir notes: The detail of these animals is given in other verses, such as carrion, an animal which is beaten to death, or slaughtered without reciting the name of Allah, or in the name of someone other than Allah.
-
-**From the Sunnah:** In the Two Sahihs it was reported from Abu Bakrah that the Messenger of Allah ﷺ said: They are a source of welfare in this world and in the Hereafter for those pious Muslims who seek to learn them and act upon them.
 ## Personal Reflections
-
 

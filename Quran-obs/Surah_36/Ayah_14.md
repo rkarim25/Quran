@@ -131,11 +131,5 @@ And it has been reported from Sayyidna Qatadah ؓ that the word: مُّرْ‌س
 
 We sent them two messengers, but they rejected both. So We reinforced the two with a third, and they declared, "We have indeed been sent to you as messengers."
 
-## AI Tafsir
-
-**What this ayah teaches:** You are only telling lies." The Messengers said: "Our Lord knows that we have been sent as Messengers to you.") This means that the three Messengers answered them saying: "Allah knows that we are His Messengers to you. This too indicates that they are prophets who have been sent to accomplish some mission.
-
-**Classical tafsir:** Ibn Kathir notes: You are only telling lies." The Messengers said: "Our Lord knows that we have been sent as Messengers to you.") This means that the three Messengers answered them saying: "Allah knows that we are His Messengers to you.
 ## Personal Reflections
-
 

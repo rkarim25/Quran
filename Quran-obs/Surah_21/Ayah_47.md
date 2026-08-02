@@ -192,11 +192,5 @@ Tirmidhi has reported through Sayyidah ` A'ishah ؓ that a man came to the Holy 
 
 We will set up scales of justice on the Day of Resurrection, so no soul will be wronged in the least. Even if it is the weight of a mustard seed, We will bring it forth. We are sufficient as reckoners.
 
-## AI Tafsir
-
-**What this ayah teaches:** If it be equal to the weight of a grain of mustard seed, and though it be in a rock, or in the heavens or in the earth, Allah will bring it forth. In this verse the word is used plural which some exegesists have explained by saying that for measuring deeds and actions of people many scales will be used.
-
-**Classical tafsir:** Ibn Kathir notes: How the Idolators are deceived by their long and luxurious Lives in this World,and the Explanation of the Truth Allah explains that they have been deceived and misled by the luxuries that they enjoy in this world and the long life that they have been given, so they believe that t…
 ## Personal Reflections
-
 

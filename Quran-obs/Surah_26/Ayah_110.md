@@ -62,11 +62,5 @@ Here the verse فَاتَّقُوا اللَّـهَ وَأَطِيعُونِ (S
 
 So fear Allah, and obey me.”.
 
-## AI Tafsir
-
-**What this ayah teaches:** Therefore, the righteous elders have ruled it as forbidden, but the later generations have allowed it under compelling circumstances. Allah sent him to forbid that and to warn people of the consequences of idol worship.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, the righteous elders have ruled it as forbidden, but the later generations have allowed it under compelling circumstances.
 ## Personal Reflections
-
 

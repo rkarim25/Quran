@@ -170,11 +170,5 @@ If only the translation of the Qur'an is written in any language without the Ara
 
 They will not believe in it until they see the painful punishment,
 
-## AI Tafsir
-
-**What this ayah teaches:** Then they will say: "Can we be respited?") means, when they see the punishment, then they will wish they had a little more time so that they can obey Allah – or so they claim. Instead the majority of Ummah believes that Qur'an is the name not only of its wordings but also of its meanings.
-
-**Classical tafsir:** Ibn Kathir notes: Then they will say: "Can we be respited?") means, when they see the punishment, then they will wish they had a little more time so that they can obey Allah – or so they claim.
 ## Personal Reflections
-
 

@@ -86,13 +86,5 @@ There is a hint in this verse that those who are bestowed with long life in this
 
 It was not the devils who brought this Quran down:
 
-## AI Tafsir
-
-**Context:** Then Allah explains that even if they wanted to and were able to bear it and convey it, they still would not be able to achieve that, because they were prevented from hearing the Qur'an when it was brought down, for the…
-
-**What this ayah teaches:** And it is not the Shayatin (devils) who have brought it down (210)Neither would it suit them nor are they able (211)Verily, they have been removed far from hearing it . Then Allah explains that even if they wanted to and were able to bear it and convey it, they still would not be able to achieve that, because they were prevented from hearing the Qur'an when it was brought down, for the heavens wer…
-
-**Classical tafsir:** Ibn Kathir notes: Then Allah explains that even if they wanted to and were able to bear it and convey it, they still would not be able to achieve that, because they were prevented from hearing the Qur'an when it…
 ## Personal Reflections
-
 

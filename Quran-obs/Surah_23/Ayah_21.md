@@ -153,13 +153,5 @@ Then there is a mention of the blessings and the numerous gifts which Allah has 
 
 And there is certainly a lesson for you in cattle, from whose bellies We give you milk to drink, and in them are many other benefits for you, and from them you may eat.
 
-## AI Tafsir
-
-**What this ayah teaches:** And We sent down from the sky water in measure, and We gave it lodging in the earth, and verily, We are able to take it away (18)Then We brought forth for you therewith gardens of date palms and grapes, wherein is much fruit for you, and whereof you eat (19)And a tree that springs forth from Tur Sinai, that grows oil, and relish for the eaters (20)And verily, in the cattle ther…
-
-**Classical tafsir:** Ibn Kathir notes: are all utilized, in industries which support a country's economy, the meat of the animals, which are halal (permissible) is a favourite food for all men.
-
-**From the Sunnah:** Abd bin Humayd recorded in his Musnad and Tafsir from 'Umar that the Messenger of Allah ﷺ said:
 ## Personal Reflections
-
 

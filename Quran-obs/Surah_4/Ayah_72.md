@@ -163,15 +163,5 @@ Allah then said,
 
 There will be some among you who will lag behind so that if you face a disaster, they will say, “Allah has blessed us for not being there among them.”
 
-## AI Tafsir
-
-**Context:** (There is certainly among you he who would linger behind.) Mujahid and others said that this Ayah was revealed about the hypocrites. Muqatil bin Hayyan said that,
-
-**What this ayah teaches:** Take your precautions, and either go forth (on an expedition) in parties, or go forth all together (71)There is certainly among you he who would linger behind.
-
-**Classical tafsir:** Ibn Kathir notes: Because he considers this one of Allah's favors on him, unaware of the reward that he might have gained from enduring war or martyrdom, if he was killed.
-
-**From the Sunnah:** Since, they were the ones who used to claim being Muslims, at least outwardly.
 ## Personal Reflections
-
 

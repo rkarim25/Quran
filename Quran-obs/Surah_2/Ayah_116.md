@@ -222,17 +222,5 @@ At the end, we shall again insist that no good can come out of unnecessarily med
 
 They say Allah has taken a child. Glory be to Him! To Him belongs whatever is in the heavens and earth — all are obedient to Him.
 
-## AI Tafsir
-
-**Essence** — They imagined Allah needs an heir; He answers that He already owns everything. A son would share what is wholly His — yet nothing in the heavens or earth is anything but His servant.
-
-**What it teaches** — *Subhanahu* ("Glory be to Him") declares Allah holier than the claim of offspring. *Bal lahu* ("Nay, to Him belongs...") overturns it: all creation is His kingdom, and *qanitun* — every creature bound to Him in submission.
-
-**The scholars** — Ibn Kathir: a son is born of two comparable beings, yet Allah has no equal and no consort — how could a creature He owns be His son? Ibn Jarir: all testify to His Oneness — even Jesus, claimed as a son, is among the witnesses. On *qanitun* the salaf vary — Ibn 'Abbas: "they pray to Him"; Sa'id bin Jubayr: sincerity; Mujahid: "He says 'Be a human' and he becomes a human." Ibn Jarir preferred Mujahid's view as gathering all meanings: submission both legislated and destined. Maarif adds: a son must share Allah's genus (impossible — none shares His Necessary Being) or differ from it (a defect impossible for Allah).
-
-**From the Sunnah** — Allah relates that the son of Adam insults Him by claiming He has a child: "All praise is due to Me — it is unbefitting that I should have a wife or a son." (Al-Bukhari) And: none is more patient at an insult than Allah — they attribute a son to Him, yet He still grants them sustenance and health. (The Two Sahihs)
-
-**Reflection** — Note the irony the second hadith presses: the very ones who invent a son for Him are fed and healed by Him moment to moment — proof they too are His dependent servants, not His kin. Let that turn the argument inward — you are *qanitun*, owned and sustained — so meet His forbearance with worship.
 ## Personal Reflections
-
 

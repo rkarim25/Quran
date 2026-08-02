@@ -165,11 +165,5 @@ The purpose of the verse is to show that the believers and the righteous do not 
 
 and in their wealth there was a due share for the beggar and the deprived.
 
-## AI Tafsir
-
-**What this ayah teaches:** Will you not then see (21)And in the heaven is your provision, and that which you are promised (22)Then by the Lord of the heaven and the earth, it is the truth, just as you can speak .
-
-**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas said, "Every night, they would worship Allah, even during a little part of the night." Qatadah narrated that Mutarrif bin 'Abdullah said, "Hardly a night would pass by them that they did not pray to Allah the Exalted and Most Honored, either in the beginning, or the middle of it." Mujahid… As for the Mahrum, Ibn 'Abbas and Mujahid said, "He is the poor person who does not receive a stipen…
 ## Personal Reflections
-
 

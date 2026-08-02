@@ -157,13 +157,5 @@ The third reply was given in the following verse: وَمَا أُوتِيتُم 
 
 Imagine how many societies We have destroyed that had been spoiled by their comfortable living! Those are their residences, never inhabited after them except passingly. And We alone were the Successor.
 
-## AI Tafsir
-
-**What this ayah teaches:** If the exemption ` except a few' is taken for those living there and the places destroyed, as Zajjaj has construed it, then the meaning would be that those places could never get inhabited, except a few that are inhabited.
-
-**Classical tafsir:** Ibn Kathir notes: In this reply it is stressed that they should recall the plight of other infidel people of the world, how their habitations, strong forts, and all means of their protection were destroyed, because of their infidelity and rejection of the truth.
-
-**From the Sunnah:** It was recorded in the Two Sahihs that the Prophet ﷺ said:
 ## Personal Reflections
-
 

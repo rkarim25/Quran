@@ -86,11 +86,5 @@ The same subject has been taken up in verse 42 of Surah al-Hijr where Allah Taâ€
 
 He certainly has no authority over those who believe and put their trust in their Rabb.
 
-## AI Tafsir
-
-**What this ayah teaches:** The way of Faith and Trust in Allah is the way of freedom from the power and control of the Shaitan Verses 99 and 100 make it clear that Allah Taâ€™ ala has not given the Shaitan the kind of power which would disarm any human being and compel him to become helpless and take to evil.
-
-**Classical tafsir:** Ibn Kathir notes: So, should one opt for not using his capability of choice and control because of sheer carelessness or some selfish motive, then, this would be his own fault.
 ## Personal Reflections
-
 

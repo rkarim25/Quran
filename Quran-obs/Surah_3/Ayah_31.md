@@ -125,19 +125,5 @@ He who obeyed Muhammad ﷺ obeyed Allah and he who disobeyed Muhammad ﷺ disobe
 
 Say, “If you love Allah, then follow me; Allah will love you and forgive your sins. For Allah is All-Forgiving, the Rahim.”
 
-## AI Tafsir
-
-**Essence** The proof of truly loving Allah is not a claim of the heart but following His Messenger ﷺ — and the reward outweighs the love offered: Allah will love him in return and forgive his sins.
-
-**What it teaches** Allah commands the Prophet ﷺ to set the real test for everyone who claims to love Allah: "If you love Allah, then follow me." Love (hubb) here is not mere sentiment but a bond verified by ittiba' — wholehearted following of the Prophet's ﷺ Shari'ah in word, deed, and state. The promised return is staggering: not only will Allah love such a person, He will forgive their sins, for He is Ghafur (Oft-Forgiving) and Rahim (Most Merciful).
-
-**The scholars** Ibn Kathir titles this "Allah's Love is Attained by Following the Messenger ﷺ" and explains that the ayah judges against anyone who claims to love Allah yet does not follow the way of Muhammad ﷺ — such a claim is not true until one follows his Shari'ah and religion in all statements, actions, and conditions. He notes that "Allah will love you" means the believer earns far more than what he sought in loving Allah; and that by following the Messenger ﷺ "you will earn all this" — love and forgiveness alike — "with the blessing of his mission." On the next ayah ("if they turn away, then Allah does not like the disbelievers"), Ibn Kathir says it testifies that defiance of the Messenger's way constitutes kufr. He elaborates more broadly on the finality of the mission: even the previous prophets and mighty Messengers, had they lived in his time, would have had no choice but to follow and obey him. Al-Hasan al-Basri and several of the Salaf commented that "some people claimed that they love Allah, so Allah tested them with this Ayah." Maarif ul Quran adds that love is something hidden, with no yardstick to measure it except the traces and signs it leaves; the touchstone is obedience to the Messenger ﷺ — the genuine and the fake are exposed there, for the weaker a person is in his claim, the weaker he will be in his obedience. Maarif also frames the wider point: rejecting prophethood or refusing to obey the Prophet ﷺ is an act of disbelief just like rejecting the Oneness of Allah.
-
-**From the Sunnah** Worship and deeds are accepted only when they conform to the Prophet's ﷺ guidance; anything invented outside it is rejected — which is exactly why following him is the test of loving Allah. (Sahih, cited by Ibn Kathir)
-
-**From the Sunnah** Obedience to the Prophet ﷺ is inseparable from obedience to Allah Himself, so to follow him is to love and obey Allah. (Tafsir Mazhari, cited in Maarif ul Quran)
-
-**Reflection** Let the measure of your love be visible, not just felt: the closer your daily choices track the Sunnah of His Messenger ﷺ, the truer the claim — and the very following that proves it is what wins Allah's love and pardon.
 ## Personal Reflections
-
 

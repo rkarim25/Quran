@@ -296,17 +296,5 @@ Subject to these two conditions (namely, the purity of the woman from her menses
 
 Your wives are farmland for you — approach them consensually as you please, and send ahead good deeds for yourselves. Live with taqwa and know you will meet Him. Give good news to the believers.
 
-## AI Tafsir
-
-**Essence** Your wives are like fertile farmland entrusted to you: approach them in the way Allah ordained, mindful that this intimacy is also a means of bringing forth life and that you will one day stand before Him.
-
-**What it teaches** The ayah likens the wife to a tilth (harth, cultivated soil) and the husband to the one who cultivates it, teaching that marital intimacy is not for lust alone but is also the lawful means of bringing forth children. "Approach your tilth annaa shi'tum (when or how you wish)" permits any position or approach, so long as it is in the one place of cultivation; the ayah then turns to taqwa (Allah-consciousness) and the certainty of meeting Him, ending with glad tidings for the believers.
-
-**The scholars** Ibn 'Abbas explained "a tilth for you" as "the place of pregnancy," and Ibn Kathir, citing Ibn 'Abbas, Mujahid and others, restricts "as Allah has ordained" to al-farj (the vagina) — so anal intercourse is forbidden. Ibn Kathir records that this was the firm stance of Malik ibn Anas, Sa'id ibn al-Musayyib, Abu Salamah, 'Ikrimah, Tawus, 'Ata', Sa'id ibn Jubayr, 'Urwah ibn al-Zubayr, Mujahid, al-Hasan and others of the Salaf, who harshly rebuked the practice — many calling it kufr — and that the freedom of approach was revealed to dispel the Jews' false claim that intimacy from behind (in the vagina) produces cross-eyed offspring. Maarif ul Quran notes that the very image of soil and cultivator gives a subtle indication of the prohibition of anal intercourse, since it can never be a productive act in which there is any "cultivation." On "send forth for yourselves," Ibn Kathir says it means to put forward acts of worship while shunning what Allah forbade; and, citing 'Ata' from Ibn 'Abbas, that one should say "Bismillah" before intimacy. "Be mindful of Allah and know you will meet Him" means He will hold you to account for every deed, and the glad tidings are for those who obey His commands and shun His prohibitions.
-
-**From the Sunnah** When some of the Ansar asked the Prophet ﷺ about approaching their wives, he answered, "Have sex with her as you like, as long as that occurs in the vagina" — in one place only (Musnad Ahmad, from Ibn 'Abbas). And to seek pious offspring, say first, "In the Name of Allah. O Allah, protect us from Satan and protect from Satan what You bestow upon us" — so that if a child is destined from that union, Satan will never harm it (Sahih al-Bukhari). And Allah is not too shy to make the truth plain: the Prophet ﷺ said it three times, then forbade anal intercourse with women (Musnad Ahmad).
-
-**Reflection** Let even the most private moments of your marriage be lived within Allah's limits and begun with His Name, remembering you will meet Him and answer for every deed.
 ## Personal Reflections
-
 

@@ -148,13 +148,5 @@ Next to food, water is the most important thing upon which human life depends fo
 
 Is it you who make it grow, or are We the Grower?
 
-## AI Tafsir
-
-**What this ayah teaches:** Therefore, we go back to the fundamental question: Who caused the seed lying under heaps and heaps of sand to germinate and come out to the surface of the earth so beautifully, comprising untold benefits?
-
-**Classical tafsir:** Ibn Kathir notes: Qatadah commented, "You would say, 'We were punished,' sometimes, and, 'We were deprived,' some other times." 'Ikrimah said that 'You will be Tafakkahun' means 'You will blame each other (and yourselves),' or, feel sorrow, according to Al-Hasan, Qatadah and As-Suddi.
-
-**From the Sunnah:** This narration from Qatadah which is Mursal, was recorded by Imam Ahmad in his Musnad from Abu Hurayrah, from the Prophet ﷺ; (Musnad Ahmad)
 ## Personal Reflections
-
 

@@ -99,13 +99,5 @@ And on the Day of Judgment he will appear in God's presence one without his weal
 
 We will inherit what he boasts of, and he will come before Us alone.
 
-## AI Tafsir
-
-**What this ayah teaches:** It is foolish of him to talk about retaining his wealth and children in the Hereafter because he will have to leave behind even these things which he possesses in this world, and his wealth and children will all revert to Allah Ta’ ala.
-
-**Classical tafsir:** Ibn Kathir notes: It is foolish of him to talk about retaining his wealth and children in the Hereafter because he will have to leave behind even these things which he possesses in this world, and his wealth and children will all revert to Allah Ta’ ala.
-
-**From the Sunnah:** It has already been stated that in Sahih Al-Bukhari it is mentioned that covenant means an agreement. (Sahih al-Bukhari)
 ## Personal Reflections
-
 

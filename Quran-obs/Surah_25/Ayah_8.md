@@ -197,11 +197,5 @@ This is a clear proof of the fact that it is not a work of a human being. Otherw
 
 or a treasure had been cast down to him, or he had had a garden from which he may eat!” And the wrongdoers say to the mu'mins, “You are only following a bewitched man.”
 
-## AI Tafsir
-
-**What this ayah teaches:** And because he could not read or write, he would get them read out to him day and night, so that he could remember them by heart, then he would repeat them before people and claim that he had received that revelation from Allah Ta’ ala.
-
-**Classical tafsir:** Ibn Kathir notes: It almost bursts up with fury)(67:7-8), which means that parts of it almost separate from other parts because of its intense hatred towards those who disbelieved in Allah.
 ## Personal Reflections
-
 

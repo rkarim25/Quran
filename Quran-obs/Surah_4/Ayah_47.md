@@ -250,13 +250,5 @@ Maulana Ashraf Thanavi (رح) ، has said: In my opinion, that question simply d
 
 O you who were given the Book! Believe in what We have revealed—confirming your own Scriptures—before We wipe out faces, turning them backwards, or We condemn the defiant as We did to the Sabbath-breakers. And Allah’s command is always executed!
 
-## AI Tafsir
-
-**What this ayah teaches:** Believe in what We have revealed confirming what is with you, before We efface faces and turn them backwards or curse them as We cursed the people of the Sabbath.
-
-**Classical tafsir:** Ibn Kathir notes: Discussing this deconfiguration (tams) and transmutation (maskh), some of them have said that this punishment will come upon the Jews before the Day of Doom, while others have said that this punishment did not come to pass because some of the Jews had entered the fold of Faith.
-
-**From the Sunnah:** It was reported that Ka'b Al-Ahbar became Muslim when he heard this Ayah [4:47]. (Sahih Muslim)
 ## Personal Reflections
-
 

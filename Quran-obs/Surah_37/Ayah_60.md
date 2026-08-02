@@ -126,13 +126,5 @@ Anyhow, whoever this person may be - it does not matter. This event has been men
 
 This is truly the ultimate triumph.
 
-## AI Tafsir
-
-**What this ayah teaches:** This is part of their conversation when they get together to converse and drink, sitting on their thrones, servants coming and going, bringing all kinds of good food, drink, clothes and other delights no eye has seen, no ear has heard, never having comprehend the mind of man.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, it cannot be said with any degree of certainty as to who this person could be.
-
-**From the Sunnah:** Abu Ja'far bin Jarir recorded that Furat bin Tha'labah Al-Bahrani said concerning the Ayah, Paradise – and he gave one thousand Dinars in charity.
 ## Personal Reflections
-
 

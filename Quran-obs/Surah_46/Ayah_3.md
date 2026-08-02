@@ -175,13 +175,5 @@ Ends here
 
 We did not create the heavens, the earth, and everything between them without truth and purpose; each has a fixed term. Yet those who reject the truth turn away from the warning sent to them.
 
-## AI Tafsir
-
-**Context:** (But those who disbelieve, turn away from that of which they are warned.) Meaning, the those who reject the truth are distracted from what is intended for them. Allah has indeed revealed to them a Book and sent to them a Messenger.
-
-**What this ayah teaches:** We created not the heavens and the earth and all that is between them except with truth, and for a specified term.
-
-**Classical tafsir:** Ibn Kathir notes: The word kitab, according to most commentators, refers to ` book of record' which the angels have been writing in the world.
 ## Personal Reflections
-
 

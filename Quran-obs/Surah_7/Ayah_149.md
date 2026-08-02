@@ -123,11 +123,5 @@ The verse 149 speaks of their remorse on this guilt and their repentance,
 
 Later, when they were filled with remorse and realized they had gone astray, they cried, “If our Rabb does not have mercy on us and forgive us, we will certainly be losers.”
 
-## AI Tafsir
-
-**What this ayah teaches:** The verse 149 speaks of their remorse on this guilt and their repentance,
-
-**Classical tafsir:** Ibn Kathir notes: The verse 149 speaks of their remorse on this guilt and their repentance,
 ## Personal Reflections
-
 

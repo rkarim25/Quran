@@ -235,13 +235,5 @@ The Holy Prophet ﷺ has said: ` Allah Ta` ala hastens to repay mercy shown to r
 
 But as soon as He rescues them, they transgress in the land unjustly. O humanity! Your transgression is only against your own souls. There is only brief enjoyment in this worldly dunya, then to Us is your return, and then We will inform you of what you used to do.
 
-## AI Tafsir
-
-**What this ayah teaches:** Your rebellion (disobedience to Allah) is only against yourselves,) it is you yourselves that will taste the evil consequence of this transgression.
-
-**Classical tafsir:** Ibn Kathir notes: Mujahid said that man's attitude indicates a mockery and belying of blessings.
-
-**From the Sunnah:** that Allah's Messenger ﷺ led the Subh (Dawn) prayer after it had rained during the night, then he ﷺ said: (Sahih al-Bukhari)
 ## Personal Reflections
-
 

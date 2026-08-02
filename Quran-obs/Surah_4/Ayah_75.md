@@ -182,13 +182,5 @@ According to this verse, Muslims had requested Allah Almighty the favour of two 
 
 And what is it with you? You do not fight in the cause of Allah and for oppressed men, women, and children who cry out, “Our Rabb! Deliver us from this land of oppressors! Appoint for us a saviour; appoint for us a helper—all by Your grace.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Encouraging Jihad to Defend the Oppressed Allah encouraged His believing servants to perform Jihad in His cause and to strive hard to save the oppressed Muslims in Makkah, men, women and children who were restless because of having to remain there.
-
-**Classical tafsir:** Ibn Kathir notes: Encouraging Jihad to Defend the Oppressed Allah encouraged His believing servants to perform Jihad in His cause and to strive hard to save the oppressed Muslims in Makkah, men, women and children who were restless because of having to remain there.
-
-**From the Sunnah:** Allah encouraged His believing servants to perform Jihad in His cause and to strive hard to save the oppressed Muslims in Makkah, men, women and children who were restless because of having to remain there.
 ## Personal Reflections
-
 

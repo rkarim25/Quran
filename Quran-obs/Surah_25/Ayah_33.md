@@ -101,15 +101,5 @@ Verse no. 33 supports and accentuates the explanation given above for the wisdom
 
 Whenever they bring you an argument, We come to you with the right refutation and the best explanation.
 
-## AI Tafsir
-
-**Context:** And those who disbelieve say: "Why is not the Qur'an revealed to him all at once" Thus, that We may strengthen your heart thereby.
-
-**What this ayah teaches:** And We have revealed it to you gradually, in stages (32)And no example or parable do they bring, but We reveal to you the truth, and the better explanation thereof (33)Those who will be gathered to Hell on their faces, such will be in an evil state, and most astray from the path .
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** Abu 'Abdur-Rahman An-Nasa'i recorded that Ibn 'Abbas said, "The Qur'an was sent down all at once to the first heaven on Laylatul-Qadr (the Night of Power), then it was revealed over twenty years." Allah says: (Sunan an-Nasa'i)
 ## Personal Reflections
-
 

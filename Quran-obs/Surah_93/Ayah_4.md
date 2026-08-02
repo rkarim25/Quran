@@ -221,15 +221,5 @@ This is the end of the Tafsir of Surat Ad-Duha, and unto Allah is due all praise
 
 The Akhirah—the everlasting life after death—is better for you than this dunya, the temporary worldly life.
 
-## AI Tafsir
-
-**Context:** Al-'Awfi reported from Ibn 'Abbas, "When the Qur'an was revealed to the Messenger of Allah ﷺ, Jibril was delayed from coming to him for a number of days (on one occasion).
-
-**What this ayah teaches:** The verse, in this case, would mean that every succeeding moment of the Holy Prophet's ﷺ life is better than the preceding one.
-
-**Classical tafsir:** Ibn Kathir notes: Your Lord has neither forsaken you nor hates you.)(4.
-
-**From the Sunnah:** this Hadith. (Sahih al-Bukhari, Sahih Muslim) Therefore, the Messenger of Allah ﷺ was affected by this.
 ## Personal Reflections
-
 

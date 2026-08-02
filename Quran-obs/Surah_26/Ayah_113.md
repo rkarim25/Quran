@@ -70,11 +70,5 @@ It is related in this verse that the disbelievers rejected the invitation of Say
 
 Their judgment is with my Rabb, if you had any sense!
 
-## AI Tafsir
-
-**What this ayah teaches:** Hence, it was their ignorance to put the label of sordidness on his followers, because they did not know about their deeds and disposition. Unless one knows fully well about the morals and deeds of others, it is not right to pass any judgment about them.
-
-**Classical tafsir:** Ibn Kathir notes: Hence, it was their ignorance to put the label of sordidness on his followers, because they did not know about their deeds and disposition.
 ## Personal Reflections
-
 

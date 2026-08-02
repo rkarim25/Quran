@@ -159,13 +159,5 @@ After that, upto the end of the cited verses, Muslims have been directly instruc
 
 Even if We had sent them the angels, made the dead speak to them, and assembled before their own eyes every sign, they still would not have believed—unless Allah so willed. But most of them are ignorant.
 
-## AI Tafsir
-
-**Context:** The previous verses had mentioned how obstinate people failed to benefit from clear signs of Allah and open miracles of His Messenger and kept on denying the message of truth.
-
-**What this ayah teaches:** But, the attitude of not cross-examining evidences presented and yet demanding some other evidences would be like the scenario in a law court where the respondent would avoid cross-examining the witness presented by the plaintiff and take the plea that he does not accept the evidence of these witnesses and that he would accept what is said particularly by such and such a person…
-
-**Classical tafsir:** Ibn Kathir notes: Since the Holy Prophet ﷺ was aware of their habitual obstinacy, and because he was in mercy the foremost, he said that he was not going to pray for that miracle anymore.
 ## Personal Reflections
-
 

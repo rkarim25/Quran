@@ -201,13 +201,5 @@ In the verses cited above, the answer to disbelievers who were demanding that th
 
 Say, “I have been forbidden to worship those you invoke besides Allah.” Say, “I will not follow your desires, for I then would certainly be astray and not one of those guided.”
 
-## AI Tafsir
-
-**Context:** (Say: "I am on clear proof from my Lord...") means: I have a clear understanding of the Law of Allah that He has revealed to me,
-
-**What this ayah teaches:** If you like, I will let Al-Akhshabayn (two mountains to the north and south of Makkah) fall on them.' The Prophet ﷺ said, No, but I hope that Allah will let them generate offspring who will worship Allah Alone, and will worship none besides Him.) This is the wording of Muslim.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, Allah has sent the Angel of the Mountains to you so that you may order him to do whatever you wish to these people.' The Angel of the Mountains called and greeted me, and then said, 'O Muhammad!
 ## Personal Reflections
-
 

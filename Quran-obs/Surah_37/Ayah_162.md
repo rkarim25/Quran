@@ -122,11 +122,5 @@ Immediately next within verse 158 it was said: وَلَقَدْ عَلِمَتِ
 
 can never lure anyone away from Him
 
-## AI Tafsir
-
-**What this ayah teaches:** Who then does more wrong than one who rejects the Ayat of Allah and turns away therefrom? But, this Tafsir leaves an unresolved difficulty behind: The verse is talking about the attribution of kinship between Allah Ta’ ala and the Jinns, while the marital relationship of a husband and wife is not based on kinship.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

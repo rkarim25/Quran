@@ -140,13 +140,5 @@ When Sayyidna Ibrahim I appeared, Allah Ta’ ala blessed him with a Shari'ah an
 
 Then We revealed to you O Prophet, saying: “Follow the faith of Abraham, the upright, who was not one of the polytheists.”
 
-## AI Tafsir
-
-**Context:** (Then, We have sent the revelation to you: "Follow the religion of Ibrahim (he was a) Hanif...) meaning, 'because of his perfection, greatness, and the soundness of his Tawhid and his way, We revealed to you, O Seal of t…
-
-**What this ayah teaches:** Though, the Holy Prophet ﷺ is preferred as more distinguished (afdal) of all blessed prophets and messengers, but at this place, there are two wise considerations in asking the preferred (afdal) to follow the one not so preferred (mafdul) in the present context.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

@@ -146,11 +146,5 @@ After that, upto the end of the cited verses, Muslims have been directly instruc
 
 And so We have made for every prophet enemies—devilish humans and jinn—whispering to one another with elegant words of deception. Had it been your Rabb’s Will, they would not have done such a thing. So leave them and their deceit, so that the hearts of those who reject the truth in the Akhirah may be receptive to it, be pleased with it, and be persistent in their evil pursuits.
 
-## AI Tafsir
-
-**Context:** The previous verses had mentioned how obstinate people failed to benefit from clear signs of Allah and open miracles of His Messenger and kept on denying the message of truth.
-
-**What this ayah teaches:** If your Lord had so willed, they would not have done it; so leave them alone with their fabrications (112)And 'Taşghā' to it that the hearts of those who do not believe in the Hereafter may incline to such (deceit), and that they may remain pleased with it, and that they may commit what they are committing .
 ## Personal Reflections
-
 

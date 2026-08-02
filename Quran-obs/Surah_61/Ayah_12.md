@@ -141,11 +141,5 @@ Commentary
 
 He will forgive your sins and admit you to Gardens under which rivers flow, and house you in splendid homes in the Gardens of Eternity. That is the ultimate triumph.
 
-## AI Tafsir
-
-**What this ayah teaches:** Shall I guide you to a trade that will save you from a painful torment (10)That you believe in Allah and His Messenger, and that you strive hard and fight in the cause of Allah with your wealth and your lives, that will be better for you, if you but know (11)(If you do so) He will forgive you your sins, and admit you into Gardens under which rivers flow, and pleasant dwellings in 'Adn (Eternal) Pa…
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

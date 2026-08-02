@@ -156,11 +156,5 @@ And in case of mountains, used there was the word: جُدَدٌ (judad). This is
 
 Do you not see that Allah sends rain from the sky with which We bring forth fruits of different colours? In the mountains are streaks of white, red, and raven black;
 
-## AI Tafsir
-
-**What this ayah teaches:** With regard to fruits the difference of colors is mentioned by an adverbial phrase (translated above as ' having different cobblers', while in the case of mountains, it has been expressed by an adjectival phrase (translated above as ' of different cobblers'.
-
-**Classical tafsir:** Ibn Kathir notes: 'Ikrimah said, "Al-Gharabib means mountains which are high and black." This was also the view of Abu Malik, 'Ata' Al-Khurasani and Qatadah. According to the Arabic grammar, an adjective normally refers to the permanent quality of a thing, while an adverb may refer to a quality or condition that is subject to change.
 ## Personal Reflections
-
 

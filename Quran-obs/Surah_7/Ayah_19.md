@@ -124,11 +124,5 @@ Detailed comments have been given in the Tafsir of that Surah. If needed, please
 
 “O Adam! Live with your wife in Paradise and eat from wherever you please, but do not approach this tree, or else you will be wrongdoers.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Shaytan's Deceit with Adam and Hawwa' and Their eating from the Forbidden Tree Allah states that He allowed Adam and his wife to dwell in Paradise and to eat from all of its fruits, except one tree.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

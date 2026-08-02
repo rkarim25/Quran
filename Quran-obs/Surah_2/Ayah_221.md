@@ -304,17 +304,5 @@ Marrying a woman from such a group of people is not correct. Those who marry wom
 
 Do not marry women who associate partners with Allah until they believe. A believing slave-woman is better than a free polytheist, even if she pleases you. Do not give your women in marriage to polytheist men until they believe. A believing slave-man is better than a free polytheist, even if he pleases you. They invite to the Fire while Allah invites to Paradise and forgiveness by His grace. He makes His signs clear so people may remember.
 
-## AI Tafsir
-
-**Essence** Faith, not wealth or beauty, is the true measure of a marriage partner — for the polytheist calls to the Fire while Allah calls to Paradise and forgiveness.
-
-**What it teaches** This is a marriage prohibition built on comparative reasoning: Allah forbids the believers to marry the Mushrikat (idolatresses) and to give believing women to Mushrik men until they embrace faith, ruling that a believing slave-woman or slave-man is better than a free polytheist however pleasing they seem. Shirk is associating partners with Allah; iman (true belief in Allah alone) is what makes a spouse fit company, since "those" who reject faith "invite you to the Fire" while Allah "invites you to Paradise and forgiveness by His leave."
-
-**The scholars** Ibn Kathir reports that although the wording is general, Ibn 'Abbas — followed by Mujahid, 'Ikrimah, Sa'id bin Jubayr, Makhul, Al-Hasan, Ad-Dahhak, Zayd bin Aslam, Ar-Rabi' bin Anas and others — held that Allah excluded the chaste women of the People of the Scripture from this prohibition, as confirmed by 5:5; some scholars read the ayah as addressing idol-worshippers only. He notes that 'Umar disliked even the permitted marriage to Kitabi women, writing to Hudhayfah to divorce his Jewish wife not because she was unlawful but fearing Muslims might cease marrying Muslim women or be drawn to immoral ones; and that Ibn 'Umar disliked it on his own reading of the ayah, Al-Bukhari reporting him say, "I do not know of a bigger Shirk than her saying that Jesus is her Lord." The believing man — even an Abyssinian servant — is better than a Mushrik, even a rich master. Maarif ul Quran explains the wisdom: marriage demands love and harmony, so intimacy with Mushrikin risks the Muslim's heart tilting toward Kufr and Shirk and so toward Hell; where harm and hoped-for benefit are equal, preventing harm takes priority — as the Persian saying goes, "a wise man does not eat the antidote with certainty and the poison with doubt." A husband's controlling, care-taking role makes a Muslim woman married to a non-believer especially vulnerable, which is why giving her to a Mushrik is barred outright.
-
-**From the Sunnah** A woman is sought in marriage for four things — her wealth, lineage, beauty, and religion — so choose the one of religion above all (The Two Sahihs — Bukhari and Muslim). And: this worldly life is only fleeting enjoyment, and the finest of its delights is a righteous wife (Muslim).
-
-**Reflection** Whoever shares your home shapes the direction of your soul — so let the choice be settled by where a heart is anchored, not by what the eye admires.
 ## Personal Reflections
-
 

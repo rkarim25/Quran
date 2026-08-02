@@ -130,13 +130,5 @@ Once the Arabs tapered down their use of camels for riding and transport purpose
 
 Consider the Day He will gather them all and ask the angels, "Was it you these people used to worship?"
 
-## AI Tafsir
-
-**What this ayah teaches:** He will ask the angels whom the idolators used to worship, claiming that their idols were in the form of these angels and that they could bring them nearer to Allah. Nay, but they used to worship the Jinn; most of them were believers in them.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** Incidentally, what has been said here also helps remove that atheistic doubt usually dished out with reference to the Islamic injunctions of sacrifice saying that it is likely to affect the economy of Muslims adversely.
 ## Personal Reflections
-
 

@@ -152,13 +152,5 @@ In this mortal world, the customary practice of Allah Almighty is to cause the d
 
 If you have suffered injuries, they suffered similarly. We alternate these days among people so that Allah may reveal those who have iman, choose martyrs from among you—and Allah does not like the wrongdoers— and distinguish those who have iman and destroy those who reject the truth.
 
-## AI Tafsir
-
-**What this ayah teaches:** Many similar ways (and mishaps of life) were faced [by nations (believers and those who reject the truth) that have passed away] before you, so travel through the earth, and see what was the end of those who denied (137)This is a plain statement for mankind, a guidance and instruction for the Muttaqin (138)So do not become weak, nor be sad, and you will be triumphant if you are indeed believ…
-
-**Classical tafsir:** Ibn Kathir notes: This is a plain statement for mankind), meaning, the Qur'an explains the true reality of things and narrates how the previous nations suffered by the hands of their enemies.
-
-**From the Sunnah:** Paradise before Allah knows (tests) those of you who performed Jihad and knows (tests) those who are patient (142)You did indeed wish for death before you met it.
 ## Personal Reflections
-
 

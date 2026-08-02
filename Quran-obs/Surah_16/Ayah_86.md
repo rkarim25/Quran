@@ -210,13 +210,5 @@ Finally, a note about the statement: سَرَ‌ابِيلَ تَقِيكُمُ 
 
 And when the polytheists see their associate-gods, they will say, “Our Rabb! These are our associate-gods that we used to invoke besides You.” Their gods will throw a rebuttal at them, saying, “You are definitely liars.”
 
-## AI Tafsir
-
-**Context:** Finally, a note about the statement: سَرَ‌ابِيلَ تَقِيكُمُ الْحَرَّ‌ (shirts which protect you from heat - 81). Here, protection from heat has been identified as the purpose of a shirt - though, a shirt protects one from…
-
-**What this ayah teaches:** These are our partners whom we used to call upon besides you." But they will throw back their statement at them (saying): "You indeed are liars!
-
-**Classical tafsir:** Ibn Kathir notes: Arabia is a hot country where the very thought of snow and winter chill is far-fetched, therefore, the statement was left with the mention of protection from heat as being sufficient.
 ## Personal Reflections
-
 

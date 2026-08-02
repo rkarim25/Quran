@@ -130,13 +130,5 @@ It is this Islamic brotherhood that, in a short span of time, from east to west,
 
 He created you, yet among you are those who reject the truth and those who believe. Allah is All-Seeing of what you do.
 
-## AI Tafsir
-
-**What this ayah teaches:** In this instance, the phrase ‘khalaqakum’ [ created you ] indicates that at the inception of creation there were no unbelievers [ kafis ]. He it is Who created you, then some of you are those who reject the truth and some of you are believers.
-
-**Classical tafsir:** Ibn Kathir notes: In this instance, the phrase ‘khalaqakum’ [ created you ] indicates that at the inception of creation there were no unbelievers [ kafis ].
-
-**From the Sunnah:** In the Days of Ignorance, ethnicity and tribal divisions had become the basis of factionalism but the Messenger of Allah ﷺ broke down these idols, which they pursued.
 ## Personal Reflections
-
 

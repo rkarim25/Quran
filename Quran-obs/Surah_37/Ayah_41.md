@@ -142,11 +142,5 @@ After having described the condition of the people of Jahannam (Hell), the verse
 
 They will have a known provision:
 
-## AI Tafsir
-
-**What this ayah teaches:** According to this explanation, 'known provision' means that this provision will be certain and everlasting - unlike the world of our experience where no one can say with any degree of certainty what and how much of that provision he or she is going to get; nor does anyone know how long his provision will remain available to him or her.
-
-**Classical tafsir:** Ibn Kathir notes: Some say that it refers to the detailed description of the provisions of Paradise mentioned in different Surahs of the Qur'an.
 ## Personal Reflections
-
 

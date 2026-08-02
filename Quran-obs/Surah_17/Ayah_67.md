@@ -114,13 +114,5 @@ As for the sense of: وَشَارِ‌كْهُمْ فِي الْأَمْوَال
 
 When you are touched with hardship at sea, you totally forget all the gods you normally invoke, except Him. But when He delivers you safely to shore, you turn away. Humankind is ever ungrateful.
 
-## AI Tafsir
-
-**What this ayah teaches:** When Harm befalls Them, the those who reject the truth do not remember anyone except Allah Allah tells us that when harm befalls people, they call on Him, turning to Him and sincerely beseeching Him. And when harm touches you upon the sea, those that you call upon vanish from you except Him.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** Similar happened to 'Ikrimah bin Abi Jahl when he fled from the Messenger of Allah ﷺ after the conquest of Makkah, and headed for Ethiopia. (Sahih Muslim)
 ## Personal Reflections
-
 

@@ -134,13 +134,5 @@ In relation to issues of religious beliefs embedded in this verse, it must be bo
 
 If they deny you, then say, “My deeds are mine and your deeds are yours. You are free of what I do and I am free of what you do!”
 
-## AI Tafsir
-
-**What this ayah teaches:** In other words, once it stands proved that Allah Ta` ala is the only true and rightful object of worship, it is terribly senseless to abandon this truth and allow yourself to be diverted elsewhere.
-
-**Classical tafsir:** Ibn Kathir notes: In other words, once it stands proved that Allah Ta` ala is the only true and rightful object of worship, it is terribly senseless to abandon this truth and allow yourself to be diverted elsewhere.
-
-**From the Sunnah:** They listen to your truthful, eloquent and authentic Hadiths that are useful to the hearts, the bodies and their faith. (authentic hadith) In the Hadith narrated by Abu Dharr, he states that the Prophet ﷺ related that His Lord, Exalted and High is He, said:
 ## Personal Reflections
-
 

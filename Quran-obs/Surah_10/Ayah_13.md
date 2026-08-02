@@ -108,13 +108,5 @@ The subject of verse 12 has been emphasized from a different angle in verse 13. 
 
 We surely destroyed other peoples before you when they did wrong, and their messengers came to them with clear proofs but they would not believe! This is how We reward the wicked people.
 
-## AI Tafsir
-
-**What this ayah teaches:** And indeed, We destroyed generations before you when they did wrong, while their Messengers came to them with clear proofs, but they were not such as to believe! The history of past peoples shows that different kinds of punishments have visited them because of their contumacy and disobedience right here in this world.
-
-**Classical tafsir:** Ibn Kathir notes: It has been said: Let no one miscalculate that punishment cannot come in this world just because Allah Ta` ala gives respite to those who deny and disbelieve.
-
-**From the Sunnah:** It is a different matter that Allah Ta` ala has promised that no mass punishment will come upon the Muslim ummah in consideration of the honor of Sayyidna Muhammad al-Mustafa ﷺ the foremost among prophets. (Sahih Muslim)
 ## Personal Reflections
-
 

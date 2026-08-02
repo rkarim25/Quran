@@ -178,15 +178,5 @@ In a narration recorded by At-Tirmidhi with an authentic chain of narrations, he
 
 I fear for my people after me. My wife is barren—so grant me, by Your grace, an heir
 
-## AI Tafsir
-
-**Context:** The reason for his fear was that he was afraid that the generation that would succeed him would be a wicked generation.
-
-**What this ayah teaches:** Therefore, if this was not referring to a specific type of inheritance, then Allah would not have mentioned it. A Prophet would not disdain to leave his wealth to his successive relatives, and thus ask to have a son who would receive his inheritance instead of them.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, if this was not referring to a specific type of inheritance, then Allah would not have mentioned it.
-
-**From the Sunnah:** about Zakariyya] that He was a carpenter who used to eat from what he earned with his own hand through carpentry (Sahih al-Bukhari) All of this is supported and affirmed by what is in the authentic Hadith: (authentic hadith)
 ## Personal Reflections
-
 

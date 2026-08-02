@@ -312,13 +312,5 @@ The first mention of the fish going into the sea was made through the word: سَ
 
 He replied, “Do you remember when we rested by the rock? That is when I forgot the fish. None made me forget to mention this except Satan. And the fish made its way into the sea miraculously.”
 
-## AI Tafsir
-
-**Context:** (Musa got up to deliver a speech before the Children of Israel and he was asked, "Who is the most learned person among the people?" Musa replied, "I am." Allah rebuked him because he did not refer the knowledge to Allah.…
-
-**What this ayah teaches:** I indeed forgot the fish; none but Shaytan made me forget to remember it. Allah stopped the flow of water on both sides of the way created by the fish, and so that way was like a tunnel.
-
-**Classical tafsir:** Ibn Kathir notes: Ibn Jarir (may Allah have mercy on him) said, "Some of the scholars of the Arabic language said that Huqub means a year in the dialect of [the tribe of] Qays," then he narrated that 'Abdullah bin 'Amr said, "Huqub means eighty years." Mujahid said, "Seventy years." 'Ali bin Abi Talhah reported that…
 ## Personal Reflections
-
 

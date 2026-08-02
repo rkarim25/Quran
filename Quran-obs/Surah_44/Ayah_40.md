@@ -83,11 +83,5 @@ Here Allah tells us of His justice, and that He is far above mere play, folly an
 
 Surely the Day of Final Decision is the time appointed for all—
 
-## AI Tafsir
-
-**What this ayah teaches:** This World was created for a Wisdom Here Allah tells us of His justice, and that He is far above mere play, folly and falsehood. Though they shall be made to see one another) (70:10-11) which means, he will not ask his brother about how he is, even though he can see him with his own eyes.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

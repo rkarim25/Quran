@@ -180,13 +180,5 @@ Ibn ` Abbas ؓ has remarked that even Hell seeks protection from غَیّ , whic
 
 Those who repent, believe, and do good will enter Paradise, never denied their reward.
 
-## AI Tafsir
-
-**What this ayah teaches:** So they will meet Ghaiy (59)Except those who repent and believe, and work righteousness. Therefore they lose, because the prayer is the pillar and foundation of the religion.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, these people will meet with Ghaiy, which means loss on the Day of Resurrection.
-
-**From the Sunnah:** Paradise and they will not be wronged in aught.
 ## Personal Reflections
-
 

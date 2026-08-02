@@ -203,11 +203,5 @@ Qatadah said, "This means he is a witness against himself." In another narration
 
 Each will be told what they sent ahead and left behind.
 
-## AI Tafsir
-
-**What this ayah teaches:** On that Day man will say: "Where (is the refuge) to flee?")(11.
-
-**Classical tafsir:** Ibn Kathir notes: I swear by An-Nafs Al-Lawwamah.) Qatadah said, "This means, I swear by both of these things." This has also been reported from Ibn 'Abbas and Sa'id bin Jubayr. Qatadah said that 'what he sent ahead' refers to a good deed he did in his lifetime; and 'what he left behind' refers to a good deed he could have done but did not do and wasted his time or opportunity.
 ## Personal Reflections
-
 

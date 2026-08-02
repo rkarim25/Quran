@@ -414,15 +414,5 @@ After that, we can move on to explain the last part of verse 125: إِنَّ ر�
 
 Call to the way of your Rabb with wisdom and fair preaching, and argue in the best manner. Your Rabb knows best who strays from His path and who is guided.
 
-## AI Tafsir
-
-**Context:** Allah commands His Messenger Muhammad ﷺ to invite the people to Allah with Hikmah (wisdom). Ibn Jarir said: "That is what was revealed to him from the Book and the Sunnah."
-
-**What this ayah teaches:** Inviting with wisdom is for people of knowledge and understanding.
-
-**Classical tafsir:** Ibn Kathir notes: Da'wah: Principles and Etiquette To sum up, three things have been mentioned in verse 125 as necessary for Da'wah: 1.
-
-**From the Sunnah:** And there are other verses of the Qur’ an which bear witness to the fact that this approach of showing good manners in debate (al-ilhsan fi al-mujadalah) is not restricted to Muslims alone. The rightly-guided ` Ulama' of the Muslim community carry out this mission in their capacity of being their deputies. (Sahih Muslim)
 ## Personal Reflections
-
 

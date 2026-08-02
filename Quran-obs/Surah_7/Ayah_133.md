@@ -142,13 +142,5 @@ The people of Pharaoh were subjected to the above five punishments one after ano
 
 So We plagued them with floods, locusts, lice, frogs, and blood—all as clear signs, but they persisted in arrogance and were a wicked people.
 
-## AI Tafsir
-
-**What this ayah teaches:** It is possible that both kinds of insects were sent to them, that is, small pests started to eat up their grain while equally large number of lice ate up even their hair and eyelashes.
-
-**Classical tafsir:** Ibn Kathir notes: Mujahid said it is water that carries the plague every where. Al-Hasan and Sa'id bin Jubayr said that 'Qummal' are small black insects.
-
-**From the Sunnah:** They collected grains and kept them in their homes.
 ## Personal Reflections
-
 

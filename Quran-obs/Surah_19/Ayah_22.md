@@ -66,11 +66,5 @@ Muhammad bin Ishaq said, "When she conceived him and filled her water jug (at a 
 
 She conceived him and withdrew with him to a remote place.
 
-## AI Tafsir
-
-**What this ayah teaches:** So she conceived him, and she withdrew with him to a remote place (22)And the pains of childbirth drove her to the trunk of a date palm. The word spread among the Children of Israel and the people were saying, 'Verily, her partner (in fornication) was Yusuf, because there was no one else in the temple with her except him.' So she hid herself from the people and placed a veil between herself and th…
-
-**Classical tafsir:** Ibn Kathir notes: As-Suddi said, "Her place of seclusion was to the east and that was where she would pray at the Sacred House of Jerusalem." Wahb bin Munabbih said, "She ran away and when she reached an area between Ash-Sham and Egypt, she was overcome by labor pains." In another narration from Wahb, he said, "This…
 ## Personal Reflections
-
 

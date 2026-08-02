@@ -139,11 +139,5 @@ The Second Objection was that if the Holy Prophet ﷺ was a prophet, he should n
 
 The doomed will be told, “Your gods have clearly denied your claims. So now you can neither ward off the punishment nor get any help.” And whoever of you does wrong, We will make them taste a horrible punishment.
 
-## AI Tafsir
-
-**What this ayah teaches:** Furthermore, how could he be accepted as a prophet when he is neither an angel nor does an angel accompany him to endorse what he preaches, therefore it appears that he has been charmed by someone which has turned his head and that is why he talks like this. And whoever among you does wrong, We shall make him taste a great torment .
-
-**Classical tafsir:** Ibn Kathir notes: And if this was not so, he should have at least enough wealth and gardens to take care of his day to day needs, so that he may not need to care for his living.
 ## Personal Reflections
-
 

@@ -360,13 +360,5 @@ The hostile questions asked by the disbelievers and the obstinacy shown by them 
 
 If there were a recitation that could move mountains, split the earth, or make the dead speak, it would have been this Quran. But all matters are by Allah's will. Have the believers not yet realized that if Allah willed, He could guide all humanity? Disasters will keep striking those who reject the truth—or landing near their homes—for their deeds, until Allah's promise arrives. Allah never fails His promise.
 
-## AI Tafsir
-
-**Context:** Allah praises the Qur'an which He has revealed to Muhammad, peace be upon him, and prefers it to all other divinely revealed Books before it, Clear proofs of Islam being the true religion and the Holy Prophet ﷺ being the…
-
-**What this ayah teaches:** Similarly, the talking of inert pebbles in his blessed hands and their recitation of praises for Allah is certainly far greater a miracle than the talking of a dead person brought back to life.
-
-**Classical tafsir:** Ibn Kathir notes: Al-Hasan Al-Basri said that it refers to the Day of Resurrection.
 ## Personal Reflections
-
 

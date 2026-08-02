@@ -193,11 +193,5 @@ Shaikh Jalal-ud-Din Suyuti wrote a book on the biography of Abu Hanifah (رح) w
 
 You are being called to spend in Allah's cause, yet some of you hold back. Whoever withholds only harms himself. Allah is Self-Sufficient; you are the ones in need. If you turn away, He will replace you with another people—and they will not be like you.
 
-## AI Tafsir
-
-**What this ayah teaches:** And whoever acts stingily is but stingy toward himself.
-
-**Classical tafsir:** Ibn Kathir notes: This point is made even more clear by saying "_ and Allah is the Need-Free, and you are the needy." In other words, Allah is free of want and beyond any need but man is in need of means of comfortable subsistence.
 ## Personal Reflections
-
 

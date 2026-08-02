@@ -135,13 +135,5 @@ It, therefore, follows that performing jihad against the unbelievers in order to
 
 Say: My Rabb, judge with truth. Our Rabb is the Rahman — mercy encompassing all creation in this life — whose help is sought against what you describe.
 
-## AI Tafsir
-
-**Context:** Say: "It is revealed to me that your Allah is only one Allah. Will you then be Muslims? (108)But if they turn away say: "I give you a notice to be known to us all alike.
-
-**What this ayah teaches:** Our Lord is the ar-Rahman, Whose help is to be sought against that which you attribute!
-
-**Classical tafsir:** Ibn Kathir notes: When it is understood that the invocation and worship of Allah Ta` ala is the essence of all living things, then the reason for describing the Holy Prophet ﷺ as mercy to the Worlds becomes obvious because it is his teachings and the purity of his personal life alone which keep al…
 ## Personal Reflections
-
 

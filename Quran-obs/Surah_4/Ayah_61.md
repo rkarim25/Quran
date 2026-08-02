@@ -154,13 +154,5 @@ The second verse (61) tells us that turning away from the decision of the Holy P
 
 When it is said to them, “Come to Allah’s revelations and to the Messenger,” you see the those living in nifaq—outward acceptance with inward rejection turn away from you stubbornly.
 
-## AI Tafsir
-
-**Context:** Allah chastises those who claim to believe in what Allah has sent down to His Messenger ﷺ and to the earlier Prophets, yet they refer to other than the Book of Allah and the Sunnah of His Messenger ﷺ for judgment in vari…
-
-**What this ayah teaches:** Therefore, it was said; And when it is said to them, "Come to what Allah has revealed, and to the Messenger," you will see the hypocrites turning away from you in aversion.'
-
-**Classical tafsir:** Ibn Kathir notes: Let Allah be sufficient for you in this regard, because He has perfect knowledge of their apparent and hidden affairs.
 ## Personal Reflections
-
 

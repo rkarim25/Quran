@@ -137,11 +137,5 @@ Briefly, in view of the system of the universe, Allah Almighty has not provided 
 
 Among His signs is the creation of the heavens and the earth, and all living beings He dispersed throughout both. And He is Most Capable of bringing all together whenever He wills.
 
-## AI Tafsir
-
-**What this ayah teaches:** And among His Ayat is the creation of the heavens and the earth, and whatever moving creatures He has dispersed in them both.
-
-**Classical tafsir:** Ibn Kathir notes: This verse states that Allah Almighty has created many creatures which move about on the earth as well as in the sky.
 ## Personal Reflections
-
 

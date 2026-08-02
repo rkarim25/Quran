@@ -230,13 +230,5 @@ The questions asked and the demands made in these verses from the Holy Prophet �
 
 or until you have a house of gold, or you ascend into heaven—and even then we will not believe in your ascension until you bring down to us a book that we can read.” Say, “Glory be to my Rabb! Am I not only a human messenger?”
 
-## AI Tafsir
-
-**Context:** (My case is not as you say. I have not brought what I have brought to you because I want your wealth or to be your leader or king.
-
-**What this ayah teaches:** If you accept what I have brought to you, then this is your good fortune in this world and the Hereafter, but if you reject it, I shall wait patiently for the command of Allah until Allah judges between me and you.) or words to that effect.
-
-**Classical tafsir:** Ibn Kathir notes: So he came and sat with them, and they said, 'O Muhammad, we have sent for you so that nobody will think we are to blame.
 ## Personal Reflections
-
 

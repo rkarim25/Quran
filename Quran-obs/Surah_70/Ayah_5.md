@@ -174,13 +174,5 @@ Mazhari has interpreted verse [ 5] of Surah As-Sajdah differently. He says that 
 
 So endure this denial, O Prophet, with beautiful sabr—steadfast endurance that keeps you upright.
 
-## AI Tafsir
-
-**What this ayah teaches:** The angels and the Ruh ascend to Him in a Day the measure whereof is fifty thousand years.)(5.
-
-**Classical tafsir:** Ibn Kathir notes: He says that the day of a thousand years mentioned here refers to one of the days of the phenomenal world.
-
-**From the Sunnah:** Then the man said, 'O Abu Hurayrah what is this?' Abu Hurayrah replied, 'I heard the Messenger of Allah ﷺ say, In this narration (of Ahmad) the Prophet ﷺ also added,
 ## Personal Reflections
-
 

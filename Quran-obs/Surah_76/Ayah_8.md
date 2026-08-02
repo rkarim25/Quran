@@ -179,15 +179,5 @@ This is because if the heart is happy, then the face will be enlightened. As Ka'
 
 They feed the poor, the orphan, and the captive—even when they themselves want that food—
 
-## AI Tafsir
-
-**Context:** Concerning the poor person and the orphan, an explanation of them and their characteristics has already preceded.
-
-**What this ayah teaches:** That feeding the poor and orphans is a form of worship and attracts reward is obvious.
-
-**Classical tafsir:** Ibn Kathir notes: In reference to the captive, Sa'id bin Jubayr, Al-Hasan and Ad-Dahhak all said, "He is the captive among the people of the Qiblah (i.e., the Muslims)." Ibn 'Abbas said, "At that time (when this Ayah was revealed) their (the Muslims') captives were idolators." Proof for this is that on the day of Bad… 'Ikrimah said, "They (captives) are the slaves." Ibn Jarir preferred this opinion since the Ayah gen…
-
-**From the Sunnah:** And whoever makes a vow to disobey Allah, then he should not disobey Him.) Al-Bukhari also recorded this Hadith from Malik.
 ## Personal Reflections
-
 

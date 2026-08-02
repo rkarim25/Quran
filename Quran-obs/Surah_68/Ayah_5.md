@@ -154,13 +154,5 @@ Thus, the entire statement means, 'so you will know and they will know,' or 'you
 
 Soon you and those who reject you will see
 
-## AI Tafsir
-
-**What this ayah teaches:** And verily, you are on an exalted character.)(5.
-
-**Classical tafsir:** Ibn Kathir notes: This means that he would act according to the commands and the prohibition in the Qur'an.
-
-**From the Sunnah:** This Hadith has been recorded by Imam Ahmad through various routes of transmission. (Musnad Ahmad, Jami' at-Tirmidhi) "It has been mentioned to us that Sa'd bin Hisham asked 'A'ishah about the character of the Messenger of Allah ﷺ, so she replied: 'Have you not read the Qur'an?' Sa'd said: 'Of course.' Then she said: 'Verily, the character of the Messenger of Allah ﷺ was the… (Sahih Muslim)
 ## Personal Reflections
-
 

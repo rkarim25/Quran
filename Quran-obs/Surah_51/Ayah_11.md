@@ -138,11 +138,5 @@ Allah the Exalted said,
 
 those steeped in ignorance, completely heedless.
 
-## AI Tafsir
-
-**What this ayah teaches:** In this context the word refers to those stubborn and obstinate infidels who, without any reason or evidence, say discordant things about the Messenger ﷺ .
-
-**Classical tafsir:** Ibn Kathir notes: In this context the word refers to those stubborn and obstinate infidels who, without any reason or evidence, say discordant things about the Messenger ﷺ .
 ## Personal Reflections
-
 

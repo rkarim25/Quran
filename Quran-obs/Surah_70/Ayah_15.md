@@ -120,11 +120,5 @@ Ibn Zayd said, "The Shawa is the marrow of the bones." As for,
 
 and everyone on earth altogether—just to save themselves.
 
-## AI Tafsir
-
-**What this ayah teaches:** The pronoun of innaha (it) refers to 'Fire' and the word laza means 'the flaming fire'. The word shawa is the plural of shawah and it refers to 'the scalp or the skin of the human head, and also the skin of the hands and the legs'.
-
-**Classical tafsir:** Ibn Kathir notes: The pronoun of innaha (it) refers to 'Fire' and the word laza means 'the flaming fire'.
 ## Personal Reflections
-
 

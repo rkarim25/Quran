@@ -242,15 +242,5 @@ And if the animal was edible (that is, Halal), then, whatever the estimate (of c
 
 It is lawful for you to hunt and eat seafood, as a provision for you and for travellers. But hunting on land is forbidden to you while on pilgrimage. live with taqwa toward Allah to Whom you all will be gathered.
 
-## AI Tafsir
-
-**Context:** Allah says, fear Allah, O people, and beware of His might, by obeying what He commands you and avoiding what He prohibits for you in these Ayat revealed to your Prophet ﷺ.
-
-**What this ayah teaches:** Lawful to you is water game and its use for food – for the benefit of yourselves and those who travel, but forbidden is (the pursuit of) land game as long as you are in a state of Ihram.
-
-**Classical tafsir:** Ibn Kathir notes: The Lam of ` Ahd indicates that the word is used in a restricted sense and not in a general sense.
-
-**From the Sunnah:** Abu 'Ubaydah ordered us to collect all the food for our journey, and it was collected in two bags of dates. Al-Bukhari, At-Tirmidhi and Ibn Hibban graded it Sahih. (Sahih al-Bukhari, Jami' at-Tirmidhi)
 ## Personal Reflections
-
 

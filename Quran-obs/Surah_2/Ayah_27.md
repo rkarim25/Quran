@@ -248,17 +248,5 @@ The cutting asunder of what Allah has commanded should be joined includes all ki
 
 who break Allah's covenant after affirming it, sever what He ordered joined, and spread corruption in the land. They are the true losers.
 
-## AI Tafsir
-
-**Essence** Those who break Allah's covenant after sealing it, sever what He ordered joined, and corrupt the earth are the losers.
-
-**What it teaches** Among its meanings: the 'ahd is Allah's covenant upon creation — obey Him, shun what He prohibited — renewed in His Books and Messengers; ignoring it breaks it.
-
-**The scholars** Qatadah: the severed bond is kinship (Ibn Jarir's preference), though it extends to all Allah commanded to nurture. Muqatil bin Hayyan ("very good," says Ibn Kathir): it embraces every denier of Allah's Oneness after His proofs. Ibn 'Abbas: of non-Muslims, "loser" means disbelief; of Muslims, sin.
-
-**From the Sunnah** "Five animals are Fawasiq, and they must be killed during Ihram and otherwise: the crow, the kite, the scorpion, the mouse and the rabid dog" — the fasiq slips the bounds of obedience as a date "fasaqat" slips its skin, as the mouse leaves its den for mischief. (The Two Sahihs)
-
-**Reflection** Guard what Allah has ordered to be joined — your pledge to Him, your kin, your neighbour — lest, merchant-like, you trade away your share of His mercy when you need it most.
 ## Personal Reflections
-
 

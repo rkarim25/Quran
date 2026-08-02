@@ -207,13 +207,5 @@ The angel of death does not know the time of anyone's death in advance - until h
 
 The true believers in Our revelation are those who, when it is recited to them, fall into prostration, glorify their Rabb, and are not too proud.
 
-## AI Tafsir
-
-**What this ayah teaches:** Only those believe in Our Ayat, who, when they are reminded of them, fall down prostrate, and glorify the praises of their Lord, and they are not proud (15)Their sides forsake their beds, to invoke their Lord in fear and hope, and they spend out of what We have bestowed on them (16)No person knows what is kept hidden for them of delights of eyes as a reward for what they used t…
-
-**Classical tafsir:** Ibn Kathir notes: Because they conceal their good deeds, Allah conceals the reward for them, a fitting reward which will suit their deeds.
-
-**From the Sunnah:** Their leader in this world and the Hereafter is the Messenger of Allah ﷺ. Paradise and keep me away from Hell. (Musnad Ahmad)
 ## Personal Reflections
-
 

@@ -531,15 +531,5 @@ In this one verse - after having described five of the ten prohibitions - it was
 
 Say, “Come! Let me recite to you what your Rabb has forbidden to you: do not associate others with Him. honour your parents. Do not kill your children for fear of poverty. We provide for you and for them. Do not come near indecencies, openly or secretly. Do not take a life—made sacred by Allah—except with right. This is what He has commanded you, so perhaps you will understand.
 
-## AI Tafsir
-
-**Context:** Ka'b al-Ahbar, an accomplished scholar of the Torah, was a Jew before he became a Muslim. He says that these verses of the Holy Qur'an which describe ten unlawful things are with what the Torah, the Book of Allah, begins…
-
-**What this ayah teaches:** It is relevant in the context because the right of parents due on children was taken up before it - and here, it is the right of children which is due on parents.
-
-**Classical tafsir:** Ibn Kathir notes: Though, the address in this verse directly refers to the those who reject the truth of Makkah, but the subject of the address is general in its nature.
-
-**From the Sunnah:** these words to me, and had I asked him for more, he would have said more. There is a prohibition, a warning and a threat against killing the Mu'ahid, i.e., non-Muslims who have a treaty of peace with Muslims. (Sahih al-Bukhari)
 ## Personal Reflections
-
 

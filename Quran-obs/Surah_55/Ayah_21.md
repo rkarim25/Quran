@@ -120,11 +120,5 @@ Allah created Different Types of Water
 
 So which of your Rabb's favours will you both—humans and jinn—deny?
 
-## AI Tafsir
-
-**What this ayah teaches:** The word bahrain [ two seas or two types of waters ] refers to sweet and salty waters.
-
-**Classical tafsir:** Ibn Kathir notes: Mujahid, Qatadah, Abu Ruzayn, Ad-Dahhak said it, and it has also been reported from 'Ali. The word bahrain [ two seas or two types of waters ] refers to sweet and salty waters.
 ## Personal Reflections
-
 

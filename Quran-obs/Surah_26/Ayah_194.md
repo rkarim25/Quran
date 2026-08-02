@@ -102,13 +102,5 @@ If only the translation of the Qur'an is written in any language without the Ara
 
 into your heart O Prophet—so that you may be one of the warners—
 
-## AI Tafsir
-
-**Context:** Here Allah tells us about the Book which He revealed to His servant and Messenger Muhammad ﷺ. (In the plain Arabic language.) meaning, 'this Qur'an which We have revealed to you, We have revealed in perfect and eloquent…
-
-**What this ayah teaches:** And truly, this is a revelation from the Lord of all that exists (192)Which the trustworthy Ruh (Jibril) has brought down (193)Upon your heart that you may be (one) of the warners (194)In the plain Arabic language .
-
-**Classical tafsir:** Ibn Kathir notes: Answer to this apparent contradiction is that according to majority of the Ummah, sometimes even the subject matter of the Qur’ an is called Qur'an in a general sense, because the real purpose of a book is the subjects it deals with.
 ## Personal Reflections
-
 

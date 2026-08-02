@@ -142,13 +142,5 @@ Allah, the Exalted, says,
 
 But when he approached it, he was called, “O Moses!
 
-## AI Tafsir
-
-**What this ayah teaches:** It shall not come upon you except all of a sudden.)[7:187] This means that its knowledge weighs heavily upon the dwellers of the heavens and the earth. And as he stood, not knowing what to do, a mysterious voice called him.
-
-**Classical tafsir:** Ibn Kathir notes: It shall not come upon you except all of a sudden.)[7:187] This means that its knowledge weighs heavily upon the dwellers of the heavens and the earth.
-
-**From the Sunnah:** At last he collected some dry grass and tried to light it but as soon as he pushed the grass towards the fire, it retracted.
 ## Personal Reflections
-
 

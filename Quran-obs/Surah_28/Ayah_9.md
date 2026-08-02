@@ -143,11 +143,5 @@ Her house was on the banks of the Nile, so she took a box and made it into a cra
 
 Pharaoh’s wife said to him, “This baby is a source of joy for me and you. Do not kill him. Perhaps he may be useful to us or we may adopt him as a son.” They were unaware of what was to come.
 
-## AI Tafsir
-
-**What this ayah teaches:** If the woman gave birth to a girl, they would leave her alone and go away, but if she gave birth to a boy, the killers would come in with their sharp knives and kill the child, then they would go away; may Allah curse them. No one ever saw Musa, peace be upon him, but they loved him, and the blessed ones were those who loved him both as a natural feeling and because he was a Prophet.
-
-**Classical tafsir:** Ibn Kathir notes: No one ever saw Musa, peace be upon him, but they loved him, and the blessed ones were those who loved him both as a natural feeling and because he was a Prophet.
 ## Personal Reflections
-
 

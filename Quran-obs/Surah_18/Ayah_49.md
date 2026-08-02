@@ -286,11 +286,5 @@ The outcome is that one's deed - whatever good or bad one does in the moral worl
 
 And the record of deeds will be laid open, and you will see the wicked in fear of what is written in it. They will cry, “Woe to us! What kind of record is this that does not leave any sin, small or large, unlisted?” They will find whatever they did present before them. And your Rabb will never wrong anyone.
 
-## AI Tafsir
-
-**What this ayah teaches:** And (remember) the Day We shall cause the mountains to pass away, and you will see the earth as a levelled plain, and We shall gather them so that We will leave not one of them behind (47)And they will be set before your Lord, aligned.
-
-**Classical tafsir:** Ibn Kathir notes: And (remember) the Day We shall cause the mountains to pass away, and you will see the earth as a levelled plain, and We shall gather them so that We will leave not one of them behind (47)And they will be set before your Lord, aligned.
 ## Personal Reflections
-
 

@@ -319,13 +319,5 @@ The contextual extension of the verse yields an important juristic rule and prin
 
 Test the orphans until they reach a marriageable age. Then if you feel they are capable of sound judgment, return their wealth to them. And do not consume it wastefully and hastily before they grow up. If the guardian is well-off, they should not take compensation; but if the guardian is poor, let them take a reasonable provision. When you give orphans back their property, call in witnesses. And sufficient is Allah as a Reckoner.
 
-## AI Tafsir
-
-**Context:** (And whoever among guardians is rich, he should take no wages, but if he is poor, let him have for himself what is just and reasonable.) was revealed about the guardian of the orphan and pertains to whatever work he does…
-
-**What this ayah teaches:** During the first stage, the guardians of children have been instructed to educate and train them by providing for them hands-on experience, that is, let them become smarter by conducting small dealings in buying and selling on their own.
-
-**Classical tafsir:** Ibn Kathir notes: Similar was also said by Ibn Mas'ud, Al-Hakam bin 'Uyaynah, Al-Hasan and Ad-Dahhak: "Women and boys." Sa'id bin Jubayr said that 'the unwise' refers to the orphans.
 ## Personal Reflections
-
 

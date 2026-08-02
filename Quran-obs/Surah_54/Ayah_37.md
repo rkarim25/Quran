@@ -110,13 +110,5 @@ The forthcoming verses address the people of the time of the Prophet Muhammad �
 
 They even demanded his guests from him, so We blinded their eyes. Taste My punishment and warnings!
 
-## AI Tafsir
-
-**Context:** رَ‌اوَدُوهُ عَن ضَيْفِهِ (And they had even tried to tempt him against his guests...54:37). The word murawadah signifies to entice someone to satisfy one's lust.
-
-**What this ayah teaches:** First, the punishment of the Hereafter is mentioned.
-
-**Classical tafsir:** Ibn Kathir notes: The word murawadah signifies to entice someone to satisfy one's lust.
 ## Personal Reflections
-
 

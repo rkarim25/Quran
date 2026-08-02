@@ -138,11 +138,5 @@ The verses 97 to 99 have warned the people of the world saying: "So, do the peop
 
 Did they feel secure against Allah’s planning? None would feel secure from Allah’s planning except the losers.
 
-## AI Tafsir
-
-**What this ayah teaches:** None feels secure from Allah's plan except the people who are the losers . Or, did the people of the towns then feel secure against the coming of Our punishment in the forenoon while they were playing?) while they are busy in their affairs and unaware.
-
-**Classical tafsir:** Ibn Kathir notes: Except the people of Yunus; when they believed, We removed from them the torment of disgrace in the life of the (present) world, and permitted them to enjoy for a while.)[10:98] This Ayah indicates that no city believed in its entirety, except the city of Prophet Yunus, for they…
 ## Personal Reflections
-
 

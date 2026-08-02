@@ -208,13 +208,5 @@ Another basharah (good news) of this world unfolds in the form that Muslims at l
 
 But they still rejected him, so We saved him and those with him in the Ark and made them successors, and drowned those who rejected Our signs. See then what was the end of those who had been warned!
 
-## AI Tafsir
-
-**What this ayah teaches:** Then see what was the end of those who were warned.) meaning 'O Muhammad, see how We saved the believers and destroyed the deniers!' Tell them how Allah destroyed them and caused every last one of them all to drown.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** And I have been commanded to be of the Muslims.) I submit to Islam. Cause me to die as a Muslim, and join me with the righteous.)(12:101) Musa said: (Sahih Muslim)
 ## Personal Reflections
-
 

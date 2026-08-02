@@ -280,13 +280,5 @@ Before we proceed to verse 8o, let us recapitulate what was said in the verses p
 
 And rise at the last part of the night, offering additional prayers, so your Rabb may raise you to a station of praise.
 
-## AI Tafsir
-
-**What this ayah teaches:** The outcome of these narrative reports is no other but that no Salah - other than the five prayers - is obligatory (fard) on the Muslim ummah at large and on the Holy Prophet ﷺ himself.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, some respected early commentators have taken 'nafilah' at this place as an attribute of faridah or duty.
-
-**From the Sunnah:** The details of the timings of the prayers were reported in the Mutawatir Sunnah from the words and deeds of the Prophet ﷺ, and this is what the people of Islam have followed until the present day, passing it down from generation to generation, century after ce… from Abu Hurayrah that the Prophet ﷺ said: (Sahih al-Bukhari)
 ## Personal Reflections
-
 

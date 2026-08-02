@@ -138,17 +138,5 @@ Verse 175 tells us that a person who changes the injunction of Shari'ah in his g
 
 They traded guidance for misguidance and forgiveness for punishment. How persistent they are in chasing the Fire!
 
-## AI Tafsir
-
-**Essence** These are people who struck the worst bargain in existence — trading away guidance, forgiveness, and Paradise to purchase misguidance, torment, and the Fire.
-
-**What it teaches** The astonishing center of the ayah is its final cry: "fama asbarahum 'ala an-nar" — "how bold/persistent they are toward the Fire." It is an expression of wonder. The torment they have earned is so severe that onlookers will be amazed anyone could bear it, yet these people march toward it as if undeterred — having paid for it with the very guidance that could have saved them.
-
-**The scholars** Ibn Kathir explains that the "guidance" they rejected was the truth about the Prophet Muhammad ﷺ — his description, the news of his prophethood, and the glad tidings of his coming foretold by earlier Prophets in their own Books. Out of fear of losing their authority and standing among the Arabs, the Jewish scholars concealed this, "and they sold their souls for this little profit," preferring misguidance by denying and rejecting him. By "torment at the price of forgiveness," he says they preferred punishment over forgiveness because of the sins they committed; and "how bold they are" means their torment will be so painful that those who see it will be amazed they can endure it — "We seek refuge with Allah from this evil end." Maarif ul Quran turns this into a warning to every scholar of this Ummah: one who alters the injunctions of the Shari'ah out of greed for worldly gain is in reality storing embers of fire in his stomach, for "unlawful wealth is, in reality, the very fire of Hell," unsensed now but appearing as fire after death.
-
-**From the Sunnah** Ibn Kathir cites an authentic Hadith to illustrate the ayah's image of "eating fire": the Prophet ﷺ said that "those who eat or drink in golden or silver plates are filling their stomachs with the fire of Jahannam." A specific forbidden act, indulged for worldly luxury in this world, becomes literal fire in the belly in the next. (authentic Hadith; collection unnamed in source)
-
-**Reflection** Knowledge is a trust before it is a possession. The moment we bend what we know for a fee, a title, or the crowd's approval, we have not gained the world — we have swallowed fire, and merely cannot feel the heat yet.
 ## Personal Reflections
-
 

@@ -178,15 +178,5 @@ Thereafter, in verses 13 and 14, Allah Almighty has described the high status of
 
 you were inattentive to him.
 
-## AI Tafsir
-
-**Context:** (He frowned and turned away.) "This was revealed about Ibn Umm Maktum, the blind man. He came to the Messenger of Allah ﷺ and began saying, 'Guide me.' At the time the Messenger of Allah ﷺ had a man with him who was one…
-
-**What this ayah teaches:** This interpretation is based on taking the word 'dhikra' in the sense of remembrance of Allah'. The first statement signifies 'to be purified' and the second statement signifies 'he may take heed and the reminder may benefit him'.
-
-**Classical tafsir:** Ibn Kathir notes: This indicates that education of Muslims and their reform are more important than, and take priority over, getting the non-Muslims to embrace the faith.
-
-**From the Sunnah:** He (Ibn Umm Maktum) then began asking the Messenger of Allah ﷺ about something, urgently beseeching him.
 ## Personal Reflections
-
 

@@ -233,13 +233,5 @@ The author of Ruh-ul-Ma` ani, in terms of his preferred interpretation, has expr
 
 Then on the Day We deal you the fiercest blow, We will surely inflict punishment.
 
-## AI Tafsir
-
-**Context:** (Then wait you for the Day when the sky will bring forth a visible smoke, covering the people, this is a painful torment) A man came to the Messenger of Allah ﷺ and said, "O Messenger of Allah!
-
-**What this ayah teaches:** You cannot get further than your rank.) There are numerous Marfu' and Mawquf Hadiths, Sahih, Hasan and others, which indicate that the smoke is one of the awaited signs (of the Hour). This is possible, but the apparent meaning is that it refers to the Day of Resurrection, although the day of Badr was also a day of vengeance.
-
-**Classical tafsir:** Ibn Kathir notes: This is possible, but the apparent meaning is that it refers to the Day of Resurrection, although the day of Badr was also a day of vengeance.
 ## Personal Reflections
-
 

@@ -134,13 +134,5 @@ Allah Ta’ ala did not simply order the bees to make homes, He also told them a
 
 Your Rabb inspired the bee: take homes in the mountains, trees, and what people build.
 
-## AI Tafsir
-
-**What this ayah teaches:** Allah Ta’ ala did not simply order the bees to make homes, He also told them as to where they should be located, that is, it should be at some altitude because such places help provide fresh, clean and almost-filtered air flow for the production of honey. The first hint is towards the fact: Since bees have to prepare honey, therefore, they should first make a safe home.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, the way it has been addressed by Allah Ta` ala shows a distinct elegance of its own.
-
-**From the Sunnah:** in their Sahihs from Qatadah from Abu Al-Mutawakkil 'Ali bin Dawud An-Naji from Abu Sa'id Al-Khudri that a man came to the Messenger of Allah ﷺ and said, "My brother is suffering from diarrhea".
 ## Personal Reflections
-
 

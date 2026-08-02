@@ -209,13 +209,5 @@ And it appears in the Sahih of Muslim that Sayyidna Ibn ` Abbas ؓ reports from 
 
 Say: "Call upon those you claim as gods besides Allah. They do not own even an atom's weight in the heavens or the earth, nor do they share in governing them, nor is any of them a helper to Him."
 
-## AI Tafsir
-
-**What this ayah teaches:** Then the text clarifies that even angels who are close to Allah cannot intercede for anyone without Allah's permission, and even if they are allowed to intercede, it is not easy for them to do that, because of Allah's awe they' have in their hearts.
-
-**Classical tafsir:** Ibn Kathir notes: So much so that when fear is banished from their hearts, they say: "What is it that your Lord has said?" They say the truth.
-
-**From the Sunnah:** intercede except for him with whom He is pleased. it. (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
-
 

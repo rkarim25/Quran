@@ -184,11 +184,5 @@ Sayyidna Ibn ` Abbas ؓ reports that when the revelation of Qur'an started, the 
 
 over which they dispute.
 
-## AI Tafsir
-
-**What this ayah teaches:** Nay, again, they will come to know!) This is a severe threat and a direct warning.
-
-**Classical tafsir:** Ibn Kathir notes: This is so that it may be suitable for dwelling and not quake with those who are in it.
 ## Personal Reflections
-
 

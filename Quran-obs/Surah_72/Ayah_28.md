@@ -168,13 +168,5 @@ Say, "No one in the heavens and the earth has the knowledge of the Unseen except
 
 so that the messengers fully deliver their Rabb's messages—though He already knows everything about them, and keeps precise account of all things.
 
-## AI Tafsir
-
-**What this ayah teaches:** He protects what He reveals to them of revelation so that He will know that they have indeed conveyed the Messages of their Lord. In other words, Allah alone encompasses the perfect knowledge of everything and keeps a meticulous count of it.
-
-**Classical tafsir:** Ibn Kathir notes: In this noble Ayah is an evidence that the Hadith that many of the ignorant people often circulate, which says that the Prophet ﷺ will not remain under the earth more than one thousand years (i.e., the Hour will be before that period) is a baseless lie.
-
-**From the Sunnah:** In this noble Ayah is an evidence that the Hadith that many of the ignorant people often circulate, which says that the Prophet ﷺ will not remain under the earth more than one thousand years (i.e., the Hour will be before that period) is a baseless lie.
 ## Personal Reflections
-
 

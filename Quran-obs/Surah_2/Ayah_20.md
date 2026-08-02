@@ -303,17 +303,5 @@ The last four verses bring out the miserable plight of the hypocrites with the h
 
 The lightning almost snatches their sight. Whenever it flashes they walk in its light; when darkness returns they stand still. Had Allah willed, He could have taken their hearing and sight. Allah is capable of everything.
 
-## AI Tafsir
-
-**Essence** A flash of faith lights the hypocrite's path for a step, then darkness halts him — while the power of Allah, Qadir over all things, encompasses him entirely.
-
-**What it teaches** The barq is the light of iman that flares at times in the hypocrite's heart; the darkness, his doubt and hypocrisy (Ibn Kathir).
-
-**The scholars** Ibn 'Abbas (through Muhammad bin Ishaq): they recognize the truth and speak it uprightly, but reverting to disbelief they fall back into confusion — the view Ibn Kathir calls most correct. Ibn 'Abbas and Ad-Dahhak relate that the hypocrite's light is extinguished at the Sirat. The threat came "because they abandoned the truth after they had knowledge in it" (Ibn 'Abbas); His ability completely encompasses them (Ibn Jarir).
-
-**From the Sunnah** Lying in speech, treachery in covenants, betrayal of trusts — all three make a pure hypocrite; even one is a trait of hypocrisy until he gives it up (the Two Sahihs). The hearts are four: the believer's polished and lamp-lit, the disbeliever's sealed, the pure hypocrite's overturned, and a wrapped heart where faith and hypocrisy contend until one prevails (Imam Ahmad).
-
-**Reflection** Walk by faith in the dark, not only when it flashes — and ask Allah to keep your light perfect until the crossing.
 ## Personal Reflections
-
 

@@ -142,15 +142,5 @@ Ha Meem- Only Allah knows its meaning.
 
 By the clear Book—a scripture whose meaning is plain and whose guidance is unmistakable.
 
-## AI Tafsir
-
-**Context:** (Ha-Mim. By the manifest Book.) means, plain and clear in both wording and meaning, because it was revealed in the language of the Arabs, which is the most eloquent language for communication among people.
-
-**What this ayah teaches:** By the manifest Book.) means, plain and clear in both wording and meaning, because it was revealed in the language of the Arabs, which is the most eloquent language for communication among people.
-
-**Classical tafsir:** Ibn Kathir notes: By the manifest Book.) means, plain and clear in both wording and meaning, because it was revealed in the language of the Arabs, which is the most eloquent language for communication among people.
-
-**From the Sunnah:** Consolation to the Prophet ﷺ for the Disbelief of Quraysh
 ## Personal Reflections
-
 

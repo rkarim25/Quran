@@ -110,13 +110,5 @@ Allah instructs the Holy Prophet ﷺ to counter evil with good, oppression with 
 
 Respond to evil with what is best. We know well what they claim.
 
-## AI Tafsir
-
-**What this ayah teaches:** It is for this reason that the Holy Prophet ﷺ is instructed in the next verse to seek protection from Shaitan's evil suggestions even in the battle fields where he may arouse emotions to act against ethics.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** If You would show me that with which they are threatened.) meaning, 'if You punish them while I am witnessing that, then do not cause me to be one of them.' As was said in the Hadith recorded by Imam Ahmad and At-Tirmidhi, who graded it Sahih: (Musnad Ahmad, Jami' at-Tirmidhi) We have already stated, when discussing Isti'adhah (seeking refuge), that the Messenger of Allah ﷺ used to say,
 ## Personal Reflections
-
 

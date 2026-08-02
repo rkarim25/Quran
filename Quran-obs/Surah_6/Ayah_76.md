@@ -226,11 +226,5 @@ This debating style of Sayyidna Ibrahim (علیہ السلام) provides some im
 
 When the night grew dark upon him, he saw a star and said, “This is my Rabb!” But when it set, he said, “I do not love things that set.”
 
-## AI Tafsir
-
-**What this ayah teaches:** It is He in Whose Hand is the dominion of all things, and He is the Creator, Lord, King and Allah of all things in existence.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, you are in disarray and ignorance, and this fact is clear to all those who have sound reason.
 ## Personal Reflections
-
 

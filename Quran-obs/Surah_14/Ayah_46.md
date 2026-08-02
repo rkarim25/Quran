@@ -156,13 +156,5 @@ There are a good many commentators who have taken the word: (in) appearing in و
 
 They devised every plot known to Allah, but their plotting could not even overpower mountains—let alone Allah.
 
-## AI Tafsir
-
-**What this ayah teaches:** But, all plans made by them, open or concealed, lie exposed before Allah Ta’ ala who is fully aware of them, and comprehensively capable of foiling them - even though, their plots were so precise and lethal that they would have made mountains back out from their place, but finally, nothing worked before the perfect power of Allah Ta’ ala.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** Which can be explained further by saying that those people tried to demolish the true faith and put in action their deadliest plans to bring harm to Muslims who had embraced the call of truth.
 ## Personal Reflections
-
 

@@ -152,11 +152,5 @@ Man and Devil Dispute before Allah
 
 One's devilish companion will say: Our Rabb, I did not make them transgress. They were already far astray on their own.
 
-## AI Tafsir
-
-**What this ayah teaches:** The word qarin literally denotes a companion, that is, one who accompanies or associates with another.
-
-**Classical tafsir:** Ibn Kathir notes: The word qarin literally denotes a companion, that is, one who accompanies or associates with another.
 ## Personal Reflections
-
 

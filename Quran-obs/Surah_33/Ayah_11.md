@@ -165,11 +165,5 @@ The Holy Prophet ﷺ said, "In the light that was released after the first strik
 
 Then and there the mu'mins were put to the test, and were violently shaken.
 
-## AI Tafsir
-
-**Context:** Identified in the previous verses was the great station of the Holy Prophet ﷺ along with the instruction to Muslims that they should follow and obey him totally and perfectly.
-
-**What this ayah teaches:** Therefore, this battle was the severest on the Holy Prophet t and the noble Sahabah as compared with other battles - because, the count of the attacking confederate forces of the those who reject the truth has been given as twelve to fifteen thousand.
 ## Personal Reflections
-
 

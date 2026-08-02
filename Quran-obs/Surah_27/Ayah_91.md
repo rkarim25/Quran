@@ -169,13 +169,5 @@ Commentary
 
 Say, O Prophet, “I have only been commanded to worship the Rabb of this city of Mecca, Who has made it sacred, and to Him belongs everything. And I am commanded to be one of those who fully submit to Him,
 
-## AI Tafsir
-
-**What this ayah teaches:** And your Lord is not unaware of what you do.
-
-**Classical tafsir:** Ibn Kathir notes: Word Haram is derived from Tahrim, which means "to prohibit" and also means "complete respect and veneration", and because of this respect and veneration whatever special religious prohibitions are applicable to Makkah and its surrounding land are also included in it.
-
-**From the Sunnah:** It was recorded that Imam Ahmad, may Allah have mercy upon him, used to recite the following two lines of verse, whether they were written by him or someone else: "If you are alone one day, do not say, 'I am alone.' Rather say, 'Someone is watching me.' Do not… (Musnad Ahmad)
 ## Personal Reflections
-
 

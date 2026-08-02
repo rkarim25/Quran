@@ -112,11 +112,5 @@ After that, it was said: وَنُفِخَ فِي الصُّورِ‌ فَإِذ�
 
 The Trumpet will be blown a second time, then—behold!—they will rush from the graves to their Lord.
 
-## AI Tafsir
-
-**What this ayah teaches:** The Trumpet Blast of the Resurrection This will be the third blast of the trumpet, the trumpet blast of the resurrection when people will come forth from their graves.
-
-**Classical tafsir:** Ibn Kathir notes: Ubayy bin Ka'b, may Allah be pleased with him, Mujahid, Al-Hasan and Qatadah said, "They will sleep before the Resurrection." Qatadah said, "That will be between the two trumpet blasts, they will say, 'Who has raised us up from our place of sleep?'" When they say that, the believers will respond.
 ## Personal Reflections
-
 

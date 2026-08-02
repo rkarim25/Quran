@@ -228,19 +228,5 @@ To sum up, it can be safely said that making a small group of people with very l
 
 Indeed, there was a sign for you in the two armies that met in battle—one fighting for the cause of Allah and the other in denial. those who have iman saw their enemy twice their number. But Allah supports with His victory whoever He wills. Surely in this is a lesson for people of insight.
 
-## AI Tafsir
-
-**Essence**
-At Badr, Allah turned overwhelming odds into a sign — proof that He grants victory to whom He wills, a lesson for everyone who truly sees.
-
-**What it teaches**
-The ayah points to the Battle of Badr as an ayah — a "sign" and "proof," as Ibn Kathir glosses it — that Allah will make His religion prevail and aid His Messenger ﷺ. Two camps met: one fighting fi sabil-illah (in the cause of Allah), the other in kufr (disbelief), and the closing words call it an 'ibrah (a lesson) for uli al-absar, the "people of insight" who possess intelligence and sound comprehension.
-
-**The scholars**
-Ibn Kathir explains the address is to the Jews whom the Prophet ﷺ gathered after Badr at the marketplace of Bani Qaynuqa': "You have an Ayah, meaning proof, that Allah will make His religion prevail." On "they saw them twice their number," he reports two readings — the idolaters saw the Muslims as twice their own number (an illusion Allah made a factor in their defeat), and the Muslims saw the idolaters as twice theirs, yet were granted victory. He harmonizes this with Surah al-Anfal: each side was first made to seem larger so the believers would "trust in Allah and seek His help" and the disbelievers would feel "fear, horror, fright and despair," and at the moment of clashing each was made to look fewer "so that Allah might accomplish a matter already ordained" — that truth prevail over falsehood. Maarif ul Quran fixes the numbers: roughly 1000 disbelievers with 700 camels and 100 horses against just over 300 Muslims with 70 camels, 2 horses, 6 armours and 8 swords — a tiny force whose victory, "prophesied in Makkah, is an unusual event full of lessons for the observant and the discerning."
-
-**Reflection**
-When the odds against you look doubled, double your turning to Allah — as the believers of Badr did — and trust that His help reaches whom He wills.
 ## Personal Reflections
-
 

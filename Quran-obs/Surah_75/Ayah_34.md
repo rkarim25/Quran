@@ -174,13 +174,5 @@ The word aula is the inverted form of wail which means ' The expression 'woe' ha
 
 Woe to you—then woe again!
 
-## AI Tafsir
-
-**What this ayah teaches:** And then woe to you!) This is a definite warning and threat from Allah to those who disbelieve in Him and strut about when walking.
-
-**Classical tafsir:** Ibn Kathir notes: This means, 'you deserve to strut like this while you have disbelieved in your Creator and Maker.' This is what is commonly said in this type of situation in order to mock and intimidate (someone).
-
-**From the Sunnah:** this to Abu Jahl, then Allah, the Mighty and Sublime, revealed this Ayah.'
 ## Personal Reflections
-
 

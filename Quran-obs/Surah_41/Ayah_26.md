@@ -146,13 +146,5 @@ It is learnt from the above verse that making noises with the intention of creat
 
 Those who reject the truth advised one another: "Do not listen to this Quran but drown it out so that you may prevail."
 
-## AI Tafsir
-
-**What this ayah teaches:** It is Wajib (necessary) to listen quietly while Qur’ an is being recited; It is infidel's way not to remain quiet.
-
-**Classical tafsir:** Ibn Kathir notes: And the Word is justified against them as it was justified against those who were among the previous generations of Jinn and men that had passed away before them.
-
-**From the Sunnah:** "And make noise in the midst of its (recitation)" means whistling and trying to make the Messenger of Allah ﷺ confused when he recited Qur'an, which is what the Quraysh did.
 ## Personal Reflections
-
 

@@ -133,11 +133,5 @@ Then there is the other situation. If being of the same age is taken to mean tha
 
 That is for the righteous. The transgressors will have the worst destination:
 
-## AI Tafsir
-
-**What this ayah teaches:** Where they will enter it, and worst (indeed) is that place to rest (56)This is so!
-
-**Classical tafsir:** Ibn Kathir notes: Verily, they shall enter in the Fire!) meaning, because they are of the people of Hell.
 ## Personal Reflections
-
 

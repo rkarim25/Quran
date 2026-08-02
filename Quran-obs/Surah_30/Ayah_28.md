@@ -175,11 +175,5 @@ At-Tabarani recorded that Ibn 'Abbas said, "The people of Shirk used to say in t
 
 He gives you an example from your own lives: would you make those under your care equal partners in wealth We gave you, honouring them as you honour peers? This is how We clarify signs for people who understand.
 
-## AI Tafsir
-
-**What this ayah teaches:** He sets forth for you a parable from yourselves: Do you have partners among those whom your right hands possess to share as equals in the wealth We have bestowed on you, whom you fear as you fear each other? Therefore, the Qur'an has used the word 'mathal' for Allah Ta’ ala at several places, as in this very verse, and in another but Allah Ta’ ala's Being is completely beyond resemblance.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, the Qur'an has used the word 'mathal' for Allah Ta’ ala at several places, as in this very verse, and in another but Allah Ta’ ala's Being is completely beyond resemblance.
 ## Personal Reflections
-
 

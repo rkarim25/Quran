@@ -74,13 +74,5 @@ The word: بُرُ‌وجًا ; is the plural of: بُرُج (burj) which is app
 
 And We protected it from every accursed devil,.
 
-## AI Tafsir
-
-**What this ayah teaches:** And indeed, We have put the big stars in the heaven and We beautified it for the beholders (16)And We have guarded it (near heaven) from every outcast Shaytan (devil)(17)Except him (devil) who steals the hearing, then he is pursued by a clear flaming fire (18)And We have spread out the earth, and have placed firm mountains in it, and caused all kinds of things to grow in it, in due proportion (19)…
-
-**Classical tafsir:** Ibn Kathir notes: Here, Mujahid and Qatadah said that Buruj [big stars] refers to the heavenly bodies.
-
-**From the Sunnah:** Explaining this Ayah, Al-Bukhari reported from Abu Hurayrah that the Prophet ﷺ said: (Sahih al-Bukhari) This was also the opinion of Sa'id bin Jubayr, 'Ikrimah, Abu Malik, Mujahid, Al-Hakim bin 'Utaybah, Al-Hasan bin Muhammad, Abu Salih and Qatadah. (al-Mustadrak)
 ## Personal Reflections
-
 

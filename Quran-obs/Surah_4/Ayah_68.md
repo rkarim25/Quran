@@ -150,15 +150,5 @@ This great reward promised here in the end of verse 67 for those who obey Allah 
 
 If We had commanded them to sacrifice themselves or abandon their homes, none would have obeyed except for a few. Had they done what they were advised to do, it would have certainly been far better for them and more reassuring, and We would have granted them a great reward by Our grace and guided them to the Sirat al-Mustaqim—the Sirat al-Mustaqim—the way of living that pleases Allah that pleases Allah.
 
-## AI Tafsir
-
-**Context:** (And whoever obeys Allah and the Messenger, then they will be in the company of those on whom Allah has bestowed His grace, of the Prophets, the true believers, the martyrs, and the righteous.
-
-**What this ayah teaches:** This will make their faith more firm, bringing a great reward from Allah, and the blessing of being guided to the straight path.
-
-**Classical tafsir:** Ibn Kathir notes: This was a severe command, but we obeyed it, so much so that seventy thousand of our people were killed.
-
-**From the Sunnah:** This Hadith explains the meaning of another Hadith; the Prophet ﷺ said before his death; I fear that I might not see you when I enter Paradise.' The Prophet ﷺ did not answer him until the Ayah,
 ## Personal Reflections
-
 

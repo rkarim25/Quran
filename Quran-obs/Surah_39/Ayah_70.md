@@ -161,11 +161,5 @@ In verse 69, it was said: وَجِيءَ بِالنَّبِيِّينَ وَال
 
 Every soul will be paid in full for its deeds, for Allah knows best what they have done.
 
-## AI Tafsir
-
-**What this ayah teaches:** Then it will be blown another time, and behold they will be standing, looking on (68)And the earth will shine with the light of its Lord, and the Book will be presented, and the Prophets and the witnesses will be brought forward, and it will be judged between them with truth, and they will not be wronged (69)And each person will be paid in full of what he did; and He is Best Aw…
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

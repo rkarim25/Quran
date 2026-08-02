@@ -141,11 +141,5 @@ In this case, what can be proved from the cited verse (28) is its desirability o
 
 But if you desire Allah and His Messenger and the everlasting Home of the Akhirah, then Surely Allah has prepared a great reward for those of you who do good.”
 
-## AI Tafsir
-
-**What this ayah teaches:** The 'Verse of Choice' is the title of the verse 29 cited above where the blessed wives of the Holy Prophet ﷺ are given a choice either to seek divorce from him or to remain with him, seeking the pleasure of Allah and His Messenger. They chose Allah and His Messenger ﷺ and the Home of the Hereafter, may Allah be pleased with them.
-
-**Classical tafsir:** Ibn Kathir notes: The 'Verse of Choice' is the title of the verse 29 cited above where the blessed wives of the Holy Prophet ﷺ are given a choice either to seek divorce from him or to remain with him, seeking the pleasure of Allah and His Messenger.
 ## Personal Reflections
-
 

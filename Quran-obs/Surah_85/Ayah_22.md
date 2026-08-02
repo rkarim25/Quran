@@ -118,13 +118,5 @@ Surah Al-Buruj Ends here
 
 recorded on a Preserved Tablet.
 
-## AI Tafsir
-
-**What this ayah teaches:** It signifies that they will be put into Hell and will have to suffer eternal torment of the fire. Another possible interpretation is that the second statement describes the wrong-doers' torment in this world, as is narrated in some reports.
-
-**Classical tafsir:** Ibn Kathir notes: It signifies that they will be put into Hell and will have to suffer eternal torment of the fire.
-
-**From the Sunnah:** After that the fire flared up so high that it spread out wildly through the city and burned all those who were watching the fun of burning the Muslims.
 ## Personal Reflections
-
 

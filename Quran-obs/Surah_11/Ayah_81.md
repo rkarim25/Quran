@@ -182,11 +182,5 @@ Reports say that these habitations were composed of four major towns where those
 
 The angels said, “O Lot! We are the messengers of your Rabb. They will never reach you. So travel with your family in the dark of night, and do not let any of you look back, except your wife. She will certainly suffer the fate of the others. Their appointed time is the morning. Is the morning not near?”
 
-## AI Tafsir
-
-**What this ayah teaches:** And asked him to instruct everyone in his family not to turn and look back with the exception of his wife because she was going to be hit by the same punishment that was to fall on his people. So travel with your family in a part of the night, and let not any of you look back; but your wife (will remain behind), verily, the punishment which will afflict them, will afflict her.
-
-**Classical tafsir:** Ibn Kathir notes: And asked him to instruct everyone in his family not to turn and look back with the exception of his wife because she was going to be hit by the same punishment that was to fall on his people.
 ## Personal Reflections
-
 

@@ -140,11 +140,5 @@ Dhul-Qarnain). This way could be to take this address to have been made to Dhul-
 
 He responded, “Whoever does wrong will be punished by us, then will be returned to their Rabb, Who will punish them with a horrible torment.
 
-## AI Tafsir
-
-**What this ayah teaches:** Therefore, as said in the next verses, Allah Ta’ ala gave Dhul-Qarnain the choice of punishing them right away for their infidelity. As for the sense of his seeing the Sun setting into such a spring, it means that an onlooker perceived it as setting into the spring because there was no habitation or dry land in sight.
-
-**Classical tafsir:** Ibn Kathir notes: Hami'ah is, according to one of the two views, derived from the word Hama'ah, which means mud.
 ## Personal Reflections
-
 

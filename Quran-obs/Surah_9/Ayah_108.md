@@ -204,13 +204,5 @@ From here we also come to know that the merit or superiority of a masjid really 
 
 Do not ever pray in it. Certainly, a mosque founded on righteousness from the first day is more worthy of your prayers. In it are men who love to be purified. And Allah loves those who purify themselves.
 
-## AI Tafsir
-
-**What this ayah teaches:** In this verse, the masjid declared worthier for the prayers of the Holy Prophet ﷺ is the one the foundation of which was laid on Taqwa from day one.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, whoever attends the prayer with us let him make perfect Wudu'.) This Hadith indicates that complete purification helps in the performance of acts of worship and aids in preserving and completing them.
-
-**From the Sunnah:** When the Messenger of Allah ﷺ arrived at Al-Madinah after the Hijrah, the Muslims gathered around him and the word of Islam was triumphant on the day of Badr, causing Abu 'Amir, the cursed one, to choke on his own saliva and announce his enmity to Islam. It is recorded in the Sahih that the Messenger of Allah ﷺ used to visit Masjid Quba' while riding and walking.
 ## Personal Reflections
-
 

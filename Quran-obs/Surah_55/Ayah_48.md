@@ -76,13 +76,5 @@ This Ayah is general and applies to both humans and Jinns, providing proof that 
 
 Both with spreading branches.
 
-## AI Tafsir
-
-**What this ayah teaches:** branches and consequently their shade will be dense, and the fruits will be in abundance.
-
-**Classical tafsir:** Ibn Kathir notes: This describes the first two Gardens.
-
-**From the Sunnah:** The Group, with the exception of Abu Dawud, collected this via the Hadith of 'Abdul-'Aziz. (Sunan Abi Dawud)
 ## Personal Reflections
-
 

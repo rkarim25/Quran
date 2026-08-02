@@ -116,13 +116,5 @@ Upto this point, in the first three verses cited above, there was the answer of 
 
 Those who reject the truth say, "Why has no sign come to him from his Rabb?" You are only a warner. Every people had a guide.
 
-## AI Tafsir
-
-**What this ayah teaches:** And the those who reject the truth say: "Why is not a sign sent down to him from his Lord?" You are only a warner, and to every people there is a guide .
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, this verse does not make it necessary that some prophet or messenger of Allah has also appeared in India.
-
-**From the Sunnah:** Allah states that out of their disbelief and stubbornness, the idolators asked why is not a miracle sent down to the Messenger ﷺ from his Lord, just like the earlier Messengers For instance, the those who reject the truth were being stubborn when they asked the Prophet ﷺ to…
 ## Personal Reflections
-
 

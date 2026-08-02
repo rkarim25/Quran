@@ -102,15 +102,5 @@ In the sentence preceding this sentence Hadhrat Ibrahim (علیہ السلام) 
 
 We showered them with Our mercy and blessed them with honourable mention.
 
-## AI Tafsir
-
-**Context:** In the sentence preceding this sentence Hadhrat Ibrahim (علیہ السلام) had expressed the hope that on account of his prayers and devotion Allah Ta` ala would not abandon him.
-
-**What this ayah teaches:** So when he had turned away from them and from those whom they worshipped besides Allah, We gave him Ishaq and Ya'qub, and each one of them We made a Prophet (49)And We gave them of Our mercy, and We granted them Sidqin 'Aliyyan on the tongues .
-
-**Classical tafsir:** Ibn Kathir notes: The sentence reproduced above describes the manner in which his prayer was granted.
-
-**From the Sunnah:** in a Hadith whose authenticity is agreed upon, when he was asked who was the best of people
 ## Personal Reflections
-
 

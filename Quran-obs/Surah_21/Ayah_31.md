@@ -176,13 +176,5 @@ They do not think about how Allah has created it, so vast and high, and adorned 
 
 And We have placed firm mountains upon the earth so it does not shake with them, and made in it broad pathways so they may find their way.
 
-## AI Tafsir
-
-**What this ayah teaches:** Will they not then believe (30)And We have placed on the earth firm mountains, lest it should shake with them, and We placed therein broad highways for them to pass through, that they may be guided (31)And We have made the heaven a roof, safe and well-guarded.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, the meaning of this verse is that Allah Ta` ala has planted mountains on the earth to hold it in place because any violent movement of the earth would be catastrophic to those who live on it.
-
-**From the Sunnah:** a man came to him and questioned him about when the heavens and earth were joined together then they were parted. This chain of narration fulfills the conditions of the Two Sahihs, apart from Abu Maymunah, who is one of the men of the Sunans, his first name was Salim; and At-Tirmidhi classed him as Sahih. (Jami' at-Tirmidhi)
 ## Personal Reflections
-
 

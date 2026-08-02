@@ -174,13 +174,5 @@ Allah's saying:
 
 And those who had craved his position the previous day began to say, “Ah! It is certainly Allah Who gives abundant or limited provisions to whoever He wills of His servants. Had it not been for the grace of Allah, He could have surely caused the earth to swallow us up! Oh, indeed! those who reject the truth will never succeed.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Had it not been that Allah was Gracious to us, He could have caused the earth to swallow us up!
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** his father told him that the Messenger of Allah ﷺ said: (Sahih al-Bukhari)
 ## Personal Reflections
-
 

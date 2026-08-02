@@ -112,13 +112,5 @@ Al-Bukhari recorded that Abu Hurayrah said that the Prophet ﷺ said,
 
 nor will you ever suffer from thirst or the sun’s heat.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Thirst is the internal heat and being parched from lack of water, while the suns heat is the external heat.
-
-**Classical tafsir:** Ibn Kathir notes: Adam and Iblis Ibn Abi Hatim recorded that Ibn 'Abbas said, "Verily, man was named Insan only because he was given a covenant, but he forgot it (Nasiya)." 'Ali bin Abi Talhah reported the same from Ibn 'Abbas. He also explains the enmity of Iblis for the Children of Adam and for their father, Adam, before them.
-
-**From the Sunnah:** Ibn Abi Hatim recorded that Ibn 'Abbas said, "Verily, man was named Insan only because he was given a covenant, but he forgot it (Nasiya)." 'Ali bin Abi Talhah reported the same from Ibn 'Abbas. Paradise there is a tree which a rider can travel under its shade for one hundred years and still not have passed it. (Musnad Ahmad)
 ## Personal Reflections
-
 

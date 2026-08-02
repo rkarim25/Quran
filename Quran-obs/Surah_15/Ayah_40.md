@@ -126,13 +126,5 @@ Addressing Iblis in Surah Al-A` raf, it was said: مَا مَنَعَكَ أَل
 
 except Your chosen servants among them.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Because You misled me, I shall indeed adorn the path of error for them (mankind) on the earth, and I shall mislead them all. This indicates that the main prostraters were after all the angels but Iblis too, being present with them, was reason-bound to join the prostrating an-gels.
-
-**Classical tafsir:** Ibn Kathir notes: This indicates that the main prostraters were after all the angels but Iblis too, being present with them, was reason-bound to join the prostrating an-gels.
-
-**From the Sunnah:** Ibn Abi Hatim recorded that Samurah bin Jundub reported from the Prophet ﷺ about,
 ## Personal Reflections
-
 

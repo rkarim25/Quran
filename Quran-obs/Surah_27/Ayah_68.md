@@ -106,11 +106,5 @@ There are different recitations for the word اِدّٰرَکَ (iddaraka) and t
 
 We have already been promised this, as well as our forefathers earlier. This is nothing but ancient fables!”
 
-## AI Tafsir
-
-**What this ayah teaches:** It is enough to understand here that some commentators have taken it to mean "completion" and have explained the verse thus: "Their knowledge and understanding will be completed in the Hereafter", because then the truth about every thing shall be laid bare. But some other commentators have taken the word in the meaning of 'having failed' and 'hating been lost'.
-
-**Classical tafsir:** Ibn Kathir notes: It is enough to understand here that some commentators have taken it to mean "completion" and have explained the verse thus: "Their knowledge and understanding will be completed in the Hereafter", because then the truth about every thing shall be laid bare.
 ## Personal Reflections
-
 

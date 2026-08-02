@@ -146,11 +146,5 @@ Commentary
 
 Allah has never had any offspring, nor is there any god besides Him. Otherwise, each god would have taken away what he created, and they would have tried to dominate one another. Glorified is Allah above what they claim!
 
-## AI Tafsir
-
-**What this ayah teaches:** No son (or offspring) did Allah beget, nor is there any Allah along with Him.
-
-**Classical tafsir:** Ibn Kathir notes: It is impossible for the will of both to be fulfilled because of the conflict.
 ## Personal Reflections
-
 

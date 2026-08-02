@@ -189,13 +189,5 @@ Imam Ahmad recorded that Al-Harith Al-Bakri said: "I went to the Messenger of Al
 
 He said, “You will certainly be subjected to your Rabb’s torment and wrath. Do you dispute with me regarding the so-called gods which you and your forefathers have made up—a practice Allah has never authorized? Then wait! I too am waiting with you.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Hud said, do you dispute with me over these idols that you and your fathers made gods, even though they do not bring harm or benefit; did Allah give you authority or proof allowing you to worship them? They were subjected to it for seven nights and eight days in succession, so that you could see men lying overthrown (destroyed), as if they were hollow trunks of date palms!
-
-**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas said that, 'Rijs', means scorn and anger.
-
-**From the Sunnah:** I also found a black flag raised high, while Bilal was holding a sword before the Messenger of Allah ﷺ. (Musnad Ahmad, Jami' at-Tirmidhi)
 ## Personal Reflections
-
 

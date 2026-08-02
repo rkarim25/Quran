@@ -134,11 +134,5 @@ There is a Hadith whose attribution to the Holy Prophet ﷺ has been held by Ibn
 
 And by the clouds heavy with rain,
 
-## AI Tafsir
-
-**What this ayah teaches:** It explains these four things as follows: The expression Dhariyat [ scatterers ] refers to the wind that blows up dust; the expression hamilat-i-wiqran literally denotes burden-bearers and contextually refers to the clouds that carry the burden of water or rain; the expression jariyat-i-yusran refers to the ships that sail smoothly and with ease in the water; and the expression muqassimat-i-amran…
-
-**Classical tafsir:** Ibn Kathir notes: It explains these four things as follows: The expression Dhariyat [ scatterers ] refers to the wind that blows up dust; the expression hamilat-i-wiqran literally denotes burden-bearers and contextually refers to the clouds that carry the burden of water or rain; the expression ja…
 ## Personal Reflections
-
 

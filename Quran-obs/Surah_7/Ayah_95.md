@@ -140,11 +140,5 @@ The Arabic word: سَّيِّئَةِ 'sayyiah' in this verse refers to distress
 
 Then We changed their adversity to prosperity until they flourished and argued, “Our forefathers had been visited by adversity and prosperity.” So We seized them by surprise, while they were unaware.
 
-## AI Tafsir
-
-**What this ayah teaches:** And We sent no Prophet unto any town (and they denied him), but We seized its people with Ba'sā' and Ḍarrā', so that they might humble themselves (to Allah)(94)Then We changed the evil for the good, until they 'Afaw (increased), and said: "Our fathers were touched with evil and with good." So We seized them all of a sudden while they were unaware .
-
-**Classical tafsir:** Ibn Kathir notes: This Ayah indicates that Allah sent down severe afflictions to them so that they might invoke Him, but they did not do what He ordered them.
 ## Personal Reflections
-
 

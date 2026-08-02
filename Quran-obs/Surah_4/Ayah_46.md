@@ -233,13 +233,5 @@ In the previous verse (46), there was a description of the Jewish stance against
 
 Some Jews take words out of context and say, “We listen and we disobey,” “Hear! May you never hear,” and “Râ’ina!” [Herd us!]—playing with words and discrediting the faith. Had they said, “We hear and obey,” “Listen to us,” and “Unẓurna,” [Tend to us!] it would have been better for them and more proper. Allah has condemned them for their rejection of the truth, so they do not believe except for a few.
 
-## AI Tafsir
-
-**What this ayah teaches:** This last aspect is in a way an exhortation to Muslims that they should be careful in choosing the words they use to say what they have to say, for mincing words is not their style.
-
-**Classical tafsir:** Ibn Kathir notes: They also ignored the knowledge that they inherited from previous Prophets, about the description of Muhammad ﷺ, so that they may have a small amount of the delights of this life.
-
-**From the Sunnah:** This last aspect is in a way an exhortation to Muslims that they should be careful in choosing the words they use to say what they have to say, for mincing words is not their style.
 ## Personal Reflections
-
 

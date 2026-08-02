@@ -159,13 +159,5 @@ Maulana Ashraf ` Ali Thanavi (رح) has, in his Tafsir Bay-an al-Qur'an, taken u
 
 O you who have iman! Do not take those who reject the truth as allies instead of those who have iman. Would you like to give Allah solid proof against yourselves?
 
-## AI Tafsir
-
-**What this ayah teaches:** Do you wish to offer Allah a manifest Sultan against yourselves (144)Verily, the hyprocrites will be in the lowest depth (grade) of the Fire; no helper will you find for them (145)Except those who repent, do righteous good deeds, depend on Allah, and purify their religion for Allah, then they will be with the believers. Do not take those who reject the truth as friends instead of believers.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** Ibn Abi Hatim recorded that when Ibn Mas'ud was asked about the hypocrites, he said, "They will be placed in coffins made of fire and they will be closed in them in the lowest depth of the Fire."
 ## Personal Reflections
-
 

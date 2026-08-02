@@ -133,11 +133,5 @@ The verses 97 to 99 have warned the people of the world saying: "So, do the peop
 
 Or did they feel secure that Our punishment would not come upon them by day while they were at play?
 
-## AI Tafsir
-
-**What this ayah teaches:** So We took them (with punishment) for what they used to earn (96)Did the people of the towns then feel secure against the coming of Our punishment by night while they were asleep (97)Or, did the people of the towns then feel secure against the coming of Our punishment in the forenoon while they were playing (98)Did they then feel secure against Allah's plan?
-
-**Classical tafsir:** Ibn Kathir notes: Except the people of Yunus; when they believed, We removed from them the torment of disgrace in the life of the (present) world, and permitted them to enjoy for a while.)[10:98] This Ayah indicates that no city believed in its entirety, except the city of Prophet Yunus, for they…
 ## Personal Reflections
-
 

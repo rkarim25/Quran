@@ -127,11 +127,5 @@ There are different recitations for the word اِدّٰرَکَ (iddaraka) and t
 
 Say, O Prophet, “Perhaps some of what you seek to hasten is close at hand.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Then Allah tells us that He is the Knower of the unseen in the heavens and on earth, and that He is the Knower of the unseen and the seen, i.e., that which is unseen by His servants and that which they can see.
-
-**Classical tafsir:** Ibn Kathir notes: Allah tells us about how the idolators asked about the Day of Resurrection, but thought it unlikely that it would ever come to pass.
 ## Personal Reflections
-
 

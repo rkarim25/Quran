@@ -138,11 +138,5 @@ These verses refer to this very perception of these things that to associate any
 
 Everyone in the heavens and earth will return to the Rahman in full submission.
 
-## AI Tafsir
-
-**What this ayah teaches:** There is no coequal for Him in His creation, because all creatures are His slaves.
-
-**Classical tafsir:** Ibn Kathir notes: This explains the fact that everything in the world glorifies Allah Ta’ ala as will be evident from the verse.
 ## Personal Reflections
-
 

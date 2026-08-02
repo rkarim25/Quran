@@ -150,13 +150,5 @@ This verse indicates that the construction of houses and buildings without need 
 
 I am truly a trustworthy messenger to you.
 
-## AI Tafsir
-
-**What this ayah teaches:** When their brother Salih said to them: "Will you not have Taqwa?")(143.
-
-**Classical tafsir:** Ibn Kathir notes: When their brother Salih said to them: "Will you not have Taqwa?")(143.
-
-**From the Sunnah:** In our explanation of Surat Al-A'raf, we mentioned the Hadiths which tell how the Messenger of Allah ﷺ passed by their dwelling place when he wanted to launch a raid on Syria.
 ## Personal Reflections
-
 

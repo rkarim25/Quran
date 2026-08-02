@@ -198,23 +198,5 @@ The last phrase: (except through gestures) in this verse tells us that in a situ
 
 Zachariah said, “My Rabb! Grant me a sign.” He said, “Your sign is that you will not speak to people for three days except through gestures. Remember your Rabb often and glorify morning and evening.”
 
-## AI Tafsir
-
-**Essence**
-
-When Zakariyya asked for a sign of the coming child, Allah set his very sign as silence: for three days he would be unable to speak to people at all except by gesture, his tongue left free for nothing but His remembrance and praise.
-
-**What it teaches**
-
-Zakariyya (peace be upon him) asked, "My Lord, make for me a sign" (ayah) confirming the glad tidings of Yahya, and Allah answered that he would be unable to speak to people for three days except by ramz — signals or gestures — though, as Ibn Kathir stresses, "you are not mute." Alongside the sign came the command to remember Allah much (dhikr) and to glorify Him (tasbih) "in the afternoon and in the morning," so the silenced tongue would turn entirely toward Allah.
-
-**The scholars**
-
-Ibn Kathir explains that Zakariyya sought "a sign that alerts me that the child will come," and that the withheld speech was not a defect — he cites the parallel verse, "For three nights, though having no bodily defect" (19:10). Maarif ul Quran (citing Bayan al-Qur'an) draws out the wisdom: Zakariyya wanted the sign so he could rejoice and show his gratitude even before the birth, and this particular sign was "remarkably suitable to its purpose" — by stopping his ordinary speech it left him "incapable of doing anything but this," so that "even a hundred signs would not have done what this one sign did." Maarif (via al-Qurtubi) further notes a point of law from "except through gestures": where speech is impossible for a valid reason, a gesture stands in its place.
-
-**Reflection**
-
-Notice what Zakariyya asked for and what he received: he wanted only a token to mark the promise, and Allah gave him a sign that was itself an act of worship — one that, as the scholars say, accomplished what a hundred others could not. When the answer to your prayer reshapes how you spend your days rather than merely reassuring you, that is mercy, not deprivation.
 ## Personal Reflections
-
 

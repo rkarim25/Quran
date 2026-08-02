@@ -289,15 +289,5 @@ The background of the revelation of this verse as narrated by Abu Dawud on sound
 
 Never think of those martyred in the cause of Allah as dead. In fact, they are alive with their Rabb, well provided for— rejoicing in Allah’s bounties and being delighted for those yet to join them. There will be no fear for them, nor will they grieve.
 
-## AI Tafsir
-
-**Context:** Qatadah, Ar-Rabi' and Ad-Dahhak said that these Ayat were revealed about the martyrs of Uhud. (They rejoice in what Allah has bestowed upon them) indicates that the martyrs who were killed in Allah's cause are alive with…
-
-**What this ayah teaches:** Those who answered (the Call of) Allah and the Messenger after being wounded; for those of them who did good deeds and feared Allah, there is a great reward.)(173.
-
-**Classical tafsir:** Ibn Kathir notes: Nay, they are alive, with their Lord, and they have provision.) Qatadah, Ar-Rabi' and Ad-Dahhak said that these Ayat were revealed about the martyrs of Uhud.
-
-**From the Sunnah:** He would like to be returned to this life so that he could be martyred again, for he tastes the honor achieved from martyrdom.) Muslim collected this Hadith (Sahih Muslim) Paradise, and some remain close to this river by the door of Paradise.
 ## Personal Reflections
-
 

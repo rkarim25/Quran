@@ -80,11 +80,5 @@ It was also said that they asked for their share of Paradise to be hastened, if 
 
 Each community rejected its messenger, so My punishment was fully justified.
 
-## AI Tafsir
-
-**What this ayah teaches:** It was also said that they asked for their share of Paradise to be hastened, if it really existed, so that they might have their share in this world; they said this because they thought it unlikely to exist and they disbelieved in it.
-
-**Classical tafsir:** Ibn Kathir notes: Qitt refers to a book or record, or it was said that it means one's allotted share or fortune.
 ## Personal Reflections
-
 

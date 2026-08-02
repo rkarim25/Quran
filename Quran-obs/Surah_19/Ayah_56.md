@@ -69,13 +69,5 @@ Sayyidna Idris (علیہ السلام) lived one thousand years before Sayyidna 
 
 And mention Enoch in the Book. He was a man of truth and a prophet.
 
-## AI Tafsir
-
-**What this ayah teaches:** Mentioning Idris Allah complimented Idris for being a truthful Prophet and He mentioned that he raised him to a high station.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** It has previously been mentioned that in the Sahih it is recorded that the Messenger of Allah ﷺ passed by Idris on the night of the Isra (Night Journey) and he (Idris) was in the fourth heaven.
 ## Personal Reflections
-
 

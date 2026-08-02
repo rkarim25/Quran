@@ -186,11 +186,5 @@ In the last verse (95), it was said that they, despite being human, can-not dema
 
 Whoever Allah guides is truly guided. And whoever He leaves to stray, you will find no guardians for them besides Him. And We will drag them on their faces on the Day of Judgment—deaf, dumb, and blind. Hell will be their home. Whenever it dies down, We will flare it up for them.
 
-## AI Tafsir
-
-**What this ayah teaches:** And he whom Allah guides, he is led aright; and whomever He leaves astray can never find helpers other than Him, and We shall gather them together on the Day of Resurrection on their faces, blind, dumb and deaf; their abode will be Hell; whenever it abates, We shall increase for them the fierceness of the Fire .
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

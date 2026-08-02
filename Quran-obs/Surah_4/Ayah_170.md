@@ -185,11 +185,5 @@ As for those who choose to disbelieve, they lose everything while Allah loses no
 
 O humanity! The Messenger has certainly come to you with the truth from your Rabb, so believe for your own good. But if you reject the truth, then to Allah belongs whatever is in the heavens and the earth. And Allah is All-Knowing, All-Wise.
 
-## AI Tafsir
-
-**What this ayah teaches:** But if you disbelieve, then certainly to Allah belongs all that is in the heavens and the earth.
-
-**Classical tafsir:** Ibn Kathir notes: Verily, there has come to you the Messenger with the truth from your Lord, so believe in him, it is better for you.) This Ayah means, Muhammad ﷺ has come to you with guidance, the religion of truth and clear proof from Allah.
 ## Personal Reflections
-
 

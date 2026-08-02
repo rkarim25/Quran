@@ -81,11 +81,5 @@ It was also said that they asked for their share of Paradise to be hastened, if 
 
 Thamud, the people of Lut, and the dwellers of the Forest—these were all hostile forces united in rejection.
 
-## AI Tafsir
-
-**What this ayah teaches:** In other words, those who possessed real strength and power were the people of Nuh and ` Ad and Thamud and others like them. It was also said that they asked for their share of Paradise to be hastened, if it really existed, so that they might have their share in this world; they said this because they thought it unlikely to exist and they disbelieved in it.
-
-**Classical tafsir:** Ibn Kathir notes: Qitt refers to a book or record, or it was said that it means one's allotted share or fortune.
 ## Personal Reflections
-
 

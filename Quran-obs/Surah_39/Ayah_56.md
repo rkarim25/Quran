@@ -240,13 +240,5 @@ These three different wishes could belong to different people, and it is also po
 
 so that no sinful soul will say on Judgment Day, 'Woe to me for neglecting my duties towards Allah, while ridiculing the truth.'
 
-## AI Tafsir
-
-**What this ayah teaches:** If someone were to think of making his taubah after death on the Day of Judgment, or is simply filled with remorse over what awful things he had done to himself, then, that will bring him no benefit.
-
-**Classical tafsir:** Ibn Kathir notes: Or he should say when he sees the torment: "If only I had another chance, then I should indeed be among the doers of good.") means, he will wish that he could go back to this world, so that he could do righteous deeds.
-
-**From the Sunnah:** some of the people of Shirk killed many people and committed Zina (illegal sexual acts) to a great extent; they came to Muhammad ﷺ and said, "What you are saying and calling us to is good; if only you could tell us that there is an expiation for what we have d… (Sahih al-Bukhari) Despair not of the mercy of Allah.) This was also recorded by Muslim, Abu Dawud and An-Nasa'i.
 ## Personal Reflections
-
 

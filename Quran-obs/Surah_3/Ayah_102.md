@@ -162,19 +162,5 @@ In the two verses appearing here, two important principles have been given which
 
 O you who have iman! live with taqwa toward Allah in the way He deserves, and do not die except in submission.
 
-## AI Tafsir
-
-**Essence** O believers, hold to the taqwa Allah truly deserves, and guard that faith so that death finds you nowhere but in submission to Him.
-
-**What it teaches** The ayah commands taqwa — a God-consciousness that Ibn Mas'ud defined as "that He is obeyed and not defied, remembered and not forgotten, and appreciated and not unappreciated" — coupled with the charge to die only as a Muslim. Ibn Kathir explains this means preserving your Islam while you are "well and safe," since whatever state one lives in is the state one dies upon and is resurrected upon.
-
-**The scholars** Ibn Kathir relays from Ibn Mas'ud (a narration Al-Hakim raised to the Prophet ﷺ, though Ibn Kathir notes it appears to be Ibn Mas'ud's own statement) the threefold meaning of "Taqwa as is His due," and from Anas that "the servant will not have Taqwa of Allah as is His due until he keeps his tongue idle" — taqwa reaching even one's speech. On "die not except as Muslims," he teaches that the Most Generous Allah has decreed that one dies upon the state one lived in, so faith must be safeguarded in life; he adds, "We seek refuge from dying on other than Islam." Maarif ul Quran frames this verse, with the one after it, around two governing principles: taqwa and unity. The Context notes the address came to the Aws and Khazraj, once locked in the enmity of Jahiliyyah, whom Allah turned by His grace into brethren — showing taqwa is lived within a united community, not in isolation.
-
-**From the Sunnah** None of you should die except while holding sincere, good trust in Allah, the Exalted — so that the believer meets death hoping in His mercy, not despairing of it. (Imam Ahmad; also Muslim)
-
-**From the Sunnah** Allah treats the servant according to the servant's expectation of Him, so let hope and good thoughts of Him fill the heart, especially at death. (The Two Sahihs — Al-Bukhari and Muslim)
-
-**Reflection** Live each day so it could be your last in Islam — obeying, remembering, and thanking Allah, guarding even your tongue, and carrying sincere hope in Him.
 ## Personal Reflections
-
 

@@ -147,13 +147,5 @@ When ` Abdullah asked his father Imam Ahmad about the permissibility of cursing 
 
 These are the ones Allah has condemned—He has made them deaf and blinded their vision.
 
-## AI Tafsir
-
-**What this ayah teaches:** Those who believe say: "Why is not a Surah sent down (for us)?" But now that a decisive Surah is sent down mentioning fighting, you can see those in whose hearts is disease (of hypocrisy) looking at you with the look of one who is about to faint for fear of death.
-
-**Classical tafsir:** Ibn Kathir notes: And when the matter is resolved, then if they had been true to Allah, it would have been better for them (21)So would you perhaps, if you turned away, spread corruption on earth, and sever your ties of kinship (22)Such are the ones whom Allah has cursed, so that He has made them…
-
-**From the Sunnah:** Many authentic and sound Hadiths have been reported through numerous routes of transmission from Allah's Messenger in this regard. (Sahih al-Bukhari) from Abu Bakrah, may Allah be pleased with him, that Allah's Messenger ﷺ said: (Musnad Ahmad)
 ## Personal Reflections
-
 

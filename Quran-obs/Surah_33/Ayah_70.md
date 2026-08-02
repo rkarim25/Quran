@@ -73,11 +73,5 @@ The original word used in the text for "what is straight forward" is 'sadid' whi
 
 O mu'mins! Be living with taqwa toward Allah, and say what is right.
 
-## AI Tafsir
-
-**What this ayah teaches:** Have Taqwa of Allah and speak (always) the truth (70)He will direct you to do righteous good deeds and will forgive you your sins.
-
-**Classical tafsir:** Ibn Kathir notes: The Holy Qur'an has chosen this word, instead of sadiq or mustaqim, because the present word holds all these attributes of ideal speech within itself.
 ## Personal Reflections
-
 

@@ -86,13 +86,5 @@ Baghawi has reported in his narration that the mother of Sayyidna Sa'd ؓ did no
 
 Those who believe and do good will be admitted among the righteous.
 
-## AI Tafsir
-
-**Context:** (And for those who believe and do righteous good deeds, surely, We shall make them enter with the righteous.) In his Tafsir of this Ayah, At-Tirmidhi recorded that Sa'd said: "Four Ayat were revealed concerning me – and…
-
-**What this ayah teaches:** Unto Me is your return and I shall tell you what you used to do (8)And for those who believe and do righteous deeds, surely, We shall admit them among the righteous . The Command to be Good and Dutiful to Parents Allah commands His servants to be dutiful to parents, after urging them to adhere to belief in His Tawhid, because a person's parents are the cause of his existence.
-
-**Classical tafsir:** Ibn Kathir notes: The Command to be Good and Dutiful to Parents Allah commands His servants to be dutiful to parents, after urging them to adhere to belief in His Tawhid, because a person's parents are the cause of his existence.
 ## Personal Reflections
-
 

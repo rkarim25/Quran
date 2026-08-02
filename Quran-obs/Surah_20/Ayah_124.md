@@ -126,13 +126,5 @@ Another interpretation given to these words by Sayyidna Said ibn Jubair ؓ is th
 
 But whoever turns away from My Reminder will certainly have a miserable life, then We will raise them up blind on the Day of Judgment.”
 
-## AI Tafsir
-
-**Context:** (But whosoever turns away from My Reminder,) This means, "Whoever opposes my command and what I have revealed to My Messenger, then he has turned away from it, neglected it and taken his guidance from other than it."
-
-**What this ayah teaches:** Then if there comes to you guidance from Me, then whoever follows My guidance he shall neither go astray nor shall be distressed (123)But whosoever turns away from My Reminder, verily, for him is a life of hardship, and We shall raise him up blind on the Day of Resurrection.
-
-**Classical tafsir:** Ibn Kathir notes: The Descent of Adam to the Earth and the Promise of Good for the Guided and Evil for the Transgressors Allah says to Adam, Hawwa' and Iblis, "Get down from here, all of you." This means each of you should get out of Paradise.
 ## Personal Reflections
-
 

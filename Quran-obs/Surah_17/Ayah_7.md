@@ -227,13 +227,5 @@ The outcome of the events mentioned above is that Allah Ta’ ala had decreed th
 
 If you do good, you do good for yourselves. If you do evil, you do it against yourselves. When the second warning arrives, they will be humiliated and enter the mosque as they entered it the first time, destroying utterly whatever they conquer.
 
-## AI Tafsir
-
-**Context:** Allah tells us that He made a declaration to the Children of Israel in the Scripture, meaning that He had already told them in the Book which He revealed to them, that they would cause mischief on the earth twice, and wo…
-
-**What this ayah teaches:** And We helped you with wealth and children and made you more numerous in manpower (6)(And We said): "If you do good, you do good for your own selves, and if you do evil (you do it) against yourselves." Then, when the second promise came to pass, (We permitted your enemies) to disgrace your faces and to enter the Masjid as they had entered it before, and to destroy with utter destruction all that f…
-
-**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas said, "Hasir here means a jail." Mujahid said, "They will be detained in it." Others said likewise.
 ## Personal Reflections
-
 

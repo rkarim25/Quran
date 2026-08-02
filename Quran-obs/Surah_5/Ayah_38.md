@@ -200,13 +200,5 @@ Finally, towards the end of the verse (38), by saying: وَاللَّـهُ عَ
 
 As for male and female thieves, cut off their hands for what they have done—a deterrent from Allah. And Allah is Almighty, All-Wise.
 
-## AI Tafsir
-
-**What this ayah teaches:** The hint given here is that the stern punishment of cutting hands is based on a consideration which is special and wise.
-
-**Classical tafsir:** Ibn Kathir notes: Lexically, the Arabic word, ` Nakal' means a punishment which is exemplary, something which teaches a lesson to others as well so that they too abandon any intentions of committing crimes.
-
-**From the Sunnah:** This is also the view of Imam Ahmad bin Hanbal and Ishaq bin Rahwayh in one of the narrations from him, as well as Abu Thawr, and Dawud bin 'Ali Az-Zahari, may Allah have mercy upon them. (Musnad Ahmad) Usamah said to him, "Ask Allah to forgive me, O Allah's Messenger!" During that night, the Messenger of Allah ﷺ stood up and gave a speech and praised Allah as He deserves to be praised.
 ## Personal Reflections
-
 

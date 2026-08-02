@@ -121,13 +121,5 @@ Muhammad bin Sirin said, "When Abu Hurayrah narrated this Hadith, he said, 'This
 
 So he smashed them into pieces, except the biggest of them, so they might turn to it for answers.
 
-## AI Tafsir
-
-**What this ayah teaches:** In that case the explanation would be that when the unbelievers, on their return saw the idols in pieces except the big one, who had a hammer resting on his shoulder, they might turn towards it for an explanation and getting no response from it they would see for themselves the helplessness of the idol.
-
-**Classical tafsir:** Ibn Kathir notes: This was Ibrahim's ultimate purpose, so that he could tell this great gathering about the extent of their ignorance and how foolish they were to worship idols which could not defend themselves from harm or help themselves, so how could they ask them for help?
-
-**From the Sunnah:** In the Two Sahihs it was recorded from Abu Hurayrah that the Messenger of Allah ﷺ said:
 ## Personal Reflections
-
 

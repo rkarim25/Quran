@@ -76,11 +76,5 @@ Allah is the Ever-living, Free of all Need
 
 Everything on earth will perish.
 
-## AI Tafsir
-
-**What this ayah teaches:** Furthermore, 'the earth' is one of those general things that can be referred to by a pronoun even if they are not mentioned explicitly as an antecedent.
-
-**Classical tafsir:** Ibn Kathir notes: Qatadah said, "First, Allah mentioned His creatures and then He said that all of this will perish." And in the reported supplication: 'O You the Ever Living Who sustains all that exists!
 ## Personal Reflections
-
 

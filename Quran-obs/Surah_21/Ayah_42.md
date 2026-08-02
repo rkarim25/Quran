@@ -119,11 +119,5 @@ These miracles also occurred during the battle of Badr (غزوہ بدر) when th
 
 Ask them, O Prophet, “Who can defend you by day or by night against the the Rahman?” Still they turn away from the dhikr — conscious remembrance of Allah of their Rabb.
 
-## AI Tafsir
-
-**What this ayah teaches:** Indeed (many) Messengers were mocked before you, but the scoffers were surrounded by what they used to mock (41)Say: "Who can guard and protect you in the night or in the day from the ar-Rahman?" Nay, but they turn away from the remembrance of their Lord (42)Or have they gods who can guard them from Us?
-
-**Classical tafsir:** Ibn Kathir notes: The word is used in situations when one desires things to happen before their time, and this trait is bad by its very nature.
 ## Personal Reflections
-
 

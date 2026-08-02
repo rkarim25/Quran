@@ -140,11 +140,5 @@ These women were talking among themselves. They were saying: Look, how regrettab
 
 O Joseph! Forget about this. And you O wife! Seek forgiveness for your sin. It certainly has been your fault.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Special Note At this point, it is very surprising that a husband, who finds out an open proof of such immodesty and breach of trust on the part of his wife, would not be agitated, rather, go on talking with perfect peace of mind - unusual indeed, given the compulsion of human nature in such circumstances.
-
-**Classical tafsir:** Ibn Kathir notes: Ath-Thawri reported that Jabir said that Ibn Abi Mulaykah said that Ibn 'Abbas said, "He was from the king's entourage." Mujahid, 'Ikrimah, Al-Hasan, Qatadah, As-Suddi, Muhammad bin Ishaq and others also said that the witness was an adult male.
 ## Personal Reflections
-
 

@@ -152,11 +152,5 @@ In the second example, there is a man who bids justice and teaches what is good.
 
 To Allah alone belongs the knowledge of the unseen in the heavens and the earth. Bringing about the Hour would only take the blink of an eye, or even less. Surely Allah is Most Capable of everything.
 
-## AI Tafsir
-
-**What this ayah teaches:** And the matter of the Hour is not but as a twinkling of the eye, or even nearer.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

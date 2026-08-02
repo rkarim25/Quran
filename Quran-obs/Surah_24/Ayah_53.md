@@ -168,13 +168,5 @@ things he is given the good tiding of فَأُولَـٰئِكَ هُمُ الْ
 
 They swear by Allah their most solemn oaths that if you O Prophet were to command them, they would certainly march forth in Allah’s cause. Say, “You do not have to swear; your obedience is well known!” Surely Allah is All-Aware of what you do.”
 
-## AI Tafsir
-
-**What this ayah teaches:** They swear by Allah their strongest oaths that if only you would order them, they would leave.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** But lately he had heard a verse of the Holy Qur'an recited by a Muslim prisoner and realized that in that small verse all the older books have been condensed. (Sahih Muslim)
 ## Personal Reflections
-
 

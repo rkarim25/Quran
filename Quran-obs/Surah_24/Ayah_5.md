@@ -94,11 +94,5 @@ This exemption, that isإِلَّا الَّذِينَ تَابُوا refers to 
 
 except those who repent afterwards and mend their ways, then surely Allah is All-Forgiving, the Rahim — special mercy for believers in the Akhirah — the everlasting life after death.
 
-## AI Tafsir
-
-**What this ayah teaches:** The flogging has been carried out regardless of whether he repents or persists, and after that there is no further punishment, as is agreed among the scholars.
-
-**Classical tafsir:** Ibn Kathir notes: Ash-Sha'bi and Ad-Dahhak said, "His testimony cannot be accepted even if he does repent, unless he himself admits that he said something false, in which case his testimony may be accepted." And Allah knows best.
 ## Personal Reflections
-
 

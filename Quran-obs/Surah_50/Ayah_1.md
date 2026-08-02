@@ -160,13 +160,5 @@ Is it Possible to Observe the Heaven?
 
 Qāf. By the glorious Qur'an—Allah swears by His own revelation that what follows about resurrection and reckoning is among the weightiest truths you will hear.
 
-## AI Tafsir
-
-**What this ayah teaches:** Therefore, Surah Qaf (chapter 50) is the first of the Mufassal, just as we stated, and all praise is due to Allah and all favors are from Him.
-
-**Classical tafsir:** Ibn Kathir notes: Some common people say that the Mufassal starts with Surah 'Amma An-Naba, (chapter 78), however, this is not true because none of the respected scholars ever supported this opinion.
-
-**From the Sunnah:** Paradise, the Fire, Allah's reward and punishment, lessons of encouragement, and lessons of discouragement. Al-'Awfi narrated that 'Abdullah bin 'Abbas commented on the statement of Allah the Exalted,
 ## Personal Reflections
-
 

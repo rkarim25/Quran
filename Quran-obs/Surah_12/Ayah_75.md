@@ -122,13 +122,5 @@ The sense of the statement is that the punishment for theft in the Shari` ah of 
 
 Joseph’s brothers responded, “The price will be the enslavement of the one in whose bag the cup is found. That is how we punish the wrongdoers.”
 
-## AI Tafsir
-
-**What this ayah teaches:** This is how we punish the wrongdoers.' The sense of the statement is that the punishment for theft in the Shari` ah of Sayyidna Ya` qub11 allowed the person whose property had been stolen to take the thief as his slave.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** Allah is the All-Knowing and His knowledge is above the knowledge of every knowledgeable person.' Simak narrated that 'Ikrimah said that Ibn 'Abbas said about Allah's statement,
 ## Personal Reflections
-
 

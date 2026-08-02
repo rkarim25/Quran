@@ -113,15 +113,5 @@ In verse 67 it has been averred that Allah Ta’ ala granted to the earlier nati
 
 But if they argue with you, then say, “Allah knows best what you do.”
 
-## AI Tafsir
-
-**Context:** One interpretation of this verse is that the infidels used to engage the Muslims in futile arguments regarding the slaughter of animals.
-
-**What this ayah teaches:** They thought it odd that Islam permitted its followers to eat the meat of those animals which they slaughtered with their own hands but forbade eating the meat of those animals whom Allah Ta’ ala killed, that is the carrion.
-
-**Classical tafsir:** Ibn Kathir notes: have adopted this meaning of the word, and the context of the verse also lends support to this interpretation.
-
-**From the Sunnah:** One interpretation of this verse is that the infidels used to engage the Muslims in futile arguments regarding the slaughter of animals.
 ## Personal Reflections
-
 

@@ -109,11 +109,5 @@ Allah Ta` ala has, in His great design, made this world of ours an open gallery 
 
 The angels said, “O Abraham! Plead no more! Your Rabb’s decree has already come, and they will certainly be afflicted with a punishment that cannot be averted!”
 
-## AI Tafsir
-
-**What this ayah teaches:** Certainly great is the majesty of Allah Ta'ala.
-
-**Classical tafsir:** Ibn Kathir notes: Indeed, the commandment of your Lord has gone forth.) This means the decree was settled concerning them and the Word was already given that they should be destroyed.
 ## Personal Reflections
-
 

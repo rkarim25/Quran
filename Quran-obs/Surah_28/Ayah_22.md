@@ -126,11 +126,5 @@ When Sayyidna Musa (علیہ السلام) left Egypt, he was in a condition tha
 
 And as he made his way towards Midian, he said, “I trust my Rabb will guide me to the Sirat al-Mustaqim — the way of living that pleases Allah.”
 
-## AI Tafsir
-
-**What this ayah teaches:** He was not used to being alone, because before that he had been living a life of luxury and ease, in a position of leadership. Musa, peace be upon him, in Madyan, and how He watered the Flocks of the Two Women When the man told Musa about how Fir'awn and his chiefs were conspiring against him, he left Egypt on his own.
-
-**Classical tafsir:** Ibn Kathir notes: He was not used to being alone, because before that he had been living a life of luxury and ease, in a position of leadership.
 ## Personal Reflections
-
 

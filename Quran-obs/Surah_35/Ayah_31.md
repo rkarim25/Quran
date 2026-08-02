@@ -126,15 +126,5 @@ Included within this grace and increase is the promise of Allah Ta’ ala that H
 
 The Book We revealed to you is the truth, confirming what came before it. Allah is All-Aware, All-Seeing of His servants.
 
-## AI Tafsir
-
-**Context:** And what We have revealed to you of the Book, it is the (very) truth confirming that which was (revealed) before it.
-
-**What this ayah teaches:** And what We have revealed to you of the Book, it is the (very) truth confirming that which was (revealed) before it.
-
-**Classical tafsir:** Ibn Kathir notes: When the text says 'secretly and openly', it indicates that it is often better to spend secretly in order to stay safe from riya' (show off) in acts of worship.
-
-**From the Sunnah:** Muslim jurists have laid out details in the matter of salah and spending in the way of Allah. (Sahih Muslim)
 ## Personal Reflections
-
 

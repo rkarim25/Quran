@@ -177,11 +177,5 @@ Sayyidna Jabir Ibn ` Abdullah ؓ has stated that when Allah Almighty wants the w
 
 As for Thamud, We showed them guidance, but they preferred blindness over guidance. So the blast of a disgracing punishment overtook them for what they used to commit.
 
-## AI Tafsir
-
-**What this ayah teaches:** The Arabic word used in the text is sa` igah.
-
-**Classical tafsir:** Ibn Kathir notes: But surely the torment of the Hereafter will be more disgracing, and they will never be helped (16)And as for Thamud, We showed them the path of truth but they preferred blindness to guidance; so the Sa'iqah of disgracing torment seized them because of what they used to earn (17)…
 ## Personal Reflections
-
 

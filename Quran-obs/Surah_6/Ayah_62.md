@@ -192,11 +192,5 @@ After that, it was said: أَلَا لَهُ الْحُكْمُ (Beware, to Him 
 
 Then they are returned to Allah—their True Master. Judgment is His. And He is the Swiftest Reckoner.
 
-## AI Tafsir
-
-**What this ayah teaches:** Surely, His is the judgment and He is the swiftest in taking account .
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

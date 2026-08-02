@@ -277,15 +277,5 @@ In short, tartil basically signifies that the letters and the words must be pron
 
 or a little more—and recite the Qur'an in a measured, deliberate way.
 
-## AI Tafsir
-
-**Context:** (Stand (to pray) all night, except a little. Half of it or less than that, a little.)(73:2-3) "This became difficult on the believers.
-
-**What this ayah teaches:** Half of it or less than that, a little.)(4. The point is that Nashi'ah of the night refers to its hours and its times, every hour of it is called Nashi'ah, so it refers to the periods of time.
-
-**Classical tafsir:** Ibn Kathir notes: Lord of the east and the west; La ilaha illa Huwa, so take Him as a trustee.) The Command to stand at Night (in Prayer) Allah commands His Messenger ﷺ to cease being wrapped up, and this means to be covered during the night.
-
-**From the Sunnah:** Thus, the Prophet ﷺ did as Allah ordered him, by standing for prayer at night.
 ## Personal Reflections
-
 

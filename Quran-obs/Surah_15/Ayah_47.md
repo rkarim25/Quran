@@ -115,13 +115,5 @@ It is about this kind of grudge that Sayyidna ` Ali ؓ said: "I hope that I shal
 
 We will remove whatever bitterness they had in their hearts. In a friendly manner, they will be on thrones, facing one another.
 
-## AI Tafsir
-
-**What this ayah teaches:** In its place, they all will feel love for each other in their hearts because mutual bickering too is virtually a pain and punishment as such, and Jannah is free of all pain.
-
-**Classical tafsir:** Ibn Kathir notes: And that My torment is indeed the most painful torment.) meaning, 'O Muhammad, tell My servants that I am the source of mercy and I am the source of punishment.' Similar Ayat to this have already been quoted above, which indicate that we must always be in a state between hope (fo…
-
-**From the Sunnah:** Paradise will enter Paradise with whatever enmity is left in their hearts from this world.
 ## Personal Reflections
-
 

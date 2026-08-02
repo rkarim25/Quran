@@ -181,11 +181,5 @@ Citing historians, al-Baghawi has said that Sayyidna Sulayman (علیہ السل
 
 When We decreed Sulayman's death, nothing showed the jinn he was dead except termites eating his staff. When he collapsed, the jinn saw that if they had truly known the unseen, they would not have remained in such humiliating labour.
 
-## AI Tafsir
-
-**What this ayah teaches:** Let Your mercy be on the person who enters it as long as he remains here - except a person who is busy doing something unjust or faithless.
-
-**Classical tafsir:** Ibn Kathir notes: As was his routine, he stood there in a stance of worship slightly supported by his scepter, so that, once his soul departs (when he dies), the body remains poised at its place with the support of his staff.
 ## Personal Reflections
-
 

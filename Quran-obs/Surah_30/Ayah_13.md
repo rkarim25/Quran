@@ -82,11 +82,5 @@ Allah originates the creation, then He will repeat it, then to Him you will be r
 
 No intercessors from their associate-gods, and they will deny those associates entirely.
 
-## AI Tafsir
-
-**What this ayah teaches:** It means that the Makkans live in a land where there is neither any cultivation and industry nor any tall and beautiful buildings, but for the sake of trade they do travel to Syria and Yemen.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

@@ -174,13 +174,5 @@ After all these reports, why should it remain so far out to realize that everyth
 
 We have cast veils over their hearts—leaving them unable to comprehend it—and deafness in their ears. And when you mention your Rabb alone in the Quran, they turn their backs in aversion.
 
-## AI Tafsir
-
-**What this ayah teaches:** And when you recite the Qur'an, We put between you and those who believe not in the Hereafter, an invisible veil (45)And We have put Akinnah over their hearts, lest they should understand it, and in their ears deafness. And when you make mention of your Lord Alone in the Qur'an, they turn on their backs, fleeing in extreme dislike .
-
-**Classical tafsir:** Ibn Kathir notes: Iblis and his troops hated it, but Allah insisted on supporting it so that it would prevail over those who opposed it.
-
-**From the Sunnah:** She came and found Abu Bakr, but she did not see the Prophet ﷺ. Only the Muslims of the Arabian Peninsula, which can be traversed by a rider in a few nights, knew it and accepted it, out of all mankind.
 ## Personal Reflections
-
 

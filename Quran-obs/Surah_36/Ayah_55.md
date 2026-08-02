@@ -91,11 +91,5 @@ And then it is also possible that, at this place, this expression: فِي شُغ
 
 Indeed, on that Day the residents of Paradise will be busy enjoying themselves.
 
-## AI Tafsir
-
-**What this ayah teaches:** After having mentioned the worries of the people of Jahannam, described here is the state of the people of Paradise on the day of Qiyamah that they will be enjoying themselves.
-
-**Classical tafsir:** Ibn Kathir notes: It signifies happiness of the heart as well as happiness out of one's surroundings.
 ## Personal Reflections
-
 

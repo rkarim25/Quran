@@ -89,11 +89,5 @@ This was a proof from Allah for Musa and a great miracle. This was something tha
 
 Allah said, “Take it, and have no fear. We will return it to its former state.
 
-## AI Tafsir
-
-**What this ayah teaches:** In other words, that which is in your right hand is a stick that you are familiar with. It was a snake, moving quickly.) This means that the stick changed into a huge snake, like a long python, and it moved with rapid movements.
-
-**Classical tafsir:** Ibn Kathir notes: It was a snake, moving quickly.) This means that the stick changed into a huge snake, like a long python, and it moved with rapid movements.
 ## Personal Reflections
-
 

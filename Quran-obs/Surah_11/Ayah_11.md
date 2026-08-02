@@ -112,11 +112,5 @@ At this place, it should be noted that the Holy Qur'an uses the word: اَذَق
 
 except those who patiently endure and do good. It is they who will have forgiveness and a mighty reward.
 
-## AI Tafsir
-
-**What this ayah teaches:** Allah does not decree any matter for the believer except that it is good for him.
-
-**Classical tafsir:** Ibn Kathir notes: Allah explains that when any hardship befalls man, after he has experienced blessings, he is disheartened and he despairs of any good in the future.
 ## Personal Reflections
-
 

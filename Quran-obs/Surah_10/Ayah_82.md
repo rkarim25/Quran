@@ -81,13 +81,5 @@ Another basharah (good news) of this world unfolds in the form that Muslims at l
 
 And Allah establishes the truth by His Words—even to the dismay of the wicked.”
 
-## AI Tafsir
-
-**What this ayah teaches:** And Allah will establish and make apparent the truth by His Words, however much the criminals may hate (it).)
-
-**Classical tafsir:** Ibn Kathir notes: The result was the exact opposite and he therefore didn't attain his goal.
-
-**From the Sunnah:** Another basharah (good news) of this world unfolds in the form that Muslims at large love someone and take him to be good without any personal motive or interest. (Sahih Muslim)
 ## Personal Reflections
-
 

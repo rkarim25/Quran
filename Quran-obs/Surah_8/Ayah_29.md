@@ -126,11 +126,5 @@ At the end of the verse (29), it was said: وَاللَّـهُ ذُو الْف�
 
 O you who have iman: if you live with taqwa, Allah will grant you a clear criterion to distinguish right from wrong, wipe away your sins, and forgive you. Allah is the Possessor of immense bounty.
 
-## AI Tafsir
-
-**What this ayah teaches:** If you obey and fear Allah, He will grant you Furqan, and will expiate for you your sins, and forgive you; and Allah is the Owner of the great bounty .
-
-**Classical tafsir:** Ibn Kathir notes: Other than this, there are other commentators who say that Furqan in this verse means the wisdom and insight through which it becomes easy to distinguish between true and false, the genuine and the fake.
 ## Personal Reflections
-
 

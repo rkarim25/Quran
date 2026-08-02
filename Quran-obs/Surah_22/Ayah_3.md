@@ -98,13 +98,5 @@ Commentary
 
 Still there are some who dispute about Allah without knowledge, and follow every rebellious devil.
 
-## AI Tafsir
-
-**Context:** Allah condemns those who deny the Resurrection and who deny that Allah is able to restore life to the dead, those who turn away from that which Allah has revealed to His Prophets and, in their views – denial and disbelie…
-
-**What this ayah teaches:** And among mankind is he who disputes about Allah, without knowledge, and follows every rebellious Shaytan (3)For him (the devil) it is decreed that whosoever follows him, he will mislead him, and will drive him to the torment of the Fire .
-
-**Classical tafsir:** Ibn Kathir notes: For him it is decreed.) Mujahid said, "This refers to that Shaytan." meaning that is a matter written in the decree.
 ## Personal Reflections
-
 

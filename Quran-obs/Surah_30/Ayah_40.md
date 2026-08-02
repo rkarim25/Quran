@@ -183,11 +183,5 @@ It is extremely contemptible for a person who extends a gift to someone that he 
 
 Allah created you, provides for you, will cause you to die, then revive you. Can any associate-god do any of that? Exalted is He above what they associate.
 
-## AI Tafsir
-
-**What this ayah teaches:** Whoever gives out money in the hope that it will bring back something more, then it is not worthy of reward in the sight of Allah.
-
-**Classical tafsir:** Ibn Kathir notes: Since, according to a large number of scholars, usury was prohibited in Madinah, while the present verse is Makkan, the word riba used here cannot mean usury or interest.
 ## Personal Reflections
-
 

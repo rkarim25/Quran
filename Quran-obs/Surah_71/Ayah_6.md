@@ -144,11 +144,5 @@ Commentary
 
 but my calls only made them run farther away.
 
-## AI Tafsir
-
-**What this ayah teaches:** Can this be comprehended simply by hearing it only or is it of the matters that actually can be perceived with the senses which are known about the movements (of the heavenly bodies) and the eclipses.
-
-**Classical tafsir:** Ibn Kathir notes: This means that He will give you more wealth, more children and gardens with various types of fruits.
 ## Personal Reflections
-
 

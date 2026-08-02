@@ -238,13 +238,5 @@ Ends here
 
 Whenever it was said, 'Allah's promise is true and there is no doubt about the Hour,' you said mockingly, 'We do not know what the Hour is! We think it is speculation, and we are not convinced.'"
 
-## AI Tafsir
-
-**What this ayah teaches:** And your abode is the Fire, and there is none to help you.
-
-**Classical tafsir:** Ibn Kathir notes: This Ayah means, Allah is the Almighty, Worthy of all praise; everything and everyone is subservient and in complete need of and dependent upon Him.
-
-**From the Sunnah:** So this Day, they shall not be taken out from there (Hell), nor shall they be returned to the worldly life (35)So all praise is due to Allah, the Lord of the heavens and the Lord of the earth, and the Lord of all that exists (36)And His is the majesty in the h… (al-Mustadrak)
 ## Personal Reflections
-
 

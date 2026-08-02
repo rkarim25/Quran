@@ -179,13 +179,5 @@ The text, after having confirmed the veracity of the glorious Qur'an and the nob
 
 Messengers delivering good news and warnings so humanity should have no excuse before Allah after the messengers. And Allah is Almighty, All-Wise.
 
-## AI Tafsir
-
-**Context:** (...and to Dawud We gave the Zabur.) The 'Zabur' (Psalms) is the name of the Book revealed to Prophet Dawud, peace be upon him.
-
-**What this ayah teaches:** And Allah is Ever All-Powerful, All-Wise.) Allah sent down His Books and sent His Messengers with good news and warnings. Now, that Almighty Allah has sent messengers with miracles and His messengers have shown the straight path of truth, the option of not accepting the true faith cannot be accepted from anyone, under any pretext or excuse.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

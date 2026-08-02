@@ -221,19 +221,5 @@ Commentary
 
 But if they cease, then Allah is All-Forgiving, the Rahim.
 
-## AI Tafsir
-
-**Essence**
-When the aggressors stop, the door does not slam shut on them—it opens onto Allah's forgiveness and mercy.
-
-**What it teaches**
-The verse answers the command to fight the aggressors (191) with a sudden turn to mercy: "But if they cease (fa-ini-ntahaw)..." If the hostile polytheists stop their fighting and turn to Allah, He is Ghafur (the One who veils and forgives sins) and Rahim (the Merciful, whose mercy reaches the one who repents)—so the goal of the struggle is never bloodshed for its own sake, but an end to aggression and a return to peace.
-
-**The scholars**
-Ibn Kathir explains the verse directly: "If they (polytheists) cease fighting you in the Sacred Area, and come to Islam and repent, then Allah will forgive them their sins, even if they had before killed Muslims in Allah's Sacred Area." He then states the principle in its fullest reach: "Indeed, Allah's forgiveness encompasses every sin, whatever its enormity, when the sinner repents it." So "ceasing" here, as his words make plain, is not merely laying down arms but coming to Islam and repenting—and once a person turns back this way, no past crime, not even murder within the Haram, lies beyond Allah's pardon. This mercy crowns a passage that began by binding the fight to justice: commenting on 190, Abu Al-'Aliyah notes that this was "the first Ayah about fighting that was revealed in Al-Madinah," after which "Allah's Messenger ﷺ used to fight only those who fought him and avoid non-combatants"—fighting strictly bounded by self-defense, never transgression.
-
-**Reflection**
-When someone who wronged you stops and turns back, meet them as Allah meets the repentant—willing to forgive—for the aim is always reconciliation, not revenge.
 ## Personal Reflections
-
 

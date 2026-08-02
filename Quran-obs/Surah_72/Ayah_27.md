@@ -170,11 +170,5 @@ Some unintelligent people do not grasp the distinction between 'Knowledge of the
 
 except to messengers He chooses. Then He posts angel-guards before and behind them
 
-## AI Tafsir
-
-**What this ayah teaches:** In this noble Ayah is an evidence that the Hadith that many of the ignorant people often circulate, which says that the Prophet ﷺ will not remain under the earth more than one thousand years (i.e., the Hour will be before that period) is a baseless lie. Except to a Messenger whom He has chosen,) This includes the angelic Messenger and the human Messenger.
-
-**Classical tafsir:** Ibn Kathir notes: In this noble Ayah is an evidence that the Hadith that many of the ignorant people often circulate, which says that the Prophet ﷺ will not remain under the earth more than one thousand years (i.e., the Hour will be before that period) is a baseless lie.
 ## Personal Reflections
-
 

@@ -157,11 +157,5 @@ In short, a decision about an excuse being reasonable or unreasonable can be tak
 
 Had they intended to march forth, they would have made preparations for it. But Allah disliked that they should go, so He let them lag behind, and it was said, “Stay with those who remain behind.”
 
-## AI Tafsir
-
-**What this ayah teaches:** And indeed We would then have bestowed upon them a great reward from Ourselves. After that, by chance, whatever arrangements were made did not work - and because of this, the Salah was missed.
-
-**Classical tafsir:** Ibn Kathir notes: After that, by chance, whatever arrangements were made did not work - and because of this, the Salah was missed.
 ## Personal Reflections
-
 

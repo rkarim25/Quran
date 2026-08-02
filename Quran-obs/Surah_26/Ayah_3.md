@@ -129,11 +129,5 @@ Commentary
 
 Perhaps you O Prophet will grieve yourself to death over their rejection of the truth.
 
-## AI Tafsir
-
-**What this ayah teaches:** What it conveys is that, ` O Messenger, do not be so despondent because of your people's disbelief and rejection of Islam that you cause yourself to collapse'. These are Ayat of the Book Mubin.)(3.
-
-**Classical tafsir:** Ibn Kathir notes: Abu Al-'Aliyah, Qatadah, Ar-Rabi' bin Anas and Ibn Ishaq said: "He is Almighty in His punishment of those who went against His commands and worshipped others besides Him." Sa'id bin Jubayr said: "He is ar-Rahim towards those who repent to Him and turn to Him."
 ## Personal Reflections
-
 

@@ -126,11 +126,5 @@ The Holy Prophet's ﷺ bosom was expanded to receive the knowledge and wisdom an
 
 Have We not opened your chest for you, O Prophet—widened your heart to carry the weight of revelation and mission?
 
-## AI Tafsir
-
-**What this ayah teaches:** The word sharp literally denotes 'to open, to cause the bosom to be widely opened'.
-
-**Classical tafsir:** Ibn Kathir notes: And to your Lord turn intentions and hopes.) meaning, 'when you have completed your worldy affairs and its tasks, and you have broken away from its routine, then get up to perform the worship, and stand for it with zeal, complete devotion and purify your intention and desire for your Lord.' Similar…
 ## Personal Reflections
-
 

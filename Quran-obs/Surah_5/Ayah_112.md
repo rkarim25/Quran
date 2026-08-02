@@ -194,11 +194,5 @@ Whether or not the ` Ma'idah' (food-spread) came down from the heaven is somethi
 
 When the disciples asked, “O Jesus, son of Mary! Would your Rabb be willing to send down to us a table spread with food from heaven?” Jesus answered, “Fear Allah if you are those who have iman.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Whether or not the ` Ma'idah' (food-spread) came down from the heaven is something commentators differ in.
-
-**Classical tafsir:** Ibn Kathir notes: Some scholars said that the disciples requested this table because they were poor and deprived.
 ## Personal Reflections
-
 

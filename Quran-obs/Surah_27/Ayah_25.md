@@ -153,13 +153,5 @@ This shows that her people were star-worshippers and used to worship the sun. So
 
 so they do not prostrate to Allah, Who brings forth what is hidden in the heavens and the earth, and knows what you all conceal and what you reveal.
 
-## AI Tafsir
-
-**What this ayah teaches:** Since the hoopoe was calling to what is good, and for people to worship and prostrate to Allah alone, it would have been forbidden to kill him.
-
-**Classical tafsir:** Ibn Kathir notes: Saba' (Sheba) refers to Himyar, they were a dynasty in Yemen.
-
-**From the Sunnah:** the Prophet ﷺ forbade killing four kinds of animals: ants, bees, hoopoes and the sparrow hawks. (Musnad Ahmad, Sunan Abi Dawud)
 ## Personal Reflections
-
 

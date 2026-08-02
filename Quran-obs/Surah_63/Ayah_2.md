@@ -210,15 +210,5 @@ Another point illustrated by this incident is that an act which is permissible i
 
 They use their oaths as a shield, blocking the path of Allah. How evil is what they do.
 
-## AI Tafsir
-
-**Context:** The incident, in which this Surah was revealed, took place in the campaign against Banul-Mustaliq which happened, according to Muhammad Ibn Ishaq in Sha’ ban 6AH and according to Qatadah and ‘Urwah, in Sha’ ban 5AH.
-
-**What this ayah teaches:** In other words, the standard for Muslims to help others or to receive help from others is good will, justice, fair play and equity.
-
-**Classical tafsir:** Ibn Kathir notes: When the hypocrites come to you, they say: "We bear witness that you are indeed the Messenger of Allah." Allah knows that you are indeed His Messenger, and Allah bears witness that the hypocrites are liars indeed.)(2.
-
-**From the Sunnah:** Allah the Exalted states that the hypocrites pretended to be Muslims when they went to the Prophet ﷺ.
 ## Personal Reflections
-
 

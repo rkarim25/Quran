@@ -66,11 +66,5 @@ Addressing Iblis in Surah Al-A` raf, it was said: مَا مَنَعَكَ أَل
 
 but not Iblîs, who refused to prostrate with the others.
 
-## AI Tafsir
-
-**What this ayah teaches:** This indicates that the main prostraters were after all the angels but Iblis too, being present with them, was reason-bound to join the prostrating an-gels. He mentions how His enemy Iblis, amidst all the angels, refused to prostrate to him out of envy, disbelief, stubbornness, arrogance, and false pride.
-
-**Classical tafsir:** Ibn Kathir notes: This indicates that the main prostraters were after all the angels but Iblis too, being present with them, was reason-bound to join the prostrating an-gels.
 ## Personal Reflections
-
 

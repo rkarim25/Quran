@@ -90,13 +90,5 @@ The Story of Tubba'
 
 Are they superior to the people of Tubba and those before them? We destroyed them all, for they were truly wicked.
 
-## AI Tafsir
-
-**What this ayah teaches:** Tubba' is not the name of a particular individual, but is said to be the royal title of the kings of Himyar in Yemen.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, the commentators have discussed extensively about the people of Tubba' , trying to identify them and their history.
-
-**From the Sunnah:** : لا تسبّو تبّعافانّہ، قد کان اسلم "Do not revile Tubba', because he had embraced Islam. (Musnad Ahmad)
 ## Personal Reflections
-
 

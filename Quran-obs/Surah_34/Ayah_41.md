@@ -143,13 +143,5 @@ Once the Arabs tapered down their use of camels for riding and transport purpose
 
 They will say, "Glory be to You! You are our Protector, not them. They followed the jinn—most of them believed in jinn rather than Allah."
 
-## AI Tafsir
-
-**What this ayah teaches:** Nay, but they used to worship the Jinn; most of them were believers in them. He will ask the angels whom the idolators used to worship, claiming that their idols were in the form of these angels and that they could bring them nearer to Allah.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** Incidentally, what has been said here also helps remove that atheistic doubt usually dished out with reference to the Islamic injunctions of sacrifice saying that it is likely to affect the economy of Muslims adversely.
 ## Personal Reflections
-
 

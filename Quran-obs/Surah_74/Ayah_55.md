@@ -130,13 +130,5 @@ The word tadhkirah (Reminder), in this context, refers to the Holy Qur'an, becau
 
 So let whoever wills be mindful of it.
 
-## AI Tafsir
-
-**Context:** (Nay, everyone of them desires that he should be given pages spread out.) meaning, each one of these idolators wants to have a book revealed to him as Allah revealed to the Prophet ﷺ. Mujahid and others have said this.
-
-**What this ayah teaches:** But they fear not the Hereafter (53)Nay, verily, this is an admonition (54)So, whosoever wills receives admonition from it (55)And they will not receive admonition unless Allah wills; He is the One, deserving of the Taqwa and He is the One Who forgives .
-
-**Classical tafsir:** Ibn Kathir notes: 74:49) The word tadhkirah (Reminder), in this context, refers to the Holy Qur'an, because the word literally signifies a 'reminder or something that reminds'.
 ## Personal Reflections
-
 

@@ -382,15 +382,5 @@ The arrangement described so far was to help tempers cool off within the privacy
 
 Men are the caretakers of women, as men have been provisioned by Allah over women and tasked with supporting them financially. And righteous women are devoutly obedient and, when alone, protective of what Allah has entrusted them with. And if you sense ill-conduct from your women, advise them, do not share their beds, then discipline them. But if they change their ways, do not be unjust to them. Surely Allah is Most High, All-Great.
 
-## AI Tafsir
-
-**Context:** The present verse relates to one such event, which can be termed as the background of its revelation. Sayyidna Zayd ibn Zuhayr ؓ had married his daughter, Sayyidah Habibah ؓ to Sayyidna Sa'd ibn Rabi' ؓ During a dispute…
-
-**What this ayah teaches:** According to them, this precedence men have over women is in terms of genus.
-
-**Classical tafsir:** Ibn Kathir notes: Al-Hasan Al-Basri said that it means, a beating that is not severe. Men are the protectors and maintainers of women, because Allah has made one of them to excel the other, and because they spend (to support them) from their means.
-
-**From the Sunnah:** during the Farewell Hajj, the Prophet ﷺ said; (Sahih Muslim) It is from here that Muslim jurists have deduced that this staying apart should be limited to 'beds' and not to the 'house' itself. (Sahih Muslim)
 ## Personal Reflections
-
 

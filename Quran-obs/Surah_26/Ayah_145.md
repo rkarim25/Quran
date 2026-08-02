@@ -180,13 +180,5 @@ This verse indicates that the construction of houses and buildings without need 
 
 I do not ask you for any reward for this message. My reward is only from the Rabb of all worlds.
 
-## AI Tafsir
-
-**What this ayah teaches:** "No reward do I ask of you for it; my reward is only from the Lord of Al-'Alamin.") Salih and the People of Thamud Here Allah tells us about His servant and Messenger Salih, whom He sent to his people Thamud.
-
-**Classical tafsir:** Ibn Kathir notes: "So, have Taqwa of Allah, and obey me.")(145.
-
-**From the Sunnah:** In our explanation of Surat Al-A'raf, we mentioned the Hadiths which tell how the Messenger of Allah ﷺ passed by their dwelling place when he wanted to launch a raid on Syria.
 ## Personal Reflections
-
 

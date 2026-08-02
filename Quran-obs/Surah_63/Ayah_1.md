@@ -232,15 +232,5 @@ Another point illustrated by this incident is that an act which is permissible i
 
 When the hypocrites—those with nifaq, outward acceptance with inward rejection—come to you, they say: 'We bear witness that you are the Messenger of Allah.' Allah knows you are His Messenger, but Allah bears witness that the hypocrites are liars.
 
-## AI Tafsir
-
-**Context:** The incident, in which this Surah was revealed, took place in the campaign against Banul-Mustaliq which happened, according to Muhammad Ibn Ishaq in Sha’ ban 6AH and according to Qatadah and ‘Urwah, in Sha’ ban 5AH.
-
-**What this ayah teaches:** The Messenger of Allah is successful by Allah-given honour, and by the love of the Muslims.
-
-**Classical tafsir:** Ibn Kathir notes: That is because they believed, and then disbelieved; therefore their hearts are sealed, so they understand not.)(4.
-
-**From the Sunnah:** Allah the Exalted states that the hypocrites pretended to be Muslims when they went to the Prophet ﷺ. Thus they hinder (others) from the path of Allah.) meaning, the hypocrites shield themselves from Muslims when they falsely and sinfully swear to be what they are not in reality.
 ## Personal Reflections
-
 

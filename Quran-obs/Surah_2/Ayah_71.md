@@ -174,17 +174,5 @@ These Verses show how the Israelites were disposed to disobedience, and how this
 
 He said, "He says it should be a cow not trained to till the earth or water fields — wholesome and without blemish." They said, "Now you have brought the truth." Yet they slaughtered it reluctantly.
 
-## AI Tafsir
-
-**Essence** The description left no escape, the questions ran out — they slaughtered it grudgingly, "near to not doing it."
-
-**What it teaches** Musa's answer closes every loophole: a cow never worked to plough or water the fields (la dhalul), sound and unblemished (musallamah). They concede — "Now you have come with the truth" — yet still drag their feet.
-
-**The scholars** Ibn Kathir: their only goal was to be stubborn; as they made the matter difficult, Allah made it more difficult for them. Qatadah and Mujahid: musallamah — free of every defect. Ibn 'Abbas: "They did not want to slaughter it."
-
-**From the Sunnah** Had they obeyed Allah's commandment without doubts and unnecessary questions, no strict condition would have been imposed — any cow would have been accepted. (Unnamed — only "the Hadith" in Maarif ul Quran; Ibn Kathir has the like from Ibn 'Abbas and 'Ubaydah.)
-
-**Reflection** Obey at the first word — every needless question makes an easy command heavy.
 ## Personal Reflections
-
 

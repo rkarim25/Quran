@@ -144,15 +144,5 @@ People who deny the extraordinary miracles, or people who are in the habit of ex
 
 Recite what has been revealed to you from the Book of your Rabb. None can change His Words, nor can you find any refuge besides Him.
 
-## AI Tafsir
-
-**Context:** And recite what has been revealed to you (O Muhammad) of your Lord's Book. None can change His Words, and none will you find as refuge other than Him (27)And keep yourself (O Muhammad) patiently with those who call on th…
-
-**What this ayah teaches:** But the provision of your Lord is better and more lasting.)[20:131] Yet another question arises here about the People of Kahf.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, the period of sleep was stated very clearly.
-
-**From the Sunnah:** this was revealed about the nobles of Quraysh when they asked the Prophet ﷺ to sit with them on his own, and not to bring his weak Companions with him, such as Bilal, 'Ammar, Suhayb, Khabbab and Ibn Mas'ud. Allah's Messenger ﷺ thought to himself about whatever Allah willed he should think about, then Allah revealed: (Sahih Muslim)
 ## Personal Reflections
-
 

@@ -139,11 +139,5 @@ In this affair the considered opinion of Sayyidna Musa (علیہ السلام) �
 
 Aaron pleaded, “O son of my mother! Do not seize me by my beard or the hair of my head. I really feared that you would say, ‘You have caused division among the Children of Israel, and did not observe my word.’”
 
-## AI Tafsir
-
-**What this ayah teaches:** The mentioning of the mother here is more delicate and profound in bringing about gentleness and mildness.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

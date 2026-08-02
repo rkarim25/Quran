@@ -138,11 +138,5 @@ In a Hadith of Al-Fitun recorded from Al-Hasan Al-Basri, it is mentioned that th
 
 Did they not see that it did not respond to them, nor could it protect or benefit them?
 
-## AI Tafsir
-
-**What this ayah teaches:** The word for sorrow used here is Asif, which is used to emphasize to the severity of his anger. They were well aware that it could not answer their prayers nor had it the power to harm them or to benefit them.
-
-**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas said, "Nay, by Allah, the moaning sound of the calf was nothing but wind that would enter into its behind and come out of its mouth, thus causing it to make a sound." In a Hadith of Al-Fitun recorded from Al-Hasan Al-Basri, it is mentioned that this calf's name was Bahmut.
 ## Personal Reflections
-
 

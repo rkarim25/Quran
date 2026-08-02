@@ -126,13 +126,5 @@ Towards the end, the story of Sayyidna Yunus (علیہ السلام) is concisel
 
 So leave to Me those who reject this message. We will draw them gradually to destruction in ways they cannot comprehend.
 
-## AI Tafsir
-
-**What this ayah teaches:** Here the phrase 'So, leave me alone' in the original Arabic is an idiomatic expression which signifies 'Rely on Allah'. The those who reject the truth often demanded Divine punishment arguing that if they are really guilty in the sight of Allah, and if He has the power to punish, then why the punishment does not befall them forthwith.
-
-**Classical tafsir:** Ibn Kathir notes: The Terror of the Day of Judgement After Allah mentions that those who have Taqwa, will have Gardens of Delight with their Lord, He explains when this will be, and its actual occurrence.
-
-**From the Sunnah:** he heard the Prophet ﷺ saying, (Sahih al-Bukhari)
 ## Personal Reflections
-
 

@@ -252,13 +252,5 @@ The majority of commentators have declared the present verse to be a similitude 
 
 and have placed a barrier before them and a barrier behind them and covered them all up, so they fail to see the truth.
 
-## AI Tafsir
-
-**What this ayah teaches:** One barrier is of the kind that prevents one from seeing even himself.
-
-**Classical tafsir:** Ibn Kathir notes: Qatadah said, "If Allah were to have neglected anything with regard to you, O son of Adam, He would have neglected what the wind could remove of these footsteps." But He takes into account the footsteps of the son of Adam and all his deeds; He even takes into account these footsteps and whether they… This also indicates that Allah gives life to the heart of whomever He wills among the those who reject the truth,…
-
-**From the Sunnah:** This was recorded by Muslim from Jarir bin 'Abdullah Al-Bajali, may Allah be pleased with him in which is detailed a story of the people from the Mudar tribe, who were wearing woollen rags. (Sahih Muslim) When the Messenger of Allah ﷺ heard about that, he said to them: (Musnad Ahmad)
 ## Personal Reflections
-
 

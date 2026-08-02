@@ -130,11 +130,5 @@ After mentioning the confused state of the infidels, Allah draws man's attention
 
 as provision for Our servants. With this rain We revive a dead land. The same power will bring you out of your graves.
 
-## AI Tafsir
-
-**What this ayah teaches:** However, when rain falls upon it, it is stirred to life; it swells and produces all of the lovely pairs such as flowers and the like – amazing on account of their beauty.
-
-**Classical tafsir:** Ibn Kathir notes: Lexically, the word furuj is the plural of farj which means a crack, or an opening.
 ## Personal Reflections
-
 

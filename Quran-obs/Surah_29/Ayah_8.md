@@ -144,15 +144,5 @@ Baghawi has reported in his narration that the mother of Sayyidna Sa'd ؓ did no
 
 We commanded people to honour parents. If they urge you to associate with Me what you have no knowledge of, do not obey them. To Me you will all return, and I will inform you of what you did.
 
-## AI Tafsir
-
-**Context:** (And for those who believe and do righteous good deeds, surely, We shall make them enter with the righteous.) In his Tafsir of this Ayah, At-Tirmidhi recorded that Sa'd said: "Four Ayat were revealed concerning me – and…
-
-**What this ayah teaches:** And We have enjoined on man to be dutiful to his parents; but if they strive to make you associate with Me, which you have no knowledge of, then obey them not. The Command to be Good and Dutiful to Parents Allah commands His servants to be dutiful to parents, after urging them to adhere to belief in His Tawhid, because a person's parents are the cause of his existence.
-
-**Classical tafsir:** Ibn Kathir notes: The Command to be Good and Dutiful to Parents Allah commands His servants to be dutiful to parents, after urging them to adhere to belief in His Tawhid, because a person's parents are the cause of his existence.
-
-**From the…
 ## Personal Reflections
-
 

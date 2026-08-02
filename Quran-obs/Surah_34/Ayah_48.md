@@ -101,13 +101,5 @@ Verse 48: إِنَّ رَ‌بِّي يَقْذِفُ بِالْحَقِّ عَ�
 
 Say: "My Lord hurls the truth against falsehood. He is the Knower of all that is unseen."
 
-## AI Tafsir
-
-**What this ayah teaches:** meaning, He sends the angel to whomsoever He wills of His servants among the people on earth, and He is the All-Knower of the Unseen; nothing whatsoever is hidden from Him in the heavens or on earth.
-
-**Classical tafsir:** Ibn Kathir notes: But if I remain guided, it is because of the Revelation of my Lord to me.
-
-**From the Sunnah:** When the Messenger of Allah ﷺ entered Al-Masjid Al-Haram on the day of the conquest of Makkah, and found those idols standing around the Ka'bah, he started to hit the idols with his bow, reciting,
 ## Personal Reflections
-
 

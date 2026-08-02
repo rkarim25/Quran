@@ -188,11 +188,5 @@ Scholars have expressed the view that the Juxtaposition of these two commands po
 
 O messengers! Eat from what is good and lawful, and act righteously. Indeed, I fully know what you do.
 
-## AI Tafsir
-
-**What this ayah teaches:** The Command to Eat Lawful Food and to Do Righteous Deeds Allah commands His servants and Messengers, peace be upon them all, to eat lawful food and do righteous deeds, which indicates that eating what is lawful helps one to do righteous deeds.
-
-**Classical tafsir:** Ibn Kathir notes: The Command to Eat Lawful Food and to Do Righteous Deeds Allah commands His servants and Messengers, peace be upon them all, to eat lawful food and do righteous deeds, which indicates that eating what is lawful helps one to do righteous deeds.
 ## Personal Reflections
-
 

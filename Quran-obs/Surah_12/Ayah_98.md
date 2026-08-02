@@ -85,13 +85,5 @@ Here, Sayyidna Ya` qub (علیہ السلام) has, instead of praying for them 
 
 He said, “I will pray to my Rabb for your forgiveness. He alone is indeed the All-Forgiving, the Rahim.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Ask forgiveness (from Allah) for our sins, indeed we have been sinners." He said: "I will ask my Lord for forgiveness for you, verily, He! According to them, his purpose was to pray for them particularly, in peace and with concentration, towards the later part of the night - because the prayer made at that hour is answered specially.
-
-**Classical tafsir:** Ibn Kathir notes: Mujahid and As-Suddi said that the bearer of good news was Yahudha, son of Ya'qub.
-
-**From the Sunnah:** This is as it appears in a Hadith in the Sahib of Al-Bukhari and Muslim that, in the last third part of every night, Allah Ta` ala descends in all His Glory close to the firmament near the Earth, and proclaims: Is there someone who would pray to Me, and I woul… (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
-
 

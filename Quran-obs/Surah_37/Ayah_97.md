@@ -201,13 +201,5 @@ On occasions of good cheer and Iight humor too, tauriyah stands proved from the 
 
 They said to one another: "Build him a furnace and cast him into the blazing fire."
 
-## AI Tafsir
-
-**What this ayah teaches:** And there are still others who say that there is no effective agent but Allah Ta’ ala, however, He has endowed stars with such properties, therefore, very much like other causes, they too serve as yet another cause of human successes and failures.
-
-**Classical tafsir:** Ibn Kathir notes: Ibrahim, peace be upon him, said this to his people so that he could stay behind in the city when they went out for their festival.
-
-**From the Sunnah:** Ibn Jarir narrated here a Hadith from Abu Hurayrah, may Allah be pleased with him, stating that the Messenger of Allah ﷺ said: The former is more apparent because of the report recorded by Al-Bukhari in the Book Af'al Al-'Ibad from Hudhayfah, attributed to the Prophet ﷺ: (Sahih al-Bukhari)
 ## Personal Reflections
-
 

@@ -112,11 +112,5 @@ These verses refer to this very perception of these things that to associate any
 
 in protest at attributing children to the Rahman.
 
-## AI Tafsir
-
-**What this ayah teaches:** These verses refer to this very perception of these things that to associate anything or being with Allah Ta` ala, specially to assert that He has children is a sin which makes the earth and the mountains quake with fear.
-
-**Classical tafsir:** Ibn Kathir notes: This explains the fact that everything in the world glorifies Allah Ta’ ala as will be evident from the verse.
 ## Personal Reflections
-
 

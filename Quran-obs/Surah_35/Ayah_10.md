@@ -273,11 +273,5 @@ Some commentators suggest another syntactical arrangement in respect of this sen
 
 Whoever seeks honour and power—all honour and power belong to Allah. Good words ascend to Him, and righteous deeds He raises up. As for those who plot evil, they will suffer severe punishment, and their plotting will fail.
 
-## AI Tafsir
-
-**What this ayah teaches:** And the sense of ascending to and being helped to ascend is being accepted in the sight of Allah, therefore, the gist of the sentence would be that good word, be it the kalimah of tauhid or others words of the remembrance and glorification of Allah, nothing of it gets to be acceptable with Allah without good deed.
-
-**Classical tafsir:** Ibn Kathir notes: Evidence of Life after Death Often Allah refers to the Resurrection by using the analogy of the earth coming back to life after it has died, as in the beginning of Surat Al-Hajj, where He urges His servants to draw the lesson of the former from the latter.
 ## Personal Reflections
-
 

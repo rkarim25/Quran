@@ -144,13 +144,5 @@ In the last sentence of the verse, it was said: إِنَّ اللَّـهَ عَ
 
 Allah has created you, and then causes you to die. And some of you are left to reach the most feeble stage of life so that they may know nothing after having known much. Indeed, Allah is All-Knowing, Most Capable.
 
-## AI Tafsir
-
-**What this ayah teaches:** When one is made to reach its extreme stage, one is left with no functional strength, neither physical nor rational.
-
-**Classical tafsir:** Ibn Kathir notes: And Allah created you and then He will cause you to die; and among you there are some who are sent back to senility, so that they know nothing after having known (much).
-
-**From the Sunnah:** Thus Al-Bukhari, when commenting on this Ayah, reported a narration from Anas bin Malik that the Messenger of Allah ﷺ used to pray: (Sahih al-Bukhari)
 ## Personal Reflections
-
 

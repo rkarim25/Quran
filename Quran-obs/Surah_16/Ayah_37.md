@@ -170,13 +170,5 @@ From verse 36 in the present Surah: وَلَقَدْ بَعَثْنَا فِي �
 
 Even though you O Prophet are keen on their guidance, Allah certainly does not guide those He leaves to stray, and they will have no helpers.
 
-## AI Tafsir
-
-**Context:** (And We did not send any Messenger before you (O Muhammad) but We revealed to him (saying): None has the right to be worshipped but I (Allah), so worship Me (alone and none else).")(21:25)
-
-**What this ayah teaches:** So travel through the land and see the end of those who denied (the truth)(36)(Even) if you desire that they be guided, then verily, Allah does not guide those whom He allowed to stray, and they will have no helpers . Those deserving the Word (wrath) of your Lord will not believe, even if every sign should come to them - until they see the painful torment)(10:96-97).
-
-**Classical tafsir:** Ibn Kathir notes: Those deserving the Word (wrath) of your Lord will not believe, even if every sign should come to them - until they see the painful torment)(10:96-97).
 ## Personal Reflections
-
 

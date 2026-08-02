@@ -146,11 +146,5 @@ Finally, the Holy Prophet ﷺ said, 'My dear uncle, should I not be inviting the
 
 Consider how many communities We destroyed before them. They cried out when escape was already impossible.
 
-## AI Tafsir
-
-**What this ayah teaches:** Finally, the Holy Prophet ﷺ said, 'My dear uncle, should I not be inviting them to something that is better for them?' Abu Talib said, 'What thing is that?' He said, 'I want them to say a particular kalimah (statement) by virtue of which the whole Arabia will be at their feet, and they will become masters of the non-Arab lands beyond it.' Thereupon, Abu Jahl said, 'Tell us.
-
-**Classical tafsir:** Ibn Kathir notes: Those who disbelieve are in false pride and opposition.)(3.
 ## Personal Reflections
-
 

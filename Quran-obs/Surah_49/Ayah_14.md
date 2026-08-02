@@ -264,13 +264,5 @@ Ends here
 
 Some desert Arabs say, 'We have iman.' Say: You do not yet have iman. Say rather, 'We have submitted,' for iman has not yet entered your hearts. If you obey Allah and His Messenger, He will not diminish any of your deeds. Allah is All-Forgiving, the Rahim.
 
-## AI Tafsir
-
-**Context:** According to Imam Baghawi, this verse was revealed in connection with the tribe of Banu Asad. A few members of that tribe came up to the Holy Prophet ﷺ in Madinah during a severe drought.
-
-**What this ayah teaches:** The Qur'an first negates their false claim of faith: You cannot claim "amanna" ['We have come to believe']; the most you can say is "aslamna" ['We have surrendered'], because the literal meaning of Islam is to recite the kalimah of Islam, enter the fold of the religion and surrender.
-
-**Classical tafsir:** Ibn Kathir notes: "’ Iman", in the technical sense of Shari’ ah, refers to the belief by heart and thus connotes a firm and unshakable belief in the Oneness of Allah and in His ﷺ .
 ## Personal Reflections
-
 

@@ -228,13 +228,5 @@ This indicates that there is only one incident where a woman actually became an 
 
 If any of your wives desert you for the those who reject the truth, and later you take spoils from them, pay those whose wives have gone the equivalent of whatever dowry they had paid. Be living with taqwa—Allah-consciousness, in whom you believe.
 
-## AI Tafsir
-
-**Context:** Ibn Thawr narrated that Ma'mar said that Az-Zuhri said, "This Ayah was revealed to Allah's Messenger ﷺ while he was in the area of Al-Hudaybiyyah, after making peace.
-
-**What this ayah teaches:** And have Taqwa of Allah, the One in Whom your are believers.) Therefore, if a Muslim woman reverts to the idolators, the believers should give back the dowery her Muslim husband paid her, from whatever money is left with them from the dowery of women who migrated to the Muslims.
-
-**Classical tafsir:** Ibn Kathir notes: " Ibn Jarir recorded that Az-Zuhri said, "The believers abided by Allah's decree and paid what they owed the idolators to compensate for the dowery the idolators gave to the women (who emigrated).
 ## Personal Reflections
-
 

@@ -117,11 +117,5 @@ Allah has already told us about the ignorant imitators who are led astray:
 
 They will be told, “This is the reward for what your hands have done. And Allah is never unjust to His creation.”
 
-## AI Tafsir
-
-**What this ayah teaches:** For him there is disgrace in this worldly life, and on the Day of Resurrection We shall make him taste the torment of burning (9)That is because of what your hands have sent forth, and verily, Allah is not unjust to servants .
-
-**Classical tafsir:** Ibn Kathir notes: That is because of what your hands have sent forth,) means, this will be said to him by way of rebuke.
 ## Personal Reflections
-
 

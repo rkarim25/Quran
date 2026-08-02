@@ -304,15 +304,5 @@ Ends here
 
 And from the evil of an envier when he envies—when someone resents your blessings, your stability, or your faith and wishes them gone.
 
-## AI Tafsir
-
-**Context:** (Do you not see that there have been Ayat revealed to me tonight the like of which has not been seen before?) They are
-
-**What this ayah teaches:** Black magic has the worst effect when it is intensely dark at night.
-
-**Classical tafsir:** Ibn Kathir notes: The word 'night' has been specifically mentioned because this is the time when Jinn, Shaitans, harmful insects, animals and reptiles appear.
-
-**From the Sunnah:** from Zirr bin Hubaysh that Ubayy bin Ka'b told him that Ibn Mas'ud did not record the Mu'awwidhatayn in his Mushaf (copy of the Qur'an). (Musnad Ahmad) This Hadith was recorded by Ahmad, At-Tirmidhi and An-Nasa'i. (Jami' at-Tirmidhi, Sunan an-Nasa'i)
 ## Personal Reflections
-
 

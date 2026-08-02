@@ -207,19 +207,5 @@ We have said that there is no contradiction involved, for some texts of this had
 
 This was the counsel Abraham and Jacob gave their children: "Allah has chosen for you this deen — the way of life aligned with divine guidance — so do not die except in full submission to Him."
 
-## AI Tafsir
-
-**Essence**
-A dying father's final command to his sons: hold fast to the religion Allah Himself chose for you, and let nothing but submission to Him be the state in which you meet death.
-
-**What it teaches**
-Ibrahim and Ya'qub (peace be upon them) bequeathed not wealth but tawhid: "Allah has chosen for you the religion, so die not except as Muslims." The din chosen here is islam in its root sense — the total surrender of one's will to Allah — and muslimun are those who live and die in that surrender.
-
-**The scholars**
-Ibn Kathir explains that these Prophets so loved these words that they preserved them until death and charged their children to cling to them. To "die not except as Muslims," he says, is to perform righteous deeds and remain on this path so that Allah grants one a death upon it — for one usually dies upon the path he lived on, and is resurrected upon what he died on. He adds that this does not contradict the authentic hadith that a man may do the deeds of Paradise until only an arm's length remains, then the decree overtakes him; the outcome rests with Allah's foreknowledge, not against the believer's striving. Maarif ul Quran adds that islam is the one religion of every prophet from Adam to the Last Prophet (peace be upon him), and that Ibrahim named his religion Islam and his followers Muslims — a naming Allah Himself confirmed and passed to this Ummah: "He named you Muslims" (22:78).
-
-**Reflection**
-The command falls not on the moment of death but on the life before it. You cannot seize your final breath, but you can choose the path you walk to it — so labor in good, and entrust the ending to the One who chose the religion for you.
 ## Personal Reflections
-
 

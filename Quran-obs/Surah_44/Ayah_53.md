@@ -146,13 +146,5 @@ This is the end of the Tafsir of Surat Ad-Dukhan. All praise and thanks are due 
 
 dressed in fine silk and rich brocade, facing one another.
 
-## AI Tafsir
-
-**What this ayah teaches:** The word sundus refers to "fine silk" and the word istabraq refers to "thick silk".
-
-**Classical tafsir:** Ibn Kathir notes: The word sundus refers to "fine silk" and the word istabraq refers to "thick silk".
-
-**From the Sunnah:** It was reported in the Two Sahihs that the Messenger of Allah ﷺ said: Paradise and Hell, then it will be slaughtered.
 ## Personal Reflections
-
 

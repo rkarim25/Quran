@@ -186,13 +186,5 @@ In the cited verses (13 18), the Shaytan has been commanded to leave the heavens
 
 I will approach them from their front, their back, their right, their left, and then You will find most of them ungrateful.”
 
-## AI Tafsir
-
-**What this ayah teaches:** And he had no authority over them, except that We might test him who believes in the Hereafter, from him who is in doubt about it.
-
-**Classical tafsir:** Ibn Kathir notes: Mujahid said that the 'straight path', refers to the truth.
-
-**From the Sunnah:** he heard the Messenger of Allah ﷺ saying, (Musnad Ahmad)
 ## Personal Reflections
-
 

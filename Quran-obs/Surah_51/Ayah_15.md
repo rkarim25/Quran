@@ -160,11 +160,5 @@ When he would talk to one of his friends, Mu'adh used to say: "What I am saying 
 
 The people of taqwa will be amid Gardens and springs,
 
-## AI Tafsir
-
-**What this ayah teaches:** Qualities of Those Who have Taqwa and Their Reward Allah the Exalted informs about those who have Taqwa, that on the Day of their Return they will be amidst gardens and springs. Verily, those who have Taqwa will be in the midst of Gardens and Springs (15)Taking joy in the things which their Lord has given them.
-
-**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas said, "Every night, they would worship Allah, even during a little part of the night." Qatadah narrated that Mutarrif bin 'Abdullah said, "Hardly a night would pass by them that they did not pray to Allah the Exalted and Most Honored, either in the beginning, or the middle of it." Mujahid… As for the Mahrum, Ibn 'Abbas and Mujahid said, "He is the poor person who does not receive a stipen…
 ## Personal Reflections
-
 

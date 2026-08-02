@@ -118,13 +118,5 @@ The Qur'an here describes the condition of those unbelievers who denied the Here
 
 So turn away from whoever turns away from Our Reminder and desires only the life of this dunya.
 
-## AI Tafsir
-
-**What this ayah teaches:** They follow but conjecture, and verily, conjecture is no substitute for the truth (28)Therefore withdraw from him who turns away from Our Reminder and desires nothing but the life of this world (29)That is what they could reach of knowledge.
-
-**Classical tafsir:** Ibn Kathir notes: Allah is the One Who guides whom He wills and misguides whom He wills, and all of this indicates His power, knowledge and wisdom.
-
-**From the Sunnah:** Regretfully, nowadays the Muslims have characterized themselves by the same condition as a result of Western education and material needs and desires.
 ## Personal Reflections
-
 

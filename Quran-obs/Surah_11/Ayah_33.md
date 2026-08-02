@@ -91,11 +91,5 @@ Then, it was said: If I too were to start calling them lowly and disgraceful, I 
 
 He responded, “It is Allah Who can bring it upon you if He wills, and then you will have no escape!
 
-## AI Tafsir
-
-**What this ayah teaches:** But, I cannot say as you say that Allah Ta'ala will not bless them with what is good, because good relates to one's heart, not wealth, and only Allah knows the secrets of hearts and He knows whose heart is worthy of receiving good and whose heart is not.
-
-**Classical tafsir:** Ibn Kathir notes: But, I cannot say as you say that Allah Ta'ala will not bless them with what is good, because good relates to one's heart, not wealth, and only Allah knows the secrets of hearts and He knows whose heart is worthy of receiving good and whose heart is not.
 ## Personal Reflections
-
 

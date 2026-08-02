@@ -108,13 +108,5 @@ In addition to that, in the first verse (52), said there was: فَأَخَذَه
 
 Their end is like that of Pharaoh's people and those before them—they denied their Rabb's signs, so We destroyed them for their sins and drowned Pharaoh's people. They were all wrongdoers.
 
-## AI Tafsir
-
-**What this ayah teaches:** That is so because Allah will never change a grace which He has bestowed on a people until they change what is in themselves.
-
-**Classical tafsir:** Ibn Kathir notes: This explains the brevity in the first statement because, in the first verse, mentioned there was their being seized in punishment which could take different forms.
-
-**From the Sunnah:** However, details pertaining to these too have appeared in other verses where it has been said that some of them were overrun by an earthquake, some others were made to sink into the earth, or transformed into animals, or seized by wind storms - and finally, ca…
 ## Personal Reflections
-
 

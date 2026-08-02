@@ -106,13 +106,5 @@ Imam Malik (رح) does not like to name a person as Yasin for the reason that, a
 
 By the Quran, rich in wisdom!
 
-## AI Tafsir
-
-**What this ayah teaches:** And according to another narration, this is a word from the Ethiopian language that means: '0 human person' and denotes the person of the noble Prophet ﷺ .
-
-**Classical tafsir:** Ibn Kathir notes: And according to another narration, this is a word from the Ethiopian language that means: '0 human person' and denotes the person of the noble Prophet ﷺ .
-
-**From the Sunnah:** We have already mentioned the Ayat and Mutawatir Hadiths which state that the mission of the Prophet ﷺ is universal, when we discussed the meaning of the Ayah:
 ## Personal Reflections
-
 

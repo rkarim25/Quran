@@ -260,13 +260,5 @@ The word, "Salah" in: مِن بَعْدِ الصَّلَاةِ (after the prayer
 
 In this way it is more likely that witnesses will give true testimony or else fear that their oaths could be refuted by those of the heirs. live with taqwa toward Allah and obey. For Allah does not guide the rebellious people.
 
-## AI Tafsir
-
-**What this ayah teaches:** This is the oath of the heirs, and preference is to be given to their saying.
-
-**Classical tafsir:** Ibn Kathir notes: Then, the words "if you have some doubt" refers to a situation where the legal heirs of the deceased have a claim against the executors of the will, as in the case of Budayl the heirs claimed that a bowl of silver was delivered by the deceased to the executors.
-
-**From the Sunnah:** Ibn Jarir recorded that Sharih said, "The witness of the Jews and Christians is not allowed except while traveling, and even then only to witness the dictation of the will." Allah's statement, they are detained after Muslim prayer (i.e., in congregation). (Sahih Muslim)
 ## Personal Reflections
-
 

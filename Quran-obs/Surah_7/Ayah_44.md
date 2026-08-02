@@ -219,13 +219,5 @@ Imam Raghib al-Isfahani (رح) ، who has explained Hidayah or guidance in a com
 
 The residents of Paradise will call out to the residents of the Fire, “We have certainly found our Rabb’s promise to be true. Have you too found your Rabb’s promise to be true?” They will reply, “Yes, we have!” Then a caller will announce to both, “May Allah’s condemnation be upon the wrongdoers, those who hindered from Allah’s Way, strived to make it crooked, and disbelieved in the Akhirah.”
 
-## AI Tafsir
-
-**What this ayah teaches:** The purpose is to emphasize that good deeds - which is a condition for entry into Paradise - is really not something so difficult as would be beyond the ability of a man or woman.
-
-**Classical tafsir:** Ibn Kathir notes: They sought to make Allah's path appear crooked and winding, so that no one would follow it.
-
-**From the Sunnah:** The Messenger of Allah ﷺ admonished the inhabitants of the well at Badr: Instead of that, in accordance with a Hadith in al-Bukhari and Muslim, this payment will be made in the currency of deeds. (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
-
 

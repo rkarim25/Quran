@@ -348,17 +348,5 @@ The Holy Qur'an says that real losers are those who go against divine commandmen
 
 Allah is not ashamed to set forth a parable — even of a mosquito or what is smaller. The believers know it is truth from their Rabb. Those who reject it ask, "What does Allah mean by this?" Through it He lets many stray and guides many — and none stray except the rebellious,
 
-## AI Tafsir
-
-**Essence** No creature is too small for Allah's purposes: the scorned mosquito-parable is a test that divides hearts.
-
-**What it teaches** Allah does not shy away from striking a parable of a mosquito or what is beyond it — bigger or smaller. Believers know it is the truth from their Lord; by it Allah guides many and leaves many to stray — and leaves none astray except the *fasiqin*.
-
-**The scholars** Ibn Kathir relates from Ibn 'Abbas and Ibn Mas'ud that it answered the hypocrites' mockery of earlier parables; the *fasiq* here, he notes, is the disbeliever. Mujahid: believers accept every parable, great or small; Ibn Kathir adds that Allah “adds guidance to their guidance.” Maarif ul-Quran roots *fisq* in “straying beyond a limit” and ties the disavowed covenant to “Am I not your Lord?” (7:172).
-
-**From the Sunnah** No Muslim is harmed by a thorn, *fama fawqaha* (or something larger), but a good deed will be written for him and an evil deed will be erased from his record. (Muslim)
-
-**Reflection** Receive even the smallest word from your Lord as truth that draws you nearer — never as an excuse to turn away.
 ## Personal Reflections
-
 

@@ -170,15 +170,5 @@ Abu Hurayrah ؓ reports that the Messenger of Allah ﷺ said: "By Him who sent m
 
 and admit them into Paradise, having made it known to them as though they had always belonged there.
 
-## AI Tafsir
-
-**Context:** (tighten their bonds.) 'This is referring to the prisoners of war whom you have captured. Later on, after the war ends and the conflict has ceased, you have a choice in regard to the captives: You may either act gracious…
-
-**What this ayah teaches:** But those who are killed in the way of Allah, He will never let their deeds be lost (4)He will guide them and amend their condition (5)And admit them to Paradise, which He has made known to them (6)O you who believe!
-
-**Classical tafsir:** Ibn Kathir notes: Misery awaits him, and degeneracy; and if he is pricked by a thorn, may he not find anyone to pull it for him.) This means may Allah not cure him.
-
-**From the Sunnah:** And goodness is tied around the horses' foreheads till the Day of Resurrection.) An-Nasa'i also recorded this narration. (Sunan an-Nasa'i) intercede for seventy members of his household. (Sunan Abi Dawud)
 ## Personal Reflections
-
 

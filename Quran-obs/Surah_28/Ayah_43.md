@@ -111,11 +111,5 @@ If the word Nas ناس (people) is used in the phrase بَصَائِرَ‌ لِ
 
 Indeed, We gave Moses the Scripture—after destroying earlier nations—as an insight for the people, a guide, and mercy so perhaps they would be mindful.
 
-## AI Tafsir
-
-**What this ayah teaches:** And indeed We gave Musa – after We had destroyed the generations of old – the Scripture as an enlightenment for mankind, and a guidance and a mercy, that they might remember .
-
-**Classical tafsir:** Ibn Kathir notes: It, therefore, does not necessarily follow that reading of Torah and Injil is banned for all times.
 ## Personal Reflections
-
 

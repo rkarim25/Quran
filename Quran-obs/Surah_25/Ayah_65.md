@@ -132,11 +132,5 @@ The Fifth Characteristic
 
 They are those who pray, “Our Rabb! Keep the punishment of Hell away from us, for its punishment is indeed unrelenting.
 
-## AI Tafsir
-
-**What this ayah teaches:** The inseparable, permanent punishment is that which lasts as long as heaven and earth.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

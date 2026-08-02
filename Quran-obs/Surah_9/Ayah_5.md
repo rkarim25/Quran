@@ -178,13 +178,5 @@ In his Ahkam a1-Qur'an, Imam Abu Bakr al-Jassas has said: By calling the days of
 
 When the sacred months have passed, fight those who broke their treaties wherever you find them, capture them, besiege them, and lie in wait at every point. But if they repent, establish salah—the formal ritual prayer—and pay zakat—obligatory sharing of wealth—then release them. Surely Allah is All-Forgiving, the Rahim.
 
-## AI Tafsir
-
-**What this ayah teaches:** So when the Sacred Months have passed, then fight the Mushrikin wherever you find them, and capture them and besiege them, and lie in wait for them in each and every ambush. Rather, seek and besiege them in their areas and forts, gather intelligence about them in the various roads and fairways so that what is made wide looks ever smaller to them.
-
-**Classical tafsir:** Ibn Kathir notes: Rather, seek and besiege them in their areas and forts, gather intelligence about them in the various roads and fairways so that what is made wide looks ever smaller to them.
-
-**From the Sunnah:** From the same fifth verse comes the eighth ruling, that is, trust in a non-Muslim who has become a Muslim depends on three things. (Sahih Muslim)
 ## Personal Reflections
-
 

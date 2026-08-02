@@ -262,15 +262,5 @@ The legal ruling extracted by Muslim jurists (فُقَھَا) from the texts thr
 
 And when they hear news of security or fear, they publicize it. Had they referred it to the Messenger or their authorities, those with sound judgment among them would have validated it. Had it not been for Allah’s grace and mercy, you would have followed Satan—except for a few.
 
-## AI Tafsir
-
-**Context:** We should mention here the Hadith of 'Umar bin Al-Khattab collected in the Two Sahihs. When 'Umar was informed that the Messenger of Allah ﷺ divorced his wives, he came from his house, entered the Masjid and found the pe…
-
-**What this ayah teaches:** So, the state of peace and fear is universal.
-
-**Classical tafsir:** Ibn Kathir notes: Allah states that there are no inconsistencies, contradictions, conflicting statements or discrepancies in the Qur'an, because it is a revelation from the Most-Wise, Worthy of all praise.
-
-**From the Sunnah:** My brother and I came and found that some of the leaders of the Companions of the Messenger of Allah ﷺ were sitting close to a door of his. (Musnad Ahmad) This is the same narration collected by Abu Dawud in the section of Adab (manners) in his Sunan. (Sunan Abi Dawud)
 ## Personal Reflections
-
 

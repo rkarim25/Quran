@@ -167,13 +167,5 @@ Maulana Ashraf ` Ali Thanawi (رح) ، has, however, explained the issue in Baya
 
 And whoever Allah leaves to stray will have no guide after Him. You will see the wrongdoers, when they face the torment, pleading, "Is there any way back to the world?"
 
-## AI Tafsir
-
-**What this ayah teaches:** And whomsoever Allah sends astray, for him there is no protector after Him.
-
-**Classical tafsir:** Ibn Kathir notes: And in the verse that refers to revenge, we are told that it is a particular quality of these virtuous people that if at any time their heart is inclined to take revenge of an injustice and they do so, they do not exceed the equitable limit, although to forgive is always better f…
-
-**From the Sunnah:** He says that Allah Ta’ ala has mentioned two qualities particular to the true, sincere and virtuous Muslims in both the verses.
 ## Personal Reflections
-
 

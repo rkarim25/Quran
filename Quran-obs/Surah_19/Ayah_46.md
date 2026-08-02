@@ -155,13 +155,5 @@ How to give counsel to elders.
 
 He threatened: "How dare you reject my idols, O Abraham? If you do not stop, I will stone you. Leave me for a long time!"
 
-## AI Tafsir
-
-**What this ayah teaches:** At the same time there is the filial love and respect which he feels towards his father.
-
-**Classical tafsir:** Ibn Kathir notes: Then Allah explains that Ibrahim abandoned this statement and retracted it.
-
-**From the Sunnah:** Forgive me and my parents, and (all) the believers on the Day when the reckoning will be established.)[14:41] From this tradition, during the beginning stages of Islam, the Muslims used to seek forgiveness for their relatives and their family members who were…
 ## Personal Reflections
-
 

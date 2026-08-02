@@ -184,13 +184,5 @@ Ends here.
 
 So let them indulge in falsehood and amuse themselves until they face their Day, which they have been warned of—
 
-## AI Tafsir
-
-**What this ayah teaches:** Then, after all of this they fled from him and separated themselves from him. I swear by the Lord of the easts and the wests that surely We are Able –to replace them by (others) better than them..) meaning, 'on the Day of Judgement We will bring them back (to life) in bodies that are better than these bodies that they have now.' For verily, Allah's power is suitable (able) to do that.
-
-**Classical tafsir:** Ibn Kathir notes: The use of plural number in this verse too indicates that there are many types and categories of 'testimony', and it is necessary to stand firm by one's testimony of any type.
-
-**From the Sunnah:** Allah rebukes the those who reject the truth who, in the time of the Prophet ﷺ, saw him and the guidance Allah sent him with. Jabir bin Samurah narrated that the Messenger of Allah ﷺ came out to them while they were sitting in circles.
 ## Personal Reflections
-
 

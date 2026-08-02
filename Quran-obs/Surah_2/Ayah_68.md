@@ -170,17 +170,5 @@ These Verses show how the Israelites were disposed to disobedience, and how this
 
 They said, "Call on your Rabb to clarify what kind of cow it should be." He said, "He says it should be neither old nor young, but in between — so do as you are commanded."
 
-## AI Tafsir
-
-**Essence** They met a clear command with hairsplitting; they made it hard on themselves, so Allah made it hard on them.
-
-**What it teaches** Told to slaughter a cow, Bani Isra'il demand Musa ask his Lord "what it is." The reply narrows their latitude: neither fāriḍ (too old) nor bikr (too young) but ʿawān — in between, in its prime — "so do what you are commanded."
-
-**The scholars** Ibn Kathir: any cow would have sufficed, as Ibn 'Abbas and 'Ubaydah said; their stubbornness made Allah make it ever harder. Abu Al-'Aliyah, Mujahid, Qatadah and others gloss it as neither old nor below breeding age; Ad-Dahhak reports Ibn 'Abbas: the age when a cow is "strongest and fittest."
-
-**From the Sunnah** A hadith cited in Maarif ul Quran (collection not named): had they obeyed without raising doubts and unnecessary questions, no strict condition would have been imposed.
-
-**Reflection** Answer His command promptly — every excuse-seeking question narrows a door He left wide open.
 ## Personal Reflections
-
 

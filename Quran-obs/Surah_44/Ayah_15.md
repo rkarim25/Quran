@@ -233,13 +233,5 @@ The author of Ruh-ul-Ma` ani, in terms of his preferred interpretation, has expr
 
 Indeed, We will remove that torment for a while, and you will return to your disbelief.
 
-## AI Tafsir
-
-**Context:** (Then wait you for the Day when the sky will bring forth a visible smoke, covering the people, this is a painful torment) A man came to the Messenger of Allah ﷺ and said, "O Messenger of Allah!
-
-**What this ayah teaches:** We are going to remove the punishment for a while, (but) you will certainly go back (to your original position). Fourth, Allah - despite their false promise - will remove the punishment for a short while in order to establish an argument against them, showing that they will not keep to their promise.
-
-**Classical tafsir:** Ibn Kathir notes: This is possible, but the apparent meaning is that it refers to the Day of Resurrection, although the day of Badr was also a day of vengeance.
 ## Personal Reflections
-
 

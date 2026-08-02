@@ -147,11 +147,5 @@ Everyone knows that animals have not been obligated to observe the percepts of a
 
 No! He is the only One you would call. And if He willed, He could remove the affliction that made you invoke Him. Only then will you forget whatever you associate with Him.”
 
-## AI Tafsir
-
-**What this ayah teaches:** To Him alone you call, and, if He willed, He would remove that (distress) for which you call upon Him, and you forget at that time whatever partners you joined with Him (in worship)(41)Verily, We sent (Messengers) to many nations before you.
-
-**Classical tafsir:** Ibn Kathir notes: And We seized them with extreme poverty and loss of health so that they might believe with humility (42)When Our torment reached them, why then did they not believe with humility?
 ## Personal Reflections
-
 

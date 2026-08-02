@@ -192,11 +192,5 @@ The verb bariqa means for the eyes 'to be dazzled and unable to see'. On the Day
 
 But when sight is stunned,
 
-## AI Tafsir
-
-**What this ayah teaches:** He asks: "When will be this Day of Resurrection?")(7.
-
-**Classical tafsir:** Ibn Kathir notes: I swear by An-Nafs Al-Lawwamah.) Qatadah said, "This means, I swear by both of these things." This has also been reported from Ibn 'Abbas and Sa'id bin Jubayr. This means Our power is suitable to gather (and recreate) them, and if We wished We could surely resurrect him with more than what he originally had.
 ## Personal Reflections
-
 

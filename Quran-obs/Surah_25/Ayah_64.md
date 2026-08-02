@@ -109,11 +109,5 @@ Sayyidna Ibn ` Abbas ؓ has said that one who has offered two or more Rak'ats af
 
 They are those who spend a good portion of the night, prostrating themselves and standing before their Rabb.
 
-## AI Tafsir
-
-**What this ayah teaches:** Special mention of night worship is made here firstly, because this time being a time of rest, requires extra effort, and secondly because it rules out the possibility of showing one's worship to others.
-
-**Classical tafsir:** Ibn Kathir notes: Special mention of night worship is made here firstly, because this time being a time of rest, requires extra effort, and secondly because it rules out the possibility of showing one's worship to others.
 ## Personal Reflections
-
 

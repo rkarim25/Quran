@@ -138,13 +138,5 @@ Mentioned in the third verse (74) are words of praise for the Sahabah who emigra
 
 Those who believed, emigrated, and strove in Allah's cause, and those who gave shelter and help—they are the true mu'minin. For them is forgiveness and a generous provision.
 
-## AI Tafsir
-
-**What this ayah teaches:** And those who believed, and emigrated and strove hard in the cause of Allah (Al-Jihad), as well as those who gave (them) asylum and aid – these are the believers in truth, for them is forgiveness and a generous provision (74)And those who believed afterwards, and emigrated and strove hard along with you, they are of you.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** Mentioned in the third verse (74) are words of praise for the Sahabah who emigrated from Makkah and for the Ansar of Madinah who helped them, as well as the attestation to their being true Muslims and the promise of forgiveness and respectable provision made t… (Sahih Muslim)
 ## Personal Reflections
-
 

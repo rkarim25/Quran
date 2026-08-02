@@ -129,13 +129,5 @@ Allah's Fairness to Sinners
 
 Or did they create the heavens and the earth? In fact, they have no firm conviction.
 
-## AI Tafsir
-
-**What this ayah teaches:** Nay, but they have no firm belief.) meaning, Allah is censuring the idolators for their idolatry, while asking them if they created the heavens and earth.
-
-**Classical tafsir:** Ibn Kathir notes: Then let their listener produce some manifest proof (38)Or has He only daughters and you have sons (39)Or is it that you ask a wage from them so that they are burdened with a load of debt (40)Or that the Unseen is with them, and they write it down (41)Or do they intend a plot?
-
-**From the Sunnah:** This Hadith is collected in the Two Sahihs using various chains of narration. Paradise, who will ask: '0 Lord! How did I earn this?' Allah will reply: 'Through your son's invoking Me to forgive you. (Sahih Muslim)
 ## Personal Reflections
-
 

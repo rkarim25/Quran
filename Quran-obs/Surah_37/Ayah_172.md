@@ -98,11 +98,5 @@ In verse 177, it was said: فَإِذَا نَزَلَ بِسَاحَتِهِم�
 
 that they would surely be helped,
 
-## AI Tafsir
-
-**What this ayah teaches:** Therefore, simply due to this temporary ascendancy, neither can we call that robber an authority, nor that authority a subject. And, verily, Our Word has gone forth of old for Our servants, the Messengers (171)That they verily would be made triumphant (172)And that Our hosts!
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, simply due to this temporary ascendancy, neither can we call that robber an authority, nor that authority a subject.
 ## Personal Reflections
-
 

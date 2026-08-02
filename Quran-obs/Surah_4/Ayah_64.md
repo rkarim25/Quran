@@ -193,15 +193,5 @@ Sayyidna Ali ؓ said: "Three days after we all had finished with the burial of t
 
 We only sent messengers to be obeyed by Allah’s Will. If only those came to you —after wronging themselves—seeking Allah’s forgiveness and the Messenger prayed for their forgiveness, they would have certainly found Allah ever Accepting of Repentance, the Rahim.
 
-## AI Tafsir
-
-**Context:** So, Allah's Messenger ﷺ gave Az-Zubayr his full right when the Ansari made him angry. Before that, Allah's Messenger ﷺ had given a generous judgment, beneficial for Az-Zubayr and the Ansari.
-
-**What this ayah teaches:** Thereafter, whatever the Messenger ﷺ commands, is the plain truth that must be submitted to inwardly and outwardly.
-
-**Classical tafsir:** Ibn Kathir notes: This Ayah indicates that the Prophets are only obeyed by whomever Allah directs to obedience.
-
-**From the Sunnah:** The Ansari became angry and said, 'O Allah's Messenger! So, Allah's Messenger ﷺ gave Az-Zubayr his full right when the Ansari made him angry.
 ## Personal Reflections
-
 

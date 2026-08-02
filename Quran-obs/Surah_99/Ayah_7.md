@@ -236,13 +236,5 @@ Verse [ 7] فَمَن يَعْمَلْ مِثْقَالَ ذَرَّ‌ةٍ خَ
 
 Whoever did an atom's weight of good will see it—no good erased as 'too small.'
 
-## AI Tafsir
-
-**What this ayah teaches:** That Day mankind will proceed in scattered groups that they may be shown their deeds.)(7. When they passed through a stream from which they did drink, though he (their owner) does not intend to quench their thirst, yet, it would be counted as good deeds, Therefore, they are a reward for that man.
-
-**Classical tafsir:** Ibn Kathir notes: This refers to the alteration of the state of things and the earth moving and shaking.
-
-**From the Sunnah:** Then the man said, 'Rather give me something to recite that is comprehensive (of all of these), O Messenger of Allah.' So the Prophet ﷺ told him to recite So the man came to him and the Prophet ﷺ said to him,
 ## Personal Reflections
-
 

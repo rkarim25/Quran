@@ -176,13 +176,5 @@ Ibn ` Abbas ؓ has remarked that even Hell seeks protection from غَیّ , whic
 
 But later generations neglected salah and followed their nafs—the inner self that pulls toward desire—so they will soon face evil consequences.
 
-## AI Tafsir
-
-**What this ayah teaches:** Therefore they lose, because the prayer is the pillar and foundation of the religion.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, these people will meet with Ghaiy, which means loss on the Day of Resurrection.
-
-**From the Sunnah:** Paradise and they will not be wronged in aught.
 ## Personal Reflections
-
 

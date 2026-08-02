@@ -158,11 +158,5 @@ Therefore, those who rush to obey Allah in this life and are foremost in perform
 
 no one can deny it has come.
 
-## AI Tafsir
-
-**What this ayah teaches:** Some authorities have taken the word kadhibah in the sense of takdhib [ to deny ] and the meaning, in that case, is clear that 'no one can deny the fact that it will come to pass'.
-
-**Classical tafsir:** Ibn Kathir notes: They are the chiefs of those on the right side, because they include the Messengers, Prophets, true believers and martyrs.
 ## Personal Reflections
-
 

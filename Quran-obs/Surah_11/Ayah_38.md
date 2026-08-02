@@ -153,13 +153,5 @@ In the third verse (38), mentioned there is the total lack of concern for their 
 
 So he began to build the Ark, and whenever some of the chiefs of his people passed by, they mocked him. He said, “If you laugh at us, we will soon laugh at you similarly.
 
-## AI Tafsir
-
-**Context:** And it was revealed to Nuh: "None of your people will believe except those who have believed already. So be not sad because of what they used to do (36)"And construct the ship under Our Eyes and with Our revelation, and…
-
-**What this ayah teaches:** When the chieftains of his people saw him busy with his project under a Divine command, they would ask him, ` what are you doing?' He said, ` a flood is to come, therefore, I am making an ark.' They would mock at him and say, ` we have no water to drink here and this wise man is planning to sail in a boat on this dry land.' In response, Sayyidna Nuh told them, ` if you mock at us today, then remem…
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

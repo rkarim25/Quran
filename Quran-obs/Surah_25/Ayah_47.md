@@ -134,11 +134,5 @@ As in the case of sleep, Allah Ta’ ala has bestowed a great blessing on human 
 
 He is the One Who has made the night for you as a cover, and made sleep for resting, and the day for rising.
 
-## AI Tafsir
-
-**What this ayah teaches:** Hence, night by itself is a blessing and sleep is another blessing.
-
-**Classical tafsir:** Ibn Kathir notes: So the sense of the verse is that Allah Ta’ ala has created the night as a covering to everything then imposed sleep on men and all living things, so that they rest and relax.
 ## Personal Reflections
-
 

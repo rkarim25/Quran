@@ -130,13 +130,5 @@ Ends here
 
 So woe to those who perform salah—
 
-## AI Tafsir
-
-**What this ayah teaches:** However, in the current verse the word ma’ un is taken in the sense of Zakah [ obligatory alms ] because it is a little amount out of much wealth - only 2-½% out of the entire wealth. It indicates that they [ the hypocrites ] are neglectful of the very concept of salah.
-
-**Classical tafsir:** Ibn Kathir notes: This may either be referring to its act entirely, as Ibn 'Abbas said, or it may be referring to performing it in its stipulated time that has been legislated Islamically. Have you seen the one who denies the Din'?' Here the word Din means the Hereafter, the Recompense and the Final Reward.
-
-**From the Sunnah:** This does not refer to the unintentional errors, slips and mistakes that Muslims make in their prayers.
 ## Personal Reflections
-
 

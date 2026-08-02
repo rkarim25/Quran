@@ -176,11 +176,5 @@ Though the noble Companions had not disobeyed any command given to them - in fac
 
 Remember when Allah promised you one of two groups—the armed enemy or the unarmed caravan—and you wished for the easier target. But Allah intended to establish the truth by His words and to cut off the roots of those who reject it.
 
-## AI Tafsir
-
-**What this ayah teaches:** As your Lord caused you to go out from your home with the truth; and verily, a party among the believers disliked it (5)Disputing with you concerning the truth after it was made manifest, as if they were being driven to death, while they were looking (at it)(6)And (remember) when Allah promised you (Muslims) one of the two parties, that it should be yours; you wished that the one not armed should…
-
-**Classical tafsir:** Ibn Kathir notes: This is because the majority of the people with him then were the Ansar.
 ## Personal Reflections
-
 

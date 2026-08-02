@@ -187,13 +187,5 @@ Commentary
 
 And indeed, I seek refuge with my Lord and your Lord so you do not stone me to death.
 
-## AI Tafsir
-
-**Context:** And indeed We revealed to Mu0sa0 (saying): Travel by night with My servants and strike a dry path for them in the sea, fearing neither to be overtaken nor being afraid (of drowning in the sea). (20:77)
-
-**What this ayah teaches:** You have indeed bestowed on Fir'awn and his chiefs splendor and wealth in the life of this world, our Lord! This refers to the clear signs and definitive evidence with which Allah sent him.
-
-**Classical tafsir:** Ibn Kathir notes: This refers to the clear signs and definitive evidence with which Allah sent him.
 ## Personal Reflections
-
 

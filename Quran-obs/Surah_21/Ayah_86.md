@@ -67,11 +67,5 @@ The sum and substance of this story is that Dhul-Kifl was the deputy of Prophet 
 
 We admitted them into Our mercy, for they were truly of the righteous.
 
-## AI Tafsir
-
-**What this ayah teaches:** And (remember) Isma'il, Idris and Dhul-Kifl: All were from among the patient (85)And We admitted them to Our mercy.
-
-**Classical tafsir:** Ibn Kathir notes: Even if the tradition is true, it mentioned the name as Kifl and not Dhul-Kifl, which means he was some other person.
 ## Personal Reflections
-
 

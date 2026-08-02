@@ -210,15 +210,5 @@ Finally, if we consider the statement in verse 25, that is: أُولَـٰئِك
 
 those whose hearts find rest in the dhikr—conscious remembrance of Allah. Surely in the remembrance of Allah do hearts find rest.
 
-## AI Tafsir
-
-**Context:** (Let him then bring us an Ayah like the ones (Prophets) that were sent before (with signs)!)[21:5] We mentioned this subject several times before and stated that Allah is able to bring them what they wanted.
-
-**What this ayah teaches:** Verily, in the remembrance of Allah do hearts find rest (28)Those who believed, and work righteousness, Tuba is for them and a beautiful place of (final) return .
-
-**Classical tafsir:** Ibn Kathir notes: There is a Hadith which mentions that the idolators asked the Prophet to turn Mount As-Safa into gold and, they also asked him for a spring to gush forth for them and to remove the mountains from around Makkah and replace them with green fields and gardens.
-
-**From the Sunnah:** Paradise whose width is a hundred years, and the clothes of the people of Paradise are taken from its bark.
 ## Personal Reflections
-
 

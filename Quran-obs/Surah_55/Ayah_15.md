@@ -126,11 +126,5 @@ Qatadah said, "Al-Munsha'at means created." Others said that it is Al-Munshi'at 
 
 and created the jinn from a smokeless flame of fire.
 
-## AI Tafsir
-
-**What this ayah teaches:** The major element in the creation of jinn is the smokeless flame of fire, just as the major element in the creation of man is dry sounding clay.
-
-**Classical tafsir:** Ibn Kathir notes: Mujahid, Qatadah, Abu Ruzayn, Ad-Dahhak said it, and it has also been reported from 'Ali.
 ## Personal Reflections
-
 

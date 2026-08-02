@@ -175,17 +175,5 @@ The next verse reports what the Jews used to say with regard to the Holy Qur'an,
 
 Miserable is what they sold their souls for — rejecting Allah's revelation out of envy that He sends His grace to whomever He wills among His servants. They earned wrath upon wrath, and a humiliating punishment awaits those who persist in rejection.
 
-## AI Tafsir
-
-**Essence** A soul traded for envy of Allah's grace—the worst of bargains, paid out in wrath upon wrath.
-
-**What it teaches** Prophethood is pure fadl—grace given, never earned. Resenting Allah's choice is baghy; disbelief born of it ends in 'adhab muhin: punishment that humiliates, not merely pains.
-
-**The scholars** Mujahid: the Jews "sold the truth for falsehood and hid the truth about Muhammad." Abu Al-'Aliyah: wrath for denying 'Isa and the Injil, wrath again for Muhammad ﷺ and the Qur'an. Ibn Kathir: "There is no envy worse than this"—arrogance bred it; disgrace repays it in both worlds. Maarif ul Quran: a Muslim's punishment purifies; it does not disgrace.
-
-**From the Sunnah** The arrogant will be gathered on the Day of Resurrection the size of ants in the shape of men; everything shall be above them, because of the humiliation placed on them, until they enter a prison in Jahannam called Bawlas. (Imam Ahmad, via Ibn Kathir)
-
-**Reflection** Envy of another's blessing is a quarrel with the Giver—and that quarrel is always lost.
 ## Personal Reflections
-
 

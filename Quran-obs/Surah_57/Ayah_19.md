@@ -199,13 +199,5 @@ The Holy Prophet ﷺ is reported to have said: اَللَّعَّانُونَ ل
 
 Those who have iman in Allah and His messengers—they are the truthful and the witnesses with their Rabb. They will have their reward and their light. As for those who rejected and denied Our ayahs, they are the people of Hell.
 
-## AI Tafsir
-
-**What this ayah teaches:** Ruh-ul-Ma’ ani states that it is appropriate to believe that the verse under comment refers to people who have perfect faith and perform deeds of righteousness. Verily, those who give Sadaqat, men and women, and lend Allah handsome loan, it shall be increased manifold (to their credit), and theirs shall be an honorable good reward (18)And those who believe in Allah and His Messengers.
-
-**Classical tafsir:** Ibn Kathir notes: ...57:19) This verse indicates that every 'believer' is a 'Siddiq' and a 'Shahid'.
-
-**From the Sunnah:** Paradise will look at the dwellers of the lofty mansions as one looks at a brilliant star far away in the east or in the west on the horizon, because of their superiority over one another. these are for men who believe in Allah and believe in the Messengers.) Al-Bukhari and Muslim also collected this Hadith.
 ## Personal Reflections
-
 

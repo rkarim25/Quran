@@ -179,13 +179,5 @@ While stating the sex of children in this verse, Allah Ta’ ala has mentioned f
 
 Respond to your Lord before the coming of a Day from Allah that cannot be averted. There will be no refuge for you then, nor grounds for denial of sins.
 
-## AI Tafsir
-
-**What this ayah teaches:** Let alone having a say in the child's creation, the mother does not even know before the child is born as to what is being formed in her womb, and how it is being processed.
-
-**Classical tafsir:** Ibn Kathir notes: Then in verse 47, they have been advised to repent and embrace faith before the scourge of Doomsday comes upon them.
-
-**From the Sunnah:** This is like what the Messenger of Allah ﷺ said to the women: As the Prophet ﷺ said, the believer is the one who:
 ## Personal Reflections
-
 

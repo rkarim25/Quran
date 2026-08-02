@@ -214,13 +214,5 @@ The Eighth and Ninth characteristic
 
 They are those who do not invoke any other god besides Allah, nor take a human life—made sacred by Allah—except with legal right, nor commit fornication. And whoever does any of this will face the penalty.
 
-## AI Tafsir
-
-**Context:** (And whoever kills a believer intentionally)(4:93), because even though this was revealed in Al-Madinah, the meaning is general, and it could be interpreted to refer to one who does not repent, because this Ayah states t…
-
-**What this ayah teaches:** And those who invoke not any other Allah along with Allah, nor kill such person as Allah has forbidden, except for just cause, nor commit illegal sexual intercourse – and whoever does this shall receive Athama (68)The torment will be doubled for him on the Day of Resurrection, and he will abide therein in disgrace (69)Except those who repent and believe, and do righteous deeds; for those, Allah will…
-
-**Classical tafsir:** Ibn Kathir notes: As-Suddi said that Athama referred to punishment, which is closer to the apparent meaning of the Ayah.
 ## Personal Reflections
-
 

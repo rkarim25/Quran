@@ -164,11 +164,5 @@ The third category consists of As-sabiqun [ the foremost ] who are described as 
 
 you will be divided into three groups:
 
-## AI Tafsir
-
-**What this ayah teaches:** So that they will become floating dust particles.)(7. Towards the end of the Surah, the description of the three categories will be taken up again to mention that some signs start appearing, right from the time of death of a person, to indicate in which category he or she is going to fall.
-
-**Classical tafsir:** Ibn Kathir notes: So that they will become floating dust particles.)(7.
 ## Personal Reflections
-
 

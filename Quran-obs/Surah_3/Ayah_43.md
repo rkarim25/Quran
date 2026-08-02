@@ -97,22 +97,5 @@ Ibn Jarir recorded that 'Ikrimah said, "Maryam's mother left with Maryam, carryi
 
 O Mary! Be devout to your Rabb, prostrate yourself and bow along with those who bow down.”
 
-## AI Tafsir
-
-**Essence**
-By Allah's command the angels charge Maryam to a life of devout worship — humble obedience, prostration, and bowing — befitting the one whom Allah chose and purified above the women of the worlds.
-
-**What it teaches**
-The ayah is a command, not merely a call: Allah, through the angels, bids Maryam deepen her worship. *Uqnutī* (qunūt) is to stand before Allah in sustained, humble obedience; *wa-sjudī* is to prostrate; *wa-rkaʿī maʿa al-rākiʿīn* is to bow along with those who bow. The chosen station carries not ease but greater striving in submission to her Lord.
-
-**The scholars**
-Ibn Kathir explains that the angels, speaking by Allah's command, told Maryam He had chosen her for her service to Him — her modesty, honor, innocence, and conviction — and over the women of the world; they then commanded her to increase her worship, humbleness, submission, prostration, and bowing, so she would meet what Allah had decreed for her as a test — one that raised her rank in this life and the Hereafter. On *qunūt* he says it means "to submit with humbleness," citing 2:116, "all surrender with obedience (Qānitūn) to Him." Maarif ul Quran observes that the command to bow is uniquely qualified — "with those who bow" — while prostration is not, hinting that people often hurry their rukūʿ, barely bending before rising; Allah thus sets those who bow fully and perfectly as the model to follow.
-
-**From the Sunnah**
-Ibn Kathir cites two narrations on Maryam's rank. From Ali bin Abi Talib, the Messenger of Allah ﷺ said the best woman of her time was Maryam bint 'Imran, and the best woman of the Prophet's ﷺ time is Khadijah bint Khuwaylid — recorded by At-Tirmidhi, and the source notes the Two Sahihs recorded it. And from Abu Musa al-Ash'ari, recorded by Ibn Jarir: many men reached perfection, but among women only Maryam bint 'Imran and Asiah the wife of Fir'awn — recorded by the Six except Abu Dawud, al-Bukhari's wording adding that 'Aisha's superiority over women is like that of tharid over other food.
-
-**Reflection**
-Carry your worship as Maryam was charged — not rushing through rukūʿ and sujūd, but standing before Allah with the unhurried humility of those who bow fully.
 ## Personal Reflections
-
 

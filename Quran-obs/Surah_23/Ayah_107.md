@@ -89,11 +89,5 @@ This is a rebuke from Allah to the people of Hell for the disbelief, sins, unlaw
 
 Our Rabb! Take us out of this Fire. Then if we ever return to denial, we will truly be wrongdoers.”
 
-## AI Tafsir
-
-**What this ayah teaches:** If ever we return (to evil), then indeed we shall be wrongdoers.) meaning, send us back to the world, and if we go back to what we used to do before, then we will indeed be wrongdoers who deserve punishment.
-
-**Classical tafsir:** Ibn Kathir notes: Rebuking the People of Hell, Their Admission of Their Wretchedness and Their Request to Be Brought out of Hell This is a rebuke from Allah to the people of Hell for the disbelief, sins, unlawful deeds and evil actions that they committed, because of which they were doomed.
 ## Personal Reflections
-
 

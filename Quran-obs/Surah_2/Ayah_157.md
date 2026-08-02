@@ -148,17 +148,5 @@ That the patient people used to recite: إِنَّا لِلَّـهِ وَإِن
 
 Upon them are blessings from their Rabb and mercy, and they are the guided.
 
-## AI Tafsir
-
-**Essence** When loss strikes, those who turn back to Allah receive His blessings and forgiveness, His mercy, and His guidance — and they are awarded their reward and still more.
-
-**What it teaches** This ayah names the reward of the patient (As-Sabirin) who, when struck by calamity, say "Truly, to Allah we belong and to Him we shall return": upon them are *salawat* from their Lord — that they are blessed and will be forgiven — together with His *rahmah* (mercy), and it is they who are *al-muhtadun*, the guided ones. To be "guided" here is to live by the reality that we belong to Allah and that our return is to Him.
-
-**The scholars** Ibn Kathir explains that the *salawat min Rabbihim* mean Allah's praise and mercy will be with them, and Sa'id bin Jubayr added that this means "safety from the torment." On the two gifts of the verse, 'Umar bin Al-Khattab marveled: "What righteous things, and what a great heights" — the *salawat* and mercy being "the two righteous things," and "it is they who are the guided ones" being "the heights." Ibn Kathir glosses the heights as more rewards, so these people will be awarded their rewards and more. Maarif ul Quran notes that because the world is a place of ordeal, prior knowledge of hardship makes it easier to bear; since the whole Ummah strives in patience, the reward of mercy is common to everyone who strives to be patient, yet each is rewarded individually according to the quality of his patience. It adds that saying "We belong to Allah and to Him we are to return" is itself an inculcation of virtue that brings excellent reward, relieves the burden of sorrow, and consoles the grieving heart.
-
-**From the Sunnah** The Prophet ﷺ taught: "No Muslim is struck with an affliction and then says the *istirja'*, and then says: 'O Allah! Reward me for my loss and give me what is better than it,' but Allah will do just that." Umm Salamah heard this formula from her husband Abu Salamah, who had learned it from the Messenger ﷺ, and she memorized it. When Abu Salamah later died she said it, then wondered who could be better than him — and after her 'iddah Allah gave her the Messenger ﷺ himself in marriage. She said afterward: "Allah compensated me with who is better than Abu Salamah: Allah's Messenger ﷺ." (Musnad Ahmad; a shorter version reported by Muslim)
-
-**Reflection** When loss comes, answer it not with despair but with "Inna lillahi wa inna ilayhi raji'un" — and trust that the Lord who tests you is the same Lord whose blessings, mercy, and guidance await the patient.
 ## Personal Reflections
-
 

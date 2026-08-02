@@ -154,11 +154,5 @@ Imam al-Baghawi has reported on the authority of Sayyidna ` Abdullah Ibn ` Abbas
 
 Is the one whose evil deeds are made to look good to him—so he considers them fine—equal to the one rightly guided? Allah leaves to stray whomever He wills and guides whomever He wills. Do not grieve yourself to death over them. Allah fully knows what they do.
 
-## AI Tafsir
-
-**What this ayah teaches:** Those who disbelieve, theirs will be a severe torment; and those who believe and do righteous good deeds, theirs will be forgiveness and a great reward (7)Is he, then, to whom the evil of his deeds is made fairseeming, so that he considers it as good?
-
-**Classical tafsir:** Ibn Kathir notes: Those who disbelieve, theirs will be a severe torment; and those who believe and do righteous good deeds, theirs will be forgiveness and a great reward (7)Is he, then, to whom the evil of his deeds is made fairseeming, so that he considers it as good?
 ## Personal Reflections
-
 

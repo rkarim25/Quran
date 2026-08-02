@@ -157,15 +157,5 @@ Another blessing of taqwa mentioned by the Holy Qur'an at another place is that 
 
 This is the commandment of Allah, which He has revealed to you. Whoever is living with taqwa—Allah-consciousness, He absolves them of their sins and rewards them immensely.
 
-## AI Tafsir
-
-**Context:** Ibn Abi Hatim recorded a simpler narration than this one from Ubay bin Ka'b who said, "O Allah's Messenger! When the Ayah in Surat Al-Baqarah was revealed prescribing the 'Iddah of divorce, some people in Al-Madinah said…
-
-**What this ayah teaches:** And for those who are pregnant, their 'Iddah is until they lay down their burden; and whosoever has Taqwa of Allah, He will make his matter easy for him (4)That is the command of Allah, which He has sent down to you; and whosoever has Taqwa of Allah, He will expiate from him his sins, and will increase his reward .
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** Then she received a marriage proposal and Allah's Messenger ﷺ married her to somebody. (Sahih al-Bukhari, Sahih Muslim) to her when she sought his verdict (Sahih Muslim)
 ## Personal Reflections
-
 

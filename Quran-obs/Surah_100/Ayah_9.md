@@ -147,13 +147,5 @@ Ends here
 
 Do they not know that when what is in the graves is emptied out—
 
-## AI Tafsir
-
-**What this ayah teaches:** Knows he not that when the contents of the graves are poured forth?)(10. And verily, he is violent in the love of wealth.)(9.
-
-**Classical tafsir:** Ibn Kathir notes: And verily, he is violent in the love of wealth.)(9.
-
-**From the Sunnah:** This is just as the Messenger of Allah ﷺ used to perform raids in the early morning. These two evil qualities are the essential characteristics of unbelievers, and if they are found in a Muslim [ Allah forbid!], he needs to reflect and be careful. (Sahih Muslim)
 ## Personal Reflections
-
 

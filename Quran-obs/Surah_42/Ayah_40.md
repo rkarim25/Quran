@@ -149,13 +149,5 @@ Maulana Ashraf ` Ali Thanawi (رح) ، has, however, explained the issue in Baya
 
 The reward of an evil deed is its equivalent. But whoever pardons and seeks reconciliation, their reward is with Allah. He certainly does not like the wrongdoers.
 
-## AI Tafsir
-
-**What this ayah teaches:** The recompense for an evil is an evil like thereof; but whoever forgives and makes reconciliation, his reward is with Allah.
-
-**Classical tafsir:** Ibn Kathir notes: And in the verse that refers to revenge, we are told that it is a particular quality of these virtuous people that if at any time their heart is inclined to take revenge of an injustice and they do so, they do not exceed the equitable limit, although to forgive is always better f…
-
-**From the Sunnah:** He said, 'What do you need, O Abu 'Abdullah' I said, 'If you can do it, I need you to be like the brother of Banu 'Adiy.' He said, 'Who is the brother of Banu 'Adiy' He said, 'Al-'Ala' bin Ziyad; he once appointed a friend of his to a position of authority, an… He says that Allah Ta’ ala has mentioned two qualities particular to the true, sincere and virtuous Muslims in both the verses.
 ## Personal Reflections
-
 

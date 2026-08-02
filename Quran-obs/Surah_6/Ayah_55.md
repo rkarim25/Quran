@@ -173,13 +173,5 @@ Similar is the case of the Rights of the Servants of Allah (Huquq al-'lbad). If 
 
 This is how We make Our signs clear, so the way of the wicked may become distinct.
 
-## AI Tafsir
-
-**Context:** (Say: "I am on clear proof from my Lord...") means: I have a clear understanding of the Law of Allah that He has revealed to me, Thereupon, the present verses were revealed to comfort him.
-
-**What this ayah teaches:** Therefore, Allah has sent the Angel of the Mountains to you so that you may order him to do whatever you wish to these people.' The Angel of the Mountains called and greeted me, and then said, 'O Muhammad! With Him (Alone) is the knowledge of the Hour, He sends down the rain, and knows that which is in the wombs.
-
-**Classical tafsir:** Ibn Kathir notes: But, this is not true - because Jahalah (ignorance) here means acting ignorantly which refers to the act of ignorance, that is, one ends up doing something as would have been done by one who is ignorant and unaware of the outcome of his or her act.
 ## Personal Reflections
-
 

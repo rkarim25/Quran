@@ -67,13 +67,5 @@ Some reports say that the prophet Musa (علیہ السلام) had a short conve
 
 He replied, “Yes, and you will certainly be among those closest to me.”
 
-## AI Tafsir
-
-**What this ayah teaches:** The Magicians convene and change Their Ropes into Snakes before Musa Allah describes the conversation that took place between Fir'awn and the magicians he collected to defeat Musa, peace be upon him. He made them hope in acquiring what they wished for and to make them among his private audience and best associates.
-
-**Classical tafsir:** Ibn Kathir notes: The Magicians convene and change Their Ropes into Snakes before Musa Allah describes the conversation that took place between Fir'awn and the magicians he collected to defeat Musa, peace be upon him.
-
-**From the Sunnah:** Allah describes the conversation that took place between Fir'awn and the magicians he collected to defeat Musa, peace be upon him.
 ## Personal Reflections
-
 

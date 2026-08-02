@@ -167,15 +167,5 @@ Sayyidna Abu Hurairah رضی اللہ تعالیٰ عنہ narrates, as recorded 
 
 along with others of them who have not yet joined them in faith. He is the Almighty, All-Wise.
 
-## AI Tafsir
-
-**Context:** (And others among them who have not yet joined them. And He is the Almighty, the All-Wise.) Imam Abu 'Abdullah Al-Bukhari, may Allah have mercy upon him, recorded that Abu Hurayrah said, "We were sitting with the Prophet…
-
-**What this ayah teaches:** And others among them who have not yet joined them. Bayan-ul-Qur'an explains that 'sending among them' stands for 'sending for them' because the preposition fi in Arabic is also used in the sense of 'for'.
-
-**Classical tafsir:** Ibn Kathir notes: Bayan-ul-Qur'an explains that 'sending among them' stands for 'sending for them' because the preposition fi in Arabic is also used in the sense of 'for'.
-
-**From the Sunnah:** Ibn 'Abbas and Abu Hurayrah narrated that Allah's Messenger ﷺ used to recite Surat Al-Jumu'ah and Surat Al-Munafiqin during the Friday Prayer.
 ## Personal Reflections
-
 

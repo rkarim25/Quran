@@ -153,13 +153,5 @@ When the Pharaoh learned that the Bani Isra'il had taken flight, he assembled a 
 
 And We surely inspired Moses, saying, “Leave with My servants at night and strike a dry passage for them across the sea. Have no fear of being overtaken, nor be concerned of drowning.”
 
-## AI Tafsir
-
-**Context:** And indeed We revealed to Musa: "Travel by night with My servants and strike a dry path for them in the sea, fearing neither to be overtaken nor being afraid.
-
-**What this ayah teaches:** The Children of Israel leave Egypt Allah, the Exalted, informs that He commanded Musa to journey at night with the Children of Israel, when Fir'awn refused to release them and send them with Musa.
-
-**Classical tafsir:** Ibn Kathir notes: The Pharaoh who saw all this was frightened but he urged his men on by declaring that the dry paths were formed because the river stopped flowing on account of the awe which it felt in his presence.
 ## Personal Reflections
-
 

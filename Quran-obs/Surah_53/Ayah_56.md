@@ -120,13 +120,5 @@ This is the end of the Tafsir of Surat An-Najm. All praise and thanks are due to
 
 This is a warner like the warners of old.
 
-## AI Tafsir
-
-**What this ayah teaches:** The warner is eager to convey his knowledge of the imminence of a calamity, so that it does not befall those to whom he is a warner.
-
-**Classical tafsir:** Ibn Kathir notes: Al-Bukhari recorded that Abu Ma'mar said that 'Abdul-Warith said that Ayyub said that 'Ikrimah said that, Ibn 'Abbas said, "The Prophet ﷺ prostrated upon reciting An-Najm and the Muslims, idolators, Jinns and mankind who were present prostrated along with him." Only Muslim collected this Hadith.
-
-**From the Sunnah:** 'Abdul-Warith said that Ayyub said that 'Ikrimah said that, Ibn 'Abbas said, "The Prophet ﷺ prostrated upon reciting An-Najm and the Muslims, idolators, Jinns and mankind who were present prostrated along with him." Only Muslim collected this Hadith. (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
-
 

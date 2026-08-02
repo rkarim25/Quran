@@ -173,13 +173,5 @@ In the first verse (61), it was said: جَعَلَ لَكُمُ اللَّيْل
 
 It is Allah who made the night for you to rest in and the day bright. Surely Allah is ever bountiful to humanity, but most people are ungrateful.
 
-## AI Tafsir
-
-**What this ayah teaches:** Allah, it is He Who has made the night for you that you may rest therein and the day for you to see.
-
-**Classical tafsir:** Ibn Kathir notes: Signs of the Power and Oneness of Allah Allah reminds us of His grace towards His creation in that He has given them the night in which they rest and relax from their activities so that they can go back to them for their livelihood during the day.
-
-**From the Sunnah:** that after ending every prayer, 'Abdullah bin Az-Zubayr used to say: (Musnad Ahmad) He said, "The Messenger of Allah ﷺ used to say the Tahlil in this fashion after every prayer." Similar was also recorded by Muslim, Abu Dawud and An-Nasa'i. (Sahih Muslim, Sunan Abi Dawud)
 ## Personal Reflections
-
 

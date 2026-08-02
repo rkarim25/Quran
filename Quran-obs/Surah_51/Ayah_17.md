@@ -182,11 +182,5 @@ In other words, acceptance in the sight of Allah is not necessarily restricted t
 
 they slept little in the night,
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, they were before this doers of good (16)They used to sleep but little by night (17)And in the hours before dawn, they were asking for forgiveness (18)And in their wealth there was the right of the Sa'il and the Mahrum (19)And on the earth are signs for those who have faith with certainty (20)And also in yourselves.
-
-**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas said, "Every night, they would worship Allah, even during a little part of the night." Qatadah narrated that Mutarrif bin 'Abdullah said, "Hardly a night would pass by them that they did not pray to Allah the Exalted and Most Honored, either in the beginning, or the middle of it." Mujahid… As for the Mahrum, Ibn 'Abbas and Mujahid said, "He is the poor person who does not receive a stipen…
 ## Personal Reflections
-
 

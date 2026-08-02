@@ -168,15 +168,5 @@ The questions asked and the demands made in these verses from the Holy Prophet �
 
 or until you have a garden of palm trees and vineyards, and cause rivers to flow abundantly in it,.
 
-## AI Tafsir
-
-**Context:** (My case is not as you say. I have not brought what I have brought to you because I want your wealth or to be your leader or king.
-
-**What this ayah teaches:** I have done that, and the response to what you have asked is to be decided by Allah, may He be glorified.' Commentary A prophetic answer to hostile questions sounding absurd The questions asked and the demands made in these verses from the Holy Prophet ﷺ were virtually conditions on the fulfillment of which his antagonists were supposed to believe.
-
-**Classical tafsir:** Ibn Kathir notes: So he came and sat with them, and they said, 'O Muhammad, we have sent for you so that nobody will think we are to blame.
-
-**From the Sunnah:** Some of them said to others, 'Send for Muhammad and talk with him and argue with him, so that nobody will think we are to blame.' So they sent for him saying, 'The nobles of your people have…
 ## Personal Reflections
-
 

@@ -192,15 +192,5 @@ Therefore, Sayyidah ` A'ishah, Mujahid, 'Ata’, Ibn Sirin and others interpret 
 
 Ruin seize the hands of Abu Lahab—and may he himself perish—he who mocked the Message publicly and thought his tribe could protect him from consequences.
 
-## AI Tafsir
-
-**Context:** The Reason for the Revelation of this Surah and the Arrogance of Abu Lahab toward the Messenger of Allah (ﷺ) It is recorded in the two Sahihs that when the verse وَأَنذِرْ‌ عَشِيرَ‌تَكَ الْأَقْرَ‌بِينَ (Warn your closest…
-
-**What this ayah teaches:** The Qur'an did not mention his real name, because it smacked of paganism, and the last element 'lahab' [ Flame ] in the nickname has also nexus with the flame of Hell. I do not see any of the things Muhammad said in you.) Therefore, the Qur'an attributes his destruction to his hands.
-
-**Classical tafsir:** Ibn Kathir notes: ) The word yad literally means a 'hand'.
-
-**From the Sunnah:** from Ibn 'Abbas that the Prophet ﷺ went out to the valley of Al-Batha and he ascended the mountain. (Sahih al-Bukhari) This man Abu Lahab was one of the uncles of the Messenger of Allah ﷺ.His name was 'Abdul-'Uzza bin Abdul-Muttalib.
 ## Personal Reflections
-
 

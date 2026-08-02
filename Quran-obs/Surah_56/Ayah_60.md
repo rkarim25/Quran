@@ -126,11 +126,5 @@ After referring to the birth of man from very insignificant beginning, the Surah
 
 We have decreed death for all of you, and We are not outstripped
 
-## AI Tafsir
-
-**What this ayah teaches:** Therefore, whatever comes into existence comes under the veils of causes. In other words, a male plays a very insignificant biological role in the birth of a child in that he delivers a drop of microscopic semen in the womb of a female to combine with the microscopic ovum.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, whatever comes into existence comes under the veils of causes.
 ## Personal Reflections
-
 

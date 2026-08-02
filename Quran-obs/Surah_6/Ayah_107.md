@@ -112,11 +112,5 @@ The reason for this has been given in the fifth verse (107). There it has been s
 
 Had Allah willed, they would not have been polytheists. We have not appointed you as their keeper, nor are you their maintainer.
 
-## AI Tafsir
-
-**Context:** (Follow what has been inspired to you from your Lord,) meaning, follow it, obey it and act according to it. What has been revealed to you from your Lord is the Truth, no doubt, and there is no deity worthy of worship exc…
-
-**What this ayah teaches:** Follow what has been inspired (revealed) to you from your Lord, none has the right to be worshipped but He, and turn aside from the idolators (106)Had Allah willed, they would not have taken others besides Him in worship.
 ## Personal Reflections
-
 

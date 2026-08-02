@@ -408,17 +408,5 @@ The point, however, is that if someone had really produced even three or four ve
 
 If you doubt what We revealed to Our servant, produce a surah like it and call your helpers besides Allah — if you are truthful.
 
-## AI Tafsir
-
-**Essence** Allah answers doubt about His revelation with a single challenge: produce one surah like it, summoning every helper besides Him.
-
-**What it teaches** Rayb is baseless doubt that a little reflection dispels (Raghib, cited in Maarif). "A surah" — indefinite — includes even the shortest. As verses 21-22 proved tawhid by deeds only Allah can do, this proves prophethood by speech only Allah can utter.
-
-**The scholars** Ibn Kathir: "like it" means like the Qur'an — the view of Mujahid, Qatadah, at-Tabari, and per ar-Razi the majority. Ibn 'Abbas read "witnesses" as aids; Mujahid, eloquent men. "You can never do it" (2:24) is itself a miracle: Arabia's most eloquent, despite burning enmity, never answered — so, says Maarif, the miracle lives till the end of time.
-
-**From the Sunnah** "Every Prophet was given a miracle... What I was given is a revelation that Allah sent down to me. Yet, I hope that I will have the most following on the Day of Resurrection." (The Two Sahihs; wording of Muslim)
-
-**Reflection** When doubt whispers, open the Book — what no tongue has matched in fourteen centuries still speaks for the One who revealed it.
 ## Personal Reflections
-
 

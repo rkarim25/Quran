@@ -175,11 +175,5 @@ Sayyidna Salih (علیہ السلام) warned them: If Allah Ta` ala shows you y
 
 And to the people of Thamûd We sent their brother Ṣâliḥ. He said, “O my people! Worship Allah. You have none other worthy of worship than Him. He is the One Who produced you from the earth and settled you on it. So seek His forgiveness and turn to Him in repentance. Surely my Rabb is Ever Near, All-Responsive to prayers.”
 
-## AI Tafsir
-
-**What this ayah teaches:** He brought you forth from the earth and settled you therein, then ask forgiveness of Him and turn to Him in repentance. And to Thamud (people We sent) their brother Salih.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

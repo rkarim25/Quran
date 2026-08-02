@@ -238,8 +238,6 @@ Similarly, if one does not know the direction of the Qiblah, nor can correctly d
 
 Who does greater wrong than those who prevent Allah's Name from being mentioned in His mosques and strive to ruin them? They should not enter except in fear. For them is disgrace in this world, and a tremendous punishment in the Akhirah.
 
-## AI Tafsir
-
 ## 2:114 — Layered Tafsir
 
 **Essence**
@@ -254,5 +252,4 @@ Ibn Kathir relates from Ibn Zayd (via Ibn Jarir) and Ibn 'Abbas (via Ibn Abi Hat
 **Reflection**
 Honor the mosque by filling it with prayer — and guard the worship of others, never disturbing or obstructing it.
 ## Personal Reflections
-
 

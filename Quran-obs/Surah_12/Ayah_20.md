@@ -106,13 +106,5 @@ In the last sentence of the verse: وَكَانُوا فِيهِ مِنَ الز
 
 They later sold him for a cheap price, just a few silver coins—only wanting to get rid of him.
 
-## AI Tafsir
-
-**What this ayah teaches:** Thus, the sense would be: ` the brothers of Yusuf sold him - or, the people of the caravan bought him - for a paltry price, that is, for a counted few dirhams in return.' Al-Qurtubi says: The Arab traders used to transact deals involving big amounts by weight while, for amounts not more than forty, they would go by count.
-
-**Classical tafsir:** Ibn Kathir notes: Literally, zuhd means indifference, disinterestedness.
-
-**From the Sunnah:** Blessed is Allah, the Lord of the all that exists!)[7:54] This reminds Allah's Messenger Muhammad ﷺ, that Allah has perfect knowledge in the persecution that his people committed against him and that He is able to stop them.
 ## Personal Reflections
-
 

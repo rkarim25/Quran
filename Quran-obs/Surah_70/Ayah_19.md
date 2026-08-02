@@ -144,13 +144,5 @@ It has also been said that the meaning here refers to those who perform a deed a
 
 and gathered and hoarded wealth.
 
-## AI Tafsir
-
-**What this ayah teaches:** If it is objected that, according to this verse of the Holy Qur'an, man is created weak in courage, in other words, it is man's nature or his natural weakness, to be impatient, greedy and miserly - then it is not his fault, and why is he declared 'guilty'? The halu`, literally, means 'one who is greedy, impatient, lacking courage'.
-
-**Classical tafsir:** Ibn Kathir notes: It has also been said that the meaning here refers to those who perform a deed and are constant in its performance and consistent in it.
-
-**From the Sunnah:** This is like what is reported in the authentic Hadith, (authentic hadith)
 ## Personal Reflections
-
 

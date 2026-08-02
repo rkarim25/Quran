@@ -148,15 +148,5 @@ These angels in the heavens proclaim the perfection of their Lord and utter His 
 
 As for those who take other protectors besides Him, Allah is watchful over them. And you are not a keeper over them.
 
-## AI Tafsir
-
-**Context:** (Likewise Allah, the Almighty, the All-Wise sends revelation to you as to those before you.) means, 'just as this Qur'an has been revealed to you, so too the Books and Scriptures were revealed to the Prophets who came be…
-
-**What this ayah teaches:** And as for those who take as protecting friends others besides Him – Allah is Hafiz over them, and you are not a trustee over them.) The Revelation and Allah's Might We have previously discussed the individual letters.
-
-**Classical tafsir:** Ibn Kathir notes: Lo, Verily, Allah is the Oft-Forgiving, the ar-Rahim.)(6.
-
-**From the Sunnah:** A'ishah, may Allah be pleased with her, said, "I saw him receiving the revelation on a very cold day, and when it departed from him, there were beads of sweat on his forehead." It was also reported in the Two Sahihs, and the version quoted here is that recorde… (Sahih al-Bukhari)
 ## Personal Reflections
-
 

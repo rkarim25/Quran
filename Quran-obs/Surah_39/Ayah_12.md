@@ -75,11 +75,5 @@ Imam Malik (رح) has taken: صَابرین (as-sabirun) in this verse to mean p
 
 And I am commanded to be the first of those who submit to His Will."
 
-## AI Tafsir
-
-**What this ayah teaches:** Go and live at a place and in a surrounding that is conducive to remaining obedient to Divine commandments.' This persuades one to migrate from a place living in which one cannot dutifully follow and observe what has been enjoined by his religion.
-
-**Classical tafsir:** Ibn Kathir notes: So much so that people who had lived their life of the mortal world in perfect peace and comfort would wish, 'alas!
 ## Personal Reflections
-
 

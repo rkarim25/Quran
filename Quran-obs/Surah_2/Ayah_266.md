@@ -242,27 +242,5 @@ The essence of the third condition is that spending at a place or in a cause wit
 
 Would any of you wish for a garden of palms and vines with rivers flowing beneath — then, as he grows old with dependent children, a fiery whirlwind strikes and burns it all? Thus Allah makes His signs clear, so you may reflect.
 
-## AI Tafsir
-
-**Essence**
-
-A man's lush, river-fed garden of date-palms and vines is incinerated by a fiery whirlwind at the very hour old age and helpless children leave him powerless to rebuild — a picture, as Ibn 'Abbas explained it, of good deeds undone by later disobedience, gone when they are needed most.
-
-**What it teaches**
-
-Allah asks whether any of us would wish to watch a thriving garden of date-palms (nakhil) and grapevines, rivers flowing beneath and laden with every fruit, burned by a scorching whirlwind (i'sar) precisely when we are too aged to plant again and our weak children (dhurriyyatun du'afa') cannot help. The closing "that you may give thought" (tatafakkarun) names the response the image demands: not pity for a stranger, but self-examination.
-
-**The scholars**
-
-Ibn Kathir relays a narration recorded by Al-Bukhari: 'Umar ibn al-Khattab asked the Companions about whom this ayah was revealed, and when they deferred, pressed them — "Say we know or we do not know." Ibn 'Abbas offered that "this is an example set for a deed," namely "a wealthy man who works in Allah's pleasure and then Allah sends Shaytan to him, and he works in disobedience, until he annuls his good works" — so when he most needs his former deeds, none remain. A second narration, via Al-'Awfi from Ibn 'Abbas, reads it as the disbeliever on the Day of Resurrection, who "will not have any good deeds to provide an excuse — or refuge — for him," just as the old man had no strength to replant and no help from his children. Maarif ul Quran ties the parable to the preceding verses on charity: spending given with hypocrisy or for self-promotion (riya') is like investing lavishly in the Hereafter only for the investment to come to nothing — and the three conditions piled up here (old age, children, their weakness) are deliberate, each removing an escape until the loss is total. From this Maarif draws the great condition of ikhlas, sincerity — spending exclusively for Allah's good pleasure — as one of six conditions for charity to be accepted, alongside giving from halal wealth, according to the Sunnah, in a fitting place, without following the gift with reminders of the favour, and without demeaning the receiver.
-
-**From the Sunnah**
-
-It is narrated that the Prophet (peace and blessings be upon him) used to supplicate that Allah make His most ample provision reach him in old age and at the closing of his life — the very moment of helplessness the parable depicts. (al-Mustadrak / al-Hakim)
-
-**Reflection**
-
-The danger the parable isolates is timing: the harvest fails not early, when you could start over, but late, when you cannot. So the labour of guarding a deed is not finished when the deed is done — sincerity has to outlast the act, and the sin or quiet showing-off that creeps in years later can still burn the whole field. Build as one who knows he will not get a second planting.
 ## Personal Reflections
-
 

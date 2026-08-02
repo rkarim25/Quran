@@ -149,13 +149,5 @@ This also proves that when a person visits the grave of a Muslim brother and off
 
 Nor can you lead the blind out of their misguidance. You can make none hear the truth except those who believe in Our revelations, fully submitting to Allah.
 
-## AI Tafsir
-
-**What this ayah teaches:** Therefore, where it is established by the Sahih ahadith that the dead did hear, we should believe it; and where it is not established, both the situations are possible .
-
-**Classical tafsir:** Ibn Kathir notes: It is therefore, quite clear that here causing to hear means the under-standing which is beneficial.
-
-**From the Sunnah:** You can only make to hear those who believe in Our Ayat, so they submit (became Muslims). ` When a person passes by the grave of a Muslim brother whom he knew when he was alive and he offers salam to him, Allah Ta` ala returns his spirit into his body, so that he may return the salam'. (Sahih Muslim)
 ## Personal Reflections
-
 

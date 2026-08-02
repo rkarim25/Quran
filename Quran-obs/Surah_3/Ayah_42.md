@@ -122,22 +122,5 @@ Commentary
 
 And when the angels said, “O Mary! Surely Allah has selected you, purified you, and chosen you over all women of the world.
 
-## AI Tafsir
-
-**Essence**
-Allah Himself singles out Maryam, declaring through the angels that He has chosen her, purified her, and raised her above all the women of her world.
-
-**What it teaches**
-The angels speak to Maryam by Allah's command, announcing a threefold honor: iṣṭafāki — He chose her; ṭahharaki — He purified her; and wa-ṣṭafāki ʿalā nisāʾi l-ʿālamīn — He chose her over the women of the worlds. The repeated "chosen" frames her rank as a pure gift and decree of Allah, never a claim she made for herself.
-
-**The scholars**
-Ibn Kathir grounds the first choosing in concrete virtue: Allah chose her "because of her service to Him, because of her modesty, honor, innocence, and conviction," and then "because of her virtue over the women of the world." He stresses that this honor was not passive reward: the very next ayah commands her, "O Maryam! Submit yourself with obedience (Aqnuti) to your Lord, prostrate and bow" — Qunut meaning submission with humbleness. The elevation thus arrived bound to a charge of intensified worship, a test through which Allah raised her grade in this life and the Hereafter, finally displaying His might by creating a son in her without a father. Maarif ul Quran adds that "over women of all the worlds" denotes all women of that period; therefore the report naming Fatimah "the foremost among the women of Paradise" does not contradict this verse.
-
-**From the Sunnah**
-Maryam, daughter of 'Imran, was the best woman of her time, just as Khadijah was the best woman of the Prophet's ﷺ time (At-Tirmidhi via 'Ali ibn Abi Talib; also in the Two Sahihs). And among all women only Maryam and Asiah, the wife of Fir'awn, attained perfection (recorded by Ibn Jarir from Abu Musa al-Ash'ari and by the Six except Abu Dawud; Al-Bukhari's wording is one variant).
-
-**Reflection**
-Maryam's example turns honor on its head: Allah's choosing came not as a reward to be claimed but as a summons to bow lower — to deeper service, purity, and humble worship. Seek His favor the way she received it, in obedience rather than in demand.
 ## Personal Reflections
-
 

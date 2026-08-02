@@ -128,11 +128,5 @@ When the water is in large quantity as in the case of a pond, pool or a canal, i
 
 And He is the One Who sends the winds ushering in His mercy, and We send down pure rain from the sky,
 
-## AI Tafsir
-
-**What this ayah teaches:** As for the one who said, 'We have been given rain by the mercy and grace of Allah,' he is a believer in Me and a those who reject the truth in the stars.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

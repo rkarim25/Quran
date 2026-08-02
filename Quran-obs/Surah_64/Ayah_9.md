@@ -208,11 +208,5 @@ Qurtubi writes that on that Day every believer will feel a sense of loss on acco
 
 Consider the Day He gathers you for the Day of Gathering—that will be the Day of mutual loss and gain. Whoever believes in Allah and does good, He will absolve them of their sins and admit them to Gardens under which rivers flow, to stay forever. That is the ultimate triumph.
 
-## AI Tafsir
-
-**What this ayah teaches:** Financial loss as well as mental deficiency is referred to as ghabn.
-
-**Classical tafsir:** Ibn Kathir notes: Imam Raghib Isfahani in his Mufrada-ul-Qur’ an says that when the word refers to financial loss, it is expressed in the passive voice thus ghubina fulanun ‘so-and-so suffered financial loss’.
 ## Personal Reflections
-
 

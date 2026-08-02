@@ -94,13 +94,5 @@ Another basharah (good news) of this world unfolds in the form that Muslims at l
 
 When the magicians came, Moses said to them, “Cast whatever you wish to cast!”
 
-## AI Tafsir
-
-**What this ayah teaches:** And Fir'awn said: "Bring me every well-versed sorcerer (79)And when the sorcerers came, Musa said to them: "Cast down what you want to cast! Fir'awn, may Allah's curse be upon him, wanted to deceive the people and impress them with the tricks of the magicians in direct opposition to the plain truth that Musa brought.
-
-**Classical tafsir:** Ibn Kathir notes: The result was the exact opposite and he therefore didn't attain his goal.
-
-**From the Sunnah:** Another basharah (good news) of this world unfolds in the form that Muslims at large love someone and take him to be good without any personal motive or interest. (Sahih Muslim)
 ## Personal Reflections
-
 

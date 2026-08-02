@@ -143,13 +143,5 @@ Therefore the best friendship, in respect of this world as well as the Hereafter
 
 Close friends will be enemies to one another on that Day, except the righteous.
 
-## AI Tafsir
-
-**What this ayah teaches:** Do they only wait for the Hour that it shall come upon them suddenly while they perceive not (66)Friends on that Day will be foes one to another except those who have Taqwa (67)My servants! 134, v.4) Therefore the best friendship, in respect of this world as well as the Hereafter, is the one that is for the sake of Allah.
-
-**Classical tafsir:** Ibn Kathir notes: And 'love for the sake of Allah' means to love someone because he is a true follower of the religion prescribed by Allah.
-
-**From the Sunnah:** Paradise, which you have been made to inherit because of your deeds that you used to do (72)Therein for you will be fruits in plenty, of which you will eat (as you desire). Paradise as You have shown to me, and be pleased with him, as you have been with me. (Sahih Muslim)
 ## Personal Reflections
-
 

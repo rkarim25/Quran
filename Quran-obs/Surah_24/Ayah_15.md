@@ -145,13 +145,5 @@ others to cause harm to other Muslims and to make their life miserable.
 
 when you passed it from one tongue to the other, and said with your mouths what you had no knowledge of, taking it lightly while it is extremely serious in the sight of Allah.
 
-## AI Tafsir
-
-**What this ayah teaches:** Had it not been for the grace of Allah and His mercy unto you in this world and in the Hereafter, a great torment would have touched you for that whereof you had spoken (14)When you were propagating it with your tongues, and uttering with your mouths that whereof you had no knowledge, you counted it a little thing, while with Allah it was very great .
-
-**Classical tafsir:** Ibn Kathir notes: According to her, the meaning refers to lies which a person persists in telling.
-
-**From the Sunnah:** others to cause harm to other Muslims and to make their life miserable.
 ## Personal Reflections
-
 

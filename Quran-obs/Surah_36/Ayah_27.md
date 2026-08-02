@@ -146,13 +146,5 @@ In our time, da'wah workers have generally abandoned this prophetic way, therefo
 
 of how my Lord has forgiven me, and made me one of the honoured."
 
-## AI Tafsir
-
-**What this ayah teaches:** In response to the honest call and advice of these messengers, the polytheists had said three things: 1. This he said so that the adversary might not be enraged, rather, should think about it with a cool mind.
-
-**Classical tafsir:** Ibn Kathir notes: In response to the honest call and advice of these messengers, the polytheists had said three things: 1.
-
-**From the Sunnah:** When he adopted Constantinople as his city, the Patriarch of Rome moved there, as has been mentioned by several historian, such as Sa'id bin Batriq and others, both People of the Book and Muslims.
 ## Personal Reflections
-
 

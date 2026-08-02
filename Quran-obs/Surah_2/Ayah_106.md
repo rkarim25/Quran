@@ -233,22 +233,5 @@ The injunctions with regard to abrogation are too many and too intricate to be d
 
 Whatever sign We abrogate or cause to be forgotten, We bring something better or similar. Do you not know that Allah is capable of everything?
 
-## AI Tafsir
-
-**Essence**
-Allah abrogates (naskh) a verse or lets it be forgotten only to bring something better or equal in its place — and you already know He is Powerful over all things.
-
-**What it teaches**
-Naskh (نسخ) means to repeal or replace a ruling, never to swap good for evil: both the lifted injunction and its replacement are good, and what changes is only what best serves people at a given time. Allah may suspend a ruling while keeping its words, alter the words too, or erase a verse from memory — yet what replaces it is *khayr minha aw mithliha*: more beneficial, or one like it.
-
-**The scholars**
-Ibn Kathir: naskh means "removing the commandment and replacing it by another" — touching commands, never stories. Earlier Scriptures saw it too (Allah's command to Ibrahim to sacrifice his son, repealed before it was carried out), so the Jews' denial is mere "disbelief and rebellion." Qatadah glosses the forgetting: Allah "made His Prophet forget what He willed." Maarif names the trigger — the Qiblah's shift to the Ka'bah that Jews used to taunt the Muslims — and records the ijma' that abrogation occurs; al-Qurtubi adds it is denied "only by the ignorant and the dull-headed."
-
-**From the Sunnah**
-"There has never been a prophethood which did not abrogate some injunctions" — so a changed ruling is no flaw in revelation but its long-standing way. *(Attributed to Muslim as cited in Maarif ul Quran; no isnad given.)*
-
-**Reflection**
-When the command shifts beneath you, the ground has not given way: the One legislating is *al-Wali*, who keeps your good in view, and *al-Nasir*, who shields those who obey. If foes seem to gain, weigh it against what awaits — the next world's blessings dwarf any harm of this one.
 ## Personal Reflections
-
 

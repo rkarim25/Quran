@@ -59,11 +59,5 @@ As for the third probability, that the blessings of Jannah may remain everlastin
 
 except his wife. We have determined that she will be one of the doomed.”
 
-## AI Tafsir
-
-**What this ayah teaches:** They told him that they were going to save the family of Lut from among those people, except for his wife, because she was one of those who were doomed.
-
-**Classical tafsir:** Ibn Kathir notes: They told him that they were going to save the family of Lut from among those people, except for his wife, because she was one of those who were doomed.
 ## Personal Reflections
-
 

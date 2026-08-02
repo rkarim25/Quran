@@ -161,11 +161,5 @@ Said in the next and last sentence of the verse was: قَالَ أَنتُمْ �
 
 To distance themselves, Joseph’s brothers argued, “If he has stolen, so did his full brother before.” But Joseph suppressed his outrage—revealing nothing to them—and said to himself, “You are in such an evil position, and Allah knows best the truth of what you claim.”
 
-## AI Tafsir
-
-**What this ayah teaches:** As for his brothers, they were fully aware of the fact that he was totally free from this blame. But, he kept his reaction to himself and did not let his brothers know that he had heard what they had said and was affected by it in any way.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, he was put under the care of his paternal aunt.
 ## Personal Reflections
-
 

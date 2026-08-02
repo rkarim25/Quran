@@ -126,13 +126,5 @@ Then, it was said that these people chose to take the way of error although they
 
 They wish to extinguish Allah’s light with their mouths, but Allah will only allow His light to be perfected, even to the dismay of those who reject the truth.
 
-## AI Tafsir
-
-**What this ayah teaches:** They want to extinguish Allah's Light with their mouths, but Allah will not allow except that His Light should be perfected even though the those who reject the truth hate (it)(32)It is He Who has sent His Messenger with guidance and the religion of truth, to make it superior over all religions even though the idolators hate (it).
-
-**Classical tafsir:** Ibn Kathir notes: 'religion of truth' refers to the righteous, legal deeds that bring about benefit in this life and the Hereafter.
-
-**From the Sunnah:** They try through argument and lies to extinguish the guidance and religion of truth that the Messenger of Allah ﷺ was sent with. Those who became Muslims among them acquired goodness, honor and might.
 ## Personal Reflections
-
 

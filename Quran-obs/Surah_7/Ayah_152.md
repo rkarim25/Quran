@@ -131,11 +131,5 @@ Imam Malik (رح) has also inferred from this verse that those who invent new pr
 
 Those who worshipped the calf will certainly be afflicted with Allah’s wrath as well as disgrace in the life of this dunya. This is how We reward those who invent falsehood.
 
-## AI Tafsir
-
-**What this ayah teaches:** The worldly life is also affected by the sinful deeds A part of punishment of some sins is also given in this life.
-
-**Classical tafsir:** Ibn Kathir notes: The 'wrath' mentioned here that struck the Children of Israel because of their worshipping the calf, means, Allah did not accept their repentance until some of them [who did not worship the calf] killed others [who worshipped the calf].
 ## Personal Reflections
-
 

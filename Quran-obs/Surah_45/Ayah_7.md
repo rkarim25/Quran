@@ -106,15 +106,5 @@ Allah explained the type of torment that these people earn on the Day of Return;
 
 Woe to every sinful liar,
 
-## AI Tafsir
-
-**Context:** وَيْلٌ لِّكُلِّ أَفَّاكٍ أَثِيمٍ ("Woe to every sinful liar... 45:7) " There are several views related to the background of revelation of this verse.
-
-**What this ayah teaches:** Therefore, if they do not believe in Allah's Ayat nor abide by them, what speech after Allah and His Ayat will they then believe in?
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, if they do not believe in Allah's Ayat nor abide by them, what speech after Allah and His Ayat will they then believe in?
-
-**From the Sunnah:** In the Sahih, Muslim recorded from 'Abdullah bin 'Umar that the Messenger of Allah ﷺ prohibited traveling with the Qur'an to enemy lands for fear that the Qur'an might be desecrated by the enemy. (Sahih Muslim)
 ## Personal Reflections
-
 

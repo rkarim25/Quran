@@ -181,11 +181,5 @@ All praises are for Allah from the beginning to the end.
 
 Allah will declare, “This is the Day when the faithful will benefit from their faithfulness. Theirs are Gardens under which rivers flow, to stay there for ever and ever. Allah is pleased with them and they are pleased with Him. That is the ultimate triumph.”
 
-## AI Tafsir
-
-**What this ayah teaches:** There is none like Him, nor is there rival, ancestor, son, or wife for Him, nor a lord or Allah besides Him.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, everything and everyone are in His domain and under His power and will.
 ## Personal Reflections
-
 

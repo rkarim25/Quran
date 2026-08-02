@@ -128,11 +128,5 @@ When Sayyidna Sulaiman (علیہ السلام) made use of the hoopoe as a couri
 
 Go with this letter of mine and deliver it to them, then stand aside and see how they will respond.”
 
-## AI Tafsir
-
-**What this ayah teaches:** This shows that in the normal circumstances the letter or writing is an acceptable proof.
-
-**Classical tafsir:** Ibn Kathir notes: The religious jurists did not accept a letter as an evidence only where a proper personal evidence is required under Islamic law, because testimony is not allowed on telephone or by letter.
 ## Personal Reflections
-
 

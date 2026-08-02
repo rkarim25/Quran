@@ -246,13 +246,5 @@ The word: غُرُفَات (ghurufat) is the plural form of: غُرفَۃ (ghurf
 
 It is not your wealth or your children that bring you nearer to Us. Only those who believe and do good will have multiplied reward for what they did, secure in elevated dwellings.
 
-## AI Tafsir
-
-**What this ayah teaches:** How Those Who lived a Life of Luxury disbelieved in the Messengers and were misled by Their pursuit of Wealth and Children Allah is consoling His Prophet ﷺ and commanding him to follow the example of the Messengers that came before him.
-
-**Classical tafsir:** Ibn Kathir notes: This means that just as there are differences between them in this world – where one may be poor and in straitened circumstances while another is rich and enjoys a life of plenty – so they will be in the Hereafter.
-
-**From the Sunnah:** Paradise, whilst another will be in the lowest levels of Hell.
 ## Personal Reflections
-
 

@@ -172,13 +172,5 @@ The word ma’ arij is the plural of mi` raj or mi'raj. It means a 'ladder or a 
 
 A challenger has demanded a punishment bound to come
 
-## AI Tafsir
-
-**What this ayah teaches:** The Qur'an, further setting down the factual position of the demanded punishment, says that the punishment is inevitable and will most certainly occur in this world or in the Hereafter or in both the worlds.
-
-**Classical tafsir:** Ibn Kathir notes: It could also be referring to the name of the souls (Arwah) of the Children of Adam (humans).
-
-**From the Sunnah:** Then the man said, 'O Abu Hurayrah what is this?' Abu Hurayrah replied, 'I heard the Messenger of Allah ﷺ say, In this narration (of Ahmad) the Prophet ﷺ also added,
 ## Personal Reflections
-
 

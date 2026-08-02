@@ -195,13 +195,5 @@ In verse 35: الَّذِي أَحَلَّنَا دَارَ‌ الْمُقَا�
 
 As for those who reject the truth, they will have the Fire of Hell, where death will not finish them nor will its torment be lightened. This is how We repay every stubborn denier.
 
-## AI Tafsir
-
-**What this ayah teaches:** Neither will it have a complete killing effect on them so that they die nor shall its torment be lightened for them.
-
-**Classical tafsir:** Ibn Kathir notes: Neither will it have a complete killing effect on them so that they die nor shall its torment be lightened for them.
-
-**From the Sunnah:** It was reported in Sahih Muslim that the Messenger of Allah ﷺ said: (Sahih Muslim) This is the correct view according to Shayban who narrated that Qatadah said, "Proof will be established against them by the fact that they lived long enough and that Messengers came to them." This is also the view favored by Ibn Jarir, and it is the apparent…
 ## Personal Reflections
-
 

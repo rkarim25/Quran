@@ -142,11 +142,5 @@ Ends here
 
 Because of their sins they were drowned, then admitted into the Fire. They found none to help them against Allah.
 
-## AI Tafsir
-
-**What this ayah teaches:** Because of their sins they were drowned, then were made to enter the Fire. Obviously, the ‘Fire’ mentioned in the verse does not refer to the fire of Hell, but refers to the fire in the realm of ‘Barzakh’ (the existence between the worldly life and the life of the Hereafter).
-
-**Classical tafsir:** Ibn Kathir notes: Ad-Dahhak said, "Dayyar means one." As-Suddi said, "Dayyar is the one who stays in the home." So Allah answered his supplication and He destroyed all of those on the face of the earth who were those who reject the truth.
 ## Personal Reflections
-
 

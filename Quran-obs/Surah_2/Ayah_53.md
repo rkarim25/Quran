@@ -77,17 +77,5 @@ In the language of the Holy Qur'an, al-Furgan الفرقان is a term signifyin
 
 And when We gave Moses the Scripture and the Furqan — the criterion that separates truth from falsehood — so you might be guided.
 
-## AI Tafsir
-
-**Essence** Allah reminds the Children of Israel — and all who read — that He gave Musa the Tawrah as both divine Scripture and al-Furqan, the living criterion that separates right from wrong, so that a people emerging from the wreckage of calf-worship might find their way back to guidance.
-
-Allah gave Musa the Tawrah as both divine Scripture and al-Furqan — the criterion that separates right from wrong — so that a people emerging from the wreckage of calf-worship might find their way back to guidance.
-
-The two titles reinforce each other: al-Kitab, the revealed Book, and al-Furqan, the resolver of disputes in doctrine and practice. The closing *la'allakum tahtadun* frames guidance not as automatic but as the intended end scripture perpetually invites toward.
-
-Ibn Kathir defines al-Furqan as "that which differentiates between truth and falsehood, guidance and deviation," given after the sea-crossing — supported by al-Qasas 28:43: the Tawrah came "as an enlightenment for mankind, a guidance and a mercy." Mufti Shafi' (Maarif ul Quran) offers his own elaboration: al-Furqan encompasses the Shari'ah's legal injunctions, the miracles of Musa, and the Torah's twin role as Book and criterion — three dimensions, one word.
-
-Every time a believer opens the Quran to settle a confusion or steady a wavering heart, they draw on the same mercy extended to Musa's people: a criterion, not merely a comfort.
 ## Personal Reflections
-
 

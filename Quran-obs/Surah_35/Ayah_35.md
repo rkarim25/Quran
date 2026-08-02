@@ -126,13 +126,5 @@ In verse 35: الَّذِي أَحَلَّنَا دَارَ‌ الْمُقَا�
 
 Who out of His grace has settled us in the Home of Everlasting Stay, where we will feel neither fatigue nor weariness."
 
-## AI Tafsir
-
-**What this ayah teaches:** The words translated here as "toil" and "weariness" both mean exhaustion, as if what is meant by the negation of both is that neither their bodies nor their souls will become exhausted; and Allah knows best. That no one there will experience the least fatigue or boredom, as it happens in the mortal world where one needs to sleep after work.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** It was recorded in the Sahih that the Messenger of Allah ﷺ said:
 ## Personal Reflections
-
 

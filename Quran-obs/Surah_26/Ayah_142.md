@@ -162,13 +162,5 @@ This verse indicates that the construction of houses and buildings without need 
 
 when their brother Ṣâliḥ said to them, “Will you not fear Allah?
 
-## AI Tafsir
-
-**What this ayah teaches:** When their brother Salih said to them: "Will you not have Taqwa?")(143. Their Prophet Salih called them to Allah, to worship Him alone with no partner or associate, and to obey whatever commands were conveyed to them, but they refused, rejecting him and opposing him.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** In our explanation of Surat Al-A'raf, we mentioned the Hadiths which tell how the Messenger of Allah ﷺ passed by their dwelling place when he wanted to launch a raid on Syria.
 ## Personal Reflections
-
 

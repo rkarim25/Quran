@@ -106,13 +106,5 @@ What is said in verse وَاتَّبِعْ مَا يُوحَىٰ إِلَيْك�
 
 Follow what is revealed to you from your Rabb — the One who creates, owns, nurtures, and sustains. Surely Allah is All-Aware of what you all do.
 
-## AI Tafsir
-
-**Context:** (1. O Prophet! Have Taqwa of Allah, and obey not the those who reject the truth and the hypocrites. Verily, Allah is Ever All-Knower, All-Wise.)(2. And follow that which is revealed to you from your Lord.
-
-**What this ayah teaches:** And follow that which is revealed to you from your Lord.
-
-**Classical tafsir:** Ibn Kathir notes: Verily, Allah is Ever All-Knower, All-Wise.)(2.
 ## Personal Reflections
-
 

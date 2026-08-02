@@ -105,11 +105,5 @@ Thereafter the text says if things were not done according to these injunctions,
 
 Those who reject the truth are allies of one another. Unless you maintain this bond among believers, there will be fitnah and great corruption in the land.
 
-## AI Tafsir
-
-**What this ayah teaches:** Similarly, also given was the instruction that the those who reject the truth are responsible for each other as guardians and inheritors, therefore, no interference should be made in their personal law of guardianship and inheritance. And those who disbelieve are allies of one another, (and) if you (Muslims) do not do so (protect one another), there will be Fitnah on the earth, and great corruption .
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, from this verse, we learn that those who reject the truth shall be considered inheritors to each other and the very law of the distribution of inheritance which is in force in their own religion shall be implemented as far as matters of their inheritance are concerned.
 ## Personal Reflections
-
 

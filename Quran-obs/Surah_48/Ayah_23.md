@@ -156,13 +156,5 @@ Thereafter, Allah the Exalted and Most Honored sent down this Ayah about that in
 
 This is Allah's established way with those who passed before. You will find no change in Allah's way.
 
-## AI Tafsir
-
-**What this ayah teaches:** And Allah is Ever Able to do all things (21)And if those who disbelieve fight against you, they certainly would have turned their backs; then they would have found neither a protector nor a helper (22)That has been the way of Allah already with those who passed away before.
-
-**Classical tafsir:** Ibn Kathir notes: Al-'Awfi reported that Ibn 'Abbas said that it refers to the conquest of Khaybar. Qatadah said that this part of the Ayah refers to the conquest of Makkah, and this opinion was preferred by Ibn Jarir.
-
-**From the Sunnah:** Good News of continuous Muslim Victories until the Day of Resurrection (Sahih Muslim) that Ibn 'Abbas commented on the Ayah, (Sunan Abi Dawud)
 ## Personal Reflections
-
 

@@ -181,13 +181,5 @@ Quoted in the next verse (35) is their saying: نَحْنُ أَكْثَرُ‌ 
 
 They would add, "We have more wealth and children than you, and we will never be punished."
 
-## AI Tafsir
-
-**What this ayah teaches:** How Those Who lived a Life of Luxury disbelieved in the Messengers and were misled by Their pursuit of Wealth and Children Allah is consoling His Prophet ﷺ and commanding him to follow the example of the Messengers that came before him.
-
-**Classical tafsir:** Ibn Kathir notes: This means that just as there are differences between them in this world – where one may be poor and in straitened circumstances while another is rich and enjoys a life of plenty – so they will be in the Hereafter.
-
-**From the Sunnah:** Paradise, whilst another will be in the lowest levels of Hell.
 ## Personal Reflections
-
 

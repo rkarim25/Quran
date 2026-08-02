@@ -172,11 +172,5 @@ The third category consists of As-sabiqun [ the foremost ] who are described as 
 
 the people of the right—how blessed they will be;
 
-## AI Tafsir
-
-**What this ayah teaches:** And you (all) will be in three groups.)(8. They are the chiefs of those on the right side, because they include the Messengers, Prophets, true believers and martyrs.
-
-**Classical tafsir:** Ibn Kathir notes: And you (all) will be in three groups.)(8.
 ## Personal Reflections
-
 

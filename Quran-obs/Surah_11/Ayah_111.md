@@ -120,13 +120,5 @@ During the Khilafah of Sayyidna ` Umar ibn ` Abd al-` Aziz (رح) ، someone was
 
 And surely your Rabb will fully pay all for their deeds. He is certainly All-Aware of what they do.
 
-## AI Tafsir
-
-**What this ayah teaches:** Surely, He is All-Aware of what they do .
-
-**Classical tafsir:** Ibn Kathir notes: Surely, He is All-Aware of what they do.) This means that He is All-Knower of all of their deeds.
-
-**From the Sunnah:** There is a consensus of the entire Muslim Ummah that doing so is strictly Haram (unlawful). (Sahih Muslim)
 ## Personal Reflections
-
 

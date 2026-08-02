@@ -140,15 +140,5 @@ Marwan's saying, in one of his addresses, that this verse holds true for ` Abdur
 
 Each group will be ranked according to what they did, so He may repay everyone in full. No one will be wronged.
 
-## AI Tafsir
-
-**Context:** (But he who says to his parents: "Uff to you! ...") As for the saying "Uff" in this Ayah, it is a general description applying to anyone who says it to his parents.
-
-**What this ayah teaches:** Verily, they are ever the losers (18)And for all, there will be degrees according to that which they did, so that He might fully recompense for their deeds.
-
-**Classical tafsir:** Ibn Kathir notes: Verily, they are ever the losers (18)And for all, there will be degrees according to that which they did, so that He might fully recompense for their deeds.
-
-**From the Sunnah:** from Yusuf bin Mahak that Marwan (bin Al-Hakam) was governor of Hijaz (Western Arabia), appointed by Mu'awiyah bin Abi Sufyan. (Sahih al-Bukhari)
 ## Personal Reflections
-
 

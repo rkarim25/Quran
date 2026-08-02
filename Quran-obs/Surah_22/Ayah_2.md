@@ -277,13 +277,5 @@ This verse also gives a picture of the earthquake of the Day of Resurrection whe
 
 The Day you see it, every nursing mother will abandon what she is nursing, and every pregnant woman will deliver her burden prematurely. And you will see people as if they were drunk, though they will not be drunk; but the torment of Allah is terribly severe.
 
-## AI Tafsir
-
-**Context:** Commentators differ on whether this Surah is Makkan or Madani. Ibn ` Abbas ؓ has expressed two views on different occasions.
-
-**What this ayah teaches:** The Day you shall see it, every nursing mother will forget her nursling, and every pregnant one will drop her load, and you shall see mankind as in a drunken state, yet they will not be drunken, but Allah's torment is severe.) When his Companions heard that, they hastened to catch up with him, because they knew that he wanted to say something.
-
-**Classical tafsir:** Ibn Kathir notes: Others said that this refers to the terror, fear, earthquakes and chaos that will happen on the Day of Resurrection, in the arena (of Judgement), after the resurrection from the graves.
 ## Personal Reflections
-
 

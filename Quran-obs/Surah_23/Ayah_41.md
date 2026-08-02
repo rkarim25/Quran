@@ -102,13 +102,5 @@ This is the argument which the unbelievers advance when denying belief in the Da
 
 Then the mighty blast overtook them with justice, and We reduced them to rubble. So away with the wrongdoing people!
 
-## AI Tafsir
-
-**What this ayah teaches:** It was said that this was 'Ad, because they were the successors of the people of Nuh.
-
-**Classical tafsir:** Ibn Kathir notes: It was said that this was 'Ad, because they were the successors of the people of Nuh.
-
-**From the Sunnah:** Those who deny it publicly are confirmed infidels, but it is very unfortunate that many Muslims also act in a manner that the same denial can be felt from their deeds and actions.
 ## Personal Reflections
-
 

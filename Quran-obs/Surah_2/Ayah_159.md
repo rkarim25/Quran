@@ -220,19 +220,5 @@ The exact words of the Holy Qur'an in وَيَلْعَنُهُمُ اللَّا�
 
 Those who hide the clear proofs and guidance We revealed, after We made it clear for humanity in the Book — upon them is condemnation from Allah and from all who condemn.
 
-## AI Tafsir
-
-**Essence** To conceal the clear proofs and guidance Allah has revealed, after He made them plain in the Book, draws down the curse of Allah and of those who curse.
-
-**What it teaches** The ayah's target is precise: not ignorance but suppression. Those condemned hide al-bayyinat (the clear proofs) and al-huda (the guidance) "after We made it clear for the people in the Book" — so they withhold a truth Allah had already established and that they themselves recognize. The penalty answers the crime in kind: those who cut people off from guidance are themselves cut off — "Allah curses them, and the cursers curse them." La'na here is exclusion from Allah's mercy, and the open-ended "cursers" is left unnamed, a point the scholars seize on below.
-
-**The scholars** Ibn Kathir reports that Abu Al-'Aliyah said these verses "were revealed about the People of the Scripture who hid the description of Muhammad (peace be upon him)" — though the ruling, as the mufassirun apply it, reaches anyone who buries knowledge. On who the "cursers" are, Abu Al-'Aliyah, Ar-Rabi' bin Anas and Qatadah say they are the angels and the believers; Mujahid and 'Ikrimah (in Maarif) read the unspecified wording to mean every living thing curses them — even animals and insects — since concealing knowledge harms all created life, and Mujahid pictures the animals in drought saying, "May Allah curse the sinners among the Children of Adam." Ibn Kathir draws the contrast sharply: just as everything, even the fish in the sea and the bird in the air, seeks forgiveness for the scholar who spreads knowledge, the one who hides it is cursed in its place. Maarif ties this back to verse 146 — the People of the Book "recognize him as they recognize their own sons" yet conceal the truth — and notes the next ayah holds the door open: those who repent, reform, and openly declare what they hid are forgiven by Allah, "the One Who accepts repentance, the Most Merciful." Maarif and Qurtubi also refine the duty so it is not mistaken for indiscriminate broadcasting: disclosure binds the one uniquely able to answer, while matters too intricate for people's grasp may be withheld lest they breed doubt — as Sayyidna 'Ali said, reported in Sahih al-Bukhari, "Disclose to the common people only that much of knowledge as they have the capacity to understand."
-
-**From the Sunnah** Whoever is asked about knowledge he has and conceals it will be bridled with a bridle of fire on the Day of Resurrection. (Reported in the Musnad from Abu Hurayrah; also from Abu Hurayrah and 'Amr ibn al-'As in Ibn Majah, per Qurtubi)
-
-**From the Sunnah** Abu Hurayrah said that were it not for this very ayah, he would never have narrated a single hadith — the Companions read the warning against concealment as binding on the knowledge they carried, treating the Prophet's hadith as covered by it. (Sahih al-Bukhari)
-
-**Reflection** The ayah turns knowledge into a trust with two failures, not one. To bury guidance people need is the sin it names; but Sayyidna 'Ali's words guard the other edge — pouring out what minds cannot yet hold is no virtue either. The faithful path is neither hoarding nor dumping, but giving each person the truth they can bear — and the Companions held themselves, not only the People of the Book, to that charge.
 ## Personal Reflections
-
 

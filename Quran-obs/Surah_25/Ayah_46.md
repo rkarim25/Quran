@@ -110,13 +110,5 @@ In order to explain the phenomenon of lengthening and shortening of shades, it i
 
 causing the shade to retreat gradually?
 
-## AI Tafsir
-
-**Context:** This marvelous system of causes and effects was, in fact, a masterpiece of Allah's creation and a solid proof of His boundless power and infinite wisdom, but it was this firmness of the system which ultimately made peopl…
-
-**What this ayah teaches:** If He willed, He could have made it still – but We have made the sun its guide (45)Then We withdraw it towards Ourselves – a gradual withdrawal (46)And it is He Who makes the night a covering for you, and the sleep (as) a repose, and makes the day Nushur .
-
-**Classical tafsir:** Ibn Kathir notes: If He so willed, Allah would have made sunlight and shades stationary so that where there was sunlight it would have stayed as such, and where there was shade it would have remained such forever.
 ## Personal Reflections
-
 

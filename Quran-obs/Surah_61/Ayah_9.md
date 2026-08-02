@@ -117,15 +117,5 @@ This book was originally written in Arabic, later its translations appeared in T
 
 He sent His Messenger with true guidance and the deen—the way of life aligned with divine guidance—of truth, to make it prevail over all other ways, even to the dismay of those who commit shirk.
 
-## AI Tafsir
-
-**Context:** This is followed by a description of the Jihads which Prophets Musa and ` Isa (علیہما السلام) fought in Allah's Cause, and how they suffered at the hands of the enemies.
-
-**What this ayah teaches:** Prophecy of The Final Messenger of Allah ﷺ in Injil It is a known fact that the previously revealed Divine scriptures have been changed and distorted.
-
-**Classical tafsir:** Ibn Kathir notes: This verse states that it is jihad in Allah's way, and that the best row of battle in the sight of Allah is the one firmly established against Allah's enemies to make Allah's word prevail, and which, on account of the valor and unshaken determination of Mujahidin, looks like a st…
-
-**From the Sunnah:** After this description, the Muslims are directed to undertake jihad.
 ## Personal Reflections
-
 

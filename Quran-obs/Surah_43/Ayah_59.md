@@ -250,11 +250,5 @@ The gist of the objection mentioned in the first and second narrations is essent
 
 He was only a servant We showed favour to and made as an example for the Children of Israel.
 
-## AI Tafsir
-
-**Context:** وَلَمَّا ضُرِ‌بَ ابْنُ مَرْ‌يَمَ مَثَلًا إِذَا قَوْمُكَ مِنْهُ يَصِدُّونَ (And when the example of the son of Maryam was cited, your people started at once shouting at it [ in joy ]...43:57).
-
-**What this ayah teaches:** We granted Our favor to him, and We made him an example for the Children of Israel (59)And if it were Our will, We would have made angels to replace you on the earth (60)And he shall be a known sign for (the coming of) the Hour.
 ## Personal Reflections
-
 

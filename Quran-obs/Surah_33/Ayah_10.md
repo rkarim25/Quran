@@ -243,15 +243,5 @@ The Holy Prophet ﷺ said, "In the light that was released after the first strik
 
 Remember when they came at you from east and west, when your eyes grew wild in horror and your hearts jumped into your throats, and you entertained conflicting thoughts about Allah.
 
-## AI Tafsir
-
-**Context:** Identified in the previous verses was the great station of the Holy Prophet ﷺ along with the instruction to Muslims that they should follow and obey him totally and perfectly.
-
-**What this ayah teaches:** And Allah is Ever All-Seer of what you do (9)When they came upon you from above you and from below you, and when the eyes grew wild and the hearts reached to the throats, and you were harboring doubts about Allah .
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, this battle was the severest on the Holy Prophet t and the noble Sahabah as compared with other battles - because, the count of the attacking confederate forces of the those who reject the truth has been given as twelve to fifteen thousand.
-
-**From the Sunnah:** When the Messenger of Allah ﷺ heard that they had set out, he commanded the Muslims to dig a ditch (Khandaq) around Al-Madinah from the east.
 ## Personal Reflections
-
 

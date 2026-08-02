@@ -177,13 +177,5 @@ Certainly valuable for Muslims - more valuable than their victory in Jihad - was
 
 You did not kill them when they fell—it was Allah who did. And you did not throw when you threw—it was Allah who threw, to test the believers with a gracious test from Him. Surely Allah is All-Hearing, All-Knowing.
 
-## AI Tafsir
-
-**What this ayah teaches:** Allah's Signs displayed during Badr, And throwing Sand in the Eyes of the those who reject the truth Allah states that He creates the actions that the servants perform and that whatever good actions they take, it is He Who should be praised for them, for He directed and helped them perform these actions.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** While in the bunker, the Prophet ﷺ invoked Allah humbly and expressing his neediness before Allah. This great victory was achieved by Muslims in the background which was initially full of dismay and hopelessness.
 ## Personal Reflections
-
 

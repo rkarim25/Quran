@@ -173,13 +173,5 @@ In brief, every created thing has been programmed, by Allah, with a guidance of 
 
 So go to him and say, ‘Indeed we are both messengers from your Rabb, so let the Children of Israel go with us, and do not oppress them. We have come to you with a sign from your Rabb. And salvation will be for whoever follows the right guidance.
 
-## AI Tafsir
-
-**Context:** Both of them said: "Our Lord! Verily, we fear lest he should hasten to punish us or lest he should transgress. (45)He (Allah) said: "Fear not, verily, I am with you both, hearing and seeing.
-
-**What this ayah teaches:** The guidance which Allah gives to the prophets and which is in the nature of a duty imposed upon them is a special kind of guidance which is addressed only to human beings and Jinns who are gifted with intellect.
-
-**Classical tafsir:** Ibn Kathir notes: But on the contrary, he belied and turned away.)[75:31-32] This means that he denied with his heart and turned away by his actions.
 ## Personal Reflections
-
 

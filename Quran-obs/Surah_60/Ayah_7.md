@@ -181,15 +181,5 @@ It is recorded in Sahih of Bukhari, on the authority of Sayyidah Asma' bint Abu 
 
 Allah may yet bring about goodwill between you and those you now hold as enemies. Allah is Most Capable, All-Forgiving, the Rahim—whose special mercy is for believers in the Akhirah.
 
-## AI Tafsir
-
-**Context:** It is recorded in Sahih of Bukhari, on the authority of Sayyidah Asma' bint Abu Bakr ؓ ، that her mother arrived in Madinah from Makkah in the state of disbelief.
-
-**What this ayah teaches:** And Allah has power (over all things), and Allah is Oft-Forgiving, ar-Rahim (7)Allah does not forbid you to deal justly and kindly with those who fought not against you on account of religion nor drove you out of your homes.
-
-**Classical tafsir:** Ibn Kathir notes: The present verses give an indication that those who are implacable enemies of Muslims because of their disbelief would soon become their friends.
-
-**From the Sunnah:** I came to the Prophet ﷺ and said, 'O Allah's Messenger! (Musnad Ahmad) 'A'ishah asked the Prophet ﷺ about his verdict and Allah sent down the Ayah, (Musnad Ahmad)
 ## Personal Reflections
-
 

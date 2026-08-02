@@ -164,15 +164,5 @@ In the light of this commentary, one can see that the word "as" (in Arabic, the 
 
 Just as We sent among you a messenger from yourselves — reciting Our signs, purifying you, teaching you the Book and wisdom, and teaching you what you did not know —
 
-## AI Tafsir
-
-**Essence** Allah recalls His sending of Muhammad ﷺ from among the people — to recite His verses, purify them, and teach them the Book and wisdom — as a great favor granted in answer to Ibrahim's prayer.
-
-**What it teaches** The ayah lists four gifts the Messenger ﷺ brings: he recites Allah's clear Ayat, he performs *tazkiyah* (purifying and cleansing hearts from the ills of the soul and the ways of Jahiliyyah), he teaches the *Kitab* (the Qur'an), and he teaches the *Hikmah* (wisdom) — which Ibn Kathir identifies as his Sunnah, Islamic law and Fiqh — along with knowledge no earlier scripture or human reason could reach.
-
-**The scholars** Ibn Kathir presents this verse as Allah reminding the believers of a great bounty: the Messenger ﷺ takes them from the darkness of disbelief to the light of faith, and a people who once "uttered foolish statements" in Jahiliyyah were elevated by his prophecy to the rank of the Awliya' (loyal friends of Allah) and the scholars — gaining the deepest knowledge, the most pious hearts, and the most truthful tongues. He cites Ibn 'Abbas, who said plainly that "Allah's favor means Muhammad." Maarif ul Quran adds the structural key: Verse 151 closes the Qiblah discussion by answering the very prayer of Ibrahim (peace be upon him) from the start of the surah (2:127–129) — for he had asked Allah to raise among his progeny a Messenger from themselves with these exact attributes; since the Prophet ﷺ came in answer to the founder of the Ka'bah, it is no wonder the Ka'bah is appointed his Qiblah. The connecting *Kaf* ("as") links this favor to the command that follows in 152 to remember and thank Allah; al-Qurtubi reads it instead as joining "Remember Me," so that the very ability to remember Allah is itself a blessing on par with the new Qiblah and the coming of the final Prophet ﷺ.
-
-**Reflection** Recognize the Prophet ﷺ as Allah's great favor to you — then let his four gifts do their work: sit with the verses he recited, let *tazkiyah* cleanse what Jahiliyyah leaves in any heart, and learn the Book and his Sunnah until you act on them. The fitting response, as verse 152 commands, is to remember and thank Allah.
 ## Personal Reflections
-
 

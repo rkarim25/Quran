@@ -172,17 +172,5 @@ This is the significance of the basic declaration of the Islamic creed, لَا �
 
 O humanity — worship your Rabb, who created you and those before you, so that you may live with taqwa.
 
-## AI Tafsir
-
-**Essence** The message for which the Qur'an was revealed: worship your Lord alone — He who created you and all before you — so that taqwa may take root in you.
-
-**What it teaches** 'Ibadah is pouring all one's energies into obedience out of awe and reverence (Maarif ul-Quran). The name Rabb — the Nurturer who raises man from a drop into a rational being — is itself the proof: none but He deserves worship, and in that worship lies the hope of safety from the Fire.
-
-**The scholars** Ibn Kathir names this Tawhid al-Uluhiyyah: the Creator and Sustainer alone deserves worship, without rivals. Maarif ul-Quran: one summons, four calls — the disbeliever to leave idols, the hypocrite to be sincere, the sinner to reform, the believer to stand firm.
-
-**From the Sunnah** Asked by Ibn Mas'ud which evil deed is worst with Allah, the Prophet ﷺ replied: "To take an equal with Allah, while He alone created you" (the Two Sahihs).
-
-**Reflection** When Tauhid takes hold of the heart, writes Maarif ul-Quran, "shower him with gold, or put him in irons, he would remain unmoved, for he knows where it comes from."
 ## Personal Reflections
-
 

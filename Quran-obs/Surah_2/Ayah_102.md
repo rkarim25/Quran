@@ -637,17 +637,5 @@ Verse 102 says: "They could not thus do any harm to anyone, except with the perm
 
 They followed what devils recited during Solomon's reign. Solomon did not reject the truth — the devils did. They taught people magic and what was revealed to the two angels Harut and Marut in Babylon. The angels never taught anyone without saying, "We are only a test — do not abandon your faith." Yet people learned what harmed them and did not benefit them, though they knew that whoever buys into magic has no share in the Akhirah. Miserable was the price for which they sold their souls, if only they knew.
 
-## AI Tafsir
-
-**Essence** Allah clears Sulayman: he never disbelieved — the devils did, teaching a sihr that sells the soul for a miserable price.
-
-**What it teaches** Magic is real yet powerless — harming none "except by Allah's leave." Harut and Marut warned every seeker, "We are only a fitnah, so do not disbelieve"; whoever buys it forfeits his khalaq — his share in the Hereafter.
-
-**The scholars** Ibn Kathir (As-Suddi): Sulayman himself buried the devils' books of eavesdropped lies — dug up after his death to brand him a sorcerer. Many Salaf ('Ali, Ibn Mas'ud, Ibn 'Abbas) held the two to be angels sent as a trial. Maarif ul-Quran: magic works by hidden causes, miracles by Allah's direct act — and He creates effects and causes alike; devil-invoking sihr is kufr, lesser forms a grave sin.
-
-**From the Sunnah** "Whoever came to a soothsayer or a sorcerer and believed in what he said, will have disbelieved in what Allah revealed to Muhammad ﷺ." (Al-Bazzar) In Muslim, Satan embraces the devil who boasts, "I separated between him and his wife."
-
-**Reflection** Knowledge unlived is no better than ignorance — no bargain is worth your soul.
 ## Personal Reflections
-
 

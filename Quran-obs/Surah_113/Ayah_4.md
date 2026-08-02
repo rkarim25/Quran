@@ -305,15 +305,5 @@ Ends here
 
 And from the evil of those who blow on knots—those who secretly work harm through envy, manipulation, or hidden schemes meant to undo your peace.
 
-## AI Tafsir
-
-**Context:** (Do you not see that there have been Ayat revealed to me tonight the like of which has not been seen before?) They are
-
-**What this ayah teaches:** "And from the evil of the Ghasiq when Waqab,")(4. The word 'night' has been specifically mentioned because this is the time when Jinn, Shaitans, harmful insects, animals and reptiles appear.
-
-**Classical tafsir:** Ibn Kathir notes: The word 'night' has been specifically mentioned because this is the time when Jinn, Shaitans, harmful insects, animals and reptiles appear.
-
-**From the Sunnah:** from Zirr bin Hubaysh that Ubayy bin Ka'b told him that Ibn Mas'ud did not record the Mu'awwidhatayn in his Mushaf (copy of the Qur'an). (Musnad Ahmad) This Hadith was recorded by Ahmad, At-Tirmidhi and An-Nasa'i. (Jami' at-Tirmidhi, Sunan an-Nasa'i)
 ## Personal Reflections
-
 

@@ -146,11 +146,5 @@ After mentioning the confused state of the infidels, Allah draws man's attention
 
 Have they not looked at the sky above them—how We built it and adorned it with stars, leaving no flaw in it?
 
-## AI Tafsir
-
-**What this ayah teaches:** Have they not looked at the heaven above them, how We have made it and adorned it, and there are no Furuj in it (6)And the earth!
-
-**Classical tafsir:** Ibn Kathir notes: Lexically, the word furuj is the plural of farj which means a crack, or an opening.
 ## Personal Reflections
-
 

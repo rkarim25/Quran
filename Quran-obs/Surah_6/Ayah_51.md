@@ -315,15 +315,5 @@ To sum up, there are three types of people who believe or do not believe in Qiya
 
 Warn with this those who are awed by the prospect of being gathered before their Rabb—when they will have no protector or intercessor besides Him—so perhaps they will be mindful.
 
-## AI Tafsir
-
-**Context:** Say: "I don't tell you that with me are the treasures of Allah, nor (that) I know the Unseen; nor do I tell you that I am an angel.
-
-**What this ayah teaches:** But, they have to know that there is a customary practice of Allah in this matter.
-
-**Classical tafsir:** Ibn Kathir notes: It means that they should get rid of their selfish concerns, leave obstinacy and hostility, and see reality as it is so that they may no longer be counted among the blind.
-
-**From the Sunnah:** This is because at first, most of those who followed the Messenger of Allah ﷺ were the weak among the people, men, women, slaves, and only a few chiefs or noted men followed him. The idolators of Quraysh used to mock the weak among them who believed in the Prophet ﷺ and they even tortured some of them.
 ## Personal Reflections
-
 

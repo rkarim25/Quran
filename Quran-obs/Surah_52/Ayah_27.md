@@ -183,13 +183,5 @@ Allah's Fairness to Sinners
 
 So Allah favoured us and protected us from the scorching heat of Hell.
 
-## AI Tafsir
-
-**What this ayah teaches:** [ Therefore, their place is elsewhere in Paradise ].
-
-**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas said that Laghw means 'falsehood' while Ta'thim means 'lying'.
-
-**From the Sunnah:** Ibn Abi Hatim also recorded that Ibn 'Abbas commented on Allah's statement, Paradise, while the idolators and their offspring will dwell in the Hellfire.
 ## Personal Reflections
-
 

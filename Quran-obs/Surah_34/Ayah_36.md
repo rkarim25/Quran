@@ -216,13 +216,5 @@ According to a narration of Sayyidna Abu Hurairah ؓ ، the Holy Prophet ﷺ sai
 
 Say: "My Lord gives abundant or limited provision to whomever He wills—but most people do not understand."
 
-## AI Tafsir
-
-**What this ayah teaches:** Then, they transgress therein, and thus the Word (of torment) is justified against it (them). This means that just as there are differences between them in this world – where one may be poor and in straitened circumstances while another is rich and enjoys a life of plenty – so they will be in the Hereafter.
-
-**Classical tafsir:** Ibn Kathir notes: This means that just as there are differences between them in this world – where one may be poor and in straitened circumstances while another is rich and enjoys a life of plenty – so they will be in the Hereafter.
-
-**From the Sunnah:** Paradise, whilst another will be in the lowest levels of Hell.
 ## Personal Reflections
-
 

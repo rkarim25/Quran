@@ -198,24 +198,5 @@ In the concluding part of this verse, the end of the other class of people who p
 
 And among them are those who say, "Our Rabb, give us good in this world and good in the Akhirah, and protect us from the Fire."
 
-## AI Tafsir
-
-**Essence**
-The believer's whole-life prayer: good in this world, good in the Hereafter, and refuge from the Fire — the three asked for together in a single breath.
-
-**What it teaches**
-Set against those who beg Allah only for this world ("Our Lord! Give us in this world!") with no share in the Hereafter, this ayah praises the worshipper who asks for *hasanah* — "good" — in both abodes and adds protection from the *Naar* (Fire). The contrast is the lesson: the believer refuses to choose one abode at the cost of the other.
-
-**The scholars**
-Ibn Kathir explains the supplication "includes all good aspects of this life and seeks refuge from all types of evil." The good of *dunya* gathers every form of well-being — sound health, sufficient provision, pleasing spouse, beneficial knowledge, righteous deeds and good repute; the good of the Hereafter is above all Paradise — safety from the greatest terror of the gathering and a light reckoning; and safety from the Fire includes being guided in this life to shun the prohibitions, sins and doubtful matters that lead there. He notes Allah first criticizes those with "no portion in the Hereafter" to deter others from imitating them, then praises those who seek both worlds, promising "a share for what they have earned." Al-Qasim bin 'Abdur-Rahman said whoever is granted a grateful heart, a remembering tongue and a patient body has been given good in this life, good in the Hereafter, and salvation from the Fire. Maarif ul Quran adds that the preceding verse pointedly omits *hasanah* for the worldly-minded — they crave fulfillment of desire without caring whether it is good or ill, rightly or wrongly gained — and warns even devout Muslims whose *waza'if* and *nawafil* mask the same love of dunya; yet it equally corrects so-called ascetics who scorn worldly provision, since the prophets of Allah themselves prayed for the good of both worlds, knowing worldly means are needed to sustain worship and obedience.
-
-**From the Sunnah**
-The Prophet (peace be upon him) himself would very frequently make this very du'a — "O Allah, our Lord! Give us good in this life, good in the Hereafter, and save us from the torment of the Fire" — which is why the Sunnah encourages reciting it. (Sahih al-Bukhari)
-
-And when the Prophet (peace be upon him) found a man so weakened by illness that he was like a frail bird, he learned the man had been asking Allah to bring all his Hereafter punishment forward into this life; the Prophet rebuked this — "you cannot bear it" — and taught him to pray this ayah instead, after which the man recovered. (Musnad Ahmad; also recorded by Muslim)
-
-**Reflection**
-Make this du'a your habit — especially in tawaf and after worship — asking Allah for the good of both abodes while fleeing to Him from the Fire.
 ## Personal Reflections
-
 

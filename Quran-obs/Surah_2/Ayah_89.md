@@ -167,15 +167,5 @@ However, the next verse attributes the infidelity of the Jews to their malice.
 
 Although they used to pray for victory over those who associate partners with Allah, when a Book came from Him confirming what they had, they rejected it. So may Allah's condemnation be upon those who reject the truth.
 
-## AI Tafsir
-
-**Essence** They begged Allah for the promised Prophet — then, recognizing him on arrival, they disbelieved, and Allah's curse fell on the deniers.
-
-**What it teaches** The Qur'an came as musaddiq, confirming the Tawrah's own prophecies of Muhammad ﷺ — to deny it was to deny their own Book. Their hoped-for victory (yastaftihun, as the mufassirun explain) collapsed into kufr the moment recognition demanded submission.
-
-**The scholars** Ibn 'Abbas (in Ibn Kathir): they invoked Allah for his coming against the Aws and Khazraj — yet when Mu'adh bin Jabal and Bishr bin Al-Bara' called them to Islam, Salam bin Mushkim of Bani An-Nadir replied, "He is not the Prophet we told you about." Abu Al-'Aliyah: they knew he was Allah's Messenger but rejected him from envy. Maarif ul Quran: iman is accepting truth, not merely knowing it — Satan knows, and that knowledge intensifies his kufr.
-
-**Reflection** Truth recognized but not obeyed becomes a witness against you — surrender your heart to what you know.
 ## Personal Reflections
-
 

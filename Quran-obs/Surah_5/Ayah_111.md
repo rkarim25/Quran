@@ -166,15 +166,5 @@ As for the first spectacle, it is obvious that it is a miracle and certainly a s
 
 And how I inspired the disciples, “Believe in Me and My messenger!” They declared, “We believe and bear witness that we fully submit.”
 
-## AI Tafsir
-
-**Context:** (and the Tawrah,) which was revealed to Musa, son of 'Imran, who spoke to Allah directly. Allah's statement, The wording of this Ayah indicates that 'Isa will be reminded of these favors on the Day of Resurrection.
-
-**What this ayah teaches:** And the word Tukallim means invited, because his speaking to people while a child is nothing strange by itself.
-
-**Classical tafsir:** Ibn Kathir notes: And the word Tukallim means invited, because his speaking to people while a child is nothing strange by itself.
-
-**From the Sunnah:** Now that he would talk to people on the earth after reaching his middle-age can become possible only when he returns to this world - as is the collective belief of Muslims which stands proved on the basis of clear statements of the Qur'an and Sunnah.
 ## Personal Reflections
-
 

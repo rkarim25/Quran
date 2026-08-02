@@ -168,15 +168,5 @@ In verse 126: يُفْتَنُونَ فِي كُلِّ عَامٍ مَّرَّ�
 
 Whenever a sûrah is revealed, they look at one another, “Is anyone watching you?” Then they slip away. Allah has turned their hearts away because they are a people who do not comprehend.
 
-## AI Tafsir
-
-**Context:** This describes the hypocrites that when a Surah is revealed to the Messenger of Allah ﷺ,
-
-**What this ayah teaches:** Allah has turned their hearts because they are a people that understand not . Yet, they turn not in repentance, nor do they learn a lesson (from it)(126)And whenever there comes down a Surah, they look at one another (saying): "Does any one see you?" Then they turn away.
-
-**Classical tafsir:** Ibn Kathir notes: Mujahid said that hypocrites are tested with drought and hunger.
-
-**From the Sunnah:** This describes the hypocrites that when a Surah is revealed to the Messenger of Allah ﷺ,
 ## Personal Reflections
-
 

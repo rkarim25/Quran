@@ -142,11 +142,5 @@ In the last verse (87), an answer has been given to scruples of these people abo
 
 If some of you do believe in what I have been sent with while others do not, then be patient until Allah judges between us. He is the Best of Judges.”
 
-## AI Tafsir
-
-**What this ayah teaches:** If being a those who reject the truth or denier would have been a crime, the criminal would have been punished. See the torment and punishment they suffered, because they disobeyed Allah and rejected His Messengers.
-
-**Classical tafsir:** Ibn Kathir notes: See the torment and punishment they suffered, because they disobeyed Allah and rejected His Messengers.
 ## Personal Reflections
-
 

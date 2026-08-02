@@ -173,11 +173,5 @@ It is stated about the people of Sayyidna Nuh (علیہ السلام) that they 
 
 They have certainly passed by the city of Sodom, which had been showered with a dreadful rain of stones. Have they not seen its ruins? But they do not expect to be resurrected.
 
-## AI Tafsir
-
-**What this ayah teaches:** But they used not to expect any resurrection.) means, the those who reject the truth who passed by it did not learn any lesson, because they did not expect any resurrection, i.e., on the Day of Judgement. And We have prepared a painful torment for the wrongdoers (37)And (also) 'Ad and Thamud, and the Dwellers of Ar-Rass, and many generations in between (38)And for each We put forward examples, and each We broug…
-
-**Classical tafsir:** Ibn Kathir notes: The most correct view is that a generation refers to nations who are one another's contemporaries, living at the same time.
 ## Personal Reflections
-
 

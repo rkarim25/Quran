@@ -97,13 +97,5 @@ In verse 41 and 42, it was said: وَآيَةٌ لَّهُمْ أَنَّا حَ
 
 Another sign for them is that We carried their ancestors with Noah in the fully loaded Ark,
 
-## AI Tafsir
-
-**What this ayah teaches:** And an Ayah for them is that We bore their offspring in the laden ship (41)And We have created for them of the like thereunto, on which they ride (42)And if We will, We shall drown them, and there will be no shout for them, nor will they be saved (43)Unless it be a mercy from Us, and as an enjoyment for a while .
-
-**Classical tafsir:** Ibn Kathir notes: Thus, the sense of the verse is to emphasize that it is not only they who were riding the boat, but there also were young children and aged men and women and their belongings with them.
-
-**From the Sunnah:** " Ibn Jarir recorded that Ibn 'Abbas, may Allah be pleased with him, said, "Do you know what the Ayah:
 ## Personal Reflections
-
 

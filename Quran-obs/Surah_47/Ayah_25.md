@@ -149,13 +149,5 @@ That is, how their situation will be when the angels come to take their lives, a
 
 Those who turn back to denial after guidance has become clear to them—Satan has enticed them and filled them with false hopes.
 
-## AI Tafsir
-
-**What this ayah teaches:** Will they not then reflect upon the Qur'an, or are there locks upon their hearts (24)Verily, those who have turned back as those who reject the truth after guidance had become clear to them – Shaytan has enticed them and filled them with false hopes (25)That is because they said to those who hate what Allah has sent down: "We will obey you in part of the matter." And Allah knows their secret…
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** Ibn Jarir recorded from Hisham bin 'Urwah, from his father, may Allah be pleased with him, that Allah's Messenger ﷺ once recited this Ayah,
 ## Personal Reflections
-
 

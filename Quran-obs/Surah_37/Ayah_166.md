@@ -118,11 +118,5 @@ Immediately next within verse 158 it was said: وَلَقَدْ عَلِمَتِ
 
 And we are indeed the ones constantly glorifying His praise."
 
-## AI Tafsir
-
-**What this ayah teaches:** They are the heedless ones.)(7:179).
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

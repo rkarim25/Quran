@@ -115,11 +115,5 @@ It is worth noting here that this saying of Musa (علیہ السلام) has est
 
 And there came a man, rushing from the farthest end of the city. He said, “O Moses! The chiefs are actually conspiring against you to put you to death, so leave the city. I really advise you to do so.”
 
-## AI Tafsir
-
-**What this ayah teaches:** And there came a man running, from the farthest end of the city. Therefore, by declaring him a criminal he vowed not to help such a person again.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, by declaring him a criminal he vowed not to help such a person again.
 ## Personal Reflections
-
 

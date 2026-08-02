@@ -111,13 +111,5 @@ There are different versions about the method for the weighing of deeds, and all
 
 As for those whose scale is heavy with good deeds, it is they who will be successful.
 
-## AI Tafsir
-
-**What this ayah teaches:** As for the Muslims who have committed sins and whose good deeds and evil deeds will be placed in the two pans of the scale for weighing, there is no specific mention about them in the Qur'an which is, in general, silent about the punishment and reward of erring Muslims.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** In this verse there is a comparison between perfect Muslims and the infidels and their deeds and the end which awaits them. Paradise and if their evil deeds exceed their good by a single deed, they would go to Hell. (Sahih Muslim)
 ## Personal Reflections
-
 

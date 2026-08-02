@@ -229,13 +229,5 @@ In this mortal world, the customary practice of Allah Almighty is to cause the d
 
 If you have suffered injuries, they suffered similarly. We alternate these days among people so that Allah may reveal those who have iman, choose martyrs from among you—and Allah does not like the wrongdoers— and distinguish those who have iman and destroy those who reject the truth.
 
-## AI Tafsir
-
-**What this ayah teaches:** This is a plain statement for mankind), meaning, the Qur'an explains the true reality of things and narrates how the previous nations suffered by the hands of their enemies. Therefore, the Ayah says, if you suffered injuries and some of you were killed, then your enemies also suffered injuries and fatalities.
-
-**Classical tafsir:** Ibn Kathir notes: This is a plain statement for mankind), meaning, the Qur'an explains the true reality of things and narrates how the previous nations suffered by the hands of their enemies.
-
-**From the Sunnah:** Paradise before Allah knows (tests) those of you who performed Jihad and knows (tests) those who are patient (142)You did indeed wish for death before you met it. The second verse that follows gives consolation to Muslims from another angle. (Sahih Muslim)
 ## Personal Reflections
-
 

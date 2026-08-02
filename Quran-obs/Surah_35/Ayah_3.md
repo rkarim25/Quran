@@ -131,11 +131,5 @@ And when Sayyidna Abu Hurairah ؓ saw rain falling, he used to say: مُطِرن
 
 O humanity, remember Allah's favours upon you. Is there any creator besides Allah who provides for you from the heavens and the earth? There is no god worthy of worship except Him—so how are you deluded?
 
-## AI Tafsir
-
-**What this ayah teaches:** The Evidence of Tawhid Allah shows His servants that they should worship Him Alone, for just as He is Independent in His power of creation and provision, so He should be worshipped Alone with no partners or associates such as idols and false gods.
-
-**Classical tafsir:** Ibn Kathir notes: Trust in Allah delivers from all hardships The lesson taught by the cited verse (2) to all human beings is that one should not hope any benefit or fear any harm from anyone other than Allah, instead, one should keep his or her sight trained towards Allah alone.
 ## Personal Reflections
-
 

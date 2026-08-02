@@ -120,13 +120,5 @@ This verse is a proof of punishment in graves. Uninterrupted reports of ahadith 
 
 The arrogant will say: "We are all in it! Allah has already passed judgment over His servants."
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, Allah has judged between (His) servants! The Dispute of the People of Hell Allah tells us how the people of Hell will dispute and argue with one another, and Fir'awn and his people will be among them.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** Uninterrupted reports of ahadith and the consensus (ijma) of the Muslim Ummah confirm it. (Sahih Muslim)
 ## Personal Reflections
-
 

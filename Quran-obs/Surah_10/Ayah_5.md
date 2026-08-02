@@ -243,13 +243,5 @@ For added warning, it was said at the end of the verse (5): مَا خَلَقَ 
 
 He is the One Who made the sun a radiant source and the moon a reflected light, with precisely ordained phases, so that you may know the number of years and calculation of time. Allah did not create all this except for a purpose. He makes the signs clear for people of knowledge.
 
-## AI Tafsir
-
-**What this ayah teaches:** For the usual business of life, the sharp and clear light of the day is required, while the com-paratively dim light of the night is preferred for ordinary chores.
-
-**Classical tafsir:** Ibn Kathir notes: He explains the Ayat in detail for people who have knowledge (5)Verily, in the alternation of the night and the day and in all that Allah has created in the heavens and the earth are Ayat for those who have Taqwa .
-
-**From the Sunnah:** However, this is subject to the condition that the Lunar Calendar must continue to be in use among Muslims on a collective basis, so that the occasions and timings of religious obligations such as Ramadan and Hajj are in common knowledge at all times. (Sahih Muslim) Using it, following in their footsteps, is certainly an effective cause of blessings and rewards for modern day Muslims as well.
 ## Personal Reflections
-
 

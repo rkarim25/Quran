@@ -100,11 +100,5 @@ Verses appearing immediately earlier described the many blessings of Allah Ta` a
 
 Your Allah is only One Allah. As for those who do not believe in the Akhirah, their hearts are in denial, and they are too proud.
 
-## AI Tafsir
-
-**What this ayah teaches:** But for those who believe not in the Hereafter, their hearts are in denial, and they are proud (22)Certainly, Allah knows what they conceal and what they reveal.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, it was said: When it stands proved that Allah alone made the heavens and the earth, made the mountains and rivers, vegetation and animals, trees and plants with their fruits and flowers, how can that most sacred Being that is the Creator of all these things become, for…
 ## Personal Reflections
-
 

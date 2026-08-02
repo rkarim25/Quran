@@ -166,11 +166,5 @@ So we say, just as the believers among the Jinns said, "O Allah! None of Your fa
 
 Weigh with equity and do not give short measure.
 
-## AI Tafsir
-
-**What this ayah teaches:** The opening part of verse [ 9] was the positive aspect of the injunction, and the concluding part is its negative aspect, in that it is unlawful to fall short of measure or weight. The two parts, positive and negative, put together the verse as a whole means 'Do not cheat in weights and measures, but rather observe justice and fairness'.
-
-**Classical tafsir:** Ibn Kathir notes: Mujahid said, "An-Najm (the star); the one that is in the sky." Al-Hasan and Qatadah said similarly.
 ## Personal Reflections
-
 

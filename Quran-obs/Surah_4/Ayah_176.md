@@ -362,15 +362,5 @@ Praised be Allah. Surah al-Nis-a' ends here
 
 They ask you. Say, “Allah gives you a ruling regarding those who die without children or parents.” If a man dies childless and leaves behind a sister, she will inherit one-half of his estate, whereas her brother will inherit all of her estate if she dies childless. If this person leaves behind two sisters, they together will inherit two-thirds of the estate. But if the deceased leaves male and female siblings, a male’s share will be equal to that of two females. Allah makes clear to you so you do not go astray. And Allah has knowledge of all things.
 
-## AI Tafsir
-
-**Context:** The verse (176) was revealed in answer to the question posed by some Companions of the Holy Prophet ﷺ regarding the inheritance of a Kalalah. Kalalah means a person who dies leaving neither children nor parents.
-
-**What this ayah teaches:** If the sister referred to in Para (1) above dies, and leaves children, and her brother is alive, then he will get the whole property left by her.
-
-**Classical tafsir:** Ibn Kathir notes: and he will be her heir if she has no children.) This Ayah means, the brother inherits all of that his sister leaves behind if she has no surviving offspring or parents.
-
-**From the Sunnah:** the last Surah to be revealed was Surah Bara'ah (chapter 9) and the last Ayah to be revealed was, (Sahih al-Bukhari) `Umar gathered the Companions of the Messenger of Allah ﷺ once and said, "I will give a ruling concerning the Kalalah that even women will talk about…
 ## Personal Reflections
-
 

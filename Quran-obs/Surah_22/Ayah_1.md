@@ -222,15 +222,5 @@ This verse also gives a picture of the earthquake of the Day of Resurrection whe
 
 O humanity — live with taqwa toward your Rabb, the One who creates, owns, nurtures, and sustains. The violent shaking when the Hour arrives is something immense.
 
-## AI Tafsir
-
-**Context:** Commentators differ on whether this Surah is Makkan or Madani. Ibn ` Abbas ؓ has expressed two views on different occasions.
-
-**What this ayah teaches:** Verily, the earthquake of the Hour is a terrible thing.)(2.
-
-**Classical tafsir:** Ibn Kathir notes: Others said that this refers to the terror, fear, earthquakes and chaos that will happen on the Day of Resurrection, in the arena (of Judgement), after the resurrection from the graves.
-
-**From the Sunnah:** Ibn Jarir recorded that 'Alqamah commented on Allah's saying, when the Messenger of Allah ﷺ was on one of his journeys and some of his Companions had fallen behind, he raised his voice and recited these two Ayat: (Musnad Ahmad)
 ## Personal Reflections
-
 

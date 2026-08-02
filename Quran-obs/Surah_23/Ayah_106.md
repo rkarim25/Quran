@@ -93,11 +93,5 @@ This is a rebuke from Allah to the people of Hell for the disbelief, sins, unlaw
 
 They will cry, “Our Rabb! Our ill-fate took hold of us, so we became a misguided people.
 
-## AI Tafsir
-
-**What this ayah teaches:** Rebuking the People of Hell, Their Admission of Their Wretchedness and Their Request to Be Brought out of Hell This is a rebuke from Allah to the people of Hell for the disbelief, sins, unlawful deeds and evil actions that they committed, because of which they were doomed.
-
-**Classical tafsir:** Ibn Kathir notes: Rebuking the People of Hell, Their Admission of Their Wretchedness and Their Request to Be Brought out of Hell This is a rebuke from Allah to the people of Hell for the disbelief, sins, unlawful deeds and evil actions that they committed, because of which they were doomed.
 ## Personal Reflections
-
 

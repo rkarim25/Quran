@@ -141,13 +141,5 @@ Sayyidna Abdullah Ibn Mas’ ud ؓ has said that four Surah viz Al-Kahf, Maryam,
 
 The people's reckoning draws near, yet they turn away heedlessly.
 
-## AI Tafsir
-
-**What this ayah teaches:** Here, the reference is to the Day of Judgment, and its approach is in relation to bygone ages, as the ummah of Sayyidna Muhammad Al-Mustafa ﷺ is the last of them all.
-
-**Classical tafsir:** Ibn Kathir notes: They did not believe that he could be a Prophet because he was a human being like them, so how could he have been singled out to receive revelation, and not them?
-
-**From the Sunnah:** 'Abdullah said, "Banu Isra'il, Al-Kahf, Maryam, Ta Ha and Al-Anbiya' - they are among the earliest and most beautiful Surahs and they are my treasure." (Sahih al-Bukhari) that Abu Sa'id reported from the Prophet ﷺ: (Sunan an-Nasa'i)
 ## Personal Reflections
-
 

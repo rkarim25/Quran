@@ -157,13 +157,5 @@ That is, the outer aspect of actions is not sufficient. The inner aspect is also
 
 and that their striving will be seen,
 
-## AI Tafsir
-
-**Context:** Allah the Exalted explained what He has revealed in the Scripture of Ibrahim and Musa,
-
-**What this ayah teaches:** Did you observe him who turned away (from Islam)(33)And gave a little, then stopped (34)Is with him the knowledge of the Unseen so that he sees (35)Or is he not informed with what is in the Suhuf of Musa (36)And of Ibrahim who fulfilled all that (37)That no burdened person (with sins) shall bear the burden (sins) of another (38)And that man can have nothing but what he does (39)And that his deeds…
-
-**Classical tafsir:** Ibn Kathir notes: Such a person has stopped giving in charity for righteous causes and did not keep relations with kith and kin because of his miserliness, being stingy and out of fear of poverty.
 ## Personal Reflections
-
 

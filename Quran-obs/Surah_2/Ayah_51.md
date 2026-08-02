@@ -98,15 +98,5 @@ Verse 51 calls them "unjust" for having committed this sin, for 'injustice' lies
 
 And when We appointed forty nights for Moses, then you took the calf for worship in his absence, wronging yourselves.
 
-## AI Tafsir
-
-**Essence** While Musa kept his forty-night appointment with Allah, the calf became a god among his people — the swiftest betrayal after the greatest rescue.
-
-**What it teaches** Ittakhadhtum — "you took" — indicts them all as ẓālimūn: for ẓulm, Maarif ul-Quran explains, is putting a thing in other than its proper place, and idolatry does exactly that with worship itself.
-
-**The scholars** Ibn Kathir reads the forty through 7:142 — thirty nights completed by ten — and notes the verse that follows: Allah forgave them, that they might be grateful. Maarif ul-Quran adds: Musa fasted all forty on Mount Tur and was granted the Tawrah, while below Samiri fashioned the calf and the ignorant among them worshipped it.
-
-**Reflection** When rescue is fresh and guidance feels delayed, guard the heart — it is quickest then to hand its worship to something of its own making.
 ## Personal Reflections
-
 

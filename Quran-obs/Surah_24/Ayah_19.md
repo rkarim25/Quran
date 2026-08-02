@@ -132,11 +132,5 @@ The Holy Qur'an has drawn out this unique system for the prevention of obscenity
 
 Indeed, those who love to see indecency spread among the mu'mins will suffer a painful punishment in this life and the Akhirah. Allah knows and you do not know.
 
-## AI Tafsir
-
-**What this ayah teaches:** The Qur'anic system for the prevention of obscenity The Holy Qur'an has drawn out this unique system for the prevention of obscenity that, in the first place such a news should not spread, and if at all it is leaked out, it should be backed up with lawful proof, so that the punishment of adultery is also executed publicly, immediately after the spread of the news.
-
-**Classical tafsir:** Ibn Kathir notes: It is for this reason that the Holy Qur’ an has allowed publicity of such news only in such situations when it is supported with lawful evidence, so that people should see the severe punishment for the obscene crime along with the news of adultery when they learn about it.
 ## Personal Reflections
-
 

@@ -138,15 +138,5 @@ During the Khilafah of Sayyidna ` Umar ibn ` Abd al-` Aziz (رح) ، someone was
 
 We only delay it for a fixed term.
 
-## AI Tafsir
-
-**Context:** (So their Lord revealed to them: "Truly, We shall destroy the wrongdoers.)[14:13] Concerning Allah's statement, (When a party will be in Paradise and a party in the blazing Fire)[42:7] Al-Hafiz Abu Ya'la recorded in his…
-
-**What this ayah teaches:** That is a Day whereon mankind will be gathered together, and that is a Day when all will be present (103)And We delay it only for a term (already) fixed (104)On the Day when it comes, no person shall speak except by His (Allah's) leave. Indeed in that (there) is a sure lesson for those who fear the torment of the Hereafter.
-
-**Classical tafsir:** Ibn Kathir notes: This means an admonition and lesson concerning the truthfulness of that which We are promised in the Hereafter.
-
-**From the Sunnah:** There is a consensus of the entire Muslim Ummah that doing so is strictly Haram (unlawful). (Sahih Muslim)
 ## Personal Reflections
-
 

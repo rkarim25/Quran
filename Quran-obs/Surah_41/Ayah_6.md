@@ -159,13 +159,5 @@ The infidels saying that their hearts were covered and their ears were leaden, e
 
 Say: "I am only a man like you, but it has been revealed to me that your Lord is Allah alone. So take the Straight Path toward Him and seek His forgiveness. Woe to those who commit shirk—giving devotion owed to Allah alone to others—
 
-## AI Tafsir
-
-**Context:** Say: "I am only a human being like you. It is revealed to me that your Allah is One Allah, therefore take straight path to Him and obedience to Him, and seek forgiveness of Him.
-
-**What this ayah teaches:** It is revealed to me that your Allah is One Allah, therefore take straight path to Him and obedience to Him, and seek forgiveness of Him.
-
-**Classical tafsir:** Ibn Kathir notes: Qatadah said, "They withheld the Zakah of their wealth." This is the apparent meaning according to many of the scholars of Tafsir, and this is the view favored by Ibn Jarir. The Zakah paid on one's wealth is so called because it purifies wealth, and it is a means of increasing it, blessing it and making it more beneficial, and a means of assisting one to use it in doing good deeds.
 ## Personal Reflections
-
 

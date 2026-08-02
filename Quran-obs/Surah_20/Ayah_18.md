@@ -120,11 +120,5 @@ This verse also shows that carrying a staff is a practice followed by the prophe
 
 He replied, “It is my staff! I lean on it, and with it I beat down branches for my sheep, and have other uses for it.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Rule This verse also shows that carrying a staff is a practice followed by the prophets.
-
-**Classical tafsir:** Ibn Kathir notes: It was a snake, moving quickly.) This means that the stick changed into a huge snake, like a long python, and it moved with rapid movements.
 ## Personal Reflections
-
 

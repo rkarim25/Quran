@@ -107,11 +107,5 @@ Some other commentators have explained it by saying that, overtaken by wonder, t
 
 It will only take one Blast, then at once they will see it all.
 
-## AI Tafsir
-
-**What this ayah teaches:** Given in the first verse (19) is the mode in which the dead will rise again.
-
-**Classical tafsir:** Ibn Kathir notes: Given in the first verse (19) is the mode in which the dead will rise again.
 ## Personal Reflections
-
 

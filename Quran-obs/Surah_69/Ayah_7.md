@@ -241,11 +241,5 @@ The word مُؤْتَفِكَاتُ mu'tafikat (in verse 9) means 'adjacent to o
 
 that Allah unleashed on them non-stop for seven nights and eight days, so you would have seen its people lying dead like trunks of uprooted palm trees.
 
-## AI Tafsir
-
-**What this ayah teaches:** The word husuman (in verse 7) is the plural of hasim and means 'cutting them off entirely' or 'causing them to perish completely'. Which Allah imposed on them for seven nights and eight days Husum, so that you could see men lying toppled, as if they were trunks of date palms, Khawiyah!)(8.
-
-**Classical tafsir:** Ibn Kathir notes: Qatadah said similar to this when he said, "At-Taghiyah is the shout." Mujahid said, "At-Taghiyah means the sins." This was also said by Ar-Rabi' bin Anas and bin Zayd. And We have created for them of the like thereunto, on which they ride.)(36:41,42) Qatadah said, "Allah caused this ship to remain until the first people of this Ummah saw it." However, the first view (that it refers to all ships in…
 ## Personal Reflections
-
 

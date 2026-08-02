@@ -120,13 +120,5 @@ In his prayer Sayyidna Musa (علیہ السلام) first asked that the helper 
 
 and grant me a helper from my family,.
 
-## AI Tafsir
-
-**What this ayah teaches:** The literal meaning of the word j is "one who carries a burden", and since a minister of a state carries the burden of responsibilities entrusted to him by the ruler, he is called a minister.
-
-**Classical tafsir:** Ibn Kathir notes: Ath-Thawri reported from Abu Sa'id, from 'Ikrimah, who said that Ibn 'Abbas said, "Harun was made a Prophet at the same moment that Musa was made a Prophet." Ibn Abi Hatim recorded that 'A'ishah went out intending to perform 'Umrah and stopped to camp among some bedouins.
-
-**From the Sunnah:** Ibn 'Abbas said, "Harun was made a Prophet at the same moment that Musa was made a Prophet." Ibn Abi Hatim recorded that 'A'ishah went out intending to perform 'Umrah and stopped to camp among some bedouins.
 ## Personal Reflections
-
 

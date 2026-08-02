@@ -124,13 +124,5 @@ The reasoning for this he gave إِنَّ مَعِيَ رَ‌بِّي سَيَ�
 
 “My Rabb! Grant me wisdom, and join me with the righteous.
 
-## AI Tafsir
-
-**What this ayah teaches:** Bestow Hukm on me, and join me with the righteous (83)And grant me an honorable mention in later generations (84)And make me one of the inheritors of the Paradise of Delight (85)And forgive my father, verily, he is of the erring (86)And disgrace me not on the Day when they will be resurrected (87)The Day whereon neither wealth nor sons will avail (88)Except him who brings to Allah a clean heart .
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** Paradise to the those who reject the truth. (Sunan an-Nasa'i)
 ## Personal Reflections
-
 

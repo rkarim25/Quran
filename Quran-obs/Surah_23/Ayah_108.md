@@ -95,11 +95,5 @@ Then Allah will remind them of their sins in this world and how they used to mak
 
 Allah will respond, “Be despised in there! Do not ever plead with Me again!
 
-## AI Tafsir
-
-**What this ayah teaches:** Allah's Response and Rejection of the those who reject the truth This is the response of Allah to the those who reject the truth when they ask Him to bring them out of the Fire and send them back to this world. Then he will respond and tell them that they are to abide therein.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

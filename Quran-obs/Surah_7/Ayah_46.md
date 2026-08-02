@@ -179,13 +179,5 @@ After having gone through the description and definition of the people of A` raf
 
 There will be a barrier between Paradise and Hell. And on the heights will be people who will recognize both by their appearance. They will call out to the residents of Paradise, “Peace be upon you!” They will have not yet entered Paradise, but eagerly hope to.
 
-## AI Tafsir
-
-**What this ayah teaches:** As a corollary of the dialogue between those in Paradise and Hell, there is something else pointed to in this verse - that there will be some people who had their deliverance from Hell but had not yet found entry into Paradise, though they did hope that they would.
-
-**Classical tafsir:** Ibn Kathir notes: Place us not with the people who are wrongdoers.") Ad-Dahhak reported that Ibn 'Abbas said, "When the people of Al-A'raf look at the people of the Fire and recognize them, they will supplicate, 'O Lord! The top portion of the wall is known as Al-A` raf because it is the plural form of ` Urf and ` Urf refers to the top portion of everything as it is distinct and recognizable from a distance.
-
-**From the Sunnah:** Paradise, and their good deeds qualified them to avoid the Fire.
 ## Personal Reflections
-
 

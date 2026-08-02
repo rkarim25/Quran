@@ -159,11 +159,5 @@ In the later part of verse 51, it was said: يَوْمَ يَقُومُ الْأ
 
 So be patient, O Prophet—Allah's promise is certainly true. Seek forgiveness for your shortcomings. And glorify your Lord morning and evening.
 
-## AI Tafsir
-
-**What this ayah teaches:** Then Allah took him (in death), because of his high status and honor, and He established his Companions as his Khalifahs. This verse carries the promise of Allah Ta’ ala that He would keep helping His messengers and believers, both in the present world and in the Hereafter.
-
-**Classical tafsir:** Ibn Kathir notes: Then Allah took him (in death), because of his high status and honor, and He established his Companions as his Khalifahs.
 ## Personal Reflections
-
 

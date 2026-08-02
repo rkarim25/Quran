@@ -165,13 +165,5 @@ Ends here
 
 This is so the People of the Book may know they have no power over any of Allah's bounty, and that all bounty is in Allah's Hand. He gives it to whom He wills. Allah's bounty is immense.
 
-## AI Tafsir
-
-**What this ayah teaches:** And Allah is the Owner of great bounty.) This is the end of the Tafsir of Surat Al-Hadid, all praise is due to Allah, and all favors come from Him.
-
-**Classical tafsir:** Ibn Kathir notes: And Allah is Oft-Forgiving, ar-Rahim (28)So that the People of the Scriptures may know that they have no power whatsoever over the grace of Allah, and that (His) grace is in His Hand to bestow it on whomsoever He wills.
-
-**From the Sunnah:** Earlier we mentioned a Hadith that An-Nasa'i collected from Ibn 'Abbas that this Ayah is about the People of the Scriptures who believe in Islam, and that they will earn double their reward if they do so.
 ## Personal Reflections
-
 

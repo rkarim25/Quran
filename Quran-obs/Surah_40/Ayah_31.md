@@ -142,13 +142,5 @@ Earlier in the verse, by saying: مُّؤْمِنٌ مِّنْ آلِ فِرْ�
 
 like the fate of the people of Nuh, 'Ad, Thamud, and those after them. Allah would never will to wrong His servants.
 
-## AI Tafsir
-
-**What this ayah teaches:** However, making this verbal declaration before people publicly is not necessary.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** The only reason why it is needed is that unless people come to know about the person's 'iman, they would remain unable to interact with him or her in the same way as they do with Muslims.
 ## Personal Reflections
-
 

@@ -90,13 +90,5 @@ As for the third probability, that the blessings of Jannah may remain everlastin
 
 and that My torment is indeed the most painful.
 
-## AI Tafsir
-
-**What this ayah teaches:** And that My torment is indeed the most painful torment.) meaning, 'O Muhammad, tell My servants that I am the source of mercy and I am the source of punishment.' Similar Ayat to this have already been quoted above, which indicate that we must always be in a state between hope (for Allah's mercy) and fear (of His punishment).
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** Paradise will enter Paradise with whatever enmity is left in their hearts from this world.
 ## Personal Reflections
-
 

@@ -141,11 +141,5 @@ Allah's saying;
 
 Allah will say: Do not dispute before Me. I had already warned you.
 
-## AI Tafsir
-
-**What this ayah teaches:** I had no authority over you except that I called you, and you responded to me.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

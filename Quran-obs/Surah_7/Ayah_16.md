@@ -153,13 +153,5 @@ In the cited verses (13 18), the Shaytan has been commanded to leave the heavens
 
 He said, “For leaving me to stray I will lie in ambush for them on Your Sirat al-Mustaqim—the Sirat al-Mustaqim—the way of living that pleases Allah that pleases Allah.
 
-## AI Tafsir
-
-**What this ayah teaches:** I (Iblis) will misguide them from this path so that they do not worship You Alone, because You sent me astray. Therefore, whoever among them (Children of Adam) does this and dies, it will be a promise from Allah that He admits him into Paradise.
-
-**Classical tafsir:** Ibn Kathir notes: Mujahid said that the 'straight path', refers to the truth.
-
-**From the Sunnah:** he heard the Messenger of Allah ﷺ saying, (Musnad Ahmad)
 ## Personal Reflections
-
 

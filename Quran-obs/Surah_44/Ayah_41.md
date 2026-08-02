@@ -103,11 +103,5 @@ Here Allah tells us of His justice, and that He is far above mere play, folly an
 
 the Day no kith or kin will be of benefit to another whatsoever, nor will they be helped,
 
-## AI Tafsir
-
-**What this ayah teaches:** Though they shall be made to see one another) (70:10-11) which means, he will not ask his brother about how he is, even though he can see him with his own eyes. This is far from Divine wisdom, or not in keeping with Divine wisdom; and (4) urging the thinking people to obey Allah and thank Him for having granted man this entire universe or creation as His great blessing
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

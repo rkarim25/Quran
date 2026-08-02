@@ -143,15 +143,5 @@ As for the word of forgiveness, let there be no doubt about it and let no one sa
 
 May Allah pardon you ! Why did you give them permission before those who told the truth were distinguished from those who were lying?
 
-## AI Tafsir
-
-**Context:** (May Allah forgive you. Why did you grant them leave...)?" Muwarriq Al-'Ijli and others said similarly. Qatadah said, "Allah criticized him as you read here, then later revealed to him the permission to allow them to lag…
-
-**What this ayah teaches:** He has been told that those hypocrites were lying when they presented themselves as de-serving of being excused from active service in Jihad. But, the drift of the argument is that, in case, permission was not given, they were still not going to go anyway - however, their hypocrisy would have definitely been exposed and they would not have had the opportunity to throw taunts at Muslims and exult t…
-
-**Classical tafsir:** Ibn Kathir notes: Secondly, the information that he has been forgiven for whatever had happened was being given beforehand so that what is said next should not break his blessed heart.
-
-**From the Sunnah:** And…
 ## Personal Reflections
-
 

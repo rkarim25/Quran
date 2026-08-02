@@ -259,11 +259,5 @@ Ibn Jarir, Ibn Abi Hatim, Ibn Marduwaih etc., have also quoted another explanati
 
 Now, throw down your staff!” But when he saw it slithering like a snake, he ran away without looking back. Allah reassured him, “O Moses! Do not be afraid! Messengers should have no fear in My presence.
 
-## AI Tafsir
-
-**What this ayah teaches:** Then He commanded him to throw down the stick that was in his hand, so that He might show him clear proof that He is the One Who is able to do all things, whatever He wills.
-
-**Classical tafsir:** Ibn Kathir notes: Then He commanded him to throw down the stick that was in his hand, so that He might show him clear proof that He is the One Who is able to do all things, whatever He wills.
 ## Personal Reflections
-
 

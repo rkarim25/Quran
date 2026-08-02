@@ -126,13 +126,5 @@ And the main thing in the verse is that it prohibits spending haphazardly in the
 
 Surely your Rabb gives abundant or limited provisions to whoever He wills. He is certainly All-Aware, All-Seeing of His servants.
 
-## AI Tafsir
-
-**What this ayah teaches:** He makes rich whomever He wills, and He makes poor whomever He wills, by the wisdom that is His.
-
-**Classical tafsir:** Ibn Kathir notes: And let not your hand be tied (like a miser) to your neck, nor overextend it (like a spendthrift), so that you become blameworthy and in severe poverty (29)Truly, your Lord expands the provision for whom He wills and straitens (for whom He wills).
-
-**From the Sunnah:** It was reported in the Two Sahihs from the Hadith of Abu Az-Zinad from Al-A'raj that Abu Hurayrah heard the Messenger of Allah ﷺ say: This version was recorded by Al-Bukhari in the Book of Zakah. (Sahih al-Bukhari)
 ## Personal Reflections
-
 

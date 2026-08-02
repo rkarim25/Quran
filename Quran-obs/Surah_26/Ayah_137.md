@@ -154,13 +154,5 @@ This verse indicates that the construction of houses and buildings without need 
 
 This is simply the tradition of our predecessors.
 
-## AI Tafsir
-
-**What this ayah teaches:** They used to build fortresses in the mountains and caves, and they dug ditches half as deep as a man is tall, but that did not help them against the command of Allah at all. He told them that he did not seek any reward from them for his call to them, but that he would seek the reward for that with Allah.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** In our explanation of Surat Al-A'raf, we mentioned the Hadiths which tell how the Messenger of Allah ﷺ passed by their dwelling place when he wanted to launch a raid on Syria.
 ## Personal Reflections
-
 

@@ -239,13 +239,5 @@ The Response to this False Accusation
 
 But when the truth came to them from Us, they said, “If only he was given the like of what Moses had been given.” Did they not deny what had been given to Moses earlier? They claimed, “Both Scriptures are works of magic, supporting each other!” Adding, “We truly deny both.”
 
-## AI Tafsir
-
-**Context:** (Verily, we have heard a Book sent down after Musa, confirming what came before it)(46:30). Waraqah bin Nawfal said, "This is An-Namus, who came down to Musa." And those who are possessed of insight know instinctively th…
-
-**What this ayah teaches:** Verily, Allah guides not the people who are wrongdoers (50)And indeed now We have conveyed the Word to them, in order that they may remember .
-
-**Classical tafsir:** Ibn Kathir notes: Verily, Allah guides not the people who are wrongdoers (50)And indeed now We have conveyed the Word to them, in order that they may remember .
 ## Personal Reflections
-
 

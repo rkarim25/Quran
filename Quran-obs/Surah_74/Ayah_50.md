@@ -130,13 +130,5 @@ The word tadhkirah (Reminder), in this context, refers to the Holy Qur'an, becau
 
 As if they were frightened wild donkeys
 
-## AI Tafsir
-
-**Context:** (Nay, everyone of them desires that he should be given pages spread out.) meaning, each one of these idolators wants to have a book revealed to him as Allah revealed to the Prophet ﷺ. Mujahid and others have said this.
-
-**What this ayah teaches:** 74:49) The word tadhkirah (Reminder), in this context, refers to the Holy Qur'an, because the word literally signifies a 'reminder or something that reminds'.
-
-**Classical tafsir:** Ibn Kathir notes: 74:49) The word tadhkirah (Reminder), in this context, refers to the Holy Qur'an, because the word literally signifies a 'reminder or something that reminds'.
 ## Personal Reflections
-
 

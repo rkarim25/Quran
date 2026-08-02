@@ -101,13 +101,5 @@ If only the translation of the Qur'an is written in any language without the Ara
 
 And it has indeed been foretold in the Scriptures of those before.
 
-## AI Tafsir
-
-**Context:** Then Allah tells us how intense the disbelief of Quraysh was, and how stubbornly they resisted the Qur'an. If this Book with all its eloquence had been revealed to a non-Arab who did not know one word of Arabic, they sti…
-
-**What this ayah teaches:** The Qur'an Was Mentioned in the Previous Scriptures Allah says: this Qur'an was mentioned and referred to in the previous Scriptures that were left behind by their Prophets who foretold it in ancient times and more recently.
-
-**Classical tafsir:** Ibn Kathir notes: I am the Messenger of Allah unto you, confirming the Tawrah before me, and giving glad tidings of a Messenger to come after me, whose name shall be Ahmad.)(61:6) Zubur here refers to Books; Zubur is the plural of Az-Zabur, which is also the name used to refer to the Book given to…
 ## Personal Reflections
-
 

@@ -388,13 +388,5 @@ Towards the end of the verse, it was said: إِنَّ اللَّـهَ يَحْ�
 
 O you who have iman: honour your contracts. Lawful for you are grazing livestock, except what is announced to you; and hunting is forbidden while you are in ihram for pilgrimage. Surely Allah commands what He wills.
 
-## AI Tafsir
-
-**Context:** (and pleasure.) Ibn 'Abbas said that the word 'pleasure' in the Ayah refers to, "seeking Allah's pleasure by their Hajj." 'Ikrimah, As-Suddi and Ibn Jarir mentioned that this Ayah was revealed concerning Al-Hutam bin Hin…
-
-**What this ayah teaches:** The Creator and Master who has made all these life forms is also the One who has formulated, in His perfect wisdom and insight, the law that the lower form shall be the sustenance of the higher.
-
-**Classical tafsir:** Ibn Kathir notes: Violate not the sanctity of Sha'a'ir Allah (the symbols of Allah),) Ibn 'Abbas said, "Sha'a'ir Allah means the rituals of Hajj." Mujahid said, "As-Safa and Al-Marwah, and the sacrificial animal are the symbols of Allah." It was also stated that Sha'a'ir Allah is what He prohibited.
 ## Personal Reflections
-
 

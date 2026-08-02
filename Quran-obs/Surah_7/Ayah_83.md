@@ -85,13 +85,5 @@ Sayyidna Lut (علیہ السلام) followed the Divine command. He went out of
 
 So We saved him and his family except his wife, who was one of the doomed.
 
-## AI Tafsir
-
-**What this ayah teaches:** Then We saved him and his family, except his wife; she was of the Ghabirin (those who lagged behind)(83)And We rained down on them a rain (of stones). Allah says, We saved Lut and his family, for only his household believed in him.
-
-**Classical tafsir:** Ibn Kathir notes: It refers to his own family as well as others who had joined him by embracing Islam.
-
-**From the Sunnah:** But We found not there any household of the Muslims except one [of Lut and his daughters])[51:35-36]. Allah's Messenger ﷺ said; (Musnad Ahmad, Jami' at-Tirmidhi)
 ## Personal Reflections
-
 

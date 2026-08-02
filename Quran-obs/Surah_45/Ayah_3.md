@@ -81,11 +81,5 @@ There are the angels, Jinns, humans, animals, birds, beasts, carnivores, insects
 
 Surely in the creation of the heavens and the earth are signs for believers.
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, in the heavens and the earth are signs for the believers.)(4. The revelation of the Book is from Allah, the Almighty, the All-Wise.)(3.
-
-**Classical tafsir:** Ibn Kathir notes: The revelation of the Book is from Allah, the Almighty, the All-Wise.)(3.
 ## Personal Reflections
-
 

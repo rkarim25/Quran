@@ -87,11 +87,5 @@ As for the third probability, that the blessings of Jannah may remain everlastin
 
 He wondered, “Do you give me good news despite my old age? What unlikely news!”
 
-## AI Tafsir
-
-**What this ayah teaches:** We bring you the good news of a boy possessing much knowledge and wisdom.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

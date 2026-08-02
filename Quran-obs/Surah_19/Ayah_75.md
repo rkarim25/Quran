@@ -177,11 +177,5 @@ Allah Ta` ala has dispelled the mistaken notions of the infidels by saying that 
 
 Say: "Whoever is entrenched in misguidance, the Rahman will allow them plenty of time—until they face what they were warned of: torment or the Hour. Then they will know who is worse in position and weaker in support."
 
-## AI Tafsir
-
-**What this ayah teaches:** Say: whoever is in error, the ar-Rahman will extend [circumstances] for him, until, when they see that which they were promised, either the torment or the Hour, they will come to know who is worst in position, and who is weaker in forces .
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, Allah mentioned His arguments and proofs against the worship of 'Isa, and that he was merely a creature like Adam.
 ## Personal Reflections
-
 

@@ -56,11 +56,5 @@ From this verse we learn that the people of Sayyidna Salih (علیہ السلا�
 
 And the mighty blast overtook the wrongdoers, so they fell lifeless in their homes,.
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, your Lord – He is the All-Strong, the All-Mighty (66)And As-Sayhah (awful cry) overtook the wrongdoers, so they lay (dead), prostrate in their homes (67)As if they had never lived there.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

@@ -135,11 +135,5 @@ After this, the stories of the people of ` Ad, Thamud and Nuh (علیہم الس
 
 And in Thamud—when they were told: Enjoy yourselves for a little while.
 
-## AI Tafsir
-
-**What this ayah teaches:** This ayah declares: And in ˹the story of˺ Thamûd ˹was another lesson,˺ when they were told, “Enjoy yourselves ˹only˺ for a ˹short˺ while.”
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

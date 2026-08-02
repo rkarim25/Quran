@@ -146,11 +146,5 @@ This verse explains that Allah has not created this marvelous universe with eart
 
 In fact, We hurl the truth against falsehood, leaving it crushed, and it quickly vanishes. And woe be to you for what you claim!
 
-## AI Tafsir
-
-**What this ayah teaches:** We created not the heavens and the earth and all that is between them for play (16)Had We intended to take a pastime, We could surely have taken it from Us, if We were going to do (that)(17)Nay, We fling the truth against the falsehood, so it destroys it, and behold, it disappears.
-
-**Classical tafsir:** Ibn Kathir notes: This verse explains that Allah has not created this marvelous universe with earth and the sky for amusement.
 ## Personal Reflections
-
 

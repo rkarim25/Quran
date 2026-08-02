@@ -333,15 +333,5 @@ This is why Muslim jurists, رحمہم اللہ have said that this is a severe 
 
 In it are clear signs and the standing-place of Abraham. Whoever enters it should be safe. Pilgrimage to this House is an obligation by Allah upon whoever is able among the people. And whoever disbelieves, then surely Allah is not in need of creation.
 
-## AI Tafsir
-
-**Essence** The Sacred House at Makkah bears Allah's clear signs and grants safety to whoever enters it, and pilgrimage to it is a binding duty upon every Muslim who has the means — a duty so central that denying its obligation is disbelief, while Allah Himself stands in need of no one.
-
-**What it teaches** The ayah names three distinctions of the Ka'bah: it holds "clear signs" (ayat bayyinat) — chief among them the Maqam Ibrahim, the stone on which Ibrahim (peace be upon him) stood to raise the walls; whoever enters its sanctuary (Haram) "attains security" (amin); and Hajj — literally "to intend," realized as the tawaf of the House and the standing at 'Arafat and Muzdalifah — is "a duty mankind owes to Allah" for whoever is "able to undertake the journey" (man istata'a ilayhi sabilan). The closing words, "whoever disbelieves, then Allah is free of need (ghaniyy) of all the worlds," show that human obedience adds nothing to Allah; the loss of neglecting His command falls only on the servant.
-
-**The scholars** Ibn Kathir explains that the "clear signs" prove Ibrahim built the Ka'bah and that Allah honored and blessed it; Mujahid said the impression of Ibrahim's feet remains on the Maqam as a clear sign, and 'Umar bin 'Abdul-'Aziz, Al-Hasan, Qatadah, As-Suddi, Muqatil bin Hayyan and others said the like. The Maqam first stood next to the House until 'Umar bin Al-Khattab moved it eastward so the tawaf-makers and those praying would not crowd one another. On "whoever enters it is secure," Ibn Kathir holds this safety is legal — a criminal who flees into the Haram is not punished there but compelled to leave it first — and reports from Al-Hasan Al-Basri that even in Jahiliyyah a murderer wearing wool around his neck would walk untouched within the sanctuary; Maarif adds that Allah placed a built-in awe of the House in human hearts, so that a man whose father was killed would let the killer pass unharmed. On the obligation, Ibn Kathir cites the consensus that Hajj is a pillar of Islam, binding once in a lifetime on the able adult Muslim; Maarif details that "ability" means resources surplus to one's needs and one's family's upkeep, bodily soundness, a secure route, and for a woman the company of a mahram. On the final clause, Ibn 'Abbas, Mujahid and others held that whoever denies Hajj is obligatory becomes a disbeliever, "and Allah is far Richer than to need him" — Maarif adds that one who affirms the duty yet abandons it despite ability falls under the verse as stern warning, acting like those who disbelieve.
-
-**Reflection** If Allah has granted you the means, do not delay answering His call to His House — for the obligation is a gift, and the loss in neglect is yours alone.
 ## Personal Reflections
-
 

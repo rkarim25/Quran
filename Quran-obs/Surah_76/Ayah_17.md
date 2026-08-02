@@ -195,11 +195,5 @@ Allah says,
 
 They are given a drink flavoured with ginger
 
-## AI Tafsir
-
-**What this ayah teaches:** Then on another occasion they will be given a drink mixed with ginger, and it is hot.
-
-**Classical tafsir:** Ibn Kathir notes: This refers to Paradise and its beauty, its vastness, its loftiness and the joy and happiness it contains.
 ## Personal Reflections
-
 

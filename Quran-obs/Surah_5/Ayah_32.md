@@ -412,15 +412,5 @@ And Sayyidna al-Murtada ؓ said: 'Even the smallest deed done with Taqwa is not 
 
 That is why We ordained for the Children of Israel that whoever takes a life—unless as a punishment for murder or mischief in the land—it will be as if they killed all of humanity; and whoever saves a life, it will be as if they saved all of humanity. Our messengers already came to them with clear proofs, many of them still transgressed afterwards through the land.
 
-## AI Tafsir
-
-**Context:** (Allah is Of-Forgiving, ar-Rahim,) "Were revealed about the idolators. Therefore, the Ayah decrees that, whoever among them repents before you apprehend them, then you have no right to punish them.
-
-**What this ayah teaches:** And indeed, there came to them Our Messengers with Al-Bayyinat, even then after that many of them continued to exceed the limits in the land (32)The recompense of those who wage war against Allah and His Messenger and do mischief in the land is only that they shall be killed or crucified, or their hands and their feet be cut off on opposite sides, or be exiled from the land.
-
-**Classical tafsir:** Ibn Kathir notes: This view is supported by the fact that the word Aw (or), indicates a choice.
-
-**From the Sunnah:** That is their disgrace in this world, and a great torment is theirs in the Hereafter (33)Except for those who (having fled away and then…
 ## Personal Reflections
-
 

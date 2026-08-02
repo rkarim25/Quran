@@ -246,15 +246,5 @@ Then, a man from among the people present said, "It is as if the Messenger of Al
 
 The most wretched will avoid it,
 
-## AI Tafsir
-
-**Context:** This Surah was revealed in Makkah before the migration to Al-Madinah. The proof of this is what Al-Bukhari recorded from Al-Bara' bin 'Azib, that he said, "The first people to come to us (in Al-Madinah) from the Companio…
-
-**What this ayah teaches:** The reminder will be received by him who fears,)(11.
-
-**Classical tafsir:** Ibn Kathir notes: The reminder will be received by him who fears,)(11.
-
-**From the Sunnah:** Then 'Umar bin Al-Khattab came with a group of twenty people, after which the Prophet ﷺ came. (Sahih al-Bukhari) It has been confirmed in the Two Sahihs that the Messenger of Allah ﷺ said to Mu'adh,
 ## Personal Reflections
-
 

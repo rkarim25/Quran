@@ -161,11 +161,5 @@ Glorious is the One who made stellar formations in the sky and placed therein a 
 
 placing the moon as reflected light within them and the sun as a radiant lamp?
 
-## AI Tafsir
-
-**What this ayah teaches:** The prepositional phrase in the verse apparently indicates that the moon is placed in the body of the heavens.
-
-**Classical tafsir:** Ibn Kathir notes: This means that He will give you more wealth, more children and gardens with various types of fruits.
 ## Personal Reflections
-
 

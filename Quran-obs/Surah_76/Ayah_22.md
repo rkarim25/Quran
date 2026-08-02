@@ -219,11 +219,5 @@ Ends here
 
 They are told, 'All this is your reward. Your striving has been appreciated.'
 
-## AI Tafsir
-
-**What this ayah teaches:** This is among the things of which there is nothing like in this world.
-
-**Classical tafsir:** Ibn Kathir notes: This refers to Paradise and its beauty, its vastness, its loftiness and the joy and happiness it contains.
 ## Personal Reflections
-
 

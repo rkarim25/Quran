@@ -89,13 +89,5 @@ If someone has a doubt that just as the truth of an event cannot be verified wit
 
 And Allah makes His commandments clear to you, for Allah is All-Knowing, All-Wise.
 
-## AI Tafsir
-
-**What this ayah teaches:** A doubt and its answer If someone has a doubt that just as the truth of an event cannot be verified without a proof, and hence it is unlawful to mention it and spread it, likewise, the report of that event should not be believed to be a lie and a 'terrible calumny' without a proof of its being a lie.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** Then if a person has any unsuitable thoughts about them, insinuated into his mind and imagination by Shaytan, he should not speak about that, for the Prophet ﷺ said: In this verse the same advice is repeated which was imparted in an earlier verse, with further elaboration as to what should the Muslims do in such a situation when they hear a rumor.
 ## Personal Reflections
-
 

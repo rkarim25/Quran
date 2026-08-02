@@ -112,13 +112,5 @@ Therefore the best friendship, in respect of this world as well as the Hereafter
 
 Indeed, the wicked will be in the torment of Hell forever.
 
-## AI Tafsir
-
-**What this ayah teaches:** The idolators were trying their utmost to find ways of refuting the truth with falsehood, but Allah planned it so that the consequences of that would backfire on them. 134, v.4) Therefore the best friendship, in respect of this world as well as the Hereafter, is the one that is for the sake of Allah.
-
-**Classical tafsir:** Ibn Kathir notes: And 'love for the sake of Allah' means to love someone because he is a true follower of the religion prescribed by Allah.
-
-**From the Sunnah:** Paradise as You have shown to me, and be pleased with him, as you have been with me. (Sahih Muslim) Many are the merits stated in 'ahadith' for those two Muslims who love each other purely for the sake of Allah.
 ## Personal Reflections
-
 

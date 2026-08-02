@@ -160,13 +160,5 @@ The non-believers demanded that the Holy Prophet ﷺ should show them the exact 
 
 Say: I do not know whether what you are promised is near, or whether my Rabb has set it far off.
 
-## AI Tafsir
-
-**What this ayah teaches:** The Messenger of Allah (ﷺ) does not know when the Hour will be Allah commands His Messenger ﷺ to say to the people that he has no knowledge of when the Hour will be and he does not know whether its time is near or far.
-
-**Classical tafsir:** Ibn Kathir notes: In this noble Ayah is an evidence that the Hadith that many of the ignorant people often circulate, which says that the Prophet ﷺ will not remain under the earth more than one thousand years (i.e., the Hour will be before that period) is a baseless lie.
-
-**From the Sunnah:** In this noble Ayah is an evidence that the Hadith that many of the ignorant people often circulate, which says that the Prophet ﷺ will not remain under the earth more than one thousand years (i.e., the Hour will be before that period) is a baseless lie.
 ## Personal Reflections
-
 

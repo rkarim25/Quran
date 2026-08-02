@@ -159,11 +159,5 @@ Upto this point, the text was dealing with injunctions relating to fighting and 
 
 If they intend to betray you, they already betrayed Allah before, and He gave you authority over them. Allah is All-Knowing, All-Wise.
 
-## AI Tafsir
-
-**What this ayah teaches:** They are the injunctions of Hijrah (Emigration) - because, situations can arise during a confrontation with those who reject the truth wherein neither the Muslims have the power to launch an attack against them and kill them off, nor are they willing to go for peace.
-
-**Classical tafsir:** Ibn Kathir notes: To sum up, it can be said that, in verse 70, the da'wah of Islam was given to the released prisoners in the mode of persuasion - while in verse 71, it was in the mode of warning that they were told that success in their worldly life and in their life to come depends on Islam and…
 ## Personal Reflections
-
 

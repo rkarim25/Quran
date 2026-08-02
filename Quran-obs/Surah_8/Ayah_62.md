@@ -139,13 +139,5 @@ It means that should this very probability turn out to be the reality on the gro
 
 If they intend to deceive you, Allah is sufficient for you. He is the One who supported you with His help and with the believers.
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, He is the All-Hearer, the All-Knower (61)And if they intend to deceive you, then verily, Allah is All-Sufficient for you.
-
-**Classical tafsir:** Ibn Kathir notes: It means that should this very probability turn out to be the reality on the ground - that their intention is bad and they stop at nothing short of a deceptive strike against you - even then, you do not have to bother about it because Allah is sufficient as your supporter.
-
-**From the Sunnah:** This is why when the pagans inclined to peace in the year of Hudaybiyah and sought cessation of hostilities for nine years, between them and the Messenger of Allah ﷺ he accepted this from them, as well as, accepting other terms of peace they brought forth. (Musnad Ahmad) Allah mentioned His favor on the Prophet ﷺ, in that He aided him with believers, the Muhajirin and the Ansar,
 ## Personal Reflections
-
 

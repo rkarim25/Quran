@@ -192,13 +192,5 @@ Sayyidna Abu Bakr Siddiq ؓ reports that Allah's Messenger ﷺ said: Recite لا
 
 So know that there is no god worthy of worship except Allah. Seek forgiveness for your shortcomings and for the believing men and women. Allah knows how you move and where you settle.
 
-## AI Tafsir
-
-**What this ayah teaches:** The Holy Prophet ﷺ is infallible and immune from sin, and therefore the possibility that he would commit sins is unthinkable.
-
-**Classical tafsir:** Ibn Kathir notes: As a matter of fact, all the meanings attached to the phrase are correct, sound, authentic and true, because human beings are confronted by two types of conditions: in the one case their invovement in something is temporary, and other case it is permanent.
-
-**From the Sunnah:** They used to sit before Allah's Messenger ﷺ and listen to his words without understanding anything. Allah's Messenger ﷺ has most clearly informed about the signs and indications of the Hour, as we have discussed elsewhere.
 ## Personal Reflections
-
 

@@ -198,11 +198,5 @@ The Holy Prophet ﷺ used to be hurt by the stubbornness of the obdurate rejecte
 
 They say, 'Then such a return would be a total loss!'
 
-## AI Tafsir
-
-**What this ayah teaches:** They feel that this is something impossible after the destruction of their physical bodies and the disintegration of their bones and their decaying.
-
-**Classical tafsir:** Ibn Kathir notes: The statement that 'the soul is in ` Alam-ul-arwah or ` illiyyun' is also true, because the 'soul' in this context refers to ruh mujarrad or 'abstract spirit'.
 ## Personal Reflections
-
 

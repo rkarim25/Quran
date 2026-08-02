@@ -129,13 +129,5 @@ From this event too, the real thing becomes clear, that is, no one other than a 
 
 And how can you be patient with what is beyond your realm of knowledge?”
 
-## AI Tafsir
-
-**Context:** The majority holds Al-Khadir (علیہ السلام) to be a prophet and his knowledge was the gnosis of (the inner dimensions of the human) self which was revealed to him and the knowledge of Musa (علیہ السلام) was of the injunct…
-
-**What this ayah teaches:** In fact, when he saw the incident of a boy having been killed, he objected vehemently and' did not offer any excuse whatsoever for his objection either.
-
-**Classical tafsir:** Ibn Kathir notes: That nobody can have now because prophet-hood has ended.
 ## Personal Reflections
-
 

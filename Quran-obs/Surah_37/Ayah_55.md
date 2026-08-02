@@ -127,13 +127,5 @@ Anyhow, whoever this person may be - it does not matter. This event has been men
 
 Then he and the others will look and spot him in the midst of the Hellfire.
 
-## AI Tafsir
-
-**What this ayah teaches:** Therefore, it cannot be said with any degree of certainty as to who this person could be. Therefore, it is better to take one's guard right here in this world in matters concerning the taking of friends and promoting of relationships, something that must be done with due caution and judgment.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, it cannot be said with any degree of certainty as to who this person could be.
-
-**From the Sunnah:** Abu Ja'far bin Jarir recorded that Furat bin Tha'labah Al-Bahrani said concerning the Ayah, Paradise – and he gave one thousand Dinars in charity.
 ## Personal Reflections
-
 

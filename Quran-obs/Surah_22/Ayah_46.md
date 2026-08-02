@@ -184,11 +184,5 @@ Travels undertaken to acquire insight into things and to learn lessons from the 
 
 Have they not travelled throughout the land so their hearts may reason, and their ears may listen? Indeed, it is not the eyes that are blind, but it is the hearts in the chests that grow blind.
 
-## AI Tafsir
-
-**What this ayah teaches:** But I granted respite to the those who reject the truth for a while, then I seized them, and how (terrible) was My punishment (44)And many a township did We destroy while they were given to wrongdoing, so that it lie in ruins, and a deserted well and castle Mashid (45)Have they not traveled through the land, and have they hearts wherewith to understand and ears wherewith to hear Verily, it i…
-
-**Classical tafsir:** Ibn Kathir notes: Even if the physical eyes are sound, they still cannot learn the lesson.
 ## Personal Reflections
-
 

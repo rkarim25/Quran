@@ -254,15 +254,5 @@ This debating style of Sayyidna Ibrahim (علیہ السلام) provides some im
 
 And how should I fear your associate-gods, while you have no fear in associating with Allah—a practice He has never authorized? Which side has more right to security? if you really know!”
 
-## AI Tafsir
-
-**Context:** (Verily! Joining others in worship with Allah is a great Zulm (wrong) indeed.)[31:13], was later revealed." Imam Ahmad recorded that 'Abdullah said, "When this Ayah was revealed,
-
-**What this ayah teaches:** Will you not then remember (80)And how should I fear those whom you associate in worship with Allah, while you fear not that you have joined in worship with Allah things for which He has not sent down to you any Sultan. Therefore, how can I ever consider your misguided statements and false doubts?
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, how can I ever consider your misguided statements and false doubts?
-
-**From the Sunnah:** And who among us did not commit Zulm against himself? Joining others in worship with Allah is a great Zulm (wrong) indeed.)[31:13], was later revealed." Imam Ahmad recorded that 'Abdullah said, "When this Ayah was revealed, (Musnad Ahmad)
 ## Personal Reflections
-
 

@@ -125,11 +125,5 @@ After that it was said that Allah Ta’ ala, if He had so willed, would have mad
 
 It is upon Allah alone to clearly show the Straight Way. Other ways are deviant. Had He willed, He would have easily imposed guidance upon all of you.
 
-## AI Tafsir
-
-**What this ayah teaches:** After that it was said that Allah Ta’ ala, if He had so willed, would have made all of them to (compulsively) be on the right path.
-
-**Classical tafsir:** Ibn Kathir notes: And it is for this that He did create them; and the Word of your Lord has been fulfilled (i.e.
 ## Personal Reflections
-
 

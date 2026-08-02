@@ -264,22 +264,5 @@ As far as the merits of Hajj are concerned, Muslims generally know the Hadith wh
 
 Surely the first House established for humanity is the one at Bakkah—a blessed sanctuary and a guide for people.
 
-## AI Tafsir
-
-**Essence**
-The Ka'bah at Bakkah is the first House of worship Allah ever set up for mankind — a sanctuary He saturated with blessing and made a wellspring of guidance for all the worlds.
-
-**What it teaches**
-Allah declares the Ka'bah the first bayt (House) wudi'a — "set up, established" — lilnnas, for all people to worship Him through Tawaf, prayer in its vicinity, and I'tikaf. It carries two named merits: mubarak (full of barakah — growth and lasting benefit, outwardly and inwardly) and hudan lil-'alamin (a guidance for all the worlds). And it stands at Bakkah, a name of Makkah.
-
-**The scholars**
-Ibn Kathir explains this House is the Ka'bah built by Ibrahim Al-Khalil — whose religion Jews and Christians claim, yet they do not perform Hajj to the House he raised by Allah's command. On the name "Bakkah" he reports it brings Buka' (weeping, humbling) upon the tyrants and arrogant, who weep and become humble in its vicinity; it was also said people weep and gather around it. Among Makkah's many names are Al-Bayt Al-'Atiq, Al-Bayt Al-Haram, and Umm Al-Qura. Maarif ul Quran lists the three merits the verse establishes — it is the first House, it is full of blessing, and it is guidance for the world — and notes 'Abdullah ibn 'Umar, Mujahid, Qatadah and others held the Ka'bah to be the first house of the world, while a view from 'Ali (may Allah be pleased with them) is that dwellings may have existed earlier but this was the first built exclusively for worship. Maarif unpacks mubarak from barakah ("to grow, to sustain"): outwardly, though Makkah is barren desert, fruits and provisions of every kind arrive in abundance year-round for residents and the vast multitudes of pilgrims — as in "Brought toward it are fruits of everything" (28:57); inwardly, its blessings are countless, for Hajj and 'Umrah revolve around it and prayer in Al-Masjid Al-Haram earns the reward of one hundred thousand prayers. Maarif also notes the Qur'an's own wording — Ibrahim "raising up the foundations" (2:127) and Allah settling for him "the site of the House" (22:26) — indicates the foundations were already there, so Ibrahim rebuilt upon them rather than laying them anew.
-
-**From the Sunnah**
-Abu Dharr (may Allah be pleased with him) asked the Prophet (peace be upon him) which masjid was first built on earth; he said Al-Masjid Al-Haram in Makkah, then Al-Masjid Al-Aqsa in Jerusalem, with forty years between them — adding that wherever the prayer becomes due one should pray, for the whole earth was made a place of prayer. (Recorded by Imam Ahmad; Al-Bukhari and Muslim also collected it) And it is reported that after Adam and Hawwa (peace be upon them) came to earth, Allah commanded them through Jibril to build the House and circle it, telling them they were the first of people and it was the first House appointed for people. (Al-Baihaqi, Dala'il al-Nubuwwah — cited in Maarif ul Quran via Ibn Kathir)
-
-**Reflection**
-When you turn your face or your heart toward the Ka'bah, know you are facing the House Allah raised first for His worship — held, by the verse's own words, as the first House set up for mankind. Let its barakah and guidance pull your heart, like all of humanity's, back to worshipping Him alone.
 ## Personal Reflections
-
 

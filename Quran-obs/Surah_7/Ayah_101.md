@@ -177,11 +177,5 @@ Thereafter, the verse said كَذَٰلِكَ يَطْبَعُ اللَّـهُ 
 
 We have narrated to you some of the stories of those societies. Surely, their messengers came to them with clear proofs, but still they would not believe in what they had already denied. This is how Allah seals the hearts of those who reject the truth.
 
-## AI Tafsir
-
-**What this ayah teaches:** And there came indeed to them their Messengers with clear proofs, but they were not such who would believe in what they rejected before. The verse has further said, "And surely, their messengers came to them with clear signs, but they were not to believe in what they had belied earlier." It brings out their obstinate attitude towards the prophets who came to them with clear signs or miracles which…
-
-**Classical tafsir:** Ibn Kathir notes: The verse has further said, "And surely, their messengers came to them with clear signs, but they were not to believe in what they had belied earlier." It brings out their obstinate attitude towards the prophets who came to them with clear signs or miracles which are a definite m…
 ## Personal Reflections
-
 

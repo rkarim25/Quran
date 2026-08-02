@@ -149,11 +149,5 @@ The Second Objection was that if the Holy Prophet ﷺ was a prophet, he should n
 
 They will be told, “Do not cry only once for destruction, but cry many times over!”
 
-## AI Tafsir
-
-**What this ayah teaches:** Furthermore, how could he be accepted as a prophet when he is neither an angel nor does an angel accompany him to endorse what he preaches, therefore it appears that he has been charmed by someone which has turned his head and that is why he talks like this.
-
-**Classical tafsir:** Ibn Kathir notes: It almost bursts up with fury)(67:7-8), which means that parts of it almost separate from other parts because of its intense hatred towards those who disbelieved in Allah.
 ## Personal Reflections
-
 

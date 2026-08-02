@@ -273,13 +273,5 @@ In short, this verse is a reminder to Muslims as well that they should not indul
 
 Neither by your wishes nor those of the People of the Book! Whoever commits evil will be rewarded accordingly, and they will find no protector or helper besides Allah.
 
-## AI Tafsir
-
-**Context:** When this verse was revealed, the noble Companions were acutely disturbed. Imam Muslim, al-Tirmidhi, al-Nasa'i and Ahmad رحمۃ اللہ علیہم have reported a narration from Sayyidna Abu Hurairah ؓ in which he said: When this…
-
-**What this ayah teaches:** No matter how noble and superior one's Prophet and Book may be, it is the deed of the adherent which will count.
-
-**Classical tafsir:** Ibn Kathir notes: The People of the Book said that they were superior to Muslims because their Prophet came before the Prophet of Islam and that their Book appeared before the Qur'an of Muslims did.
 ## Personal Reflections
-
 

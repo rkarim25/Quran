@@ -116,13 +116,5 @@ Ends here
 
 Ḥā-Mīm—disjointed letters opening a surah that will unfold Allah's unmatched wisdom and the purpose behind all creation.
 
-## AI Tafsir
-
-**Context:** (But those who disbelieve, turn away from that of which they are warned.) Meaning, the those who reject the truth are distracted from what is intended for them. Allah has indeed revealed to them a Book and sent to them a Messenger.
-
-**What this ayah teaches:** Allah then describes Himself as being of unimaginable glory, possessing ultimate wisdom in His statements and actions. It is also possible that the word hull is not used in the sense of "every" but in the sense of ` most' - as is used occasionally.
-
-**Classical tafsir:** Ibn Kathir notes: Some of the scholars take the position that the word jathiyah means ` to sit like the sitting posture in salah'.
 ## Personal Reflections
-
 

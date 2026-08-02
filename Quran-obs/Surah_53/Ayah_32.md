@@ -261,11 +261,5 @@ Sayyidah Zainab bint Abi Salamah ؓ was named by her parents as Barrah which mea
 
 those who avoid major sins and shameful acts except minor lapses. Your Rabb is vast in forgiveness. He knew you best when He produced you from the earth and while you were still fetuses in your mothers' wombs. So do not claim purity for yourselves. He knows best who has taqwa.
 
-## AI Tafsir
-
-**What this ayah teaches:** Definition of Major and Minor Sins This subject is taken up in full detail in Surah An-Nisa' in this book Vol.
-
-**Classical tafsir:** Ibn Kathir notes: [ 3:135] It should be noted that overwhelming majority of scholars concur that if a person persists in a minor sin and continues to do it in a determined way so that it becomes a habit, it will no longer be a minor sin, but will turn into a major sin.
 ## Personal Reflections
-
 

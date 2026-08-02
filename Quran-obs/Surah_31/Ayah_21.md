@@ -144,11 +144,5 @@ The manifestations of Allah's knowledge, power and blessings are endless. These 
 
 When they are told, Follow what Allah has revealed, they say: We follow only what we found our forefathers doing — even if Satan is calling them to the torment of the Blaze.
 
-## AI Tafsir
-
-**What this ayah teaches:** Is it not that, first of all, not even everything on the earth is subservient to human will and command?
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, Allah Ta` a1a did put all these things into the service of human beings but did not make them subject to their will and command.
 ## Personal Reflections
-
 

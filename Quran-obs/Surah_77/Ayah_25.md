@@ -88,11 +88,5 @@ Allah says,
 
 Have We not made the earth a dwelling
 
-## AI Tafsir
-
-**What this ayah teaches:** The earth is held in place with them so that it does not shake and sway.
-
-**Classical tafsir:** Ibn Kathir notes: The earth is held in place with them so that it does not shake and sway.
 ## Personal Reflections
-
 

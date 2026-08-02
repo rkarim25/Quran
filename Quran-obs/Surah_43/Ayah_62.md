@@ -209,13 +209,5 @@ And on the Day of Resurrection, he will be a witness against them )4:159(. This 
 
 Do not let Satan hinder you—he is certainly your sworn enemy.
 
-## AI Tafsir
-
-**What this ayah teaches:** Therefore have Taqwa of Allah and obey me.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore have Taqwa of Allah and obey me.
-
-**From the Sunnah:** Several others narrated that Ibn 'Abbas, may Allah be pleased with him, Mujahid, 'Ikrimah, As-Suddi and Ad-Dahhak said, "They laughed, i.e., they were astounded by that." Qatadah said, "They were repelled by that and they laughed." Ibrahim An-Nakha'i said, "Th… The Messenger of Allah ﷺ spoke, then An-Nadr bin Al-Harith came up to him and the Messenger of Allah ﷺ spoke to him until he ﷺ defeated him in argument.
 ## Personal Reflections
-
 

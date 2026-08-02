@@ -135,15 +135,5 @@ Sayyidah ` A'ishah ؓ is reported to have said: " Pure is He, Whose hearing enco
 
 Allah heard the exchange between the woman who pleaded with the Prophet about her husband and the ruling she sought—her whole argument, not just her words. When someone brings a grievance to Allah's Messenger, Allah hears it. He is All-Hearing, All-Seeing.
 
-## AI Tafsir
-
-**Context:** (1) Zihar is a term denoting a custom of the Arabs in the days of Ignorance. In case of disagreement with their wives they used to say to them, "You are for me like the back of my mother." After saying this, they used to…
-
-**What this ayah teaches:** Indeed Allah has heard the statement of her that disputes with you concerning her husband, and complains to Allah.
-
-**Classical tafsir:** Ibn Kathir notes: The word mujadalah means 'to plead, argue or dispute consistently and convincingly about one's problem or case'.
-
-**From the Sunnah:** "The woman who disputed" came to the Prophet ﷺ and argued with him while I was in another part of the room, unable to hear what she said. (Musnad Ahmad) this Hadith without a chain of narration in the Book of Tawhid in his Sahih. (Sahih al-Bukhari, Sunan Ibn Majah)
 ## Personal Reflections
-
 

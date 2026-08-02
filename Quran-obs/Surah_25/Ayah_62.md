@@ -204,11 +204,5 @@ It is, therefore, clear that all the modern researches and discoveries cannot be
 
 And He is the One Who causes the day and the night to alternate, as a sign for whoever desires to be mindful or to be showing shukr.
 
-## AI Tafsir
-
-**What this ayah teaches:** Blessed be He Who has placed in the heaven Al-Buruj, and has placed therein a great lamp, and a moon giving light (61)And He it is Who has put the night and the day in succession (Khilfatan), for such who desires to remember or desires to show his gratitude .
-
-**Classical tafsir:** Ibn Kathir notes: Sayyid Mahmud Alusi Baghdadi who is the greatest commentator and scholar of recent time because of his vast knowledge and understanding of not only the Qur'an and Sunnah but also of philosophy and astronomical sciences has condensed the work of all classical commentators in his f…
 ## Personal Reflections
-
 

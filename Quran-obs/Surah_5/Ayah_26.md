@@ -277,13 +277,5 @@ That it has been said: لَا تَأْسَ عَلَى الْقَوْمِ الْ�
 
 Allah replied, “Then this land is forbidden to them for forty years, during which they will wander through the land. So do not grieve for the rebellious people.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Authentic scholars of Tafsir say that the punishment Allah Jalla Sha'nuhu gives to a people is in proportion to their evil deed.
-
-**Classical tafsir:** Ibn Kathir notes: It was also said that the Ayah reads in a way that means that these men were respected and honored by their people.
-
-**From the Sunnah:** The Muslim Ummah is more respected and honored before Allah, and has a more perfect legislative code and system of life, it has the most honorable Prophet, the larger kingdom, more provisions, wealth and children, a larger domain and more lasting glory than th… (Sahih Muslim) Musa, Allah's Messenger, ordered the Children of Israel to enter Jerusalem and fight their enemy, and he promised them victory and triumph over the mighty people if they did so.
 ## Personal Reflections
-
 

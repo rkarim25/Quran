@@ -128,13 +128,5 @@ However, the hadith that informs us that the souls of the unbelievers will remai
 
 reclining on couches, gazing around.
 
-## AI Tafsir
-
-**What this ayah teaches:** Surely, they (evildoers) will be veiled from seeing their Lord that Day.)(83:15) Thus, it has been mentioned that these (righteous people) will be allowed to look at Allah while they are upon their thrones and elevated couches. This refers to a drink called Tasnim, and it is the most excellent and exalted drink of the people of Paradise.
-
-**Classical tafsir:** Ibn Kathir notes: This refers to a drink called Tasnim, and it is the most excellent and exalted drink of the people of Paradise.
-
-**From the Sunnah:** Paradise, and their abode will be the lamps suspended from [ the Divine ] Throne. (Sahih Muslim)
 ## Personal Reflections
-
 

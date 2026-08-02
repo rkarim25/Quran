@@ -140,11 +140,5 @@ Zamakhshari and some other commentators have, on the other hand, elaborated that
 
 Do you not see that Allah is glorified by all those in the heavens and the earth, even the birds as they soar? Each instinctively knows their manner of salah and glorification. And Allah has perfect knowledge of all they do.
 
-## AI Tafsir
-
-**What this ayah teaches:** Of each one He knows indeed his Salah and his glorification; and Allah is All-Aware of what they do (41)And to Allah belongs the sovereignty of the heavens and the earth, and to Allah is the return .
-
-**Classical tafsir:** Ibn Kathir notes: It indicates that all creatures are busy in Tasbih and worship of Allah Ta’ ala, but the manner of worship of each creature is different.
 ## Personal Reflections
-
 

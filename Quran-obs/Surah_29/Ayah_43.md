@@ -78,13 +78,5 @@ Sayyidna ` Amr Ibn Murrah ؓ has said that he felt very bad whenever he came acr
 
 These are parables We set for people, but none grasp them except people of knowledge.
 
-## AI Tafsir
-
-**What this ayah teaches:** He is the All-Mighty, the All-Wise (42)And these are the examples We give for mankind; but none will understand them except those who have knowledge (of Allah). But only knowledgeable persons draw benefit from them, and the people at large do not ponder, so that they could also understand the truth.
-
-**Classical tafsir:** Ibn Kathir notes: This explains that one does not become knowledgeable in the sight of Allah only by developing some understanding of Qur'an and Oath.
-
-**From the Sunnah:** This is unlike the Muslim believer, whose heart is devoted to Allah, yet he still does righteous deeds and follows the Laws of Allah, for he has grasped the most trustworthy handle that will never break because it is so strong and firm. (Sahih Muslim)
 ## Personal Reflections
-
 

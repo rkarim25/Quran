@@ -178,13 +178,5 @@ The last sentence وَ ھوَ یَتَوَلَّی اَلصَّلحِین "He he
 
 If you call them to guidance, they cannot hear. And you may see them facing towards you, but they cannot see.
 
-## AI Tafsir
-
-**What this ayah teaches:** Do they attribute as partners to Allah those who created nothing but they themselves are created (191)No help can they give them, nor can they help themselves (192)And if you call them to guidance, they follow you not. Therefore, the result is the same, whether calling the idols or shunning them.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, if an object is this weak, how can it be worshipped and invoked for provisions and aid?
-
-**From the Sunnah:** The next sentence provides us with a general rule that Allah does not only help and protect His messengers, who have special favours of Allah, but also helps and protects all the Muslims who are righteous. Therefore, the opposition or hostility of any one does not harm a true Muslim in the real sense of the word. (Sahih Muslim)
 ## Personal Reflections
-
 

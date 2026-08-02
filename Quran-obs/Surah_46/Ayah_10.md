@@ -247,11 +247,5 @@ The statement by Sayyidna Sa'd ؓ reported in some narrations of Bukhari, Muslim
 
 Say: Consider—if this Qur'an is from Allah and you deny it, while a witness from the Children of Israel has already testified to something like it and believed, yet you grow arrogant—Allah does not guide people who persist in wrongdoing.
 
-## AI Tafsir
-
-**Context:** (from Allah, and you disbelieved in it?) meaning, 'what do you think that Allah will do to you if this Book that I have come to you with is actually revealed to me from Him in order that I convey it to you, and yet you d…
-
-**What this ayah teaches:** The pagans said this only because they thought that they held a high status with Allah, and that He took special care of them. Verse 10 of this Sarah states that their falsification of the Holy Prophet ﷺ and their claim about the Qur'an that it is a forgery, is baseless firstly because, as mentioned in verse 8, if anyone lays a false claim to prophethood, he has to be eliminated by the divine puni…
 ## Personal Reflections
-
 

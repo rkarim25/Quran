@@ -78,13 +78,5 @@ Allah said:
 
 Alif-Lam-Mim — letters opening a surah about trial and trust.
 
-## AI Tafsir
-
-**What this ayah teaches:** The word 'His Face' in this verse means the very Being of Allah Ta’ ala.
-
-**Classical tafsir:** Ibn Kathir notes: The word 'His Face' in this verse means the very Being of Allah Ta’ ala.
-
-**From the Sunnah:** Hundreds of Muslims were martyred, and many a houses were demolished. (Sahih Muslim)
 ## Personal Reflections
-
 

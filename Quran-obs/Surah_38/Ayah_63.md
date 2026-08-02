@@ -137,11 +137,5 @@ Then there is the other situation. If being of the same age is taken to mean tha
 
 Were we wrong to mock them in the dunya—this temporary worldly life—or do our eyes simply fail to see them here?
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, they shall enter in the Fire!) meaning, because they are of the people of Hell.
-
-**Classical tafsir:** Ibn Kathir notes: Verily, they shall enter in the Fire!) meaning, because they are of the people of Hell.
 ## Personal Reflections
-
 

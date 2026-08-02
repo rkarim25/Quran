@@ -246,22 +246,5 @@ To sum up, Iman ایمان is not valid, if acknowledgment in the heart does not
 
 They are the ones who trust in what they cannot see, establish salah — the formal prayer at its appointed times — and give from what We have provided for them.
 
-## AI Tafsir
-
-**Essence**
-The God-fearing are defined here: hearts certain of the unseen, bodies upright in prayer, and hands open in spending from Allah's provision.
-
-**What it teaches**
-Iman bil-ghayb is accepting with total certitude what the Prophet (peace be upon him) taught of the unseen, on the basis of trust rather than sight (Ibn 'Abbas: "they trust"). Iqamat as-Salah is not merely saying the prayer but establishing it whole — its bowings, prostrations, recitation, humility and punctuality. And infaq is spending from what Allah has provided: *mimma*, "from a part, not the whole."
-
-**The scholars**
-At-Tabari prefers that Iman be faith by tongue, deed and creed together; Ibn Kathir adds that it increases and decreases, and that fear of Allah (khashyah) is its core. Abu Al-'Aliyah and Qatadah read al-ghayb as belief in Allah, His angels, Books, Messengers, the Last Day, Paradise, Fire and the meeting with Him. On spending, Ibn 'Abbas glossed it as Zakah, others as a man's spending on his family before Zakah was obligatory; Maarif holds the majority view that infaq covers obligatory Zakah, wajib alms, and voluntary charity alike.
-
-**From the Sunnah**
-Sitting with his companions as they spoke of those who had seen the Prophet, Ibn Mas'ud declared that "no person will ever acquire a better type of faith than believing in Al-Ghayb," then recited this very passage (Al-Hakim, Mustadrak). And the Prophet himself affirmed the excellence of those to come: "those who will come after you, who will believe in me although they did not see me" (Ahmad).
-
-**Reflection**
-Let faith of the heart show itself in a prayer you guard and a hand you open — for everything you hold is His gift, and He asks only a part of it back.
 ## Personal Reflections
-
 

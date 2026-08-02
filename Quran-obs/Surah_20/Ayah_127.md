@@ -95,11 +95,5 @@ Another interpretation given to these words by Sayyidna Said ibn Jubair ؓ is th
 
 This is how We reward whoever transgresses and does not believe in the revelations of their Rabb. And the punishment of the Akhirah — the everlasting life after death is far more severe and more lasting.
 
-## AI Tafsir
-
-**What this ayah teaches:** And thus do We requite him who transgresses beyond bounds and believes not in the Ayat of his Lord; and the torment of the Hereafter is far more severe and more lasting .
-
-**Classical tafsir:** Ibn Kathir notes: The answer to the question posed above is that the punishment which the evil-doers will suffer in this world refers to the chastisement which awaits them in the grave where their existence will be made miserable and beyond endurance.
 ## Personal Reflections
-
 

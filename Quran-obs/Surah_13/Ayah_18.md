@@ -173,11 +173,5 @@ The outcome of both parables is that foam does appear prominent for a while on t
 
 Those who answer their Rabb will have the finest reward. Those who do not answer—even if they owned everything on earth twice over and offered it as ransom—it would not be accepted. Strict judgment awaits them, and Hell is their home. What an evil resting place.
 
-## AI Tafsir
-
-**What this ayah teaches:** For those who answered their Lord's call is Al-Husna.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

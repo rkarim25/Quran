@@ -143,11 +143,5 @@ It was hardly to be expected that the magicians who had entered the field with a
 
 Moses warned the magicians, “Woe to you! Do not fabricate a lie against Allah, or He will wipe you out with a torment. Whoever fabricates lies is bound to fail.”
 
-## AI Tafsir
-
-**What this ayah teaches:** So one of them said, "This is not the speech of a magician, but it is the speech of a Prophet." Another said, "No, he is only a magician." There are other opinions that have been mentioned about what they discussed.
-
-**Classical tafsir:** Ibn Kathir notes: Invent not a lie against Allah...") This means, "Do not make an illusion before the people of something that is not real, making it appear as if it were a creature, when it is not really a creature.
 ## Personal Reflections
-
 

@@ -137,13 +137,5 @@ Then Allah denounces the idolators for fabricating lies and worshipping others i
 
 If We give people a taste of mercy, they grow proud. If evil afflicts them for what their hands did, they fall into despair.
 
-## AI Tafsir
-
-**Context:** And when harm touches men, they cry sincerely only to their Lord, turning to Him in repentance; but when He gives them a taste of His mercy, behold, a party of them associates partners in worship with their Lord (33)So a…
-
-**What this ayah teaches:** A group of people following a leader is called shi ah.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

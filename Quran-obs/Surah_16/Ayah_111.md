@@ -106,11 +106,5 @@ In the second verse (107), the last day of Qiyamah was mentioned for the reason 
 
 Consider the Day when every soul will come pleading for itself, and each will be paid in full for what it did, and none will be wronged.
 
-## AI Tafsir
-
-**What this ayah teaches:** Then, verily, your Lord for those who emigrated after they were put to trials and then performed Jihad, and were patient, - after this, your Lord is indeed Forgiving, ar-Rahim (110)(Remember) the Day when every person will come pleading for himself, and every one will be paid in full for what he did, and they will not be dealt with unjustly .
-
-**Classical tafsir:** Ibn Kathir notes: The One who is forced to renounce Islam will be forgiven if He does Righteous Deeds afterwards This refers to another group of people who were oppressed in Makkah and whose position with their own people was weak, so they went along with them when they were tried by them.
 ## Personal Reflections
-
 

@@ -126,11 +126,5 @@ One can arrive at the station of leadership in religion only through sabr (patie
 
 Your Rabb will decide between them on the Day of Judgment regarding their differences.
 
-## AI Tafsir
-
-**What this ayah teaches:** And We made it a guide to the Children of Israel (23)And We made from among them, leaders, giving guidance under Our command, when they were patient and used to believe with certainty in Our Ayat (24)Verily, your Lord will judge between them on the Day of Resurrection, concerning that wherein they used to differ .
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

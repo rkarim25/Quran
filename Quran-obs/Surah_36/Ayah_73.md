@@ -73,11 +73,5 @@ In verse 72: وَذَلَّلْنَاهَا لَهُمْ (And We have brought th
 
 And they derive from them other benefits and drinks. Will they not then give shukr?
 
-## AI Tafsir
-
-**What this ayah teaches:** Do they not see that We have created for them of what Our Hands have fashioned, the cattle, so that they are their owners (71)And We have subdued them unto them so that some of them they have for riding and some they eat (72)And they have (other) benefits from them, and (they get to) drink.
-
-**Classical tafsir:** Ibn Kathir notes: Do they not see that We have created for them of what Our Hands have fashioned, the cattle, so that they are their owners (71)And We have subdued them unto them so that some of them they have for riding and some they eat (72)And they have (other) benefits from them, and (they get…
 ## Personal Reflections
-
 

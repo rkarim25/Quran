@@ -137,11 +137,5 @@ Similarly, they are described here as saying:
 
 For whenever it was said to them in the world, "There is no god worthy of worship except Allah," they acted arrogantly
 
-## AI Tafsir
-
-**Context:** (I have been commanded to fight the people until they say La ilaha ill-Allah. Whoever says La ilaha illallah, he and his property are safe from me except for his obligation, and his reckoning will be with Allah, may He b…
-
-**What this ayah teaches:** Truly, when it was said to them: "La ilaha illallah," they puffed themselves up with pride.) means, in this world they were too arrogant to say these words as the believers said them. And (they) said: "Are we going to abandon our gods for the sake of a mad poet?") meaning, 'Shall we stop worshipping our gods and the gods of our forefathers just because of the words of this mad poet?' – meaning the…
 ## Personal Reflections
-
 

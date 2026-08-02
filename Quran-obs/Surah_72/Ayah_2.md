@@ -216,13 +216,5 @@ Ibn Jauzi, in his book Sifat-us-Safwah, through his own chain of authorities, re
 
 It guides to what is right, so we believed in it, and we will never commit shirk—giving anything the devotion owed to Allah alone.
 
-## AI Tafsir
-
-**Context:** (1. Say: "It has been revealed to me that a group of Jinn listened. They said: 'Verily, we have heard a wonderful Recitation!')(2.
-
-**What this ayah teaches:** 'It guides to the right path, and we have believed therein, and we shall never join anything with our Lord.')(3. This species of creation is called 'Jinn' because it literally means 'hidden' or 'invisible'.
-
-**Classical tafsir:** Ibn Kathir notes: Then he would say, 'I seek refuge with the master (Jinn) of this valley from the Jinns, or that myself, my wealth, my child or my animals are harmed in it.'" Qatadah said, "When they sought refuge with them instead of Allah, the Jinns would overcome them with harm because of that." Ibn Abi Hatim rec… This species of creation is called 'Jinn' because it literally means 'hidden' or 'invisible'.
 ## Personal Reflections
-
 

@@ -207,15 +207,5 @@ In verse 6, it was said: وَانطَلَقَ الْمَلَأُ مِنْهُم�
 
 "Was the Reminder revealed only to him out of all of us?" In truth they doubt My Reminder because they have not yet tasted My punishment.
 
-## AI Tafsir
-
-**Context:** (Has he made the gods into One Allah. Verily, this is a curious thing!) Then this passage was revealed, from this Ayah to the Ayah: When they said this, it indicated their ignorance and lack of understanding since they tho…
-
-**What this ayah teaches:** The idolators – may Allah curse them – denounced that and were amazed at the idea of giving up Shirk, because they had learned from their forefathers to worship idols and their hearts were filled with love for that.
-
-**Classical tafsir:** Ibn Kathir notes: The idolators – may Allah curse them – denounced that and were amazed at the idea of giving up Shirk, because they had learned from their forefathers to worship idols and their hearts were filled with love for that.
-
-**From the Sunnah:** Allah tells us that the idolators wondered at the sending of the Messenger of Allah ﷺ as a bringer of glad tidings and a warner.
 ## Personal Reflections
-
 

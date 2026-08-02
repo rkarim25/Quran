@@ -294,15 +294,5 @@ Obviously, science and technology does not create anything, but it merely shows 
 
 Who created and perfectly fashioned all things,
 
-## AI Tafsir
-
-**Context:** This Surah was revealed in Makkah before the migration to Al-Madinah. The proof of this is what Al-Bukhari recorded from Al-Bara' bin 'Azib, that he said, "The first people to come to us (in Al-Madinah) from the Companio…
-
-**What this ayah teaches:** As a matter of fact, He guided the entire creation by equipping each member of it with suitable nature to function for which it was created, whether the member is the sky or celestial creation, or it is the earth or the earthly creation.
-
-**Classical tafsir:** Ibn Kathir notes: This word is derived from taswiyah, and it literally means 'to make well or equal'.
-
-**From the Sunnah:** Then 'Umar bin Al-Khattab came with a group of twenty people, after which the Prophet ﷺ came. (Sahih al-Bukhari) It has been confirmed in the Two Sahihs that the Messenger of Allah ﷺ said to Mu'adh,
 ## Personal Reflections
-
 

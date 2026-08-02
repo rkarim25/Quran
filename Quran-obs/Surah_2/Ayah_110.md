@@ -189,15 +189,5 @@ This command to show forbearance towards the Jews was proper to the situations o
 
 Establish salah and give zakat. Whatever good you send ahead for yourselves, you will find it with Allah. Allah sees everything you do.
 
-## AI Tafsir
-
-**Essence** Two acts anchor the believer — the prayer and the alms — and nothing spent on them is ever lost: it waits, seen and counted, with Allah.
-
-**What it teaches** Right after exposing the envy of the People of the Book, Allah does not leave the believers in resentment — He redirects them to *aqimu as-salah* and *atu az-zakah*: stand the prayer and give the purifying alms. The good you push ahead of you is an investment "with Allah," guaranteed by His being *Basir* — the All-Seeing, from whom no deed hides.
-
-**The scholars** Ibn Kathir says Allah urged the believers to busy themselves with deeds that bring "benefit and reward on the Day of Resurrection, such as prayer and paying Zakah," so they gain His aid in this life and on the Day "when the witnesses testify." On *Basir*, he writes that Allah "is never unaware of the deeds of any person, nor will these deeds be lost by Him" — rather, as he puts it, each person is awarded "according to what he or she deserves." Maarif ul Quran echoes the promise: "not a particle of one's good deeds shall be lost."
-
-**Reflection** Resentment burns; obedience builds. Turn what you would have spent stewing into a prayer prayed and a coin given — and let it go ahead of you, safe in the sight of the One who misses nothing.
 ## Personal Reflections
-
 

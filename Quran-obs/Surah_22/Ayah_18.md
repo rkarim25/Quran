@@ -241,13 +241,5 @@ Genetically, the entire universe and all created things therein are under, the c
 
 Do you not see that to Allah bow down in submission all those in the heavens and all those on the earth, as well as the sun, the moon, the stars, the mountains, the trees, and all living beings, as well as many humans, while many are deserving of punishment. And whoever Allah disgraces, none can honour. Surely Allah does what He wills.
 
-## AI Tafsir
-
-**What this ayah teaches:** The 'submission' in this sense is pre-determined, involuntary and instinctive.
-
-**Classical tafsir:** Ibn Kathir notes: Soon it will be told, "Go back the way whence you came.")" Ibn 'Abbas said: A man came and said, "O Messenger of Allah, I saw myself in a dream last night, as if I was praying behind a tree. Therefore, the homage mentioned in this verse for which the word Sajdah (Prostration) has been used means the voluntary homage.
-
-**From the Sunnah:** It was reported in a Hadith recorded by Imam Ahmad that the Messenger of Allah ﷺ forbade using the backs of animals as platforms for speaking, for, perhaps the one who was being ridden was better and remembered Allah more than the one who was riding. (Musnad Ahmad) Paradise is his; I was commanded to prostrate and I refused, so I am doomed to Hell. (Sahih Muslim)
 ## Personal Reflections
-
 

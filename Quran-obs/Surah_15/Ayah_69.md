@@ -78,11 +78,5 @@ As for the third probability, that the blessings of Jannah may remain everlastin
 
 Fear Allah and do not humiliate me.”
 
-## AI Tafsir
-
-**What this ayah teaches:** However, here the conjunction (wa, meaning "and") does not imply the sequence of events, especially since there is something to indicate that this is not the case. The People of the City arrive upon the Angels, thinking that they are Men Allah tells us about how Lut's people came to him when they found out about his handsome guests, and they came happily rejoicing about them.
-
-**Classical tafsir:** Ibn Kathir notes: However, here the conjunction (wa, meaning "and") does not imply the sequence of events, especially since there is something to indicate that this is not the case.
 ## Personal Reflections
-
 

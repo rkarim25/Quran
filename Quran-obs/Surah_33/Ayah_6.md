@@ -227,13 +227,5 @@ Soon thereafter, it was stated: إِلَّا أَن تَفْعَلُوا إِل�
 
 The Prophet has a stronger affinity to the mu'mins than they do themselves. And his wives are their mothers. As ordained by Allah, blood relatives are more entitled to inheritance than other mu'mins and immigrants, unless you want to show kindness to your close associates through bequest. This is decreed in the Record.
 
-## AI Tafsir
-
-**What this ayah teaches:** Thus, it means that the relationship of the revered rasul and his blessed wives with the believers of the community is, though of a degree which precedes even that of a mother and father but, on the injunctions relating to the distribution of inheritance, this has simply no bearing.
-
-**Classical tafsir:** Ibn Kathir notes: In other words, this means that inheritance as such will be received only on the basis of relationship - anyone unrelated will not be an inheritor - but, there may be people with whom you relate as your brothers in faith.
-
-**From the Sunnah:** Loyalty to the Prophet ﷺ; and his wives are Mothers of the Believers If any believer leaves behind any wealth, let his own relatives inherit it, but if he leaves behind any debt or orphans, bring them to me and I will take care of them.) This was recorded only by Al-Bukhari, and he also recorded it in…
 ## Personal Reflections
-
 

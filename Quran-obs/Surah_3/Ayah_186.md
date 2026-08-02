@@ -229,15 +229,5 @@ The seventh verse (186) was revealed in the background of a particular event whi
 
 You will surely be tested in your wealth and yourselves, and you will certainly hear many hurtful words from those who were given the Scripture before you and the polytheists. But if you are patient and mindful —surely this is a resolve to aspire to.
 
-## AI Tafsir
-
-**Context:** The seventh verse (186) was revealed in the background of a particular event which has been briefly referred to a little earlier in verse (181).
-
-**What this ayah teaches:** The life of this world is only the enjoyment of deception (185)You shall certainly be tried and tested in your wealth and properties and in yourselves, and you shall certainly hear much that will grieve you from those who received the Scripture before you (Jews and Christians) and from those who ascribe partners to Allah; but if you persevere patiently, and have Taqwa, then verily, that will be a…
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, Allah Alone is the Ever-Living Who never dies, while the Jinn, mankind and angels, including those who carry Allah's Throne, shall die.
-
-**From the Sunnah:** Paradise, he indeed is successful).
 ## Personal Reflections
-
 

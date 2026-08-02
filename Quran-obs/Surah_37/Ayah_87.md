@@ -60,11 +60,5 @@ In verse 84, it was said: إِذْ جَاءَ رَ‌بَّهُ بِقَلْبٍ
 
 What then do you expect from the Lord of all worlds?"
 
-## AI Tafsir
-
-**What this ayah teaches:** Then what think you about the Lord of the all that exists?) Qatadah said, "This means, 'what do you think He will do with you when you meet Him, given that you worshipped others alongside Him?" Here, 'coming to his Lord' means 'to turn to Allah, to zero in one's attention towards Him and to worship Him.' By placing the restriction of 'with a pure heart' it has been indicated that no act of devotio…
-
-**Classical tafsir:** Ibn Kathir notes: Then what think you about the Lord of the all that exists?) Qatadah said, "This means, 'what do you think He will do with you when you meet Him, given that you worshipped others alongside Him?"
 ## Personal Reflections
-
 

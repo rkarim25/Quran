@@ -102,11 +102,5 @@ Ends here
 
 in pillars extended—no exit, no appeal, no lawyer, no legacy left to negotiate.
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, it shall Mu'sadah upon them,)(9.
-
-**Classical tafsir:** Ibn Kathir notes: This means that the person finds fault with people and belittles them.
 ## Personal Reflections
-
 

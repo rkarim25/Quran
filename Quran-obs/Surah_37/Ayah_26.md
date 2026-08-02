@@ -84,11 +84,5 @@ After that, a command will go forth to angels: فَاهْدُوهُمْ إِلَ
 
 In fact, on that Day they will be fully submissive.
 
-## AI Tafsir
-
-**What this ayah teaches:** The Day of Recompense Allah tells us what the those who reject the truth will say on the Day of Resurrection, how they will blame themselves and admit that they wronged themselves in this world. When they see the horrors of the Day of Resurrection with their own eyes, they will be filled with regret at the time when regret will not avail them anything.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

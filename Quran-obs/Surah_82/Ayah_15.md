@@ -94,13 +94,5 @@ The verse informs us that each person, on the Day of Reckoning, will know what h
 
 entering it on Judgment Day,
 
-## AI Tafsir
-
-**What this ayah teaches:** The Reward of the Righteous and the Sinners Allah informs of what the righteous will receive of delight.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** We will mention here a Hadith (where the Prophet ﷺ said),
 ## Personal Reflections
-
 

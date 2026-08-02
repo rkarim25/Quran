@@ -392,15 +392,5 @@ O Allah, make all our concerns a single concern - the concern for 'Akhirah.
 
 Who does more wrong than the one who fabricates lies against Allah or claims, “I have received revelations!”—although nothing was revealed to them—or the one who says, “I can reveal the like of Allah’s revelations!”? If you could only see the wrongdoers in the throes of death while the angels are stretching out their hands, “Give up your souls! Today you will be rewarded with the torment of disgrace for telling lies about Allah and for being arrogant towards His revelations!”
 
-## AI Tafsir
-
-**Context:** 'Ikrimah and Qatadah said that this Ayah was revealed about Musaylimah Al-Kadhdhab. After having concluded the argument concerning Books revealed by Allah Ta` ala against deniers, it was said in the third verse (92): وَه…
-
-**What this ayah teaches:** And that it was revealed after the Torah and Injil is because these two Books were sent for the Bani Isra'il while for their other branch of Bani Isma'il, known as Arabs living in Umm al-Qura, that is, Makkah and its environs, there has been no prophet or book of guidance until that time.
-
-**Classical tafsir:** Ibn Kathir notes: This day you shall be recompensed with the torment of degradation because of what you used to utter against Allah other than the truth.
-
-**From the Sunnah:** The wealth and the money that you collected in the life of the world, you left all this behind you.
 ## Personal Reflections
-
 

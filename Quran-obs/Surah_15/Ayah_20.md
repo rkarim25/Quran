@@ -89,13 +89,5 @@ And this expression: مِن كُلِّ شَيْءٍ مَّوْزُونٍ (everyt
 
 And We made in it means of sustenance for you and others, who you do not provide for.
 
-## AI Tafsir
-
-**What this ayah teaches:** But, this situation could have turned into a punishment for human beings, therefore, these were provided in a particular measure and balance so that their worth and value remains actively recognized, and that they are not left over only to go to waste either.
-
-**Classical tafsir:** Ibn Kathir notes: Here, Mujahid and Qatadah said that Buruj [big stars] refers to the heavenly bodies.
-
-**From the Sunnah:** Explaining this Ayah, Al-Bukhari reported from Abu Hurayrah that the Prophet ﷺ said: (Sahih al-Bukhari) This was also the opinion of Sa'id bin Jubayr, 'Ikrimah, Abu Malik, Mujahid, Al-Hakim bin 'Utaybah, Al-Hasan bin Muhammad, Abu Salih and Qatadah. (al-Mustadrak)
 ## Personal Reflections
-
 

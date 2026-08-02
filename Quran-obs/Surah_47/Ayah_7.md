@@ -192,15 +192,5 @@ Abu Hurayrah ؓ reports that the Messenger of Allah ﷺ said: "By Him who sent m
 
 O you who have iman: If you stand up for Allah's cause, He will support you and make your footing firm.
 
-## AI Tafsir
-
-**Context:** (tighten their bonds.) 'This is referring to the prisoners of war whom you have captured. Later on, after the war ends and the conflict has ceased, you have a choice in regard to the captives: You may either act gracious…
-
-**What this ayah teaches:** Verily, the center of the believers' abode is Ash-Sham.
-
-**Classical tafsir:** Ibn Kathir notes: Misery awaits him, and degeneracy; and if he is pricked by a thorn, may he not find anyone to pull it for him.) This means may Allah not cure him.
-
-**From the Sunnah:** And goodness is tied around the horses' foreheads till the Day of Resurrection.) An-Nasa'i also recorded this narration. (Sunan an-Nasa'i) intercede for seventy members of his household. (Sunan Abi Dawud)
 ## Personal Reflections
-
 

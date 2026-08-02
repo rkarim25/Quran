@@ -132,13 +132,5 @@ This being the wise arrangement of things, let him not grieve. The better course
 
 We have not created the heavens and the earth and everything in between except for a purpose. And the Hour is certain to come, so forgive graciously.
 
-## AI Tafsir
-
-**Context:** (So turn away from them, and say: "Salam (Peace!)." But they will come to know)(43:89). Mujahid, Qatadah and others said: "This was before fighting was prescribed".
-
-**What this ayah teaches:** And We did not create the heavens and the earth and all that is between them except with the truth, and the Hour is surely coming, so overlook their faults with gracious forgiveness (85)Verily, your Lord is the Knowing Creator .
-
-**Classical tafsir:** Ibn Kathir notes: It is as they said, because this Surah was revealed in Makkah and fighting was prescribed after the Hijrah.
 ## Personal Reflections
-
 

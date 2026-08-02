@@ -211,13 +211,5 @@ This verse tells us that when the Horn will be blown, all those in the heavens a
 
 And beware of the Day the Trumpet will be blown, and all those in the heavens and all those on the earth will be horrified to the point of death, except those Allah wills to spare. And all will come before Him, fully humbled.
 
-## AI Tafsir
-
-**What this ayah teaches:** And (remember) the Day on which the Trumpet (Şūr) will be blown – and all who are in the heavens and all who are on the earth, will be terrified except him whom Allah wills. This verse tells us that when the Horn will be blown, all those in the heavens and the earth will get unconscious, and then die.
-
-**Classical tafsir:** Ibn Kathir notes: Quashiri has observed that prophets are the very first included among them, because they have the status of martyrs also, and their position as prophet is still higher.
-
-**From the Sunnah:** after a little while, you will see a major event which will destroy the House [the Ka'bah], and such and such will happen." Then he said, "The Messenger of Allah ﷺ said: (Sahih Muslim)
 ## Personal Reflections
-
 

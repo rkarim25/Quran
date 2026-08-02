@@ -134,15 +134,5 @@ Misbehaving Prophets (علیہم السلام) is to misbehave with Allah
 
 They try to deceive Allah and the believers, but they only deceive themselves without realizing it.
 
-## AI Tafsir
-
-**Essence** Every mask the hypocrite wears before Allah and the believers deceives, in the end, only his own soul — and he does not even perceive it.
-
-**What it teaches** Nifaq is outward conformity concealing inner evil. Ibn Kathir divides it into nifaq of creed — eternal Hell — and nifaq of deed, a major sin. That the hypocrites imagined words could mislead Allah is, he says, an indication of their total ignorance.
-
-**The scholars** On this passage (2:8-9, one unit in Ibn Kathir), Ibn 'Abbas: "the hypocrites among the Aws and Khazraj and those who behaved as they did" — so too Abu Al-'Aliyah, Al-Hasan, Qatadah and As-Suddi. Ibn Jurayj, on the parallel 4:142 cited here by Ibn Kathir: they pronounce the shahadah "seeking to ensure the sanctity of their blood and money, all the while concealing disbelief." Qatadah: the hypocrite "changes his mind just like a ship that moves about whenever a wind blows." Maarif ul Quran: Allah equated attempting to deceive His Prophet ﷺ and the Muslims with an attempt to deceive Allah Himself.
-
-**Reflection** Make your inside match your outside — whatever is hidden from people lies fully open before Allah.
 ## Personal Reflections
-
 

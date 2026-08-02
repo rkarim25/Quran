@@ -123,11 +123,5 @@ The word لَاعِبِينَ is taken from لِعَب (play), which means havin
 
 We did not create the heavens and the earth and everything in between for sport.
 
-## AI Tafsir
-
-**What this ayah teaches:** We created not the heavens and the earth and all that is between them for play (16)Had We intended to take a pastime, We could surely have taken it from Us, if We were going to do (that)(17)Nay, We fling the truth against the falsehood, so it destroys it, and behold, it disappears.
-
-**Classical tafsir:** Ibn Kathir notes: Having witnessed the marvels and wonders of creation which are so abundantly spread all over, manifesting Allah's omnipotence and omniscience, do they still think that all these things are futile and without significance?
 ## Personal Reflections
-
 

@@ -164,11 +164,5 @@ This explanation is taken from the commentary ` Ahkam ul Qur'an' by Sayyidi Haki
 
 Then Solomon said, “Disguise her throne for her so we may see whether she will recognize it or she will not be able to.”
 
-## AI Tafsir
-
-**What this ayah teaches:** The Test of Bilqis When Sulayman brought the throne of Bilqis before she and her people arrived, he issued orders that some of its features should be altered, so that he could test her and see whether she recognized it and how composed she would be when she saw it. She did not hasten to say that this was her throne, because it was far away from her.
-
-**Classical tafsir:** Ibn Kathir notes: The Test of Bilqis When Sulayman brought the throne of Bilqis before she and her people arrived, he issued orders that some of its features should be altered, so that he could test her and see whether she recognized it and how composed she would be when she saw it.
 ## Personal Reflections
-
 

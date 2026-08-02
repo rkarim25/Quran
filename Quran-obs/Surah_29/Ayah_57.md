@@ -102,13 +102,5 @@ The answer to this problem is given in the next verse: كُلُّ نَفْسٍ �
 
 Every soul will taste death. Then to Us you will all be returned.
 
-## AI Tafsir
-
-**What this ayah teaches:** Then unto Us you shall be returned.) meaning, 'wherever you are, death with catch up with you, so always obey Allah and be where Allah commands you to be, for this is better for you. Therefore worship Me (56)Everyone shall taste death.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore worship Me.) When things became too difficult for the believers in Makkah who were in a weak position and were oppressed, they left and migrated to Ethiopia, where they were able to practice their religion.
-
-**From the Sunnah:** The Muslims found Ethiopia the best place for guest; where Ashamah, the Negus or king, may Allah have mercy on him, gave them refuge, helped them, supported them, and honored them in his land. Ibn Abi Hatim, may Allah have mercy on him, recorded from Abu Mu'aniq Al-Ash'ari that Abu Malik Al-Ash'ari told him that the Messenger of Allah ﷺ told him:
 ## Personal Reflections
-
 

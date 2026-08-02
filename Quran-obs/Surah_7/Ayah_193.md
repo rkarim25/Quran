@@ -190,13 +190,5 @@ It is a pity that, one by one, we are depriving ourselves of all the Islamic man
 
 And if you call upon them for guidance, they cannot respond to you. It is all the same whether you call them or remain silent.
 
-## AI Tafsir
-
-**What this ayah teaches:** It is the same for you whether you call them or you keep silent (193)Verily, those whom you call upon besides Allah are servants like you. Therefore, the result is the same, whether calling the idols or shunning them.
-
-**Classical tafsir:** Ibn Kathir notes: The verse refers to the generations coming after them who were ungrateful to Allah and involved themselves in Shirk.
-
-**From the Sunnah:** In addition, we find that most of the parents abbreviate the names of their children into English initials which makes it all the more difficult to distinguish them as Muslims.
 ## Personal Reflections
-
 

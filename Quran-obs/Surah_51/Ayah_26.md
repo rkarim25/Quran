@@ -133,11 +133,5 @@ Ibn Kathir says that this verse indicates proper manners for entertaining guests
 
 He went quietly to his family and brought a fat roasted calf,
 
-## AI Tafsir
-
-**What this ayah teaches:** He slipped out quietly, and brought the food to his guests quickly, while they were unaware that it was being prepared for them. For he brought the food to his guests quickly, while they were unaware that it was being prepared for them.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

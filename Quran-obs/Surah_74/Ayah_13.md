@@ -184,15 +184,5 @@ This shows that just as the birth of children and their being alive are a boon o
 
 with sons always at his side,
 
-## AI Tafsir
-
-**Context:** "Al-Walid bin Al-Mughirah entered the house of Abu Bakr bin Abi Quhafah and asked him about the Qur'an. When Abu Bakr informed him about it, he left and went to the Quraysh saying, 'What a great thing this is that Ibn Ab…
-
-**What this ayah teaches:** [ 20] Then he looked [ to those around him,] [ 21] then he frowned and scowled, [ 22] then turned his back, and waxed proud, [ 23] then said, "This is nothing but traditional magic; [ 24] this is nothing but saying of a mortal."...25) The word qaddara is derived from tagdir, and literally denotes 'to suggest'.
-
-**Classical tafsir:** Ibn Kathir notes: Ibn Abbas and Mujahid said that they were ten. This refers to his ungratefulness for his blessings after knowing (these blessings).
-
-**From the Sunnah:** Let alone unbelievers, even the pious and religious Muslims do not find it hateful.
 ## Personal Reflections
-
 

@@ -307,15 +307,5 @@ The lesson is that the arrangement of life and death stays in the hands of our c
 
 Wherever you may be, death will overcome you—even if you were in fortified towers.” When something good befalls them, they say, “This is from Allah,” but when something evil befalls them, they say, “This is from you.” Say, “Both have been destined by Allah.” So what is the matter with these people? They can hardly comprehend anything!
 
-## AI Tafsir
-
-**Context:** In the beginning of Islam, Muslims in Makkah were commanded to perform the prayer and pay some charity, so as to comfort the poor among them.
-
-**What this ayah teaches:** The Hereafter is (far) better for him who fears Allah, and you shall not be dealt with unjustly even equal to the 'Fatīl' (77)"Wheresoever you may be, death will overtake you even if you are in fortresses built up strong and high!" And if some good reaches them, they say, "This is from Allah," but if some evil befalls them, they say, "This is from you." Say: "All things are fro…
-
-**Classical tafsir:** Ibn Kathir notes: However, they were eager and anticipating the time when they would be allowed to fight, so that they could punish their enemies.
-
-**From the Sunnah:** In the beginning of Islam, Muslims in Makkah were commanded to perform the prayer and pay some charity, so as to comfort the poor among them.
 ## Personal Reflections
-
 

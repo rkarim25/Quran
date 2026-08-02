@@ -180,13 +180,5 @@ The answer is that such address or speech will not be in the form of honouring t
 
 Their only argument will be: “By Allah, our Rabb! We were never polytheists.”
 
-## AI Tafsir
-
-**What this ayah teaches:** If he chooses to lie, as he did in his mortal life, his right to do that will not be snatched away from him - because Allah will Himself, in His absolute power, demolish the facade of his lie through the testimony of his own body parts. Therefore, on the day of Resurrection they would swear to it that they were not Mushriks.
-
-**Classical tafsir:** Ibn Kathir notes: As for the verse where Divine speech or address has been negated, it refers to an indirect address.
-
-**From the Sunnah:** It appears no one will have the courage to lie in this test, otherwise a Kafir could have given the same answer as was given by a Muslim. (Sahih Muslim)
 ## Personal Reflections
-
 

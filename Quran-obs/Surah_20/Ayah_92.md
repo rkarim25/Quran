@@ -93,11 +93,5 @@ In this affair the considered opinion of Sayyidna Musa (علیہ السلام) �
 
 Moses scolded his brother, “O Aaron! What prevented you, when you saw them going astray,.
 
-## AI Tafsir
-
-**What this ayah teaches:** What happened between Musa and Harun after Musa returned Allah informs of what happened when Musa returned to his people and saw the great matter that had taken place among them. Then, he grabbed his brother Harun by his head and pulled him towards himself.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

@@ -212,17 +212,5 @@ It follows from here that the man who is in any way responsible for others falli
 
 Trust in what I have sent down, confirming what you already have. Do not be the first to reject it, nor trade My signs for a fleeting gain. Live with taqwa.
 
-## AI Tafsir
-
-**Essence** Allah summons the Children of Israel: the Scripture in their hands testifies for the Qur'an, so the people of knowledge must not lead the way in denying it.
-
-**What it teaches** "Confirming what is with you" — in Ibn Kathir's gloss, the Tawrah and Injil. Trading Allah's ayat for "a small price" buys this world's minute, soon-ending lusts; the shield is taqwa of Allah alone.
-
-**The scholars** Ibn 'Abbas: do not be the first to disbelieve "while you have more knowledge in it than other people." Abu al-'Aliyah: they found Muhammad's ﷺ description in their own books. Maarif ul Quran: the first denier also carries the sin of misleading all who follow his example, and the Ummah agrees: no money for concealing or twisting Allah's verses.
-
-**From the Sunnah** The Prophet ﷺ asked a group of Jews, "Do you know that Israel is Jacob?" They said, "Yes, by Allah," and he said, "O Allah! Be witness." (Abu Dawud At-Tayalisi)
-
-**Reflection** The clearer your knowledge of the truth, the heavier its trust — carry Allah's words; never sell them.
 ## Personal Reflections
-
 

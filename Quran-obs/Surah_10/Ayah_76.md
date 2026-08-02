@@ -114,13 +114,5 @@ Another basharah (good news) of this world unfolds in the form that Muslims at l
 
 When the truth came to them from Us, they said, “This is certainly pure magic!”
 
-## AI Tafsir
-
-**What this ayah teaches:** Then after them We sent Musa and Harun to Fir'awn and his chiefs with Our Ayat.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** Another basharah (good news) of this world unfolds in the form that Muslims at large love someone and take him to be good without any personal motive or interest. (Sahih Muslim)
 ## Personal Reflections
-
 

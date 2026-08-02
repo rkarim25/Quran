@@ -171,13 +171,5 @@ The Qur'an here describes the condition of those unbelievers who denied the Here
 
 To Allah belongs whatever is in the heavens and whatever is on earth, so He may repay evildoers for what they did and reward the doers of good with the finest reward—
 
-## AI Tafsir
-
-**What this ayah teaches:** And to Allah belongs all that is in the heavens and all that is on the earth, that He may requite those who do evil with that which they have done, and reward those who do good, with what is best (31)Those who avoid great sins and Al-Fawahish (immoral sins) except Al-Lamam – verily, your Lord is of vast forgiveness.
-
-**Classical tafsir:** Ibn Kathir notes: 53:29-30) A Special Warning The Qur'an here describes the condition of those unbelievers who denied the Hereafter and the Day of Judgment.
-
-**From the Sunnah:** Regretfully, nowadays the Muslims have characterized themselves by the same condition as a result of Western education and material needs and desires.
 ## Personal Reflections
-
 

@@ -148,15 +148,5 @@ The word مَوَاقِعِ mawaqi` is the plural of مَوقع mawq' and refers
 
 and this, if you knew, is a mighty oath—
 
-## AI Tafsir
-
-**Context:** (That (this) is indeed an honorable recitation.) means, verily, this Qur'an that was revealed to Muhammad ﷺ is a Glorious Book,
-
-**What this ayah teaches:** Rather it is used at the beginning of an oath when the oath is a negation.
-
-**Classical tafsir:** Ibn Kathir notes: I swear by the Mawaqi' of the stars.) Mujahid said, "The setting positions of the stars in the sky," and he said that it refers to the rising and setting positions.
-
-**From the Sunnah:** Allah's Messenger ﷺ did not touch any woman's hand at all. Sharik reported from Hakim, that is Ibn Jubayr, from Sa'id bin Jubayr, from Ibn 'Abbas that about: (al-Mustadrak)
 ## Personal Reflections
-
 

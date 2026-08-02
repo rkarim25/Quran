@@ -221,15 +221,5 @@ We may also dispel a misunderstanding which often arises - and is more often mad
 
 When they meet believers they say, "We believe." But alone with their evil allies they say, "We are with you — we were only mocking."
 
-## AI Tafsir
-
-**Essence** The hypocrite wears faith as a mask before the believers and unmasks among his devils — his mockery only summons Allah's just requital.
-
-**What it teaches** The munafiqun professed iman to deceive the believers and share their gains; alone with their shayatin — devil-leaders among men and jinn — they confessed: "We are with you; we were only mocking." Allah answers mockery with mockery befitting His majesty — pure justice — and leaves them wandering blindly in tughyan, transgression past all limits.
-
-**The scholars** Ibn 'Abbas — via Ad-Dahhak, echoed by ar-Rabi' bin Anas and Qatadah — glossed the boast: "We were mocking the Companions of Muhammad." Ibn Jarir sees Allah's mockery in the Resurrection-Day wall barring hypocrites from the believers' light, and in punishment postponed so sin deepens. Ibn Kathir relates the scholars' consensus: Allah never acts in joyful play — deed and requital share one name yet differ in reality. "He leaves them increasing": respite (Ibn 'Abbas, Ibn Mas'ud and other Companions, via As-Suddi); increasing deviation (Mujahid); hearts stamped and sealed, no way out (Ibn Jarir).
-
-**Reflection** Be in secret what you profess in company — the One you answer to witnesses both.
 ## Personal Reflections
-
 

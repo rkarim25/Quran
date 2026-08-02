@@ -247,11 +247,5 @@ Here the word سَمَاء is purported for clouds, and Jibal جِبَالٍ (mo
 
 Do you not see that Allah gently drives the clouds, then joins them together, piling them up into masses, from which you see raindrops come forth? And He sends down from the sky mountains of clouds loaded with hail, pouring it on whoever He wills and averting it from whoever He wills. The flash of the clouds’ lightning nearly takes away eyesight.
 
-## AI Tafsir
-
-**What this ayah teaches:** As for those who say that "mountains" here is used as a metaphor for clouds, they think that the second Min is also used to describe the place from which the ice is coming, and is thus interchangeable with the first.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

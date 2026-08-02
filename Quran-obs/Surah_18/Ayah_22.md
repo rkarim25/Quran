@@ -229,13 +229,5 @@ The second line of guidance given in the other sentence is that the optimum info
 
 Some will say, “They were three, their dog was the fourth,” while others will say, “They were five, their dog was the sixth,” only guessing blindly. And others will say, “They were seven and their dog was the eighth.” Say, O Prophet, “My Rabb knows best their exact number. Only a few people know as well.” So do not argue about them except with sure knowledge, nor consult any of those who debate about them.
 
-## AI Tafsir
-
-**What this ayah teaches:** They say they were three, the dog being the fourth among them; and they say they were five, the dog being the sixth, guessing at the unseen; and they say they were seven, and the dog being the eighth. Therefore, while counting from three to seven, they would not use the connective To give a number after seven, they would state it separately with the help of a connective 'waw' - and for this reason…
-
-**Classical tafsir:** Ibn Kathir notes: What finally happened was that the third statement turned out to be true as it appears from the hint given by the Qur'an, and the word of the Holy Prophet ﷺ .
-
-**From the Sunnah:** this third statement was that of Muslims. The rule of conduct, a golden legacy of the Qur'an, taught in these two sentences to the Holy Prophet ﷺ are, in fact, significant guiding principles for the learned among the Muslim community.
 ## Personal Reflections
-
 

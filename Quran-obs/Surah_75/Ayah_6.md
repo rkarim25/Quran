@@ -194,11 +194,5 @@ Qatadah said, "This means he is a witness against himself." In another narration
 
 mockingly asking, 'When is this Day of Resurrection?'
 
-## AI Tafsir
-
-**What this ayah teaches:** Man desires to break out ahead of himself.)(6.
-
-**Classical tafsir:** Ibn Kathir notes: I swear by An-Nafs Al-Lawwamah.) Qatadah said, "This means, I swear by both of these things." This has also been reported from Ibn 'Abbas and Sa'id bin Jubayr. This means Our power is suitable to gather (and recreate) them, and if We wished We could surely resurrect him with more than what he originally had.
 ## Personal Reflections
-
 

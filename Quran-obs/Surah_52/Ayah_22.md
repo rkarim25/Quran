@@ -179,13 +179,5 @@ Allah's Fairness to Sinners
 
 We will continually provide them with whatever fruit or meat they desire.
 
-## AI Tafsir
-
-**What this ayah teaches:** And those who believe and whose offspring follow them in faith, – to them shall We join their offspring, and We shall not decrease the reward of their deeds in anything. He also grants His favor to parents on account of their offspring invoking Allah for them.
-
-**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas said that Laghw means 'falsehood' while Ta'thim means 'lying'.
-
-**From the Sunnah:** Ibn Abi Hatim also recorded that Ibn 'Abbas commented on Allah's statement, Paradise, while the idolators and their offspring will dwell in the Hellfire.
 ## Personal Reflections
-
 

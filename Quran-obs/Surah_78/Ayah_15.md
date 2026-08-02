@@ -182,11 +182,5 @@ meaning, 'so that We may bring out great abundance, goodness, benefit, and bless
 
 to produce grain and plants,
 
-## AI Tafsir
-
-**What this ayah teaches:** And We have sent down from the Mu'sirat water Thajjaj.)(15.
-
-**Classical tafsir:** Ibn Kathir notes: And We have sent down from the Mu'sirat water Thajjaj.)(15.
 ## Personal Reflections
-
 

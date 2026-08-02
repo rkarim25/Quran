@@ -158,13 +158,5 @@ meaning, certainly Allah will repeat his creation just as he began his creation,
 
 obeying its Rabb as it must—
 
-## AI Tafsir
-
-**What this ayah teaches:** And has cast out all that was in it and became empty.)(5.
-
-**Classical tafsir:** Ibn Kathir notes: This means that he will not be investigated for all the minute details of his deeds.
-
-**From the Sunnah:** Then when he completed the prayer, he informed them that the Messenger of Allah ﷺ prostrated during its recitation. (Sahih Muslim, Sunan an-Nasa'i) from Abu Rafi' that he prayed the Night prayer with Abu Hurayrah) recited, (Sahih al-Bukhari)
 ## Personal Reflections
-
 

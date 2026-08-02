@@ -289,13 +289,5 @@ Ends here
 
 Allah alone has knowledge of the Hour. He sends down rain and knows what wombs carry. No soul knows what it will earn tomorrow, and no soul knows in what land it will die. Allah is All-Knowing, All-Aware.
 
-## AI Tafsir
-
-**Context:** There is a reason for this specific treatment and marked attention. Things of the Unseen that one is generally keen to find out are just these five.
-
-**What this ayah teaches:** That the knowledge of the unseen is particular to Allah Ta’ ala in the absolute sense has been explicitly mentioned in this verse - and this has been the belief of the entire Muslim community from the earliest to the succeeding generations.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, the Hadith quoted above means that, no doubt, Allah Ta’ ala has made these five things so exclusive to Himself that no angel or messenger has been given their knowledge even as 'news' of the unseen.
 ## Personal Reflections
-
 

@@ -156,11 +156,5 @@ Some Jewish chiefs came to the Holy Prophet ﷺ and demanded that he bring down 
 
 We raised the Mount over them for their covenant and said, “Enter the gate with humility.” We also warned them, “Do not break the Sabbath,” and took from them a firm covenant.
 
-## AI Tafsir
-
-**What this ayah teaches:** And We gave Musa a clear proof of authority (153)And for their covenant, We raised over them the mount and (on the other occasion) We said: "Enter the gate prostrating (or bowing) with humility;" and We commanded them: "Transgress not on the Sabbath (Saturday)." And We took from them a firm covenant .
-
-**Classical tafsir:** Ibn Kathir notes: The Stubbornness of the Jews Muhammad bin Ka'b Al-Qurazi, As-Suddi and Qatadah said that the Jews asked the Messenger of Allah to cause a book to come down to them from heaven, just as the Tawrah was sent down to Musa.
 ## Personal Reflections
-
 

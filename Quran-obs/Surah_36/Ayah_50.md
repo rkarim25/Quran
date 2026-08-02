@@ -73,11 +73,5 @@ In verse 50, it was said فَلَا يَسْتَطِيعُونَ تَوْصِي�
 
 Then they will not be able to make a last will, nor can they return to their own people.
 
-## AI Tafsir
-
-**What this ayah teaches:** Then the people who are alive will be driven to the gathering place by a fire which will surround them on all sides. After this there will be the Trumpet blast which will cause everyone who is alive to die, besides the One Who is Ever Living, Eternal.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

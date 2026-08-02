@@ -205,13 +205,5 @@ Shah ` Abdul Ghani Phulpuri رحمۃ اللہ علیہ relates from Haji Imdadul
 
 Or do they have associate-gods who have ordained for them beliefs which Allah has not authorized? Had it not been for a prior decree on Judgment, the matter would have been settled between them at once. Surely the wrongdoers will suffer a painful punishment.
 
-## AI Tafsir
-
-**What this ayah teaches:** And had it not been for a decisive Word, the matter would have been judged between them. And He is the All-Strong, the Almighty (19)Whosoever desires the reward of the Hereafter, We give him increase in his reward, and whosoever desires the reward of this world, We give him thereof, and he has no portion in the Hereafter (20)Or have they partners with Allah who have instituted for them a religion…
-
-**Classical tafsir:** Ibn Kathir notes: That is why many meanings of the word latif have been stated in the Tafsir of Qurtubi, all of which are covered by the words ` kind' and ` benefactor'.
-
-**From the Sunnah:** It was recorded in the Sahih that the Messenger of Allah ﷺ said:
 ## Personal Reflections
-
 

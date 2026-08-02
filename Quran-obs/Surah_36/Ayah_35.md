@@ -117,11 +117,5 @@ Going into a little detail, it can be said that animals too eat vegetation and f
 
 so that they may eat from its fruit, which they had no hand in making. Will they not then give shukr?
 
-## AI Tafsir
-
-**What this ayah teaches:** We give it life, and We bring forth from it grains, so that they eat thereof (33)And We have made therein gardens of date palms and grapes, and We have caused springs of water to gush forth therein (34)So that they may eat of the fruit thereof – and their hands made it not.
-
-**Classical tafsir:** Ibn Kathir notes: In that case, this part of verse 35 would come to mean that all these things have been created, so that they eat fruits there from, and also eat that which human hands make, produce or process out of these vegetations and fruits.
 ## Personal Reflections
-
 

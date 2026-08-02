@@ -216,11 +216,5 @@ Based on these narrations of Hadith, the verse can be taken in its real sense, t
 
 Indeed, messengers before you were rejected but patiently endured rejection and persecution until Our help came to them. And Allah’s promise is never broken. And you have already received some of the narratives of these messengers.
 
-## AI Tafsir
-
-**What this ayah teaches:** We know indeed the grief which their words cause you; it is not you that they deny, but it is the verses of Allah that the wrongdoers deny (33)Verily, (many) Messengers were denied before you, but with patience they bore the denial, and they were hurt, till Our help reached them, and none can alter the Words of Allah.
-
-**Classical tafsir:** Ibn Kathir notes: Muhammad bin Ishaq mentioned that Az-Zuhri said that Abu Jahl, Abu Sufyan Sakhr bin Harb and Al-Akhnas bin Shurayq once came to listen to the Prophet ﷺ reciting the Qur'an at night, but these three men were not aware of the presence of each other.
 ## Personal Reflections
-
 

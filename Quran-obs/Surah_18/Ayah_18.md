@@ -161,13 +161,5 @@ What was the basis of this awe and what were the reasons for it? This is somethi
 
 And you would have thought they were awake, though they were asleep. We turned them over, to the right and left, while their dog stretched his forelegs at the entrance. Had you looked at them, you would have certainly fled away from them, filled with horror.
 
-## AI Tafsir
-
-**What this ayah teaches:** The truth of the matter is that Allah Ta’ ala, in His wisdom, had created such conditions for their protection that the Sun stays away from their bodies, and the onlooker takes them to be awake and is filled with awe of them and is consequently unable to see them fully.
-
-**Classical tafsir:** Ibn Kathir notes: This was so that no one would come near them or touch them until the appointed time when their sleep would come to an end as Allah willed, because of the wisdom, clear proof and great mercy involved in that.
-
-**From the Sunnah:** It appears in an authentic Hadith that angels do not enter a house that has a dog or picture. (Sahih al-Bukhari, authentic hadith) In fact, there is comfort and good news in this event for Muslims who are weak in deeds but do love the Holy Prophet ﷺ fully and duly.
 ## Personal Reflections
-
 

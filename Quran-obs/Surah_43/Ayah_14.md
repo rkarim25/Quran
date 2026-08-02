@@ -108,11 +108,5 @@ Allah says: 'If you, O Muhammad, were to ask these idolators who associate other
 
 And surely to our Lord we will all return."
 
-## AI Tafsir
-
-**What this ayah teaches:** By referring to the revival of the earth, Allah draws attention to how He will bring bodies back to life on the Day of Resurrection, after they have been dead.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

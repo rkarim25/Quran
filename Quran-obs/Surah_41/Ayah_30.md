@@ -192,11 +192,5 @@ Abu Nu'aim has reported about Thabit Al-bunani (رح) that while reciting Surah 
 
 Surely those who say, "Our Lord is Allah," and then remain steadfast—the angels descend upon them, saying, "Do not fear, nor grieve. Rejoice in the good news of Paradise, which you have been promised.
 
-## AI Tafsir
-
-**What this ayah teaches:** It is stated in Tafsir Kashshaf that a person's declaration that his Lord is Allah can only be true when he believes from the bottom of his heart that he is being brought up by Allah Almighty in all situations and at every step, that he cannot take even one breath without His mercy, and all this demands that one should be so devoted and steadfast in his ways of worship that nei…
-
-**Classical tafsir:** Ibn Kathir notes: The other quality is of their remaining steadfast which refers to their good deeds.
 ## Personal Reflections
-
 

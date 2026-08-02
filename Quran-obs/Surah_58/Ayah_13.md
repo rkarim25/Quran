@@ -181,13 +181,5 @@ It is a remarkable co-incidence that most of the blessed Companions ؓ ، becaus
 
 Are you reluctant to give charity before private consultation because you cannot afford it? Since Allah has turned to you in mercy, continue to establish salah—the formal prayer—pay zakat—obligatory sharing of wealth to purify what remains—and obey Allah and His Messenger. Allah is All-Aware of what you do.
 
-## AI Tafsir
-
-**Context:** يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا نَاجَيْتُمُ الرَّ‌سُولَ (0 those who believe, when you consult the Messenger of Allah, ...58:12) The Messenger of Allah ﷺ was preoccupied day and night with educating the people and i…
-
-**What this ayah teaches:** But if you find not (the means for it), then verily, Allah is Oft-Forgiving, ar-Rahim (12)Are you afraid of spending in charity before your private consultation (with him)? The hypocrites made matters worse when they asked for private audiences with the Holy Prophet ﷺ in order to hurt the sincere Muslims.
-
-**Classical tafsir:** Ibn Kathir notes: 'Abdur-Razzaq recorded that Mujahid said that 'Ali said, "No one except me implemented this Ayah, until it was abrogated," and he was reported to have said that it remained in effect for merely an hour.
 ## Personal Reflections
-
 

@@ -188,13 +188,5 @@ Sayyidna ` Abdullah Ibn ` Umar ؓ says: "When you hear anyone reviling a Compani
 
 If they are expelled, the hypocrites will not leave with them. If they are fought, the hypocrites will not help them. Even if they tried, they would flee—leaving the those who reject the truth with no support.
 
-## AI Tafsir
-
-**What this ayah teaches:** Have you not observed the hypocrites who say to their disbelieving brethren among the People of the Scripture, "If you are expelled, we indeed will go out with you, and we shall never obey anyone against you; and if you are attacked, we shall indeed help you." But Allah is Witness that they verily are liars (11)Surely, if they (the Jews) are expelled, never will they (hypocrite…
-
-**Classical tafsir:** Ibn Kathir notes: That is because they are a people who comprehend not (13)They fight not against you even together, except in fortified townships, or from behind walls.
-
-**From the Sunnah:** They only fight when they have to defend themselves (even though they threaten Muslims of reprisals). All Muslims after the Muhajirin and the Ansar are entitled to fai'
 ## Personal Reflections
-
 

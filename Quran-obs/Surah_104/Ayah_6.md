@@ -94,11 +94,5 @@ The third evil quality denounced severely in this Surah is greed, that is, the s
 
 It is the Fire kindled by Allah—
 
-## AI Tafsir
-
-**What this ayah teaches:** This means that the person finds fault with people and belittles them. This verse, however, refers to the love of, and passion for, wealth which is accumulated and counted over and over again.
-
-**Classical tafsir:** Ibn Kathir notes: This means that the person finds fault with people and belittles them.
 ## Personal Reflections
-
 

@@ -155,13 +155,5 @@ Ends here
 
 then glorify your Lord with deep praise and seek His forgiveness—for even on the day of triumph, a servant remains in need of mercy, and He is ever the One who accepts tawbah.
 
-## AI Tafsir
-
-**What this ayah teaches:** So, glorify the praises of your Lord, and ask His forgiveness. And you see that the people enter Allah's religion in crowds.)(3.
-
-**Classical tafsir:** Ibn Kathir notes: And you see that the people enter Allah's religion in crowds.)(3.
-
-**From the Sunnah:** This Surah Informs of the Completion of the Life of Allah's Messenger (ﷺ) Then he ('Umar) said to me, 'Is this what you say, O Ibn 'Abbas?' I said, 'No.' He then said, 'What do you say?' I said, 'It was the end of the life of Allah's Messenger ﷺ that Allah was informing him of.
 ## Personal Reflections
-
 

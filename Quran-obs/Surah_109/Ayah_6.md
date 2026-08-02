@@ -178,13 +178,5 @@ denounces such treaties, and declares dissociation from paganism. Analyzing the 
 
 For you is your deen—the way of life you have chosen. And for me is mine—the path of tawhid I will not abandon.
 
-## AI Tafsir
-
-**Context:** Ibn Kathir prefers another interpretation. He expounds that the particle ma is used in two ways: [ 1] as mawsulah or relative pronoun in the sense of al-ladhi [ that which ]; and [ 2] as masdariyah transforming into infi…
-
-**What this ayah teaches:** "Nor will you worship that which I worship.")(6.
-
-**Classical tafsir:** Ibn Kathir notes: This is why the statement of Islam is "There is no Allah worthy of being worshipped except Allah, and Muhammad is the Messenger of Allah." This means that there is no (true) object of worship except Allah and there is no path to Him (i.e., way of worshipping Him) other than that wh…
 ## Personal Reflections
-
 

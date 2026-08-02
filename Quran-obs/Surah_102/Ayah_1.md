@@ -182,15 +182,5 @@ Verse [ 1] أَلْهَاكُمُ التَّكَاثُرُ‌ (You are distracte
 
 Rivalry in piling up more—followers, income, gadgets, status—distracts you from what matters until you visit the graves.
 
-## AI Tafsir
-
-**Context:** In Sahih Al-Bukhari, it is recorded in the Book of Ar-Riqaq (Narrations that soften the Heart) from Anas bin Malik, who reported that Ubayy bin Ka'b said, "We used to think that this was a part of the Qur'an until the Ay…
-
-**What this ayah teaches:** Therefore, whoever does not maintain the right that is obligatory upon him, then he is unjust. The mutual increase diverts you,)(2.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, whoever does not maintain the right that is obligatory upon him, then he is unjust.
-
-**From the Sunnah:** this Hadith. (Sahih Muslim, Jami' at-Tirmidhi) This Hadith has also been recorded by Muslim, At-Tirmidhi and An-Nasa'i. (Sahih Muslim, Musnad Ahmad)
 ## Personal Reflections
-
 

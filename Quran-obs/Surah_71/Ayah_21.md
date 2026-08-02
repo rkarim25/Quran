@@ -133,11 +133,5 @@ Glorious is the One who made stellar formations in the sky and placed therein a 
 
 Noah cried: 'My Lord, they have persisted in disobeying me and followed instead those whose abundant wealth and children only increase them in loss,
 
-## AI Tafsir
-
-**What this ayah teaches:** They have disobeyed me, and followed one whose wealth and children give him no increase but loss. Destroy their wealth, and harden their hearts, so that they will not believe until they see the painful torment.)(10:88) Verily, Allah responded to the supplication of both of these Prophets concerning their people and He drowned their nations due to their rejection of what he (that Prophet) had come…
-
-**Classical tafsir:** Ibn Kathir notes: The prepositional phrase in the verse apparently indicates that the moon is placed in the body of the heavens.
 ## Personal Reflections
-
 

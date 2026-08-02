@@ -204,13 +204,5 @@ Forth Attribute is guarding ones private parts against unlawful liaison. وَا�
 
 Successful indeed are the mu'mins — those who trust and live by what Allah revealed:
 
-## AI Tafsir
-
-**Context:** (And those who pay the Zakah.) Most commentators say that the meaning here is the Zakah that is paid on wealth, even though this Ayah was revealed in Makkah, and Zakah was ordained in Al-Madinah in the year 2 H.
-
-**What this ayah teaches:** The word signifies the attainment of all desires as well as protection from all misfortunes. The third attribute is Zakah which, literally means "to purify" but in religious terminology it means giving in charity a portion of one's wealth subject to certain prescribed conditions and the word has been generally used in the Qur'an in this sense.
-
-**Classical tafsir:** Ibn Kathir notes: Al-Hasan Al-Basri said, "Their Khushu' was in their hearts." So they lowered their gaze and were humble towards others.
 ## Personal Reflections
-
 

@@ -171,13 +171,5 @@ This verse indicates that the construction of houses and buildings without need 
 
 They responded, “It is all the same to us whether you warn us or not.
 
-## AI Tafsir
-
-**What this ayah teaches:** The Response of the People of Hud, and Their Punishment Allah tells us how the people of Hud responded to him after he had warned them, encouraged them, and clearly explained the truth to them. Verily, in this is indeed a sign, yet most of them are not believers (139)And verily your Lord, He is indeed the Almighty, the ar-Rahim .
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** In our explanation of Surat Al-A'raf, we mentioned the Hadiths which tell how the Messenger of Allah ﷺ passed by their dwelling place when he wanted to launch a raid on Syria.
 ## Personal Reflections
-
 

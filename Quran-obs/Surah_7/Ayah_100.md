@@ -148,11 +148,5 @@ This perversion of human understanding has been termed in the Holy Qur'an as ' r
 
 Is it not clear to those who take over the land after its former residents that—if We will—We can punish them for their sins and seal their hearts so they will not hear ?
 
-## AI Tafsir
-
-**What this ayah teaches:** It implies that these people have taken no lesson from the past events with the result that they incurred the wrath of Allah making their hearts sealed. The Holy Qur'an has used the word 'listen' to indicate that understanding is usually the result of listening to the truth.
-
-**Classical tafsir:** Ibn Kathir notes: The Holy Qur'an has used the word 'listen' to indicate that understanding is usually the result of listening to the truth.
 ## Personal Reflections
-
 

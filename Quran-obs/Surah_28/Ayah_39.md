@@ -152,13 +152,5 @@ Commentary
 
 And so he and his soldiers behaved arrogantly in the land with no right, thinking they would never be returned to Us.
 
-## AI Tafsir
-
-**What this ayah teaches:** So kindle for me (a fire), O Haman, to bake clay, and set up for me a Sarh in order that I may look at the Allah of Musa; and verily, I think that he (Musa) is one of the liars.
-
-**Classical tafsir:** Ibn Kathir notes: So kindle for me (a fire), O Haman, to bake clay, and set up for me a Sarh in order that I may look at the Allah of Musa; and verily, I think that he (Musa) is one of the liars.
-
-**From the Sunnah:** Historical narrations have recorded that Haman had collected fifty thousand masons for building this palace.
 ## Personal Reflections
-
 

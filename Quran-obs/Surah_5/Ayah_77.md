@@ -170,13 +170,5 @@ Addressing the Bani Isra'il at the end of the verse (77), it was said: وَلَ�
 
 Say, “O People of the Book! Do not go to extremes in your faith beyond the truth, nor follow the vain desires of those who went astray before. They misled many and strayed from the Right Way.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Verse 77 which says, "do not be excessive in your faith," is a preface to this very subject.
-
-**Classical tafsir:** Ibn Kathir notes: "Ghuluww" or excess in religion refers to the crossing of limits drawn by religion in matters of belief and deed.
-
-**From the Sunnah:** The just and permissible, as an example of which, he has named deep intellectual research - or as it has been the way of the scholastic theologians (Mutakallimin) of Islam in matters relating to articles of faith, or that of Muslim jurists in matters relating… (Sahih Muslim)
 ## Personal Reflections
-
 

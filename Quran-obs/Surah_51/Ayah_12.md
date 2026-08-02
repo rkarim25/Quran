@@ -134,11 +134,5 @@ Allah the Exalted said,
 
 They ask mockingly: When is this Day of Judgment?
 
-## AI Tafsir
-
-**What this ayah teaches:** In this context the word refers to those stubborn and obstinate infidels who, without any reason or evidence, say discordant things about the Messenger ﷺ . Who are under a cover of Sahun,)(12.
-
-**Classical tafsir:** Ibn Kathir notes: In this context the word refers to those stubborn and obstinate infidels who, without any reason or evidence, say discordant things about the Messenger ﷺ .
 ## Personal Reflections
-
 

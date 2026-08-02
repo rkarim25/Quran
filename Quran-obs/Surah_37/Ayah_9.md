@@ -107,13 +107,5 @@ In addition to that, also refuted here is the objection of those who used to deg
 
 fiercely driven away. And they will suffer an everlasting torment.
 
-## AI Tafsir
-
-**What this ayah teaches:** They cannot listen to the Upper Realm and are hit from every side, to be driven off, and for them there is a lasting punishment, (however, if one snatches a little bit, he is pursued by a bright flame - 37:10).
-
-**Classical tafsir:** Ibn Kathir notes: If some Shaitan picks up even a part of their conversation, and tries to decamp with it, he is hit by a blazing flame, so that he remains unable to pass on this information to his devotees among soothsayers in the world.
-
-**From the Sunnah:** When the Messenger of Allah ﷺ was sent, if a Shaytan wanted to take his seat in the heavens, the flaming fire would come and would not miss him; it would burn him every time.
 ## Personal Reflections
-
 

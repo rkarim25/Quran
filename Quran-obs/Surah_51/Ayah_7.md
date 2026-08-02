@@ -136,13 +136,5 @@ Differing Beliefs of the Pagans
 
 By the heaven with its marvellous design—
 
-## AI Tafsir
-
-**What this ayah teaches:** And verily, Ad-Din is sure to occur.)(7. They resemble tracks and pathways; therefore pathways are also referred to as hubuk in Arabic.
-
-**Classical tafsir:** Ibn Kathir notes: And verily, Ad-Din is sure to occur.)(7.
-
-**From the Sunnah:** According to another possible interpretation, the verse addresses the entire humankind - Muslims as well as non-believers.
 ## Personal Reflections
-
 

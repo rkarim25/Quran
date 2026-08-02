@@ -140,11 +140,5 @@ Qurtubi writes that on that Day every believer will feel a sense of loss on acco
 
 As for those who reject the truth and deny Our revelations, they will be the people of the Fire, abiding forever. What an evil destination.
 
-## AI Tafsir
-
-**What this ayah teaches:** And whosoever believes in Allah and performs righteous deeds, He will expiate from him his sins, and will admit him to Gardens beneath which rivers flow, to dwell therein forever; that will be the great success (9)But those who disbelieved and denied Our Ayat, they will be the dwellers of the Fire, to dwell therein forever.
-
-**Classical tafsir:** Ibn Kathir notes: Imam Raghib Isfahani in his Mufrada-ul-Qur’ an says that when the word refers to financial loss, it is expressed in the passive voice thus ghubina fulanun ‘so-and-so suffered financial loss’.
 ## Personal Reflections
-
 

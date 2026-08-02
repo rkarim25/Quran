@@ -151,13 +151,5 @@ Now, as we move to the second verse (39), the text has, after serving a notice o
 
 If you do not march forth, He will afflict you with a painful torment and replace you with other people. You are not harming Him in the least. And Allah is Most Capable of everything.
 
-## AI Tafsir
-
-**What this ayah teaches:** But little is the enjoyment of the life of this world compared to the Hereafter (38)If you march not forth, He will punish you with a painful torment and will replace you by another people; and you cannot harm Him at all, and Allah is able to do all things .
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** Allah admonishes those who lagged behind the Messenger of Allah ﷺ in the battle of Tabuk, at a time when fruits were ripe and shades tempting in the intense and terrible heat, Ath-Thawri narrated that Al-A'mash said about the Ayah, (Sahih Muslim)
 ## Personal Reflections
-
 

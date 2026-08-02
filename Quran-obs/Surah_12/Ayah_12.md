@@ -71,11 +71,5 @@ In this verse, the permission sought from Sayyidna Ya` qub (علیہ السلا�
 
 Send him out with us tomorrow so that he may enjoy himself and play. And we will really watch over him.”
 
-## AI Tafsir
-
-**What this ayah teaches:** From here we find out that going out to enjoy and play is allowed under permissible limits.
-
-**Classical tafsir:** Ibn Kathir notes: Authentic Ahadith too seem to indicate its justification.
 ## Personal Reflections
-
 

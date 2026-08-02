@@ -102,11 +102,5 @@ The next verses remind them of their pitiable condition and their persecutions a
 
 And when We rescued you from the people of Pharaoh, who afflicted you with dreadful torment—killing your sons and keeping your women. That was a severe test from your Rabb.
 
-## AI Tafsir
-
-**What this ayah teaches:** After the miraculous victory of the Israelites over Pharaoh and his people, and having a life of ease and comfort, they started to show the signs of ignorance as people of wealth show when given a life of luxury and opulence.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

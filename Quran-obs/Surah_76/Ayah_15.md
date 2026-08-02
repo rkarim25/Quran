@@ -204,13 +204,5 @@ Allah says,
 
 They are served with silver vessels and crystal-clear cups—
 
-## AI Tafsir
-
-**What this ayah teaches:** So these cups are made of silver, but due to their fine thinness, what is inside of them will be visible from outside of them (as if they are glass). The word 'captive' refers to all prisoners, Muslim criminals, as well as infidels who are kept in prisons according to the principles of Shari` ah.
-
-**Classical tafsir:** Ibn Kathir notes: This refers to Paradise and its beauty, its vastness, its loftiness and the joy and happiness it contains.
-
-**From the Sunnah:** The word 'captive' refers to all prisoners, Muslim criminals, as well as infidels who are kept in prisons according to the principles of Shari` ah. (Sahih Muslim)
 ## Personal Reflections
-
 

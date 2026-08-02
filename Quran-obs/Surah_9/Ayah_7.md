@@ -144,11 +144,5 @@ This statement of the Qur'an provides guidance for Muslims that they should neve
 
 How can such polytheists have a treaty with Allah and His Messenger, except those you have made a treaty with at the Sacred Mosque? So, as long as they are true to you, be true to them. Indeed Allah loves those who live with taqwa.
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, Allah loves those who have Taqwa.) The Messenger of Allah ﷺ and the Muslims preserved the terms of the treaty with the people of Makkah from the month of Dhul-Qa'dah in the sixth year [of Hijrah], until the Quraysh broke it and helped their allies, Banu Bakr, against Khuza'ah, the allies of Allah's Messenger ﷺ.
-
-**Classical tafsir:** Ibn Kathir notes: These numbered around two thousands, and they were refered to by the name 'Tulaqa' afterwards.
 ## Personal Reflections
-
 

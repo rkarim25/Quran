@@ -127,11 +127,5 @@ Qatadah said, "Al-Munsha'at means created." Others said that it is Al-Munshi'at 
 
 His are the ships with raised sails, sailing the seas like mountains.
 
-## AI Tafsir
-
-**What this ayah teaches:** The verse describes the wisdom of making the ship and its running on the surface of the water. The Creation of Humans and Jinns Allah mentions that He created mankind from clay, like that used in pottery, and created the Jinns from the tip of the flame of a smokeless fire.
-
-**Classical tafsir:** Ibn Kathir notes: Mujahid, Qatadah, Abu Ruzayn, Ad-Dahhak said it, and it has also been reported from 'Ali.
 ## Personal Reflections
-
 

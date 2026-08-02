@@ -198,13 +198,5 @@ The first sentence of verse 14: وَرَ‌بَطْنَا عَلَىٰ قُلُ�
 
 And We strengthened their hearts when they stood up and declared, “Our Rabb is the Rabb of the heavens and the earth. We will never call upon anything besides Allah worthy of worship Him, or we would truly be uttering an outrageous lie.”
 
-## AI Tafsir
-
-**What this ayah teaches:** It seems that they lived before the time of Christianity altogether, because if they had been Christians, the Jewish rabbis would not have cared about preserving because of their differences.
-
-**Classical tafsir:** Ibn Kathir notes: This indicates that this story was something recorded in the books of the People of the Book, and that it came before Christianity.
-
-**From the Sunnah:** As for the elders of Quraysh, most of them kept to their religion and only a few of them became Muslims. We have mentioned above the report from Ibn 'Abbas that the Quraysh sent a message to the Jewish rabbis in Al-Madinah to ask them for things with which they could test the Messenger of Allah ﷺ, and they told them to ask him about these young men, and about Dhu…
 ## Personal Reflections
-
 

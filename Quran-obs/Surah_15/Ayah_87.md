@@ -121,13 +121,5 @@ The Sahabah ؓ asked the Holy Prophet ﷺ as to what it will be about. He said t
 
 We have certainly given you the seven oft-repeated verses and the great Quran.
 
-## AI Tafsir
-
-**What this ayah teaches:** Since these seven verses are repeated in every Salah, they have been referred to in the verse 87 as 'oft-repeated verses'. Then, the words 'and the glorious Qur'an' occurring after it are of explanatory nature which refer to the same 'seven oft repeated verses'.
-
-**Classical tafsir:** Ibn Kathir notes: Sa'id said: "In them, Allah explains the obligations, the Hudud (legal limits), stories and rulings." Ibn 'Abbas said, "He explains the parables, stories and lessons." The second opinion is that they (the seven of the Mathani) are Al-Fatihah, which is composed of seven Ayat.
-
-**From the Sunnah:** Ibn 'Abbas said: "The Bismillah, is completing seven Ayah, which Allah has given exclusively to you (Muslims)." This is also the opinion of Ibrahim An-Nakha'i, 'Abdullah bin 'Umayr, Ibn Abi Mulaykah, Shahr bin Hawshab, Al-Hasan Al-Basri and Mujahid.
 ## Personal Reflections
-
 

@@ -162,11 +162,5 @@ If only the translation of the Qur'an is written in any language without the Ara
 
 which will take them by surprise when they least expect it.
 
-## AI Tafsir
-
-**What this ayah teaches:** Hence the inclusion of the meanings of Qur’ an in them is referred in this verse as ` Qur'an'.
-
-**Classical tafsir:** Ibn Kathir notes: Then they will say: "Can we be respited?") means, when they see the punishment, then they will wish they had a little more time so that they can obey Allah – or so they claim.
 ## Personal Reflections
-
 

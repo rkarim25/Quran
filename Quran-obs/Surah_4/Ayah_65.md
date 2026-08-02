@@ -197,15 +197,5 @@ A little deliberation in these verses will unfold the radiant grandeur of his au
 
 But no! By your Rabb, they will never be those who have iman until they accept you as the judge in their disputes, and find no resistance within themselves against your decision and submit wholeheartedly.
 
-## AI Tafsir
-
-**Context:** So, Allah's Messenger ﷺ gave Az-Zubayr his full right when the Ansari made him angry. Before that, Allah's Messenger ﷺ had given a generous judgment, beneficial for Az-Zubayr and the Ansari.
-
-**What this ayah teaches:** The person who lost the dispute said, "I do not agree." The other person asked him, "What do you want then" He said, "Let us go to Abu Bakr As-Siddiq." They went to Abu Bakr and the person who won the dispute said, "We went to the Prophet ﷺ with our dispute and he issued a decision in my favor." Abu Bakr said, "Then the decision is that which the Messenger of Allah ﷺ issued." T…
-
-**Classical tafsir:** Ibn Kathir notes: This Ayah indicates that the Prophets are only obeyed by whomever Allah directs to obedience.
-
-**From the Sunnah:** The Ansari became angry and said, 'O Allah's Messenger!
 ## Personal Reflections
-
 

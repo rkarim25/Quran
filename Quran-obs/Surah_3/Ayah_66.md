@@ -172,19 +172,5 @@ Verse 68 declares that the closest of people to Sayyidna Ibrahim (علیہ ال�
 
 Here you are! You disputed about what you have knowledge of, but why do you now argue about what you have no knowledge of? Allah knows and you do not know.
 
-## AI Tafsir
-
-**Essence**
-The People of the Scripture quarreled over whether Ibrahim was a Jew or a Christian — yet both faiths came long after him. Argue from knowledge, not conjecture; and where you have no knowledge, leave it to Allah, who knows.
-
-**What it teaches**
-Allah confronts the People of the Scripture who disputed over Ibrahim. There were matters of their own revealed law in which they did have some knowledge — yet even those they wrangled over. So why press on into a matter about which they had no knowledge at all: Ibrahim's true way, when the Tawrah and Injil were sent down only after him? The verse seals the rebuke with "wallahu ya'lamu wa antum la ta'lamun" — Allah knows and you do not — turning the heart away from contention toward the One who alone knows the truth of the matter.
-
-**The scholars**
-Ibn Kathir grounds the rebuke in history: the Jews claimed Ibrahim before the Tawrah was revealed to Musa, the Christians claimed him though Christianity came after his time — "Have you then no sense?" Had they confined their dispute to their own religions and the Law legislated for them, matters they actually knew, "it would have been better for them"; instead they argued about what they had no knowledge of. So, Ibn Kathir explains, Allah commanded them to refer what they do not know "to He Who knows the seen and unseen matters and Who knows the true reality of all things." Maarif ul Quran sharpens the logic: verse 66 exposes the hollowness of arguing even on incomplete knowledge — and if that is baseless, venturing to argue on no knowledge "could hardly be explained." The conclusion: "the truth is that only Allah knows the way of Ibrahim."
-
-**Reflection**
-Before you contend over sacred things, ask what you truly know — and hand back to Allah what you do not.
 ## Personal Reflections
-
 

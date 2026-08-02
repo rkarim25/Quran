@@ -176,11 +176,5 @@ One reason for their denial of the true faith could have been if the message was
 
 Or because they say, “He is insane?” In fact, he has come to them with the truth, but most of them are resentful of the truth.
 
-## AI Tafsir
-
-**What this ayah teaches:** Have they not pondered over the Word, or has there come to them what had not come to their fathers of old (68)Or is it that they did not recognize their Messenger so they deny him (69)Or they say: There is madness in him Nay, but he brought them the truth, but most of them are averse to the truth (70)And if Al-Haqq had followed their desires, verily, the heavens and the earth,…
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

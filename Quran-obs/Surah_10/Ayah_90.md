@@ -212,15 +212,5 @@ Until when he was about to drown, he said, "I believe that there is no god but t
 
 We brought the Children of Israel across the sea. Then Pharaoh and his soldiers pursued them unjustly and oppressively. But as Pharaoh was drowning, he cried out, “I believe that there is no god except that in whom the Children of Israel believe, and I am now one of those who submit.”
 
-## AI Tafsir
-
-**Context:** (and We made them leaders inviting to the Fire: and on the Day of Resurrection, they will not be helped.)(28:41) These facts about Fir'awn and his status at that time were among the secrets of the Unseen that Allah revea…
-
-**What this ayah teaches:** The Children of Israel were saved and Fir'awn's People drowned Allah tells us how He caused Fir'awn and his soldiers to drown.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** Allah's Messenger ﷺ said; (Sunan Abi Dawud) "Hasan Gharib Sahih." About Allah's statement, (Jami' at-Tirmidhi)
 ## Personal Reflections
-
 

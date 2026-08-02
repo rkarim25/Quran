@@ -120,13 +120,5 @@ The one who reminds you of Allah when you see him, and adds to your knowledge wh
 
 Woe to me! I wish I had never taken so-and-so as a close friend.
 
-## AI Tafsir
-
-**Context:** (And (remember) the Day when the wrongdoer will bite at his hands, he will say: "O! Would that I had taken a path with the Messenger.") Here Allah tells us of the regret felt by the wrongdoer who rejected the path of the…
-
-**What this ayah teaches:** Would that I had never taken so-and-so as an intimate friend!) meaning, the one among the propagators of misguidance who diverted him from true guidance and led him to follow the path of misguidance, whether this refers to Umayyah bin Khalaf or his brother Ubayy bin Khalaf, or to someone else.
-
-**Classical tafsir:** Ibn Kathir notes: Would that I had never taken so-and-so as an intimate friend!) meaning, the one among the propagators of misguidance who diverted him from true guidance and led him to follow the path of misguidance, whether this refers to Umayyah bin Khalaf or his brother Ubayy bin Khalaf, or to…
 ## Personal Reflections
-
 

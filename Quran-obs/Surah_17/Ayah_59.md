@@ -146,13 +146,5 @@ About the sentence which follows immediately after: يَرْ‌جُونَ رَ�
 
 Nothing keeps Us from sending the demanded signs except that they had already been denied by earlier peoples. And We gave Thamûd the she-camel as a clear sign, but they wrongfully rejected it. We only send the signs as a warning.
 
-## AI Tafsir
-
-**What this ayah teaches:** And nothing stops Us from sending the Ayat but that the people of old denied them. And We sent the she-camel to Thamud as a clear sign, but they did her wrong.
-
-**Classical tafsir:** Ibn Kathir notes: If you wish, I will do what they say, but if they do not believe after that, the punishment will come down upon them, because after the sign has been sent, there is no room for speculation.
-
-**From the Sunnah:** 'Umar said: "You have changed, by Allah, and if such a quake were to strike again, I will subject you to such and such." The Prophet ﷺ said, in a Hadith whose authenticity is agreed upon:
 ## Personal Reflections
-
 

@@ -130,11 +130,5 @@ The verse 94 has referred to this fact by saying, 'We seized it's people with ha
 
 Whenever We sent a prophet to a society, We afflicted its people with suffering and adversity, so perhaps they would be humbled.
 
-## AI Tafsir
-
-**What this ayah teaches:** This suffering is, in fact, a blessing of Allah in disguise as it is meant for their good.
-
-**Classical tafsir:** Ibn Kathir notes: This Ayah indicates that Allah sent down severe afflictions to them so that they might invoke Him, but they did not do what He ordered them.
 ## Personal Reflections
-
 

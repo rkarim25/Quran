@@ -135,13 +135,5 @@ Therefore the best friendship, in respect of this world as well as the Hereafter
 
 Or do they think We do not hear their evil thoughts and secret talks? Yes We do! And Our messenger-angels are in their presence, recording it all.
 
-## AI Tafsir
-
-**What this ayah teaches:** Then We too are planning (79)Or do they think that We hear not their secrets and their private counsel?
-
-**Classical tafsir:** Ibn Kathir notes: And 'love for the sake of Allah' means to love someone because he is a true follower of the religion prescribed by Allah.
-
-**From the Sunnah:** Paradise as You have shown to me, and be pleased with him, as you have been with me. (Sahih Muslim) Many are the merits stated in 'ahadith' for those two Muslims who love each other purely for the sake of Allah.
 ## Personal Reflections
-
 

@@ -152,11 +152,5 @@ Ends here
 
 And as for those whose scales are light—
 
-## AI Tafsir
-
-**What this ayah teaches:** Anyone whose Book of Deeds is put on the scale and contains the belief ('Iman) will be heavy, and the scale of anyone whose Ledger of Deeds does not contain 'Iman will be light.
-
-**Classical tafsir:** Ibn Kathir notes: Qatadah said, "He will fall into the Hellfire on his head." Abu Salih made a similar statement when he said, "They will fall into the Fire on their heads." It has also been said that it means his mother that he will return to and end up with in the Hereafter will be Hawiyah, which is one of the name…
 ## Personal Reflections
-
 

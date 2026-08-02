@@ -250,13 +250,5 @@ May Allah bless us and bless all Muslims with love for Him and the love for His 
 
 Say, “If your parents and children and siblings and spouses and extended family and the wealth you have acquired and the trade you fear will decline and the homes you cherish— are more beloved to you than Allah and His Messenger and struggling in His Way, then wait until Allah brings about His Will. Allah does not guide the rebellious people.”
 
-## AI Tafsir
-
-**What this ayah teaches:** And whoever of you befriends them, then he is one of the wrongdoers (23)Say: If your fathers, your sons, your brothers, your spouses, your kindred, the wealth that you have gained, the commerce in which you fear a decline, and the dwellings in which you delight are dearer to you than Allah and His Messenger, and striving hard and fighting in His cause, then wait until Allah brings about His decisi…
-
-**Classical tafsir:** Ibn Kathir notes: And it is also possible that this may be a place where migration itself has been made to stand for Jihad - because, in reality, that too is nothing but a department of Jihad.
-
-**From the Sunnah:** First of all, when Hijrah from Makkah to Madinah was made obligatory, it was not simply a matter of obligation, in fact, it was also a hallmark and a symbol of being a Muslim.
 ## Personal Reflections
-
 

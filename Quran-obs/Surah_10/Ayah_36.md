@@ -147,13 +147,5 @@ In relation to issues of religious beliefs embedded in this verse, it must be bo
 
 Most of them follow nothing but inherited assumptions. And surely assumptions can in no way replace the truth. Allah is indeed All-Knowing of what they do.
 
-## AI Tafsir
-
-**What this ayah teaches:** Surely, Allah is All-Aware of what they do .
-
-**Classical tafsir:** Ibn Kathir notes: In other words, once it stands proved that Allah Ta` ala is the only true and rightful object of worship, it is terribly senseless to abandon this truth and allow yourself to be diverted elsewhere.
-
-**From the Sunnah:** This is an established rule in the sight of the majority of scholars in the Muslim Ummah. (Sahih Muslim)
 ## Personal Reflections
-
 

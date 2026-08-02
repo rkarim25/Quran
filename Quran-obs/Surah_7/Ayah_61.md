@@ -112,13 +112,5 @@ After that comes the reply to the other doubt expressed by them. This has been s
 
 He replied, “O my people! I am not misguided! But I am a messenger from the Rabb of all worlds, conveying to you my Rabb’s messages and giving you advice. And I know from Allah what you do not know.
 
-## AI Tafsir
-
-**What this ayah teaches:** There is no error in me, but I am a Messenger from the Lord of all that exists (61)I convey unto you the Messages of my Lord and give sincere advice to you. Allah mentioned the story of Nuh, because he was the first Messenger Allah sent to the people of the earth after Adam.
-
-**Classical tafsir:** Ibn Kathir notes: Allah mentioned the story of Nuh, because he was the first Messenger Allah sent to the people of the earth after Adam.
-
-**From the Sunnah:** In his Sahih, Muslim recorded that the Messenger of Allah ﷺ said to his Companions on the Day of 'Arafah, when their gathering was as large as it ever was, (Sahih Muslim)
 ## Personal Reflections
-
 

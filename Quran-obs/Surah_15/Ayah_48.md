@@ -103,13 +103,5 @@ As for the third probability, that the blessings of Jannah may remain everlastin
 
 No fatigue will touch them there, nor will they ever be asked to leave.
 
-## AI Tafsir
-
-**What this ayah teaches:** Then judgment will be passed between them concerning any wrong they have committed in this world against one another, until they are cleansed and purified. These blessings shall never diminish nor shall anyone be expelled from there.
-
-**Classical tafsir:** Ibn Kathir notes: And that My torment is indeed the most painful torment.) meaning, 'O Muhammad, tell My servants that I am the source of mercy and I am the source of punishment.' Similar Ayat to this have already been quoted above, which indicate that we must always be in a state between hope (fo…
-
-**From the Sunnah:** Paradise will enter Paradise with whatever enmity is left in their hearts from this world.
 ## Personal Reflections
-
 

@@ -114,11 +114,5 @@ Ends here.
 
 Ta-Sin-Mim — opening letters whose full meaning rests with Allah.
 
-## AI Tafsir
-
-**What this ayah teaches:** It may be that you are going Bakhi' yourself, that they do not become believers.)(4.
-
-**Classical tafsir:** Ibn Kathir notes: Abu Al-'Aliyah, Qatadah, Ar-Rabi' bin Anas and Ibn Ishaq said: "He is Almighty in His punishment of those who went against His commands and worshipped others besides Him." Sa'id bin Jubayr said: "He is ar-Rahim towards those who repent to Him and turn to Him."
 ## Personal Reflections
-
 

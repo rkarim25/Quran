@@ -82,11 +82,5 @@ Ad-Dahhak said, "Meaning a death which is not followed by any life." Likewise sa
 
 So this Day they will have no close friend here,
 
-## AI Tafsir
-
-**What this ayah teaches:** None will eat it except the Khati'un.) meaning, there is no one today who can save him from the punishment of Allah, nor any close friend or intercessor whose request would be honored. The verses signify that on the Day of Resurrection he will have no friend that will support him or save him from punishment, nor will he have anything to eat except the filthy water with which pus exuding from the w…
-
-**Classical tafsir:** Ibn Kathir notes: Qatadah said, "It will be the worst food of the people of the Hellfire." Ar-Rabi' and Ad-Dahhak both said, "It (Ghislin) is a tree in Hell." Shabib bin Bishr reported from 'Ikrimah that Ibn 'Abbas said, 'Ghislin will be the blood and fluid that will flow from their flesh." 'Ali bin Abi Talhah report… The word ghislin with 'gh' bearing the kasrah [= i ] refers to the water with which the pus and bloo…
 ## Personal Reflections
-
 

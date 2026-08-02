@@ -110,11 +110,5 @@ Here مِن قَبْلُ (earlier) means before the time of Sayyidna Ibrahim and
 
 And We made him prevail over those who had rejected Our signs. They were truly an evil people, so We drowned them all.
 
-## AI Tafsir
-
-**What this ayah teaches:** We answered to his invocation and saved him and his family from the great distress (76)We helped him against the people who denied Our Ayat.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

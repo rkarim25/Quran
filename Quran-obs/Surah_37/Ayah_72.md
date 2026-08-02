@@ -46,11 +46,5 @@ The sense of the rest of the verses is clear from their translation.
 
 although We had certainly sent warners among them.
 
-## AI Tafsir
-
-**What this ayah teaches:** And indeed most of the earlier ones went astray before them (71)And indeed We sent among them warners (72)Then see what was the end of those who were warned (73)Except the chosen servants of Allah . He states that He sent among them warners to alert them to the anger, wrath and vengeance of Allah towards those who disbelieve in Him and worship others besides Him.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, in Urdu and Hindi too, it is called 'nagphan' (hood of the serpent) for this very reason.
 ## Personal Reflections
-
 

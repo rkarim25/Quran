@@ -134,11 +134,5 @@ A tree by the name of Zaqqum is found in the territory of Tihamah, a part of the
 
 Is this bliss a better accommodation or the tree of Zaqqum?
 
-## AI Tafsir
-
-**What this ayah teaches:** The reality of Zaqqum A tree by the name of Zaqqum is found in the territory of Tihamah, a part of the Arabian Peninsula, and ` Allamah ` Alusi has written that it is also found in other barren deserts.
-
-**Classical tafsir:** Ibn Kathir notes: The reality of Zaqqum A tree by the name of Zaqqum is found in the territory of Tihamah, a part of the Arabian Peninsula, and ` Allamah ` Alusi has written that it is also found in other barren deserts.
 ## Personal Reflections
-
 

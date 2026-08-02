@@ -231,15 +231,5 @@ After that comes verse 87 اللَّـهُ لَا إِلَـٰهَ إِلَّا 
 
 Allah, there is no god except Him. He will certainly gather you together on the Day of Judgment—about which there is no doubt. And whose word is more truthful than Allah’s?
 
-## AI Tafsir
-
-**Context:** (Intercede and you will gain a reward of it. Yet, Allah shall decide whatever He wills by the words of His Prophet.) Mujahid bin Jabr said, "This Ayah was revealed about the intercession of people on behalf of each other…
-
-**What this ayah teaches:** Certainly, Allah is Ever a Careful Account Taker of all things (86)Allah!
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, the better Salam is recommended, while returning it equally is an obligation.
-
-**From the Sunnah:** For instance, the Prophet ﷺ said to the believers at the battle of Badr, while organizing their lines, Paradise, between each two grades is the distance between heaven and Earth.
 ## Personal Reflections
-
 

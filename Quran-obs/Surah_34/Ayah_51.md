@@ -131,13 +131,5 @@ According to most commentators, the attending condition described in verse 51: Ù
 
 If only you could see when they are terrified with no escape, seized from a nearby place.
 
-## AI Tafsir
-
-**What this ayah teaches:** And if you could but see, when they will be terrified with no escape, and they will be seized from a near place (51)And they will say: "We do believe (now);" but how could they receive (Tanawush) from a place so far off (52)Indeed they did disbelieve before (in this world), and they (used to) conjecture about the Unseen, from a far place (53)And a barrier will be set between them and that which thâ€¦
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** It is also the opinion of Al-Bukhari and the Group. (Sahih al-Bukhari)
 ## Personal Reflections
-
 

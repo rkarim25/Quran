@@ -191,13 +191,5 @@ The word: حُسبانا - (husbana) in verse 40 has been explained by Qatadah a
 
 And give them a parable of this worldly dunya. It is like the plants of the earth, thriving when sustained by the rain We send down from the sky. Then they soon turn into chaff scattered by the wind. And Allah is fully capable of doing all things.
 
-## AI Tafsir
-
-**What this ayah teaches:** And mention the parable of the worldly life: it is like the water which We send down from the sky, and the vegetation of the earth mingles with it, and becomes fresh and green.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** 'Ata' bin Abi Rabah and Sa'id bin Jubayr narrated from Ibn 'Abbas, "The good righteous deeds that last are 'Subhan Allah (glory be to Allah)', 'Al-Hamdu Lillah (praise be to Allah)', 'La ilaha illallah (there is none worthy of worship except Allah)', and 'Alla… (Musnad Ahmad) from a freed slave of the Messenger of Allah ﷺ that he said: (Musnad Ahmad)
 ## Personal Reflections
-
 

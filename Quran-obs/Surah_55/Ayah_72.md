@@ -156,13 +156,5 @@ This is the end of the Tafsir of Surat Ar-Rahman, all praise is due to Allah and
 
 Companions of gorgeous eyes, reserved in pavilions.
 
-## AI Tafsir
-
-**What this ayah teaches:** These qualities too will be common with the maidens of both the Gardens, to which reference was made in the foregoing verses.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** that this tent is thirty miles wide (Sahih Muslim)
 ## Personal Reflections
-
 

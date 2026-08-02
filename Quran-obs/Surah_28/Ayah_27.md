@@ -235,13 +235,5 @@ The word أُنكِحَكَ (I wish to marry...with you) has proved that the fat
 
 The old man proposed, “I wish to marry one of these two daughters of mine to you, provided that you stay in my service for eight years. If you complete ten, it will be a favour from you, but I do not wish to make it difficult for you. Allah willing, you will find me an agreeable man.”
 
-## AI Tafsir
-
-**What this ayah teaches:** But in a later ruling by the scholars it is elaborated that though it is against the honour and dignity of husband to serve his wife in lieu of mahr (dower), but any duty performed outside the house, such as grazing of cattle or trading, can be made a substitute for it, provided a time frame is agreed upon before hand, as was in the case of Sayyidna Musa, where the parties had…
-
-**Classical tafsir:** Ibn Kathir notes: And there is evidence which indicates that Musa, peace be upon him, fulfilled the longer of the two terms.
-
-**From the Sunnah:** And the Messenger of Allah ﷺ said to Hamzah bin 'Amr Al-Aslami, may Allah be pleased with him, who used to fast a great deal and who asked him about fasting while traveling:
 ## Personal Reflections
-
 

@@ -146,17 +146,5 @@ Verse 78 says that the illiterate Jews follow their Zann ظن ، that is to say,
 
 Among them are the unlettered who know nothing of the Scripture except wishful guesses.
 
-## AI Tafsir
-
-**Essence** Among the People of the Book were unlettered masses who knew Allah's Scripture only through amani — wishes or outright lies — and mere guesswork.
-
-**What it teaches** Ummiyyun means those who do not write (Abu al-'Aliyah, Qatadah); per Maarif ul Quran, dishonest scholars fed them flattering superstition instead of the Torah.
-
-**The scholars** Mujahid: they grasped nothing of the Book sent down to Musa, "yet they create lies and falsehood." Ibn 'Abbas: amani is "a false statement that they utter with their tongues" (others: wishes and hopes). Maarif ul Quran: Qur'anic zann spans certitude (2:46), the greatest likelihood (12:42), and mere fancy — only the third is condemned here.
-
-**From the Sunnah** The Prophet ﷺ said, "We are an Ummi nation, neither writing nor calculating" — ummi was among his own descriptions (Ibn Kathir). In an athar in Al-Bukhari, Ibn 'Abbas asked how Muslims could question the People of the Book while the Qur'an is read "fresh and young."
-
-**Reflection** Know your Book firsthand — borrowed guesses cannot stand before revelation read fresh.
 ## Personal Reflections
-
 

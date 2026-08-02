@@ -125,11 +125,5 @@ In the last sentence of the verse (114), it was said: إِنَّ ِبْرَ‌ا
 
 Indeed, to Allah belongs the kingdom of the heavens and the earth. He gives life and causes death. And besides Allah you have no guardian or helper.
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, Allah is the All-Knower of everything (115)Indeed to Allah belongs the dominion of the heavens and the earth, He gives life and He causes death. Recompense comes after Proof is established Allah describes His Honorable Self and just judgment in that He does not lead a people astray but after the Message comes to them, so that the proof is established against them.
-
-**Classical tafsir:** Ibn Kathir notes: Recompense comes after Proof is established Allah describes His Honorable Self and just judgment in that He does not lead a people astray but after the Message comes to them, so that the proof is established against them.
 ## Personal Reflections
-
 

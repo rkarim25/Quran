@@ -133,11 +133,5 @@ Allah's saying;
 
 It will be said: Throw into Hell every stubborn denier,
 
-## AI Tafsir
-
-**What this ayah teaches:** It appears that Allah will say these words to the Sa'iq and Shahid angels; Allah will order them to throw him in the fire of Hell.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

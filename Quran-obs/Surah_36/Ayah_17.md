@@ -104,11 +104,5 @@ And it has been reported from Sayyidna Qatadah ؓ that the word: مُّرْ‌س
 
 And our duty is only to deliver the message clearly."
 
-## AI Tafsir
-
-**What this ayah teaches:** You are only telling lies." The Messengers said: "Our Lord knows that we have been sent as Messengers to you.") This means that the three Messengers answered them saying: "Allah knows that we are His Messengers to you.
-
-**Classical tafsir:** Ibn Kathir notes: You are only telling lies." The Messengers said: "Our Lord knows that we have been sent as Messengers to you.") This means that the three Messengers answered them saying: "Allah knows that we are His Messengers to you.
 ## Personal Reflections
-
 

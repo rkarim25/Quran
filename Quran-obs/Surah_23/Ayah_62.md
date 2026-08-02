@@ -158,13 +158,5 @@ The meaning of مُسَارَعَت فِی الخَیرَات is that just as or
 
 We never require of any soul more than what it can afford. And with Us is a record which speaks the truth. None will be wronged.
 
-## AI Tafsir
-
-**Context:** (from this.) means, the Qur'an which Allah revealed to His Messenger ﷺ. (In pride, talking evil about it by night.) refers to the arrogant pride which the Quraysh felt because they believed themselves to be the guardians…
-
-**What this ayah teaches:** And We task not any person except according to his capacity, and with Us is a Record which speaks the truth, and they will not be wronged (62)Nay, but their hearts are covered from this, and they have other deeds, besides which they are doing (63)Until when We seize those of them who lead a luxurious life with punishment; behold, they make humble invocation with a loud voice (64)Invoke not loudly…
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

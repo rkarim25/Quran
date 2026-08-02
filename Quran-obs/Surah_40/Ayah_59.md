@@ -94,13 +94,5 @@ In verse 56, it was said: إِن فِي صُدُورِ‌هِمْ إِلَّا �
 
 The Hour is certainly coming—there is no doubt about it. But most people do not believe.
 
-## AI Tafsir
-
-**What this ayah teaches:** Little do you remember (58)Verily, the Hour is surely coming, there is no doubt about it, yet most men believe not .
-
-**Classical tafsir:** Ibn Kathir notes: It means that people who quarrel in the matter of the verses of Allah without having any valid argument really look forward to rejecting this faith simply because their hearts are filled with pride and arrogance.
-
-**From the Sunnah:** They would like to stay ahead in the game and are so dim-witted that they have taken for granted that they have this position of strength as a result of their staunch adherence to their faith, and if they were to surrender this stance by becoming Muslims, they…
 ## Personal Reflections
-
 

@@ -305,22 +305,5 @@ Verse 85 announces the "punishment" for Jews. One may very well ask here why the
 
 Yet here you are, killing one another and driving out groups among you from their homes, aiding one another in sin and aggression. When captives come to you, you ransom them — though expelling them was forbidden to you. Do you believe in part of the Scripture and reject the rest? What reward is there for that except disgrace in this dunya — this temporary worldly life — and harsh punishment on the Day of Judgment? Allah is not unaware of what you do.
 
-## AI Tafsir
-
-**Essence**
-Faith on your own terms earns disgrace in this world and the severest punishment on the Day of Resurrection.
-
-**What it teaches**
-Three covenant duties bound the Israelites: shed no kinsman's blood, expel none from their homes, ransom captives. They broke the first two and kept only the easiest — and Allah is never ghafil (unaware) of anything they do.
-
-**The scholars**
-Ibn Kathir relates from Ibn 'Abbas: Qaynuqa' (with Khazraj) and an-Nadir and Qurayzah (with Aws) killed and exiled their own brethren in their allies' wars, then ransomed the prisoners according to the Tawrah. Maarif ul-Quran: rejecting part of a Divine Book is rejecting it all; the foretold disgrace came in the Prophet's ﷺ lifetime — Qurayzah fell, an-Nadir were expelled.
-
-**From the Sunnah**
-"The example of the believers in their kindness, mercy and sympathy to each other is the example of one body, when an organ of it falls ill, the rest of the body rushes to its aid in fever and sleeplessness." (Tafsir Ibn Kathir; no collection named)
-
-**Reflection**
-Take the whole Book — beginning with the command that weighs heaviest on you today.
 ## Personal Reflections
-
 

@@ -118,13 +118,5 @@ Ends here.
 
 On that Day wrongdoers' excuses will not benefit them, nor will they be allowed to appease.
 
-## AI Tafsir
-
-**Context:** It is revealed in this verse that the infidels will lie on the Day of Resurrection in their swearing that they did not stay in the world or barzakh for more than an hour.
-
-**What this ayah teaches:** If it were possible to speak a lie, he would have said ` Allah is my Lord' and ` Muhammad is His Prophet ﷺ .' It looks rather strange that infidels are capable of speaking lies before Allah Ta’ ala, but not before the angels.
-
-**Classical tafsir:** Ibn Kathir notes: It is probable that the stay referred to here is the stay in this world, because they spent the time in this world in comfort and ease.
 ## Personal Reflections
-
 

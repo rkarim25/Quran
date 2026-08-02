@@ -130,11 +130,5 @@ Its reply which appears in verses 67 and 68 is nearly the same as given by Sayyi
 
 Hûd replied, “O my people! I am no fool! But I am a messenger from the Rabb of all worlds, conveying to you my Rabb’s messages. And I am your sincere advisor.
 
-## AI Tafsir
-
-**What this ayah teaches:** There is no foolishness in me, but (I am) a Messenger from the Lord of all that exists (67)"I convey unto you the Messages of my Lord, and I am a trustworthy adviser (or well-wisher) for you (68)"Do you wonder that there has come to you a Reminder (and an advice) from your Lord through a man from among you to warn you?
-
-**Classical tafsir:** Ibn Kathir notes: So remember the graces (bestowed upon you) from Allah so that you may be successful.
 ## Personal Reflections
-
 

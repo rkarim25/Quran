@@ -47,15 +47,5 @@ The verses of the Surah al-Mumin/Ghafir (Chapter 40) serve as a commentary on th
 
 Sovereign of the Day of Reckoning—when every hidden deed, every word spoken in private, every kindness forgotten, and every account left unsettled in this life will be weighed with perfect justice.
 
-## AI Tafsir
-
-**Essence** On the Day of Requital, all mastery — apparent and real — belongs to Allah alone.
-
-**What it teaches** Malik comes from milk: possession with the full right and power to dispose of a thing as one wills. Din means requital. Yawm ad-Din is the Day Allah appoints to recompense good and evil.
-
-**The scholars** Maarif ul Quran teaches that Allah is the real Master of every particle, His mastery without beginning or end, while man's ownership is borrowed and temporary. This world is the field of action, not reward: wealth is no proof of His pleasure, poverty no proof of His wrath. The Day warns man drunk with pride — a Day comes when masters are masters no more and slaves slaves no more, and the kingdom is Allah's alone (40:16).
-
-**Reflection** Hold every possession and rank loosely, for they are a trial on loan; live for the Day when the only verdict that lasts is His.
 ## Personal Reflections
-
 

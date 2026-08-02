@@ -158,11 +158,5 @@ Therefore, those who rush to obey Allah in this life and are foremost in perform
 
 becoming scattered dust,
 
-## AI Tafsir
-
-**What this ayah teaches:** And the mountains will be powdered to dust,)(6. So that they will become floating dust particles.)(7.
-
-**Classical tafsir:** Ibn Kathir notes: And the mountains will be powdered to dust,)(6.
 ## Personal Reflections
-
 

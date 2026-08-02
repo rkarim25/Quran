@@ -182,13 +182,5 @@ This call of the Qur'an made broken hearts throb again. Sulking bodies were aglo
 
 Do not falter or grieve, for you will have the upper hand, if you are those who have iman.
 
-## AI Tafsir
-
-**What this ayah teaches:** This is a plain statement for mankind), meaning, the Qur'an explains the true reality of things and narrates how the previous nations suffered by the hands of their enemies. They are being told that, under the customary practice of Allah, the those who reject the truth are the ultimate losers; it does not matter if Muslims have not scored a victory at this time because of their strategic mistake, but should the…
-
-**Classical tafsir:** Ibn Kathir notes: This is a plain statement for mankind), meaning, the Qur'an explains the true reality of things and narrates how the previous nations suffered by the hands of their enemies.
-
-**From the Sunnah:** Paradise before Allah knows (tests) those of you who performed Jihad and knows (tests) those who are patient (142)You did indeed wish for death before you met it.
 ## Personal Reflections
-
 

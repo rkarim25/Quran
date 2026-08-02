@@ -144,13 +144,5 @@ After all these reports, why should it remain so far out to realize that everyth
 
 When you O Prophet recite the Quran, We put a hidden barrier between you and those who do not believe in the Akhirah.
 
-## AI Tafsir
-
-**What this ayah teaches:** And when you recite the Qur'an, We put between you and those who believe not in the Hereafter, an invisible veil (45)And We have put Akinnah over their hearts, lest they should understand it, and in their ears deafness.
-
-**Classical tafsir:** Ibn Kathir notes: Iblis and his troops hated it, but Allah insisted on supporting it so that it would prevail over those who opposed it.
-
-**From the Sunnah:** She came and found Abu Bakr, but she did not see the Prophet ﷺ. Only the Muslims of the Arabian Peninsula, which can be traversed by a rider in a few nights, knew it and accepted it, out of all mankind.
 ## Personal Reflections
-
 

@@ -202,13 +202,5 @@ The expression: ` witnesses of their own infidelity' could have two meanings. It
 
 It is not for the polytheists to maintain the mosques of Allah while they openly profess rejection of the truth. Their deeds are void, and they will be in the Fire forever.
 
-## AI Tafsir
-
-**What this ayah teaches:** Because of their Kufr and Shirk, their deeds had gone waste and they were to live in the Fire of Jahannam eternally. It is not for the Mushrikin, to maintain the Masjids of Allah, while they witness against themselves of disbelief.
-
-**Classical tafsir:** Ibn Kathir notes: Customarily, when a Christian or Jew is asked as to his religious identity, he would say that he was a Christian or Jew.
-
-**From the Sunnah:** With this in view, Muslims were also brought around to stand up against them. (Sahih Muslim) The address in this verse is also to those common people who were taken to be Muslims, though some of them were hypocrites while some others were weak in faith and kept wavering. (Sahih Muslim)
 ## Personal Reflections
-
 

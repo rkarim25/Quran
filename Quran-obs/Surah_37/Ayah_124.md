@@ -140,13 +140,5 @@ In short, it is not proved from any authentic Islamic report that Sayyidna Ilyas
 
 Remember when he said to his people: "Will you not live with taqwa—Allah-consciousness as though Allah sees you?
 
-## AI Tafsir
-
-**What this ayah teaches:** After that he prayed that the people of Isra'il be seized with famine, so that he may show them some miracles at his hand for removing the famine, may be, they would, then, come to believe.
-
-**Classical tafsir:** Ibn Kathir notes: 'Ikrimah and Qatadah said, "This is the language of the people of Yemen." According to another report from Qatadah, it is the language of Azd Shanu'ah.
-
-**From the Sunnah:** Qatadah and Muhammad bin Ishaq said, "Ilyas is another name for Idris." Ibn Abi Hatim recorded that 'Abdullah bin Mas'ud, may Allah be pleased with him, said, "Ilyas is Idris." This was also the view of Ad-Dahhak . I had never imagined that the inadvertence of al-Hakim could overtake him to the extent that he would admit this thing as sound - ad-Durr-ul-Manthur, p.286, v.5. (al-Mustadrak)
 ## Personal Reflections
-
 

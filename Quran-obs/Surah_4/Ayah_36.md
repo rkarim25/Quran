@@ -430,13 +430,5 @@ Sayyidna Ibn Masud ؓ has narrated that the Holy Prophet ﷺ said: 'Whoever has 
 
 Worship Allah and associate none with Him. And be kind to parents, relatives, orphans, the poor, near and distant neighbours, close friends, travellers, and those in your possession. Surely Allah does not like whoever is arrogant, boastful— those who are stingy, promote stinginess among people, and withhold Allah’s bounties. We have prepared for those who reject the truth a humiliating punishment.
 
-## AI Tafsir
-
-**What this ayah teaches:** But, by recalling it under the general head of relatives, the hint given is that one should consider helping orphaned children and helpless people as necessary as one would do for his or her own relatives.
-
-**Classical tafsir:** Ibn Kathir notes: This Ayah indicates that such a person boasts with people about the bounty that Allah has given him, but he is actually ungrateful to Allah for this bounty.
-
-**From the Sunnah:** the Messenger of Allah ﷺ asked his Companions, (Musnad Ahmad) An authentic Hadith records that during the illness that preceded his death, the Messenger of Allah ﷺ continued advising his Ummah: (authentic hadith)
 ## Personal Reflections
-
 

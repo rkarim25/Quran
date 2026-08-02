@@ -186,13 +186,5 @@ The miracle of the staff of Sayyidna Musa (علیہ السلام) was mentioned 
 
 Fear is only for those who do wrong. But if they later mend their evil ways with good, then I am certainly All-Forgiving, the Rahim — special mercy for believers in the Akhirah.
 
-## AI Tafsir
-
-**What this ayah teaches:** They are those who have committed any sin, but later repented and sought Allah's pardon and performed good deeds. Then He commanded him to throw down the stick that was in his hand, so that He might show him clear proof that He is the One Who is able to do all things, whatever He wills.
-
-**Classical tafsir:** Ibn Kathir notes: Then He commanded him to throw down the stick that was in his hand, so that He might show him clear proof that He is the One Who is able to do all things, whatever He wills.
-
-**From the Sunnah:** But If the exception is regarded adjoining with the subject, then the meaning of the verse would be that Allah's messengers do not get frightened except those who have committed some trifle or minor mistake and have repented on that.
 ## Personal Reflections
-
 

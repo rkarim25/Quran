@@ -127,13 +127,5 @@ Hence, this verse seems to tell us that all these sufferings, accidents, disease
 
 We will certainly let them taste lesser torment in this dunya before the greater torment of the Akhirah, so perhaps they will return.
 
-## AI Tafsir
-
-**Context:** (Is then he who is a believer like him who is a rebellious? Not equal are they.) i.e., before Allah on the Day of Resurrection.
-
-**What this ayah teaches:** The purpose is to chasten and alert them enough so that they leave off their sins and thus earn their deliverance from the Great Punishment of the Hereafter. However, for people who take no lesson even from such unwelcome happenings and fail to turn to Allah, for them, this punishment becomes twofold - first, the cash punishment right here in this world and then, the other being the Great Punishme…
-
-**Classical tafsir:** Ibn Kathir notes: The purpose is to chasten and alert them enough so that they leave off their sins and thus earn their deliverance from the Great Punishment of the Hereafter.
 ## Personal Reflections
-
 

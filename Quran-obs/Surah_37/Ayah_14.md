@@ -90,11 +90,5 @@ Outwardly, this is a dismissive answer, as is usually given to rigid people. But
 
 And whenever they see a sign, they make fun of it,
 
-## AI Tafsir
-
-**What this ayah teaches:** In other words, the problem of comprehension that confronted them was as to how in the world could they - once they and their forefathers had become dust and bones - be brought back to life all over again. If this is the case, then why do they deny the resurrection, when they see things that are greater than that which they deny?
-
-**Classical tafsir:** Ibn Kathir notes: In other words, the problem of comprehension that confronted them was as to how in the world could they - once they and their forefathers had become dust and bones - be brought back to life all over again.
 ## Personal Reflections
-
 

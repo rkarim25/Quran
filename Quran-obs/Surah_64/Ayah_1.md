@@ -153,11 +153,5 @@ Ends here
 
 Whatever is in the heavens and whatever is on the earth constantly glorifies Allah. The kingdom is His, and all praise is for Him. He is Most Capable of everything.
 
-## AI Tafsir
-
-**What this ayah teaches:** Whatsoever is in the heavens and whatsoever is on the earth glorifies Allah.
-
-**Classical tafsir:** Ibn Kathir notes: Earlier on it was learned that the word dhikr (remembrance of Allah) refers to all forms of obedience and following the dictates of Shari’ ah, which include spending wealth as due.
 ## Personal Reflections
-
 

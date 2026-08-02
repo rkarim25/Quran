@@ -142,11 +142,5 @@ The three angels; Jibril, Mika'il and Israfil came to Ibrahim in the image of ha
 
 His wife came forward with a cry, striking her face in astonishment: A child from a barren old woman?
 
-## AI Tafsir
-
-**What this ayah teaches:** Shall I bear a child while I am an old woman, and here is my husband an old man?
-
-**Classical tafsir:** Ibn Kathir notes: The word sarrah means vociferation or clamour or most vehement clamour of crying.
 ## Personal Reflections
-
 

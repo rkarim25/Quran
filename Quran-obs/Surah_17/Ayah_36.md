@@ -132,11 +132,5 @@ Now, the senses through which man becomes aware of different things are five: th
 
 Do not follow what you have no sure knowledge of. Indeed, all will be called to account for their hearing, sight, and intellect.
 
-## AI Tafsir
-
-**What this ayah teaches:** In other words, it should have attained the degree of perfect certitude and absolute category.
-
-**Classical tafsir:** Ibn Kathir notes: Do not speak without Knowledge Ali bin Abi Talhah reported that Ibn 'Abbas said: "This means) do not say (anything of which you have no knowledge)." Al-'Awfi said: "Do not accuse anyone of that of which you have no knowledge." Muhammad bin Al-Hanafiyyah said: "It means bearing false witness." Qatada…
 ## Personal Reflections
-
 

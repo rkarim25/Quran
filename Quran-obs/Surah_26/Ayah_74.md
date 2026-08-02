@@ -90,11 +90,5 @@ The reasoning for this he gave إِنَّ مَعِيَ رَ‌بِّي سَيَ�
 
 They replied, “No! But we found our forefathers doing the same.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Allah commanded His Messenger Muhammad ﷺ to recite this story to his Ummah so that they could follow this example of sincerity towards Allah, putting one's trust in Him, worshipping Him Alone with no partner or associate, and renouncing Shirk and its people. Almost the same thing happened with Holy Prophet ﷺ at the time of migration while hiding in the cave of Thaur.
-
-**Classical tafsir:** Ibn Kathir notes: Allah commanded His Messenger Muhammad ﷺ to recite this story to his Ummah so that they could follow this example of sincerity towards Allah, putting one's trust in Him, worshipping Him Alone with no partner or associate, and renouncing Shirk and its people.
 ## Personal Reflections
-
 

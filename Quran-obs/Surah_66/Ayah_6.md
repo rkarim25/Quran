@@ -216,15 +216,5 @@ The jurists have pointed out that, according to the verse under comment, it is t
 
 O believers: protect yourselves and your families from a Fire whose fuel is people and stones, guarded by formidable, severe angels who never disobey what Allah commands.
 
-## AI Tafsir
-
-**Context:** The word أَهْلِيكُمْ (your families) comprehends wife, children and slaves [ males as well as females ]. It is not inconceivable to include full-time servants in the imperative like slaves.
-
-**What this ayah teaches:** Towards the end of it the angels in charge of it, whose name is Zabaniah, are described.
-
-**Classical tafsir:** Ibn Kathir notes: You will only be recompensed for what you have been doing....66:7) After advising the general body of believers, the current verse turns attention to the non-believers who are asked not to try to make excuses, because they will not be accepted.
-
-**From the Sunnah:** This verse addresses the general body of Muslims and enjoins upon them to safeguard themselves and their families from a fire of Hell whose fuel is people and stones. Education and Training of Wife and Children: Every Muslim's Responsibility (Sahih Muslim)
 ## Personal Reflections
-
 

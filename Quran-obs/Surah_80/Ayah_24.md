@@ -188,11 +188,5 @@ Having mentioned in the preceding verses the beginning and the end of human life
 
 Let people consider their food:
 
-## AI Tafsir
-
-**What this ayah teaches:** Man is then asked to consider the sources of his food. Verily, Allah has decreed the existence of mankind, and its duration, therefore, when that is finished with Allah, He resurrects the creatures and repeats their creation just as He initially created them.
-
-**Classical tafsir:** Ibn Kathir notes: Verily, Allah has decreed the existence of mankind, and its duration, therefore, when that is finished with Allah, He resurrects the creatures and repeats their creation just as He initially created them.
 ## Personal Reflections
-
 

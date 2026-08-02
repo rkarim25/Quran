@@ -116,13 +116,5 @@ In the third verse (38), mentioned there is the total lack of concern for their 
 
 You will soon come to know who will be visited by a humiliating torment in this life and overwhelmed by an everlasting punishment in the next.”
 
-## AI Tafsir
-
-**Context:** And it was revealed to Nuh: "None of your people will believe except those who have believed already. So be not sad because of what they used to do (36)"And construct the ship under Our Eyes and with Our revelation, and…
-
-**What this ayah teaches:** This is like saying, ` when you are seized by the punishment, we shall be telling you that this was the outcome of your mockery.' This is as it was said after that in the fourth verse (39): ` So, you shall soon know to whom will come the punishment that will humble him, and upon whom will befall the lasting punishment.' The first punishment refers to the punishment in the mortal world, and the ` l…
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

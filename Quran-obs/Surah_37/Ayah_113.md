@@ -200,13 +200,5 @@ In the last verse, it was said: وَمِن ذُرِّ‌يَّتِهِمَا م�
 
 We blessed him and Isaac as well. Some of their descendants did good, while others clearly wronged themselves.
 
-## AI Tafsir
-
-**What this ayah teaches:** They inserted the name of Ishaq because he is their ancestor, while Isma'il is the ancestor of the Arabs.
-
-**Classical tafsir:** Ibn Kathir notes: They inserted the name of Ishaq because he is their ancestor, while Isma'il is the ancestor of the Arabs.
-
-**From the Sunnah:** The Muslims and the People of the Book agree, and indeed it is stated in their Book, that Isma'il, peace be upon him, was born when Ibrahim, peace be upon him, was eighty-six years old, and Ishaq was born when Ibrahim was ninety-nine years old. The Quraysh had inherited the horns of the ram that Ibrahim sacrificed, and they had been passed down from generation to generation, until the Messenger of Allah ﷺ was sent.
 ## Personal Reflections
-
 

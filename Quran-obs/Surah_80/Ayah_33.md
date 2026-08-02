@@ -94,13 +94,5 @@ This is the end of the Tafsir of Surat 'Abasa, and to Allah all praise and thank
 
 Then when the Deafening Blast comes—
 
-## AI Tafsir
-
-**What this ayah teaches:** The word sakhkhah means 'deafening cry or shout' and it refers to the blowing of the trumpet, which will be a deafening sound.
-
-**Classical tafsir:** Ibn Kathir notes: The word sakhkhah means 'deafening cry or shout' and it refers to the blowing of the trumpet, which will be a deafening sound.
-
-**From the Sunnah:** intercede with Allah on behalf of the creation, but each of them will say, "O myself! O myself! Today I will not ask You (O Allah) concerning anyone but myself. (authentic hadith) Every man among them on that Day will have enough (worries) to make him careless of others.) At-Tirmidhi said, "This Hadith is Hasan Sahih." (Jami' at-Tirmidhi, authentic hadith)
 ## Personal Reflections
-
 

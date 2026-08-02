@@ -85,11 +85,5 @@ At the end, in the second part of verse 28, the text says: وَخُلِقَ ال
 
 And it is Allah’s Will to lighten your burdens, for humankind was created weak.
 
-## AI Tafsir
-
-**What this ayah teaches:** Allah wishes to make clear (what is lawful and what is unlawful) to you, and to show you the ways of those before you, and accept your repentance, and Allah is All-Knower, All-Wise (26)Allah wishes to accept your repentance, but those who follow their lusts, wish that you (believers) should deviate tremendously away (from the right path (27)Allah wishes to lighten (the burden)…
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

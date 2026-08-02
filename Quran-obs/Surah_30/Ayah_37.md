@@ -136,13 +136,5 @@ Then Allah denounces the idolators for fabricating lies and worshipping others i
 
 Have they not seen that Allah gives abundant or limited provision to whom He wills? In that are signs for people who believe.
 
-## AI Tafsir
-
-**Context:** And when harm touches men, they cry sincerely only to their Lord, turning to Him in repentance; but when He gives them a taste of His mercy, behold, a party of them associates partners in worship with their Lord (33)So a…
-
-**What this ayah teaches:** A group of people following a leader is called shi ah.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

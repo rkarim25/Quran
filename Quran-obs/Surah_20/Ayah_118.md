@@ -116,13 +116,5 @@ Al-Bukhari recorded that Abu Hurayrah said that the Prophet ﷺ said,
 
 Here it is guaranteed that you will never go hungry or unclothed,.
 
-## AI Tafsir
-
-**What this ayah teaches:** So let him not get you both out of Paradise, so that you will be distressed. He also explains the enmity of Iblis for the Children of Adam and for their father, Adam, before them.
-
-**Classical tafsir:** Ibn Kathir notes: Adam and Iblis Ibn Abi Hatim recorded that Ibn 'Abbas said, "Verily, man was named Insan only because he was given a covenant, but he forgot it (Nasiya)." 'Ali bin Abi Talhah reported the same from Ibn 'Abbas. He also explains the enmity of Iblis for the Children of Adam and for their father, Adam, before them.
-
-**From the Sunnah:** Ibn Abi Hatim recorded that Ibn 'Abbas said, "Verily, man was named Insan only because he was given a covenant, but he forgot it (Nasiya)." 'Ali bin Abi Talhah reported the same from Ibn 'Abbas. Paradise there is a tree which a rider can travel under its shade for one hundred years and still not have passed it.
 ## Personal Reflections
-
 

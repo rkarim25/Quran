@@ -147,11 +147,5 @@ Blessed is Allah, the best of creators.
 
 Surely it is We Who give life and cause death. And We are the Eternal Successor.
 
-## AI Tafsir
-
-**What this ayah teaches:** And there is not a thing, but the supplies for it are with Us, and We do not send it down but in a known measure (21)And We send the winds fertilizing, then We cause the water to descend from the sky, and We give it to you to drink, and it is not you who are the owners of its supply (22)And certainly We!
-
-**Classical tafsir:** Ibn Kathir notes: These winds are mentioned here in the plural form because they give results, unlike the barren wind (Ar-Rih Al-'Aqim, see Adh-Dhariyat 51:41), which is mentioned in the singular and described as barren since it does not produce anything; because results can only be produced when…
 ## Personal Reflections
-
 

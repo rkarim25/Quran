@@ -130,11 +130,5 @@ Here Allah refutes those who claim that He has offspring among the angels – ex
 
 He fully knows what is ahead of them and what is behind them. They do not intercede except for whom He approves, and they tremble in awe of Him.
 
-## AI Tafsir
-
-**What this ayah teaches:** They are but honored servants (26)They speak not until He has spoken, and they act on His command (27)He knows what is before them, and what is behind them, and they cannot intercede except for him with whom He is pleased.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

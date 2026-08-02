@@ -132,13 +132,5 @@ Therefore, Allah asserts that He will honor the righteous and humiliate the sinn
 
 The people of the Fire cannot equal the people of Paradise. Only the people of Paradise will succeed.
 
-## AI Tafsir
-
-**What this ayah teaches:** Those are the rebellious (19)Not equal are the dwellers of the Fire and the dwellers of the Paradise.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** The color of the face of the Messenger of Allah ﷺ underwent a change when he saw them in poverty. (Musnad Ahmad)
 ## Personal Reflections
-
 

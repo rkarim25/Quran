@@ -177,11 +177,5 @@ After having reported this Hadith narration in Tafsir Mazhari, the author said, 
 
 He is the One who shows you His signs and sends down provision from the sky. None will take heed except those who turn back to Him.
 
-## AI Tafsir
-
-**What this ayah teaches:** Imam Ahmad recorded that after ending every prayer, 'Abdullah bin Az-Zubayr used to say: "There is no (true) Allah except Allah Alone with no partner or associate, His is the dominion and praise, for He is able to do all things; there is no strength and no power except with Allah; there is no (true) Allah except Allah and we worship none but Him; to Him belongs the blessings and th…
-
-**Classical tafsir:** Ibn Kathir notes: When they actually experience the unbearable punishment of Allah, they will hate themselves with the utmost hatred, because of the sins they committed in the past, which were the cause of their entering the Fire.
 ## Personal Reflections
-
 

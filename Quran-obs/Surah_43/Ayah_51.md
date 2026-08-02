@@ -171,11 +171,5 @@ Incidents related to Sayyidna Musa (علیہ السلام) have been stated by t
 
 Pharaoh called out to his people, boasting: "O my people, am I not sovereign over Egypt as well as all these streams flowing at my feet? Can you not see?
 
-## AI Tafsir
-
-**What this ayah teaches:** He assembled his people and addressed them in a vainglorious fashion, boasting of his dominion over Egypt.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

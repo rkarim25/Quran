@@ -160,13 +160,5 @@ Jihad is not obligatory on the lame, the crippled, the blind, the sick and on ot
 
 Except helpless men, women, and children who cannot afford a way out— it is right to hope that Allah will pardon them. For Allah is Ever-Pardoning, All-Forgiving.
 
-## AI Tafsir
-
-**Context:** Ad-Dahhak stated that this Ayah was revealed about some hypocrites who did not join the Messenger of Allah ﷺ but remained in Makkah and went out with the idolators for the battle of Badr.
-
-**What this ayah teaches:** Verily, as for those whom the angels take (in death) while they are wronging themselves, they (angels) say (to them): "In what (condition) were you?" They reply: "We were weak and oppressed on the earth." They (angels) say: "Was not the earth of Allah spacious enough for you to emigrate therein?" Such men will find their abode in Hell - what an evil destination (97)Except the weak ones among men,…
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

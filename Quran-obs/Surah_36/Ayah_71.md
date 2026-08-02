@@ -102,11 +102,5 @@ In our day, debate is still going on between various economic theories as to the
 
 Do they not see that We singlehandedly created for them, among other things, cattle which are under their control?
 
-## AI Tafsir
-
-**What this ayah teaches:** Gift of Allah - not capital or labor - is the real wisdom behind the ownership of things In our day, debate is still going on between various economic theories as to the basis of production of things and their ownership.
-
-**Classical tafsir:** Ibn Kathir notes: Do they not see that We have created for them of what Our Hands have fashioned, the cattle, so that they are their owners (71)And We have subdued them unto them so that some of them they have for riding and some they eat (72)And they have (other) benefits from them, and (they get…
 ## Personal Reflections
-
 

@@ -107,11 +107,5 @@ In this affair the considered opinion of Sayyidna Musa (علیہ السلام) �
 
 Aaron had already warned them beforehand, “O my people! You are only being tested by this, for indeed your one true Rabb is the the Rahman. So follow me and obey my orders.”
 
-## AI Tafsir
-
-**What this ayah teaches:** You are being tried in this, and verily, your Lord is (Allah) the ar-Rahman, so follow me and obey my order.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

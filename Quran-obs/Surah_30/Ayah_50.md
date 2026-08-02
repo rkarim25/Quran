@@ -169,13 +169,5 @@ Commentary
 
 See the effect of Allah's mercy: how He revives earth after death. That same One can raise the dead. He is Most Capable of everything.
 
-## AI Tafsir
-
-**What this ayah teaches:** The Revival of the Earth is a Sign of the Resurrection Here Allah explains how He creates the clouds that rain the water.
-
-**Classical tafsir:** Ibn Kathir notes: The Revival of the Earth is a Sign of the Resurrection Here Allah explains how He creates the clouds that rain the water.
-
-**From the Sunnah:** On the face of this statement, one would have expected that Muslims would never be defeated against the infidels.
 ## Personal Reflections
-
 

@@ -196,15 +196,5 @@ Having stated the creative acumen of the Great Creator, the verse states: يَا
 
 moulding you in whatever shape He willed?
 
-## AI Tafsir
-
-**Context:** Al-Baghawi mentioned that Al-Kalbi and Muqatil said, "This Ayah was revealed about Al-Aswad bin Shariq who struck the Prophet ﷺ and he was not punished in retaliation. So Allah revealed,
-
-**What this ayah teaches:** In whatever form He willed, He put you together.)(9. Who created you, fashioned you perfectly, and gave you due proportion.)(8.
-
-**Classical tafsir:** Ibn Kathir notes: Who created you, fashioned you perfectly, and gave you due proportion.)(8.
-
-**From the Sunnah:** from Jabir that Mu'adh stood and lead the people in the Night prayer, and he made the recitation of his prayer long. (Sunan an-Nasa'i) from Busr bin Jahhash Al-Qurashi that one day the Messenger of Allah ﷺ spat in his palm and placed his finger on it. (Musnad Ahmad)
 ## Personal Reflections
-
 

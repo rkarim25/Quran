@@ -220,15 +220,5 @@ Some commentators, have said that the word, هَـٰؤُلَاءِ (them), in th
 
 So how will it be when We bring a witness from every faith-community and bring you as a witness against yours?
 
-## AI Tafsir
-
-**Context:** Al-Bukhari recorded that 'Abdullah bin Mas'ud said, "The Messenger of Allah ﷺ said to me, 'Recite to me.' I said, 'O Messenger of Allah!
-
-**What this ayah teaches:** Seen from this angle, this verse is a proof of the finality of prophethood as well.
-
-**Classical tafsir:** Ibn Kathir notes: Some others say that it refers to the entire community right through the Day of Doom.
-
-**From the Sunnah:** One year, he went to Hajj before me, and I found the people of Al-Basrah saying that he narrated that he heard the Messenger of Allah ﷺ saying, I heard my brethren in Al-Basrah claim that you narrated that you heard the Messenger of Allah ﷺ saying,
 ## Personal Reflections
-
 

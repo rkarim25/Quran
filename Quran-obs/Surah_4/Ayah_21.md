@@ -224,15 +224,5 @@ To sum up, once this marital covenant has been made and mutual privacy has broug
 
 And how could you take it back after having enjoyed each other intimately and she has taken from you a firm commitment?
 
-## AI Tafsir
-
-**Context:** (O you who believe! You are not permitted to inherit women against their will,) "Before, the practice was that when a man dies, his male relatives used to have the right to do whatever they wanted with his wife.
-
-**What this ayah teaches:** The idea that it could be returned is senseless.
-
-**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas, 'Ikrimah and Ad-Dahhak said that Fahishah refers to disobedience and defiance.
-
-**From the Sunnah:** that Ibn 'Abbas said about the Ayah, (Sahih al-Bukhari) It was the practice of the Messenger of Allah ﷺ to be kind, cheerful, playful with his wives, compassionate, spending on them and laughing with them.
 ## Personal Reflections
-
 

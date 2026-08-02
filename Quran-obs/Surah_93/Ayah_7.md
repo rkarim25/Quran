@@ -214,15 +214,5 @@ Favour [ 2]
 
 Did He not find you seeking and guide you?
 
-## AI Tafsir
-
-**Context:** Al-'Awfi reported from Ibn 'Abbas, "When the Qur'an was revealed to the Messenger of Allah ﷺ, Jibril was delayed from coming to him for a number of days (on one occasion).
-
-**What this ayah teaches:** Did He not find you an orphan and gave you a refuge?)(7.
-
-**Classical tafsir:** Ibn Kathir notes: Did He not find you an orphan and gave you a refuge?)(7.
-
-**From the Sunnah:** this Hadith. (Sahih al-Bukhari, Sahih Muslim) Therefore, the Messenger of Allah ﷺ was affected by this.
 ## Personal Reflections
-
 

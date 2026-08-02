@@ -166,13 +166,5 @@ According to Sayyidna Ibn ` Abbas ؓ ، ` Ata', Mujahid, Hasan Basri رحمۃ ا
 
 So establish salah for your Lord alone, and offer sacrifice—public worship and tangible gratitude that show who truly owns your time and loyalty.
 
-## AI Tafsir
-
-**Context:** Ibn 'Abbas, Mujahid, Sa'id bin Jubayr and Qatadah all said, "This Ayah was revealed about Al-'As bin Wa'il. Whenever the Messenger of Allah ﷺ would be mentioned (in his presence) he would say, 'Leave him, for indeed he i…
-
-**What this ayah teaches:** Salah is the highest form of physical worship; and sacrifice is highest form of pecuniary or monetary form of worship.
-
-**Classical tafsir:** Ibn Kathir notes: So when he dies he will not be remembered.' Therefore, Allah revealed this Surah." Shamir bin 'Atiyah said, "This Surah was revealed concerning 'Uqbah bin Abi Mu'ayt." Ibn 'Abbas and 'Ikrimah have both said, "This Surah was revealed about Ka'b bin Al-Ashraf and a group of the those who reject the truth of the Qur… Because the word Al-Kawthar comes from the word Kathrah (abundance) and it (Al-Kawthar) linguistical…
 ## Personal Reflections
-
 

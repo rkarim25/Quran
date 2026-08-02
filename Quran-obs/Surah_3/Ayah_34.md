@@ -53,15 +53,5 @@ In these verses a reference has been made to some past prophets to comfort the H
 
 They are descendants of one another. And Allah is All-Hearing, All-Knowing.
 
-## AI Tafsir
-
-**Essence** The chosen prophets form one unbroken lineage of faith, and Allah—All-Hearing, All-Knowing—is the One who selected them with perfect knowledge.
-
-**What it teaches** Continuing from the previous ayah, this verse describes the chosen ones—Adam, Nuh, the family of Ibrahim, and the family of 'Imran—as "dhurriyyatan ba'duha min ba'd," offspring descended one from another: a single chain of guidance passed down through the generations. The closing names, As-Sami' (the All-Hearing) and Al-'Alim (the All-Knowing), affirm that Allah's choice of them flows from His perfect hearing and knowledge, not from chance.
-
-**The scholars** Ibn Kathir explains that Allah chose these households above all the people of the earth: He created Adam with His Hand, breathed life into him, had the angels prostrate to him, taught him the names of everything, and allowed him to dwell in Paradise before sending him down in His wisdom. He made Nuh the first Messenger to the people of the earth when they worshipped idols; Nuh kept calling them day and night, in public and in secret, for a very long time, yet his calling only made them shun him more, so he supplicated against them—and Allah drowned them, saving none but those who followed the religion sent to Nuh. Allah honored the household of Ibrahim—which includes "the master of all mankind, and the Final Prophet, Muhammad, peace be upon him"—and the household of 'Imran, the father of Maryam, the mother of 'Isa. From this connected lineage, Ibn Kathir notes, 'Isa himself descends from the offspring of Ibrahim. Maarif ul Quran adds that these past prophets are mentioned to comfort the Prophet ﷺ—since the disbelievers doubted his prophethood—and that the account is brief because its real aim is to introduce 'Isa, whose identity Muslims must know since he will return and work alongside the followers of the Prophet ﷺ.
-
-**Reflection** Belief is a heritage entrusted to us by those Allah chose before—receive it faithfully and pass it on, knowing the All-Hearing, All-Knowing hears and knows exactly how you carry it.
 ## Personal Reflections
-
 

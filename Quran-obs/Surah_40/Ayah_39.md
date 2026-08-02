@@ -96,11 +96,5 @@ My respected father, Maulana Muhammad Yasin, a dear disciple of Maulana Muhammad
 
 O my people, this dunya is only fleeting enjoyment, whereas the Akhirah is truly the home of settlement.
 
-## AI Tafsir
-
-**What this ayah teaches:** Truly, this life of the world is nothing but an enjoyment,) meaning, it is insignificant and fleeting, and soon it will diminish and pass away.
-
-**Classical tafsir:** Ibn Kathir notes: Since no one expects any head of the state to go that wild in his imagination, therefore, some commentators have said that this much he too knew that, no matter how high a structure is made for him, he still cannot reach the skies (by that mode of ascent).
 ## Personal Reflections
-
 

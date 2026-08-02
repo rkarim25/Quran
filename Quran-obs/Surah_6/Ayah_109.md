@@ -195,13 +195,5 @@ After that, upto the end of the cited verses, Muslims have been directly instruc
 
 They swear by Allah their most solemn oaths that if a sign were to come to them, they would certainly believe in it. Say, “Signs are only with Allah.” What will make you realize that even if a sign were to come to them, they still would not believe?
 
-## AI Tafsir
-
-**Context:** The previous verses had mentioned how obstinate people failed to benefit from clear signs of Allah and open miracles of His Messenger and kept on denying the message of truth.
-
-**What this ayah teaches:** But, the attitude of not cross-examining evidences presented and yet demanding some other evidences would be like the scenario in a law court where the respondent would avoid cross-examining the witness presented by the plaintiff and take the plea that he does not accept the evidence of these witnesses and that he would accept what is said particularly by such and such a person…
-
-**Classical tafsir:** Ibn Kathir notes: Abu Al-'Aliyah, Ar-Rabi' bin Anas and Qatadah said that 'their trespass' means, 'their misguidance'.
 ## Personal Reflections
-
 

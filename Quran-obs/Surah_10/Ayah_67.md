@@ -110,13 +110,5 @@ Another basharah (good news) of this world unfolds in the form that Muslims at l
 
 He is the One Who has made the night for you to rest in and the day bright. Surely in this are signs for people who listen.
 
-## AI Tafsir
-
-**What this ayah teaches:** And those who worship and invoke others besides Allah, in fact they follow not the partners, they follow only a conjecture and they do nothing but lie (66)He it is Who has appointed for you the night that you may rest therein, and the day to make things visible (to you). Allah then informed us that He is the One Who made the night for His servants to rest therein from weariness and exhaustion.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** Another basharah (good news) of this world unfolds in the form that Muslims at large love someone and take him to be good without any personal motive or interest. (Sahih Muslim)
 ## Personal Reflections
-
 

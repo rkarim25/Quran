@@ -136,11 +136,5 @@ Sayyidna Salih (علیہ السلام) warned them: If Allah Ta` ala shows you y
 
 But if you turn away, I have already delivered to you what I have been sent with. My Rabb will replace you with others. You are not harming Him in the least. Indeed, my Rabb is a vigilant Keeper over all things.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Surely, my Lord is Guardian over all things (57)And when Our commandment came, We saved Hud and those who believed with him by a mercy from Us, and We saved them from a severe torment (58)Such were [the people of] 'Ad.
-
-**Classical tafsir:** Ibn Kathir notes: They rejected the Ayat of their Lord) This means they disbelieved in the proofs and revelations (of Allah) and they disobeyed the Messengers of Allah.
 ## Personal Reflections
-
 

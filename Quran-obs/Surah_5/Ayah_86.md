@@ -178,11 +178,5 @@ The statement given in the verse also tells us something crucial about the life 
 
 As for those who reject the truth and reject Our signs, they will be the residents of the Hellfire.
 
-## AI Tafsir
-
-**Context:** Sa'id bin Jubayr, As-Suddi and others said that these Ayat were revealed concerning a delegation that An-Najashi (King of Ethiopia) sent to the Prophet ﷺ in order to hear his words and observe his qualities.
-
-**What this ayah teaches:** Such is the reward of good-doers (85)But those who disbelieved and belied Our Ayat, they shall be the dwellers of Hell . Commentary Some Votaries of the Truth among the People of the Book Mentioned in these verses are those among the people of the Book who, had no feelings of malice or enmity for Muslims because of their godliness and tilt towards truth.
 ## Personal Reflections
-
 

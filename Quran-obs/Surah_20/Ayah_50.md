@@ -91,11 +91,5 @@ Sayyidna Musa (علیہ السلام) reminded the Pharaoh, at the first place, 
 
 He answered, “Our Rabb is the One Who has given everything its distinctive form, then guided it.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Fir'awn said: "Who then, O Musa, is the Lord of you two (49)[Musa] said: "Our Lord is He Who gave to each thing its form and nature, then guided it aright.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, He did not give man the form of a wild beast, nor did He give wild beasts the form of the dog.
 ## Personal Reflections
-
 

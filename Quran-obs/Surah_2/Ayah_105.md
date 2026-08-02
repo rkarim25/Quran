@@ -184,15 +184,5 @@ These Jews used to make two claims -- firstly, that Judaism was a better religio
 
 Neither the People of the Book nor those who associate partners with Allah wish that any good descend upon you from your Rabb. But Allah selects whomever He wills for His mercy. Allah is the Lord of immense bounty.
 
-## AI Tafsir
-
-**Essence** Their refusal to wish good upon you is not reasoned rejection but raw envy — which Allah answers by reserving His mercy for whom He wills, His bounty beyond any envier's reach.
-
-**What it teaches** Those who disbelieve from the People of the Book, and the idolaters, resent every blessing sent to the believers. Against their jealousy stands *wallahu yakhtassu bi-rahmatihi man yasha* — Allah singles out for mercy whom He chooses; *dhu al-fadl al-azim*, Owner of bounty no resentment can intercept.
-
-**The scholars** Ibn Kathir reads the verse as exposing how fiercely the disbelieving idolaters and People of the Scripture hate the believers — reason enough to sever friendship — then names the very good they begrudge: the perfect Law Allah legislated through Muhammad ﷺ. Maarif ul Quran adds that some Jews posed as well-wishers, claiming they wished Islam were superior so they might accept it; the Qur'an replies that they are far too jealous to want the believers any blessing at all. The idolaters are named alongside them for emphasis — alike in hatred — yet such jealousy can do no harm, for Allah is Beneficent and All-Powerful.
-
-**Reflection** The Qur'an does not soothe the envied; it turns their envy into evidence — those who cannot bear your good cannot be your friends. Read resentment as a compass, and turn from the enviers to the One who gave, whose favor is dealt by His choice, not theirs.
 ## Personal Reflections
-
 

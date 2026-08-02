@@ -98,11 +98,5 @@ This verse indicates that the construction of houses and buildings without need 
 
 I truly fear for you the torment of a tremendous day.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, I fear for you the torment of a Great Day.) meaning, 'if you disbelieve and oppose (your Prophet).' So he called them to Allah with words of encouragement and words of warning, but it was to no avail.
-
-**Classical tafsir:** Ibn Kathir notes: This refers to the fact that they were physically strong and well-built, and very violent, and very tall; they had also been given a great deal of provisions, wealth, gardens, rivers, sons, crops and fruits.
 ## Personal Reflections
-
 

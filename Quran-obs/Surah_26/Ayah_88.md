@@ -138,13 +138,5 @@ In accordance with the commonly adopted explanation of the verse it has now beco
 
 the Day when neither wealth nor children will be of any benefit.
 
-## AI Tafsir
-
-**What this ayah teaches:** The gist of the verse, according to this interpretation would be that wealth and children will not be helpful to anyone, neither to a believer nor to a those who reject the truth; what will be helpful, instead of wealth and children, is one's sound heart, i.e.
-
-**Classical tafsir:** Ibn Kathir notes: It may also be noted that "sound heart" literally means a healthy heart.
-
-**From the Sunnah:** Paradise to the those who reject the truth. (Sunan an-Nasa'i) In accordance with the commonly adopted explanation of the verse it has now become clear that the wealth of a person could be of help to him on the Dooms Day, provided he is a Muslim. (Sahih Muslim)
 ## Personal Reflections
-
 

@@ -182,11 +182,5 @@ After having reported this Hadith narration in Tafsir Mazhari, the author said, 
 
 They will be told: "This is because when Allah alone was invoked, you staunchly rejected the truth. But when others were associated with Him in worship, you readily believed. So today judgment belongs to Allah alone—the Most High, All-Great."
 
-## AI Tafsir
-
-**What this ayah teaches:** When they actually experience the unbearable punishment of Allah, they will hate themselves with the utmost hatred, because of the sins they committed in the past, which were the cause of their entering the Fire. He will be told that their deeds were not like yours (therefore, they will not be there).
-
-**Classical tafsir:** Ibn Kathir notes: When they actually experience the unbearable punishment of Allah, they will hate themselves with the utmost hatred, because of the sins they committed in the past, which were the cause of their entering the Fire.
 ## Personal Reflections
-
 

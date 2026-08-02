@@ -112,13 +112,5 @@ Good companions are a help in the better performance of worship and Dhikr (remem
 
 for truly You have always been overseeing us.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Therefore, he was left with the remnants of this accident that took place with his tongue. If he had asked for the removal of his affliction in its entirety, it would have been cured for him.
-
-**Classical tafsir:** Ibn Kathir notes: Ath-Thawri reported from Abu Sa'id, from 'Ikrimah, who said that Ibn 'Abbas said, "Harun was made a Prophet at the same moment that Musa was made a Prophet." Ibn Abi Hatim recorded that 'A'ishah went out intending to perform 'Umrah and stopped to camp among some bedouins.
-
-**From the Sunnah:** Ibn 'Abbas said, "Harun was made a Prophet at the same moment that Musa was made a Prophet." Ibn Abi Hatim recorded that 'A'ishah went out intending to perform 'Umrah and stopped to camp among some bedouins.
 ## Personal Reflections
-
 

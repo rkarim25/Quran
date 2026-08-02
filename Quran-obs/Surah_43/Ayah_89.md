@@ -171,13 +171,5 @@ Ends here
 
 So bear with them and respond with peace. They will soon come to know.
 
-## AI Tafsir
-
-**What this ayah teaches:** Then soon they will come to know---43:89). He is eternally free of all faults and shortcomings, because He is the Lord, the Exalted, the Almighty, the Sovereign of all things, Who is in control of all affairs.
-
-**Classical tafsir:** Ibn Kathir notes: He is eternally free of all faults and shortcomings, because He is the Lord, the Exalted, the Almighty, the Sovereign of all things, Who is in control of all affairs.
-
-**From the Sunnah:** As such, the view of those who deduce from this verse that saying "Assalamu 'alaikum" to non-Muslims is permissible does not carry much weight. (Sahih Muslim)
 ## Personal Reflections
-
 

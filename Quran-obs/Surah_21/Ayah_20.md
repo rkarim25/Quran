@@ -112,11 +112,5 @@ Sayyidna ` Abdullah Ibn Harith ؓ عنہ said that he asked Ka` b al-Abbar ؓ ho
 
 They glorify Him day and night, never wavering.
 
-## AI Tafsir
-
-**What this ayah teaches:** And those who are near Him are not too proud to worship Him, nor are they weary (19)They glorify His praises night and day, they never slacken .
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

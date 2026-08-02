@@ -111,11 +111,5 @@ This is also about the Gathering when the angels, comprising seven lines in ever
 
 Flames of fire and molten metal will be sent against you, and you will not be able to defend one another.
 
-## AI Tafsir
-
-**What this ayah teaches:** But you will never be able to pass them, except with authority (from Allah)(33)Then which of the blessings of your Lord will you both deny (34)There will be sent against you both, Shuwāz of fire and Nuhas, and you will not be able to defend yourselves (35)Then which of the blessings of your Lord will you both deny) ur Lord will you both deny .
-
-**Classical tafsir:** Ibn Kathir notes: Mujahid said, "Molten brass poured over their heads." Qatadah held the same view. But he said that the scholars of Qur'anic recitation said that in this Ayah, the word recited is Nuhas.
 ## Personal Reflections
-
 

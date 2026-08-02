@@ -218,13 +218,5 @@ Some of the commentators have analysed that the pronouns of zakka 'He purified' 
 
 And ruined is the one who buries it in corruption.
 
-## AI Tafsir
-
-**What this ayah teaches:** And indeed he fails who Dassaha.) This could mean that whoever purifies himself by obedience to Allah, then he will be successful. The primitive meaning of tazkiyah is 'inner cleanliness', signifying 'he who obeyed Allah and purified his inner and outer selves.' Verse [ 10] signifies 'he who caused his soul to sink in the swamp of sins will be deprived'.
-
-**Classical tafsir:** Ibn Kathir notes: This is as Qatadah said, "He cleanses it from the lowly and despicable characteristics." Similar to this has been reported from Mujahid, 'Ikrimah and Sa'id bin Jubayr. This means that He clarified that for it and He guided it to what has been ordained for him.
-
-**From the Sunnah:** Both Al-Bukhari and Muslim recorded this Hadith from Abu Hurayrah.
 ## Personal Reflections
-
 

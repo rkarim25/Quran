@@ -172,15 +172,5 @@ There is a treatment for it. When a person sees his anger getting out of control
 
 If you are tempted by Satan, then seek refuge with Allah. Surely He is All-Hearing, All-Knowing.
 
-## AI Tafsir
-
-**Context:** (Show forgiveness) was only revealed about the peoples [bad] character."
-
-**What this ayah teaches:** Surely, He is the All-Hearing, the All-Knowing.
-
-**Classical tafsir:** Ibn Kathir notes: If he still insists on evil, becomes difficult and continues in his ignorance, then turn away from him, so that your ignoring him might avert his evilness.
-
-**From the Sunnah:** And more than one narration from Mujahid says, "From the [bad] behavior and actions of the people, of those who have not committed espionage." And Hashim bin 'Urwah said that his father said, "Allah ordered Allah's Messenger ﷺ to pardon the people for their be… Al-'Urf', means, righteousness." Al-Bukhari next recorded from Ibn 'Abbas that he said, "'Uyaynah bin Hisn bin Hudhayfah stayed with his nephew Al-Hur bin Qays, who was among the people whom 'Umar used to have near him, for 'Umar used to like to have the r
 ## Personal Reflections
-
 

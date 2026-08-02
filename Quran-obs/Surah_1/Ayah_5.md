@@ -54,15 +54,5 @@ Therefore, not associating anyone with Allah in worship means that one should no
 
 You alone we worship with full devotion—we do not give our ultimate loyalty to wealth, status, approval, or power. You alone we ask for help—knowing that no system, person, or plan can replace reliance on You.
 
-## AI Tafsir
-
-**Essence** Having learned how wholly we depend on Allah, the worshipper turns the whole self to Him: worship and the asking of help belong to Him alone.
-
-**What it teaches** This is the heart of tawhid. In Arabic, ibadah is utmost humility and submission born of intense respect and love — fitting for no one but Allah.
-
-**The scholars** Maarif ul Quran reads the verse as praise and prayer at once: since man owes Allah his whole life, He alone deserves worship and is alone asked for help. Worship is wider than salah and fasting — al-Ghazzali's Arba'in lists ten forms, among them dhikr, lawful earning, enjoining good, and following the Prophet's Sunnah. Maarif adds that naming a prophet or righteous man as a wasilah (means) in prayer to Allah does not violate this.
-
-**Reflection** Let every prostration, plea, and daily task flow toward the One who needs nothing yet sustains everything.
 ## Personal Reflections
-
 

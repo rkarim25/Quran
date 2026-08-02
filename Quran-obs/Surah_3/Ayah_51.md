@@ -139,19 +139,5 @@ Making the shape of a bird was the making of a picture, something permitted in t
 
 Surely Allah is my Rabb and your Rabb. So worship Him. This is the Sirat al-Mustaqim—the Sirat al-Mustaqim—the way of living that pleases Allah that pleases Allah.’”
 
-## AI Tafsir
-
-**Essence**
-'Isa (peace be upon him) declares the core of his entire message: Allah alone is his Lord and ours, so He alone is to be worshipped — and this is the Straight Path.
-
-**What it teaches**
-After listing his miracles and calling the Children of Israel to taqwa (Allah-consciousness) and obedience, 'Isa makes his theology unmistakable: he is a servant, not a son or partner of Allah. "Allah is my Lord and your Lord" is pure tawhid (Allah's exclusive Lordship), and "so worship Him alone" (fa-uʿ'budūhu) is its necessary fruit — the path called sirat mustaqim, the one straight, unswerving way.
-
-**The scholars**
-Ibn Kathir explains that 'Isa says "Allah is my Lord and your Lord, so worship Him alone" because "I and you are equal in our servitude, submission and humbleness to Him" — leveling himself with his hearers as a creature before the Creator, the opposite of the divinity later claimed for him. He notes each Prophet was sent with a miracle fitted to his age: magic for Musa's time, healing and raising the dead for 'Isa's age of physicians, and for Muhammad (peace be upon him) the inimitable Qur'an, "the Word of Allah... nothing like that of the creatures." Maarif ul Quran frames verse 51 as the summit of 'Isa's call: "'Allah is my Lord and your Lord' (the ultimate in belief) and 'Worship Him' (the ultimate in deeds)." This, it says, "is the straight path which helps perfect the ideal combination of beliefs and deeds, leads to the way of salvation and is the source of communion with Allah."
-
-**Reflection**
-Notice who is speaking: the very Prophet others would later raise to divinity points entirely away from himself toward Allah. When you are praised or relied upon, redirect it the same way — be a sign that turns people to the One worshipped, never a destination yourself.
 ## Personal Reflections
-
 

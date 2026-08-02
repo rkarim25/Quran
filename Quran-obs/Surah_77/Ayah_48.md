@@ -111,11 +111,5 @@ This is the end of the Tafsir of Surat Al-Mursalat, and all praise and thanks ar
 
 When they are told, 'Bow down before Allah,' they do not bow.
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, you are criminals (46)Woe that Day to the deniers (47)And when it is said to them: "Bow down yourself!" They bow not down (48)Woe that Day to the deniers (49)Then in what statement after this will they believe .
-
-**Classical tafsir:** Ibn Kathir notes: Some scholars take the word ruku` in its technical sense and interpret the verse to signify 'when they are called to prayer, they refused to pray.' The ruku` is a part of the prayer, but it refers here to the whole prayer.
 ## Personal Reflections
-
 

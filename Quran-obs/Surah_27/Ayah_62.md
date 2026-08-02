@@ -159,13 +159,5 @@ A Sahih hadith of the Holy Prophet ﷺ says that ` Three supplications are surel
 
 Or ask them, “Who responds to the distressed when they cry to Him, relieving their affliction, and Who makes you successors in the earth? Is it another god besides Allah? Yet you are hardly mindful!”
 
-## AI Tafsir
-
-**What this ayah teaches:** Likewise, a father cannot plead for something against his children because of his paternal love and affection for them, unless he is totally dejected and heart-broken, and calls Allah to save himself from the misery of sufferings.
-
-**Classical tafsir:** Ibn Kathir notes: Whoever evinces sincerity, no matter if he is a believer or an infidel, a pious or a sinner, because of the auspiciousness of sincerity the divine favour gets attentive towards him.
-
-**From the Sunnah:** : "O Messenger of Allah, what are you calling for?" He said: (Musnad Ahmad)
 ## Personal Reflections
-
 

@@ -122,11 +122,5 @@ Commentary
 
 All authority on that Day is for Allah alone. He will judge between them. So those who believe and do good will be in the Gardens of Bliss.
 
-## AI Tafsir
-
-**What this ayah teaches:** So those who believed and did righteous good deeds will be in Gardens of Delight (56)And those who disbelieved and denied Our Ayat, for them will be a humiliating torment (in Hell). This verse explains that the disputes raised by the those who reject the truth in regard to Allah's message is not something new as similar doubts were raised by earlier people as well when their prophets presented to them the messa…
-
-**Classical tafsir:** Ibn Kathir notes: This verse explains that the disputes raised by the those who reject the truth in regard to Allah's message is not something new as similar doubts were raised by earlier people as well when their prophets presented to them the message of Truth, and the Shaitan cast doubts about it in the heart…
 ## Personal Reflections
-
 

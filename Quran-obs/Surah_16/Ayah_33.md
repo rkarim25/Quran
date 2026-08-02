@@ -150,13 +150,5 @@ The essence of the answer given by the polytheists is that they simply refused t
 
 Are they only awaiting the coming of the angels or the command of your Rabb O Prophet? So were those before them. And Allah never wronged them, but it was they who wronged themselves.
 
-## AI Tafsir
-
-**What this ayah teaches:** Are they but waiting for the angels to come to them, or there comes the command of your Lord? The those who reject the truth' Refrain from Faith means that They were simply awaiting Punishment Threatening the idolators for their persistence in falsehood and their conceited delusions about this world, Allah says: Are these people waiting only for the angels to come and take their souls?
-
-**Classical tafsir:** Ibn Kathir notes: In the present verses, the text describes how they, not content with their own straying, tried that others should also go astray like them.
-
-**From the Sunnah:** Still others take one question to have been asked by the polytheists while the other by Muslims.
 ## Personal Reflections
-
 

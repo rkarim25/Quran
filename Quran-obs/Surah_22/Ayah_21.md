@@ -104,15 +104,5 @@ Commentary
 
 And awaiting them are maces of iron.
 
-## AI Tafsir
-
-**Context:** (These two opponents dispute with each other about their Lord;) was revealed concerning Hamzah and his two companions, and 'Utbah and his two companions, on the day of Badr when they came forward to engage in single comb…
-
-**What this ayah teaches:** For the believers want to support the religion of Allah, while the those who reject the truth want to extinguish the light of faith and to defeat the truth and cause falsehood to prevail.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** This is the wording of Al-Bukhari in his Tafsir of this Ayah.
 ## Personal Reflections
-
 

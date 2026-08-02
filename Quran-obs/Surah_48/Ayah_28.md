@@ -173,13 +173,5 @@ Allah the Exalted and Most Honored said, while delivering the glad tidings to th
 
 He is the One who sent His Messenger with right guidance and the deen of truth, so it may prevail over every other way. Allah is sufficient as Witness.
 
-## AI Tafsir
-
-**What this ayah teaches:** And All-Sufficient is Allah as a Witness .
-
-**Classical tafsir:** Ibn Kathir notes: The Prophet ﷺ did not order them to do Ramal in all the rounds of Tawaf out of pity for them." Al-Bukhari recorded that Ibn 'Abbas said, "In the year when the Prophet ﷺ came as stipulated by the peace treaty, he said, 'Perform Ramal.' So that the idolators may witness their strength.
-
-**From the Sunnah:** In a dream, the Messenger of Allah ﷺ saw himself entering Makkah and performing Tawaf around the House. The Prophet ﷺ hired the (defeated) Jews of Khaybar to attend to a part of its green fields and divided the province among those who attended Al-Hudaybiyyah with him.
 ## Personal Reflections
-
 

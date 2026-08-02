@@ -116,11 +116,5 @@ Sayyidna ` Abdullah Ibn ` Umar ؓ has also advised prostration at this place. Ma
 
 But if the pagans are too proud, know that those nearest to your Lord glorify Him day and night and never grow weary.
 
-## AI Tafsir
-
-**What this ayah teaches:** Do not prostrate yourselves to the sun nor to the moon, but prostrate yourselves to Allah Who created them, if you worship Him (37)But if they are too proud, then there are those who are with your Lord glorify Him night and day, and never are they tired (38)And among His signs; that you see the earth barren, but when We send down water to it, it is stirred to life and growth.
-
-**Classical tafsir:** Ibn Kathir notes: He has further said that in view of the differences, it is on the safer side to prostrate at the end of the verse 38, because even if prostration becomes wajib at the end of the verse 37, then the obligation would be discharged if it is performed after the recitation of the verse…
 ## Personal Reflections
-
 

@@ -171,13 +171,5 @@ Also included in the general sense of the verse is that guardians of the orphane
 
 Let the guardians be as concerned as they would if they were to leave helpless children behind. So let them live with taqwa toward Allah and speak equitably.
 
-## AI Tafsir
-
-**What this ayah teaches:** There is a share for men and a share for women from what is left by parents and those nearest in relation, whether the property be small or large – a legal share (7)And when the relatives, and the orphans, and the poor are present at the time of division, give them from the property, and speak to them words of kindness and justice (8)And let those (executors and guardians) have the same fear in th…
-
-**Classical tafsir:** Ibn Kathir notes: Ibn Jarir recorded that Ibn 'Abbas said that this Ayah still applies and should be implemented.
-
-**From the Sunnah:** this Ayah still applies and should be implemented. The third verse (9) addresses Muslims in general exhorting them to make it certain that the inheritance of the deceased reaches his children fully and fairly. (Sahih Muslim)
 ## Personal Reflections
-
 

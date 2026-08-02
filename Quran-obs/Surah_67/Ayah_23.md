@@ -178,11 +178,5 @@ After this, the non-believers are threatened with punishment. Towards the end of
 
 Say: 'He is the One Who brought you into being and gave you hearing, sight, and intellect—yet you hardly give shukr, gratitude shown in word and action.'
 
-## AI Tafsir
-
-**What this ayah teaches:** Of the two organs, his sense of hearing is mentioned first, because a careful analysis shows that most of the information gathered in human life is through hearing, not so much by seeing.
-
-**Classical tafsir:** Ibn Kathir notes: This means that it will surround them and Allah will command what they were not able to reckon or fully comprehend to come to them.
 ## Personal Reflections
-
 

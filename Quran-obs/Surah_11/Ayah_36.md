@@ -162,13 +162,5 @@ In answer to this prayer, the people of Sayyidna Nuh were drowned en masse.
 
 And it was revealed to Noah, “None of your people will believe except those who already have. So do not be distressed by what they have been doing.
 
-## AI Tafsir
-
-**Context:** And it was revealed to Nuh: "None of your people will believe except those who have believed already. So be not sad because of what they used to do (36)"And construct the ship under Our Eyes and with Our revelation, and…
-
-**What this ayah teaches:** Therefore, he should make an ark that could hold his family, as many believers as there were, and what they needed, so that they could embark it when the flood comes and be safe from it. Therefore, he should not worry about how they deal with him because one feels the pinch of sorrow only when one expects something good to come from someone.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, he should make an ark that could hold his family, as many believers as there were, and what they needed, so that they could embark it when the flood comes and be safe from it.
 ## Personal Reflections
-
 

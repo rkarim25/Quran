@@ -160,11 +160,5 @@ The statement: وَكَانَ الْإِنسَانُ أَكْثَرَ‌ شَي�
 
 Your Rabb is the All-Forgiving, Full of Mercy. If He were to seize them immediately for what they commit, He would have certainly hastened their punishment. But they have an appointed time, from which they will find no refuge.
 
-## AI Tafsir
-
-**What this ayah teaches:** And if you call them to guidance, even then they will never be guided (57)And your Lord is Most Forgiving, Owner of mercy.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

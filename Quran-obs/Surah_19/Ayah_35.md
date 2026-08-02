@@ -176,13 +176,5 @@ The phrase قَوْلَ الْحَقِّ (translated in the text as 'the word of
 
 It is not for Allah to take a son. Glory be to Him. When He decrees a matter, He only says "Be," and it is.
 
-## AI Tafsir
-
-**What this ayah teaches:** Glorified be He.) Means glory be unto Him, He is far exalted above that which these ignorant, wrongdoing, transgressing people say about Him.
-
-**Classical tafsir:** Ibn Kathir notes: That is the straight path.) Meaning, "That which I have come to you with from Allah is the straight path." This means that the path is correct; whoever follows it will be rightly guided and whoever opposes it will deviate and go astray.
-
-**From the Sunnah:** This has been related in a Hadith collected in the Two Sahihs,
 ## Personal Reflections
-
 

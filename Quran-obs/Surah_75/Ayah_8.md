@@ -188,11 +188,5 @@ The verb bariqa means for the eyes 'to be dazzled and unable to see'. On the Day
 
 the moon will lose its light,
 
-## AI Tafsir
-
-**What this ayah teaches:** Astronomers have discovered that the sun has the original light, and the light of the moon is borrowed from the sun.
-
-**Classical tafsir:** Ibn Kathir notes: I swear by An-Nafs Al-Lawwamah.) Qatadah said, "This means, I swear by both of these things." This has also been reported from Ibn 'Abbas and Sa'id bin Jubayr. This means Our power is suitable to gather (and recreate) them, and if We wished We could surely resurrect him with more than what he originally had.
 ## Personal Reflections
-
 

@@ -137,11 +137,5 @@ It will be recalled that the punishment of the first group was the outcome of th
 
 Surely those who believe and do good, their Rabb will guide them to Paradise through their faith. Rivers will flow beneath their feet in the Gardens of Bliss.
 
-## AI Tafsir
-
-**What this ayah teaches:** The Good Reward is for the People of Faith and Good Deeds In these two Ayat, Allah promises the happy blessings for those who believed in Allah and His Messengers.
-
-**Classical tafsir:** Ibn Kathir notes: The Ayah also indicates that Allah is the Praised One in this world and in the Hereafter and in all situations.
 ## Personal Reflections
-
 

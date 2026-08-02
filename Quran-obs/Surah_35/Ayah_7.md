@@ -104,11 +104,5 @@ The word: غَرُ‌ورُ‌ (gharur) is an emphatic form of an adjective that
 
 Those who reject the truth will face severe punishment. But those who believe and do good will have forgiveness and a great reward.
 
-## AI Tafsir
-
-**What this ayah teaches:** Those who disbelieve, theirs will be a severe torment; and those who believe and do righteous good deeds, theirs will be forgiveness and a great reward (7)Is he, then, to whom the evil of his deeds is made fairseeming, so that he considers it as good?
-
-**Classical tafsir:** Ibn Kathir notes: It refers to the Shaitan (Satan) whose sole job is to deceive people and throw them into disbelief and sin.
 ## Personal Reflections
-
 

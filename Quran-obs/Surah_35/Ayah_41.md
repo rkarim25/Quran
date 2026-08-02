@@ -146,13 +146,5 @@ In the expression: إِنَّ اللَّـهَ يُمْسِكُ السَّمَا
 
 Allah alone keeps the heavens and earth from falling apart. If they were to fall apart, none but Him could hold them. He is Most Forbearing, All-Forgiving.
 
-## AI Tafsir
-
-**Context:** (Or have We given them a Book, so that they act on clear proof therefrom?) meaning, 'have We revealed to them a Book on which they base their Shirk and disbelief?' This is not the case at all.
-
-**What this ayah teaches:** Truly, He is Ever Most Forbearing, Oft-Forgiving .
-
-**Classical tafsir:** Ibn Kathir notes: Or have We given them a Book, so that they act on clear proof therefrom?
 ## Personal Reflections
-
 

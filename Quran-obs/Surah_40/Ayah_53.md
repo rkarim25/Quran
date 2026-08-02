@@ -142,11 +142,5 @@ In the later part of verse 51, it was said: يَوْمَ يَقُومُ الْأ
 
 We gave Musa true guidance and made the Children of Israel inherit the Scripture—
 
-## AI Tafsir
-
-**What this ayah teaches:** Then Allah took him (in death), because of his high status and honor, and He established his Companions as his Khalifahs.
-
-**Classical tafsir:** Ibn Kathir notes: Then Allah took him (in death), because of his high status and honor, and He established his Companions as his Khalifahs.
 ## Personal Reflections
-
 

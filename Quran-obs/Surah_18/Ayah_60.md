@@ -298,11 +298,5 @@ The word: حُقُبَّا (huquba: years) is the plural of: حُقبَہ (huqba
 
 And remember when Moses said to his young assistant, “I will never give up until I reach the junction of the two seas, even if I travel for ages.”
 
-## AI Tafsir
-
-**Context:** (Musa got up to deliver a speech before the Children of Israel and he was asked, "Who is the most learned person among the people?" Musa replied, "I am." Allah rebuked him because he did not refer the knowledge to Allah.…
-
-**What this ayah teaches:** So Allah revealed to him: "At the junction of the two seas there is a servant of Ours who is more learned than you." Musa asked, "O my Lord, how can I meet him?" Allah said, "Take a fish and put it in a vessel and then set out, and where you lose the fish, you will find him." So Musa took a fish, put it in a vessel and set out, along with his boy-servant Yusha' bin Nun, peace b…
 ## Personal Reflections
-
 

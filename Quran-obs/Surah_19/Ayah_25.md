@@ -121,11 +121,5 @@ Some reciters read the Ayah as,
 
 Shake the trunk of this palm toward you—it will drop fresh ripe dates upon you.
 
-## AI Tafsir
-
-**What this ayah teaches:** This is why 'Amr bin Maymun said, "Nothing is better for the woman confined in childbed than dried dates and fresh dates." Then he recited this noble Ayah.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

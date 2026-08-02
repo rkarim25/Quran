@@ -115,13 +115,5 @@ This verse proves that:
 
 They deserve to be condemned. If they were to persist, they would get themselves seized and killed relentlessly wherever they are found!
 
-## AI Tafsir
-
-**What this ayah teaches:** The Command of Hijab Here Allah tells His Messenger ﷺ to command the believing women – especially his wives and daughters, because of their position of honor – to draw their Jilbabs over their bodies, so that they will be distinct in their appearance from the women of the Jahiliyyah and from slave women.
-
-**Classical tafsir:** Ibn Kathir notes: Al-Jawhari said: "The Jilbab is the outer wrapper." Ali bin Abi Talhah reported that Ibn 'Abbas said that Allah commanded the believing women, when they went out of their houses for some need, to cover their faces from above their heads with the Jilbab, leaving only one eye showing.
-
-**From the Sunnah:** protection of their life, property and honor becomes obligatory on Muslims very much like that of Muslims themselves.
 ## Personal Reflections
-
 

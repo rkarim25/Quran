@@ -112,13 +112,5 @@ Punishment of the Dwellers of Hell
 
 This is truly what you all used to doubt."
 
-## AI Tafsir
-
-**What this ayah teaches:** More than one commentator stated that this referred to Abu Jahl; undoubtedly he is included among those referred to in this Ayah, but it is not specifically about him.
-
-**Classical tafsir:** Ibn Kathir notes: Mujahid said, "If a drop of it were to fall on the earth, it would corrupt the living of all the people of earth." A similar Marfu' report has been narrated earlier. Here the Qur'an apparently indicates that the infidels will be given zaqqum to eat even before they enter Hell, because in this verse the Qur'an says that after having fed them with zaqqum they will be seized by the keepers of Hell and…
-
-**From the Sunnah:** Ibn Jarir recorded that Abu Ad-Darda' was reciting to a man:
 ## Personal Reflections
-
 

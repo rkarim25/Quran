@@ -189,11 +189,5 @@ There are two sets of factors that make man unmindful of Allah and the Hereafter
 
 No disaster strikes the earth or yourselves except that it is already written in a Record before We bring it into being. That is easy for Allah—
 
-## AI Tafsir
-
-**What this ayah teaches:** No calamity occurs in the earth nor in yourselves but it is inscribed in the Book of Decrees before We bring it into existence.
-
-**Classical tafsir:** Ibn Kathir notes: The expression 'No affliction befalls in the earth' refers to famine, earthquake, destruction of crops, loss in business, loss of wealth and property and loss of friends and loved ones.
 ## Personal Reflections
-
 

@@ -198,15 +198,5 @@ By saying: نَرْ‌فَعُ دَرَ‌جَاتٍ مَّن نَّشَاءُ (
 
 This was the argument We gave Abraham against his people. We elevate in rank whoever We please. Surely your Rabb is All-Wise, All-Knowing.
 
-## AI Tafsir
-
-**Context:** (Verily! Joining others in worship with Allah is a great Zulm (wrong) indeed.)[31:13], was later revealed." Imam Ahmad recorded that 'Abdullah said, "When this Ayah was revealed,
-
-**What this ayah teaches:** Certainly your Lord is All-Wise, All-Knowing .
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, how can I ever consider your misguided statements and false doubts?
-
-**From the Sunnah:** And who among us did not commit Zulm against himself? Joining others in worship with Allah is a great Zulm (wrong) indeed.)[31:13], was later revealed." Imam Ahmad recorded that 'Abdullah said, "When this Ayah was revealed, (Musnad Ahmad)
 ## Personal Reflections
-
 

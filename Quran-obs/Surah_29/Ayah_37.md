@@ -73,11 +73,5 @@ Out of the three sins mentioned in this verse the first one is most disgusting, 
 
 They rejected him, so an overwhelming earthquake seized them and they fell lifeless in their homes.
 
-## AI Tafsir
-
-**What this ayah teaches:** So Allah destroyed them with a mighty earthquake that convulsed their land, and the Sayhah (shout) which tore their hearts from their bodies, and the torment of the Day of Shade, when their souls were taken.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

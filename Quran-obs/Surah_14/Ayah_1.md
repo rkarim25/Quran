@@ -183,15 +183,5 @@ It will be noticed that, at this place, the word: alJ1 (Allah) has been pre-cede
 
 Alif-Lam-Ra. This is a Book We revealed to you so you may lead people out of darkness into light—by their Rabb's will—to the path of the Almighty, the Praiseworthy.
 
-## AI Tafsir
-
-**Context:** ((This is) a Book which We have revealed unto you...) Allah says, 'This is a Book that We have revealed to you, O Muhammad.
-
-**What this ayah teaches:** It is obvious that the mention of darkness and light in the above verse is not referring to the darkness and light which could be seen with naked eyes as a physical phenomenon.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, it was to make it clear that it refers to the way of Allah.
-
-**From the Sunnah:** In this mass effort to convert Muslims, some of those who fell a victim to their trap were strangers even to the recitation of the Qur’ an. And the third task is to teach the Holy Qur'an, and Wisdom, that is, teach the Sunnah of the Messenger of Allah ﷺ .
 ## Personal Reflections
-
 

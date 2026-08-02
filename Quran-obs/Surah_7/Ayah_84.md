@@ -101,13 +101,5 @@ And these sights are not restricted with the time the Holy Qur'an was being reve
 
 We poured upon them a rain. See what was the end of the wicked!
 
-## AI Tafsir
-
-**What this ayah teaches:** In the fifth verse (84), the punishment which came on these people has been described in a few words - that an unusual rain was sent upon them. Then We saved him and his family, except his wife; she was of the Ghabirin (those who lagged behind)(83)And We rained down on them a rain (of stones).
-
-**Classical tafsir:** Ibn Kathir notes: This indicates that first to come was some harsh Sound from the skies, then came other punishments.
-
-**From the Sunnah:** But We found not there any household of the Muslims except one [of Lut and his daughters])[51:35-36]. Allah's Messenger ﷺ said; (Musnad Ahmad, Jami' at-Tirmidhi)
 ## Personal Reflections
-
 

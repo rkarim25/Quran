@@ -155,13 +155,5 @@ After that, mentioned there is yet another reward for these people and this rewa
 
 Gardens of Eternity, which they enter with the righteous among their parents, spouses, and descendants. Angels will enter upon them from every gate, saying,
 
-## AI Tafsir
-
-**What this ayah teaches:** One of them would die while his need is still in his chest, because he was unable to satisfy it himself.
-
-**Classical tafsir:** Ibn Kathir notes: It means that the personal conduct of their fathers and wives was, though not good enough to have enabled them to arrive at this level of success, yet it would be because of the consideration and barakah of the accepted servants of Allah that they too shall be admitted to that hi…
-
-**From the Sunnah:** In fact, even their fathers, wives and children shall get their share in it - subject to the condition that they be good in deeds, the lowest degree of which is that they be Muslims.
 ## Personal Reflections
-
 

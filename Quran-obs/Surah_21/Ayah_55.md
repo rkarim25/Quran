@@ -91,11 +91,5 @@ Commentary
 
 They asked, “Have you come to us with the truth, or is this a joke?”
 
-## AI Tafsir
-
-**What this ayah teaches:** The point here is that Allah is telling us that He gave guidance to Ibrahim aforetime, i.e., He had already guided him at an early age.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

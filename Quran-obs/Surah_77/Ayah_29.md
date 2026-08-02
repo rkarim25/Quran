@@ -121,11 +121,5 @@ Then Allah says,
 
 They will be told, 'Proceed into the Fire you used to deny!
 
-## AI Tafsir
-
-**What this ayah teaches:** The driving of the Criminals to their Final Abode in Hell and how it will be done Allah informs about the those who reject the truth who deny the final abode, the recompense, Paradise, and the Hellfire.
-
-**Classical tafsir:** Ibn Kathir notes: This means it will not protect them from the heat of the flame.
 ## Personal Reflections
-
 

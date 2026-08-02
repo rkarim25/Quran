@@ -144,13 +144,5 @@ The reality is that there is no source with us to find out the certain details o
 
 We tested Sulayman by placing a deformed body on his throne. Then he turned back to Allah in repentance.
 
-## AI Tafsir
-
-**What this ayah teaches:** He grew so weak because of it that, at the time he was brought in to sit on the throne, he gave the impression of a body without the soul.
-
-**Classical tafsir:** Ibn Kathir notes: Allah enabled me to overpower him, and I wanted to tie him to one of the pillars in the Masjid so that you could see him this morning.
-
-**From the Sunnah:** Some of them said, "No one after me will have the right to ask Allah for such a kingdom." This is the apparent meaning from the context of the Ayah, and several Hadiths with a similar meaning have been narrated from the Messenger of Allah ﷺ. In his Tafsir of this Ayah, Al-Bukhari recorded that Abu Hurayrah, may Allah be pleased with him, said that the Prophet ﷺ said: (Sahih al-Bukhari)
 ## Personal Reflections
-
 

@@ -139,11 +139,5 @@ Someone asked Rabi' Ibn-u1_-Khaitham about the shahadah (martyrdom) of Sayyidna 
 
 So the evil consequences of their deeds overtook them. And the wrongdoers among these pagans will be overtaken by the evil consequences of their deeds. And they will have no escape.
 
-## AI Tafsir
-
-**What this ayah teaches:** When harm touches man, he calls to Us (for help); then when We have changed it into a favor from Us, he says: "Only because of knowledge I obtained it." Nay, it is only a trial, but most of them know not (49)Verily, those before them said it, yet (all) that they had earned availed them not (50)So, the evil results of that which they earned overtook them.
-
-**Classical tafsir:** Ibn Kathir notes: When harm touches man, he calls to Us (for help); then when We have changed it into a favor from Us, he says: "Only because of knowledge I obtained it." Nay, it is only a trial, but most of them know not (49)Verily, those before them said it, yet (all) that they had earned availe…
 ## Personal Reflections
-
 

@@ -147,11 +147,5 @@ This method of prophetic call, good counsel and good-mannered debate - in line w
 
 Ask them: "Who provides for you from the heavens and the earth?" Say: "Allah! One of our two groups is rightly guided and the other is clearly astray."
 
-## AI Tafsir
-
-**What this ayah teaches:** As they used to admit that no one in heaven or on earth except Allah gave them provision, i.e., by sending down water and causing crops to grow, so they should also realize that there is no Allah worthy of worship besides Him.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

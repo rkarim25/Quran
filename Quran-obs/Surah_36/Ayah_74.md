@@ -79,11 +79,5 @@ In verse 72: وَذَلَّلْنَاهَا لَهُمْ (And We have brought th
 
 Still they have taken other gods besides Allah, hoping to be helped by them.
 
-## AI Tafsir
-
-**What this ayah teaches:** And they have taken besides Allah, gods, hoping that they might be helped (74)They cannot help them, but they will be brought forward as a troop (against those who worshipped them)(75)So, let not their speech then grieve you.
-
-**Classical tafsir:** Ibn Kathir notes: This means that those idols will be gathered together and will be present when their worshippers are brought to account, as this will add to their grief and will be more effective in establishing proof against them.
 ## Personal Reflections
-
 

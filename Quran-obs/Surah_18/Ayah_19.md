@@ -249,11 +249,5 @@ This tells us that eating food in any city, bazaar or hotel, where most of the f
 
 And so We awakened them so that they might question one another. One of them exclaimed, “How long have you remained asleep?” Some replied, “Perhaps a day, or part of a day.” They said to one another, “Your Rabb knows best how long you have remained. So send one of you with these silver coins of yours to the city, and let him find which food is the purest, and then bring you provisions from it. Let him be exceptionally cautious, and do not let him give you away.
 
-## AI Tafsir
-
-**What this ayah teaches:** Likewise, We woke them that they might question one another. They were alert to the need for such precaution because at the time they had left the city, people used to slaughter animals in the name of idols and that was what they sold in the market.
-
-**Classical tafsir:** Ibn Kathir notes: The definite article indicates that they were referring to a known city.
 ## Personal Reflections
-
 

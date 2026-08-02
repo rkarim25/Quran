@@ -124,11 +124,5 @@ Explaining this, Sayyidna ` Abdullah ibn ` Abbas ؓ says: When the questions and
 
 We have certainly brought them a Book which We explained with knowledge—a guide and mercy for those who believe.
 
-## AI Tafsir
-
-**What this ayah teaches:** Certainly, We have brought to them a Book (the Qur'an) which We have explained in detail with knowledge, a guidance and a mercy to a people who believe (52)Await they just for the final fulfillment of the event?
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

@@ -140,13 +140,5 @@ Let us consider the following scenario: It is said to a person that there are tw
 
 even though the Akhirah—the everlasting life after death—is better and more lasting.
 
-## AI Tafsir
-
-**Context:** meaning, he purifies himself from despised characteristics and he follows what Allah has revealed to the Messenger ﷺ.
-
-**What this ayah teaches:** Indeed whosoever purifies himself shall achieve success (14)And remembers the Name of his Lord, and performs Salah (15)Rather you prefer the life of this world (16)Although the Hereafter is better and more lasting (17)Verily, this is in the former Scripture (18)The Scriptures of Ibrahim and Musa .
-
-**Classical tafsir:** Ibn Kathir notes: Indeed whosoever purifies himself shall achieve success (14)And remembers the Name of his Lord, and performs Salah (15)Rather you prefer the life of this world (16)Although the Hereafter is better and more lasting (17)Verily, this is in the former Scripture (18)The Scriptures of…
 ## Personal Reflections
-
 

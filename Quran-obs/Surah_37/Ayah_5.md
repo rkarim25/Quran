@@ -119,13 +119,5 @@ It was said: رَّ‌بُّ السَّمَاوَاتِ وَالْأَرْ‌ض�
 
 He is the Lord of the heavens and the earth and everything in between, and the Lord of all points of sunrise.
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, your Allah is indeed One;)(5.
-
-**Classical tafsir:** Ibn Kathir notes: Verily, your Allah is indeed One;)(5.
-
-**From the Sunnah:** that 'Abdullah bin 'Umar, may Allah be pleased with him, said, "The Messenger of Allah ﷺ used to command us to make our prayers short and he used to recite As-Saffat when he lead us in prayer." This was recorded by An-Nasa'i only. (Sunan an-Nasa'i)
 ## Personal Reflections
-
 

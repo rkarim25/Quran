@@ -147,22 +147,5 @@ They had willingly taken this pledge. Now, it may sometimes happen that one does
 
 And when We took your covenant that you would not shed each other's blood or expel one another from your homes — you affirmed it and bore witness.
 
-## AI Tafsir
-
-**Essence**
-Allah reminds the Children of Israel of the covenant they ratified and witnessed: never to shed one another's blood, never to drive one another from their homes.
-
-**What it teaches**
-"Your blood... yourselves" — Ibn Kathir explains: the followers of one religion are like one soul, so to strike a brother is to strike oneself. And the pledge was no vague nod — Maarif ul-Quran notes it was willing, as explicit as a witness's testimony.
-
-**The scholars**
-Ibn Kathir: Madinah's Jewish tribes, sworn to the warring Aws and Khazraj, killed and expelled fellow Jews in their patrons' battles, then ransomed the captives as the Tawrah commanded — though that same Tawrah forbade the killing: believing in part of the Book, rejecting the rest. Ibn 'Abbas: they aided idolaters against their brethren for this world's gain.
-
-**From the Sunnah**
-"The example of the believers in their kindness, mercy and sympathy to each other is the example of one body, when an organ of it falls ill, the rest of the body rushes to its aid in fever and sleeplessness." (Cited in Tafsir Ibn Kathir)
-
-**Reflection**
-A covenant witnessed is a covenant owed — guard your brother's blood and home as your own.
 ## Personal Reflections
-
 

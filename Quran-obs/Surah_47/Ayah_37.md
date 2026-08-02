@@ -97,11 +97,5 @@ Other scholars, however, assign another meaning to the words, "and will not ask 
 
 If He demanded it and pressed you, you would withhold and your resentment would be exposed.
 
-## AI Tafsir
-
-**What this ayah teaches:** He only ordained giving charity from your wealth so that you would help your needy brothers. Thus it is clear that Allah is not demanding for all of our wealth because that would be displeasing and a burden and it would weigh heavily on us.
-
-**Classical tafsir:** Ibn Kathir notes: He only ordained giving charity from your wealth so that you would help your needy brothers.
 ## Personal Reflections
-
 

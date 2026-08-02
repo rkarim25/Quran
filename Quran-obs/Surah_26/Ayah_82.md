@@ -89,11 +89,5 @@ The reasoning for this he gave إِنَّ مَعِيَ رَ‌بِّي سَيَ�
 
 And He is the One Who, I hope, will forgive my flaws on Judgment Day.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Who has created me, and it is He Who guides me (78)And it is He Who feeds me and gives me to drink (79)And when I am ill, it is He Who cures me (80)And Who will cause me to die, and then will bring me to life (81)And Who, I hope, will forgive me my faults on the Day of Recompense .
-
-**Classical tafsir:** Ibn Kathir notes: He sends down the water fresh and sweet so that many of those whom He has created, animals and men alike, may drink from it.
 ## Personal Reflections
-
 

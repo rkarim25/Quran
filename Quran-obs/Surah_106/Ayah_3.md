@@ -86,13 +86,5 @@ Verse [ 106:3] فَلْيَعْبُدُوا رَ‌بَّ هَـٰذَا الْ�
 
 Let them worship the Rabb of this House—the Ka'bah through which their safety and livelihood flowed—
 
-## AI Tafsir
-
-**What this ayah teaches:** Here, out of many attributes of Allah, 'the Lord of this House' is singled out, because it was this House that became the source and fountain of all blessings for them.
-
-**Classical tafsir:** Ibn Kathir notes: Their Ilaf caravans, in winter and in summer.)(3.
-
-**From the Sunnah:** And I am commanded to be from among the Muslims.)(27:91)
 ## Personal Reflections
-
 

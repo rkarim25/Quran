@@ -141,11 +141,5 @@ My respected father, Maulana Muhammad Yasin, a dear disciple of Maulana Muhammad
 
 leading up to the heavens and look for the god of Musa—though I am sure he is a liar." Pharaoh's evil deeds were made so appealing to him that he was hindered from the Straight Path. But his plotting was only in vain.
 
-## AI Tafsir
-
-**What this ayah teaches:** Since no one expects any head of the state to go that wild in his imagination, therefore, some commentators have said that this much he too knew that, no matter how high a structure is made for him, he still cannot reach the skies (by that mode of ascent).
-
-**Classical tafsir:** Ibn Kathir notes: Since no one expects any head of the state to go that wild in his imagination, therefore, some commentators have said that this much he too knew that, no matter how high a structure is made for him, he still cannot reach the skies (by that mode of ascent).
 ## Personal Reflections
-
 

@@ -116,11 +116,5 @@ It is stated about the people of Sayyidna Nuh (علیہ السلام) that they 
 
 When they see you O Prophet, they only make fun of you, saying, “Is this the one that Allah has sent as a messenger?
 
-## AI Tafsir
-
-**What this ayah teaches:** Cattle only do what they were created to do, but these people were created to worship Allah Alone without associating partners with Him, but they worship others with Him, even though evidence has been established against them and Messengers have been sent to them.
-
-**Classical tafsir:** Ibn Kathir notes: Neither Qur'an nor any authentic tradition describes these people in any detail.
 ## Personal Reflections
-
 

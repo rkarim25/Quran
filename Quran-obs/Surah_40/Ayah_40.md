@@ -146,11 +146,5 @@ My respected father, Maulana Muhammad Yasin, a dear disciple of Maulana Muhammad
 
 Whoever does an evil deed will only be repaid with its equivalent. Whoever does good, whether male or female, and is a mu'min, they will enter Paradise, provided for without limit.
 
-## AI Tafsir
-
-**What this ayah teaches:** Since no one expects any head of the state to go that wild in his imagination, therefore, some commentators have said that this much he too knew that, no matter how high a structure is made for him, he still cannot reach the skies (by that mode of ascent). Then, we have no sound and strong report to prove whether or not such a palatial high structure was ever raised.
-
-**Classical tafsir:** Ibn Kathir notes: Since no one expects any head of the state to go that wild in his imagination, therefore, some commentators have said that this much he too knew that, no matter how high a structure is made for him, he still cannot reach the skies (by that mode of ascent).
 ## Personal Reflections
-
 

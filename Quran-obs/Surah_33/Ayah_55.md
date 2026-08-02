@@ -177,13 +177,5 @@ The issue of Hijab for women, out of the three injunctions in the above mentione
 
 There is no blame on the Prophet’s wives if they appear unveiled before their fathers, their sons, their brothers, their brothers’ sons, their sisters’ sons, their fellow Muslim women, and those bondspeople in their possession. And be living with taqwa toward Allah O wives of the Prophet! Surely Allah is a Witness over all things.
 
-## AI Tafsir
-
-**What this ayah teaches:** It is no sin on them before their fathers, or their sons, or their brothers, or their brother's sons, or the sons of their sisters, or their own (believing) women, or their (female) slaves. Relatives before Whom a Woman does not need to observe Hijab When Allah commands women to observe Hijab in front of men to whom they are not related, He explains who are the relatives before whom they do not ne…
-
-**Classical tafsir:** Ibn Kathir notes: Relatives before Whom a Woman does not need to observe Hijab When Allah commands women to observe Hijab in front of men to whom they are not related, He explains who are the relatives before whom they do not need to observe Hijab.
-
-**From the Sunnah:** Ibn Jarir recorded that Ash-Sha'bi and 'Ikrimah said concerning the Ayah,
 ## Personal Reflections
-
 

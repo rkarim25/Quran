@@ -216,15 +216,5 @@ Following this conversation with Sayyidna ` Abbas ؓ ، the Holy Prophet ﷺ als
 
 O Prophet, tell the captives in your hands: "If Allah knows good in your hearts, He will give you better than what was taken from you and forgive you. Allah is All-Forgiving, the Rahim."
 
-## AI Tafsir
-
-**Context:** Most commentators have said that this verse was revealed about Sayyidna ` Abbas ؓ the uncle of the Holy Prophet ﷺ because he too was one of the prisoners of Badr and ransom was taken from him too.
-
-**What this ayah teaches:** Say to the captives that are in your hands: "If Allah knows any good in your hearts, He will give you something better than what has been taken from you, and He will forgive you, and Allah is Oft-Forgiving, ar-Rahim.")[8:70] Al-'Abbas commented, 'After I became Muslim, Allah gave me twenty servants in place of the twenty Uwqiyah I lost.
-
-**Classical tafsir:** Ibn Kathir notes: It has been said in verse 70: If Allah shall find any good in your hearts, then, He shall give you what is better than what has been taken from you - and in addition to that, He shall forgive your past sins.
-
-**From the Sunnah:** Why do you not sleep?' Al-'Abbas had been capt…
 ## Personal Reflections
-
 

@@ -77,11 +77,5 @@ The word: دِفْءٌ (difun) in verse 5 denotes what provides warmth, that is,
 
 He created the heavens and the earth for a purpose. Exalted is He above what they associate with Him in worship!
 
-## AI Tafsir
-
-**What this ayah teaches:** Allah is the One Who has created the Heavens, the Earth, and Man Allah tells us about His creation of the upper realm, which is the heavens, and the lower realm, which is the earth, and everything in them.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

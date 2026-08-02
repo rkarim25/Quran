@@ -146,13 +146,5 @@ According to a narration of Sayyidna Jabir ؓ appearing in the Sahihs of al-Bukh
 
 The leaders will answer, "Did we block you from guidance after it reached you? No—you were already wicked on your own."
 
-## AI Tafsir
-
-**What this ayah teaches:** In fact, it is not simply for human beings, but is so for the Jinns as well.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, it will hold on and survive till Qiyamah in its original state and there would be no need for some other prophet to be sent.
-
-**From the Sunnah:** intercede on behalf of others on the fateful plains of the Resurrection [ al-hashr ], I shall, then, be given the opportunity to intercede). (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
-
 

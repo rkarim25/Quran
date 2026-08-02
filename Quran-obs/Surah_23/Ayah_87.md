@@ -142,11 +142,5 @@ It has been mentioned earlier that the Holy Prophet ﷺ had prayed to Allah to p
 
 They will reply, “Allah.” Say, “Will you not then fear Him?”
 
-## AI Tafsir
-
-**What this ayah teaches:** The Idolators Believe in Tawhid Ar-Rububiyyah, Which Requires Them to Believe in Tawhid Al-Uluhiyyah Allah states that the fact that He is One and that He is independent in His creation, control, dominion and guides one to realize that there is no Allah except Him and that none should be worshipped except Him Alone, with no partner or associate.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

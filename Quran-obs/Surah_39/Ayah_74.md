@@ -251,13 +251,5 @@ Ends here
 
 The righteous will say, "Praise be to Allah Who has fulfilled His promise to us, and made us inherit the everlasting land to settle in Paradise wherever we please." How excellent is the reward of those who work righteousness!
 
-## AI Tafsir
-
-**What this ayah teaches:** We can dwell in Paradise where we will; how excellent a reward for the workers!
-
-**Classical tafsir:** Ibn Kathir notes: In the Islamic terminology, it normally refers to those Companions of a prophet who excel all others in their submission to Allah and is Messenger.
-
-**From the Sunnah:** Paradise on the Day of Resurrection and will ask for it to be opened. (Sahih Muslim) Paradise will enter looking like the moon on the night when it is full. (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
-
 

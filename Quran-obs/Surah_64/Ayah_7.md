@@ -157,13 +157,5 @@ Allah explained His statement saying;
 
 Those who reject the truth claim they will not be resurrected. Say: 'Yes, by my Lord, you will surely be resurrected, then you will be informed of what you did. That is easy for Allah.'
 
-## AI Tafsir
-
-**What this ayah teaches:** By my Lord, you will certainly be resurrected, then you will be informed of what you did; and that is easy for Allah.
-
-**Classical tafsir:** Ibn Kathir notes: Though the word basher [ mortal (s)] is singular, but in meaning it is plural.
-
-**From the Sunnah:** Alas, there is also a group of Muslims who denies the mortality of the Allah’ s Messenger.
 ## Personal Reflections
-
 

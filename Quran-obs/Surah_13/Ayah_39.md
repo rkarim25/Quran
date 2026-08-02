@@ -139,13 +139,5 @@ And that is the exclusive domain of Divine knowledge. Written there are the deci
 
 Allah eliminates and confirms what He wills, and with Him is the Master Record.
 
-## AI Tafsir
-
-**Context:** (Say: "I am only a man like you. It has been revealed to me.")[18:110] It is recorded in the Two Sahihs that the Messenger of Allah ﷺ said,
-
-**What this ayah teaches:** This is what Allah blots out, while what He confirms is a man who works in His disobedience, but since goodness was destined for him, he dies after reverting to the obedience of Allah.
-
-**Classical tafsir:** Ibn Kathir notes: This eliminates the doubt that Divine injunctions should never be abrogated, because enforcing an injunction and then abrogating it indicates that the enforcer of the injunction did not have the correct perception of conditions, therefore, it was after having seen conditions that…
 ## Personal Reflections
-
 

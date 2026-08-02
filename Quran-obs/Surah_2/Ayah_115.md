@@ -176,17 +176,5 @@ Before we proceed, we must sound a note of caution. Verse 115 says that whicheve
 
 To Allah belong the east and the west. Wherever you turn, there is the face of Allah. Allah is all-encompassing, all-knowing.
 
-## AI Tafsir
-
-**Essence** Allah is bound to no direction. The east and the west are His; wherever you turn, His Face is there — exalted above His Throne, yet His knowledge and acceptance reaching every horizon.
-
-**What it teaches** "Wherever you turn, there is the Face of Allah." Maarif: wheresoever a man turns he finds Allah "facing" him — ready to accept his prayer and pour out His bounty. Were He confined to one direction, a fixed orientation would bind Him; but He is Wāsi' (All-Encompassing) and 'Alīm (All-Knowing) — encompassing creation with provision, missing nothing of their deeds.
-
-**The scholars** Its occasion is reported differently. Ali bin Abi Talhah from Ibn 'Abbas ties it to the Qiblah: the Prophet ﷺ faced Bayt al-Maqdis some sixteen-seventeen months, then was turned to the Ka'bah, and when the Jews objected this ayah answered them. Ibn Jarir reports another: it permitted voluntary prayer in any direction while traveling. Ikrimah from Ibn 'Abbas: "Allah's direction is wherever you face"; Mujahid: "wherever you are, you have a Qiblah — Al-Ka'bah." On "the Face of Allah," Maarif counsels restraint: do not probe the reality of the Attributes; hold a general faith in the Divine Order.
-
-**From the Sunnah** "What is between the east and the west is a Qiblah" — mercy for one who cannot pinpoint the direction (At-Tirmidhi and Ibn Majah, from Abu Hurayrah). Ibn 'Umar prayed voluntary prayer facing wherever his mount turned, as the Prophet ﷺ did (Muslim, origin in the Two Sahihs).
-
-**Reflection** Turn to Allah from wherever you stand — no place is too far. He is high above His Throne, yet ever near in mercy, ready to receive your prayer.
 ## Personal Reflections
-
 

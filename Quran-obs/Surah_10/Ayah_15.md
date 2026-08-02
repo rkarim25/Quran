@@ -225,13 +225,5 @@ Then he was asked to tell them that he did everything under Divine orders. Had i
 
 When Our clear revelations are recited to them, those who do not expect to meet Us say to the Prophet, “Bring us a different Quran or make some changes in it.” Say to them, “It is not for me to change it on my own. I only follow what is revealed to me. I fear, if I were to disobey my Rabb, the punishment of a tremendous Day.”
 
-## AI Tafsir
-
-**Context:** Rejecting their false notion first, the Qur'an instructs the Holy Prophet a1JI to tell those people that the Qur'an was not his Word, nor could he change it on his own.
-
-**What this ayah teaches:** When the Messenger ﷺ read to them from the Book of Allah and His clear evidence they said to him: "Bring a Qur'an other than this." They wanted the Prophet ﷺ to take back this Book and bring them another book of a different style or change it to a different form.
-
-**Classical tafsir:** Ibn Kathir notes: If he were to make the least change in it on his own and by his choice, he would be committing a grave sin, and that he feared the punishment that falls upon those who disobey Allah, therefore, he could not do that.
 ## Personal Reflections
-
 

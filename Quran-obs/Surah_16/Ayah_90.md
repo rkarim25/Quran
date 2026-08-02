@@ -232,15 +232,5 @@ The six commands, imperative and prohibitive, given in this verse are - if ponde
 
 Allah commands justice, excellence, and giving to relatives, and forbids immorality, wrongdoing, and oppression. He admonishes you so you may take heed.
 
-## AI Tafsir
-
-**Context:** Similarly, Sayyidna ` Uthman ibn Maz` un ؓ says: 'At the initial stage, I had embraced Islam because people around said so. But, Islam had not taken roots in my heart.
-
-**What this ayah teaches:** For instance, one sense of Al-'Adl or justice is that man should do justice between his Nafs (self) and his Rabb (Lord-Allah).
-
-**Classical tafsir:** Ibn Kathir notes: But, his people suggested to him that he was their chief, the highest ranking person among them, therefore, his going there personally was not appropriate.
-
-**From the Sunnah:** Then the Messenger of Allah ﷺ turned slightly away from his companion 'Uthman to where he was looking.
 ## Personal Reflections
-
 

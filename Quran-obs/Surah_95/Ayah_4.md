@@ -146,13 +146,5 @@ The Sufis have supported this concept. Some scholars have analysed in detail - f
 
 We created humanity in the finest stature—a dignified beginning, shaped with purpose.
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, We created man in the best form.)(5. The word taqwim literally denotes 'to set a thing aright or lay the foundation straight or even; or to form something into an appropriate shape in a moderate regulation'.
-
-**Classical tafsir:** Ibn Kathir notes: This indicates that man is the most beautiful creation of Allah outwardly and inwardly, in terms of elegance and attractiveness and in terms of bodily structure.
-
-**From the Sunnah:** Malik and Shu'bah narrated from 'Adi bin Thabit, who narrated that Al-Bara' bin 'Azib said, "The Prophet ﷺ used to recite in one of his Rak'ahs while traveling 'At-Tin waz-Zaytun' (Surat At-Tin), and I have never heard anyone with a nicer voice or recitation t…
 ## Personal Reflections
-
 

@@ -232,13 +232,5 @@ Although the torment of Hereafter would increase on the one who is liar, after t
 
 and a fifth oath that Allah may condemn him if he is lying.
 
-## AI Tafsir
-
-**Context:** In both these incidents it is reported that the verses of lian were revealed for that particular incident. Hafiz Ibn Hajar and Shaikh ul Islam Nawawi (رح) have noted the alikeness in the two by explaining that it looks t…
-
-**What this ayah teaches:** The torment of Allah is much more severe than the punishment of people, and that the fifth testimony is the final one, on which the ruling would depend.
-
-**Classical tafsir:** Ibn Kathir notes: Imam Ahmad recorded that Sa'id bin Jubayr said: During the governorship of Ibn Az-Zubayr I was asked about the couple who engage in Li'an, and whether they should be separated, and I did not know the answer.
 ## Personal Reflections
-
 

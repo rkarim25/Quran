@@ -219,15 +219,5 @@ The punishment stated in this verse for the disbelievers is because of their bei
 
 On the Day those who rejected the truth are exposed to the Fire, they will be told: You already used up your pleasures in the dunya—you enjoyed them fully. Today you are repaid with the torment of humiliation for your arrogance across the land without right, and for your defiance of Allah.
 
-## AI Tafsir
-
-**Context:** (But he who says to his parents: "Uff to you! ...") As for the saying "Uff" in this Ayah, it is a general description applying to anyone who says it to his parents.
-
-**What this ayah teaches:** Incentive for avoiding worldly delights and luxuries The punishment stated in this verse for the those who reject the truth is because of their being engrossed in worldly enjoyments.
-
-**Classical tafsir:** Ibn Kathir notes: Verily, they are ever the losers (18)And for all, there will be degrees according to that which they did, so that He might fully recompense for their deeds.
-
-**From the Sunnah:** from Yusuf bin Mahak that Marwan (bin Al-Hakam) was governor of Hijaz (Western Arabia), appointed by Mu'awiyah bin Abi Sufyan. (Sahih al-Bukhari)
 ## Personal Reflections
-
 

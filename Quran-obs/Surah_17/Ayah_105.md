@@ -145,13 +145,5 @@ Since this explanation of the verse stands proved on the authority of Sahih Hadi
 
 We have sent down the Quran in truth, and with the truth it has come down. We have sent you O Prophet only as a deliverer of good news and a warner.
 
-## AI Tafsir
-
-**Context:** (And (it is) a Qur'an which We have divided), The word translated here as "We have divided" may be read in two ways.
-
-**What this ayah teaches:** Therefore, a number of commentators have taken the word 'ayat' to mean miracles - and the number nine does not make it necessary that they will not be more than nine - but, at this place, the figure 'nine' has been mentioned on the basis of some particular importance it has. And with truth We have sent it down, and with truth it has descended.
-
-**Classical tafsir:** Ibn Kathir notes: And a Sahih Hadith tells us that the word 'ayat' used here means divine injunctions.
 ## Personal Reflections
-
 

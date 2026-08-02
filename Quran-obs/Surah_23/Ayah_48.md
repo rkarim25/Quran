@@ -46,11 +46,5 @@ Commentary
 
 So they rejected them both, and so were among those destroyed.
 
-## AI Tafsir
-
-**What this ayah teaches:** They were of a similar mentality, so Allah destroyed Fir'awn and his chiefs, drowning them all in one day. He revealed the Book to Musa, i.e., the Tawrah, in which were rulings, commands and prohibitions, after He had destroyed Fir'awn and the Egyptians and seized them with a punishment of the All-Mighty, All-Capable to carry out what He wills.
-
-**Classical tafsir:** Ibn Kathir notes: Musa, Peace Be upon Him, And Fir'awn Allah tells us that He sent Musa, peace be upon him, and his brother Harun to Fir'awn and his chiefs with decisive evidence and definitive proof, but Fir'awn and his people were too arrogant to follow them and obey their commands because they…
 ## Personal Reflections
-
 

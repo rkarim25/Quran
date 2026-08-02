@@ -212,13 +212,5 @@ Thereupon, Allah Ta ala will say: النَّارُ‌ مَثْوَاكُمْ خ�
 
 The Day He will gather them together and say, “O assembly of jinn! You misled humans in great numbers.” And their human associates will say, “Our Rabb! We benefited from each other’s company, but now we have reached the term which You appointed for us.” He will say, “The Fire is your home, yours to stay in forever, except whoever Allah wills to spare.” Surely your Rabb is All-Wise, All-Knowing.
 
-## AI Tafsir
-
-**What this ayah teaches:** Certainly your Lord is All-Wise, All-Knowing.
-
-**Classical tafsir:** Ibn Kathir notes: As for the satans among Jinns, their gain was that they found a pliable people to listen to them because of which they succeeded in making human beings follow their dictates, so much so that they forgot all about death and the Hereafter.
-
-**From the Sunnah:** The human satans learned from them the ways of securing gratification from worldly enjoyments and, on occasions, called on them for help in one or the other way, as is the practice in idol-worshipping Hindus and, for that matter, even among ignorant Muslims, w…
 ## Personal Reflections
-
 

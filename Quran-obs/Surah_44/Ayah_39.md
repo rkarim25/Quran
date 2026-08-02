@@ -95,11 +95,5 @@ Here Allah tells us of His justice, and that He is far above mere play, folly an
 
 We only created them for a purpose, but most of these pagans do not know.
 
-## AI Tafsir
-
-**What this ayah teaches:** The heavens and the earth and everything created in them manifest many realities. Obviously, the Supreme Creator Who drew out such huge bodies from the realm of non-existence into the realm of existence surely has the power to destroy them and re-create them; (3) the need for retribution (reward/punishment).
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

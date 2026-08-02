@@ -145,15 +145,5 @@ Some of the scholars maintain that the rule of forgiving the infidels applied on
 
 Tell the believers to forgive those who do not fear Allah's days of reckoning, so that He may reward each group for what they used to do.
 
-## AI Tafsir
-
-**Context:** قُل لِّلَّذِينَ آمَنُوا يَغْفِرُ‌وا لِلَّذِينَ لَا يَرْ‌جُونَ أَيَّامَ اللَّـهِ ("Tell those who believe that they should forgive those who do not believe in Allah's days ...14) ".
-
-**What this ayah teaches:** The word ayyam (days) in the Arabic language is abundantly used in the sense of ` turn of events'.
-
-**Classical tafsir:** Ibn Kathir notes: In the beginning of Islam, Muslims were ordered to observe patience in the face of the oppression of the idolators and the People of the Scriptures so that their hearts may incline towards Islam.
-
-**From the Sunnah:** Then, when harm touches you unto Him you cry aloud for help.)(16:53) Ibn Jarir recorded that Al-'Awfi reported that Ibn 'Abbas said about Allah's statement, In the beginning of Islam, Muslims were ordered to observe patience in the face of the oppression of the idolators and the People of the Scriptures so that their…
 ## Personal Reflections
-
 

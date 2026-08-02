@@ -154,13 +154,5 @@ Let us carefully analyze the six verses in this set. The dwelling of the inmates
 
 amid Gardens and springs,
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, those who have Taqwa, will be in place of security (51)Among Gardens and Springs (52)Dressed in Sundus and Istabraq, facing each other (53)So (it will be).
-
-**Classical tafsir:** Ibn Kathir notes: The State of Those Who have Taqwa and the Delights.They will enjoy in Paradise When Allah describes the state of the doomed, He follows that with a description of the life of the blessed.
-
-**From the Sunnah:** It was reported in the Two Sahihs that the Messenger of Allah ﷺ said: Paradise and Hell, then it will be slaughtered.
 ## Personal Reflections
-
 

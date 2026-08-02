@@ -101,13 +101,5 @@ The forthcoming verses address the people of the time of the Prophet Muhammad �
 
 We have made the Qur'an easy for remembrance. Is there anyone who will remember?
 
-## AI Tafsir
-
-**Context:** رَ‌اوَدُوهُ عَن ضَيْفِهِ (And they had even tried to tempt him against his guests...54:37). The word murawadah signifies to entice someone to satisfy one's lust.
-
-**What this ayah teaches:** So, is there one to seek advice?) This is to indicate that the only way to avoid the terrible chastisement is to take to the advice of the Qur'an.
-
-**Classical tafsir:** Ibn Kathir notes: The word murawadah signifies to entice someone to satisfy one's lust.
 ## Personal Reflections
-
 

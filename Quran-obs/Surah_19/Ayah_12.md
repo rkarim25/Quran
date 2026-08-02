@@ -109,11 +109,5 @@ This also implies what is not mentioned, that this promised boy was born and he 
 
 O John, hold firmly to the Scripture. We granted him wisdom while still a child,
 
-## AI Tafsir
-
-**What this ayah teaches:** Hold fast to the Scripture [the Tawrah].) Means, "Learn the Book with strength." In other words, learn it well, with zeal and studious effort.
-
-**Classical tafsir:** Ibn Kathir notes: Hold fast to the Scripture [the Tawrah].) Means, "Learn the Book with strength." In other words, learn it well, with zeal and studious effort.
 ## Personal Reflections
-
 

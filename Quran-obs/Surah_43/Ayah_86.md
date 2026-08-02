@@ -196,11 +196,5 @@ I would have been the first to worship - 43:81) It does not mean that, God forbi
 
 Those objects of worship they invoke besides Him have no power to intercede, except those who testify to the truth knowingly.
 
-## AI Tafsir
-
-**What this ayah teaches:** Exalted be He from all that they ascribe (to Him)(82)So leave them (alone) to speak nonsense and play until they meet the Day of theirs which they have been promised (83)It is He Who is the only Allah in the heaven and the only Allah on the earth.
-
-**Classical tafsir:** Ibn Kathir notes: He is eternally free of all faults and shortcomings, because He is the Lord, the Exalted, the Almighty, the Sovereign of all things, Who is in control of all affairs.
 ## Personal Reflections
-
 

@@ -194,13 +194,5 @@ Finally, the Holy Prophet ﷺ said, 'My dear uncle, should I not be inviting the
 
 The pagans are astonished that a warner has come from among themselves. Those who reject the truth say, "This is a sorcerer, a total liar!"
 
-## AI Tafsir
-
-**Context:** (Has he made the gods into One Allah. Verily, this is a curious thing!) Then this passage was revealed, from this Ayah to the Ayah: When they said this, it indicated their ignorance and lack of understanding since they tho…
-
-**What this ayah teaches:** Nay, but they have not tasted (My) torment (8)Or have they the treasures of the mercy of your Lord, the Almighty, the Real Bestower (9)Or is it that the dominion of the heavens and the earth and all that is between them is theirs If so, let them ascend up with means (10)They will be a defeated host like the Confederates of the old times .
-
-**Classical tafsir:** Ibn Kathir notes: The idolators – may Allah curse them – denounced that and were amazed at the idea of giving up Shirk, because they had learned from their forefathers to worship idols and their hearts were filled with love for that.
 ## Personal Reflections
-
 

@@ -193,11 +193,5 @@ Some very important points are learnt by this incident. One, that it was the pra
 
 When he arrived at the well of Midian, he found a group of people watering their herds. Apart from them, he noticed two women holding back their herd. He asked them, “What is the problem?” They replied, “We cannot water our animals until the other shepherds are done, for our father is a very old man.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Two, that there is no harm to talk to stranger women, if no mischief is involved.
-
-**Classical tafsir:** Ibn Kathir notes: He was not used to being alone, because before that he had been living a life of luxury and ease, in a position of leadership.
 ## Personal Reflections
-
 

@@ -152,22 +152,5 @@ The fact, as narrated by Sayyidna Ibn ` Abbas ؓ in an authentic re-port, is tha
 
 Say, “Allah has declared the truth. So follow the Way of Abraham, the upright—who was not a polytheist.”
 
-## AI Tafsir
-
-**Essence**
-Say, O Prophet: Allah has spoken the truth in all He revealed and legislated, so follow the pure, upright way of Ibrahim, who never associated anything with Allah.
-
-**What it teaches**
-After silencing the false claims of the People of the Book, Allah commands the Prophet ﷺ to proclaim that the truth rests with Allah alone, and that salvation lies in following the *millah* (religion-path) of Ibrahim as a *hanif* — one who turned wholly and uprightly to Allah — and who "was not of the Mushrikin," the idolaters who set up partners with Him. Ibn Kathir frames this *millah* not as a return to an older creed but as the religion of Ibrahim "that Allah legislated in the Qur'an."
-
-**The scholars**
-Ibn Kathir glosses "Allah has spoken the truth" as: Allah "has said the truth in what He conveyed and legislated in the Qur'an," and calls the way of Ibrahim "the truth, there is no doubt in it, and the perfect way, and no Prophet has brought a more complete, clear, plain and perfect way than he did." He argues the preceding verses refute the Jews from their own scripture: abrogation (*Naskh*) had already occurred within the Tawrah itself. According to his report, Nuh was permitted the meat of all animals, yet Isra'il (Ya'qub) forbade camel meat and milk for himself and his children followed him, and the Tawrah later prohibited it; Adam could marry his daughters to his sons, later forbidden; Ibrahim took Hajar alongside Sarah, later forbidden; Ya'qub married two sisters at once, later forbidden. Since their own Law was abrogated, "let the Jews consider what Allah legislated for 'Isa and if such legislation falls under the category of abrogation or not. Why do they not then follow 'Isa?" Maarif ul Quran (via Ruh al-Ma'ani from Wahidi and al-Kalbi) records the occasion: when the Prophet ﷺ professed adherence to the community of Ibrahim, the Jews objected that he ate camel meat and milk "although these were unlawful for Abraham," and he ﷺ replied, "No, this was lawful for him" — the camel prohibition having begun only with Ya'qub's personal vow.
-
-**From the Sunnah**
-A group of Jews came testing the Prophet ﷺ with four questions only a prophet would know — which food Isra'il forbade himself, how offspring take their sex, how the unlettered Prophet sleeps, and who his angelic supporter was. To the first he ﷺ answered that Isra'il, when gravely ill, vowed to forbid himself his most beloved food and drink — camel meat and milk — if Allah cured him; this was the origin of the prohibition, not an eternal law. They affirmed each answer, but when told his supporter was "Jibril, and Allah never sent a Prophet but Jibril is his Wali," they turned away out of enmity to Jibril — upon which Allah revealed not this verse but "Whoever is an enemy to Jibril" (2:97), exposing that their refusal sprang from hardness of heart, not lack of proof. (Musnad Ahmad, via Ibn Kathir) Maarif ul Quran adds, from an authentic report of Ibn 'Abbas, that Ya'qub's vow followed an affliction of sciatica: he pledged to give up his most beloved food if cured, and abandoned camel meat once healed. (Al-Hakim and al-Tirmidhi, via Ruh al-Ma'ani)
-
-**Reflection**
-Anchor your heart in pure *tawhid* like Ibrahim the *hanif* — and beware that recognizing the truth means nothing unless pride and prejudice are set aside to follow it.
 ## Personal Reflections
-
 

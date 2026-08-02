@@ -156,13 +156,5 @@ Some Rulings about touching the Holy Qur’ an
 
 A revelation from the Rabb of all that exists.
 
-## AI Tafsir
-
-**Context:** (That (this) is indeed an honorable recitation.) means, verily, this Qur'an that was revealed to Muhammad ﷺ is a Glorious Book,
-
-**What this ayah teaches:** I swear by the Mawaqi' of the stars (75)And verily that is indeed a great oath, if you but know (76)That (this) is indeed an honorable recitation (77)In a Book Maknun (78)Which none touches but the pure ones (79)A revelation from the Lord of all that exists (80)Is it such a talk that you are Mudhinun (81)And you make your provision your denial .
-
-**Classical tafsir:** Ibn Kathir notes: I swear by the Mawaqi' of the stars.) Mujahid said, "The setting positions of the stars in the sky," and he said that it refers to the rising and setting positions.
 ## Personal Reflections
-
 

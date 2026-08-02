@@ -100,11 +100,5 @@ On the Day, they see these conditions and these frightening sights, they will ha
 
 with neither depressions nor elevations to be seen.”
 
-## AI Tafsir
-
-**What this ayah teaches:** And all voices will be humbled for the ar-Rahman (Allah), and nothing shall you hear except Hamsa . The word Qa' means a piece of land that is level and the word Safsafa is used to place emphasis on this meaning.
-
-**Classical tafsir:** Ibn Kathir notes: The word Qa' means a piece of land that is level and the word Safsafa is used to place emphasis on this meaning.
 ## Personal Reflections
-
 

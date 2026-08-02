@@ -78,11 +78,5 @@ It is related in this verse that the disbelievers rejected the invitation of Say
 
 The people of ’Âd rejected the messengers
 
-## AI Tafsir
-
-**What this ayah teaches:** This refers to the fact that they were physically strong and well-built, and very violent, and very tall; they had also been given a great deal of provisions, wealth, gardens, rivers, sons, crops and fruits. Hence, it was their ignorance to put the label of sordidness on his followers, because they did not know about their deeds and disposition.
-
-**Classical tafsir:** Ibn Kathir notes: This refers to the fact that they were physically strong and well-built, and very violent, and very tall; they had also been given a great deal of provisions, wealth, gardens, rivers, sons, crops and fruits.
 ## Personal Reflections
-
 

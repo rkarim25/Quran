@@ -137,11 +137,5 @@ Commentary
 
 In fact, We have brought them the truth, and they are certainly liars.
 
-## AI Tafsir
-
-**What this ayah teaches:** The Idolators Believe in Tawhid Ar-Rububiyyah, Which Requires Them to Believe in Tawhid Al-Uluhiyyah Allah states that the fact that He is One and that He is independent in His creation, control, dominion and guides one to realize that there is no Allah except Him and that none should be worshipped except Him Alone, with no partner or associate.
-
-**Classical tafsir:** Ibn Kathir notes: This is true of this world because nobody can stop Allah from rewarding virtuous people nor can anyone protect someone whom He chooses to punish.
 ## Personal Reflections
-
 

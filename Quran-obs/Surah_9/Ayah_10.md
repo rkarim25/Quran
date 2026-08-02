@@ -92,13 +92,5 @@ This is the verse Sayyidna Abu Bakr ؓ had quoted in support of his declaration 
 
 They do not honour the bonds of kinship or treaties with those who have iman. It is they who are the transgressors.
 
-## AI Tafsir
-
-**What this ayah teaches:** They have purchased with the Ayat of Allah a little gain, and they hindered men from His way; evil indeed is that which they used to do (9)With regard to a believer, they respect not the ties, either of kinship or of covenant! With regard to a believer, they respect not the ties, either of kinship or of covenant!)[9:9-10].
-
-**Classical tafsir:** Ibn Kathir notes: Taubah or repentance from Kufr and Shirk, (2) establishment of Salah and (3) payment of Zakah - because, 'Iman (faith) and Taubah (repentance) are concealed matters.
-
-**From the Sunnah:** Here we are being told that once an enemy - no matter how deadly and no matter how hurtful he has been - becomes a Muslim, things change dramatically. (Sahih Muslim)
 ## Personal Reflections
-
 

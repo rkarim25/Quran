@@ -118,11 +118,5 @@ This response appears immediately next in verse 52: هَـٰذَا مَا وَع
 
 On that Day no soul will be wronged in the least, nor will you be rewarded except for what you used to do.
 
-## AI Tafsir
-
-**What this ayah teaches:** Though the those who reject the truth were already having their punishment in their graves with no sign of any relief, yet this punishment will appear as nothing when compared with the punishing circumstances of the day of Qiyamah, therefore, they will cry out as to why they had to be taken out of their graves, for it would have been better if they had stayed right there.
-
-**Classical tafsir:** Ibn Kathir notes: Ubayy bin Ka'b, may Allah be pleased with him, Mujahid, Al-Hasan and Qatadah said, "They will sleep before the Resurrection." Qatadah said, "That will be between the two trumpet blasts, they will say, 'Who has raised us up from our place of sleep?'" When they say that, the believers will respond.
 ## Personal Reflections
-
 

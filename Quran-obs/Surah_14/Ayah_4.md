@@ -147,15 +147,5 @@ Toward the end of the verse it was said that it is for the convenience of people
 
 We never sent a messenger except in the language of his people, to clarify for them. Then Allah leaves whomever He wills to stray and guides whomever He wills. He is the Almighty, All-Wise.
 
-## AI Tafsir
-
-**Context:** Commentary Mentioned in the first sentence of this verse is the particular blessing and convenience granted by Allah Ta’ ala that whenever He has sent a messenger to a people, He has sent him speaking their language, in…
-
-**What this ayah teaches:** The Distinctions of Arabic First of all, the Arabic language is the official language of the heavens.
-
-**Classical tafsir:** Ibn Kathir notes: Given their spiritual status, other Scriptures too are the Word of Allah, but none of the other Scriptures made such a claim, perhaps because they were not in their original form in Arabic but were its translation.
-
-**From the Sunnah:** Muhammad bin 'Abdullah, Allah's Messenger, peace and blessings be upon him, was sent to all people. Paradise which is the real home of human beings and to where they have to return - and its language is also Arabic. (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
-
 

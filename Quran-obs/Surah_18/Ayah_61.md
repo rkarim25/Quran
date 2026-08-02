@@ -275,11 +275,5 @@ The first mention of the fish going into the sea was made through the word: سَ
 
 But when they finally reached the point where the seas met, they forgot their salted fish, and it made its way into the sea, slipping away wondrously.
 
-## AI Tafsir
-
-**Context:** (Musa got up to deliver a speech before the Children of Israel and he was asked, "Who is the most learned person among the people?" Musa replied, "I am." Allah rebuked him because he did not refer the knowledge to Allah.…
-
-**What this ayah teaches:** So Allah revealed to him: "At the junction of the two seas there is a servant of Ours who is more learned than you." Musa asked, "O my Lord, how can I meet him?" Allah said, "Take a fish and put it in a vessel and then set out, and where you lose the fish, you will find him." So Musa took a fish, put it in a vessel and set out, along with his boy-servant Yusha' bin Nun, peace b…
 ## Personal Reflections
-
 

@@ -131,15 +131,5 @@ In verse 67 it has been averred that Allah Ta’ ala granted to the earlier nati
 
 Do you not know that Allah fully knows whatever is in the heavens and the earth? Surely it is all written in a Record. That is certainly easy for Allah.
 
-## AI Tafsir
-
-**Context:** One interpretation of this verse is that the infidels used to engage the Muslims in futile arguments regarding the slaughter of animals.
-
-**What this ayah teaches:** Know you not that Allah knows all that is in the heaven and on the earth?
-
-**Classical tafsir:** Ibn Kathir notes: have adopted this meaning of the word, and the context of the verse also lends support to this interpretation.
-
-**From the Sunnah:** One interpretation of this verse is that the infidels used to engage the Muslims in futile arguments regarding the slaughter of animals.
 ## Personal Reflections
-
 

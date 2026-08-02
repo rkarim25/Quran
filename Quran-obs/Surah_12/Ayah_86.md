@@ -144,11 +144,5 @@ After hearing the concern of his sons, Sayyidna Ya'qub (علیہ السلام) s
 
 He replied, “I complain of my anguish and sorrow only to Allah, and I know from Allah what you do not know.
 
-## AI Tafsir
-
-**What this ayah teaches:** Therefore, leave me alone as I am.' And, along with what he said, he also indicated that ` this remembrance of his will not go to waste for he knew from Allah Ta` ala what they did not know - that he has been promised by Him that He would bring them all together with him.'
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, leave me alone as I am.' And, along with what he said, he also indicated that ` this remembrance of his will not go to waste for he knew from Allah Ta` ala what they did not know - that he has been promised by Him that He would bring them all together with him.'
 ## Personal Reflections
-
 

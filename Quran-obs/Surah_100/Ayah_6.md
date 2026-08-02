@@ -124,13 +124,5 @@ The word kanud, (100:6) according to Hasan Basri (رح) ، refers to the one who
 
 Humanity is deeply ungrateful to its Rabb—quick to forget blessings once urgency fades.
 
-## AI Tafsir
-
-**What this ayah teaches:** And penetrating forthwith as one into the midst.)(6.
-
-**Classical tafsir:** Ibn Kathir notes: And penetrating forthwith as one into the midst.)(6.
-
-**From the Sunnah:** This is just as the Messenger of Allah ﷺ used to perform raids in the early morning.
 ## Personal Reflections
-
 

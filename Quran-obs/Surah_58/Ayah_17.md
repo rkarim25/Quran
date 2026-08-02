@@ -167,15 +167,5 @@ In contra-distinction to Muwalah [ intimate friendship ], there is a concept of 
 
 Neither their wealth nor their children will protect them from Allah in the least. They are the people of the Fire, staying there forever.
 
-## AI Tafsir
-
-**Context:** وَيَحْلِفُونَ عَلَى الْكَذِبِ (and they swear false oaths ...58:14). It means they swear oaths profanely. According to some reports, this verse was revealed in connection with ` Abdullah Ibn 'Ubayy and ` Abdullah Ibn Nab…
-
-**What this ayah teaches:** In contra-distinction to Muwalah [ intimate friendship ], there is a concept of Muwalah which refers to the relationship based on sympathy, kindness and concern.
-
-**Classical tafsir:** Ibn Kathir notes: Here 'love', 'affection' or 'intimacy' refers to the one coming from the heart involving intense emotional commitment (which necessarily includes having love with his way of life.
-
-**From the Sunnah:** Allah chastises the hypocrites for secretly aiding and supporting the those who reject the truth even though, in reality, they were neither with the those who reject the truth nor with the Muslims.
 ## Personal Reflections
-
 

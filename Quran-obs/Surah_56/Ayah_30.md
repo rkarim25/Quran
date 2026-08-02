@@ -280,13 +280,5 @@ This Hadith has many chains of narration collected in the Sahihs and other colle
 
 extended shade that never runs out,
 
-## AI Tafsir
-
-**What this ayah teaches:** The Holy Prophet ﷺ is reported to have said, as recorded in Sahihain, that in Paradise there is a tree so large that a rider may travel for a hundred years under its shade, but would not be able to pass it.
-
-**Classical tafsir:** Ibn Kathir notes: Qatadah said, "Nothing will prevent them from reaching out to get these fruits, no branches, thorns or distance." We mentioned a Hadith before that states that whenever someone takes a fruit in Paradise, another one grows in its place.
-
-**From the Sunnah:** Paradise the shade of which a rider would take one hundred years to pass. (Sahih al-Bukhari, Sahih Muslim) Paradise, the believer will be given such and such strength for women.
 ## Personal Reflections
-
 

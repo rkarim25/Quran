@@ -112,11 +112,5 @@ Then Allah says,
 
 It hurls sparks as large as fortified castles,
 
-## AI Tafsir
-
-**What this ayah teaches:** It will emit such huge sparks of fire, as if they were huge and magnificent castles. Some scholars have translated the word 'sufr' as 'black' because yellowish colour of camels tends to blackness.
-
-**Classical tafsir:** Ibn Kathir notes: Some scholars have translated the word 'sufr' as 'black' because yellowish colour of camels tends to blackness.
 ## Personal Reflections
-
 

@@ -334,13 +334,5 @@ There is an apt incident in the life of the great Imam Abu Hanifah (رح) . Some
 
 Those who donate in prosperity and adversity, control their anger, and pardon others. And Allah loves the good-doers.
 
-## AI Tafsir
-
-**What this ayah teaches:** The Encouragment to Do Good for which Paradise is the Result Allah encourages His servants to perform righteous deeds and to rush to accomplish the acts of obedience.
-
-**Classical tafsir:** Ibn Kathir notes: Allah also commands His servants to have Taqwa of Him so that they may achieve success in this life and the Hereafter.
-
-**From the Sunnah:** a man came to the Messenger of Allah ﷺ and asked him, about Allah's statement, This Hadith was recorded by Imam Ahmad, its chain of narration is good, it does not contain any disparraged narrators, and the meaning is good. (Musnad Ahmad)
 ## Personal Reflections
-
 

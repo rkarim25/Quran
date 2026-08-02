@@ -124,13 +124,5 @@ In verse 73, it was said: قَالُوا تَاللَّـهِ لَقَدْ عَ�
 
 Joseph’s brothers replied, “By Allah! You know well that we did not come to cause trouble in the land, nor are we thieves.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Indeed you know that we came not to make mischief in the land, and we are no thieves!
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** Allah is the All-Knowing and His knowledge is above the knowledge of every knowledgeable person.' Simak narrated that 'Ikrimah said that Ibn 'Abbas said about Allah's statement,
 ## Personal Reflections
-
 

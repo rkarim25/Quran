@@ -126,11 +126,5 @@ So far the Surah deals with the stories of the prophets and several basic as wel
 
 So whoever does good and is a believer will never be denied the reward for their striving, for We are recording it all.
 
-## AI Tafsir
-
-**What this ayah teaches:** Truly, this, your Ummah is one, and I am your Lord, therefore worship Me (92)But they have broken up and differed in their religion among themselves.
-
-**Classical tafsir:** Ibn Kathir notes: Truly, this, your Ummah is one, and I am your Lord, therefore worship Me (92)But they have broken up and differed in their religion among themselves.
 ## Personal Reflections
-
 

@@ -380,15 +380,5 @@ According to a With reported from Sayyidah ` A'isha ؓ in the "Musnad" of Imam A
 
 The foolish among people will ask, "What turned them from the prayer direction they used to face?" Say, "The east and west belong to Allah. He guides whomever He wills to the Straight Path."
 
-## AI Tafsir
-
-**Essence** When Allah changed the prayer-direction (qiblah) and the foolish mocked it, the answer was that east and west belong to Allah alone — true worship is submitting to His command wherever He directs.
-
-**What it teaches** The "foolish" (sufahā') here are identified by the mufassirun as the disbelieving Jews, hypocrites, and idolaters who scoffed when the qiblah turned from Bayt al-Maqdis (Jerusalem) toward the Ka'bah; "qiblah" simply means the direction one turns the face in prayer. Allah's reply — "To Allah belong the east and the west" — declares that the command, decision, and authority are His alone, and "He guides whom He wills to the straight path (ṣirāṭ mustaqīm)," which Maarif defines as readiness to obey the divine command without demur.
-
-**The scholars** Ibn Kathir reports from Ibn 'Abbas (via Ali bin Abu Talhah) that after the Hijrah Allah commanded the Prophet ﷺ to face Jerusalem for over ten months — a change that, the report notes, pleased the Jews — yet he longed for the qiblah of Ibrahim, looking to the sky until Allah turned him to the Ka'bah. Ibn Kathir explains the verse means the authority is Allah's alone, so wherever He commands us to face, we face; no spot is sacred in itself — its honor comes only from Allah's choosing it. Maarif ul Quran adds that a qiblah is not an idol to be worshipped but a concrete expression of Allah's command, and that a single fixed qiblah unites the believers not by accidental ties of race, land, or language but by the unity of tawhid (worship of the One, Incomparable Allah) freely chosen; the Ka'bah, built by Ibrahim Al-Khalil for Allah without partner, was mankind's first house of worship and qiblah.
-
-**Reflection** Submit to Allah's command wherever it points you, trusting that obedience itself — not the place you face — is the straight path.
 ## Personal Reflections
-
 

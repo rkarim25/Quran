@@ -94,13 +94,5 @@ The foregoing discussion also allays the following doubt: It seems, according to
 
 It is only revelation sent down to him.
 
-## AI Tafsir
-
-**What this ayah teaches:** It is only a revelation revealed.) Allah swears the Messenger is True and His Words are a Revelation from Him Ibn Abi Hatim recorded that Ash-Sha'bi and others stated that the Creator swears by whatever He wills among His creation, but the created only vow by the Creator.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, Allah exonerated His Messenger and his Message from being similar to the misguided ways of the Christians and the erroneous paths of the Jews, such as knowing the Truth and hiding it, while abiding by falsehood.
-
-**From the Sunnah:** The Prophet ﷺ (recited it in Makkah) and prostrated. (Sahih al-Bukhari, Sahih Muslim) Ibn Abi Hatim recorded that Ash-Sha'bi and others stated that the Creator swears by whatever He wills among His creation, but the created only vow by the Creator.
 ## Personal Reflections
-
 

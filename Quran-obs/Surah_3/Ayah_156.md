@@ -215,11 +215,5 @@ The saying of the hypocrites in verse 156 here is an extension of what was cited
 
 O you who have iman! Do not be like the unfaithful who say about their brothers who travel throughout the land or engage in battle, “If they had stayed with us, they would not have died or been killed.” Allah makes such thinking a cause of agony in their hearts. It is Allah who gives life and causes death. And Allah is All-Seeing of what you do.
 
-## AI Tafsir
-
-**What this ayah teaches:** Be not like those who disbelieve and who say to their brethren when they travel through the earth or go out to fight: "If they had stayed with us, they would not have died or been killed," so that Allah may make it a cause of regret in their hearts.
-
-**Classical tafsir:** Ibn Kathir notes: Be not like those who disbelieve and who say to their brethren when they travel through the earth or go out to fight: "If they had stayed with us, they would not have died or been killed," so that Allah may make it a cause of regret in their hearts.
 ## Personal Reflections
-
 

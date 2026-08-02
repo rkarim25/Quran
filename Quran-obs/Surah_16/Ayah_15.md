@@ -112,11 +112,5 @@ The sense of the verse is that Allah Ta’ ala has not made the sphere of the Ea
 
 He has placed into the earth firm mountains, so it does not shake with you, as well as rivers, and pathways so you may find your way.
 
-## AI Tafsir
-
-**What this ayah teaches:** To stop this turbulence and to provide a balance for the terrestrial composition, Allah Ta` ala placed on the Earth the weight of mountains so that it would not shake. Then Allah mentions the earth and how He placed in it mountains standing firm, which make it stable and keep it from shaking in such a manner that the creatures dwelling on it would not be able to live.
-
-**Classical tafsir:** Ibn Kathir notes: He was the first one to travel by ship, he was taught how to make them, then people took this knowledge from him and passed it down from generation to generation through the centuries, so that they could travel from country to country and from place to place, bringing goods from…
 ## Personal Reflections
-
 

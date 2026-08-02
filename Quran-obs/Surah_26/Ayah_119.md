@@ -78,11 +78,5 @@ It is related in this verse that the disbelievers rejected the invitation of Say
 
 So We saved him and those with him in the fully loaded Ark.
 
-## AI Tafsir
-
-**What this ayah teaches:** Then We drowned the rest thereafter.) The "laden ship" is one that is filled with cargo and the couples, one pair from every species, that were carried in it.
-
-**Classical tafsir:** Ibn Kathir notes: Hence, it was their ignorance to put the label of sordidness on his followers, because they did not know about their deeds and disposition.
 ## Personal Reflections
-
 

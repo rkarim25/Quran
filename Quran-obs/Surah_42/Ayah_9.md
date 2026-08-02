@@ -153,13 +153,5 @@ Here Allah denounces the idolators for taking other gods instead of Allah, and d
 
 How can they take protectors besides Him? Allah alone is the Protector. He alone gives life to the dead. And He alone is Most Capable of everything.
 
-## AI Tafsir
-
-**What this ayah teaches:** But Allah – He Alone is the protector.
-
-**Classical tafsir:** Ibn Kathir notes: This title has been given to this city because, to Allah Almighty, it is more distinguished and more excellent than all other cities, habitations and the whole earth.
-
-**From the Sunnah:** "To me, you are better and dearer than the whole of Allah's earth; if I had not been expelled from your vicinity, I would never have left it of my own accord." (At-tirmidhi, An-Nasa'i, Ibn Majah - rated as ` hasan ahib' by Tirmidhi) (Jami' at-Tirmidhi, Sunan Ibn Majah)
 ## Personal Reflections
-
 

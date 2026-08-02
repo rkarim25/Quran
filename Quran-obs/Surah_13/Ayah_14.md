@@ -167,11 +167,5 @@ The last sentence of this verse is: وَهُمْ يُجَادِلُونَ فِي
 
 Calling upon Him alone is the truth. Whatever the pagans invoke besides Him cannot respond at all—like someone stretching hands toward water, asking it to reach their mouth when it never can. The pleas of those who reject the truth are only empty.
 
-## AI Tafsir
-
-**What this ayah teaches:** And those whom they invoke besides Him, answer them no more than one who stretches forth his hand for water to reach his mouth, but it reaches him not; and the invocation of the those who reject the truth is nothing but misguidance .
-
-**Classical tafsir:** Ibn Kathir notes: And it appears in some narrations of Hadith that Ar-Ra'd is the name of the angel appointed to bring rains.
 ## Personal Reflections
-
 

@@ -166,13 +166,5 @@ The word اَرحَام 'arham' is the plural of رَحَم 'rahim' (womb). This
 
 If you turn away, you may spread corruption across the land and sever the ties of kinship Allah commanded you to maintain.
 
-## AI Tafsir
-
-**What this ayah teaches:** Because that is the source of all relationships and kinship, it is idiomatically used in the sense of human relationship and kinship.
-
-**Classical tafsir:** Ibn Kathir notes: This Hadith indicates how important it is to treat relatives kindly in terms of words, deeds and wealth.
-
-**From the Sunnah:** Many authentic and sound Hadiths have been reported through numerous routes of transmission from Allah's Messenger in this regard. (Sahih al-Bukhari) from Abu Bakrah, may Allah be pleased with him, that Allah's Messenger ﷺ said: (Musnad Ahmad)
 ## Personal Reflections
-
 

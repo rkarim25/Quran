@@ -109,11 +109,5 @@ Finally, mention has been made of another important benefit which comes from the
 
 They are also pleasing to you when you bring them home and when you take them out to graze.
 
-## AI Tafsir
-
-**What this ayah teaches:** And the cattle, He has created them for you; in them there is warmth (warm clothing), and numerous benefits, and you eat from them (5)And there is beauty in them for you, when you bring them home in the evening, and as you lead them forth to pasture (in the morning)(6)And they carry your loads to a land that you could not reach yourselves except with great trouble.
-
-**Classical tafsir:** Ibn Kathir notes: It signifies that there are countless benefits tied to the meat, skin, bone and hair of animals.
 ## Personal Reflections
-
 

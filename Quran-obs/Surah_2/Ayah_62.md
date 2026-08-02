@@ -184,15 +184,5 @@ We had better dispel another misunderstanding which is likely to arise from the 
 
 Those who believe, and those who followed Judaism, Christianity, or the Sabians — whoever truly trusts in Allah and the Last Day and does righteous deeds will have their reward with their Rabb. They will have no fear and will not grieve.
 
-## AI Tafsir
-
-**Essence** Allah's reward turns on no label or lineage, only on true iman in Him and the Last Day joined to righteous deeds — which, after Muhammad ﷺ was sent, means following him.
-
-**What it teaches** Reward secure with their Lord; no khawf (fear for what lies ahead), no huzn (grief over what is past). Maarif ul-Quran: naming only faith's first and last articles demands, in brief, the whole creed.
-
-**The scholars** Ibn Kathir cites Ibn 'Abbas: after Muhammad ﷺ, no deed is accepted unless it conforms to his Law (3:85); before, whoever followed his own Prophet was saved. Maarif ul-Quran: an invitation to Islam — Muslims named to show reward flows from obedience, not favoritism.
-
-**Reflection** Rest your hope not in a name you carry but in faith you live — "no fear, no grief" is Allah's promise to whoever lives it.
 ## Personal Reflections
-
 

@@ -238,13 +238,5 @@ The third attribute of a believer identified here is that he or she should place
 
 The true mu'minin are only those whose hearts tremble when Allah is remembered, whose iman grows when His ayat are recited to them, and who place their trust in their Rabb—the One who creates, owns, nurtures, and sustains them.
 
-## AI Tafsir
-
-**What this ayah teaches:** In both these verses, identified there is a very special pre-requisite of the mention, thought and remembrance of Allah (Dhikr) which is awe and fear.
-
-**Classical tafsir:** Ibn Kathir notes: Qatadah said, "Establishing the prayer requires preserving its times, making ablution for it, bowing down and prostrating." Muqatil bin Hayyan said, "Establishing the prayer means to preserve its times, perform perfect purity for it, perform perfect bowings and prostrations, recite the Qur'an during… In other words, do not let your heart and mind get bogged down with nothing but material ways and me…
-
-**From the Sunnah:** Sufyan Ath-Thawri narrated that As-Suddi commented, Al-Bukhari and other scholars relied on this Ayah (8:2) and those similar, as evidence that faith increases and varies in strength from heart to heart. (Sahih al-Bukhari)
 ## Personal Reflections
-
 

@@ -111,11 +111,5 @@ The manifestations of Allah's knowledge, power and blessings are endless. These 
 
 If you ask them who created the heavens and the earth, they will say, Allah. Say: Praise belongs to Allah — yet most of them do not truly know.
 
-## AI Tafsir
-
-**What this ayah teaches:** He is Worthy of praise for all that He has created, so praise be to Him in the heavens and on earth for all that He has created and decreed, and He is worthy of praise in all affairs.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, Allah Ta` a1a did put all these things into the service of human beings but did not make them subject to their will and command.
 ## Personal Reflections
-
 

@@ -133,11 +133,5 @@ In verse 64, it was said: وَصَوَّرَ‌كُمْ فَأَحْسَنَ ص�
 
 Say: "I have been forbidden to worship those idols you worship besides Allah, since clear proofs have come to me from my Lord. And I have been commanded to fully submit to the Rabb of all that exists."
 
-## AI Tafsir
-
-**What this ayah teaches:** And when He decides upon a thing He says to it only: "Be!" - and it is .
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

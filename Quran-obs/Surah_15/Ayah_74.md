@@ -98,11 +98,5 @@ But, this injunction applies to Allah's creation in general. As for Allah Ta’ 
 
 And We turned the cities of Sodom and Gomorrah upside down and rained upon them stones of baked clay.
 
-## AI Tafsir
-
-**What this ayah teaches:** So the Sayhah overtook them at the time of sunrise (73)And We turned them upside down and rained stones of baked clay upon them (74)Surely, in this are signs for those who see (75)And verily, they were right on the highroad (76)Surely, there is indeed a sign in that for the believers .
-
-**Classical tafsir:** Ibn Kathir notes: Then, the cause of forbidding common people from swearing by anyone other than Allah is not present here - because, in the Word of Allah there is no probability that He would take someone from His creation to be the highest and the best.
 ## Personal Reflections
-
 

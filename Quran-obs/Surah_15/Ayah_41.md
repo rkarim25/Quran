@@ -130,13 +130,5 @@ Addressing Iblis in Surah Al-A` raf, it was said: مَا مَنَعَكَ أَل
 
 Allah said, “This is the Way, binding on Me:.
 
-## AI Tafsir
-
-**What this ayah teaches:** This indicates that the main prostraters were after all the angels but Iblis too, being present with them, was reason-bound to join the prostrating an-gels.
-
-**Classical tafsir:** Ibn Kathir notes: This indicates that the main prostraters were after all the angels but Iblis too, being present with them, was reason-bound to join the prostrating an-gels.
-
-**From the Sunnah:** Ibn Abi Hatim recorded that Samurah bin Jundub reported from the Prophet ﷺ about,
 ## Personal Reflections
-
 

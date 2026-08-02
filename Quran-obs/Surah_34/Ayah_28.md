@@ -146,13 +146,5 @@ According to a narration of Sayyidna Jabir ؓ appearing in the Sahihs of al-Bukh
 
 We sent you only as a bearer of good news and a warner to all humanity—but most people do not know.
 
-## AI Tafsir
-
-**What this ayah teaches:** That before me, every prophet was sent to his particular people - I have been sent as a prophet to all peoples of the world. Therefore, it will hold on and survive till Qiyamah in its original state and there would be no need for some other prophet to be sent.
-
-**Classical tafsir:** Ibn Kathir notes: The entire earth has been made a Masjid and a means of purification for me, so that when the time for prayer comes, any man of my Ummah should pray.
-
-**From the Sunnah:** intercede on behalf of others on the fateful plains of the Resurrection [ al-hashr ], I shall, then, be given the opportunity to intercede). (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
-
 

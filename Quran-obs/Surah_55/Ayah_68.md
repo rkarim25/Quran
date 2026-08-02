@@ -156,13 +156,5 @@ This is the end of the Tafsir of Surat Ar-Rahman, all praise is due to Allah and
 
 In both are fruits, date palms, and pomegranates.
 
-## AI Tafsir
-
-**What this ayah teaches:** And below these two, there are two other Gardens (62)Then which of the blessings of your Lord will you both deny (63)Mudhāmmatān (64)Then which of the blessings of your Lord will you both deny (65)In them (both) will be two springs Naddakhatan (66)Then which of the blessings of your Lord will you both deny (67)In them (both) will be fruits, and date palms and pomegranates (68)Then which of the ble…
-
-**Classical tafsir:** Ibn Kathir notes: The word is derived from idhimam signifying, for a meadow or garden, to become of dark green hue inclining to black by reason of abundance of moisture or irrigation.
-
-**From the Sunnah:** that this tent is thirty miles wide (Sahih Muslim)
 ## Personal Reflections
-
 

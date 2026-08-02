@@ -284,13 +284,5 @@ This Hadith has many chains of narration collected in the Sahihs and other colle
 
 Amid thornless lote trees,
 
-## AI Tafsir
-
-**What this ayah teaches:** The lote tree, of this life is thorny and carries few fruits.
-
-**Classical tafsir:** Ibn Kathir notes: Qatadah said, "Nothing will prevent them from reaching out to get these fruits, no branches, thorns or distance." We mentioned a Hadith before that states that whenever someone takes a fruit in Paradise, another one grows in its place. The word sidr refers to 'lote-tree' and makhdud refers to 'a tree having its thorns removed'.
-
-**From the Sunnah:** Paradise the shade of which a rider would take one hundred years to pass. (Sahih al-Bukhari, Sahih Muslim) Paradise, the believer will be given such and such strength for women.
 ## Personal Reflections
-
 

@@ -122,11 +122,5 @@ This method of prophetic call, good counsel and good-mannered debate - in line w
 
 Say: "Our Lord will gather us together, then judge between us with truth. He is the All-Knowing Judge."
 
-## AI Tafsir
-
-**What this ayah teaches:** Instead of that, it is certain that one of these two is following the path of truth while the other is in error.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

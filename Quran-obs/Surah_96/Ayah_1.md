@@ -130,15 +130,5 @@ Verse [ 1] اقْرَ‌أْ بِاسْمِ رَ‌بِّكَ الَّذِي خ�
 
 Read—in the name of your Rabb who created—
 
-## AI Tafsir
-
-**Context:** It is universally agreed that the first five verses of Surah Al-` Alaq or Iqra' mark the very beginning of Qur’ anic revelation. [ Baghawi ].
-
-**What this ayah teaches:** The verb khalaqa [ created ] is transitive and it requires an object that is absent here.
-
-**Classical tafsir:** Ibn Kathir notes: This indicates the verb is used absolutely, and it signifies that the Creator has created the entire universe and every existent thing it contains.
-
-**From the Sunnah:** that 'A'ishah said: The first thing that began happening with the Messenger of Allah ﷺ from the revelation was dreams that he would see in his sleep that would come true. (Musnad Ahmad) He died and the revelation paused until Allah's Messenger ﷺ became sad according to what we were told.
 ## Personal Reflections
-
 

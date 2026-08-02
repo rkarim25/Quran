@@ -433,19 +433,5 @@ Who are the ones 'well grounded' in knowledge as identified towards the end of t
 
 He is the One Who has revealed to you the Book, of which some verses are precise—they are the foundation of the Book—while others are elusive. Those with deviant hearts follow the elusive verses seeking doubt through their interpretations—but none grasps their meaning except Allah. As for those well-grounded in knowledge, they say, “We believe in these verses—it is all from our Rabb.” But none will be mindful except people of reason.
 
-## AI Tafsir
-
-**Essence** Allah reveals that His Book holds clear, foundational verses (muhkamat) and ambiguous ones (mutashabihat) — and the soundness of a heart is exposed by which kind it pursues.
-
-**What it teaches** The muhkamat are verses of established, unambiguous meaning, called umm al-kitab — "the mother of the Book," its very root and axis to which everything else is referred; the mutashabihat are verses whose definite meanings are not fully known, carrying several possible senses. Those with zaygh (deviation, crookedness) in their hearts follow what is not so clear to manufacture fitnah (discord, misguidance) and a false ta'wil (interpretation), while the rasikhun fi'l-'ilm — those firmly grounded in knowledge — say "We believe in it; all of it is from our Lord," holding both kinds as one truth from one source.
-
-**The scholars** Ibn Kathir explains that whoever refers the ambiguous back to the clear "will have acquired the correct guidance," for the muhkamat are unequivocal proofs that cannot be twisted, while the wide wording of the mutashabihat can be bent by the deviant to "prove" their innovation — yet it stands against them, not for them; he gives the very example of this ayah's context, where Christians seized on 'Isa being called a "spirit from Him" while ignoring the plain verses that "He was not more than a servant" (43:59) and that his likeness "is the likeness of Adam" created from dust (3:59). On "none knows its ta'wil except Allah," Ibn Kathir reports Ibn 'Abbas's principle that tafsir is of four types — one of them "that only Allah knows." Ta'wil itself, he notes, carries two senses: the true reality of a thing, which Allah alone knows, or a plain explanation, which scholars may grasp — and the chosen pause in recitation shifts with which sense is meant. Maarif ul Quran, drawing on Mazhari, frames the governing rule: any reading of the mutashabihat that contradicts the muhkamat must be rejected absolutely. It identifies the rasikhun, on Mazhari's weighing, as Ahl al-Sunnah wa'l-Jama'ah — who, in that reading, hold only to what was authentically reported from the Companions and the consensus of the community, are never proud of their knowledge or faith, and humbly leave the true meaning of the ambiguous to Allah rather than imposing personal opinion. Within Ibn Kathir's section, Ibn al-Mundhir records from Nafi' bin Yazid that those firmly grounded "are those who are modest for Allah's sake, humbly seek His pleasure, and do not exaggerate regarding those above them, or belittle those below them."
-
-**From the Sunnah** 'A'ishah related that when the Prophet (peace be upon him) recited this very ayah, he warned that those who follow what is not so clear of the Qur'an are the very people Allah described here — so beware of them. (Al-Bukhari)
-
-Umm Salamah related that the Prophet (peace be upon him) used to call upon Allah as the One who turns the hearts, asking Him to keep his heart firm upon His religion — then recited in full the believers' plea that Allah not let their hearts deviate after guidance. (Ibn Abi Hatim and Ibn Jarir)
-
-**Reflection** Anchor your understanding in the clear verses, surrender the rest to Allah's knowledge without prideful prying, and keep begging the Turner of hearts to hold yours firm.
 ## Personal Reflections
-
 

@@ -124,13 +124,5 @@ The first sentence of the verse: قُلْ هَلْ تَرَ‌بَّصُونَ �
 
 Say, “ donate willingly or unwillingly, it will never be accepted from you, for you have been a rebellious people.”
 
-## AI Tafsir
-
-**What this ayah teaches:** This is why Allah does not accept charity or good deeds from the people described in these Ayat, because He only accepts it from those who have Taqwa.
-
-**Classical tafsir:** Ibn Kathir notes: This is why Allah does not accept charity or good deeds from the people described in these Ayat, because He only accepts it from those who have Taqwa.
-
-**From the Sunnah:** The tenth verse (52), while mentioning the charming demeanor of the man of true faith, has given an answer to hypocrites delighted over the discomfort of Muslims. Either, they would be punished at the hands of Muslims right here in this world, in which case, they will taste the punishment in the mortal and the eternal world both.
 ## Personal Reflections
-
 

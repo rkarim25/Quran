@@ -184,13 +184,5 @@ These verses are to remind the infidels of the severe punishments faced by earli
 
 They replied: Have you come to turn us away from our gods? Bring us what you threaten, if you are truthful.
 
-## AI Tafsir
-
-**What this ayah teaches:** It could be like what the people of 'Ad said, (Then, when they saw it as a dense cloud approaching their valleys, they said: "This is a cloud bringing us rain!")) We have previously mentioned the story of the destruction of the people of 'Ad in both Surat Al-A'raf and Surah Hud.
-
-**Classical tafsir:** Ibn Kathir notes: It is mentioned in verse 22 that they themselves demanded Allah's punishment to be brought upon them.
-
-**From the Sunnah:** Under the chapter, "He Who supplicates should first mention Himself," Ibn Majah recorded that Ibn 'Abbas narrated that the Prophet ﷺ said: (Sunan Ibn Majah) On seeing the punishment approaching them, a nation once said: "This is a cloud bringing us rain.") This is also recorded by Al-Bukhari and Muslim. (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
-
 

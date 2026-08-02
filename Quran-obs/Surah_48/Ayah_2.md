@@ -178,15 +178,5 @@ Hidayah has been defined as to show the path or to lead someone gently and kindl
 
 So that Allah may forgive you what came before and what follows, complete His favour upon you, and guide you on the Straight Path.
 
-## AI Tafsir
-
-**Context:** This honorable Surah was revealed after the Messenger of Allah ﷺ returned from the area of Al-Hudaybiyyah, during the month of Dhul-Qa'dah, in the sixth year of Hijrah.
-
-**What this ayah teaches:** That Allah may forgive you your sins of the past and the future, and complete His favor on you, and guide you on the straight path,)(3. The first bounty is forgiveness of all his past and future shortcomings.
-
-**Classical tafsir:** Ibn Kathir notes: If the particle "lam" (translated above as 'so that' ) is taken to be for "ta'lil", it indicates the purpose for which, and the reason why, such a manifest Victory is given to the Holy Prophet ﷺ .
-
-**From the Sunnah:** Allah's Messenger ﷺ recited Surah Al-Fath on the (day) of the conquest of Makkah, riding on his she-camel.
 ## Personal Reflections
-
 

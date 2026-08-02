@@ -116,11 +116,5 @@ From verse 36 in the present Surah: وَلَقَدْ بَعَثْنَا فِي �
 
 If We ever will something to exist, all We say is: “Be!” And it is!
 
-## AI Tafsir
-
-**What this ayah teaches:** Yes, (He will raise them up), a promise (binding) upon Him in truth, but most of mankind know not (38)In order that He may make clear to them what they differed over, and so that those who disbelieved may know that they were liars (39)Verily, Our Word to a thing when We intend it, is only that We say unto it: "Be!" - and it is .
-
-**Classical tafsir:** Ibn Kathir notes: Yes, (He will raise them up), a promise (binding) upon Him in truth, but most of mankind know not (38)In order that He may make clear to them what they differed over, and so that those who disbelieved may know that they were liars (39)Verily, Our Word to a thing when We intend it…
 ## Personal Reflections
-
 

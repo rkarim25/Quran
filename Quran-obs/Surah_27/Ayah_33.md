@@ -112,11 +112,5 @@ After having consulted the functionaries of her government and gaining their con
 
 They responded, “We are a people of strength and great military might, but the decision is yours, so decide what you will command.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Because of her remarks, the ministers and the generals expressed their readiness to sacrifice everything they had in order to follow her command.
-
-**Classical tafsir:** Ibn Kathir notes: Because of her remarks, the ministers and the generals expressed their readiness to sacrifice everything they had in order to follow her command.
 ## Personal Reflections
-
 

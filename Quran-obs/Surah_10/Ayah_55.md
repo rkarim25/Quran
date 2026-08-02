@@ -86,11 +86,5 @@ It was said in verse أَثُمَّ إِذَا مَا وَقَعَ آمَنتُ�
 
 Surely to Allah belongs whatever is in the heavens and the earth. Surely Allah’s promise is always true, but most of them do not know.
 
-## AI Tafsir
-
-**What this ayah teaches:** No doubt, surely, all that is in the heavens and the earth belongs to Allah.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, the punishment was withdrawn.
 ## Personal Reflections
-
 

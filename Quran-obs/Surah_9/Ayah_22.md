@@ -105,15 +105,5 @@ Their Lord gives them the happy news of Mercy from Him, and Pleasure, and of Gar
 
 Their Rabb gives them good news of His mercy, pleasure, and Gardens with everlasting bliss, to stay there for ever and ever. Surely with Allah is a great reward.
 
-## AI Tafsir
-
-**Context:** Ali bin Abi Talhah reported that Ibn 'Abbas said, "This Ayah was revealed about Al-'Abbas bin 'Abdul-Muttalib, for when he was captured in the battle of Badr, he said, 'If you rushed before us to embrace Islam, perform H…
-
-**What this ayah teaches:** Surely, 'it is Allah with whom there is a great reward.
-
-**Classical tafsir:** Ibn Kathir notes: These actions – maintaining and serving Allah's House – will not benefit them with Allah because they associate others with Him.
-
-**From the Sunnah:** They used to talk about this by night while shunning the Qur'an and the Prophet ﷺ. Allah says, 'All these actions were performed while committing Shirk, and I do not accept the (good deeds) that are performed while in a state of Shirk.'" Ad-Dahhak bin Muzahim said, "Muslims came to Al-'Abbas and his friends who were captured during the battl…
 ## Personal Reflections
-
 

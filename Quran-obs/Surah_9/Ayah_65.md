@@ -101,15 +101,5 @@ And Sayyidna ` Ibn ` Abbas ؓ says that Allah Ta` ala had in-formed the Holy Pro
 
 If you question them, they will certainly say, “We were only talking idly and joking around.” Say, “Was it Allah, His revelations, and His Messenger that you ridiculed?”
 
-## AI Tafsir
-
-**Context:** Abdullah bin 'Umar said, "During the battle of Tabuk, a man was sitting in a gathering and said, 'I have never seen like these reciters of ours!
-
-**What this ayah teaches:** If We pardon some of you, We will punish others among you because they were criminals . One such event came to pass while returning from the battle of Tabuk when some hypocrites had conspired to kill the Messenger of Allah.
-
-**Classical tafsir:** Ibn Kathir notes: If We pardon some of you, We will punish others among you because they were criminals .
-
-**From the Sunnah:** You are a hypocrite, and I will surely inform the Messenger of Allah ﷺ.' This statement was conveyed to the Messenger of Allah ﷺ and also a part of the Qur'an was revealed about it.'" 'Abdullah bin 'Umar said, "I have seen that man afterwards holding onto the…
 ## Personal Reflections
-
 

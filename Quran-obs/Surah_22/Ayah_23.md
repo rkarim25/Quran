@@ -212,11 +212,5 @@ Here a point arises that if after admittance to Paradise a person remained depri
 
 But Allah will surely admit those who believe and do good into Gardens, under which rivers flow, where they will be adorned with bracelets of gold and pearls, and their clothing will be silk,
 
-## AI Tafsir
-
-**What this ayah teaches:** In brief, just as wearing a crown is a royal privilege and not a common practice among men, similarly wearing bracelets by men is a royal privilege, and thus the men admitted to heaven will wear them as a symbol of honour and Divine favour.
-
-**Classical tafsir:** Ibn Kathir notes: This objection is not entirely relevant because throughout ages monarchs have embellished their persons with costly jewellery, crowns and bracelets as symbols of their might and wealth.
 ## Personal Reflections
-
 

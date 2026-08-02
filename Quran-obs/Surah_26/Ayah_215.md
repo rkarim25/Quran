@@ -176,15 +176,5 @@ And warn the nearest people of your clan, -26:214.
 
 and be gracious to the mu'mins who follow you.
 
-## AI Tafsir
-
-**Context:** ` Ashirah'o, عَشِيرَ‌ۃ means clan and by limiting it with 'aqrabin (the nearest people) it is used for close relatives.
-
-**What this ayah teaches:** In the present environment it has become difficult to abstain from the unlawful things not because it is not possible to keep away from them, but the reason is that when the whole fraternity is involved in a sin, it becomes very difficult for just one person to keep himself aloof.
-
-**Classical tafsir:** Ibn Kathir notes: In the present environment it has become difficult to abstain from the unlawful things not because it is not possible to keep away from them, but the reason is that when the whole fraternity is involved in a sin, it becomes very difficult for just one person to keep himself aloof…
-
-**From the Sunnah:** Ask me for whatever you want of my wealth.) This was recorded by Muslim. (Sahih Muslim, Musnad Ahmad)
 ## Personal Reflections
-
 

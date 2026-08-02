@@ -160,13 +160,5 @@ Ends here
 
 They will be barred from what they desire, as was done to their counterparts before. They were all in deep, unsettling doubt.
 
-## AI Tafsir
-
-**What this ayah teaches:** They were in a perplexing doubt, is the plural form of: (shi'ah)?
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** It is also the opinion of Al-Bukhari and the Group. (Sahih al-Bukhari)
 ## Personal Reflections
-
 

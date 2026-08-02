@@ -136,13 +136,5 @@ Imam Malik (رح) has taken: صَابرین (as-sabirun) in this verse to mean p
 
 They will have layers of fire above and below them. That is what Allah warns His servants with. So fear Me, O My servants!
 
-## AI Tafsir
-
-**What this ayah teaches:** So much so that people who had lived their life of the mortal world in perfect peace and comfort would wish, 'alas! Go and live at a place and in a surrounding that is conducive to remaining obedient to Divine commandments.' This persuades one to migrate from a place living in which one cannot dutifully follow and observe what has been enjoined by his religion.
-
-**Classical tafsir:** Ibn Kathir notes: So much so that people who had lived their life of the mortal world in perfect peace and comfort would wish, 'alas!
-
-**From the Sunnah:** This is a conditional sentence, and if what is referred to here applies to the Prophet ﷺ, it applies even more so to others,
 ## Personal Reflections
-
 

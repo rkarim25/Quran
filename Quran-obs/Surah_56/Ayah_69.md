@@ -157,13 +157,5 @@ Next to food, water is the most important thing upon which human life depends fo
 
 Is it you who sent it down from the clouds, or are We Who sent it?
 
-## AI Tafsir
-
-**What this ayah teaches:** Did you send it down from the clouds, or did We send it?' The answer is obvious: 'Allah'. He ploughs the land and fertilizes the soil with manure, and thus softens it so that if the seed germinates, it will not be hampered by the hard ground.
-
-**Classical tafsir:** Ibn Kathir notes: Qatadah commented, "You would say, 'We were punished,' sometimes, and, 'We were deprived,' some other times." 'Ikrimah said that 'You will be Tafakkahun' means 'You will blame each other (and yourselves),' or, feel sorrow, according to Al-Hasan, Qatadah and As-Suddi.
-
-**From the Sunnah:** This narration from Qatadah which is Mursal, was recorded by Imam Ahmad in his Musnad from Abu Hurayrah, from the Prophet ﷺ; (Musnad Ahmad)
 ## Personal Reflections
-
 

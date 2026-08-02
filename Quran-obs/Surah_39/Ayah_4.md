@@ -184,15 +184,5 @@ The first sentence of verse 4: لَّوْ أَرَ‌ادَ اللَّـهُ أ�
 
 Had it been Allah's Will to have offspring, He could have chosen whatever He willed of His creation. Glory be to Him! He is Allah—the One, the Supreme.
 
-## AI Tafsir
-
-**Context:** (And We did not send any Messenger before you but We revealed to him (saying): "None has the right to be worshipped but I (Allah), so worship Me.")(21:25)
-
-**What this ayah teaches:** He is Allah, the One, the Irresistible.) means, exalted and sanctified be He above the idea that He could have any offspring, for He is the One, the Only, the Unique, the Self-Sufficient Master to Whom everything is enslaved and is in need of.
-
-**Classical tafsir:** Ibn Kathir notes: Truly, Allah guides not him who is a liar, and a those who reject the truth.)(4.
-
-**From the Sunnah:** that 'A'ishah, may Allah be pleased with her, said, "The Messenger of Allah ﷺ used to fast until we would say, 'He does not want to break fast,' and he would not fast until we would say, 'He does not want to fast.' And he ﷺ used to recite Bani Isra'il [Al-Isra… (Sunan an-Nasa'i)
 ## Personal Reflections
-
 

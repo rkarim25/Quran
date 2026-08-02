@@ -128,11 +128,5 @@ The three angels; Jibril, Mika'il and Israfil came to Ibrahim in the image of ha
 
 Has the story of Abraham's honoured guests reached you?
 
-## AI Tafsir
-
-**What this ayah teaches:** Here 'speaking' has been singled out probably because the faculty of speech is the only one where there can be no trace of deception or illusion, whereas the other sensations, on account of ailments, can get contorted.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, it is the truth, there being no doubt about it, so they should not doubt its coming, just as they do not doubt that they can speak.
 ## Personal Reflections
-
 

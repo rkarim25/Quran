@@ -127,11 +127,5 @@ These verses describe the horrors and terrors of the Day of Resurrection. Verse 
 
 A Day when the sky will split apart. His promise of judgment must be fulfilled.
 
-## AI Tafsir
-
-**What this ayah teaches:** The Command to be Patient with the Harms of the those who reject the truth and a Discussion of what They will receive because of it Allah commands His Messenger ﷺ to be patient with what the foolish who reject him among his people say.
-
-**Classical tafsir:** Ibn Kathir notes: This means, 'you should beware of denying this Messenger, lest you be afflicted by that which befell Fir'awn.
 ## Personal Reflections
-
 

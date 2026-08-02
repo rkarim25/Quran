@@ -100,13 +100,5 @@ This means that the intent in eating it will not be achieved, and nothing harmfu
 
 scorched by a blazing Fire,
 
-## AI Tafsir
-
-**What this ayah teaches:** Which will neither nourish nor avail against hunger.) The Day of Judgement and what will happen to the People of the Fire during it Al-Ghashiyah is one of the names of the Day of Judgement.
-
-**Classical tafsir:** Ibn Kathir notes: It has been called this because it will overwhelm the people and overcome them.
-
-**From the Sunnah:** It has already been mentioned on the authority of An-Nu'man bin Bashir that the Messenger of Allah ﷺ used to recite Surat Al-A'la (87) and Al-Ghashiyah in the 'Id and Friday prayers. (Sahih Muslim, Sunan Abi Dawud)
 ## Personal Reflections
-
 

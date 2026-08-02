@@ -120,11 +120,5 @@ early stage. Later, when the horrendous happenings of the Qiyamah, the Day of Do
 
 Tell them O Prophet, “Imagine if His torment were to overcome you by night or day—do the wicked realize what they are really asking Him to hasten?
 
-## AI Tafsir
-
-**What this ayah teaches:** The Deniers of the Day of Resurrection wish to hasten its Coming and their Response Allah told us about the idolators who reject faith through their demand that the punishment be hastened, inquiring about the time of punishment.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

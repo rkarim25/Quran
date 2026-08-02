@@ -114,11 +114,5 @@ Which carries the same meaning, "Verily, these are two [Hadhayn] magicians." Thi
 
 So orchestrate your plan, then come forward in perfect ranks. And whoever prevails today will certainly be successful.”
 
-## AI Tafsir
-
-**What this ayah teaches:** And whoever overcomes this day will be indeed successful. Invent not a lie against Allah...") This means, "Do not make an illusion before the people of something that is not real, making it appear as if it were a creature, when it is not really a creature.
-
-**Classical tafsir:** Ibn Kathir notes: Invent not a lie against Allah...") This means, "Do not make an illusion before the people of something that is not real, making it appear as if it were a creature, when it is not really a creature.
 ## Personal Reflections
-
 

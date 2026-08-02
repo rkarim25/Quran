@@ -216,17 +216,5 @@ These words are used only to explain the factual position prevalent at that time
 
 Guard yourselves against the Fire prepared for those who reject the truth.
 
-## AI Tafsir
-
-**Essence** A stern divine warning â€” the Fire was purpose-built for those who reject faith, and the believer is commanded to cultivate taqwa so intensely that they flee its very proximity.
-
-**What it teaches** The verb *ittaqu* (from *taqwa*) calls the believer to erect a shield between themselves and Allah's punishment â€” a shield made of obedience, restraint, and constant Allah-consciousness. The phrase "prepared for the disbelievers" (*u'iddat lil-kafirin*) signals that the Fire is not a theoretical abstraction but a reality already in existence, fashioned and waiting. Ibn Kathir reads the verse as Allah's direct threat to His believing servants: avoid what leads toward the Fire just as you have been commanded to avoid riba, and recognise that reaching the Fire costs no effort, while Paradise demands active, sustained ascent.
-
-**The scholars** Ibn Kathir places 3:131 at the hinge of a wider passage (3:130â€“136): after prohibiting riba, Allah pivots to the ultimate consequence of heedlessness â€” the Fire â€” and then opens the door of hope with the command to race toward forgiveness (3:133). The warning is not directed at disbelievers but at believers, as a motive to *taqwa*: "Allah also threatens them with the Fire and warns them against it" (Ibn Kathir). The contrast with Paradise is deliberate â€” just as Paradise was "prepared for the *Muttaqin*," the Fire was prepared for the *kafirin*, and the believer's entire moral life is the exercise of choosing between these two destinations.
-
-**From the Sunnah** The Prophet ï·º said (Musnad Ahmad, from Ibn 'Abbas, chain assessed as sound by Imam Ahmad): "He who gives time to a debtor or forgives him, then Allah will save him from the heat of Jahannam. Behold! The deeds of Paradise are difficult to reach, for they are on top of a hill, while the deeds of the Fire are easy to find in the lowlands. The happy person is he who is saved from the tests. Verily, there is no dose of anything more beloved to Allah than a dose of rage that the servant controls, and whenever the servant of Allah controls it, he will be internally filled with faith."
-
-**Reflection** *Taqwa* is not a passive state; it is daily moral labour â€” giving the debtor more time, swallowing rage, choosing the uphill path when the downhill one is open.
 ## Personal Reflections
-
 

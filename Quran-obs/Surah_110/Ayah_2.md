@@ -141,13 +141,5 @@ Verse [ 110:2] وَرَ‌أَيْتَ النَّاسَ يَدْخُلُونَ �
 
 and you see people entering Allah's deen in waves, no longer mocking what they once dismissed,
 
-## AI Tafsir
-
-**What this ayah teaches:** They said, "If he (Muhammad ﷺ is victorious over his people, then he is a (true) Prophet." So when Allah gave him victory over Makkah, they entered into the religion of Allah (Islam) in crowds.
-
-**Classical tafsir:** Ibn Kathir notes: When there comes the help of Allah and the Conquest.)(2.
-
-**From the Sunnah:** This Surah Informs of the Completion of the Life of Allah's Messenger (ﷺ) Then he ('Umar) said to me, 'Is this what you say, O Ibn 'Abbas?' I said, 'No.' He then said, 'What do you say?' I said, 'It was the end of the life of Allah's Messenger ﷺ that Allah was informing him of.
 ## Personal Reflections
-
 

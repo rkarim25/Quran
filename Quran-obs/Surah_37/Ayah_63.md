@@ -120,11 +120,5 @@ In verse 63, it was said: إِنَّا جَعَلْنَاهَا فِتْنَةً
 
 We have surely made it a test for the wrongdoers.
 
-## AI Tafsir
-
-**What this ayah teaches:** Is that (Paradise) better entertainment or the tree of Zaqqum (62)Truly, We have made it (as) a trial for the wrongdoers (63)Verily, it is a tree that springs out of the bottom of Hell-fire (64)The shoots of its fruit stalks are like the heads of Shayatin (65)Truly, they will eat thereof and fill their bellies therewith (66)Then on the top of that they will be given boiling Ham…
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

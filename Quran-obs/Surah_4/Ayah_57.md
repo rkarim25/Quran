@@ -178,11 +178,5 @@ Explaining ظِلًّا ظَلِيلًا ، Rabi' ibn Anas said:
 
 As for those who believe and do good, We will admit them into Gardens under which rivers flow, to stay there for ever and ever. There they will have pure spouses, and We will place them under a vast shade.
 
-## AI Tafsir
-
-**What this ayah teaches:** Truly, Allah is Ever Most Powerful, All-Wise (56)But those who believe and do deeds of righteousness, We shall admit them to Gardens under which rivers flow (Paradise), abiding therein forever. Therein they shall have Azwajun Mutahharatun (purified mates), and We shall admit them to shades, wide and ever deepening .
-
-**Classical tafsir:** Ibn Kathir notes: The Punishment of Those Who Disbelieve in Allah's Books and Messengers Allah describes the torment in the Fire of Jahannam for those who disbelieve in His Ayat and hinder from the path of His Messengers.
 ## Personal Reflections
-
 

@@ -304,13 +304,5 @@ In sum, an ignoramus and heedless person, who denies the power of the Omnipotent
 
 A tongue and two lips—
 
-## AI Tafsir
-
-**What this ayah teaches:** Probably, this is the reason why the pair of lips is mentioned.
-
-**Classical tafsir:** Ibn Kathir notes: Al-Hasan Al-Basri said, "Allah made it lawful (to fight in) for him (the Prophet ﷺ) for one hour of a day." The meaning of what they have said was mentioned in a Hadith that is agreed-upon as being authentic.
-
-**From the Sunnah:** Al-Hasan Al-Basri said, "Allah made it lawful (to fight in) for him (the Prophet ﷺ) for one hour of a day." The meaning of what they have said was mentioned in a Hadith that is agreed-upon as being authentic. Ali bin Al-Husayn then said (to Sa'id), "Did you hear this from Abu Hurayrah?" Sa'id replied, "Yes." Then 'Ali bin Al-Husayn said to a slave boy that he owned who was the swiftest of his servants, "Call Mutarrif!" So when the slave was brought before him he sa… (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
-
 

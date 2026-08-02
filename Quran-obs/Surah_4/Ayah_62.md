@@ -163,13 +163,5 @@ In short, it was a consequence of their evil deed which brought upon them the di
 
 How will it be if a disaster strikes them because of what their hands have done, then they come to you swearing by Allah, “We intended nothing but goodwill and reconciliation.”
 
-## AI Tafsir
-
-**Context:** Allah chastises those who claim to believe in what Allah has sent down to His Messenger ﷺ and to the earlier Prophets, yet they refer to other than the Book of Allah and the Sunnah of His Messenger ﷺ for judgment in vari…
-
-**What this ayah teaches:** Allah Almighty, in this verse, makes it very clear that these people are liars in their oaths and interpretations and that everything they have done, they have done because of their disbelief and hypocrisy.
-
-**Classical tafsir:** Ibn Kathir notes: Let Allah be sufficient for you in this regard, because He has perfect knowledge of their apparent and hidden affairs.
 ## Personal Reflections
-
 

@@ -140,11 +140,5 @@ A Sahih hadith of the Holy Prophet ﷺ says that ` Three supplications are surel
 
 Or ask them, “Who guides you in the darkness of the land and sea, and sends the winds ushering in His mercy? Is it another god besides Allah? Exalted is Allah above what they associate with Him!
 
-## AI Tafsir
-
-**What this ayah teaches:** Likewise, a father cannot plead for something against his children because of his paternal love and affection for them, unless he is totally dejected and heart-broken, and calls Allah to save himself from the misery of sufferings.
-
-**Classical tafsir:** Ibn Kathir notes: Whoever evinces sincerity, no matter if he is a believer or an infidel, a pious or a sinner, because of the auspiciousness of sincerity the divine favour gets attentive towards him.
 ## Personal Reflections
-
 

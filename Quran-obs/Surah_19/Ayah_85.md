@@ -97,11 +97,5 @@ The word وفد applies to those who are received by rulers and princes with res
 
 Watch for the Day We gather the righteous before the Rahman as an honoured delegation,
 
-## AI Tafsir
-
-**What this ayah teaches:** A Wafd (delegation) is a group that arrives while riding and from it comes the word Wufud (arriving).
-
-**Classical tafsir:** Ibn Kathir notes: Allah explains that He will gather these people on the Day of Resurrection like a delegation that has come to Him.
 ## Personal Reflections
-
 

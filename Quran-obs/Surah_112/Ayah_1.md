@@ -272,13 +272,5 @@ Verse [ 112:1] قُلْ هُوَ اللَّـهُ أَحَدٌ Say, (The truth i
 
 Say to them: He is Allah—the One. Not one among many, not one part of a pair, but absolutely singular in His essence, deserving worship with no partner whatsoever.
 
-## AI Tafsir
-
-**What this ayah teaches:** Allah commands the Prophet ﷺ to declare Allah's oneness: He neither begets nor is begotten—rejecting every form of shirk.
-
-**Classical tafsir:** Ibn Kathir: *qul* makes this a declaration to humanity. Maarif: al-Ikhlas negates lineage from Allah, the core of pagan and mistaken beliefs.
-
-**From the Sunnah:** Reciting al-Ikhlas equals one-third of the Qur'an in reward (Bukhari, Muslim).
 ## Personal Reflections
-
 

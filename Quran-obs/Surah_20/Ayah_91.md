@@ -78,11 +78,5 @@ In this affair the considered opinion of Sayyidna Musa (علیہ السلام) �
 
 They replied, “We will not cease to worship it until Moses returns to us.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Harun prohibits them from worship of the Calf and the Persistence of the Children of Israel in doing so Allah, the Exalted, informs of Harun's attempt to prohibit them from worshipping the calf and his telling them that this was only a test for them.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

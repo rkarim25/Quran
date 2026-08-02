@@ -143,11 +143,5 @@ There was only a short time between the distress and the way out, a day and nigh
 
 And We had caused him to refuse all wet-nurses at first, so his sister suggested, “Shall I direct you to a family who will bring him up for you and take good care of him?”
 
-## AI Tafsir
-
-**What this ayah teaches:** It was decreed that no one should nurse him except his own mother, and Allah caused this to be the means reuniting him with his mother so that she could nurse him and feel safe after having felt such fear.
-
-**Classical tafsir:** Ibn Kathir notes: Qatadah said: "She started to look at him as if she was not really interested." When Musa had settled into the house of Fir'awn, after the king's wife had begun to love him and asked Fir'awn not to kill him, they brought to him the wet nurses who were to be found in their household, and he did not a… It was decreed that no one should nurse him except his own mother, and Allah caused this to be the m…
 ## Personal Reflections
-
 

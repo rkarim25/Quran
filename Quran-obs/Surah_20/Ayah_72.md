@@ -165,13 +165,5 @@ Ibn Abi Hatim recorded that Ibn 'Abbas said concerning Allah's statement,
 
 They responded, “By the One Who created us! We will never prefer you over the clear proofs that have come to us. So do whatever you want! Your authority only covers the fleeting life of this dunya — this temporary worldly life.
 
-## AI Tafsir
-
-**What this ayah teaches:** They told him plainly that they would not give him, nor anything he said, preference over the clear proofs and the miracles which Allah had shown to them.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** Ibn Abi Hatim recorded that Ibn 'Abbas said concerning Allah's statement,
 ## Personal Reflections
-
 

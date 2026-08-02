@@ -160,13 +160,5 @@ So we say, just as the believers among the Jinns said, "O Allah! None of Your fa
 
 grain in husks, and fragrant plants.
 
-## AI Tafsir
-
-**What this ayah teaches:** The mention of ` asf [ husk ] is to remind that it is the fodder for your animals.
-
-**Classical tafsir:** Ibn Kathir notes: Mujahid said, "An-Najm (the star); the one that is in the sky." Al-Hasan and Qatadah said similarly. Ibn Jurayj reported that Ibn 'Abbas said said Al-Akmam, means sheathed fruit stalks.
-
-**From the Sunnah:** a man said [to Ibn Mas'ud]: "How is this recited: "Ma'in Ghayri Yasin or Asin?" He asked him, "Are you that proficient in reciting the whole Qur'an?" He replied, "I recite the Mufassal section in one Rak'ah." So he said, "Woe to you! (Musnad Ahmad) it and he said, "This Hadith is Gharib." Al-Hafiz Abu Bakr Al-Bazzar also collected this Hadith. (Jami' at-Tirmidhi)
 ## Personal Reflections
-
 

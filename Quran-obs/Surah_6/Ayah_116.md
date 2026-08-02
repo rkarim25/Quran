@@ -129,11 +129,5 @@ The gist of the advice is that he should not be impressed by their numerical maj
 
 If you were to obey most of those on earth, they would lead you away from Allah’s Way. They follow nothing but assumptions and do nothing but lie.
 
-## AI Tafsir
-
-**What this ayah teaches:** In the third verse (116), Allah Ta ala tells the Holy Prophet ﷺ that the majority of the progeny of 'Adam living on the earth is in error.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, the address made to the Holy Prophet ﷺ was: And if you obey the majority of those on earth, they will make you lose the way of Allah.
 ## Personal Reflections
-
 

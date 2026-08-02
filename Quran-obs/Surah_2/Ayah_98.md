@@ -172,22 +172,5 @@ That should leave no room for any doubt. Moreover, the "heart" perceives words a
 
 Whoever is an enemy of Allah, His angels, His messengers, Gabriel, and Michael — then know that Allah is an enemy to those who reject the truth.
 
-## AI Tafsir
-
-**Essence**
-Enmity toward any of Allah's angels or messengers is enmity toward Allah Himself — and He declares Himself the enemy of such disbelievers.
-
-**What it teaches**
-Faith cannot be split: Allah's messengers include angels and men, all acting only by His command — hating one, even Jibril, is the kufr of "we believe in some but reject others."
-
-**The scholars**
-At-Tabari: the mufassirin agree this answered the Jews who called Jibril their enemy and Mika'il their friend. Ibn Kathir: rejecting one messenger rejects them all; the two names crush that false division. Maarif ul-Quran: sheer perversity — Jibra'il only delivered under divine command, so judge the Book on its merit.
-
-**From the Sunnah**
-Allah, the Exalted, has said: "Whoever takes a friend of Mine as an enemy, will have started a war with Me." (Al-Bukhari)
-
-**Reflection**
-When revelation stings, do not blame its bearer — honor every envoy of Allah and receive the Book for what it is.
 ## Personal Reflections
-
 

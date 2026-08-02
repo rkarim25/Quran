@@ -119,11 +119,5 @@ The perfection of the knowledge of Allah Ta ala was described in عَالِمُ 
 
 He is the Knower of the seen and unseen—the All-Great, Most Exalted.
 
-## AI Tafsir
-
-**What this ayah teaches:** Everything with Him is in (due) proportion (8)All-Knower of the unseen and the seen, the Most Great, the Most High .
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

@@ -263,13 +263,5 @@ Summing up the main elements of our explanations, we can say that Muslims should
 
 Say, “Who rescues you from the darkest times on land and at sea? He you call upon with humility, openly and secretly: “If You rescue us from this, we will be ever grateful.”
 
-## AI Tafsir
-
-**Context:** "Yalbisakum means, 'cover you with confusion', So it means to, 'divide into parties and sects'. Jabir bin 'Abdullah said, 'When this Ayah was revealed,
-
-**What this ayah teaches:** In other words, once delivered, they would be grateful to Allah, would take Him as their real rescuer and helper, never ascribing any partner to His Divinity because no one they have been worshiping came up to help them in their hour of need.
-
-**Classical tafsir:** Ibn Kathir notes: Al-Walibi ('Ali bin Abi Talhah) reported that Ibn 'Abbas said that this Ayah refers to desires.
 ## Personal Reflections
-
 

@@ -98,11 +98,5 @@ The word: فَصَّلْنَا (Fassalna: We have made elaborate) is from: تَ�
 
 That is your Rabb’s Path—perfectly straight. We have already made the signs clear to those who live with taqwa.
 
-## AI Tafsir
-
-**What this ayah teaches:** And this is the path of your Lord leading straight.
-
-**Classical tafsir:** Ibn Kathir notes: Allah described Paradise as 'the abode of peace', because its residents are safe due to their access to the straight path, which conforms to the way of the Prophets.
 ## Personal Reflections
-
 

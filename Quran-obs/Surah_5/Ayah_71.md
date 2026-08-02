@@ -119,11 +119,5 @@ This is an account of how the Bani Isra'il kept breaking the pledge taken from t
 
 They thought there would be no consequences, so they turned a blind eye and a deaf ear. Yet Allah turned to them in forgiveness, but again many became blind and deaf. And Allah is All-Seeing of what they do.
 
-## AI Tafsir
-
-**What this ayah teaches:** Whenever there came to them a Messenger with what they themselves desired not, a group of them they called liars, and others among them they killed (70)They thought there will be no Fitnah (trial or punishment), so they became blind and deaf; after that Allah turned to them (with forgiveness); yet again many of them became blind and deaf.
-
-**Classical tafsir:** Ibn Kathir notes: So much so that they killed some prophets and put some others behind bars.
 ## Personal Reflections
-
 

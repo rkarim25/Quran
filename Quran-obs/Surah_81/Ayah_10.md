@@ -272,13 +272,5 @@ Birth control, whose many forms are invented today, is also termed by the Holy P
 
 when records of deeds are laid open,
 
-## AI Tafsir
-
-**What this ayah teaches:** And when the heaven is Kushitat;)(12.
-
-**Classical tafsir:** Ibn Kathir notes: We have neglected nothing in the Book, then unto their Lord they shall be gathered.)(6:38) Ibn 'Abbas said, "Everything will be gathered, even the flies." This statement was recorded by Ibn Abi Hatim.
-
-**From the Sunnah:** Likewise, if a person strikes on the stomach of a pregnant woman which causes the baby to abort, then, according to the common consent of the Muslim jurists, it would be incumbent upon him to set free a slave or pay its price in blood-wit or diyah. (Sahih Muslim)
 ## Personal Reflections
-
 

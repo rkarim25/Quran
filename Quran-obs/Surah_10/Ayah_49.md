@@ -162,11 +162,5 @@ early stage. Later, when the horrendous happenings of the Qiyamah, the Day of Do
 
 Say, O Prophet, “I have no power to benefit or protect myself, except by the Will of Allah.” For each community there is an appointed term. When their time arrives, they cannot delay it for a moment, nor could they advance it.
 
-## AI Tafsir
-
-**What this ayah teaches:** For every Ummah, there is a term appointed; when their term comes, neither can they delay it nor can they advance it an hour (or a moment).
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

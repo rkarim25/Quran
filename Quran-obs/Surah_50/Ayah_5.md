@@ -181,13 +181,5 @@ This interpretation of 'diminishing by earth' is reported from Sayyidna Ibn ` Ab
 
 Rather, they rejected the truth when it reached them, and so they are in a confused, unstable state.
 
-## AI Tafsir
-
-**What this ayah teaches:** We know that which the earth takes of them, and with Us is a Book preserved.)(5.
-
-**Classical tafsir:** Ibn Kathir notes: Some common people say that the Mufassal starts with Surah 'Amma An-Naba, (chapter 78), however, this is not true because none of the respected scholars ever supported this opinion.
-
-**From the Sunnah:** Paradise, the Fire, Allah's reward and punishment, lessons of encouragement, and lessons of discouragement. Al-'Awfi narrated that 'Abdullah bin 'Abbas commented on the statement of Allah the Exalted,
 ## Personal Reflections
-
 

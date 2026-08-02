@@ -139,11 +139,5 @@ Allamah Zamakhshari has explained that the real intent of the text is to say tha
 
 They have certainly denied the truth, so they will soon face the consequences of their ridicule.
 
-## AI Tafsir
-
-**What this ayah teaches:** And never comes there unto them a Reminder as a recent revelation from the ar-Rahman, but they turn away therefrom.)(6. - 26:4 Allamah Zamakhshari has explained that the real intent of the text is to say that the those who reject the truth themselves will stay in submission, but the act of submission is attributed in the verse to their "necks", so that the initial object of submission is pinpointed, because…
-
-**Classical tafsir:** Ibn Kathir notes: Abu Al-'Aliyah, Qatadah, Ar-Rabi' bin Anas and Ibn Ishaq said: "He is Almighty in His punishment of those who went against His commands and worshipped others besides Him." Sa'id bin Jubayr said: "He is ar-Rahim towards those who repent to Him and turn to Him."
 ## Personal Reflections
-
 

@@ -90,13 +90,5 @@ When these two gentlemen reached Madinah, they went to see the Holy Prophet ﷺ 
 
 But when He gave them out of His bounty, they withheld it and turned away indifferently.
 
-## AI Tafsir
-
-**What this ayah teaches:** They told him that his ` wealth' had increased to such proportions that he had to go far away from Madinah and that is why he is not seen in the city.
-
-**Classical tafsir:** Ibn Kathir notes: They told him that they have orders not to pick out the best among animals, in fact, they were supposed to take the average ones, therefore, they could not take these.
-
-**From the Sunnah:** He had the whole law of Sadaqat committed to writing, appointed two persons as the collectors of Sadaqah and sent them to collect the Sadaqat due on livestock owned by Muslims. When the two collectors reached Tha'labah and presented the order of the Holy Prophet ﷺ he said that this thing had be-come a sort of Jizyah which is taken from non-Muslims.
 ## Personal Reflections
-
 

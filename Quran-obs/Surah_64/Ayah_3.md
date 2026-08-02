@@ -108,11 +108,5 @@ This is the last Surah among Al-Musabbihat. We mentioned before that all creatur
 
 He created the heavens and the earth for a purpose, shaped you in the womb, and perfected your form. To Him is the final return.
 
-## AI Tafsir
-
-**What this ayah teaches:** Whatsoever is in the heavens and whatsoever is on the earth glorifies Allah.
-
-**Classical tafsir:** Ibn Kathir notes: And Allah is All-Seer of what you do.)(3.
 ## Personal Reflections
-
 

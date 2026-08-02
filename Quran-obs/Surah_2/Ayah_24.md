@@ -379,17 +379,5 @@ The point, however, is that if someone had really produced even three or four ve
 
 If you cannot — and you never will — then guard yourselves against the Fire whose fuel is people and stones, prepared for those who reject the truth.
 
-## AI Tafsir
-
-**Essence** Allah seals His challenge with a prophecy — "and you can never do it" — and commands the doubters to fear the Fire of people and stones, prepared for the disbelievers.
-
-**What it teaches** *Wa lan tafʿalū* is a miracle inside the challenge: how can words of the created resemble the Word of the Creator? The Fire's *waqūd* (fuel) is the very people who rejected it, together with stones.
-
-**The scholars** Ibn Kathir: the challenge covers the shortest surah as much as the longest; the stones are giant sulfuric stones that burn hottest — or, it was reported, the idols worshipped besides Allah. Many of the Imams of the Sunnah read *uʿiddat* ("prepared and kept") as proof the Fire exists now. Maarif ul Quran: verses 21-22 proved Tauhid, these prove Risalah; *raib* is baseless doubt a little reflection dispels.
-
-**From the Sunnah** Ibn Mas'ud relates that the Companions heard the sound of a falling object and asked; the Prophet ﷺ said, "This is a stone that was thrown from the top of Jahannam seventy years ago, but only now reached its bottom" (Sahih Muslim). Abu Hurayrah narrates: "Every Prophet was given a miracle... What I was given is a revelation that Allah sent down to me. Yet, I hope that I will have the most following on the Day of Resurrection" (The Two Sahihs, wording of Muslim).
-
-**Reflection** Fourteen centuries on, the challenge stands unanswered — let that certainty turn doubt into taqwa before the Fire it warns of.
 ## Personal Reflections
-
 

@@ -156,13 +156,5 @@ Some Rulings about touching the Holy Qur’ an
 
 touched by none except the purified angels.
 
-## AI Tafsir
-
-**Context:** (That (this) is indeed an honorable recitation.) means, verily, this Qur'an that was revealed to Muhammad ﷺ is a Glorious Book,
-
-**What this ayah teaches:** The commentators have different views about them, because the structure of verse 78 and 79 has two possibilities grammatically: The first possibility is that the phrase 'that is not touched except by the purified ones' is the qualification of the Preserved Tablet referred to in the previous verse.
-
-**Classical tafsir:** Ibn Kathir notes: I swear by the Mawaqi' of the stars.) Mujahid said, "The setting positions of the stars in the sky," and he said that it refers to the rising and setting positions.
 ## Personal Reflections
-
 

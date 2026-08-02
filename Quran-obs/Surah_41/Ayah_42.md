@@ -140,13 +140,5 @@ It is clearly mentioned in correct ahadith that a group will always remain among
 
 It cannot be proven false from any angle. It is a revelation from the All-Wise, Praiseworthy.
 
-## AI Tafsir
-
-**What this ayah teaches:** And verily, it is an honorable well-fortified respected Book (41)Falsehood cannot come to it from before it or behind it, (it is) sent down by the All-Wise, Worthy of all praise (42)Nothing is said to you except what was said to the Messengers before you.
-
-**Classical tafsir:** Ibn Kathir notes: Then, referring to Tabari, he has mentioned that this verse means that a those who reject the truth can neither dare to carry out any change in this Book openly, nor can he distort its meaning through ilhad covertly.
-
-**From the Sunnah:** protection of the Qur'an that has been undertaken by Allah Almighty Himself by saying "And We are there to protect it.
 ## Personal Reflections
-
 

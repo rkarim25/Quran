@@ -146,15 +146,5 @@ In verse 126: يُفْتَنُونَ فِي كُلِّ عَامٍ مَّرَّ�
 
 Do they not see that they are tried once or twice every year? Yet they neither repent nor do they learn a lesson.
 
-## AI Tafsir
-
-**Context:** This describes the hypocrites that when a Surah is revealed to the Messenger of Allah ﷺ,
-
-**What this ayah teaches:** Yet, they turn not in repentance, nor do they learn a lesson.) They neither repent from their previous sins nor learn a lesson for the future. Incidentally, the count of ` once' or ` twice' here does not signify the numbers one and two as such.
-
-**Classical tafsir:** Ibn Kathir notes: Mujahid said that hypocrites are tested with drought and hunger.
-
-**From the Sunnah:** This describes the hypocrites that when a Surah is revealed to the Messenger of Allah ﷺ,
 ## Personal Reflections
-
 

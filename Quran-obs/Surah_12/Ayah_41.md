@@ -126,11 +126,5 @@ At the end, he told them that the interpretation of their dreams given by him wa
 
 “O my fellow-prisoners! The first one of you will serve wine to his master, and the other will be crucified and the birds will eat from his head. The matter about which you inquired has been decided.”
 
-## AI Tafsir
-
-**What this ayah teaches:** As for one of you, he will pour out wine for his master to drink; and as for the other, he will be crucified and birds will eat from his head. As for the other, the crime against him will stand proved and he will be crucified and birds will eat from his head.
-
-**Classical tafsir:** Ibn Kathir notes: But, because of his prophetic compassion and clemency, he did not specifically mention as to who among the two will be hanged so that the person concerned may be spared from becoming obsessed by the very thought of it right from that time.
 ## Personal Reflections
-
 

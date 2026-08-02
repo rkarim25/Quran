@@ -144,11 +144,5 @@ However, it appears that the meaning here is that Allah kept ships as a sign. Fo
 
 How terrible were My punishment and My warnings!
 
-## AI Tafsir
-
-**What this ayah teaches:** Then is there any that will remember (15)Then how (terrible) was My torment and My warnings (16)And We have indeed made the Qur'an easy to understand and remember; then is there anyone who will remember (17). The word alwah is the plural of lawh and it refers to a board or a plank.
-
-**Classical tafsir:** Ibn Kathir notes: The word alwah is the plural of lawh and it refers to a board or a plank.
 ## Personal Reflections
-
 

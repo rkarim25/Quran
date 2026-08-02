@@ -140,11 +140,5 @@ When the sons of Sayyidna Ya` qub (علیہ السلام) saw the extreme suffer
 
 They said, “By Allah! You will not cease to remember Joseph until you lose your health or even your life.”
 
-## AI Tafsir
-
-**What this ayah teaches:** You will never cease remembering Yusuf until you become weak with old age, or until you be of the dead.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

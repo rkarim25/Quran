@@ -174,11 +174,5 @@ The third quality of the angels:
 
 and those gliding swiftly through the heavens,
 
-## AI Tafsir
-
-**What this ayah teaches:** Here it signifies 'to glide along swiftly as in the sea where there is no mountain barrier'.
-
-**Classical tafsir:** Ibn Kathir notes: The word sabh literally means to 'swim' or 'float'.
 ## Personal Reflections
-
 

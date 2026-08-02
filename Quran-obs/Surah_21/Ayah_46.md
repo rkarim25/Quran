@@ -144,11 +144,5 @@ These miracles also occurred during the battle of Badr (غزوہ بدر) when th
 
 If they were touched by even a breath of your Rabb’s torment, they would certainly cry, “Woe to us! We have really been wrongdoers.”
 
-## AI Tafsir
-
-**What this ayah teaches:** "But the deaf will not hear the call, (even) when they are warned (45)And if a breath of the torment of your Lord touches them, they will surely cry: "Woe unto us! How the Idolators are deceived by their long and luxurious Lives in this World,and the Explanation of the Truth Allah explains that they have been deceived and misled by the luxuries that they enjoy in this world and the long life that…
-
-**Classical tafsir:** Ibn Kathir notes: How the Idolators are deceived by their long and luxurious Lives in this World,and the Explanation of the Truth Allah explains that they have been deceived and misled by the luxuries that they enjoy in this world and the long life that they have been given, so they believe that t…
 ## Personal Reflections
-
 

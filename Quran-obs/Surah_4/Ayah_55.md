@@ -142,11 +142,5 @@ Envy, whether it be on account of someone's worldly, or spiritual excellence, is
 
 Yet some believed in him while others turned away from him. Hell is sufficient as a torment!
 
-## AI Tafsir
-
-**What this ayah teaches:** It means that Hasad (envy) is a desire to see the other person's blessing somehow disappear, and this is harm (forbidden).
-
-**Classical tafsir:** Ibn Kathir notes: It means that Hasad (envy) is a desire to see the other person's blessing somehow disappear, and this is harm (forbidden).
 ## Personal Reflections
-
 

@@ -169,11 +169,5 @@ Some commentators have said that the first word: عِلم : knowledge) means act
 
 Then when they entered as their father had instructed them, this did not help them against the Will of Allah whatsoever. It was just a desire in Jacob’s heart which he satisfied. He was truly blessed with great knowledge because of what We had taught him, but most people have no knowledge.
 
-## AI Tafsir
-
-**What this ayah teaches:** He feared that people might direct the evil eye at them, because the evil eye truly harms, by Allah's decree, and brings down the mighty warrior-rider from his horse.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, he did employ physical means, something legally required, and commendable.
 ## Personal Reflections
-
 

@@ -207,13 +207,5 @@ In this verse, mention has been made of branding foreheads, sides and backs. Eit
 
 The Day when their treasure will be heated up in the Fire of Hell, and their foreheads, sides, and backs branded with it. “This is the treasure you hoarded for yourselves. Now taste what you hoarded!”
 
-## AI Tafsir
-
-**What this ayah teaches:** Therefore, money will produce the worst harm for them in the Hereafter, when it will be heated in the Fire of Jahannam, whose heat is quiet sufficient, and their forehead, sides and back will be branded with it.
-
-**Classical tafsir:** Ibn Kathir notes: Warning against Corrupt Scholars and Misguided Worshippers As-Suddi said that the Ahbar are Jewish rabbis, while the Ruhban are Christian monks.
-
-**From the Sunnah:** Sufyan bin 'Uyaynah said, "Those among our scholars who become corrupt are similar to the Jews, while those among our worshippers who become misguided are like Christians." An authentic Hadith declares, (authentic hadith) For instance, the Jews were respected by the people of Jahiliyyah and collected gifts, taxes and presents from them.
 ## Personal Reflections
-
 

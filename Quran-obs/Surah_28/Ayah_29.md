@@ -227,11 +227,5 @@ Commentary
 
 When Moses had completed the term and was travelling with his family, he spotted a fire on the side of Mount Ṭûr. He said to his family, “Stay here, for I have spotted a fire. Perhaps from there I can bring you some directions or a torch from the fire so you may warm yourselves.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, I am Allah, the Lord of all that exits!) meaning, 'the One Who is addressing you and speaking to you is the Lord of all that exits, the One Who does what He wills, the One apart from Whom there is no other Allah or lord, may He be exalted and sanctified, the One Who by His very nature, attributes, words and deeds is far above any resemblance to His creation, may He be glo…
-
-**Classical tafsir:** Ibn Kathir notes: This indicates that when Musa headed for the fire, he headed in the direction of the Qiblah with the western mountain on his right.
 ## Personal Reflections
-
 

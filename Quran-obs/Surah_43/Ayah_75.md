@@ -113,13 +113,5 @@ Therefore the best friendship, in respect of this world as well as the Hereafter
 
 It will never be lightened for them, and there they will be overwhelmed with despair.
 
-## AI Tafsir
-
-**What this ayah teaches:** It will not be lightened for them,) meaning, not even for one moment. The idolators were trying their utmost to find ways of refuting the truth with falsehood, but Allah planned it so that the consequences of that would backfire on them.
-
-**Classical tafsir:** Ibn Kathir notes: And 'love for the sake of Allah' means to love someone because he is a true follower of the religion prescribed by Allah.
-
-**From the Sunnah:** Paradise as You have shown to me, and be pleased with him, as you have been with me. (Sahih Muslim) Many are the merits stated in 'ahadith' for those two Muslims who love each other purely for the sake of Allah.
 ## Personal Reflections
-
 

@@ -120,11 +120,5 @@ Allah is the Lord of the Two Points of Sunrise and the Two Points of Sunset
 
 He is Rabb of the two easts and the two wests.
 
-## AI Tafsir
-
-**What this ayah teaches:** Similarly, the sun sets at different cardinal points in the west in winter and summer: Thus we have two wests [ maghribain ].
-
-**Classical tafsir:** Ibn Kathir notes: Mujahid, Qatadah, Abu Ruzayn, Ad-Dahhak said it, and it has also been reported from 'Ali.
 ## Personal Reflections
-
 

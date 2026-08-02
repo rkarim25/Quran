@@ -70,11 +70,5 @@ This being the wise arrangement of things, let him not grieve. The better course
 
 And the residents of the Forest were truly wrongdoers,.
 
-## AI Tafsir
-
-**What this ayah teaches:** Some commentators say that there was a dense forest near Madyan, therefore, Aikah is actually the title of the people of Madyan.
-
-**Classical tafsir:** Ibn Kathir notes: Some commentators say that there was a dense forest near Madyan, therefore, Aikah is actually the title of the people of Madyan.
 ## Personal Reflections
-
 

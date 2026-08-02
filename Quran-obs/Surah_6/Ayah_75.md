@@ -170,11 +170,5 @@ First, it was idol worship. He said that it was error, and straying. Then, in th
 
 We also showed Abraham the wonders of the heavens and the earth, so he would be sure in faith.
 
-## AI Tafsir
-
-**What this ayah teaches:** In the first case with his father, Ibrahim explained to his people their error in worshipping the idols of earth, which they made in the shape of heavenly angels, so that they intercede on their behalf with the Glorious Creator.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, you are in disarray and ignorance, and this fact is clear to all those who have sound reason.
 ## Personal Reflections
-
 

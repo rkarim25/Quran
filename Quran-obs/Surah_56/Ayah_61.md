@@ -134,11 +134,5 @@ After referring to the birth of man from very insignificant beginning, the Surah
 
 from transforming you and recreating you in forms you do not know.
 
-## AI Tafsir
-
-**What this ayah teaches:** Once this is done, it goes through several stages of growth and development without anyone, besides Allah, knowing what is happening.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, whatever comes into existence comes under the veils of causes.
 ## Personal Reflections
-
 

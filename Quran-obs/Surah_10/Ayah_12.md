@@ -165,11 +165,5 @@ An eloquent approach has been made in the second verse (12) to convince those wh
 
 Whenever someone is touched by hardship, they cry out to Us, whether lying on their side, sitting, or standing. But when We relieve their hardship, they return to their old ways as if they had never cried to Us to remove any hardship! This is how the misdeeds of the transgressors have been made appealing to them.
 
-## AI Tafsir
-
-**What this ayah teaches:** And when harm touches man, he invokes Us, lying on his side, or sitting or standing. But, as soon as some major distress overtakes them, even these very people, disappointed by the entire range of their false gods they pinned their hopes on, do nothing but call Allah for help, not simply once but repeatedly, lying, sitting, standing.
-
-**Classical tafsir:** Ibn Kathir notes: But, because of their hostility and obstinacy, they keep glued to their false notion.
 ## Personal Reflections
-
 

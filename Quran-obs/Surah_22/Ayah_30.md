@@ -211,13 +211,5 @@ Commentary
 
 That is so. And whoever honours the rituals of Allah, it is best for them in the sight of their Rabb. The meat of cattle has been made lawful for you, except what has already been recited to you. So shun the impurity of idolatry, and shun words of falsehood.
 
-## AI Tafsir
-
-**What this ayah teaches:** The cattle are lawful to you, except those (that will be) mentioned to you.
-
-**Classical tafsir:** Ibn Kathir notes: The detail of these animals is given in other verses, such as carrion, an animal which is beaten to death, or slaughtered without reciting the name of Allah, or in the name of someone other than Allah.
-
-**From the Sunnah:** In the Two Sahihs it was reported from Abu Bakrah that the Messenger of Allah ﷺ said: They are a source of welfare in this world and in the Hereafter for those pious Muslims who seek to learn them and act upon them.
 ## Personal Reflections
-
 

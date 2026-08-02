@@ -258,13 +258,5 @@ This is the end of the explanation (Tafsir) of Surah Nun (or Al-Qalam), and all 
 
 Had his Lord not shown him grace, he would have been cast onto the open shore, still blameworthy.
 
-## AI Tafsir
-
-**What this ayah teaches:** Some other scholars, however, suggest that 'wilderness' in this verse refers to the plain of Hashr, and the verse means that if Allah had not accepted his taubah, he would have been cast into the plain of Hashr in a reproachable state. For He (Allah) is the One Whose execution of divine decree cannot be resisted.
-
-**Classical tafsir:** Ibn Kathir notes: Given this interpretation, the verse means that on the day when the those who reject the truth will face the severe distress, they will be called upon to prostrate themselves, but they will not be able to do so, because their backs will be made flat, with no elasticity to bow down.
-
-**From the Sunnah:** Imam Muslim also recorded this Hadith in his Sahih on the authority of Buraydah himself, but he did not attribute it to the Prophet ﷺ.
 ## Personal Reflections
-
 

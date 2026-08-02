@@ -113,11 +113,5 @@ Other historical narrations reported by commentators at this stage tell us that 
 
 And why should I not worship the One Who created me, and to Whom you will be returned?
 
-## AI Tafsir
-
-**What this ayah teaches:** Therefore, the expression would mean that a man came running from the farthest part of the city. He repented from past idolatry, embraced Islam and retired to a cave devoting to worship.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, the expression would mean that a man came running from the farthest part of the city.
 ## Personal Reflections
-
 

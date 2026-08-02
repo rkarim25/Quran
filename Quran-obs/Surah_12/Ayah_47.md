@@ -121,13 +121,5 @@ Obviously, the dream of the king had told him only about seven years of good cro
 
 Joseph replied, “You will plant grain for seven consecutive years, leaving in the ear whatever you will harvest, except for the little you will eat.
 
-## AI Tafsir
-
-**What this ayah teaches:** It is borne by experience that grain while in ears is not affected by bacteria.
-
-**Classical tafsir:** Ibn Kathir notes: Stay away from extravagance, so that you use what remains of the harvest during the seven years of drought that will follow the seven fertile years.' This was represented by the seven lean cows that eat the seven fat cows.
-
-**From the Sunnah:** During the seven years of drought, they will eat from the harvest they collected during the seven fertile years, as represented by the dry ears of corn in the dream.
 ## Personal Reflections
-
 

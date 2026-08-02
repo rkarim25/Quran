@@ -129,13 +129,5 @@ The prayer was granted so that even after the lapse of many millennia people all
 
 We made this Quran easy in your language so you may give good news to those with taqwa and warn those who are contentious.
 
-## AI Tafsir
-
-**What this ayah teaches:** Allah places Love of the Righteous People in the Hearts Allah, the Exalted, informs about His believing servants, who work righteous deeds – deeds that He is pleased with because they are in accordance with the legislation of Muhammad ﷺ – that He plants love for them in the hearts of His righteous servants.
-
-**Classical tafsir:** Ibn Kathir notes: Allah places Love of the Righteous People in the Hearts Allah, the Exalted, informs about His believing servants, who work righteous deeds – deeds that He is pleased with because they are in accordance with the legislation of Muhammad ﷺ – that He plants love for them in the heart…
-
-**From the Sunnah:** This has been reported in authentic Hadiths of the Messenger of Allah ﷺ in various different ways.
 ## Personal Reflections
-
 

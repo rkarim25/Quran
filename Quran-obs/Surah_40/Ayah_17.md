@@ -150,11 +150,5 @@ But, some other narrations show that this statement will be made by Allah Ta’ 
 
 Today every soul will be rewarded for what it has done. No injustice today! Surely Allah is swift in reckoning."
 
-## AI Tafsir
-
-**What this ayah teaches:** Truly, Allah is swift in reckoning.) Here Allah tells us of His justice when He judges between His creation; He does not do even a speck of dust's weight of injustice, whether it be for good or for evil.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, everyone will be in an open expanse, open to view.
 ## Personal Reflections
-
 

@@ -128,15 +128,5 @@ Similarly, the deed of anyone who acts for the pleasure of the created by way of
 
 They are those whose efforts are in vain in this worldly dunya, while they think they are doing good!”
 
-## AI Tafsir
-
-**Context:** Are they the Haruriyyah?' He said, 'No, they are the Jews and Christians. As for the Jews, they disbelieved in Muhammad ﷺ, and as for the Christians, they disbelieved in Paradise and said that there is no food or drink t…
-
-**What this ayah teaches:** At this place, the first two verses (101, 102) are, in terms of their general sense, inclusive of every individual or group that would put in a lot of effort in some deeds taking them to be good, but with Allah their effort is ruined and their deed, wasted.
-
-**Classical tafsir:** Ibn Kathir notes: 'Ali bin Abi Talib, Ad-Dahhak and others said: "They are the Haruriyyah," so this means, that according to 'Ali, may Allah be pleased with him, this Ayah includes the Haruriyyah just as it includes the Jews, the Christians and others.
-
-**From the Sunnah:** Recite, if you wish:)(and on the Day of Resurrection, We shall assign no weight…
 ## Personal Reflections
-
 

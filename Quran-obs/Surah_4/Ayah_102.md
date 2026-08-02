@@ -342,13 +342,5 @@ In this verse (102), mention has been made of both groups making one Raka'ah eac
 
 When you are with them and you lead them in prayer, let one group of them pray with you—while armed. When they prostrate themselves, let the other group stand guard behind them. Then the group that has not yet prayed will then join you in prayer—and let them be vigilant and armed. those who reject the truth would wish to see you neglect your weapons and belongings, so they could launch a sweeping assault on you. But there is no blame if you lay aside your weapons when overcome by heavy rain or illness—but take precaution. Indeed, Allah has prepared a humiliating punishment for those who reject the truth.
 
-## AI Tafsir
-
-**What this ayah teaches:** The Fear prayer is sometimes prayed in congregation, but when the battle is raging, congregational prayer may not be possible.
-
-**Classical tafsir:** Ibn Kathir notes: The concessions given in travel (In Islamic legal terminology, Safar means journey or travel; Qasr refers to the making of one's Salah short while in that status.
-
-**From the Sunnah:** in the latter case, they pray only one Rak'ah, for Ibn 'Abbas narrated, "By the words of your Prophet ﷺ, Allah has ordained the prayer of four Rak'ah while residing, two Rak'ah during travel, and one Rak'ah during fear." Muslim, Abu Dawud, An-Nasa'i and Ibn Ma… (Sahih Muslim, Sunan Abi Dawud) The Messenger of Allah ﷺ led us in Zuhr prayer, and the idolators said, 'They were busy with something during which we had a chance to attack them.' They then said, 'Next, there will come a prayer ('Asr) that is dearer to the
 ## Personal Reflections
-
 

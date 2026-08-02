@@ -187,11 +187,5 @@ The word بَرْ‌زَخٌ (Barzakh) means "barrier" and implies anything whic
 
 so I may do good in what I left behind.” Never! It is only a useless appeal they make. And there is a barrier behind them until the Day they are resurrected.
 
-## AI Tafsir
-
-**What this ayah teaches:** And in front of them there is a barrier till the day when they will be resurrected.
-
-**Classical tafsir:** Ibn Kathir notes: Mujahid said, Al-Barzakh is a barrier between this world and the Hereafter.
 ## Personal Reflections
-
 

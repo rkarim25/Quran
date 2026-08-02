@@ -148,15 +148,5 @@ As stated earlier, these five verses of this Surah represent the very beginning 
 
 Who taught by the pen—
 
-## AI Tafsir
-
-**Context:** It is really very significant that mention should have been made of 'Pen' in a Book which was revealed to a person, the Final Messenger ﷺ ، who himself did not know how to read and write.
-
-**What this ayah teaches:** And your Lord is the Most Generous.)(4. Therefore, the verse says that Allah taught man things with which he was unacquainted previously.
-
-**Classical tafsir:** Ibn Kathir notes: The command iqra' [ read ] at the beginning of Surah refers to the oral or spoken method.
-
-**From the Sunnah:** that 'A'ishah said: The first thing that began happening with the Messenger of Allah ﷺ from the revelation was dreams that he would see in his sleep that would come true. (Musnad Ahmad) He died and the revelation paused until Allah's Messenger ﷺ became sad according to what we were told.
 ## Personal Reflections
-
 

@@ -140,11 +140,5 @@ The statement: وَكَانَ الْإِنسَانُ أَكْثَرَ‌ شَي�
 
 We do not send the messengers except as deliverers of good news and warners. But those who reject the truth argue in falsehood, hoping to discredit the truth with it, and make a mockery of My revelations and warnings.
 
-## AI Tafsir
-
-**What this ayah teaches:** And nothing prevents men from believing, while the guidance has come to them, and from asking forgiveness of their Lord, except that the ways of the ancients be repeated with them, or the torment be brought to them face to face (55)And We send not the Messengers except as bearers of good news and warners. But those who disbelieve, argue with falsehood, in order to refute the truth thereby.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

@@ -197,13 +197,5 @@ Some scholars interpret the verse metaphorically, not literally. They say that t
 
 Neither heaven nor earth wept over them, nor was their fate delayed.
 
-## AI Tafsir
-
-**Context:** And indeed We revealed to Mu0sa0 (saying): Travel by night with My servants and strike a dry path for them in the sea, fearing neither to be overtaken nor being afraid (of drowning in the sea). (20:77)
-
-**What this ayah teaches:** This means they did not perform any righteous deeds on earth which would weep for them when they died, nor did any of their righteous deeds ascend through the gates of heaven, so that the sky would weep on their death. It may be objected that neither the heaven nor the earth has any sense so that they would weep in the primary sense in which we understand it.
-
-**Classical tafsir:** Ibn Kathir notes: This means they did not perform any righteous deeds on earth which would weep for them when they died, nor did any of their righteous deeds ascend through the gates of heaven, so that the sky would weep on their death.
 ## Personal Reflections
-
 

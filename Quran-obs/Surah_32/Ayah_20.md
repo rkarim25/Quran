@@ -184,15 +184,5 @@ And Sayyidah Asma' bint Yazid ؓ narrates: The Holy Prophet ﷺ said, 'when Alla
 
 But the rebellious — the Fire is their home. Whenever they try to escape, they are driven back and told: Taste the Fire's torment that you used to deny.
 
-## AI Tafsir
-
-**Context:** (Is then he who is a believer like him who is a rebellious? Not equal are they.) i.e., before Allah on the Day of Resurrection.
-
-**What this ayah teaches:** Pointed to in the cited verse is one such attribute of these believers: They leave the comfort of their beds, rise and get busy with the remembrance of Allah in submission and supplication - because, they are apprehensive of His displeasure and punishment while remaining hopeful of His mercy and reward.
-
-**Classical tafsir:** Ibn Kathir notes: Pointed to in the cited verse is one such attribute of these believers: They leave the comfort of their beds, rise and get busy with the remembrance of Allah in submission and supplication - because, they are apprehensive of His displeasure and punishment while remaining hopeful…
-
-**From the Sunnah:** Paradise and keeps me away from Hell. (Jami' at-Tirmidhi, Sunan an-Nasa'i)
 ## Personal Reflections
-
 

@@ -196,11 +196,5 @@ Counter-poised against these three kinds, three rewards have been mentioned. Hig
 
 Those are the mu'minin in truth. For them are elevated ranks with their Rabb, forgiveness, and a noble provision.
 
-## AI Tafsir
-
-**What this ayah teaches:** The believers are only those who, when Allah is mentioned, feel a fear in their hearts and when His Ayat are recited unto them, they increase their faith; and they put their trust in their Lord (2)Who perform the Salah and spend out of what We have provided them (3)It is they who are the believers in truth.
-
-**Classical tafsir:** Ibn Kathir notes: Qatadah said, "Establishing the prayer requires preserving its times, making ablution for it, bowing down and prostrating." Muqatil bin Hayyan said, "Establishing the prayer means to preserve its times, perform perfect purity for it, perform perfect bowings and prostrations, recite the Qur'an during…
 ## Personal Reflections
-
 

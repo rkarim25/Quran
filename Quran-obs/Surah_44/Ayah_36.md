@@ -60,11 +60,5 @@ Commentary
 
 Bring back our forefathers, if what you say is true."
 
-## AI Tafsir
-
-**What this ayah teaches:** If Allah is not bringing back to life those who died long ago at this time, it does not necessarily imply that He will not be able to give life after death in the Hereafter. Allah did not give an answer to this argument of theirs, because it was too obvious to need explanation, for the resurrection will happen on the Day of Judgment, not in this world.
-
-**Classical tafsir:** Ibn Kathir notes: Allah did not give an answer to this argument of theirs, because it was too obvious to need explanation, for the resurrection will happen on the Day of Judgment, not in this world.
 ## Personal Reflections
-
 

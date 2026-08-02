@@ -153,11 +153,5 @@ The hint given here is: Though the open blessing of Allah's guidance and His cle
 
 The fertile land produces abundantly by the Will of its Rabb, whereas the infertile land hardly produces anything. This is how We vary lessons to those who are thankful.
 
-## AI Tafsir
-
-**What this ayah teaches:** Till when they have carried a heavy-laden cloud, We drive it to a land that is dead, then We cause water (rain) to descend thereon.
-
-**Classical tafsir:** Ibn Kathir notes: Similarly, We shall raise up the dead, so that you may remember or take heed (57)The vegetation of a good land comes forth (easily) by the permission of its Lord; and that which is bad, brings forth nothing but (a little) with difficulty.
 ## Personal Reflections
-
 

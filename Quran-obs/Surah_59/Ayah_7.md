@@ -302,15 +302,5 @@ This shows that although charities, especially fai' are meant to fulfill the nee
 
 Gains that Allah grants His Messenger from other peoples are for Allah, the Messenger, his close relatives, orphans, the poor, and needy travellers—so wealth does not circulate only among your rich. Whatever the Messenger gives you, take it; whatever he forbids, leave it. Fear Allah. Surely Allah is severe in punishment.
 
-## AI Tafsir
-
-**Context:** Although the verse was revealed in connection with fai', its words are general. They are not specific to wealth. They cover all the commands as well.
-
-**What this ayah teaches:** The Messenger's Command is Binding like the Qur’ anic Command Although the verse was revealed in connection with fai', its words are general.
-
-**Classical tafsir:** Ibn Kathir notes: However, the word 'fai' refers to a property acquired without resorting to an actual fight, (like in a state of peaceful surrender.) These two terms have been used to set down rules of these two types in the Holy Qur'an.
-
-**From the Sunnah:** Allah the Exalted explains the regulations for Fai', the booty that the Muslims acquire from the those who reject the truth, without fighting them or using cavalry and camelry in war against them. The Group, with the exception of Ibn Majah, collected this Hadith.
 ## Personal Reflections
-
 

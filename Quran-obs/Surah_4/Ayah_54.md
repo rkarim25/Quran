@@ -171,11 +171,5 @@ Envy, whether it be on account of someone's worldly, or spiritual excellence, is
 
 Or do they envy the people for Allah’s bounties? Indeed, We have given the descendants of Abraham the Book and wisdom, along with great authority.
 
-## AI Tafsir
-
-**What this ayah teaches:** If your envy is based on the realization that the kingdom, no doubt, did not pass from you onto him, still, the question remains, why did it have to go to him at all.
-
-**Classical tafsir:** Ibn Kathir notes: It means that Hasad (envy) is a desire to see the other person's blessing somehow disappear, and this is harm (forbidden).
 ## Personal Reflections
-
 

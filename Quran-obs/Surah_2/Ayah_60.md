@@ -170,17 +170,5 @@ No matter what form the prayer takes, all the scholars agree that it cannot be e
 
 And when Moses prayed for water for his people, We said, "Strike the rock with your staff." Twelve springs gushed forth — each tribe knew its drinking place. "Eat and drink of Allah's provision, and do not spread corruption in the land."
 
-## AI Tafsir
-
-**Essence** One strike of Musa's staff, and Allah split a rock into twelve springs — provision freely given; one charge: eat, drink, do not corrupt.
-
-**What it teaches** Thirsting in the wilderness, the Israelites asked Musa to pray; twelve springs answered — one per tribe of Ya'qub's twelve sons. Rizq without toil (manna, quails, water); the sole condition, la ta'thaw: no fasad — disobedience to Allah.
-
-**The scholars** Ibn 'Abbas: a square stone, three springs per side, each tribe knew its spring wherever they camped. Ibn Kathir: do not repay the favor "by committing acts of disobedience that cause favors to disappear." Al-Baydawi, in Maarif ul Quran: He who gave stone the power to draw iron can make stone pour water.
-
-**From the Sunnah** The Prophet ﷺ prayed for rain in the Friday khutbah, and Allah sent down rain (Al-Bukhari and Muslim, from Anas) — paired in Maarif ul Quran with Musa's bare prayer: supplication is the heart of seeking water from Allah.
-
-**Reflection** Take your provision from Allah's bounty with gratitude — and never let disobedience dry up the spring.
 ## Personal Reflections
-
 

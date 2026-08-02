@@ -98,11 +98,5 @@ The third evil quality denounced severely in this Surah is greed, that is, the s
 
 And what will explain to you what the Crusher is?
 
-## AI Tafsir
-
-**What this ayah teaches:** And what will make you know what Al-Hutamah is?)(6.
-
-**Classical tafsir:** Ibn Kathir notes: This means that the person finds fault with people and belittles them.
 ## Personal Reflections
-
 

@@ -219,17 +219,5 @@ In. spite of all these divine favours, the Jews persisted in their rebellion. Th
 
 We gave Moses the Book and sent messengers after him in succession. We gave Jesus, son of Mary, clear proofs and supported him with the holy spirit. Why is it that whenever a messenger comes to you with what your souls dislike, you become arrogant — rejecting some and killing others?
 
-## AI Tafsir
-
-**Essence** Allah gave Banu Isra'il the Tawrah, then 'Isa with miracles, Jibril at his side — yet whenever revelation crossed their desires: arrogance, denial, murder.
-
-**What it teaches** Qaffayna — Allah "followed up" with Messengers who judged by the Tawrah. 'Isa son of Maryam brought bayyinat, aided by Ruh al-Qudus, the Holy Spirit: Jibril (Ibn Mas'ud, Ibn 'Abbas, Qatadah). The disease: istikbar — hawa (desire) enthroned over Allah's command.
-
-**The scholars** Ibn Kathir: they distorted the Tawrah, then envied 'Isa — dead raised, birds from clay, healing, the Unseen told, all by Allah's leave (Ibn 'Abbas). Relaying Az-Zamakhshari: "you kill" stays present — poison and magic still awaited the Prophet ﷺ. Maarif: Jibril guarded 'Isa, conception to ascension; it reports Zakariyya and Yahya slain.
-
-**From the Sunnah** "O Allah! Aid Hassan with Ruh Al-Qudus, for he defended Your Prophet." (Al-Bukhari; At-Tirmidhi: Hasan Sahih) In his final illness he ﷺ said the Khaybar poison kept returning — the aorta would now be cut, death near. (Al-Bukhari)
-
-**Reflection** When truth arrives unwelcome, bend your desire — not the Messenger's word.
 ## Personal Reflections
-
 

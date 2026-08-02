@@ -125,13 +125,5 @@ There is a verse in Surah Al-Ma'arij which says that the day with your Lord will
 
 They challenge you O Prophet to hasten the torment. And Allah will never fail in His promise. But a day with your Rabb is indeed like a thousand years by your counting.
 
-## AI Tafsir
-
-**What this ayah teaches:** And verily a day with your Lord is as a thousand years of what you reckon (47)And many a township did I give respite while it was given to wrongdoing.
-
-**Classical tafsir:** Ibn Kathir notes: The first meaning is that the verse refers to the Day of Resurrection and the events which will take place on that day will be so horrifying and of such extreme severity that the day will appear never to end, as if it was equal to one thousand years according to our reckoning.
-
-**From the Sunnah:** And to Me is the (final) return (of all).) Ibn Abi Hatim recorded from Abu Hurayrah that the Messenger of Allah ﷺ said: Paradise half a day before the rich – five hundred years. (Jami' at-Tirmidhi, Sunan an-Nasa'i)
 ## Personal Reflections
-
 

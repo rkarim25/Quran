@@ -220,11 +220,5 @@ In verse 59, it was said: بَلَىٰ قَدْ جَاءَتْكَ آيَاتِ�
 
 Not at all! My revelations had already come to you, but you rejected them, acted arrogantly, and were among those who rejected the truth."
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, there came to you My Ayat and you denied them, and were proud and were among the those who reject the truth . And if they cease not from what they say, verily, a painful torment will befall on the those who reject the truth among them.)(5:73).
-
-**Classical tafsir:** Ibn Kathir notes: Or he should say when he sees the torment: "If only I had another chance, then I should indeed be among the doers of good.") means, he will wish that he could go back to this world, so that he could do righteous deeds.
 ## Personal Reflections
-
 

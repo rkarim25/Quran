@@ -119,11 +119,5 @@ In this verse, Muslims are being asked to remember the conditions they were faci
 
 Remember when you were few, deemed weak in the land, afraid that people would abduct you—then He gave you shelter, strengthened you with His help, and provided good things, so that you might show shukr, gratitude in word and deed.
 
-## AI Tafsir
-
-**What this ayah teaches:** And remember when you were few and were reckoned weak in the land, and were afraid that men might kidnap you, but He provided a safe place for you, strengthened you with His help, and provided you with good things (for livelihood) so that you might be grateful . Then, He gave you shelter and fortified you with His support and provided you with good things, so that you may be grateful - 26.
-
-**Classical tafsir:** Ibn Kathir notes: And remember when you were few and were reckoned weak in the land, and were afraid that men might kidnap you, but He provided a safe place for you, strengthened you with His help, and provided you with good things (for livelihood) so that you might be grateful .
 ## Personal Reflections
-
 

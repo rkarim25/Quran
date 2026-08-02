@@ -164,13 +164,5 @@ Ends here.
 
 It is a guide and good news for the mu'mins:
 
-## AI Tafsir
-
-**Context:** The word شَاعِر (Sha` ir) is used in this verse in its technical and commonly known meaning, that is the rhythmic composer.
-
-**What this ayah teaches:** If its subject matter is good and useful, it is good, and if its subject is bad or sinful, it is bad.
-
-**Classical tafsir:** Ibn Kathir notes: These are the Ayat of the Qur'an, and (it is) a Book (that is) clear.)(2.
 ## Personal Reflections
-
 

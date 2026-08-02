@@ -214,13 +214,5 @@ Allah Ta’ ala advised the Holy Prophet ﷺ to say that he has no personal inte
 
 Put your trust in the Ever-Living, Who never dies, and glorify His praises. Sufficient is He as All-Aware of the sins of His servants.
 
-## AI Tafsir
-
-**Context:** (Then He rose over (Istawa) the Throne. The ar-Rahman! Ask Him, as He is the All-Knower.) meaning, find out about Him from one who knows most about Him, and follow him and take him as your example.
-
-**What this ayah teaches:** The Eternal, Ever-Lasting, Ever-Living, Self-Sufficient One, the Lord and Sovereign of all things, the One to Whom you should always turn.
-
-**Classical tafsir:** Ibn Kathir notes: It is also possible that the correct attitude of the people is taken as a reward for the Holy Prophet ﷺ because he will also be rewarded if the people take up to right path.
 ## Personal Reflections
-
 

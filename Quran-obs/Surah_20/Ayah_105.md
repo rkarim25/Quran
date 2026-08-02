@@ -105,11 +105,5 @@ On the Day, they see these conditions and these frightening sights, they will ha
 
 And if they ask you O Prophet about the mountains, then say, “My Rabb will wipe them out completely,.
 
-## AI Tafsir
-
-**What this ayah teaches:** And they ask you concerning the mountains. The word Qa' means a piece of land that is level and the word Safsafa is used to place emphasis on this meaning.
-
-**Classical tafsir:** Ibn Kathir notes: The word Qa' means a piece of land that is level and the word Safsafa is used to place emphasis on this meaning.
 ## Personal Reflections
-
 

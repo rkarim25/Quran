@@ -243,11 +243,5 @@ Finally, if we consider the statement in verse 25, that is: أُولَـٰئِك
 
 Those who reject the truth say, "Why has no sign come to him from his Rabb?" Say: "Allah leaves to stray whomever He wills, and guides to Himself whoever turns back—
 
-## AI Tafsir
-
-**Context:** (Let him then bring us an Ayah like the ones (Prophets) that were sent before (with signs)!)[21:5] We mentioned this subject several times before and stated that Allah is able to bring them what they wanted.
-
-**What this ayah teaches:** There is a Hadith which mentions that the idolators asked the Prophet to turn Mount As-Safa into gold and, they also asked him for a spring to gush forth for them and to remove the mountains from around Makkah and replace them with green fields and gardens.
 ## Personal Reflections
-
 

@@ -158,11 +158,5 @@ Some said that the Messenger is the subject of what is being sent [as a reminder
 
 Allah has also prepared a severe punishment for them. So fear Allah, people of reason and faith. He has revealed to you a Reminder,
 
-## AI Tafsir
-
-**What this ayah teaches:** For instance some say that the word dhikr ('Reminder' ) refers to the Holy Prophet ﷺ himself, and the word 'messenger' is an explanatory complement to the word 'dhikr', because abundance of his remembering Allah made him a personified Remembrance of Allah.
-
-**Classical tafsir:** Ibn Kathir notes: For instance some say that the word dhikr ('Reminder' ) refers to the Holy Prophet ﷺ himself, and the word 'messenger' is an explanatory complement to the word 'dhikr', because abundance of his remembering Allah made him a personified Remembrance of Allah.
 ## Personal Reflections
-
 

@@ -182,11 +182,5 @@ Now attention is drawn to the comforts we get from the sky. The most useful thin
 
 the day for earning your livelihood,
 
-## AI Tafsir
-
-**What this ayah teaches:** They are asking about the matter of the Day of Judgement, and it is the great news.
-
-**Classical tafsir:** Ibn Kathir notes: And We have made the night as a covering,)(11.
 ## Personal Reflections
-
 

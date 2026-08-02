@@ -220,13 +220,5 @@ Ibn 'Abbas said, "He hears and He sees." This means that He watches over His cre
 
 They all transgressed across their lands,
 
-## AI Tafsir
-
-**What this ayah teaches:** The word autad is the plural of watad that means 'peg or stake or nail'. Therefore, Allah saved him and those who believed with him from among them, and He destroyed others with a furious, violent wind.
-
-**Classical tafsir:** Ibn Kathir notes: Mujahid said, "Iram was an ancient nation who were the first people of 'Ad." Qatadah bin Di'amah and As-Suddi both said, "Verily, Iram refers to the House of the kingdom of 'Ad." This latter statement is good and strong. Ibn 'Abbas said, "They carved them and they hewed them." This was also said by Mujahid, Qatadah, Ad-Dahhak and Ibn Zayd.
-
-**From the Sunnah:** a narration from Jabir that Mu'adh prayed a prayer and a man came and joined him in the prayer.
 ## Personal Reflections
-
 

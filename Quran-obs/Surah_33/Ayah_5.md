@@ -327,15 +327,5 @@ And this is the same matter which, by throwing the Quraish of Arabia into decept
 
 Let your adopted children keep their family names. That is more just in the sight of Allah. But if you do not know their fathers, then they are simply your fellow mu'mins and close associates. There is no blame on you for what you do by mistake, but only for what you do intentionally. And Allah is All-Forgiving, the Rahim — special mercy for believers in the Akhirah — the everlasting life after death.
 
-## AI Tafsir
-
-**Context:** (nor has He made your adopted sons your real sons.) This was revealed concerning Zayd bin Harithah, may Allah be pleased with him, the freed servant of the Prophet ﷺ.
-
-**What this ayah teaches:** The wife of an adopted son is not included because he was not born from the man's loins.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, it was said:i It means: 'You are wrong in thinking that, should someone call his wife the equal or like of his mother, the wife does not go on to become unlawful for him forever like his real mother.
-
-**From the Sunnah:** The Prophet ﷺ had adopted him before prophethood, and he was known as Zayd bin Muhammad. A "foster" son through breastfeeding is the same as a son born from one's own loins, from the point of view of Shari'ah, because the Prophet ﷺ said in the Two Sahihs:
 ## Personal Reflections
-
 

@@ -129,13 +129,5 @@ The hint given here is that Allah who has sent down this Book on you has also ma
 
 This is a Book sent down to you—do not let anxiety into your heart regarding it—so with it you may warn, and as a reminder to those who have iman.
 
-## AI Tafsir
-
-**What this ayah teaches:** Follow what has been sent down unto you from your Lord, and follow not any Awliya' (protectors), besides Him (Allah).
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, there was no reason for him to be anxious.
-
-**From the Sunnah:** Once this is done, it is not his responsibility to see who becomes a Muslim and who does not. (Sahih Muslim)
 ## Personal Reflections
-
 

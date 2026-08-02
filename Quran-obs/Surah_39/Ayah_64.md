@@ -99,13 +99,5 @@ upon in the matter of the merits of good deeds. (Ruh-ul-Ma’ ani)
 
 Say: "Are you urging me to worship anyone other than Allah, O ignorant ones?
 
-## AI Tafsir
-
-**Context:** Allah is the Creator of all things, and He is the Trustee over all things (62)To Him belong the Maqalid of the heavens and the earth.
-
-**What this ayah teaches:** Allah is the Creator of all things, and He is the Trustee over all things (62)To Him belong the Maqalid of the heavens and the earth.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, the sense of the verse is that the keys to whatever treasures lie hidden in the heavens and the earth are in the hands of Allah and He alone is the custodian and the dispenser in that it is He who gives whenever He wills to whomever He wills and as much as He wills - a…
 ## Personal Reflections
-
 

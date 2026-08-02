@@ -129,13 +129,5 @@ In short, we are permitted to be involved in the material wealth up to the degre
 
 O believers: do not let your wealth or your children divert you from the remembrance of Allah. Whoever does so are the true losers.
 
-## AI Tafsir
-
-**What this ayah teaches:** The import of the verse is that love of wealth and children to some extend is not bad.
-
-**Classical tafsir:** Ibn Kathir notes: Some say it refers to the five daily prayers, while others say it refers to Zakah or Hajj.
-
-**From the Sunnah:** They outwardly claimed to be Muslims, and might share the spoils of war with them.
 ## Personal Reflections
-
 

@@ -182,11 +182,5 @@ denounces such treaties, and declares dissociation from paganism. Analyzing the 
 
 Nor will you ever worship what I worship—until truth enters the heart, no argument can force genuine submission.
 
-## AI Tafsir
-
-**Context:** Ibn Kathir prefers another interpretation. He expounds that the particle ma is used in two ways: [ 1] as mawsulah or relative pronoun in the sense of al-ladhi [ that which ]; and [ 2] as masdariyah transforming into infi…
-
-**What this ayah teaches:** This is why the statement of Islam is "There is no Allah worthy of being worshipped except Allah, and Muhammad is the Messenger of Allah." This means that there is no (true) object of worship except Allah and there is no path to Him (i.e., way of worshipping Him) other than that which the Messenger came with.
 ## Personal Reflections
-
 

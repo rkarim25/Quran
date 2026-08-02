@@ -110,11 +110,5 @@ How to give counsel to elders.
 
 O dear father, do not worship Satan. Satan is ever rebellious against the Rahman.
 
-## AI Tafsir
-
-**What this ayah teaches:** Instead, guided by prophetic wisdom he merely invited his father's attention to the helplessness and insensitivity of his idols, so that he might himself realize the fallacy of his beliefs.
-
-**Classical tafsir:** Ibn Kathir notes: Verily, I fear lest a torment from the ar-Rahman should overtake you, so that you become a companion of Shaytan.
 ## Personal Reflections
-
 

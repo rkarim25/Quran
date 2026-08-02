@@ -183,11 +183,5 @@ There are several conditions that must be met before a vow can be constituted: [
 
 They fulfil their vows and dread a Day whose horror sweeps everything away.
 
-## AI Tafsir
-
-**Context:** Concerning the poor person and the orphan, an explanation of them and their characteristics has already preceded.
-
-**What this ayah teaches:** Here it is stated that great rewards and favours for the inmates of Paradise would be apportioned to them because they fulfilled the vow. The verse indicates that when they are so particular about fulfilling their vows that are taken by them upon themselves, they would be even more particular about fulfilling the obligations enjoined upon them by Allah.
 ## Personal Reflections
-
 

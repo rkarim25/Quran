@@ -155,13 +155,5 @@ Imam Ahmad recorded that Al-Harith Al-Bakri said: "I went to the Messenger of Al
 
 They said, “Have you come to us so that we would worship Allah alone and abandon what our forefathers used to worship? Then bring us what you threaten us with, if what you say is true!”
 
-## AI Tafsir
-
-**What this ayah teaches:** They said, 'Who is stronger than us?' Some of them, however, followed Hud, although they were few and had to conceal their faith.
-
-**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas said that, 'Rijs', means scorn and anger.
-
-**From the Sunnah:** I also found a black flag raised high, while Bilal was holding a sword before the Messenger of Allah ﷺ. (Musnad Ahmad, Jami' at-Tirmidhi)
 ## Personal Reflections
-
 

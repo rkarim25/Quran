@@ -335,13 +335,5 @@ Then, a person who takes bribe and does someone's job as it should rightfully be
 
 But why do they come to you for judgment when they have the Torah containing Allah’s judgment, then they turn away after all? They are not those who have iman.
 
-## AI Tafsir
-
-**Context:** These honorable Ayat were revealed about those who rush into disbelief, deviating from the obedience of Allah, His Messenger, prefering their opinions and lusts to what Allah has legislated, It was reported that this par…
-
-**What this ayah teaches:** But how do they come to you for a decision while they have the Tawrah, in which is the decision of Allah; yet even after that they turn away.
-
-**Classical tafsir:** Ibn Kathir notes: Al-'Awfi and 'Ali bin Abi Talhah reported that Ibn 'Abbas said that these Ayat were revealed about the two Jews who committed adultery, and we mentioned the Hadiths about this story before.
 ## Personal Reflections
-
 

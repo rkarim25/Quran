@@ -102,13 +102,5 @@ The last sentence of the verse: (And it adds nothing to the unjust but loss - 82
 
 We send down the Quran as a healing and mercy for the believers, but it only increases the wrongdoers in loss.
 
-## AI Tafsir
-
-**Context:** Allah tells us that His Book, which He has revealed to His Messenger Muhammad ﷺ, the Qur'an to which falsehood cannot come, from before it or behind it, (it is) sent down by the All-Wise, Worthy of all praise, is a cure…
-
-**What this ayah teaches:** And We send down of the Qur'an that which is a cure and a mercy to the believers, and it increases the wrongdoers in nothing but loss .
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

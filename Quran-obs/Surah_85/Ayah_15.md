@@ -118,13 +118,5 @@ Surah Al-Buruj Ends here
 
 Lord of the Throne, the All-Glorious,
 
-## AI Tafsir
-
-**What this ayah teaches:** That is the supreme success (11)Verily, the punishment of your Lord is severe and painful (12)Verily, He it is Who begins and repeats (13)And He is Oft-Forgiving, Al-Wadud (14)Owner of the Throne, Al-Majid (the Glorious)(15)Doer of what He intends (16)Has the story reached you of the hosts (17)Of Fir'awn and Thamud (18)Nay!
-
-**Classical tafsir:** Ibn Kathir notes: It signifies that they will be put into Hell and will have to suffer eternal torment of the fire.
-
-**From the Sunnah:** After that the fire flared up so high that it spread out wildly through the city and burned all those who were watching the fun of burning the Muslims.
 ## Personal Reflections
-
 

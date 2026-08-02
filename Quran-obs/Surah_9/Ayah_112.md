@@ -133,13 +133,5 @@ At the end of the verse (112), it was said: وَبَشِّرِ‌ الْمُؤْ
 
 Who repent, who are devoted to worship, who praise, who fast, who bow down and prostrate themselves, who encourage good and forbid evil, and who observe the limits set by Allah. And give good news to those who have iman.
 
-## AI Tafsir
-
-**Context:** The last verse (112) which begins with the words: التَّائِبُونَ الْعَابِدُونَ " (They are) those who repent, those who worship...) describes the attributes of the same believers about whom it was said earlier that Allah…
-
-**What this ayah teaches:** Those who repent, who worship (Him), who praise (Him), who fast, who bow down, who prostrate themselves, who enjoin good and forbid evil, and who observe the limits set by Allah. Therefore, they worship the True Lord and advise creation.
-
-**Classical tafsir:** Ibn Kathir notes: In other words, the details given in those seven attributes have been eloquently reduced to one small sentence which means that they are committed to the limits set by Allah, that is, they obey, adhere to and protect the injunctions of the Shari’ ah of Islam.
 ## Personal Reflections
-
 

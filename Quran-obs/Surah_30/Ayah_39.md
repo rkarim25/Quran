@@ -182,11 +182,5 @@ It is extremely contemptible for a person who extends a gift to someone that he 
 
 Whatever you give seeking interest at people's expense will not increase with Allah. Whatever charity you give seeking Allah's pleasure — their reward will be multiplied.
 
-## AI Tafsir
-
-**What this ayah teaches:** That is best for those who seek Allah's Face; and it is they who will be successful (38)And that which you give in Riba in order that it may increase from other people's property, has no increase with Allah; but that which you give in Zakah seeking Allah's Face, then those they shall have manifold increase (39)Allah is He Who created you, then provided food for you, then will c…
-
-**Classical tafsir:** Ibn Kathir notes: Since, according to a large number of scholars, usury was prohibited in Madinah, while the present verse is Makkan, the word riba used here cannot mean usury or interest.
 ## Personal Reflections
-
 

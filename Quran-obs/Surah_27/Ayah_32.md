@@ -112,11 +112,5 @@ After having consulted the functionaries of her government and gaining their con
 
 She said, “O chiefs! Advise me in this matter of mine, for I would never make any decision without you.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Before asking their view on the matter, she encouraged and pleased them by declaring that she did not take decisions without consulting them. If he becomes satisfied after receiving the gifts, then it would indicate that he was only a king and had approached her with mundane motives.
-
-**Classical tafsir:** Ibn Kathir notes: Because of her remarks, the ministers and the generals expressed their readiness to sacrifice everything they had in order to follow her command.
 ## Personal Reflections
-
 

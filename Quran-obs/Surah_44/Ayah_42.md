@@ -95,11 +95,5 @@ Here Allah tells us of His justice, and that He is far above mere play, folly an
 
 except those shown mercy by Allah. He is truly the Almighty, the Rahim.
 
-## AI Tafsir
-
-**What this ayah teaches:** The heavens and the earth and everything created in them manifest many realities. Examples are: (1) the manifestation of Divine power; (2) the possibility of the Hereafter.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

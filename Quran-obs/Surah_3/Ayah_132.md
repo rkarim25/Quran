@@ -296,39 +296,5 @@ Voiced, though, it was by a slave of Allah
 
 Obey Allah and the Messenger, so you may be shown mercy.
 
-## AI Tafsir
-
-**Essence**
-
-True mercy from Allah flows only through the twin gate of obedience: to Allah and to His Messenger ï·º â€” inseparably, completely, and without reservation. The particle Ù„ÙŽØ¹ÙŽÙ„ÙŽÙ‘ÙƒÙÙ…Ù’ ("so that you may") frames divine mercy as a goal humbly sought and hoped for by Allah's grace, not a wage that deeds compel.
-
----
-
-**What it teaches**
-
-The command ÙˆÙŽØ£ÙŽØ·ÙÙŠØ¹ÙÙˆØ§ Ø§Ù„Ù„ÙŽÙ‘Ù‡ÙŽ ÙˆÙŽØ§Ù„Ø±ÙŽÙ‘Ø³ÙÙˆÙ„ÙŽ joins two obediences side by side throughout the Qur'an. That pairing is not rhetorical; it reflects the structure of Islamic guidance itself. Allah sent both a Book and a Messenger, and the Messenger's role extended beyond transmitting the Qur'an's words â€” he clarified, elaborated, and embodied the Din. Mercy (rahmah) here is conditioned on both: accepting the text and following the one who lived it.
-
----
-
-**The scholars**
-
-Ibn Kathir reads 3:132 as the structural pivot of a tight sequence. After the prohibition of riba (3:130) and the warning of the Fire prepared for disbelievers (3:131), this command to obey stands as the hinge â€” and the very next verse (3:133) swings open the door: "March forth toward forgiveness from your Lord, and Paradise as wide as the heavens and the earth." The obedience enjoined in 3:132 is thus the threshold through which the believer enters the description of the Muttaqin in 3:133â€“136: those who spend in all conditions, repress rage, pardon people, and return to Allah after sin. The command is not an isolated imperative; it is the engine of the entire passage.
-
-Mufti Muhammad Shafi' (Maarif ul Quran) supplies the deeper theological rationale for why the Qur'an insists on naming both obediences separately, repeatedly, across dozens of verses. The Messenger ï·º was charged with four prophetic duties â€” conveying the Qur'anic verses precisely, purifying souls, teaching the Book, and teaching wisdom (hikmah). The details of Islamic practice â€” the exact postures of salah, the thresholds and rates of zakah, the categories of permissible and impermissible transactions â€” were conveyed not in the Qur'anic text but through the Sunnah as wahy ghayr al-matluww' (revelation not recited as scripture), inspired into the Prophet's heart by Divine guidance. The Qur'an confirms this: ÙˆÙŽÙ…ÙŽØ§ ÙŠÙŽÙ†Ø·ÙÙ‚Ù Ø¹ÙŽÙ†Ù Ø§Ù„Ù’Ù‡ÙŽÙˆÙŽÙ‰ â€” "He does not speak out of his own desire; it is nothing but revelation revealed" (53:3â€“4). And: Ù…ÙŽÙ‘Ù† ÙŠÙØ·ÙØ¹Ù Ø§Ù„Ø±ÙŽÙ‘Ø³ÙÙˆÙ„ÙŽ ÙÙŽÙ‚ÙŽØ¯Ù’ Ø£ÙŽØ·ÙŽØ§Ø¹ÙŽ Ø§Ù„Ù„ÙŽÙ‘Ù‡ÙŽ â€” "Whoever obeys the Messenger has indeed obeyed Allah" (4:80).
-
-The separation in the command guards against a specific error: that a person might accept only what appears explicitly in the Qur'an and set aside the Sunnah as optional. The Qur'an pre-empts this deviation, binding both obediences with equal authority.
-
----
-
-**From the Sunnah**
-
-The Prophet ï·º warned: "Lest I find one of you, reclining on his couch making comments on an order from my orders in which I bid something or forbid something, saying, 'This we do not know. We only follow what we find in the Book of Allah'." *(Musnad Ahmad; Sunan al-Tirmidhi; Sunan Abu Dawud; Sunan Ibn Majah; al-Baihaqi)*
-
----
-
-**Reflection**
-
-Every time a believer follows the Prophet's ï·º Sunnah in a detail the Qur'an does not spell out â€” the exact postures of prayer, the specific thresholds of zakah â€” he is answering this very command and opening himself to the mercy Allah has placed at the end of it.
 ## Personal Reflections
-
 

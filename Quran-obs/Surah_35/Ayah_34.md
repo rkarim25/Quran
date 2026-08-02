@@ -132,13 +132,5 @@ Imam Abu Bakr al-Jassas (رح) said: It is the typical state of a believer that 
 
 They will say, "Praise be to Allah, Who has removed from us all sorrow. Our Lord is All-Forgiving, Most Appreciative,
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, our Lord is indeed Oft-Forgiving, Most Ready to appreciate.
-
-**Classical tafsir:** Ibn Kathir notes: This is because they would initially face great anxiety on the plains of Resurrection but, finally, when they are asked to enter Paradise, it will sound removed.
-
-**From the Sunnah:** It was recorded in the Sahih that the Messenger of Allah ﷺ said:
 ## Personal Reflections
-
 

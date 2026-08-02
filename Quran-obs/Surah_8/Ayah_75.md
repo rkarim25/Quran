@@ -182,13 +182,5 @@ A review of it was completed on the day of Jumu'ah, 19th of Jumada I, Hijrah Yea
 
 Those who believed afterward, emigrated, and strove alongside you—they belong to you. But blood relatives are nearer to one another in inheritance, as Allah has decreed. Surely Allah has knowledge of all things.
 
-## AI Tafsir
-
-**What this ayah teaches:** Therefore, the only practical way of distributing inheritance over relatives can be that, by giving close relatives precedence over those distant, the benchmark of the near should be used to exclude the distant. But kindred by blood are nearer to one another (regarding inheritance) in the decree ordained by Allah.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, the only practical way of distributing inheritance over relatives can be that, by giving close relatives precedence over those distant, the benchmark of the near should be used to exclude the distant.
-
-**From the Sunnah:** But, Muslims who are bound by mutual relationship have precedence over other Muslims.
 ## Personal Reflections
-
 

@@ -78,11 +78,5 @@ Ad-Dahhak said, "Meaning a death which is not followed by any life." Likewise sa
 
 My wealth has not benefited me!
 
-## AI Tafsir
-
-**What this ayah teaches:** In other words, one who is given his record book in his right hand, he will be elated and, looking at the people around him, will say 'Here, take my account book and read it!' He also did not benefit Allah's creation nor did he give them their rights.
-
-**Classical tafsir:** Ibn Kathir notes: Qatadah said, "It will be the worst food of the people of the Hellfire." Ar-Rabi' and Ad-Dahhak both said, "It (Ghislin) is a tree in Hell." Shabib bin Bishr reported from 'Ikrimah that Ibn 'Abbas said, 'Ghislin will be the blood and fluid that will flow from their flesh." 'Ali bin Abi Talhah report…
 ## Personal Reflections
-
 

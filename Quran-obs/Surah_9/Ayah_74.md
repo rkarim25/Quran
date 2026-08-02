@@ -344,11 +344,5 @@ For that matter, several other events of this nature are also on record. But, th
 
 They swear by Allah that they never said anything, while they did in fact utter a blasphemy, lost faith after accepting Islam, and plotted what they could not carry out. It is only through resentment that they pay Allah and His Messenger back for enriching them out of His bounty! If they repent, it will be better for them. But if they turn away, Allah will torment them with a painful punishment in this dunya and the Akhirah, and they will have no one on earth to protect or help them.
 
-## AI Tafsir
-
-**Context:** Al-Amawi said in his Book on Battles, "Muhammad bin Ishaq narrated that Az-Zuhri said that 'Abdur-Rahman bin 'Abdullah bin Ka'b bin Malik narrated from his father, from his grandfather that he said, 'Among the hypocrites…
-
-**What this ayah teaches:** Strive hard against the those who reject the truth and the hypocrites, and be harsh against them, their abode is Hell, – and worst indeed is that destination (73)They swear by Allah that they said nothing (bad), but really they said the word of disbelief, and they disbelieved after accepting Islam, and they resolved that (plot) which they were unable to carry out, and they could not find any cause to do so exce…
 ## Personal Reflections
-
 

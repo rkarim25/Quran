@@ -116,11 +116,5 @@ According to Imam Abu Hanifah (رح) ، this Hadith is related to injunctions of
 
 Without a doubt, they will be the losers in the Akhirah.
 
-## AI Tafsir
-
-**Context:** This verse was revealed about the noble Sahabah who were arrested by the Mushriks. Their disbelieving captors had told them that they must return to infidelity failing which they would be killed.
-
-**What this ayah teaches:** And they are the heedless (108)No doubt, in the Hereafter they will be the losers . Whoever disbelieves in Allah after his belief - except one who was forced while his heart is at peace with the faith - but whoever opens their breasts to disbelief, on them is wrath from Allah, and theirs will be a terrible torment (106)That is because they preferred the life of this world over that of the Hereafte…
 ## Personal Reflections
-
 

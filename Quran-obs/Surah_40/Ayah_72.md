@@ -124,11 +124,5 @@ A little deliberation shows that there is no contradiction between these two thi
 
 through boiling water, then burned in the Fire as fuel.
 
-## AI Tafsir
-
-**What this ayah teaches:** The verse seems to suggest that the people of Jahannam will first be put into the hameem, then, into the jahim, that is, the Jahannam.
-
-**Classical tafsir:** Ibn Kathir notes: One of these could be that of hameem which could as well be called as being outside the Jahannam because of its separate and distinct location, and since this is also a section of Jahannam itself, therefore, it could also be called the Jahannam.
 ## Personal Reflections
-
 

@@ -135,13 +135,5 @@ Imam Shafi` i (رح) has said that if a person bequeaths his wealth and property
 
 Whatever pleasure you have been given is no more than a fleeting enjoyment and adornment of this worldly dunya. But what is with Allah is far better and more lasting. Will you not then understand?
 
-## AI Tafsir
-
-**Context:** (then on the Day of Resurrection, he will be among those brought up.) Mujahid and Qatadah said: "He will be among those who are punished." It was said that this was revealed concerning the Messenger of Allah ﷺ and Abu Ja…
-
-**What this ayah teaches:** And whatever you have been given is an enjoyment of the life of the world and its adornment, and that which is with Allah is better and will remain forever.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

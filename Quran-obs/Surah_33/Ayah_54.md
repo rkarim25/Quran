@@ -170,15 +170,5 @@ The issue of Hijab for women, out of the three injunctions in the above mentione
 
 Whether you reveal something or conceal it, surely Allah has perfect knowledge of all things.
 
-## AI Tafsir
-
-**Context:** (And it is not (right) for you that you should annoy Allah's Messenger,) "This was revealed concerning a man who wanted to marry one of the wives of the Prophet ﷺ after he died.
-
-**What this ayah teaches:** Verily, with Allah that shall be an enormity (53)Whether you reveal anything or conceal it, verily, Allah is Ever All-Knower of everything .
-
-**Classical tafsir:** Ibn Kathir notes: This indicates that it is forbidden to watch out for food being prepared, which is what the Arabs called Tatfil (being an uninvited guest).
-
-**From the Sunnah:** And it is not (right) for you that you should annoy Allah's Messenger, nor that you should ever marry his wives after him (his death). And I said to the wives of the Prophet ﷺ when they conspired against him out of jealousy,
 ## Personal Reflections
-
 

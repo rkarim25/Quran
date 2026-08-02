@@ -138,13 +138,5 @@ Some commentators have said that: حٰم (Ha Meem) is the name of Allah Ta’ al
 
 The revelation of this Book is from Allah—the Almighty, All-Knowing,
 
-## AI Tafsir
-
-**What this ayah teaches:** The revelation of the Book is from Allah, the Almighty, the All-Knower.)(3.
-
-**Classical tafsir:** Ibn Kathir notes: These two attributes (mercy and punishment) are often mentioned together in the Qur'an, so that people will remain in a state of both hope and fear.
-
-**From the Sunnah:** In a Hadith recorded by Abu Dawud and At-Tirmidhi from one who heard it from the Messenger of Allah ﷺ, it says: (Jami' at-Tirmidhi, Sunan Abi Dawud)
 ## Personal Reflections
-
 

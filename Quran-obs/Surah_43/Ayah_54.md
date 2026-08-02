@@ -127,11 +127,5 @@ Ibn Abi Hatim recorded that 'Uqbah bin 'Amir, may Allah be pleased with him, sai
 
 And so he fooled his people, and they obeyed him. They were truly a rebellious people.
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, they were ever a people who were rebellious (54)So when they angered Us, We punished them, and drowned them all (55)And We made them a precedent, and an example to later generations . Even though Fir'awn had the intelligence to understand that, he wanted to confuse and mislead his people, who were ignorant and stupid.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

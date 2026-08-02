@@ -178,11 +178,5 @@ Unfortunately, it is a necessary outcome of excess (ghuluww) in religion and int
 
 Say, “My Rabb has only forbidden open and secret indecencies, sinfulness, unjust aggression, associating with Allah —a practice He has never authorized—and attributing to Allah what you do not know.”
 
-## AI Tafsir
-
-**What this ayah teaches:** This particular detail was mentioned here also because it covers almost all kinds of prohibitions and sins - whether they pertained to belief or conduct, or were done personally, or related to rights of others which were usurped.
-
-**Classical tafsir:** Ibn Kathir notes: As for unrighteous oppression, it occurs when you transgress against people without justification." Mujahid said, "Ithm includes all types of disobedience.
 ## Personal Reflections
-
 

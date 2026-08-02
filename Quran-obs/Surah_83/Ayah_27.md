@@ -116,11 +116,5 @@ If you wish to remind me, remind me of God.'
 
 Its flavour comes from Tasnim—
 
-## AI Tafsir
-
-**What this ayah teaches:** This refers to a drink called Tasnim, and it is the most excellent and exalted drink of the people of Paradise.
-
-**Classical tafsir:** Ibn Kathir notes: This refers to a drink called Tasnim, and it is the most excellent and exalted drink of the people of Paradise.
 ## Personal Reflections
-
 

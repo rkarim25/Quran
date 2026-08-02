@@ -130,13 +130,5 @@ The word tadhkirah (Reminder), in this context, refers to the Holy Qur'an, becau
 
 These opening letters—known as the muqatta'at—are among the signs whose full meaning Allah kept with Himself. They open the surah by reminding the reader that this Book is from beyond human authorship: approach it with humility, not arrogance.
 
-## AI Tafsir
-
-**Context:** (Nay, everyone of them desires that he should be given pages spread out.) meaning, each one of these idolators wants to have a book revealed to him as Allah revealed to the Prophet ﷺ. Mujahid and others have said this.
-
-**What this ayah teaches:** Fleeing from a Qaswarah.) meaning, as if they were fleeing from the truth and turning away from it, like a wild donkey when it flees from something that is trying to catch it, like a lion.
-
-**Classical tafsir:** Ibn Kathir notes: 74:49) The word tadhkirah (Reminder), in this context, refers to the Holy Qur'an, because the word literally signifies a 'reminder or something that reminds'.
 ## Personal Reflections
-
 

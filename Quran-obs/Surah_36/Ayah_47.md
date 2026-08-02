@@ -168,11 +168,5 @@ Now, there remains the question: On which basis, did the believers ask the disbe
 
 And when it is said to them, "Spend from what Allah has provided for you," those who reject the truth say to the believers, "Why should we feed those whom Allah could have fed if He wanted to? You are clearly astray!"
 
-## AI Tafsir
-
-**What this ayah teaches:** In their sarcastic response, the those who reject the truth say: You say that Allah is the provider and sustainer of the entire creation, yet He did not give them anything.
-
-**Classical tafsir:** Ibn Kathir notes: This aversion of theirs has not been expressly mentioned here in the words of the Qur'an, because the 'I` rad' or aversion mentioned in the next verse automatically proves their aversion here too.
 ## Personal Reflections
-
 

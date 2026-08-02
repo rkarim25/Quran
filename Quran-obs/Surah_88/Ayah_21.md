@@ -159,13 +159,5 @@ Ends here
 
 So remind—all you can do is remind.
 
-## AI Tafsir
-
-**What this ayah teaches:** They are reminded of this because the most common domestic animal of the Arabs was the camel.
-
-**Classical tafsir:** Ibn Kathir notes: They are reminded of this because the most common domestic animal of the Arabs was the camel.
-
-**From the Sunnah:** These are the things Dimam swore by after questioning the Messenger of Allah ﷺ. (Musnad Ahmad) This Hadith was recorded by Al-Bukhari, Muslim, Abu Dawud, At-Tirmidhi, An-Nasa'i and Ibn Majah. (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
-
 

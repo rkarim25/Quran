@@ -179,15 +179,5 @@ It is recorded in Sahih Al-Bukhari that Sayyidna Abu Hurairah ؓ has reported th
 
 We revealed to you a Book as We did to earlier messengers. Those We gave Scripture believe in it, as do some of these Arabs. None rejects Our ayahs except those who stubbornly reject the truth.
 
-## AI Tafsir
-
-**Context:** The manner in which this verse endorses the belief of Muslims in Torah and Injil is their general faith in them, as they were revealed in their original form.
-
-**What this ayah teaches:** In that case, indeed, the followers of falsehood might have doubted (48)Nay, but it is clear Ayat, (preserved) in the breasts of those who have been given knowledge.
-
-**Classical tafsir:** Ibn Kathir notes: This is because it is preserved in the hearts and is easy on the tongue (i.e., is easy to recite), and is controlling people's hearts and minds.
-
-**From the Sunnah:** What I have been given is revelation which Allah reveals to me, and I hope that I will have the most followers among them.) According to the Hadith of 'Iyad bin Himar, recorded in Sahih Muslim, Allah says: (Sahih Muslim) The manner in which this verse endorses the belief of Muslims in Torah and Injil is their general faith…
 ## Personal Reflections
-
 

@@ -253,19 +253,5 @@ This hadith has been reported by Ibn Majah and al-Tabarani on the authority of S
 
 Say: Shall I tell you what is better than worldly gains? For those who live with taqwa—awareness that Allah sees them—there are Gardens with their Rabb under which rivers flow, where they will remain forever, with purified spouses and Allah's pleasure. And Allah is All-Seeing of His servants.
 
-## AI Tafsir
-
-**Essence** After listing the fleeting treasures men crave, Allah turns the heart upward: for those who fear Him there is something incomparably better and lasting — eternal Gardens, purified spouses, and, above all, His own good pleasure.
-
-**What it teaches** The ayah opens with a question on the Prophet's tongue (peace be upon him) — "Shall I inform you of what is far better than that?" — contrasting the perishable delights of verse 14 with the reward awaiting those of taqwa (God-consciousness: mindful obedience and fear of one's Lord). Their portion is jannat with rivers flowing beneath, khalidin (abiding forever) within them, azwaj mutahharah (spouses purified of every impurity), and ridwan — Allah's lasting approval. The closing name, Allah is Basir (All-Seeing) of His servants, assures that He watches each soul and apportions reward by what it truly deserves.
-
-**The scholars** Ibn Kathir explains that this verse answers the lure of worldly delights: "Should I tell you about what is better than the delights and joys of this life that will soon perish?" The rivers, he says, carry honey, milk, wine and water "such that no eye has ever seen, no ear has ever heard, and no heart has ever imagined"; khalidin fiha means the dwellers "shall remain in it forever and ever and will not want to be removed from it"; and azwaj mutahharah means purified "from filth, dirt, harm, menstruation, post birth bleeding, and other things that affect women in this world." On ridwan he writes that "Allah's pleasure will descend on them and He shall never be angry with them after that," citing Surah Bara'ah (9:72), "But the pleasure of Allah is greater" — greater even than the eternal delight He has granted. Maarif ul Quran notes that whereas verse 14 named six worldly objects of desire, only three of the Hereafter are mentioned: children are omitted because in Paradise no one dies or seeks an heir, and whoever wishes for offspring is granted them at once; gold and silver, because nothing there is bought, sold or paid for, but every need is instantly supplied; horses, cattle and tillage, because the services they render are already provided by Allah without their medium. What remains — "the ultimate man can and should aspire for" — is the approval of Allah, "after which there is no danger of displeasure from Allah," and therefore no danger that its blessings will ever be reduced or withdrawn.
-
-**From the Sunnah** When the people of Paradise are settled and content with every desire fulfilled, Allah grants them the supreme gift — His everlasting approval: "Now I give you the greatest of all blessings - you all have My approval that I will never be displeased with you, and nearness forever." (narrated as a hadith in Maarif ul Quran)
-
-And the Prophet (peace be upon him) taught: "Worldly life is cursed and cursed is what is in there, except what is used to seek the pleasure of Allah" — and in another narration, except the Dhikr of Allah and what He loves, and the religious scholar and the student of sacred knowledge. (Ibn Majah and al-Tabarani, from Abu Hurairah)
-
-**Reflection** Hold this world's pleasures with an open hand — for the believer's deepest aim is not the Garden's rivers but the good pleasure of its Lord, the one gift after which no displeasure can ever fall.
 ## Personal Reflections
-
 

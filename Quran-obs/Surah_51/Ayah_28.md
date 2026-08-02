@@ -142,11 +142,5 @@ The three angels; Jibril, Mika'il and Israfil came to Ibrahim in the image of ha
 
 When they did not eat, he grew uneasy about them. They said: Do not fear—and gave him glad news of a knowledgeable son.
 
-## AI Tafsir
-
-**What this ayah teaches:** He did not place the food far from them and invite them to come close to it to eat. For he brought the food to his guests quickly, while they were unaware that it was being prepared for them.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

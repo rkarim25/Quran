@@ -109,13 +109,5 @@ If only the translation of the Qur'an is written in any language without the Ara
 
 who would then recite it to the deniers in fluent Arabic, still they would not have believed in it!
 
-## AI Tafsir
-
-**Context:** Then Allah tells us how intense the disbelief of Quraysh was, and how stubbornly they resisted the Qur'an. If this Book with all its eloquence had been revealed to a non-Arab who did not know one word of Arabic, they sti…
-
-**What this ayah teaches:** Printing, calling or trading of something in the name of Qur'an, without the Arabic text of the Qur'an, is not permitted.
-
-**Classical tafsir:** Ibn Kathir notes: I am the Messenger of Allah unto you, confirming the Tawrah before me, and giving glad tidings of a Messenger to come after me, whose name shall be Ahmad.)(61:6) Zubur here refers to Books; Zubur is the plural of Az-Zabur, which is also the name used to refer to the Book given to…
 ## Personal Reflections
-
 

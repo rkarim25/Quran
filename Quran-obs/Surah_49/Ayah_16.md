@@ -217,15 +217,5 @@ Ends here
 
 Say: Would you inform Allah of your iman when Allah knows whatever is in the heavens and whatever is on earth? Allah has knowledge of everything.
 
-## AI Tafsir
-
-**Context:** According to Imam Baghawi, this verse was revealed in connection with the tribe of Banu Asad. A few members of that tribe came up to the Holy Prophet ﷺ in Madinah during a severe drought.
-
-**What this ayah teaches:** In the current set of verses, it is stated, on account of a particular incident, that the real basis of faith is the inner acceptance of the heart.
-
-**Classical tafsir:** Ibn Kathir notes: "’ Iman", in the technical sense of Shari’ ah, refers to the belief by heart and thus connotes a firm and unshakable belief in the Oneness of Allah and in His ﷺ .
-
-**From the Sunnah:** There is a Difference between a Believer and a Muslim (Sahih Muslim) This is also demostrated in the Hadith of Jibril, peace be upon him, when he questioned the Prophet ﷺ about Islam, then Iman then Ihsan.
 ## Personal Reflections
-
 

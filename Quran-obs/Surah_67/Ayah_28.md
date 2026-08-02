@@ -127,11 +127,5 @@ After this, the non-believers are threatened with punishment. Towards the end of
 
 Say: 'Consider: whether Allah causes me and those with me to die or shows us mercy, who will save the those who reject the truth from a painful punishment?'
 
-## AI Tafsir
-
-**What this ayah teaches:** If Allah destroys me, and those with me, or He bestows His mercy on us - who can save the those who reject the truth from a painful torment? Of the two organs, his sense of hearing is mentioned first, because a careful analysis shows that most of the information gathered in human life is through hearing, not so much by seeing.
-
-**Classical tafsir:** Ibn Kathir notes: But out of the five physical senses, only two have been mentioned, namely, ears and eyes, because man receives a very limited range of knowledge by smelling, tasting and feeling.
 ## Personal Reflections
-
 

@@ -214,13 +214,5 @@ The statement given in the verse also tells us something crucial about the life 
 
 Why should we not believe in Allah and the truth that has come to us? And we long for our Rabb to include us in the company of the righteous.”
 
-## AI Tafsir
-
-**Context:** Sa'id bin Jubayr, As-Suddi and others said that these Ayat were revealed concerning a delegation that An-Najashi (King of Ethiopia) sent to the Prophet ﷺ in order to hear his words and observe his qualities.
-
-**What this ayah teaches:** Therefore, its legal force covers and includes all such Christians who are devoted to truth and justice similar to the people of Ethiopia. And we wish that our Lord will admit us along with the righteous people.
-
-**Classical tafsir:** Ibn Kathir notes: 'Ata' bin Abi Rabah commented, "They were Ethiopians who embraced Islam when the Muslims who migrated to Ethiopia resided among them." Qatadah said, "They were some followers of the religion of 'Isa, son of Maryam, who when they saw Muslims and heard the Qur'an, they became Muslims without hesitatio… The word Ruhban refers to one dedicated to worship.
 ## Personal Reflections
-
 

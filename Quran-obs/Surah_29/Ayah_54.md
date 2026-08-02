@@ -99,11 +99,5 @@ In this narration, the act of writing has been attributed to the Holy Prophet ï·
 
 They urge you to hasten punishment. Hell will encompass those who rejected the truth
 
-## AI Tafsir
-
-**What this ayah teaches:** How the Idolators asked for the Torment to be hastened on Allah tells us of the ignorance of the idolators and how they asked for the punishment of Allah to be hastened so that it would befall them quickly. And they ask you to hasten on the torment, and had it not been for a term appointed, the torment would certainly have come to them.
-
-**Classical tafsir:** Ibn Kathir notes: How the Idolators asked for the Torment to be hastened on Allah tells us of the ignorance of the idolators and how they asked for the punishment of Allah to be hastened so that it would befall them quickly.
 ## Personal Reflections
-
 

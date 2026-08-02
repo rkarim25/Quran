@@ -104,11 +104,5 @@ Historical chronicles report that he is a cousin of Sayyidna Ilyas (علیہ ا�
 
 the Gardens of Eternity, whose gates will be open for them.
 
-## AI Tafsir
-
-**What this ayah teaches:** And verily, for those who have Taqwa is a good final return (49)'Adn Paradise, whose doors will be opened for them (50)Therein they will recline; therein they will call for fruits in abundance and drinks (51)And beside them will be Qasirat-at-Tarf, (and) of equal ages (52)This it is what you are promised for the Day of Reckoning (53)(It will be said to them)!
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

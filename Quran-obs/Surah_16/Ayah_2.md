@@ -145,11 +145,5 @@ The word: رُوح (ruh: spirit) as used in this verse, according to Sayyidna ib
 
 He sends down the angels with revelation by His command to whomever He wills of His servants, saying: Warn humanity that none is worthy of worship except Me, so live with taqwa toward Me alone.
 
-## AI Tafsir
-
-**What this ayah teaches:** Literally (the nuance of the original expression remaining untranslatable), the sense is that issued is the command of Allah, that is, it is bound to come which you will soon see.
-
-**Classical tafsir:** Ibn Kathir notes: Literally (the nuance of the original expression remaining untranslatable), the sense is that issued is the command of Allah, that is, it is bound to come which you will soon see.
 ## Personal Reflections
-
 

@@ -136,11 +136,5 @@ Allah Ta` ala has, in His great design, made this world of ours an open gallery 
 
 When Our messenger-angels came to Lot, he was distressed and worried by their arrival. He said, “This is a terrible day.”
 
-## AI Tafsir
-
-**What this ayah teaches:** And when Our messengers came to Lut, he was grieved on account of them and was concerned for them.
-
-**Classical tafsir:** Ibn Kathir notes: Their appearance saddened him (Lut) and he felt grief in his soul because of them.
 ## Personal Reflections
-
 

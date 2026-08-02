@@ -78,13 +78,5 @@ This also explains the meaning of another Qur'anic verse in which the believers 
 
 Whoever Allah guides is truly guided. And whoever He leaves to stray, they are the losers.
 
-## AI Tafsir
-
-**What this ayah teaches:** Whomsoever Allah guides, he is the guided one, and whomsoever He sends astray, – then those!
-
-**Classical tafsir:** Ibn Kathir notes: This also explains the meaning of another Qur'anic verse in which the believers are promised to receive from their Lord their reward.
-
-**From the Sunnah:** I bear witness that there is no deity worthy of worship except Allah without partners and that Muhammad is His servant and Messenger.) The complete Hadith was collected by Imam Ahmad and the collectors of Sunan and others. (Musnad Ahmad)
 ## Personal Reflections
-
 

@@ -157,13 +157,5 @@ In the cited verses (13 18), the Shaytan has been commanded to leave the heavens
 
 Allah asked, “What prevented you from prostrating when I commanded you?” He replied, “I am better than he is: You created me from fire and him from clay.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Shaytan, may Allah curse him, meant that he is better than Adam, "So how can You order me to prostrate before him?" Shaytan said that he is better than Adam because he was created from fire while, "You created him from clay, and fire is better." The cursed one looked at the origin of creation not at the honor bestowed, that is, Allah creating Adam with His Hand and blowing life…
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, Shaytan alone contradicted the angels, because he refused to prostrate.
-
-**From the Sunnah:** Ibn Jarir recorded that Al-Hasan commented on Shaytan's statement, Ibn Jarir recorded that Ibn Sirin said, "The first to use Qiyas was Iblis, and would the sun and moon be worshipped if it was not for Qiyas?" This statement also has an authentic chain of narration.
 ## Personal Reflections
-
 

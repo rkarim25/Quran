@@ -126,11 +126,5 @@ If we go by the second view of the commentators, who say that both 'earlier' and
 
 Then you, O misguided deniers,
 
-## AI Tafsir
-
-**What this ayah teaches:** Woe that Day to the deniers.)(77:29-34).
-
-**Classical tafsir:** Ibn Kathir notes: As-Suddi said "Al-Him is a disease that strikes camels, causing them to feel thirst, and they drink until they die." Therefore, he said, the people of Hell, will never quench their thirst from drinking Hamim.
 ## Personal Reflections
-
 

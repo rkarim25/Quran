@@ -118,13 +118,5 @@ They (the Companions) said, "Not even you O Messenger of Allah?" He replied,
 
 They will be told: 'Eat and drink joyfully for what you did in the days gone by.'
 
-## AI Tafsir
-
-**What this ayah teaches:** read my Record!) meaning, 'take my Book and read it.' He will say this because he knows that what is in it is good and purely virtuous deeds. In other words, one who is given his record book in his right hand, he will be elated and, looking at the people around him, will say 'Here, take my account book and read it!'
-
-**Classical tafsir:** Ibn Kathir notes: read my Record!) meaning, 'take my Book and read it.' He will say this because he knows that what is in it is good and purely virtuous deeds.
-
-**From the Sunnah:** He responded by saying that he heard the Messenger of Allah ﷺ saying, Paradise,) meaning, having elevated castles, beautiful wide-eyed maidens, pleasant stations and eternal joy.
 ## Personal Reflections
-
 

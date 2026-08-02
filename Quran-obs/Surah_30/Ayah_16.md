@@ -92,11 +92,5 @@ Commentary
 
 Those who rejected the truth, denied Our signs and meeting in the Akhirah — they will remain in punishment.
 
-## AI Tafsir
-
-**What this ayah teaches:** This word encompasses all types of delight, which the dwellers of paradise will draw from the bounties of Paradise.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

@@ -103,11 +103,5 @@ The word: تَطَيَّرْ‌ (tatayyur) in verse 18: قَالُوا إِنّ�
 
 The people replied, "We definitely see you as a bad omen for us. If you do not desist, we will certainly stone you and you will be touched with a painful punishment from us."
 
-## AI Tafsir
-
-**What this ayah teaches:** Nay, but you are a people mischievous.) means, 'because of us, because we admonished you and told you to worship Allah Alone and with all sincerity, and in return you said what you said and threatened us. It appears in some narrations that a famine had overtaken this town, because the people of the town had curtly turned down the good counsel of the messengers.
-
-**Classical tafsir:** Ibn Kathir notes: Nay, but you are a people mischievous.) means, 'because of us, because we admonished you and told you to worship Allah Alone and with all sincerity, and in return you said what you said and threatened us.
 ## Personal Reflections
-
 

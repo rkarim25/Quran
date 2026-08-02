@@ -256,13 +256,5 @@ Allah said,
 
 at the highest horizon,
 
-## AI Tafsir
-
-**Context:** He has been taught by one mighty in power (5)Dhu Mirrah then he Istawa (6)While he was in the highest part of the horizon (7)Then he approached and came closer (8)And was at a distance of two bows' length or less (9)So (…
-
-**What this ayah teaches:** So he stood poised, while he was on the upper horizon...53:6-7] The word mirrah means 'strength' or 'vigour'. Having descended, he sat or settled straight on the highest part of the horizon.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, this verifies the facts mentioned, leaving no doubt or means of refute.
 ## Personal Reflections
-
 

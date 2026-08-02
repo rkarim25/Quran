@@ -115,13 +115,5 @@ Allah condemns the idolators for worshipping others instead of Allah with no evi
 
 Or have We given them a Book before this Quran to which they are holding firm?
 
-## AI Tafsir
-
-**Context:** (Or have We revealed to them an authority (a Scripture), which speaks of that which they have been associating with Him?)(30:35) meaning, that did not happen. Then Allah says:
-
-**What this ayah teaches:** Or have We given them any Book before this (the Qur'an) to which they are holding fast (21)Nay! The Idolators have no Proof Allah condemns the idolators for worshipping others instead of Allah with no evidence or proof for doing so.
-
-**Classical tafsir:** Ibn Kathir notes: As such, there is consensus on this issue, but at the same time the manner of speech indicates that getting so much involved in adornment that one is busy in it the whole day long, is not proper; it is not only a symptom of one's being short-sighted, but also a cause of it.
 ## Personal Reflections
-
 

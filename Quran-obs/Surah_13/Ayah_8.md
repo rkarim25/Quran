@@ -160,11 +160,5 @@ Said in the last sentence of verse وَكُلُّ شَيْءٍ عِندَهُ ب
 
 Allah knows what every female carries and what wombs fall short of or exceed. With Him everything is measured with precision.
 
-## AI Tafsir
-
-**What this ayah teaches:** Everything with Him is in (due) proportion (8)All-Knower of the unseen and the seen, the Most Great, the Most High .
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

@@ -150,13 +150,5 @@ Rates of Zakah are Specified by Allah
 
 knowing that none should feel secure from their Lord's punishment—
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, man was created very impatient (19)Apprehensive when evil touches him (20)And suppressive when good touches him (21)Except those who are devoted to Salah (22)Those who with their Salah are Da'imun (23)And those in whose wealth there is a recognized right (24)For the one who asks, and for the deprived (25)And those who believe in the Day of Recompense (26)And those who f…
-
-**Classical tafsir:** Ibn Kathir notes: It has also been said that the meaning here refers to those who perform a deed and are constant in its performance and consistent in it.
-
-**From the Sunnah:** This is like what is reported in the authentic Hadith, (authentic hadith)
 ## Personal Reflections
-
 

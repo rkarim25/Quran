@@ -109,13 +109,5 @@ There are people around who would like to deceive the whole world by saying that
 
 We certainly revealed the Reminder, and We will certainly preserve it.
 
-## AI Tafsir
-
-**What this ayah teaches:** This also leads us to the ruling that the practice of people who publish the translation of the Qur’ an only in a foreign language and give it the name, for example, an English Qur’ an or an Urdu Qur’ an, is not permissible at all - because, that is not the Qur’ an.
-
-**Classical tafsir:** Ibn Kathir notes: This also leads us to the ruling that the practice of people who publish the translation of the Qur’ an only in a foreign language and give it the name, for example, an English Qur’ an or an Urdu Qur’ an, is not permissible at all - because, that is not the Qur’ an.
-
-**From the Sunnah:** To test him, Ma'mun asked him to become a Muslim in which case he could hope to have the best possible treatment from him.
 ## Personal Reflections
-
 

@@ -107,11 +107,5 @@ The statement '[ We ] have made them [ stars ] devices to stone the devils' prob
 
 Those who disbelieve in their Rabb will suffer the punishment of Hell. What an evil destination.
 
-## AI Tafsir
-
-**What this ayah teaches:** And for those who disbelieve in their Lord is the torment of Hell, and worst indeed is that destination (6)When they are cast therein, they will hear its Shahiq while it is simmering (7)It almost bursts up with fury.
-
-**Classical tafsir:** Ibn Kathir notes: The word 'masabih' (translated above as 'lamps' ) stands for 'stars'.
 ## Personal Reflections
-
 

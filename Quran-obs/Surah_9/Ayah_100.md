@@ -162,13 +162,5 @@ People who criticize some revered Sahabah on the basis of what transpired during
 
 As for the foremost—the first of the Emigrants and the Helpers—and those who follow them in goodness, Allah is pleased with them and they are pleased with Him. And He has prepared for them Gardens under which rivers flow, to stay there for ever and ever. That is the ultimate triumph.
 
-## AI Tafsir
-
-**What this ayah teaches:** Some consider ` the first and foremost' from among the noble Companions to be those who have offered their Salah by turning to both the Qiblahs, that is, those who had embraced Islam before the change of Qiblab were ` the first and foremost.' This is the view of Said ibn almusayyab and Qatadah.
-
-**Classical tafsir:** Ibn Kathir notes: Abu Musa Al-Ash'ari, Sa'id bin Al-Musayyib, Muhammad bin Sirin, Al-Hasan and Qatadah said that they are those who performed the prayer towards the two Qiblahs with the Messenger of Allah ﷺ [first toward Jerusalem and later toward the Ka'bah].
-
-**From the Sunnah:** Abu Musa Al-Ash'ari, Sa'id bin Al-Musayyib, Muhammad bin Sirin, Al-Hasan and Qatadah said that they are those who performed the prayer towards the two Qiblahs with the Messenger of Allah ﷺ [first toward Jerusalem and later toward the Ka'bah].
 ## Personal Reflections
-
 

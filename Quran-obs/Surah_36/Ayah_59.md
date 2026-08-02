@@ -73,11 +73,5 @@ In verse 59, it was said: وَامْتَازُوا الْيَوْمَ أَيُّ
 
 Then the deniers will be told, "Step away from the believers this Day, O wicked ones!
 
-## AI Tafsir
-
-**What this ayah teaches:** The Isolation of the those who reject the truth and Their Rebuke on the Day of Resurrection Allah tells us what the end of the those who reject the truth will be on the Day of Resurrection, when He commands them to get apart from the believers, i.e., to stand apart from the believers.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

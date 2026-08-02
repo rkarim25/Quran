@@ -100,11 +100,5 @@ Some commentators have taken the word: صَبَّارٍ‌ (Sabbar: very patient
 
 Iblis's assumption about them came true: they followed him, all except a group of true believers.
 
-## AI Tafsir
-
-**What this ayah teaches:** And indeed Iblis did prove true his thought about them, and they followed him, all except a group of true believers (20)And he had no authority over them, – except that We might test him who believes in the Hereafter, from him who is in doubt about it.
-
-**Classical tafsir:** Ibn Kathir notes: Because of this divergence, Banu ` Uthman were given the title of Khuza'ah.
 ## Personal Reflections
-
 

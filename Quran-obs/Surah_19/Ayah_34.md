@@ -147,13 +147,5 @@ The phrase قَوْلَ الْحَقِّ (translated in the text as 'the word of
 
 That is Jesus, son of Mary—a word of truth about which they dispute.
 
-## AI Tafsir
-
-**What this ayah teaches:** That is the straight path.) Among those things which 'Isa said to his people while he was in his cradle is that Allah was his Lord and their Lord, and he commanded them to worship Him alone.
-
-**Classical tafsir:** Ibn Kathir notes: That is the straight path.) Meaning, "That which I have come to you with from Allah is the straight path." This means that the path is correct; whoever follows it will be rightly guided and whoever opposes it will deviate and go astray.
-
-**From the Sunnah:** This has been related in a Hadith collected in the Two Sahihs,
 ## Personal Reflections
-
 

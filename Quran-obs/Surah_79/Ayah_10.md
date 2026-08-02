@@ -199,11 +199,5 @@ The Holy Prophet ﷺ used to be hurt by the stubbornness of the obdurate rejecte
 
 They mock, 'Will we really be restored to our former state,
 
-## AI Tafsir
-
-**What this ayah teaches:** The statement that 'the soul is in ` Alam-ul-arwah or ` illiyyun' is also true, because the 'soul' in this context refers to ruh mujarrad or 'abstract spirit'. Thus the statement that 'the soul is in the grave' is true in the sense that 'soul' in this context refers to the bodily soul.
-
-**Classical tafsir:** Ibn Kathir notes: The statement that 'the soul is in ` Alam-ul-arwah or ` illiyyun' is also true, because the 'soul' in this context refers to ruh mujarrad or 'abstract spirit'.
 ## Personal Reflections
-
 

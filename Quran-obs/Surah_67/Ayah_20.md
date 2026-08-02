@@ -186,11 +186,5 @@ Then the next verse warns the disbelievers that the sustenance Allah grants them
 
 What force will help you besides the Rahman? The those who reject the truth are lost in delusion.
 
-## AI Tafsir
-
-**What this ayah teaches:** The those who reject the truth are in nothing but delusion (20)Who is it that can provide for you if He should withhold His provision?
-
-**Classical tafsir:** Ibn Kathir notes: This means that it will surround them and Allah will command what they were not able to reckon or fully comprehend to come to them.
 ## Personal Reflections
-
 

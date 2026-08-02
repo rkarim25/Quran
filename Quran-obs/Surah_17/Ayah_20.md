@@ -110,13 +110,5 @@ Explaining the word: سَعْيَهَا (as due), Tafsir Ruh al-Ma’ ani says t
 
 We provide both the former and the latter from the bounty of your Rabb. And the bounty of your Rabb can never be withheld.
 
-## AI Tafsir
-
-**What this ayah teaches:** Therefore, even well meaning efforts made by insisting on bland personal opinion and self-invented ways - which includes common customs of Bid'ah (innovations in established religion) - no matter how good and beneficial they may appear at their face, but are not appropriate to the effort made for the Hereafter.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, even well meaning efforts made by insisting on bland personal opinion and self-invented ways - which includes common customs of Bid'ah (innovations in established religion) - no matter how good and beneficial they may appear at their face, but are not appropriate to th…
-
-**From the Sunnah:** Paradise, with its blessings and delights.
 ## Personal Reflections
-
 

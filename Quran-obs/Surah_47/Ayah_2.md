@@ -158,13 +158,5 @@ The word " بال (bal) in وَأَصْلَحَ بَالَهُمْ "…and will 
 
 As for those who have iman, do righteous deeds, and trust what was revealed to Muhammad—which is the truth from their Rabb—He will wipe away their sins and set their condition right.
 
-## AI Tafsir
-
-**What this ayah teaches:** But those who believe and do righteous good deeds, and believe in that which is sent down to Muhammad – for it is the truth from their Lord – He expiates from them their sins and amends their Bal.)(3.
-
-**Classical tafsir:** Ibn Kathir notes: Those who disbelieve and hinder (men) from the path of Allah, He will render their deeds vain.)(2.
-
-**From the Sunnah:** It has been mentioned (from the Prophet ﷺ) in the Hadith of the responding to one who sneezes,
 ## Personal Reflections
-
 

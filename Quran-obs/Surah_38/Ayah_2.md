@@ -129,11 +129,5 @@ Finally, the Holy Prophet ﷺ said, 'My dear uncle, should I not be inviting the
 
 This is the truth—yet those who reject it are entrenched in arrogance and stubborn opposition.
 
-## AI Tafsir
-
-**What this ayah teaches:** Then Allah scares them with news of how the nations who came before them were destroyed because of their opposition to the Messengers and their disbelief in the Scriptures that were revealed from heaven.
-
-**Classical tafsir:** Ibn Kathir notes: There is no contradiction between the two views, because it is a noble Book which includes reminders and leaves no excuse and brings warnings.
 ## Personal Reflections
-
 

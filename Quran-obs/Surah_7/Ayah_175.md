@@ -175,11 +175,5 @@ The Holy Qur'an used the expression of 'wriggling out' for Bal'am's disregard to
 
 And relate to them the story of the one to whom We gave Our signs, but he abandoned them, so Satan took hold of him, and he became a deviant.
 
-## AI Tafsir
-
-**Context:** "Is about Bal'am bin Ba'ura' a man from the Children of Israel." Shu'bah and several other narrators narrated this statement from Mansur who got it from Ibn Mas'ud.
-
-**What this ayah teaches:** And recite to them the story of him to whom We gave Our Ayat, but he threw them away; so Shaytan followed him up, and he became of those who went astray (175)And had We willed, We would surely have elevated him therewith, but he clung to the earth and followed his own vain desires.
 ## Personal Reflections
-
 

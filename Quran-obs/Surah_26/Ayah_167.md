@@ -97,11 +97,5 @@ In the phrase مِّنْ أَزْوَاجِكُم the word مِّنْ (min) Min 
 
 They threatened, “If you do not desist, O Lot, you will surely be expelled.”
 
-## AI Tafsir
-
-**What this ayah teaches:** "Go you in unto the males of Al-'Alamin (people), (165)"And leave those whom Allah has created for you to be your wives? Thus according to this second interpretation, it has also been made clear that it is not permitted to have unnatural intercourse with one's wife.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

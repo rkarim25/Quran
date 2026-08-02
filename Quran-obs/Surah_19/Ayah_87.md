@@ -110,11 +110,5 @@ Sayyidna Ibn ` Abbas ؓ has said that عَھد means a declaration of firm belie
 
 None will intercede except those granted permission by the Rahman.
 
-## AI Tafsir
-
-**What this ayah teaches:** A Wafd (delegation) is a group that arrives while riding and from it comes the word Wufud (arriving). In brief only those people will have the permission to intercede with Allah who stand firm by their covenant to adhere to the true faith.
-
-**Classical tafsir:** Ibn Kathir notes: Allah explains that He will gather these people on the Day of Resurrection like a delegation that has come to Him.
 ## Personal Reflections
-
 

@@ -136,11 +136,5 @@ The first verse begins with a profile of the hypocrites. One of the expressions 
 
 Allah has promised the those living in nifaq—outward acceptance with inward rejection, both men and women, and those who reject the truth an everlasting stay in the Fire of Hell—it is sufficient for them. Allah has condemned them, and they will suffer a never-ending punishment.
 
-## AI Tafsir
-
-**What this ayah teaches:** Allah has cursed them and for them is the lasting torment .
-
-**Classical tafsir:** Ibn Kathir notes: So, the sense at this place is: ` those people had abandoned the commandments of Allah, as if they had forgotten it, therefore, Allah too abandoned their prospects of better life in the Hereafter, to the extent that there remained just no trace of any good, or reward, in their na…
 ## Personal Reflections
-
 

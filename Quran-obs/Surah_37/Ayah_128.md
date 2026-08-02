@@ -78,13 +78,5 @@ In verse 128, it was said: إِلَّا عِبَادَ اللَّـهِ الْم
 
 But not the chosen servants of Allah.
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, he was one of Our believing servants.) We have already discussed the meaning of this above. Hence, it would be more appropriate to translate it in the sense of 'the chosen' rather than 'sincere.'
-
-**Classical tafsir:** Ibn Kathir notes: 'Ikrimah and Qatadah said, "This is the language of the people of Yemen." According to another report from Qatadah, it is the language of Azd Shanu'ah.
-
-**From the Sunnah:** Qatadah and Muhammad bin Ishaq said, "Ilyas is another name for Idris." Ibn Abi Hatim recorded that 'Abdullah bin Mas'ud, may Allah be pleased with him, said, "Ilyas is Idris." This was also the view of Ad-Dahhak .
 ## Personal Reflections
-
 

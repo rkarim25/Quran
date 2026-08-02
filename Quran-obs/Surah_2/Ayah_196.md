@@ -616,22 +616,5 @@ The verse 196 ends up with the words 'Fear Allah' which is a command to adopt Ta
 
 Complete Hajj and Umrah for Allah. If prevented, offer whatever sacrifice you can afford. Do not shave your heads until the sacrifice reaches its place. Whoever is ill or has a scalp ailment may compensate by fasting, charity, or sacrifice. In peace, combine Hajj and Umrah and offer what you can afford. Whoever cannot afford it should fast three days during pilgrimage and seven after returning — ten in all. This is for those who do not live near the Sacred House. Live with taqwa, and know that Allah is severe in punishment.
 
-## AI Tafsir
-
-**Essence**
-Complete the Hajj and 'Umrah purely for Allah — and when the road is blocked, His law turns the closed door into a mercy of ransom and ease.
-
-**What it teaches**
-"And complete (atimmu) the Hajj and 'Umrah for Allah" commands that once you begin these rites by entering Ihram, finishing them becomes obligatory (wajib) — like a voluntary prayer or fast, which must be completed once started. If you are "prevented" (uhsira) from reaching the House, you offer whatever sacrificial animal (hady) you can afford and may then exit Ihram; and shaving the head — the signal of release — is forbidden until the hady reaches its place of slaughter. The ayah closes with taqwa: a vigilant consciousness that fears and abstains from crossing the limits Allah has set.
-
-**The scholars**
-Ibn Kathir: the scholars agree that whoever starts Hajj or 'Umrah must finish them. "If you are prevented" was revealed in the year of Al-Hudaybiyyah (6 AH), when Quraysh barred the Prophet (peace be upon him) and his Companions — one thousand four hundred of them — from the House; Allah let them slaughter their hady outside the Haram (they had seventy camels, every seven sharing one) and shave there. The hady includes camels, cows, goats, and sheep; Ibn 'Abbas, the cousin of the Messenger and scholar of tafsir, held that even a single sheep suffices when one is prevented. Maarif ul Quran: "if you are restricted" is worded so generally that Abu Hanifah and others ruled it covers an enemy and sickness alike — yet the Prophet's own practice shows the missed rite must still be performed later as qada', for he and the Companions made up the 'Umrah the next year. For tamattu' (joining 'Umrah to Hajj), one offers a hady in gratitude, or fasts three days during Hajj and seven on return — ten in all; this concession is for those whose family does not live near the Sacred House, while the people of Makkah do not perform tamattu' (Tawus, and likewise Ibn 'Abbas). The closing warning means Allah's punishment is severe for whoever knowingly defies His command.
-
-**From the Sunnah**
-At Hudaybiyyah the Prophet (peace be upon him) prayed for those who shaved: "May Allah award His mercy to those who shaved." Asked about those who only shortened their hair, he repeated it for them on the third time. (Tafsir Ibn Kathir) — When lice fell in great numbers over Ka'b ibn 'Ujrah's face in Ihram, the Prophet (peace be upon him) granted relief: shave, then ransom it by fasting three days, feeding six poor persons, or sacrificing a sheep — a general ruling drawn from one man's case. Ibn Kathir notes the order: the Qur'an lists the lightest option first (fasting, then feeding, then sacrifice), while the Prophet counselled Ka'b with the most rewarding first — sacrifice, then feeding, then fasting — "each text suitable in its place." (Sahih al-Bukhari, as cited in Tafsir Ibn Kathir)
-
-**Reflection**
-Begin every act of worship intending to finish it for Allah alone, and trust that when He blocks your path, His law has already woven a way of ease.
 ## Personal Reflections
-
 

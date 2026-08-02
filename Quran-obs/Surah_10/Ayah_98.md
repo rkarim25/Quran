@@ -235,13 +235,5 @@ In this story, as for parts that have been mentioned in the Qur'an, or stand pro
 
 If only there had been a society which believed before seeing the torment and, therefore, benefited from its belief, like the people of Jonah. When they believed, We lifted from them the torment of disgrace in this dunya and allowed them enjoyment for a while.
 
-## AI Tafsir
-
-**What this ayah teaches:** It is in that spirit that it was said: How would they not become such as would have believed at a time when believing is acceptable and beneficial?
-
-**Classical tafsir:** Ibn Kathir notes: So, they said, let that person show himself up so that others do not suffer because of one person.
-
-**From the Sunnah:** protection from other sins. (Sahih Muslim) If there were something somewhere even in the Qur'an, and Hadith, seemingly contrary to the established principles of Qur'an, and Sunnah, and the collective Muslim belief in prophets being protected from sins, it would have been necessary to interpret it in a… (Sahih Muslim)
 ## Personal Reflections
-
 

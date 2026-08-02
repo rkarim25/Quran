@@ -99,11 +99,5 @@ The third evil quality denounced severely in this Surah is greed, that is, the s
 
 Never! He will surely be thrown into al-Hutamah—the Crusher.
 
-## AI Tafsir
-
-**What this ayah teaches:** He thinks that his wealth will make him last forever!)(4. This means that the person finds fault with people and belittles them.
-
-**Classical tafsir:** Ibn Kathir notes: This means that the person finds fault with people and belittles them.
 ## Personal Reflections
-
 

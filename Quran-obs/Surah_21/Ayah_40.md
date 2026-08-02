@@ -124,11 +124,5 @@ These miracles also occurred during the battle of Badr (غزوہ بدر) when th
 
 In fact, the Hour will take them by surprise, leaving them stunned. So they will not be able to avert it, nor will it be delayed from them.
 
-## AI Tafsir
-
-**What this ayah teaches:** The word is used in situations when one desires things to happen before their time, and this trait is bad by its very nature. The Idolators seek to hasten on the Punishment Allah also tells us how the idolators seek to hasten punishment upon themselves, out of denial, rejection, disbelief, stubbornness and a belief that it will never happen.
-
-**Classical tafsir:** Ibn Kathir notes: The word is used in situations when one desires things to happen before their time, and this trait is bad by its very nature.
 ## Personal Reflections
-
 

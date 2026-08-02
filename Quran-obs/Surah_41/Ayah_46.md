@@ -144,11 +144,5 @@ Then Allah says:
 
 Whoever does good, it is to their own benefit. Whoever does evil, it is to their own loss. Your Lord is never unjust to His creation.
 
-## AI Tafsir
-
-**What this ayah teaches:** And your Lord is not at all unjust to (His) servants (46)To Him is referred the knowledge of the Hour.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore ` ajamiyy is a person who is non-Arab, even though he may speak eloquently, and a'jamiyy is a person who cannot speak eloquently (Qurtubi).
 ## Personal Reflections
-
 

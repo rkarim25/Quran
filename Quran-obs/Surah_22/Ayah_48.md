@@ -112,13 +112,5 @@ There is a verse in Surah Al-Ma'arij which says that the day with your Lord will
 
 Many are the societies whose end We delayed while they did wrong, then seized them. And to Me is the final return.
 
-## AI Tafsir
-
-**What this ayah teaches:** Just as we see in our world that the length of day and night is different on different horizons, (on zero latitude it is of 24 hours while at the latitude of 900 it is one year.
-
-**Classical tafsir:** Ibn Kathir notes: The first meaning is that the verse refers to the Day of Resurrection and the events which will take place on that day will be so horrifying and of such extreme severity that the day will appear never to end, as if it was equal to one thousand years according to our reckoning.
-
-**From the Sunnah:** And to Me is the (final) return (of all).) Ibn Abi Hatim recorded from Abu Hurayrah that the Messenger of Allah ﷺ said: Paradise half a day before the rich – five hundred years. (Jami' at-Tirmidhi, Sunan an-Nasa'i)
 ## Personal Reflections
-
 

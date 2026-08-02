@@ -117,11 +117,5 @@ The reason is that they were first asked to bring ten Surahs. They failed to do 
 
 But if your helpers fail you, then know that it has been revealed with the knowledge of Allah, and that there is none worthy of worship of worship except Him! Will you not then submit to Allah?
 
-## AI Tafsir
-
-**What this ayah teaches:** There is no deity worthy of worship except He and there is no true Lord other than He.
-
-**Classical tafsir:** Ibn Kathir notes: So perchance you may give up a part of what is revealed unto you, and that your breast feels straitened for it because they say, "Why has not a treasure been sent down unto him, or an angel come with him" But you are only a warner.
 ## Personal Reflections
-
 

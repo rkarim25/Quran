@@ -165,11 +165,5 @@ It means that the Makkans live in a land where there is neither any cultivation 
 
 Have they not travelled the land and seen the end of those before them? They were mightier, cultivated the land, and developed it more. Their messengers came with clear proofs. Allah did not wrong them; they wronged themselves.
 
-## AI Tafsir
-
-**What this ayah teaches:** It means that the Makkans live in a land where there is neither any cultivation and industry nor any tall and beautiful buildings, but for the sake of trade they do travel to Syria and Yemen.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

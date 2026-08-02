@@ -184,13 +184,5 @@ Abu Hayyan in his Tafsir Al-Bahr-al Muhit has included the following event under
 
 They complained, “We have always been oppressed—before and after you came to us.” He replied, “Perhaps your Rabb will destroy your enemy and make you successors in the land to see what you will do.”
 
-## AI Tafsir
-
-**Context:** Abu Hayyan in his Tafsir Al-Bahr-al Muhit has included the following event under the comments on this verse: ` Amr ibn ` Ubaid once visited Mansur, the second caliph of the Abbaside dynasty, prior to his designation to c…
-
-**What this ayah teaches:** He had tormented them [killing every newly born male] before Musa was born, so that Musa would not live. Rather, Fir'awn and his people are the mischief-makers, but they did not realize it.
-
-**Classical tafsir:** Ibn Kathir notes: He had tormented them [killing every newly born male] before Musa was born, so that Musa would not live.
 ## Personal Reflections
-
 

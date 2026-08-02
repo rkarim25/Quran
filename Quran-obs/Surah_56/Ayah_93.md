@@ -140,13 +140,5 @@ This is the end of the Tafsir of Surat Al-Waqi'ah, all praise and thanks are due
 
 then hospitality of boiling water
 
-## AI Tafsir
-
-**What this ayah teaches:** But if he is one of the People of the Left hand, the deniers and the deviant ones, then he will be in the blazing fire of Hell where he will be served with boiling water to drink.
-
-**Classical tafsir:** Ibn Kathir notes: Abu Hazrah said that Rawh means: "Rest from the world." Sa'id bin Jubayr and As-Suddi said that it means to rejoice. Ibn 'Abbas, Mujahid and Sa'id bin Jubayr said that Rayhan means provisions.
-
-**From the Sunnah:** I heard him say, 'So-and-so narrated to me that he heard the Messenger of Allah ﷺ say, (Musnad Ahmad) This is the narration that Imam Ahmad collected; and in the Sahih, there is a Hadith with this meaning collected from 'A'ishah. (Musnad Ahmad)
 ## Personal Reflections
-
 

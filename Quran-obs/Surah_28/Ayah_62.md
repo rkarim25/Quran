@@ -130,11 +130,5 @@ The very first question infidels and disbelievers will be asked at the Tumultuou
 
 Watch for the Day He will call to them, “Where are those you claimed were My claimed gods?”
 
-## AI Tafsir
-
-**What this ayah teaches:** How did you deal with them?' This is like the questions which will be asked of a person in his grave: 'who is your Lord?
-
-**Classical tafsir:** Ibn Kathir notes: Commentary The very first question infidels and those who reject the truth will be asked at the Tumultuous Place (mahshar) will be about shirk (associating someone else with Allah), that is, ` where are those Shaitans today whom you used to associate with Us?
 ## Personal Reflections
-
 

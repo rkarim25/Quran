@@ -243,13 +243,5 @@ The Qur'anic proclamation of the withdrawal of Hijrah year 9 and the ensuing ins
 
 A declaration from Allah and His Messenger to all people on the day of the greater pilgrimage that Allah and His Messenger are free of the polytheists. So if you repent, it will be better for you. But if you turn away, then know that you will have no escape from Allah. And give good news to those who reject the truth of a painful punishment.
 
-## AI Tafsir
-
-**Context:** Muhammad bin Ishaq reported a narration from Abu Ja'far Muhammad bin 'Ali bin Al-Husayn who said, "When Bara'ah was revealed to Allah's Messenger ﷺ, and he had sent Abu Bakr to oversee the Hajj rites for the people, he w…
-
-**What this ayah teaches:** So if you repent, it is better for you, but if you turn away, then know that you cannot escape Allah.
-
-**Classical tafsir:** Ibn Kathir notes: The lesson was: if they overpower an enemy who stands helpless before them, they should not seek revenge from that enemy for his past hostilities.
 ## Personal Reflections
-
 

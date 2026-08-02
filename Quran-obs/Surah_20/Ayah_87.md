@@ -169,13 +169,5 @@ The word فَقَذَفنٰھَا - means, "we cast away the ornaments". Accordi
 
 They argued, “We did not break our promise to you of our own free will, but we were made to carry the burden of the people’s golden jewellery, then we threw it into the fire, and so did the Sâmiri.”
 
-## AI Tafsir
-
-**What this ayah teaches:** They said: "This is your Allah, and the Allah of Musa," but he had forgotten (88)Did they not see that it could not return them a word (for answer), and that it had no power either to harm them or to do them good .
-
-**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas said, "Nay, by Allah, the moaning sound of the calf was nothing but wind that would enter into its behind and come out of its mouth, thus causing it to make a sound." In a Hadith of Al-Fitun recorded from Al-Hasan Al-Basri, it is mentioned that this calf's name was Bahmut.
-
-**From the Sunnah:** When does the property of infidels become lawful for the Muslims? The non-Muslims who live in a Muslim state and abide by its laws they are known as Dhimmis. (Sahih Muslim)
 ## Personal Reflections
-
 

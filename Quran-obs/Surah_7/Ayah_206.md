@@ -128,15 +128,5 @@ Surah al-A` raf ends here. Its last verse is an Ayah of Sajdah (requiring the pe
 
 Surely those nearest to your Rabb are not too proud to worship Him. They glorify Him. And to Him they prostrate.
 
-## AI Tafsir
-
-**Context:** Before the night of Isra', when the five daily prayers were ordained, this Ayah was revealed in Makkah ordering that Allah be worshipped at these times, Allah said next,
-
-**What this ayah teaches:** Prostration, here, upon the mention that the angels prostrate to Allah is legitimate.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, it is recommended that remembering Allah in Dhikr is not performed in a loud voice.
-
-**From the Sunnah:** Paradise became his home, and I was asked to prostrate in Sajdah and when I disobeyed, Hell became my home. (Sahih Muslim)
 ## Personal Reflections
-
 

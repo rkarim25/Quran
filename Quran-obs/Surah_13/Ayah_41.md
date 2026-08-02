@@ -118,13 +118,5 @@ In verse وَإِن مَّا نُرِ‌يَنَّكَ بَعْضَ الَّذِ
 
 Do they not see that We gradually reduce their land from its borders? Allah decides—none can reverse His decision. He is swift in reckoning.
 
-## AI Tafsir
-
-**What this ayah teaches:** Whether We show you part of what We have promised them or cause you to die, your duty is only to convey (the Message) and on Us is the reckoning (40)See they not that We gradually reduce the land from its outlying borders. And Allah judges, there is none to put back His judgement, and He is swift at reckoning .
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** ` For your peace of heart, even this much is enough that you are continuously witnessing that We are causing the lands of the dis-believers to keep being sliced off their sides,' that is, these sides pass on under Muslim control whereby the land occupied by th… (Sahih Muslim)
 ## Personal Reflections
-
 

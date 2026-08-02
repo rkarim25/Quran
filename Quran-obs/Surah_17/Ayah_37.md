@@ -124,13 +124,5 @@ And speaking from the pulpit, Sayyidna ` Umar ؓ said, "I have heard from the Ho
 
 And do not walk on the earth arrogantly. Surely you can neither crack the earth nor stretch to the height of the mountains.
 
-## AI Tafsir
-
-**What this ayah teaches:** Indeed, such behavior may bring about the opposite of what one pretends to be, as was reported in the Sahih: "While a man from the people before you was walking arrogantly in his garments, the earth swallowed him and he is still sinking down into it, until the Day of Resurrection." Allah also tells us about Qarun, who went to his people wearing his finery, then Allah caused the…
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, one must guard against even signs of arrogance exhibited through the way one goes about in life, for they too are impermissible, after all.
-
-**From the Sunnah:** Paradise is he who has arrogance in his heart even to the measure of a particle" (Mazhari with reference to the Sahih of Muslim). (Sahih Muslim)
 ## Personal Reflections
-
 

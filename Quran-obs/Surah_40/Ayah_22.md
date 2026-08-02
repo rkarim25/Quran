@@ -123,11 +123,5 @@ In verse 19, it was said: يَعْلَمُ خَائِنَةَ الْأَعْيُ
 
 That was because their messengers came to them with clear proofs, but they persisted in rejection. So Allah seized them. Surely He is All-Powerful, severe in punishment.
 
-## AI Tafsir
-
-**What this ayah teaches:** And none had they to protect them from Allah (21)That was because there came to them their Messengers with clear evidences but they disbelieved (in them). Yet despite this great strength, Allah punished them for their sin, which was their disbelief in their Messengers.
-
-**Classical tafsir:** Ibn Kathir notes: And none had they to protect them from Allah (21)That was because there came to them their Messengers with clear evidences but they disbelieved (in them).
 ## Personal Reflections
-
 

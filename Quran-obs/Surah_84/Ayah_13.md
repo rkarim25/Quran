@@ -172,13 +172,5 @@ In other words, they lived among their families and yet were fearful and conscio
 
 They lived carefree among their people,
 
-## AI Tafsir
-
-**What this ayah teaches:** One of the reasons given here for his misery is that he used to live joyfully among his people in the world, and he was completely oblivious of the Hereafter. And he shall enter a blazing Fire, and made to taste its burning.)(13.
-
-**Classical tafsir:** Ibn Kathir notes: This means that he will not be investigated for all the minute details of his deeds.
-
-**From the Sunnah:** Then when he completed the prayer, he informed them that the Messenger of Allah ﷺ prostrated during its recitation. (Sahih Muslim, Sunan an-Nasa'i) from Abu Rafi' that he prayed the Night prayer with Abu Hurayrah) recited, (Sahih al-Bukhari)
 ## Personal Reflections
-
 

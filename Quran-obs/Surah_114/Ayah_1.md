@@ -118,13 +118,5 @@ Verse [ 114:1] قُلْ أَعُوذُ بِرَ‌بِّ النَّاسِ Say, (
 
 Say: I seek refuge in the Rabb of humanity—the One who owns and cares for every human being, regardless of tribe, passport, or status.
 
-## AI Tafsir
-
-**What this ayah teaches:** In the present Surah, we are to seek refuge from the evil that is the cause of all sins, namely, the whisperings and insinuations of Shaitan.
-
-**Classical tafsir:** Ibn Kathir notes: This is because they (the Jinns) are also included in the usage of the word An-Nas (the people) in most cases.
-
-**From the Sunnah:** It is also confirmed in the Two Sahihs from Anas, who reported the story of Safiyyah when she came to visit the Prophet ﷺ while he was performing I'tikaf, that he went out with her during the night to walk her back to her house.
 ## Personal Reflections
-
 

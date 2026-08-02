@@ -171,13 +171,5 @@ Allah then mentions the legal reasons that allow one to be excused from joining 
 
 No blame rests on the blind, the lame, or the sick for staying behind. Whoever obeys Allah and His Messenger will be admitted into Gardens beneath which rivers flow. Whoever turns away will suffer a painful punishment.
 
-## AI Tafsir
-
-**Context:** “ And if you turn away, as you had turned away before, He will punish you with a painful punishment. [ 48:16] " they expressed their concern about the warning.
-
-**What this ayah teaches:** And whosoever obeys Allah and His Messenger, He will admit him to Gardens beneath which rivers flow; and whosoever turns back, He will punish him with a painful torment .
-
-**Classical tafsir:** Ibn Kathir notes: In another narration Mujahid said, "They are men given to great warfare," and did not specify any particular people.
 ## Personal Reflections
-
 

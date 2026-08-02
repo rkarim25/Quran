@@ -202,11 +202,5 @@ In brief, if they fail to desist from their tyranny and disbelief, the injunctio
 
 If they turn away, know that Allah is your Protector. What an excellent Protector, and what an excellent Helper.
 
-## AI Tafsir
-
-**What this ayah teaches:** But if they cease, then certainly, Allah is All-Seer of what they do (39)And if they turn away, then know that Allah is your protector – (what) an excellent protector and (what) an excellent helper .
-
-**Classical tafsir:** Ibn Kathir notes: But, those days Muslims did not have much of this normally, therefore, it was possible that Muslims would have found this command to fight and kill somewhat heavy, or their lack of numbers or paucity of equipment may have led them to realize that they could not win a war like tha…
 ## Personal Reflections
-
 

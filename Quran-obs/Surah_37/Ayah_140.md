@@ -136,13 +136,5 @@ The word: أَبَقَ (abaqa) in the next verse (140):إِذْ أَبَقَ إ�
 
 Remember when he fled to the overloaded ship.
 
-## AI Tafsir
-
-**What this ayah teaches:** This was because the ship was being pounded by the waves on all sides, and they were at risk of drowning, so they drew lots, and whoever lost would be thrown overboard so as to lighten the load.
-
-**Classical tafsir:** Ibn Kathir notes: Mujahid said, narrating from Ash-Sha'bi, "It swallowed him in the morning and cast him forth in the evening." And Allah knows best how long exactly was.
-
-**From the Sunnah:** In the Two Sahihs it is reported that the Messenger of Allah ﷺ said: This is what is indicated in the authentic Hadith which we quote below, if Allah wills. (authentic hadith)
 ## Personal Reflections
-
 

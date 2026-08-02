@@ -191,13 +191,5 @@ Described in the sixth verse (30) is what would happen to both the peoples of Ja
 
 Then and there every soul will face the consequences of what it had done. They all will be returned to Allah—their True Master. And whatever gods they fabricated will fail them.
 
-## AI Tafsir
-
-**What this ayah teaches:** This refers to the partners responding to those who worshipped them. You and your partners." Then We shall separate them, and their partners shall say: "It was not us that you used to worship.
-
-**Classical tafsir:** Ibn Kathir notes: This refers to the partners responding to those who worshipped them.
-
-**From the Sunnah:** intercede to Allah so the Final Judgement may come and they get rid of that state.
 ## Personal Reflections
-
 

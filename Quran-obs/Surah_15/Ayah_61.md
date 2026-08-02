@@ -62,11 +62,5 @@ As for the third probability, that the blessings of Jannah may remain everlastin
 
 So when the messengers came to the family of Lot,.
 
-## AI Tafsir
-
-**What this ayah teaches:** The Angels coming to Lut Allah tells us about when the angels came to Lut in the form of young men with handsome faces.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

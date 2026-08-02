@@ -158,11 +158,5 @@ Therefore, those who rush to obey Allah in this life and are foremost in perform
 
 and the mountains are crushed to pieces,
 
-## AI Tafsir
-
-**What this ayah teaches:** When the earth will be shaken with a terrible shake.)(5.
-
-**Classical tafsir:** Ibn Kathir notes: When the earth will be shaken with a terrible shake.)(5.
 ## Personal Reflections
-
 

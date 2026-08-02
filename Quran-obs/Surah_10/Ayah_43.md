@@ -118,13 +118,5 @@ In relation to issues of religious beliefs embedded in this verse, it must be bo
 
 And some of them look at you, but can you guide the blind even though they cannot see?
 
-## AI Tafsir
-
-**What this ayah teaches:** In the view of some of them, both sides would be considered as on truth in Ijtihad-based issues and, according to the majority of them, there is consensus on the view that the taking of contra-position in Ijtihad-based problems cannot be termed as error and straying.
-
-**Classical tafsir:** Ibn Kathir notes: In other words, once it stands proved that Allah Ta` ala is the only true and rightful object of worship, it is terribly senseless to abandon this truth and allow yourself to be diverted elsewhere.
-
-**From the Sunnah:** They listen to your truthful, eloquent and authentic Hadiths that are useful to the hearts, the bodies and their faith. (authentic hadith) In the Hadith narrated by Abu Dharr, he states that the Prophet ﷺ related that His Lord, Exalted and High is He, said:
 ## Personal Reflections
-
 

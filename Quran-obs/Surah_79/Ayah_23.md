@@ -214,11 +214,5 @@ The Holy Prophet ﷺ used to be hurt by the stubbornness of the obdurate rejecte
 
 He gathered his people and proclaimed,
 
-## AI Tafsir
-
-**What this ayah teaches:** The statement that 'the soul is in ` Alam-ul-arwah or ` illiyyun' is also true, because the 'soul' in this context refers to ruh mujarrad or 'abstract spirit'. The pure, abstract and non-material spirit is the life of the first soul on which depends the life of the body, and therefore it is called the 'soul of soul'.
-
-**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas said, "He did Aghtasha of its night means that He made it dark." Mujahid, 'Ikrimah, Sa'id bin Jubayr and a large group have said this as well. The statement that 'the soul is in ` Alam-ul-arwah or ` illiyyun' is also true, because the 'soul' in this context refers to ruh mujarrad or 'abstract spirit'.
 ## Personal Reflections
-
 

@@ -257,15 +257,5 @@ The injunction governing the first group is similar to that which governs the di
 
 Why are you divided into two groups regarding the those living in nifaq—outward acceptance with inward rejection while Allah allowed them to regress because of their misdeeds? Do you wish to guide those left by Allah to stray? And whoever Allah leaves to stray, you will never find for them a way.
 
-## AI Tafsir
-
-**Context:** Al-'Awfi reported that Ibn 'Abbas said that the Ayah was revealed about some people in Makkah who said they embraced Islam, yet they gave their support to the idolators.
-
-**What this ayah teaches:** The second groups is exempted from being arrested and killed.
-
-**Classical tafsir:** Ibn Kathir notes: Al-'Awfi reported that Ibn 'Abbas said that the Ayah was revealed about some people in Makkah who said they embraced Islam, yet they gave their support to the idolators. As-Suddi said that the Fitnah mentioned here refers to Shirk.
-
-**From the Sunnah:** Messenger of Allah ﷺ marched towards Uhud. (Musnad Ahmad) In his Sahih, Al-Bukhari recorded the story of the treaty of Al-Hudaybiyyah, where it was mentioned that whoever liked to have peace with Quraysh and conduct a pact with them, then they were allowed. (Sahih al-Bukhari)
 ## Personal Reflections
-
 

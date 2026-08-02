@@ -94,11 +94,5 @@ Allah tells us that He chooses Messengers from His angels as He wills by His law
 
 Allah selects messengers from both angels and people, for Allah is truly All-Hearing, All-Seeing.
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, Allah is All-Hearer, All-Seer (75)He knows what is before them, and what is behind them.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

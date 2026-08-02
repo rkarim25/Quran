@@ -182,13 +182,5 @@ Qatadah said, "These stars were only created for three purposes: Allah created t
 
 Then look again and again—your sight will return humbled and weary.
 
-## AI Tafsir
-
-**What this ayah teaches:** Then look again and yet again, your sight will return to you Khasi', and worn out.)(5. Thus, the Ayah means that if you continuously looked, no matter how much you look, your sight will return to you.
-
-**Classical tafsir:** Ibn Kathir notes: This Ayah means that He brought creation into existence from nothing in order to test the creatures.
-
-**From the Sunnah:** This Hadith was collected by At-Tirmidhi and the four Sunan Compilers. (Jami' at-Tirmidhi)
 ## Personal Reflections
-
 

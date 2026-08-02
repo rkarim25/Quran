@@ -133,11 +133,5 @@ Ends here
 
 Noah prayed: 'My Lord, do not leave a single one who rejects the truth on earth.
 
-## AI Tafsir
-
-**What this ayah teaches:** Forgive me, and my parents, and him who enters my home as a believer,) Ad-Dahhak said, "This means, my Masjid." However, there is no harm in understanding the Ayah according to its apparent meaning, which would be that he (Nuh) supplicated for every person who entered his house who was a believer.
-
-**Classical tafsir:** Ibn Kathir notes: Ad-Dahhak said, "Dayyar means one." As-Suddi said, "Dayyar is the one who stays in the home." So Allah answered his supplication and He destroyed all of those on the face of the earth who were those who reject the truth.
 ## Personal Reflections
-
 

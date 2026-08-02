@@ -189,27 +189,5 @@ That is to say, they have distorted neither the words nor the meanings, nor have
 
 Those to whom We gave the Book follow it as it deserves to be followed. They are the ones who truly believe. Those who reject it are the losers.
 
-## AI Tafsir
-
-**Essence**
-
-Those who truly receive Allah's Book recite and live it as it deserves, and so they believe in His final revelation; whoever rejects it is the real loser.
-
-**What it teaches**
-
-To recite "as it should be recited" (*haqqa tilawatihi*) is a whole posture, not mere pronunciation. Ibn Mas'ud defined it: treating as lawful what it makes lawful, forbidding what it forbids, reciting it as Allah revealed it, not shifting its words from their places, and not bending its meaning. Maarif adds enunciating each word clearly and keeping the fear and love of Allah in the heart, with the resolve to obey. Such reciters truly believe (*yu'minun*); those who disbelieve (*yakfur*) are *al-khasirun*, the losers.
-
-**The scholars**
-
-Ibn Kathir reports two views on "those given the Book." Qatadah (via Ma'mar) called them the Jews and Christians who recognized the truth — the view Ibn Jarir chose; through Sa'id, Qatadah is also reported to name the Companions, with "the Book" being the Qur'an. 'Umar described the true reciter as one who, at a verse of mercy, asks Allah for it, and at a verse of torment, seeks His refuge — a manner attributed to the Prophet ﷺ himself. Maarif, citing Ibn 'Abbas, notes the verse was occasioned by forty Christians of Abyssinia who embraced Islam; such readers, it adds, distort neither words nor meanings nor the prophecies of the Last Prophet ﷺ.
-
-**From the Sunnah**
-
-As recorded in the Sahih, the Prophet ﷺ said: "By He in Whose Hand is my soul! There is no member of this Ummah — mankind and jinn — Jew or Christian, who hears of me yet does not believe in me, but will enter the Fire." The warning is universal; rejecting the Book is the true loss.
-
-**Reflection**
-
-A letter from the Beloved is not skimmed but held close, weighed word by word, answered. Receive the Qur'an like that, and it remakes the one who reads, not just the reading.
 ## Personal Reflections
-
 

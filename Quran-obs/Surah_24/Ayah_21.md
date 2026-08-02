@@ -207,13 +207,5 @@ The Holy Qur'an has drawn out this unique system for the prevention of obscenity
 
 O mu'mins! Do not follow the footsteps of Satan. Whoever follows Satan’s footsteps, then let them know that he surely bids all to immorality and wickedness. Had it not been for Allah’s grace and mercy upon you, none of you would have ever been purified. But Allah purifies whoever He wills. And Allah is All-Hearing, All-Knowing.
 
-## AI Tafsir
-
-**What this ayah teaches:** And had it not been for the grace of Allah and His mercy on you, and that Allah is full of kindness, ar-Rahim (20)O you who believe!
-
-**Classical tafsir:** Ibn Kathir notes: 'Ikrimah said that it means his evil whispers.
-
-**From the Sunnah:** An extra element in this verse is that those who propagate such rumors actually want the spread of obscenity and immorality among the Muslims. Where there is no proof and punishment, Qur'an has proclaimed the publicity of such news as a tool for spreading obscenity among the Muslims.
 ## Personal Reflections
-
 

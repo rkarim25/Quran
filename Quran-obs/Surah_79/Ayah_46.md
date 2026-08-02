@@ -196,13 +196,5 @@ Ends here
 
 When they see it, it will be as if they had lived in the world no more than one evening or its morning.
 
-## AI Tafsir
-
-**What this ayah teaches:** But when there comes the Greatest Catastroph (34)The Day when man shall remember what he strove for (35)And Hell shall be made apparent for whoever sees (36)Then for him who transgresse (37)And preferred the life of this world (38)Verily, his abode will be the Hell (39)But as for him who feared standing before his Lord, and forbade himself from desire (40)Verily, Paradise will be his abode (41)The…
-
-**Classical tafsir:** Ibn Kathir notes: In other words, [ 1] the first characteristic of a Allah-fearing person is that, in this life, he shudders at the thought of appearing before Allah to account for his deeds on the Day of Reckoning; and [ 2] forbids the baser self from its evil desires.
-
-**From the Sunnah:** In this level, a person deserves to be called 'Sunni Muslim'. (Sahih Muslim)
 ## Personal Reflections
-
 

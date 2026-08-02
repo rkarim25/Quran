@@ -247,11 +247,5 @@ Ends here
 
 We have warned you of an imminent punishment—the Day every person will see what their hands sent forth, and those who reject the truth will cry, 'I wish I were dust!'
 
-## AI Tafsir
-
-**What this ayah teaches:** At that moment the those who reject the truth will wish that they were also animals and would become dust like them, so that they would have been spared the torment of reckoning and punishment of Hell. It is mentioned here to emphasize the fact that its occurrence has become close, because everything that is coming will certainly come to pass.
-
-**Classical tafsir:** Ibn Kathir notes: He explains that He is the ar-Rahman, Whose mercy covers all things.
 ## Personal Reflections
-
 

@@ -132,11 +132,5 @@ The answer is that embellishment and beauty are subservient to practice or custo
 
 Each garden yielded all its produce, never falling short. And We caused a river to flow between them.
 
-## AI Tafsir
-
-**Context:** (Have you seen him who disbelieved in Our Ayat and said: "I shall certainly be given wealth and children [if I will be alive again).")[19:77] He took it for granted that Allah would give him this, without any sound evide…
-
-**What this ayah teaches:** This was because of his lack of understanding and the weakness of his faith in Allah, and because he was enamored with this world and its adornments, and because he disbelieved in the Hereafter.
 ## Personal Reflections
-
 

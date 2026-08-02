@@ -224,13 +224,5 @@ It was narrated earlier that one of the evil practices of some of the Jews of Ma
 
 Secret plotting is stirred by Satan to grieve the believers—but he cannot harm them except by Allah's permission. So let the believers place their trust in Allah.
 
-## AI Tafsir
-
-**What this ayah teaches:** But he cannot harm them in the least, except as Allah permits. When one of the Prophet's Companions would pass by a gathering of Jews, they would speak among themselves in secret, prompting the believer to think that they were plotting to kill or harm him.
-
-**Classical tafsir:** Ibn Kathir notes: The word 'As-Sam' means 'death' instead of 'As-Salam' which means 'peace'.
-
-**From the Sunnah:** The Prophet ﷺ advised them to abandon their evil secret talks, but they did not listen and kept on holding the Najwa. the Jews used to say, "Sam 'Alayka," to Allah's Messenger ﷺ. (Musnad Ahmad)
 ## Personal Reflections
-
 

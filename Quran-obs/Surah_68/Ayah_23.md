@@ -136,11 +136,5 @@ It has been said, "They were hoping for something better in exchange in this lif
 
 So they went off whispering to one another:
 
-## AI Tafsir
-
-**What this ayah teaches:** This means that they starting waking up each other in the early morning that they should set out early if they wanted to harvest.
-
-**Classical tafsir:** Ibn Kathir notes: This means that they starting waking up each other in the early morning that they should set out early if they wanted to harvest.
 ## Personal Reflections
-
 

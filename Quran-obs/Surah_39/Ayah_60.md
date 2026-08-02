@@ -106,11 +106,5 @@ In verse 59, it was said: بَلَىٰ قَدْ جَاءَتْكَ آيَاتِ�
 
 On the Day of Judgment you will see those who lied about Allah with their faces gloomy. Is Hell not a fitting home for the arrogant?
 
-## AI Tafsir
-
-**What this ayah teaches:** And on the Day of Resurrection you will see those who lied against Allah – their faces will be black.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, their claim that Allah gave them no guidance was absurd.
 ## Personal Reflections
-
 

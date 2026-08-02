@@ -244,13 +244,5 @@ Verse [ 112:2] اللَّـهُ الصَّمَدُ (Allah is Besought of all, ne
 
 Allah is al-Samad—the One every created thing depends upon for existence, while He depends on nothing; the eternal refuge when every system, relationship, and plan fails.
 
-## AI Tafsir
-
-**What this ayah teaches:** Allah as-Samad—the One all creation depends upon while He depends on none; the Eternal Refuge.
-
-**Classical tafsir:** Ibn Kathir and linguists: as-Samad is the Master sought in every need, without need Himself. Mujahid and others linked it to perfection in nobility and authority.
-
-**From the Sunnah:** Al-Ikhlas was sent as a match for one-third of the Qur'an (Bukhari).
 ## Personal Reflections
-
 

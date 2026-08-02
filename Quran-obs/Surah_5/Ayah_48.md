@@ -414,15 +414,5 @@ The fifth injunction which emerges clearly from these verses is that all prophet
 
 We have revealed to you this Book with the truth, as a confirmation of previous Scriptures and a supreme authority on them. So judge between them by what Allah has revealed, and do not follow their desires over the truth that has come to you. To each of you We have ordained a code of law and a way of life. If Allah had willed, He would have made you one community, but His Will is to test you with what He has given you. So compete with one another in doing good. To Allah you will all return, then He will inform you regarding your differences.
 
-## AI Tafsir
-
-**Context:** (So judge between them by what Allah has revealed.) The Ayah commands: O Muhammad! Rule between the people, Arabs and non-Arabs, lettered and unlettered, by what Allah has revealed to you in this Glorious Book and what i…
-
-**What this ayah teaches:** This Glorious Book, which Allah revealed as the Last and Final Book, is the most encompassing, glorious and perfect Book of all times.
-
-**Classical tafsir:** Ibn Kathir notes: Al-'Awfi said that Ibn 'Abbas said that Muhayminan means, 'dominant over the previous Scriptures'.
-
-**From the Sunnah:** But, there is enmity between us and some of our people, so we will refer to you for judgement in this matter, and you should rule in our favor against them and we will believe in you.' The Messenger of Allah ﷺ refused the offer and Allah sent down these Ayat a… If they became Muslims, the rest of them would become Muslims too.
 ## Personal Reflections
-
 

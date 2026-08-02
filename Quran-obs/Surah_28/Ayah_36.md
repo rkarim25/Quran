@@ -117,11 +117,5 @@ A sermon should have high degree of eloquence
 
 But when Moses came to them with Our clear signs, they said arrogantly, “This is nothing but conjured magic tricks. We have never heard of this in the history of our forefathers.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Musa before Fir'awn and His People Allah tells us how Musa and his brother Harun came before Fir'awn and his chiefs, and showed them the clear miracles and overwhelming proof that Allah had given them to confirm the truth of what they were saying about Allah being One and that His commandments were to be followed.
-
-**Classical tafsir:** Ibn Kathir notes: Fir'awn and his chiefs saw that with their own eyes and realized that it was certainly from Allah, but because of their disbelief and sin they resorted to stubbornness and false arguments.
 ## Personal Reflections
-
 

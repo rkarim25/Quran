@@ -139,13 +139,5 @@ Then in اَفَھُم یؤمِنُونَ (Will they believe?) there is a hint t
 
 Not a single society We destroyed before them ever believed after receiving the signs. Will these pagans then believe?
 
-## AI Tafsir
-
-**What this ayah teaches:** Not one of the towns of those which We destroyed, believed before them; will they then believe.) The Hour is at hand but People are heedless This is a warning from Allah of the approach of the Hour, and that people are heedless of it, i.e., they are not working for it or preparing for it.
-
-**Classical tafsir:** Ibn Kathir notes: They did not believe that he could be a Prophet because he was a human being like them, so how could he have been singled out to receive revelation, and not them?
-
-**From the Sunnah:** 'Abdullah said, "Banu Isra'il, Al-Kahf, Maryam, Ta Ha and Al-Anbiya' - they are among the earliest and most beautiful Surahs and they are my treasure." (Sahih al-Bukhari) that Abu Sa'id reported from the Prophet ﷺ: (Sunan an-Nasa'i)
 ## Personal Reflections
-
 

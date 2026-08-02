@@ -87,11 +87,5 @@ It is related in this verse that the disbelievers rejected the invitation of Say
 
 They threatened, “If you do not desist, O Noah, you will surely be stoned to death.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Hence, it was their ignorance to put the label of sordidness on his followers, because they did not know about their deeds and disposition.
-
-**Classical tafsir:** Ibn Kathir notes: Hence, it was their ignorance to put the label of sordidness on his followers, because they did not know about their deeds and disposition.
 ## Personal Reflections
-
 

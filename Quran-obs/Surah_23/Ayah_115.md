@@ -100,11 +100,5 @@ Allah Did Not Create His Servants in Vain
 
 Did you then think that We had created you without purpose, and that you would never be returned to Us?”
 
-## AI Tafsir
-
-**What this ayah teaches:** If they had been patient during their short stay in this world, they would have attained victory just like His pious close friends. If you had patiently obeyed Allah and worshipped Him as the believers did, you would have attained victory just as they did.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

@@ -126,13 +126,5 @@ Imam al-Qurtubi (رح) said: As for things unlawful and impermissible, spending 
 
 Surely the wasteful are like brothers to the devils. And the Devil is ever ungrateful to his Rabb.
 
-## AI Tafsir
-
-**What this ayah teaches:** But spend not wastefully (your wealth) in the manner of a spendthrift (26)Verily, the spendthrifts are brothers of the Shayatin (devils), and the Shaytan is ever ungrateful to his Lord (27)And if you turn away from them and you are awaiting a mercy from your Lord for which you hope, then, speak unto them a soft, kind word .
-
-**Classical tafsir:** Ibn Kathir notes: Ibn Mas'ud said: "This refers spending extravagantly when it is not appropriate." Ibn 'Abbas said likewise.
-
-**From the Sunnah:** If I pay Zakah to your messenger, will I be absolved of that duty before Allah and His Messenger?' The Messenger of Allah ﷺ said:
 ## Personal Reflections
-
 

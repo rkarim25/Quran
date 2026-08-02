@@ -126,11 +126,5 @@ It appears in Tafsir Ruh al-Bay-an that human beings are, in terms of their orig
 
 The worst of living beings before Allah are those who refuse to hear and refuse to speak truth—who will not understand.
 
-## AI Tafsir
-
-**What this ayah teaches:** Literally, everything that walks on the earth is called 'dābbah.' But, in usage, only quadruped animals are called 'dābbah.' So, the sense of the verse is that the worst quadrupeds in the sight of Allah are the ones deaf against listening to the truth and dumb when it comes to accepting it.
-
-**Classical tafsir:** Ibn Kathir notes: Muhammad bin Ishaq said that this Ayah refers to hypocrites, as we stated.
 ## Personal Reflections
-
 

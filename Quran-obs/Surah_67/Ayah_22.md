@@ -174,11 +174,5 @@ The phrase 'the one who walks on a straight path' refers to the believer who is 
 
 Who is rightly guided: the one who crawls facedown, or the one who walks upright on the Straight Path?
 
-## AI Tafsir
-
-**What this ayah teaches:** The phrase 'the one who walks on a straight path' refers to the believer who is rightly guided.
-
-**Classical tafsir:** Ibn Kathir notes: The phrase 'the one who walks on a straight path' refers to the believer who is rightly guided.
 ## Personal Reflections
-
 

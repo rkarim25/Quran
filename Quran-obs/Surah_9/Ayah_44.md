@@ -137,13 +137,5 @@ In the second (44) and third (45) verses given there was the difference between 
 
 Those who believe in Allah and the Last Day do not ask for exemption from striving with their wealth and their lives. And Allah has perfect knowledge of those who live with taqwa.
 
-## AI Tafsir
-
-**Context:** (May Allah forgive you. Why did you grant them leave...)?" Muwarriq Al-'Ijli and others said similarly. Qatadah said, "Allah criticized him as you read here, then later revealed to him the permission to allow them to lag…
-
-**What this ayah teaches:** Why did you grant them leave, until those who told the truth were manifest to you, and you had known the liars (43)Those who believe in Allah and the Last Day, would not ask your leave to be exempted from fighting with their properties and their lives; and Allah is the All-Knower of those who have Taqwa (44)It is only those who believe not in Allah and the Last Day and whose he…
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

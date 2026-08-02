@@ -167,15 +167,5 @@ Some scholars have explained that mention of morning and the evening is a genera
 
 We only descend by your Rabb's command. To Him belongs what is before us, behind us, and everything between. Your Rabb is never forgetful.
 
-## AI Tafsir
-
-**Context:** (What prevents you from visiting us more than you do?) Then this Ayah was revealed,
-
-**What this ayah teaches:** To Him belongs what is before us and what is behind us, and what is between those two; and your Lord is never forgetful (64)Lord of the heavens and the earth, and all that is between them, so worship Him and abide patiently in His worship.
-
-**Classical tafsir:** Ibn Kathir notes: Do you know of any who is similar to Him) Ali bin Abi Talhah related that Ibn 'Abbas said that this means, "Do you know any comparison or something similar to the Lord?" Mujahid, Sa'id bin Jubayr, Qatadah, Ibn Jurayj and others all said the same. Therefore, it means that they (Paradise dwellers) will get their provisions according to their choice at any time they like.
-
-**From the Sunnah:** the Messenger of Allah ﷺ said to Jibril, (Musnad Ahmad)
 ## Personal Reflections
-
 

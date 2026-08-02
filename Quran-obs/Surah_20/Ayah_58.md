@@ -100,11 +100,5 @@ By words مَكَانًا سُوًى(at an even place) in verse 58 the Pharaoh p
 
 We can surely meet you with similar magic. So set for us an appointment that neither of us will fail to keep, in a central place.”
 
-## AI Tafsir
-
-**What this ayah teaches:** I say that Allah destroyed Fir'awn and his armies on a day similar to this, just as is confirmed in the Sahih.
-
-**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas said, "The day of their festivity was the day of 'Ashura'." As-Suddi, Qatadah and Ibn Zayd said, "It was the day of their great celebration." Sa'id bin Jubayr said, "It was the day of their great bazzar." These statements are not contradictory.
 ## Personal Reflections
-
 

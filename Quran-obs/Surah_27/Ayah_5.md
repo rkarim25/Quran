@@ -134,11 +134,5 @@ However, the first interpretation looks more appropriate and straightforward. In
 
 It is they who will suffer a dreadful torment, and in the Akhirah they will truly be the greatest losers.
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, those who believe not in the Hereafter, We have made their deeds fair seeming to them, so that they wander about blindly.)(5.
-
-**Classical tafsir:** Ibn Kathir notes: Verily, those who believe not in the Hereafter, We have made their deeds fair seeming to them, so that they wander about blindly.)(5.
 ## Personal Reflections
-
 

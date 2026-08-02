@@ -312,13 +312,5 @@ Then, after describing a few of the ignorant disbeliever's qualities, the follow
 
 We created humankind in unceasing struggle—kabad: toil, pain, and uphill effort from birth through livelihood.
 
-## AI Tafsir
-
-**What this ayah teaches:** And she brings him forth with hardship.)(46:15) and she breast-feeds him with hardship, and his livelihood is a hardship.
-
-**Classical tafsir:** Ibn Kathir notes: Al-Hasan Al-Basri said, "Allah made it lawful (to fight in) for him (the Prophet ﷺ) for one hour of a day." The meaning of what they have said was mentioned in a Hadith that is agreed-upon as being authentic.
-
-**From the Sunnah:** Al-Hasan Al-Basri said, "Allah made it lawful (to fight in) for him (the Prophet ﷺ) for one hour of a day." The meaning of what they have said was mentioned in a Hadith that is agreed-upon as being authentic.
 ## Personal Reflections
-
 

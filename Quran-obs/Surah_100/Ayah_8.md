@@ -132,13 +132,5 @@ Likewise, as long as the wealth floats around the boat of heart, it would be use
 
 Truly humanity is intense in love of wealth—
 
-## AI Tafsir
-
-**What this ayah teaches:** The evil of ingratitude is quite obvious and needs no elaboration, but the evil of man's violent love for wealth is not that obvious, and needs some elaboration.
-
-**Classical tafsir:** Ibn Kathir notes: Idiomatically, the word khair, in Arabic, means 'wealth' implying that 'wealth' is an embodiment of goodness and benefit.
-
-**From the Sunnah:** This is just as the Messenger of Allah ﷺ used to perform raids in the early morning.
 ## Personal Reflections
-
 

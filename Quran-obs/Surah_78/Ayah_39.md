@@ -211,11 +211,5 @@ This is the end of the Tafsir of Surat An-Naba'. And all praise and thanks are d
 
 That Day is the ultimate truth. Let whoever wills take the path back to their Rabb.
 
-## AI Tafsir
-
-**What this ayah teaches:** And from the truth is the fact that there is no Allah worthy of worship except Allah.
-
-**Classical tafsir:** Ibn Kathir notes: He explains that He is the ar-Rahman, Whose mercy covers all things.
 ## Personal Reflections
-
 

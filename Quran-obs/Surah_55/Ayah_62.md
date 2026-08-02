@@ -152,13 +152,5 @@ This is the end of the Tafsir of Surat Ar-Rahman, all praise is due to Allah and
 
 Below these two are two more Gardens.
 
-## AI Tafsir
-
-**What this ayah teaches:** And below these two, there are two other Gardens (62)Then which of the blessings of your Lord will you both deny (63)Mudhāmmatān (64)Then which of the blessings of your Lord will you both deny (65)In them (both) will be two springs Naddakhatan (66)Then which of the blessings of your Lord will you both deny (67)In them (both) will be fruits, and date palms and pomegranates (68)Then which of the ble…
-
-**Classical tafsir:** Ibn Kathir notes: The righteous believers will be blessed, therefore, with good rewards.
-
-**From the Sunnah:** that this tent is thirty miles wide (Sahih Muslim)
 ## Personal Reflections
-
 

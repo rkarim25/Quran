@@ -156,15 +156,5 @@ Also clarified here is that the ‘hamm’ or thought attributed to Sayyidna Yus
 
 She advanced towards him, and he would have done likewise, had he not seen a sign from his Rabb. This is how We kept evil and indecency away from him, for he was truly one of Our chosen servants.
 
-## AI Tafsir
-
-**Context:** Besides the fact that this question of the ` Ismah of Anbiya' (the state of being under Divine protection with which prophets are blessed) stands settled and proved under the authority of the Qur'an and Sunnah, it is als…
-
-**What this ayah teaches:** If so, the verse would mean: Whoever is mukhlis (absolutely sincere) in his ` Aural (deed) and ` Ibadah (worship), Allah Ta` ala will help him in remaining safe from sins.
-
-**Classical tafsir:** Ibn Kathir notes: Literally, su' means evil and it refers to minor (saghirah) sins.
-
-**From the Sunnah:** This Hadith was also collected in the Two Sahihs using various wording, this is one of them.
 ## Personal Reflections
-
 

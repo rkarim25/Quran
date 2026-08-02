@@ -164,13 +164,5 @@ The Hadith (cited above) states that people's 'sustenance' may be Cut Off as a p
 
 Do they not think they will be resurrected
 
-## AI Tafsir
-
-**Context:** According to Sayyidna ` Abdullah Ibn Masud ؓ ، Surah Tatfif was revealed in Makkah. Therefore, most of the copies of the Qur'an refer to it as the Makki Surah.
-
-**What this ayah teaches:** And when they have to give by measure or weight to men, give less than due.)(4. Tatjif has a Wider Scope The Qur'an and Sunnah have prohibited Tatfif which primarily signifies 'giving short measure and weight', because generally all transactions are carried out by things that can be measured or weighed.
-
-**Classical tafsir:** Ibn Kathir notes: It, therefore, indicates that the rule is not restricted to weights and measures only, but it includes all other means through which the rights of someone are evaluated, assessed or appraised.
 ## Personal Reflections
-
 

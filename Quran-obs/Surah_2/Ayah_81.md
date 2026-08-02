@@ -122,17 +122,5 @@ In short, the infidel, according to this divine law, must always live in Hell. S
 
 No — whoever earns evil and is engulfed by sin will be among the people of the Fire, remaining there forever.
 
-## AI Tafsir
-
-**Essence** Bala — "But no!": no wishful hope averts the Fire from the one whose own earned sin has encircled him completely.
-
-**What it teaches** Kasaba ("earned") makes sin a deliberate acquisition; ahatat ("surrounded") pictures it engulfing a person until no goodness remains — an engulfment, the mufassirun note, true only of disbelief. Such a one abides in the Fire forever (khalidun), and the claimants' boast of leaving after a few days collapses.
-
-**The scholars** Ibn Kathir relates the salaf on "his sin has surrounded him": shirk (Abu Hurayrah, Al-Hasan), dying unrepentant (Ar-Rabi' bin Khuthaym), major sins (Mujahid, Qatadah) — all, he notes, carrying similar meanings. Maarif ul Quran explains why: the believer always retains iman, the greatest of good deeds, so sin can never engulf him totally.
-
-**From the Sunnah** "Beware of the belittled sins, because they gather on a person until they destroy him" — like campers who each collected some wood until they had a great deal, then started a fire. (Imam Ahmad)
-
-**Reflection** Guard the small sins and keep repentance near, before the gathered wood becomes a fire.
 ## Personal Reflections
-
 

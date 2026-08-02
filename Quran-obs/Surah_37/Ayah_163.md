@@ -126,11 +126,5 @@ Immediately next within verse 158 it was said: وَلَقَدْ عَلِمَتِ
 
 except those destined to burn in Hell.
 
-## AI Tafsir
-
-**What this ayah teaches:** So, verily you and those whom you worshi (161)Cannot lead astray (162)Except those who are predestined to burn in Hell (163)And there is not one of us (angels) but has his known place (164)And verily, we (angels), we stand in rows (165)And verily, we (angels) indeed are those who glorify (166)And indeed they used to say (167)"If we had a reminder as had the men of old, (168)"We…
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

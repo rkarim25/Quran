@@ -120,11 +120,5 @@ Finally, the Holy Prophet ﷺ said, 'My dear uncle, should I not be inviting the
 
 Sad. By the Quran, rich in dhikr—conscious remembrance of Allah that warns, guides, and leaves no excuse.
 
-## AI Tafsir
-
-**What this ayah teaches:** There is no contradiction between the two views, because it is a noble Book which includes reminders and leaves no excuse and brings warnings.
-
-**Classical tafsir:** Ibn Kathir notes: There is no contradiction between the two views, because it is a noble Book which includes reminders and leaves no excuse and brings warnings.
 ## Personal Reflections
-
 

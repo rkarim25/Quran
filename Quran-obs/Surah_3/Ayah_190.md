@@ -250,13 +250,5 @@ Says: He is One; there are no partners in Him.
 
 Indeed, in the creation of the heavens and the earth and the alternation of the day and night there are signs for people of reason.
 
-## AI Tafsir
-
-**Context:** (O Bilal! What prevents me from crying, when this night, this Ayah was revealed to me,) In addition, the earlier mention of pain caused by the those who reject the truth bears congruity to the verses appearing presently.
-
-**What this ayah teaches:** It should not be too difficult to realize that this wonderfully organised system - comprising the heavens and the earth and containing the whole of creation in between them which is further streamlined by the most deft management of everything, big or small, existing therein - certainly points out to a special Being that has to be the highest and the foremost in terms of Knowle…
-
-**Classical tafsir:** Ibn Kathir notes: Rather, You created it in truth, so that You recompense those who do evil in kind, and reward those who do righteous deeds with what is better.
 ## Personal Reflections
-
 

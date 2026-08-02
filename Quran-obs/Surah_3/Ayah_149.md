@@ -218,13 +218,5 @@ The statement, '...Allah is your Lord and He is the best of helpers' tells Musli
 
 O you who have iman! If you yield to those who reject the truth, they will drag you back to rejection of the truth—and you will become losers.
 
-## AI Tafsir
-
-**What this ayah teaches:** If you obey those who disbelieve, they will send you back on your heels, and you will turn back as losers (149)Nay, Allah is your protector, and He is the best of helpers (150)We shall cast terror into the hearts of those who disbelieve, because they joined others in worship with Allah, for which He sent no authority; their abode will be the Fire and how evil is the abode of th…
-
-**Classical tafsir:** Ibn Kathir notes: Ibn Jurayj said that Ibn 'Abbas said that Fashiltum means, 'lost courage'. Al-Hasan and Qatadah said that, Tus'iduna, means, 'go up the mountain'.
-
-**From the Sunnah:** Allah next conveys the good news that He will put fear of the Muslims, and feelings of subordination to the Muslims in the hearts of their disbelieving enemies, because of their Kufr and Shirk.
 ## Personal Reflections
-
 

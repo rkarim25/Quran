@@ -165,11 +165,5 @@ The Holy Prophet ﷺ was asked from where the Hell be brought forward? He replie
 
 No—the wicked are bound for Sijjin, a sealed register in the depths of Hell.
 
-## AI Tafsir
-
-**What this ayah teaches:** Truly, the Record of the wicked is in Sijjin.) meaning, that their final destination and their abode will be in Sijjin, which is derived from the word prison (Sijn), and here it means straitened circumstances.
-
-**Classical tafsir:** Ibn Kathir notes: Truly, the Record of the wicked is in Sijjin.) meaning, that their final destination and their abode will be in Sijjin, which is derived from the word prison (Sijn), and here it means straitened circumstances.
 ## Personal Reflections
-
 

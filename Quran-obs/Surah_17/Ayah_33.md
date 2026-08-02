@@ -161,11 +161,5 @@ Someone accused Hajjaj ibn Yusuf before certain Mujtahid Imams. Hajjaj ibn Yusuf
 
 Do not take a human life—made sacred by Allah—except with legal right. If anyone is killed unjustly, We have given their heirs the authority, but do not let them exceed limits in retaliation, for they are already supported by law.
 
-## AI Tafsir
-
-**What this ayah teaches:** He who has killed a person unjustly [ for his punishment is that the waliyy (legal heir) of the person killed can get him killed under the law of qisas (even retaliation)].
-
-**Classical tafsir:** Ibn Kathir notes: The great scholar and Imam Ibn 'Abbas understood from the general meaning of this Ayah that Mu'awiyah should take power, because he was the heir of 'Uthman, who had been killed wrongfully, may Allah be pleased with him, and Mu'awiyah did eventually take power, as Ibn 'Abbas said on the basis of this…
 ## Personal Reflections
-
 

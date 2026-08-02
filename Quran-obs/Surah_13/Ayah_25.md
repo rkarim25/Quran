@@ -198,13 +198,5 @@ Finally, if we consider the statement in verse 25, that is: أُولَـٰئِك
 
 Those who break Allah's covenant after affirming it, sever what He ordered joined, and spread corruption on earth—they are cursed and will have the worst home.
 
-## AI Tafsir
-
-**What this ayah teaches:** And those who break the covenant of Allah, after its ratification, and sever that which Allah has commanded to be joined, and work mischief in the land, on them is the curse, and for them is the unhappy (evil) home (i.e.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, when a human being deviates from any injunction made binding by Allah or deviates from the command given by His Messenger, he or she commits a breach of trust by breaking this pledge to have faith.
-
-**From the Sunnah:** It appears in a IIadith of Sahih Muslim that the Holy Prophet ﷺ said: 'Most commendable is the act of maintaining relations when a person maintains the same relations with the friends of his dead father, as they were during his lifetime.
 ## Personal Reflections
-
 

@@ -137,11 +137,5 @@ Sayyidna Salih (علیہ السلام) warned them: If Allah Ta` ala shows you y
 
 There is no moving creature on earth whose provision is not upon Allah. He knows its dwelling and its resting place. All is in a clear Record.
 
-## AI Tafsir
-
-**What this ayah teaches:** There is not a moving creature but He has the grasp of its forelock.) Every creature is under His (Allah's) power and His authority.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

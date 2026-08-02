@@ -170,15 +170,5 @@ Mentioned in verse 126: وَإِنْ عَاقَبْتُمْ , (And if you were t
 
 If you retaliate, then let it be equivalent to what you have suffered. But if you patiently endure, it is certainly best for those who are patient.
 
-## AI Tafsir
-
-**Context:** Ibn Sirin said, "If a man among you takes something from you, then you should take something similar from him." This was also the opinion of Mujahid, Ibrahim, Al-Hasan Al-Basri, and others.
-
-**What this ayah teaches:** And if you opt for patience, it is definitely much better for those who are patient - 126), these noble workers in the way of Allah were given the legal right that it was permissible for them to retaliate against injustice done to them.
-
-**Classical tafsir:** Ibn Kathir notes: No matter how softly and politely one explains things to them and no matter how much goodwill one has for them in his heart, they would, even then, go in a fit of anger, use bad language and cause pain.
-
-**From the Sunnah:** The narration in Sahih al-Bukhari is in accordance with it.
 ## Personal Reflections
-
 

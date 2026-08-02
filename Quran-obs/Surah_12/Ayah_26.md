@@ -181,11 +181,5 @@ The explanation of the ` shahid' or witness of Sayyidna Yusuf (علیہ السل
 
 Joseph responded, “It was she who tried to seduce me.” And a witness from her own family testified: “If his shirt is torn from the front, then she has told the truth and he is a liar.
 
-## AI Tafsir
-
-**What this ayah teaches:** So, when the direction was followed, it was observed that the shirt was torn up from the back. The 'Aziz was an easy man, or gave excuse to his wife because she saw in Yusuf an appeal she could not resist.
-
-**Classical tafsir:** Ibn Kathir notes: Ath-Thawri reported that Jabir said that Ibn Abi Mulaykah said that Ibn 'Abbas said, "He was from the king's entourage." Mujahid, 'Ikrimah, Al-Hasan, Qatadah, As-Suddi, Muhammad bin Ishaq and others also said that the witness was an adult male.
 ## Personal Reflections
-
 

@@ -151,29 +151,5 @@ The expression وَمَن يَعْتَصِم بِاللَّـهِ ,'translated a
 
 How can you reject the truth when Allah’s revelations are recited to you and His Messenger is in your midst? Whoever holds firmly to Allah is surely guided to the Sirat al-Mustaqim—the Sirat al-Mustaqim—the way of living that pleases Allah that pleases Allah.
 
-## AI Tafsir
-
-**Essence**
-
-How unbecoming it would be to slip back into disbelief while Allah's verses are still being recited to you and His Messenger walks among you — and whoever clings to Allah is already set upon the Straight Path.
-
-**What it teaches**
-
-Allah confronts the believers with a rhetorical rebuke: with the Qur'an descending and the Prophet (peace be upon him) present to recite and convey it, a return to kufr (disbelief) would be utterly incongruous. The closing promise turns on i'tisam — to "hold firmly" to Allah is to stay totally committed to one's iman (faith), and such a person is guided to the sirat mustaqim, the Straight Path.
-
-**The scholars**
-
-Ibn Kathir explains the verse follows a warning against obeying the People of the Book, who envied the believers the favor of Allah's sending His Messenger; the question "how would you disbelieve" means "disbelief is far from touching you, since the Ayat of Allah are being sent down on His Messenger day and night, and he recites and conveys them to you." On the final clause he writes that "trusting and relying on Allah are the basis of achieving the right guidance and staying away from the path of wickedness," the very tool for acquiring guidance and truth.
-
-Maarif ul Quran sets the occasion: a man named Shammas ibn Qays, who harbored a chronic malice against the Muslims, incited the Ansar tribes of Aws and Khazraj to recite their old pre-Islamic war poetry until they nearly came to blows, and the Prophet (peace be upon him) rebuked them — "Here I am present amidst you... Do you want, in this state of yours, to revert to kufr?" Maarif unpacks i'tisam as affirming Allah's Being and Attributes, staying staunchly faithful to what He has ordained, and refusing to be lured into supporting the position of any adversary, whoever that may be. To be on this path, it adds, is "the key to all that is good." The Book and the Messenger are "two powerful, never-failing sources" that keep a believer firm.
-
-**From the Sunnah**
-
-The Prophet (peace be upon him) asked his Companions whose faith was most amazing. They named the angels; he said they believe because they are with their Lord. They named the Prophets; he said they believe because revelation descends on them. They said, "Then, we are"; he replied, "Why would not you believe when I am among you?" Then he taught that the most amazing faith belongs to a people who will come after them and find only books, yet believe in what is in them. (Ibn Kathir)
-
-**Reflection**
-
-The very thing that shamed the Ansar — reviving the war chants of their ignorance — exposes how kufr creeps in: not by open denial, but by reopening old grudges that revelation had already buried. The safeguard is the same as theirs: while the Book is recited and the Messenger's guidance stands, the path back is always open.
 ## Personal Reflections
-
 

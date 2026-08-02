@@ -102,11 +102,5 @@ Ends here
 
 It will close in on them—
 
-## AI Tafsir
-
-**What this ayah teaches:** Which leaps up over the hearts.)(8. This means that the person finds fault with people and belittles them.
-
-**Classical tafsir:** Ibn Kathir notes: This means that the person finds fault with people and belittles them.
 ## Personal Reflections
-
 

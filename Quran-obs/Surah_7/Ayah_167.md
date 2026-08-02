@@ -123,13 +123,5 @@ The first two verses (167 and 168) have referred to the two punishments given to
 
 And when your Rabb declared that He would send against them others who would make them suffer terribly until the Day of Judgment. Indeed, your Rabb is swift in punishment, but He is certainly All-Forgiving, the Rahim.
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, your Lord is quick in retribution and certainly He is Oft-Forgiving, ar-Rahim .
-
-**Classical tafsir:** Ibn Kathir notes: This Ayah mentions both the mercy, as well as, the punishment, so that no despair is felt.
-
-**From the Sunnah:** In the future, the Jews will support the Dajjal (False Messiah); and the Muslims, along with 'Isa, son of Mary, will kill the Jews. We may not be in doubt about their present government in a part of Palestine, as it is a common knowledge that the state of Israel is, in fact, a part of the world powers, created by them for their political objectives against the Muslim Ummah. (Sahih Muslim)
 ## Personal Reflections
-
 

@@ -258,19 +258,5 @@ Rulings:
 
 I begin in the name of Allah—calling on the Rahman, whose mercy in this life extends over every creature whether they recognize Him or not, and the Rahim, whose fullest mercy is reserved for those who turn to Him in the Akhirah.
 
-## AI Tafsir
-
-**Essence**
-We open every act with the name of Allah, under the One whose mercy creates and sustains all.
-
-**What it teaches**
-"Bismillah" joins the Ba, "Ism" (name), and "Allah." Maarif notes the Ba carries three senses — "with the name," "with His help," and "with His barakah" — plus an implied "I begin," so the act starts in His name. "Allah," the greatest name, denotes the one true Essence, taking no dual or plural: He is One with no partner.
-
-**The scholars**
-Maarif (citing Qurtubi) distinguishes the two mercies: ar-Rahman is so all-embracing it belongs to Allah alone, while ar-Rahim, mercy perfected, may even describe a creature, as the Qur'an calls the Prophet (peace be upon him) merciful. Both spring from one root, rahmah: His mercy, not any need, moved Him to create.
-
-**Reflection**
-Say Bismillah before any task and the ordinary becomes worship, renewing reliance on His mercy.
 ## Personal Reflections
-
 

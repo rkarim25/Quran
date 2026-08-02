@@ -224,15 +224,5 @@ Ibn Kathir has quoted Sayyidna Abu Hurairah ؓ on the authority of Imam Ahmad (�
 
 Do those who reject the truth not see that the heavens and earth were once one mass, then We split them apart? We made every living thing from water. Will they not then believe?
 
-## AI Tafsir
-
-**Context:** The following story about Sayyidna ` Abdullah Ibn ` Umar ؓ has been related in Ibn Kathir's commentary on the authority of Ibn Abi Hatim.
-
-**What this ayah teaches:** Then you will enter Paradise in peace.) This chain of narration fulfills the conditions of the Two Sahihs, apart from Abu Maymunah, who is one of the men of the Sunans, his first name was Salim; and At-Tirmidhi classed him as Sahih.
-
-**Classical tafsir:** Ibn Kathir notes: So the land is exposed to the air and sun, so that its people may see the sky with its dazzling signs and evidence.
-
-**From the Sunnah:** a man came to him and questioned him about when the heavens and earth were joined together then they were parted. This chain of narration fulfills the conditions of the Two Sahihs, apart from Abu Maymunah, who is one of the men of the Sunans, his first name was Salim; and At-Tirmidhi classed him as Sahih.
 ## Personal Reflections
-
 

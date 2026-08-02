@@ -146,11 +146,5 @@ And it has been reported from Sayyidna Qatadah ؓ that the word: مُّرْ‌س
 
 The people replied, "You are only humans like us, and the Rahman has not revealed anything. You are simply lying!"
 
-## AI Tafsir
-
-**What this ayah teaches:** You are only telling lies." The Messengers said: "Our Lord knows that we have been sent as Messengers to you.") This means that the three Messengers answered them saying: "Allah knows that we are His Messengers to you. Their names as given in this narration are Sadiq, Saduq and Shalum, while in another narration, the name of the third appears as Sham` un.
-
-**Classical tafsir:** Ibn Kathir notes: You are only telling lies." The Messengers said: "Our Lord knows that we have been sent as Messengers to you.") This means that the three Messengers answered them saying: "Allah knows that we are His Messengers to you.
 ## Personal Reflections
-
 

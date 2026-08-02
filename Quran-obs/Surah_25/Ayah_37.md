@@ -161,11 +161,5 @@ It is stated about the people of Sayyidna Nuh (علیہ السلام) that they 
 
 And when the people of Noah rejected the messengers, We drowned them, making them an example to humanity. And We have prepared a painful punishment for the wrongdoers.
 
-## AI Tafsir
-
-**What this ayah teaches:** And when the people of Nuh denied him, Allah destroyed them likewise, for whoever denies one Messenger denies all the Messengers, because there is no difference between one Messenger and another.
-
-**Classical tafsir:** Ibn Kathir notes: The most correct view is that a generation refers to nations who are one another's contemporaries, living at the same time.
 ## Personal Reflections
-
 

@@ -199,13 +199,5 @@ While promising to the Holy Prophet ﷺ that he will be brought back by Allah to
 
 Do not let them turn you away from the revelations of Allah after they have been sent down to you. Rather, invite all to the Way of your Rabb, and never be one of those who commit shirk.
 
-## AI Tafsir
-
-**Context:** إِنَّ الَّذِي فَرَ‌ضَ عَلَيْكَ الْقُرْ‌آنَ لَرَ‌ادُّكَ إِلَىٰ مَعَادٍ (Surely the One who has enjoined the Qur’ an upon you will surely bring you back to a place of return. - 28:85).
-
-**What this ayah teaches:** So never be a supporter of the those who reject the truth (86)And let them not turn you away from the Ayat of Allah after they have been sent down to you, and invite to your Lord and be not of idolators (87)And invoke not any other Allah along with Allah, La ilaha illa Huwa.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

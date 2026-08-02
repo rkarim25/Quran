@@ -118,11 +118,5 @@ Immediately next within verse 158 it was said: وَلَقَدْ عَلِمَتِ
 
 Surely you pagans and whatever idols you worship
 
-## AI Tafsir
-
-**What this ayah teaches:** Who then does more wrong than one who rejects the Ayat of Allah and turns away therefrom?
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

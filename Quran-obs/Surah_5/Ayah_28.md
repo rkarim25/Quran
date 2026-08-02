@@ -284,13 +284,5 @@ And Sayyidna al-Murtada ؓ said: 'Even the smallest deed done with Taqwa is not 
 
 If you raise your hand to kill me, I will not raise mine to kill you, because I fear Allah—the Rabb of all worlds.
 
-## AI Tafsir
-
-**Context:** In addition to what has been said above, through this very word, the addressees of the Holy Qur'an are also being chastened and guided to the fact that their noble prophet, on him be the peace and blessing of Allah, who…
-
-**What this ayah teaches:** The latter said to the former: "I will surely, kill you." The former said: "Verily, Allah accepts only from those who have Taqwa (27)"If you do stretch your hand against me to kill me, I shall never stretch my hand against you to kill you, for I fear Allah; the Lord of all that exists.
-
-**Classical tafsir:** Ibn Kathir notes: Am I not even able to be as this crow and to hide the dead body of my brother?" Then he became one of those who regretted.) As-Suddi said that the Companions said, "When his brother died, Qabil left him on the bare ground and did not know how to bury him.
 ## Personal Reflections
-
 

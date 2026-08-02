@@ -78,11 +78,5 @@ The statement: فَلَا تَضْرِ‌بُوا لِلَّـهِ الْأَم�
 
 So do not set up equals to Allah, for Allah certainly knows and you do not know.
 
-## AI Tafsir
-
-**What this ayah teaches:** Truly, Allah knows and you know not .
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

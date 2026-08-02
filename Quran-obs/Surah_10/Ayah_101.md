@@ -207,13 +207,5 @@ In this story, as for parts that have been mentioned in the Qur'an, or stand pro
 
 Say, O Prophet, “Consider all that is in the heavens and the earth!” Yet neither signs nor warners are of any benefit to those who refuse to believe.
 
-## AI Tafsir
-
-**What this ayah teaches:** What Allah has created in the heavens and the earth is part of the clear signs for those who possess correct understanding.
-
-**Classical tafsir:** Ibn Kathir notes: So, they said, let that person show himself up so that others do not suffer because of one person.
-
-**From the Sunnah:** protection from other sins. (Sahih Muslim) If there were something somewhere even in the Qur'an, and Hadith, seemingly contrary to the established principles of Qur'an, and Sunnah, and the collective Muslim belief in prophets being protected from sins, it would have been necessary to interpret it in a… (Sahih Muslim)
 ## Personal Reflections
-
 

@@ -86,22 +86,5 @@ Tauhid توحید ، the cardinal principle of Muslim faith as stated in Verse 1
 
 Your Allah is One — there is no deity worthy of worship except Him, the Rahman — mercy that encompasses all creation in this life — the Rahim.
 
-## AI Tafsir
-
-**Essence**
-Your true Object of worship is one alone — Allah, beside whom there is no god, the All-Merciful whose mercy encompasses all creation.
-
-**What it teaches**
-The ayah declares tawhid: "ilah" means the One truly deserving of worship, and "wahid" affirms Him as utterly One — without partner, equal, or replica — so that all worship belongs to Him alone. He seals this with two of His Names: Ar-Rahman, the boundless Mercy that encompasses all creation, and Ar-Rahim, His enduring mercy.
-
-**The scholars**
-Ibn Kathir explains that here Allah declares He is the only deity, with no partners or equals — the One and Only, the Sustainer, beside whom none has the right to be worshipped — and that the meanings of Ar-Rahman and Ar-Rahim were unfolded at the opening of Surat Al-Fatihah; he notes Allah then goes on to cite proofs of His Oneness in the creation of the heavens and the earth. Maarif ul Quran records that when the mushrikin of Arabia heard "your god is One," they were puzzled how a single Object of worship could suffice for the whole world, and demanded proof — proof the surrounding verses supply. It then sets out a fourfold sense of tawhid: He is One in His very being, with no duplicate or parallel; One in the right to be worshipped, so that all 'ibadah is His alone; and One in being free of all composition — no parts, elements, or particles into which He could be divided. The fourth, transmitted from Jassas, is that He is One as the First and the Last: He existed when nothing did and remains when nothing will — so who else could be called Al-Wahid, the only One?
-
-**From the Sunnah**
-Allah's Greatest Name is contained in two ayat — this verse and the opening of Al 'Imran (Alif-Lam-Mim. Allah! There is no god but Him, the Ever-Living, the Sustainer) — both of which join His sole right to worship with His names of life and majesty. (Reported by Ibn Kathir — Shahr bin Hawshab from Asma' bint Yazid bin As-Sakan)
-
-**Reflection**
-The mushrikin could not see how One might suffice for the whole world; the believer's rest is the mirror of their unease — to need no other, because the One who alone deserves worship is also Ar-Rahman, whose mercy reaches every creature. Let the heart, then, narrow its worship to Him alone and find in that narrowing the widest mercy there is.
 ## Personal Reflections
-
 

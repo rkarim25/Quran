@@ -147,13 +147,5 @@ In relation to issues of religious beliefs embedded in this verse, it must be bo
 
 Ask them, O Prophet, “Can any of your associate-gods originate creation and then resurrect it?” Say, “Only Allah originates creation and then resurrects it. How can you then be deluded from the truth?”
 
-## AI Tafsir
-
-**What this ayah teaches:** And what is there, after truth, but error?), that is, ` this is the Sacred Being whose attributes of perfection have just been mentioned.
-
-**Classical tafsir:** Ibn Kathir notes: In other words, once it stands proved that Allah Ta` ala is the only true and rightful object of worship, it is terribly senseless to abandon this truth and allow yourself to be diverted elsewhere.
-
-**From the Sunnah:** This is an established rule in the sight of the majority of scholars in the Muslim Ummah. (Sahih Muslim)
 ## Personal Reflections
-
 

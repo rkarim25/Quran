@@ -151,11 +151,5 @@ This verse proves that it is not possible to know the exact reality of Allah's B
 
 Go to Pharaoh and say, ‘We are messengers from the Rabb of all worlds,
 
-## AI Tafsir
-
-**What this ayah teaches:** But my Lord has granted me Hukm, and made me one of the Messengers.) means, 'the first situation came to an end and another took its place. But the word is also used for 'unawareness' (which includes unintentional mistakes) It is this meaning that is intended here.
-
-**Classical tafsir:** Ibn Kathir notes: But the word is also used for 'unawareness' (which includes unintentional mistakes) It is this meaning that is intended here.
 ## Personal Reflections
-
 

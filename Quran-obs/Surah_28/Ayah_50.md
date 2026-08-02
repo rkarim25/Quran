@@ -226,13 +226,5 @@ The Response to this False Accusation
 
 So if they fail to respond to you, then know that they only follow their desires. And who could be more astray than those who follow their desires with no guidance from Allah? Surely Allah does not guide the wrongdoing people.
 
-## AI Tafsir
-
-**Context:** (Verily, we have heard a Book sent down after Musa, confirming what came before it)(46:30). Waraqah bin Nawfal said, "This is An-Namus, who came down to Musa." And those who are possessed of insight know instinctively th…
-
-**What this ayah teaches:** Verily, Allah guides not the people who are wrongdoers (50)And indeed now We have conveyed the Word to them, in order that they may remember . And who is more astray than one who follows his own lusts, without guidance from Allah?
-
-**Classical tafsir:** Ibn Kathir notes: Verily, Allah guides not the people who are wrongdoers (50)And indeed now We have conveyed the Word to them, in order that they may remember .
 ## Personal Reflections
-
 

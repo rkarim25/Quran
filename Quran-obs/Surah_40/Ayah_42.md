@@ -210,11 +210,5 @@ My respected father, Maulana Muhammad Yasin, a dear disciple of Maulana Muhammad
 
 You invite me to reject Allah and associate with Him what I have no knowledge of, while I invite you to the Almighty, ever-forgiving.
 
-## AI Tafsir
-
-**Context:** (The Fire, they are exposed to it, morning and afternoon). But the question arises: this Ayah was undoubtedly revealed in Makkah, but they use it as evidence to prove that there will be torment in the grave during the pe…
-
-**What this ayah teaches:** You invite me to disbelieve in Allah, and to join partners in worship with Him of which I have no knowledge;) means, on the basis of ignorance, with no proof or evidence. Since no one expects any head of the state to go that wild in his imagination, therefore, some commentators have said that this much he too knew that, no matter how high a structure is made for him, he still cannot reach the skie…
 ## Personal Reflections
-
 

@@ -160,13 +160,5 @@ After that, upto the end of the cited verses, Muslims have been directly instruc
 
 We turn their hearts and eyes away as they refused to believe at first, leaving them to wander blindly in their defiance.
 
-## AI Tafsir
-
-**Context:** The previous verses had mentioned how obstinate people failed to benefit from clear signs of Allah and open miracles of His Messenger and kept on denying the message of truth.
-
-**What this ayah teaches:** Therefore, in this recitation, the Ayah means, the idolators will still not believe if the sign that they asked for came. It was also said that 'you' in, 'what will make you preceive', refers to the believers, meaning, what will make you preceive, O believers, that the idolators will still not believe if the signs come.
-
-**Classical tafsir:** Ibn Kathir notes: Abu Al-'Aliyah, Ar-Rabi' bin Anas and Qatadah said that 'their trespass' means, 'their misguidance'.
 ## Personal Reflections
-
 

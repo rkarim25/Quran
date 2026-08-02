@@ -144,13 +144,5 @@ After that, it was said in verse 12: هُوَ الَّذِي يُرِ‌يكُم
 
 He shows you lightning, stirring hope and fear, and builds heavy clouds.
 
-## AI Tafsir
-
-**What this ayah teaches:** Clouds, Thunder and Lightning are Signs of Allah's Power Allah states that He has full power over Al-Barq (lightning), which is the bright light that originates from within clouds.
-
-**Classical tafsir:** Ibn Kathir notes: Mujahid said that this part of the Ayah is about clouds that are heavy with rain. Al-Hafiz Abu Al-Qasim At-Tabarani narrated that Ibn 'Abbas said that Arbad bin Qays bin Juzu' bin Julayd bin Ja'far bin Kulab, and 'Amir bin At-Tufayl bin Malik came to Al-Madinah to the Messenger of Allah ﷺ and sat where he was sitting.
-
-**From the Sunnah:** Ibn Jarir recorded that Ibn 'Abbas once wrote to Abu Al-Jald asking about the meaning of Al-Barq, and he said that it is water.
 ## Personal Reflections
-
 

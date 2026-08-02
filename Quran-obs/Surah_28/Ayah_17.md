@@ -101,11 +101,5 @@ It is worth noting here that this saying of Musa (علیہ السلام) has est
 
 Moses pledged, “My Rabb! For all Your favours upon me, I will never side with the wicked.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Therefore, by declaring him a criminal he vowed not to help such a person again. For that with which You have favored me, I will nevermore be a helper of the criminals!
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, by declaring him a criminal he vowed not to help such a person again.
 ## Personal Reflections
-
 

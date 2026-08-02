@@ -182,17 +182,5 @@ The next verse gives us the details about this deliverance.
 
 Remember when We saved you from Pharaoh's people, who afflicted you with terrible torment, slaughtering your sons and sparing your women. That was a severe trial from your Rabb.
 
-## AI Tafsir
-
-**Essence** Allah reminds the Children of Israel: He delivered them from the people of Pharaoh — "and in that was a great trial (balā') from your Lord."
-
-**What it teaches** Ibn Kathir notes "Fir'awn" is the title of Egypt's disbelieving kings; his people slaughtered the Israelites' sons and spared their women.
-
-**The scholars** Ibn Kathir relates a report that a dream — fire from Bayt al-Maqdis, his fall by a man of Israel — drove Pharaoh to kill the newborn males and impose humiliating labor. Ibn Jarir: the saving itself was a great blessing; Ibn Kathir adds that blessing, like hardship, carries a test (21:35). Maarif ul-Quran: the trial is either the slaughter — testing ṣabr — or the deliverance — testing shukr.
-
-**From the Sunnah** Finding the Jews of Madinah fasting 'Ashura' — the day Allah saved the Children of Israel — the Prophet ﷺ said, "I have more right to Musa than you have," then fasted it and ordered its fast, kept since as a recommended sunnah. (Al-Bukhari, Muslim, An-Nasa'i and Ibn Majah)
-
-**Reflection** Meet hardship with ṣabr and rescue with shukr — every state returns you to your Lord.
 ## Personal Reflections
-
 

@@ -116,11 +116,5 @@ At the end of verse 35, it was said about the fulfillment of weight and measure:
 
 Give in full when you measure, and weigh with an even balance. That is fairest and best in the end.
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, the covenant will be questioned about (34)And give full measure when you measure, and weigh with a balance that is straight.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

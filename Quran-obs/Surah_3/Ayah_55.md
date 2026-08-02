@@ -354,19 +354,5 @@ In short, here and at other places, the very fact of such detailed description c
 
 When Allah said, “O Jesus! I will take you and raise you up to Myself. I will deliver you from those who reject the truth, and elevate your followers above those who reject the truth until the Day of Judgment. Then to Me you will return, and I will settle all your disputes.
 
-## AI Tafsir
-
-**Essence**
-When those who disbelieved among the Children of Israel plotted to kill 'Isa (3:54), Allah Himself intervened: He took him, raised him alive to Himself, cleared his name, and pledged that those who follow him will stand above the disbelievers until the Day of Resurrection, when Allah alone settles every dispute about him.
-
-**What it teaches**
-Maarif ul Quran reads the verse as five divine promises to 'Isa against the Jews: (1) his death will come not at their hands by killing but as a natural death near the end of time; (2) Allah will raise him to Himself at once — fulfilled per 4:158; (3) *mutahhiruka* — He will cleanse him of his enemies' false accusations; (4) *ja'iluka... fawqa* — He will place his followers above those who disbelieved until the Day of Resurrection; and (5) "to Me is your return, and I will judge between you in what you disputed." The contested word *tawaffi* lexically means "to take in full" — the soul taken back conclusively — and is also used of sleep and of death, which is why the verse both foils the plot to crucify him and refutes the claim of his divinity.
-
-**The scholars**
-On *mutawaffika*, Maarif reports the majority of scholars take it as "taking in full" — Allah will not leave 'Isa in the hands of the Jews but raise him bodily to the heavens. Ibn Kathir's own gloss is narrower: a taking "while you are asleep," citing Al-Hasan (via Ibn Abi Hatim) that Allah raised 'Isa while he slept, paired with "It is He Who takes your souls by night" (6:60) and "Allah takes the souls at the time of their death, and those that die not, during their sleep" (39:42). A further reading, reported from Ibn 'Abbas as al-Suyuti cites in al-Durr al-Manthur, takes *tawaffi* as death but with the sequence reversed — the raising first, the natural death only after 'Isa returns and prevails — so no one imagines his being raised alive makes him eternal like Allah. Maarif stresses that *rafi'uka ilayya*, reinforced by *ilayya*, is the raising alive of soul and body, not mere elevation of rank, matching 4:158. The two tafsirs read *mutahhiruka* differently: Ibn Kathir glosses it as deliverance "by raising you to heaven," whereas Maarif holds it was fulfilled when the final Prophet ﷺ came and the Qur'an refuted the Jews' slanders — against 'Isa's parentage and the charge that he claimed divinity. Ibn Kathir, under the promise that followers stand "above" the disbelievers, recounts how after 'Isa was raised his followers split into sects — some affirming him as servant and Messenger, others overstepping into sonship, divinity, or trinity, creeds the Qur'an names and refutes. Maarif notes this "above" rests on affirming his prophethood, so Christians and Muslims both dominated the Jews historically — though Hereafter salvation belongs only to those who also believed in the final Prophet ﷺ. Both works affirm, citing *mutawatir* reports and the consensus reported by Hafiz Ibn Hajar in Talkhis al-Habir, that 'Isa is alive in the heavens and will descend before the Day of Judgment as a just leader, lead the believers to victory, then die a natural death.
-
-**Reflection**
-Notice the order Allah chose: the taking is named before the raising, so rescue could never be mistaken for godhood. 'Isa is honoured with a bodily ascent yet still owes Allah a death — vindication and servitude held together. When schemes close in, trust that Allah's sequencing is itself mercy, unfolding in His perfect time.
 ## Personal Reflections
-
 

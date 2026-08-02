@@ -104,11 +104,5 @@ The word عِتِيًّا is derived from which actually means 'unresponsive' or
 
 The angel replied: "So it will be. Your Rabb says: It is easy for Me—as I created you before when you were nothing."
 
-## AI Tafsir
-
-**What this ayah teaches:** Then he (the angel) mentioned to him that which is more amazing than what he was asking about.
-
-**Classical tafsir:** Ibn Kathir notes: This was particularly amazing because his wife was an old woman who was barren and had not given birth to any children in her entire life.
 ## Personal Reflections
-
 

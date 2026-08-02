@@ -254,13 +254,5 @@ Finally, towards the end of the verse (10), it was said: وَمَا النَّص
 
 Remember when He covered you with drowsiness as security from Him, sent rain from the sky to purify you, remove Satan's whispers from you, strengthen your hearts, and make your steps firm.
 
-## AI Tafsir
-
-**Context:** (Remember) when He covered you with a slumber as a security from Him, and He caused water (rain) to descend on you from the sky, to clean you thereby and to remove from you the Rijz (whispering or dirt) of Shaytan, and t…
-
-**What this ayah teaches:** Slumber overcomes Muslims Allah reminds the believers of the slumber that He sent down on them as security from the fear they suffered from, because of the multitude of their enemy and the sparseness of their forces.
-
-**Classical tafsir:** Ibn Kathir notes: It means: 'Allah has done it only to give you glad tidings and so that your hearts might be at rest thereby.' The number of angels sent to support Muslims in the battle of Badr has been given as one thousand at this place, while in Surah 'Al-` Imran (3:124) the number mentioned i…
 ## Personal Reflections
-
 

@@ -225,13 +225,5 @@ Incidentally, the word, ذَرَّ‌ةٍ : dharrah" appearing in this verse has
 
 Indeed, Allah never wrongs —even by an atom’s weight. And if it is a good deed, He will multiply it many times over and will give a great reward out of His grace.
 
-## AI Tafsir
-
-**Context:** Al-Bukhari recorded that 'Abdullah bin Mas'ud said, "The Messenger of Allah ﷺ said to me, 'Recite to me.' I said, 'O Messenger of Allah!
-
-**What this ayah teaches:** Allah wrongs not even of the weight of a speck of dust, but if there is any good (done), He doubles it, and gives from Him a great reward (40)How (will it be) then, when We bring from each nation a witness and We bring you (O Muhammad) as a witness against these people (41)On that day those who disbelieved and disobeyed the Messenger will wish that they were buried in the earth, but they will neve…
-
-**Classical tafsir:** Ibn Kathir notes: However, some commentators have pointed out that 'dharrah' is the name of the smallest kind of red ant which the people of Arabia used to cite as an example of something very light and insignificantly small.
 ## Personal Reflections
-
 

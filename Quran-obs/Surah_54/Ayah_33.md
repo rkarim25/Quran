@@ -88,13 +88,5 @@ The forthcoming verses address the people of the time of the Prophet Muhammad �
 
 The people of Lot rejected the warnings.
 
-## AI Tafsir
-
-**Context:** رَ‌اوَدُوهُ عَن ضَيْفِهِ (And they had even tried to tempt him against his guests...54:37). The word murawadah signifies to entice someone to satisfy one's lust.
-
-**What this ayah teaches:** First it has appeared in verse 24 in connection with the people of Thamud where it is their own word, and means 'madness or insanity'.
-
-**Classical tafsir:** Ibn Kathir notes: The word murawadah signifies to entice someone to satisfy one's lust.
 ## Personal Reflections
-
 

@@ -145,13 +145,5 @@ In this narration, the act of writing has been attributed to the Holy Prophet ï·
 
 You could not read any writing before this, nor write â€” otherwise people of falsehood would suspect.
 
-## AI Tafsir
-
-**What this ayah teaches:** It is a fairly common idiom spoken quite widely that if someone gets something written by an ascribe, the writing is attributed to the former, even though he has not written it himself.
-
-**Classical tafsir:** Ibn Kathir notes: This is because it is preserved in the hearts and is easy on the tongue (i.e., is easy to recite), and is controlling people's hearts and minds.
-
-**From the Sunnah:** What I have been given is revelation which Allah reveals to me, and I hope that I will have the most followers among them.) According to the Hadith of 'Iyad bin Himar, recorded in Sahih Muslim, Allah says: (Sahih Muslim)
 ## Personal Reflections
-
 

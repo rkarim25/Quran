@@ -152,11 +152,5 @@ According to another narration, after reciting the verse cited above, he raised 
 
 If You punish them, they belong to You after all. But if You forgive them, You are surely the Almighty, All-Wise.”
 
-## AI Tafsir
-
-**What this ayah teaches:** And since He is Wise too, therefore, it is also not possible that He would let a wrong-doer walk away just for no reason.
-
-**Classical tafsir:** Ibn Kathir notes: ) appearing in the last verse (118), it means that Allah does not bring undue hardship on His servants, therefore, if punishment does come to them, it will only be just, right and wise.
 ## Personal Reflections
-
 

@@ -203,13 +203,5 @@ The same subject has been taken up in the first (25) and second (26) verses. The
 
 Indeed Allah has given you victory on many battlefields, even at the Battle of Ḥunain when you took pride in your great numbers, but they proved of no advantage to you. The earth, despite its vastness, seemed to close in on you, then you turned back in retreat.
 
-## AI Tafsir
-
-**What this ayah teaches:** Allah then sent down His aid and support to His Messenger ﷺ and the believers who remained with him, so that they were aware that victory is from Allah alone and through His aid, even if the victorious were few.
-
-**Classical tafsir:** Ibn Kathir notes: This indicates the tremendous trust in Allah and reliance upon Him, as well as, sure knowledge that He will give him victory, complete what He has sent him for and give prominence to his religion above all other religions.
-
-**From the Sunnah:** On the day of Hunayn, the Muslims were proud because of their large number, which did not avail them in the least; they retreated and fled from battle. After the Prophet ﷺ conquered Makkah and things settled, most of its people embraced Islam and he set them free.
 ## Personal Reflections
-
 

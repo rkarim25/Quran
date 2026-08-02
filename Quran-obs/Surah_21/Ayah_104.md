@@ -127,13 +127,5 @@ Sahih al-Bukhari contains a story on the authority of Sayyidna ` Abdullah Ibn ` 
 
 On that Day We will roll up the heavens like a scroll of writings. Just as We produced the first creation, so shall We reproduce it. That is a promise binding on Us. We truly uphold Our promises!
 
-## AI Tafsir
-
-**What this ayah teaches:** As He created them in the first place, He is surely able to re-create them.
-
-**Classical tafsir:** Ibn Kathir notes: As-Suddi said concerning this Ayah: "As-Sijill is an angel who is entrusted with the records; when a person dies, his Book (of deeds) is taken up to As-Sijill, and he rolls it up and puts it away until the Day of Resurrection." But the correct view as narrated from Ibn 'Abbas is that As-Sijill refer…
-
-**From the Sunnah:** that Nafi' reported from Ibn 'Umar that the Messenger of Allah ﷺ said: (Sahih al-Bukhari) It was also recorded in the Two Sahihs, and Al-Bukhari mentioned it in his Tafsir of this Ayah. (Sahih al-Bukhari)
 ## Personal Reflections
-
 

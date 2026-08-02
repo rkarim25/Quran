@@ -162,11 +162,5 @@ Explaining this, Sayyidna ` Abdullah ibn ` Abbas ؓ says: When the questions and
 
 The residents of the Fire will then cry out to the residents of Paradise, “Aid us with some water or any provision Allah has granted you.” They will reply, “Allah has forbidden both to those who reject the truth, those who took this faith as mere amusement and play and were deluded by worldly life.” “Today We will ignore them just as they ignored the coming of this Day of theirs and for rejecting Our revelations.”
 
-## AI Tafsir
-
-**What this ayah teaches:** The Favors of paradise are Prohibited for the People of the Fire Allah emphasizes the disgrace of the people of the Fire.
-
-**Classical tafsir:** Ibn Kathir notes: The Favors of paradise are Prohibited for the People of the Fire Allah emphasizes the disgrace of the people of the Fire.
 ## Personal Reflections
-
 

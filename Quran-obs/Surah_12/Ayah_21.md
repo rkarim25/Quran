@@ -228,11 +228,5 @@ Verse 21 ends with the statement: وَاللَّـهُ غَالِبٌ عَلَى
 
 The man from Egypt who bought him said to his wife, “Take good care of him, perhaps he may be useful to us or we may adopt him as a son.” This is how We established Joseph in the land, so that We might teach him the interpretation of dreams. Allah’s Will always prevails, but most people do not know.
 
-## AI Tafsir
-
-**What this ayah teaches:** And he (the man) from Egypt who bought him, said to his wife: "Make his stay comfortable, maybe he will profit us or we shall adopt him as a son." Thus did We establish Yusuf in the land, that We might teach him the interpretation of events.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, they did not stop at simply selling him because they felt the danger that the caravan may somehow leave him behind as a result of which he may somehow reach their father and tell him all about their conspiracy.
 ## Personal Reflections
-
 

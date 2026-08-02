@@ -144,13 +144,5 @@ Sahih Muslim has reported that this verse was revealed about the Holy Prophet �
 
 You surely cannot guide whoever you like O Prophet, but it is Allah Who guides whoever He wills, and He knows best who are fit to be guided.
 
-## AI Tafsir
-
-**Context:** (Verily, you guide not whom you like, but Allah guides whom He wills. And He knows best those who are the guided.) meaning: Allah knows best who deserves to be guided and who deserves to be misguided.
-
-**What this ayah teaches:** According to first meaning of the word it is but obvious that the Holy Prophet ﷺ and all other prophets were guides, and that imparting guidance was within their control, because it was the obligation of their duty.
-
-**Classical tafsir:** Ibn Kathir notes: Az-Zuhri said: "Sa'id bin Al-Musayyib narrated to me that his father, Al-Musayyib bin Hazan Al-Makhzumi, may Allah be pleased with him, said: "When Abu Talib was dying, the Messenger of Allah ﷺ came to him and found Abu Jahl bin Hisham and 'Abdullah bin Abi Umayyah bin Al-Mughirah with him.
 ## Personal Reflections
-
 

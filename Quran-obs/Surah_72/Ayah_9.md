@@ -130,13 +130,5 @@ A doubt that may arise here is that the existence of Meteors, which in common pa
 
 We used to take positions there to eavesdrop, but whoever tries that now finds a blazing flare waiting.
 
-## AI Tafsir
-
-**What this ayah teaches:** And verily, we used to sit there in stations, to (steal) a hearing, but any who listens now will find a flaming fire watching him in ambush.) meaning, whoever would like to steal some information by listening, he will find a flaming fire waiting in ambush for him.
-
-**Classical tafsir:** Ibn Kathir notes: As-Suddi said, "The sky was never guarded except if there was a Prophet in the earth or the religion of Allah was victorious and dominant in the earth." So the devils before the time of Muhammad ﷺ had taken sitting stations for themselves in the heaven of this world and they would listen to the matt… This verse, however, indicates that they showed up to repel the devils as if they are new-age phenom…
-
-**From the Sunnah:** Then they found the Messenger of Allah ﷺ reciting (the Qur'an) while leading his Companions in prayer.
 ## Personal Reflections
-
 

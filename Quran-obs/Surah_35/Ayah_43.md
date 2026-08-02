@@ -199,13 +199,5 @@ Ends here
 
 behaving arrogantly in the land and plotting evil. But evil plotting backfires on those who plot. Are they waiting for anything but the fate of those destroyed before? You will find no change in Allah's way, nor will you find it diverted.
 
-## AI Tafsir
-
-**Context:** (yet when a warner came to them,) – meaning, Muhammad ﷺ with the Book revealed to him, i.e., the Clear Qur'an,
-
-**What this ayah teaches:** And they swore by Allah their most binding oath that if a warner came to them, they would be more guided than any of the nations; yet when a warner came to them, it increased in them nothing but flight (from the truth)(42)(They took to flight because of their) arrogance in the land and their plotting of evil. In other words, a person who wishes evil for others, he himself falls a victim to it.
-
-**Classical tafsir:** Ibn Kathir notes: This means, no one can remove that from them or ward it off from them.
 ## Personal Reflections
-
 

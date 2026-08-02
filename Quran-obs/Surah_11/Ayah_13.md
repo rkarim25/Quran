@@ -131,11 +131,5 @@ At this place, the Holy Qur'an has said that they should come up with ten Surahs
 
 Or do they say, “He has fabricated this Quran!”? Say, O Prophet, “Produce ten fabricated sûrahs like it and seek help from whoever you can—other than Allah—if what you say is true!”
 
-## AI Tafsir
-
-**What this ayah teaches:** So perchance you may give up a part of what is revealed unto you, and that your breast feels straitened for it because they say, "Why has not a treasure been sent down unto him, or an angel come with him" But you are only a warner.
-
-**Classical tafsir:** Ibn Kathir notes: So perchance you may give up a part of what is revealed unto you, and that your breast feels straitened for it because they say, "Why has not a treasure been sent down unto him, or an angel come with him" But you are only a warner.
 ## Personal Reflections
-
 

@@ -94,11 +94,5 @@ This is also about the Gathering when the angels, comprising seven lines in ever
 
 So which of your Rabb's favours will you both—humans and jinn—deny?
 
-## AI Tafsir
-
-**What this ayah teaches:** We shall attend to you, O Thaqalan (31)Then which of the blessings of your Lord will you both deny (32)O assembly of Jinn and men!
-
-**Classical tafsir:** Ibn Kathir notes: Mujahid said, "Molten brass poured over their heads." Qatadah held the same view. But he said that the scholars of Qur'anic recitation said that in this Ayah, the word recited is Nuhas.
 ## Personal Reflections
-
 

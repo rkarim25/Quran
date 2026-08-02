@@ -196,11 +196,5 @@ The word الطَّاغِيَةِ At-Taghiyah is derived from tughyan which mean
 
 As for Thamud, they were destroyed by an overwhelming blast.
 
-## AI Tafsir
-
-**What this ayah teaches:** Thamud and 'Ad denied the Qari'ah!)(5. When Thamud exceeded the limit in denying the Day of Judgment, they were destroyed by that dreadful cry which exceeded all limits.
-
-**Classical tafsir:** Ibn Kathir notes: Qatadah said similar to this when he said, "At-Taghiyah is the shout." Mujahid said, "At-Taghiyah means the sins." This was also said by Ar-Rabi' bin Anas and bin Zayd. And We have created for them of the like thereunto, on which they ride.)(36:41,42) Qatadah said, "Allah caused this ship to remain until the first people of this Ummah saw it." However, the first view (that it refers to all ships in…
 ## Personal Reflections
-
 

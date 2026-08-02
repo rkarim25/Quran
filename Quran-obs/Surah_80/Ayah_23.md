@@ -192,11 +192,5 @@ Having mentioned in the preceding verses the beginning and the end of human life
 
 No—they have not fulfilled what He commanded.
 
-## AI Tafsir
-
-**What this ayah teaches:** But he has not done what He commanded him.) means, He has not done it (resurrected them) as of yet, until the time period has expired and the extent of the earthly life of humanity is complete, according to the lives of all whom Allah has written it to exist from the time they are brought into existence into the world.
-
-**Classical tafsir:** Ibn Kathir notes: Verily, Allah has decreed the existence of mankind, and its duration, therefore, when that is finished with Allah, He resurrects the creatures and repeats their creation just as He initially created them.
 ## Personal Reflections
-
 

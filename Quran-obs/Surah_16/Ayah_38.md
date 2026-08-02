@@ -149,11 +149,5 @@ From verse 36 in the present Surah: وَلَقَدْ بَعَثْنَا فِي �
 
 They swear by Allah their most solemn oaths that Allah will never raise the dead to life. Yes He will! It is a true promise binding on Him, but most people do not know.
 
-## AI Tafsir
-
-**What this ayah teaches:** The Resurrection after Death is true, there is Wisdom behind it, and it is easy for Allah Allah tells us that the idolators swore by Allah their strongest oaths, meaning that they made oaths swore fervently that Allah would not resurrect the one who died.
-
-**Classical tafsir:** Ibn Kathir notes: Yes, (He will raise them up), a promise (binding) upon Him in truth, but most of mankind know not (38)In order that He may make clear to them what they differed over, and so that those who disbelieved may know that they were liars (39)Verily, Our Word to a thing when We intend it…
 ## Personal Reflections
-
 

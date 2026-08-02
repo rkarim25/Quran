@@ -144,15 +144,5 @@ It should be noted here that there are two types of rida' [ pleasure ]: one in g
 
 Those who believe and do righteous deeds—they are the best of creation in outcome.
 
-## AI Tafsir
-
-**Context:** It should be noted here that there are two types of rida' [ pleasure ]: one in general sense; and second in specific or higher sense. In the general sense, rida' bil-qadr (i.e.
-
-**What this ayah teaches:** They are the worst of creatures (6)Verily, those who believe and do righteous good deeds, they are the best of creatures (7)Their reward with their Lord is Eternal Gardens, underneath which rivers flow. Verily, those who disbelieve from among the People of the Scripture and idolators, will abide in the fire of Hell.
-
-**Classical tafsir:** Ibn Kathir notes: This means that they will remain in it and they will have no way out of it and they will not cease being in it.
-
-**From the Sunnah:** Paradise, that is, the Divine pleasure with no danger of Divine displeasure.
 ## Personal Reflections
-
 

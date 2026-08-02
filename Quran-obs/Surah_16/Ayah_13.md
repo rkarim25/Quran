@@ -94,11 +94,5 @@ Then, in verse 13, after mentioning all other varied produce of the land, it was
 
 And He subjected for you whatever He has created on earth of varying colours. Surely in this is a sign for those who are living with taqwa.
 
-## AI Tafsir
-
-**What this ayah teaches:** Surely, His is the creation and commandment.
-
-**Classical tafsir:** Ibn Kathir notes: The sense is that no deep thinking is needed here as well - because, the proof has been furnished openly.
 ## Personal Reflections
-
 

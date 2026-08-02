@@ -188,13 +188,5 @@ If a believer starts a nafl (an act of worship that is not obligatory), and then
 
 Those who reject the truth, block Allah's path, and defy the Messenger after guidance has become clear—they cannot harm Allah in the least, but He will render their deeds void.
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, those who disbelieve, and hinder from the path of Allah, and oppose the Messenger, after the guidance has been clearly shown to them, they will not harm Allah in the least, but He will make their deeds fruitless (32)O you who believe!
-
-**Classical tafsir:** Ibn Kathir notes: He indicates that those people can never harm Allah in the least, and rather they only harm themselves and become losers on the Day of Resurrection.
-
-**From the Sunnah:** If, on the other hand, the those who reject the truth are considered more powerful and numerous than the Muslims, then the Imam (general commander) may decide to hold a treaty if he judges that it entails a benefit for the Muslims.
 ## Personal Reflections
-
 

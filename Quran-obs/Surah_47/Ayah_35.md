@@ -128,13 +128,5 @@ Then, Allah commands His believing servants to obey Him and His Messenger ﷺ, w
 
 So do not weaken or call for peace while you have the upper hand. Allah is with you, and He will never let your deeds go to waste.
 
-## AI Tafsir
-
-**What this ayah teaches:** This verse indicates that if the infidels want peace, it is permissible to enter into peace agreement with them.
-
-**Classical tafsir:** Ibn Kathir notes: He indicates that those people can never harm Allah in the least, and rather they only harm themselves and become losers on the Day of Resurrection.
-
-**From the Sunnah:** If, on the other hand, the those who reject the truth are considered more powerful and numerous than the Muslims, then the Imam (general commander) may decide to hold a treaty if he judges that it entails a benefit for the Muslims. This verse prohibits the Muslims to invite the infidels to enter into peace treaty.
 ## Personal Reflections
-
 

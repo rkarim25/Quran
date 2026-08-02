@@ -61,11 +61,5 @@ In verse 77, it was said: فَاصْبِرْ‌ إِنَّ وَعْدَ اللّ
 
 He shows you His signs. Now which of Allah's signs will you deny?
 
-## AI Tafsir
-
-**What this ayah teaches:** Allah, it is He Who has made cattle for you, that you may ride on some of them, and of some you eat (79)And you have (many other) benefits from them, and that you may reach by their means a desire that is in your breasts, and on them and on ships you are carried (80)And He shows you His Ayat. Therefore, it was to comfort him that he was asked to be somewhat patient about it.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, it was to comfort him that he was asked to be somewhat patient about it.
 ## Personal Reflections
-
 

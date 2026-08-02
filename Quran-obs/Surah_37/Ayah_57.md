@@ -131,13 +131,5 @@ Anyhow, whoever this person may be - it does not matter. This event has been men
 
 Had it not been for the grace of my Lord, I too would have certainly been among those brought to Hell."
 
-## AI Tafsir
-
-**What this ayah teaches:** He said, 'I have bought these two gardens for two thousand Dinars.' He replied, 'How beautiful this is.' When he came out, he said, 'O Lord, my companion has bought two gardens for two thousand Dinars; I ask you for two gardens in Paradise' – and he gave two thousand Dinars in charity. This attitude proves lethal for one who is so affected in terms of the end he would have in the Hereafter.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, it cannot be said with any degree of certainty as to who this person could be.
-
-**From the Sunnah:** Abu Ja'far bin Jarir recorded that Furat bin Tha'labah Al-Bahrani said concerning the Ayah, Paradise – and he gave one thousand Dinars in charity.
 ## Personal Reflections
-
 

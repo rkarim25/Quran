@@ -138,13 +138,5 @@ Some commentators say that the statement - رَ‌دَدْنَاهُ أَسْف�
 
 Except those with iman—faith that reshapes how you live—who do righteous deeds; for them is unending reward.
 
-## AI Tafsir
-
-**What this ayah teaches:** For those who believed and did righteous deeds, there is a reward that is unending.
-
-**Classical tafsir:** Ibn Kathir notes: Then We reduced him to the lowest of the low.)(6.
-
-**From the Sunnah:** Malik and Shu'bah narrated from 'Adi bin Thabit, who narrated that Al-Bara' bin 'Azib said, "The Prophet ﷺ used to recite in one of his Rak'ahs while traveling 'At-Tin waz-Zaytun' (Surat At-Tin), and I have never heard anyone with a nicer voice or recitation t… Paradise for the righteous believers, the verse reads: لَهُمْ أَجْرٌ‌ غَيْرُ‌ مَمْنُونٍ (for them there is a reward never ending. (Sahih Muslim)
 ## Personal Reflections
-
 

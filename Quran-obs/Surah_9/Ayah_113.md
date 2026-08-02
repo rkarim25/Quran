@@ -178,15 +178,5 @@ The event that was the cause or background of the revelation of this ayah has be
 
 It is not for the Prophet and those who have iman to seek forgiveness for the polytheists, even if they were close relatives, after it has become clear to those who have iman that they are bound for the Hellfire.
 
-## AI Tafsir
-
-**Context:** (I will invoke Allah for forgiveness for you, as long as I am not prohibited from doing so.) This verse was revealed, Ali bin Abi Talhah narrated that Ibn 'Abbas commented on this Ayah, "They used to invoke Allah for the…
-
-**What this ayah teaches:** It is not (proper) for the Prophet and those who believe to ask Allah's forgiveness for the Mushrikin, even though they be of kin, after it has become clear to them that they are the dwellers of the Fire (because they died in a state of disbelief)(113)And Ibrahim's invoking (of Allah) for his father's forgiveness was only because of a promise he [Ibrahim] had made to him (his father).
-
-**Classical tafsir:** Ibn Kathir notes: But when it became clear to him [Ibrahim] that he (his father) is an enemy of Allah, he dissociated himself from him.
-
-**From the Sunnah:** intercede on his behalf and he could have his deliverance from the…
 ## Personal Reflections
-
 

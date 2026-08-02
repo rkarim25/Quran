@@ -197,13 +197,5 @@ In the verse cited above, the word: يَتَوَفَّى (yatawaffa) in the sens
 
 Allah calls back the souls upon their death as well as the souls of the living during their sleep. Then He keeps those for whom He has ordained death, and releases the others until their appointed time. Surely in this are signs for people who reflect.
 
-## AI Tafsir
-
-**What this ayah teaches:** And you are not a trustee over them (41)It is Allah Who takes away the souls at the time of their death, and those that die not during their sleep. He keeps those (souls) for which He has ordained death and sends the rest for a term appointed.
-
-**Classical tafsir:** Ibn Kathir notes: And then, at times, even this inward connection is severed because of which the life of the body goes extinct, totally.
-
-**From the Sunnah:** This indicates that they [the souls] meet in the higher realm, as was stated in the Hadith attributed to the Prophet ﷺ which was narrated by Ibn Mandah and others. (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
-
 

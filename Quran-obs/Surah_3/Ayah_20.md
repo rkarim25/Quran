@@ -249,17 +249,5 @@ The Surah began with the confirmation of Divine Oneness and the refutation of Tr
 
 So if they argue with you, say, “I have submitted myself to Allah, and so have my followers.” And ask those who were given the Scripture and the illiterate, “Have you submitted yourselves to Allah?” If they submit, they will be guided. But if they turn away, then your duty is only to deliver. And Allah is All-Seeing of servants.
 
-## AI Tafsir
-
-**Essence** When opponents argue, the believer answers not with debate but with a declaration: total submission of the whole self to Allah alone — and once the message is delivered, guidance rests with Allah, not with the messenger.
-
-**What it teaches** If the People of the Book and the idolaters dispute about Tawhid, the Prophet (peace be upon him) is told to reply, "I have submitted my face (wajh) to Allah" — aslamtu wajhiya lillah, meaning, as Ibn Kathir explains, "I have made my worship sincere for Allah Alone without partners, rivals, offspring or companion," and so have those who follow his religion and creed. He then asks them, "Have you submitted?" — for if they accept Islam they are rightly guided (ihtadaw), and if they turn away his sole duty is al-balagh, the conveying of the message, while Allah remains Basir bil-'ibad, All-Seeing of His servants.
-
-**The scholars** Ibn Kathir reads "aslamtu wajhiya lillah" as a confession of pure, exclusive worship, paired with 12:108 ("This is my way; I invite unto Allah with sure knowledge, I and whosoever follows me"). The command to call "those given the Scripture and the unlettered idolaters" proves, he says, that the Prophet's (peace be upon him) message is universal to all creation, citing 7:158 ("O mankind! Verily, I am sent to you all") and 25:1. On "your duty is only to convey," Ibn Kathir explains that "their reckoning is with Allah... It is He Who guides whom He wills and allows whom He wills to stray" — and since this rests on His perfect wisdom, "He cannot be questioned for what He does, while they will be questioned" (21:23). "And Allah sees the servants," he adds, means He sees His servants and so knows perfectly who deserves to be guided. Maarif ul Quran draws the practical lesson: against Scripture-people who keep disputing even after Islam's truth is proven, a believer need only declare he has entered Islam in no doubt of its truth; their rejection "should really not be a matter of concern for him," for Allah is "in full sight of what His servants are doing."
-
-**From the Sunnah** The Prophet's (peace be upon him) mission was universal. The Two Sahihs record that he sent letters to the kings of the earth — Arabs and non-Arabs, People of the Book and the unlettered — calling them to Islam. And Abu Hurayrah reported him saying, "No member of this Ummah, no Jew or Christian, hears of me but dies without believing in what I was sent with, but will be among the people of the Fire." (Muslim) Whereas every earlier prophet was sent only to his own people, he (peace be upon him) was sent to all mankind, red and black alike. (as cited by Ibn Kathir)
-
-**Reflection** Make your worship purely Allah's, convey the truth with calm certainty, and leave the hearts of others to the All-Seeing One — your task is to deliver, not to compel.
 ## Personal Reflections
-
 

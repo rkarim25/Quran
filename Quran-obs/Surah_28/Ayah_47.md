@@ -180,13 +180,5 @@ Allah points out the proof of the prophethood of Muhammad ﷺ, whereby he told o
 
 Also so they would not say, if struck by an affliction for what their hands have done: “Our Rabb! If only You had sent us a messenger, we would have followed Your revelations and become mu'mins.”
 
-## AI Tafsir
-
-**Context:** (and you were not among the witnesses.) 'to that event, but Allah has revealed this to you,' so that it may be evidence and proof of events which happened centuries ago, for people have forgotten the evidence that Allah…
-
-**What this ayah teaches:** We would then have followed Your Ayat and would have been among the believers.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

@@ -111,11 +111,5 @@ This King was placed in authority over them just as he was used as an instrument
 
 When the wrongdoers sensed the arrival of Our torment, they started to run away from their cities.
 
-## AI Tafsir
-
-**What this ayah teaches:** Hence it will be apt to leave the subject open, so that these settlements of Yemen may also come in its ambit.
-
-**Classical tafsir:** Ibn Kathir notes: Hence it will be apt to leave the subject open, so that these settlements of Yemen may also come in its ambit.
 ## Personal Reflections
-
 

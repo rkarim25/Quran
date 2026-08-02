@@ -124,13 +124,5 @@ At the end of verse (115), it was said: وَهُوَ السَّمِيعُ الْ
 
 The Word of your Rabb has been perfected in truth and justice. None can change His Words. And He is the All-Hearing, All- Knowing.
 
-## AI Tafsir
-
-**What this ayah teaches:** All of Allah's statements are true, there is no doubt or cause for speculation about this fact, and all His commandments are pure justice, besides which there is no justice.
-
-**Classical tafsir:** Ibn Kathir notes: So be not you of those who doubt (114)And the Word of your Lord has been fulfilled in truth and in justice.
-
-**From the Sunnah:** The conditional 'if' in this Ayah does not mean that 'doubt' will ever occur to the Prophet ﷺ.
 ## Personal Reflections
-
 

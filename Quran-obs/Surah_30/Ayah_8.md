@@ -124,13 +124,5 @@ The gist of this discussion is that if the disbelievers had pondered over these 
 
 Have they not reflected on themselves? Allah created the heavens and earth and everything between for a purpose and an appointed term. Yet most reject meeting their Rabb.
 
-## AI Tafsir
-
-**What this ayah teaches:** There is a great wisdom and purpose behind their creation, which is, that people should recognize the Creator through all His creations, and then get on to look for things that He likes and dislikes.
-
-**Classical tafsir:** Ibn Kathir notes: It is obvious that there should be rewards for good deeds, and punishments for evil doings, because equating good with bad is against justice and fair play.
-
-**From the Sunnah:** It was reported in the Hadith recorded by At-Tirmidhi, Ibn Jarir, Ibn Abi Hatim and Al-Bazaar that Abu Said said: “On the day of Badr, the Romans defeated the Persians, and the believers were happy and rejoiced about that.
 ## Personal Reflections
-
 

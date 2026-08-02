@@ -96,11 +96,5 @@ Punishment of the Dwellers of Hell
 
 will be the food of the evildoer.
 
-## AI Tafsir
-
-**What this ayah teaches:** They argue that the word nuzul (entertainment) originally refers to the starter food and provision served to guests to make them feel welcome before the main course of entertainment is served. Here the Qur'an apparently indicates that the infidels will be given zaqqum to eat even before they enter Hell, because in this verse the Qur'an says that after having fed them with zaqqum they will be seize…
-
-**Classical tafsir:** Ibn Kathir notes: Mujahid said, "If a drop of it were to fall on the earth, it would corrupt the living of all the people of earth." A similar Marfu' report has been narrated earlier.
 ## Personal Reflections
-
 

@@ -71,11 +71,5 @@ Addressing Iblis in Surah Al-A` raf, it was said: مَا مَنَعَكَ أَل
 
 Allah asked, “O Iblîs! What is the matter with you that you did not join others in prostration?”
 
-## AI Tafsir
-
-**What this ayah teaches:** What is your reason for not being among the prostrate?
-
-**Classical tafsir:** Ibn Kathir notes: This indicates that the main prostraters were after all the angels but Iblis too, being present with them, was reason-bound to join the prostrating an-gels.
 ## Personal Reflections
-
 

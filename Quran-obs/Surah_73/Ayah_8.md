@@ -299,15 +299,5 @@ This indicates that the repetition of Allah's personal name 'Allah, Allah' is al
 
 Remember the Name of your Rabb, and devote yourself to Him with your whole heart.
 
-## AI Tafsir
-
-**Context:** (Stand (to pray) all night, except a little. Half of it or less than that, a little.)(73:2-3) "This became difficult on the believers.
-
-**What this ayah teaches:** This indicates that the repetition of Allah's personal name 'Allah, Allah' is also desired and required form of dhikr and worship.
-
-**Classical tafsir:** Ibn Kathir notes: Lord of the east and the west; La ilaha illa Huwa, so take Him as a trustee.) The Command to stand at Night (in Prayer) Allah commands His Messenger ﷺ to cease being wrapped up, and this means to be covered during the night.
-
-**From the Sunnah:** Thus, the Prophet ﷺ did as Allah ordered him, by standing for prayer at night. In Sahih Al-Bukhari, it is recorded from Anas that he was asked about the recitation of the Messenger of Allah ﷺ, so he replied, "He used to elongate the letters." Then he (Anas) recited, (Sahih al-Bukhari)
 ## Personal Reflections
-
 

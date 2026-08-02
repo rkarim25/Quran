@@ -162,11 +162,5 @@ In a Hadith, the Holy Prophet ﷺ said, 'Of some صِّدِّيقِين (siddiqi
 
 Musa replied: "I seek refuge in my Lord and your Lord from every arrogant person who does not believe in the Day of Reckoning."
 
-## AI Tafsir
-
-**What this ayah teaches:** The second command was for the second reason, to humiliate the people so that they would regard Musa as a bad omen. But, the truth of the matter is that Habib is the name of the person who has been mentioned in Surah Sin (36:20).
-
-**Classical tafsir:** Ibn Kathir notes: Qatadah said, this was one command after another.
 ## Personal Reflections
-
 

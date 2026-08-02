@@ -180,13 +180,5 @@ And Sayyidna ` Abdullah Ibn ` Umar ؓ has narrated that the Holy Prophet ﷺ has
 
 O mu'mins! Always remember Allah often,.
 
-## AI Tafsir
-
-**What this ayah teaches:** The instruction of remembering Allah in abundance is given in the above verse to show gratitude for those blessings.
-
-**Classical tafsir:** Ibn Kathir notes: His mercy towards them in the Hereafter means that He will save them from the greater terror (of the Day of Resurrection) and will command His angels to greet them with the glad tidings of Paradise and salvation from the Fire, which will only be because of His love for them and H…
-
-**From the Sunnah:** People such as An-Nasa'i and Al-Ma'mari and others have written books about the Adhkar to be recited at different times of the night and day. (Sunan an-Nasa'i) Allah's Salah means that He praises His servant before the angels, as Al-Bukhari recorded from Abu Al-'Aliyah. (Sahih al-Bukhari)
 ## Personal Reflections
-
 

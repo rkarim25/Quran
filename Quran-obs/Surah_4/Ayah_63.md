@@ -160,13 +160,5 @@ After that, towards the end of this verse (63), the Holy Prophet 4 has been aske
 
 Allah knows what is in their hearts. So turn away from them, caution them, and give them advice that will shake their very souls.
 
-## AI Tafsir
-
-**Context:** Allah chastises those who claim to believe in what Allah has sent down to His Messenger ﷺ and to the earlier Prophets, yet they refer to other than the Book of Allah and the Sunnah of His Messenger ﷺ for judgment in vari…
-
-**What this ayah teaches:** After that, towards the end of this verse (63), the Holy Prophet 4 has been asked to give good counsel to the rest of the hypocrites as well, in a way that may touch their hearts, that is, tell them to fear what lies beyond the present life and invite them to follow the path of Islam sincerely, or remind them of their likely worldly punishment in the event they stuck to their h…
-
-**Classical tafsir:** Ibn Kathir notes: Let Allah be sufficient for you in this regard, because He has perfect knowledge of their apparent and hidden affairs.
 ## Personal Reflections
-
 

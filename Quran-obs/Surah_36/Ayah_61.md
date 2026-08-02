@@ -76,11 +76,5 @@ In verse 60, it was said: أَلَمْ أَعْهَدْ إِلَيْكُمْ ي�
 
 but to worship Me alone? This is the Straight Path.
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, he is a plain enemy to you.) This is a rebuke from Allah to the those who reject the truth among the sons of Adam, those who obey the Shaytan even though he was a plain enemy to them, and they disobeyed Ar-Rahman Who created them and granted them provision.
-
-**Classical tafsir:** Ibn Kathir notes: In other words, this would be said on the day of Qiyamah to all human beings, (even to the Jinn).
 ## Personal Reflections
-
 

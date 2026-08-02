@@ -139,11 +139,5 @@ In the verse cited above, the word: يَتَوَفَّى (yatawaffa) in the sens
 
 Yet when Allah alone is mentioned, the hearts of those who reject the Akhirah are filled with disgust. But as soon as those gods other than Him are mentioned, they are filled with joy.
 
-## AI Tafsir
-
-**What this ayah teaches:** There is no Intercession except with Allah, and how the Idolators are filled with Disgust when Allah is mentioned alone Allah condemns the idolators for taking intercessors besides Allah, namely the idols and false gods whom they have taken on the basis of their own whims, with no evidence or proof.
-
-**Classical tafsir:** Ibn Kathir notes: There is no Intercession except with Allah, and how the Idolators are filled with Disgust when Allah is mentioned alone Allah condemns the idolators for taking intercessors besides Allah, namely the idols and false gods whom they have taken on the basis of their own whims, with n…
 ## Personal Reflections
-
 

@@ -310,11 +310,5 @@ The verse implies that there were two groups of people among the early Jews, the
 
 Then they were succeeded by other generations who inherited the Scripture. They indulged in unlawful gains, claiming, “We will be forgiven.” And if similar gain came their way, they would seize it. Was a covenant not taken from them in the Scripture that they would not say anything about Allah except the truth? And they were already well-versed in its teachings. But the Home of the Akhirah is far better for those who live with taqwa. Will you not then understand?
 
-## AI Tafsir
-
-**What this ayah teaches:** Being persistent in their sinful acts and claiming their forgiveness is sheer self deception.
-
-**Classical tafsir:** Ibn Kathir notes: The use of this word for money indicates that anything owned in this world is temporary, because this word, as an antonym of 'Jauhar' (substance), is used for an object which requires something else to show its existence like colour which requires another thing to show itself.
 ## Personal Reflections
-
 

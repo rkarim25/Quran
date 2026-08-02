@@ -130,13 +130,5 @@ As for the events mentioned above, they offer no contradiction be-cause 'Adam an
 
 and surely Hell is their destined place, all together.
 
-## AI Tafsir
-
-**What this ayah teaches:** Because You misled me, I shall indeed adorn the path of error for them (mankind) on the earth, and I shall mislead them all.
-
-**Classical tafsir:** Ibn Kathir notes: Because You misled me, I shall indeed adorn the path of error for them (mankind) on the earth, and I shall mislead them all.
-
-**From the Sunnah:** Ibn Abi Hatim recorded that Samurah bin Jundub reported from the Prophet ﷺ about,
 ## Personal Reflections
-
 

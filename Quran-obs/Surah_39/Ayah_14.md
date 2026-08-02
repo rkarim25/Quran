@@ -95,13 +95,5 @@ Imam Malik (رح) has taken: صَابرین (as-sabirun) in this verse to mean p
 
 Say: "It is only Allah that I worship, being sincere in my devotion to Him.
 
-## AI Tafsir
-
-**What this ayah teaches:** So much so that people who had lived their life of the mortal world in perfect peace and comfort would wish, 'alas! Similarly, the acts of worship such as Salah and Hajj will be weighed, and its reward would be duly given to those who had performed these.
-
-**Classical tafsir:** Ibn Kathir notes: So much so that people who had lived their life of the mortal world in perfect peace and comfort would wish, 'alas!
-
-**From the Sunnah:** This is a conditional sentence, and if what is referred to here applies to the Prophet ﷺ, it applies even more so to others,
 ## Personal Reflections
-
 

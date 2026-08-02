@@ -163,11 +163,5 @@ It is a book inscribed and sealed. No one can add anything to it, nor can anyone
 
 When Our revelations are recited, they say, 'Ancient fables!'
 
-## AI Tafsir
-
-**What this ayah teaches:** He is a sinner in his statements, because he lies whenever he speaks, he breaks his promises whenever he makes them, and he behaves in an abusive and wicked manner whenever he argues. But on their hearts is the Ran (covering) which they used to earn.) meaning, the matter is not as they claim, nor as they say: "Verily, this Qur'an is tales of the ancients." Rather, it is the Word of Allah, His insp…
-
-**Classical tafsir:** Ibn Kathir notes: Truly, the Record of the wicked is in Sijjin.) meaning, that their final destination and their abode will be in Sijjin, which is derived from the word prison (Sijn), and here it means straitened circumstances.
 ## Personal Reflections
-
 

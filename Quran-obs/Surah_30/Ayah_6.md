@@ -138,15 +138,5 @@ The other possibility is that "Allah's help" in the above sentence means Allah's
 
 That is Allah's promise. Allah never fails His promise — yet most people do not know.
 
-## AI Tafsir
-
-**Context:** These Ayat were revealed about the victory of Sabur, the king of Persia, over Ash-Sham (Greater Syria), the adjoining partisan states of the Arabian Peninsula, and the outlying regions of the land of the Romans.
-
-**What this ayah teaches:** A promise from Allah, and Allah fails not in His promise, but most men know not.)(7. He helps whom He wills, and He is the All-Mighty, the ar-Rahim.)(6.
-
-**Classical tafsir:** Ibn Kathir notes: How Caesar defeated Chosroes (Kisra) It was previously reported that 'Ikrimah said: "Chosroes sent his deputy and his army against Caesar, and they fought." It is well-known that Chosroes himself fought in the army that invaded his land, and he defeated Caesar and overwhelmed him until he had nothin… Mujahid said, “That was a place in the Arabian Peninsula which is closer to the land of the Romans t…
-
-**From the Sunnah:** that Ibn 'Abbas, may…
 ## Personal Reflections
-
 

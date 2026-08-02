@@ -179,27 +179,5 @@ Having indicated this, the Holy Qur'an makes a claim about itself: "There is no 
 
 This is the Book — there is no doubt in it. It is guidance for people of taqwa — living with Allah-consciousness, as though He sees you in every choice you make.
 
-## AI Tafsir
-
-**Essence**
-
-The Qur'an is a Book beyond all doubt, sent down from Allah as living guidance for those whose hearts hold taqwa.
-
-**What it teaches**
-
-"La rayba fihi" means there is no doubt that this Book is revealed from Allah — in its origin and in its contents. It is "hudan lil-muttaqin," guidance for the God-conscious: taqwa being to fear Allah and refrain from transgressing His commands. Though the Qur'an addresses and clarifies the truth for all, its saving guidance — the kind that reaches the heart — is granted only to those who receive it with faith.
-
-**The scholars**
-
-Ibn Kathir reports that Ibn 'Abbas, Ibn Mas'ud, Mujahid, Qatadah and others agreed "la rayba fihi" means "no doubt about it," and Ibn Abi Hatim knew of no disagreement on this. Ibn 'Abbas defined al-muttaqin as believers who shun shirk and work in Allah's obedience, fearing His punishment and hoping in His mercy. Ibn Kathir distinguishes two senses of huda: the faith Allah alone creates in the heart, and the clarifying of truth and direction to it. Maarif ul Quran notes that "dhalika" (that — pointing to the distant) answers the prayer for the straight path in al-Fatihah: the Qur'an is the response to that request.
-
-**From the Sunnah**
-
-A servant does not reach the rank of the muttaqin until he abandons even what is harmless, out of caution against falling into what is harmful. (At-Tirmidhi and Ibn Majah — Hasan Gharib)
-
-**Reflection**
-
-When 'Umar asked Ubayy bin Ka'b about taqwa, Ubayy likened it to crossing a thorny path — rolling up your sleeves and treading with care. Approach the Qur'an as one who already trusts it, and let its light teach you that careful step.
 ## Personal Reflections
-
 

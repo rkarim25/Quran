@@ -104,13 +104,5 @@ This verse refers to a theoretical situation relating to the Apostle of Allah in
 
 We know that some of you will persist in denial,
 
-## AI Tafsir
-
-**What this ayah teaches:** In other words, in verses [ 37-38] it was claimed that all visible and invisible things prove that the Prophet is Allah's true Messenger and that the Qur'an is Allah's revealed Word and not the imaginary flight of a poet's mind or the wild conjectures of a diviner.
-
-**Classical tafsir:** Ibn Kathir notes: A Cautionary Note This verse refers to a theoretical situation relating to the Apostle of Allah in particular that lest, Allah forbid, if he were to concoct a word and impute it to Allah, this is the way he would have been dealt with.
-
-**From the Sunnah:** The argument is to the effect that if the Prophet ﷺ had been a forger of lies against Allah, Allah's strong hand would have seized him by the throat and cut off his life-artery and he would have certainly met with a violent death.
 ## Personal Reflections
-
 

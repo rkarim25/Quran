@@ -206,11 +206,5 @@ Remembering these blessings would have been for their own good, but wicked and i
 
 Do you find it astonishing that a reminder should come to you from your Rabb through one of your own so he may warn you? Remember that He made you successors after the people of Noah and increased you greatly in stature. So remember Allah’s favours, so you may be successful.”
 
-## AI Tafsir
-
-**What this ayah teaches:** There is no foolishness in me, but (I am) a Messenger from the Lord of all that exists (67)"I convey unto you the Messages of my Lord, and I am a trustworthy adviser (or well-wisher) for you (68)"Do you wonder that there has come to you a Reminder (and an advice) from your Lord through a man from among you to warn you?
-
-**Classical tafsir:** Ibn Kathir notes: So remember the graces (bestowed upon you) from Allah so that you may be successful.
 ## Personal Reflections
-
 

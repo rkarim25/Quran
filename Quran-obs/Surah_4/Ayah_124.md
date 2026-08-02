@@ -239,11 +239,5 @@ The fourth verse (125) lays down a criterion to help determine correctly as to w
 
 But those who do good—whether male or female—and have faith will enter Paradise and will never be wronged the speck on a date stone.
 
-## AI Tafsir
-
-**What this ayah teaches:** It will not be in accordance with your desires, nor those of the People of the Scripture, whosoever works evil, will have the recompense thereof, and he will not find any protector or helper besides Allah (123)And whoever does righteous good deeds, male or female, and is a believer, such will enter Paradise and not the least injustice, even to the size of a Naqir, will be done…
-
-**Classical tafsir:** Ibn Kathir notes: The hint given here is that the People of the Book or other non-Muslims may also have some good deeds of their own, but, since their faith is not sound, therefore, those deeds of theirs are not acceptable.
 ## Personal Reflections
-
 

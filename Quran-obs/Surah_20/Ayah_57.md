@@ -73,11 +73,5 @@ The words مِنْهَا خَلَقْنَاكُمْ (From this We created you) i
 
 He said, “Have you come to drive us out of our land with your magic, O Moses?
 
-## AI Tafsir
-
-**What this ayah teaches:** Others have said that the seed itself is made of earth therefore anything created from the seed is in fact created from the earth.
-
-**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas said, "The day of their festivity was the day of 'Ashura'." As-Suddi, Qatadah and Ibn Zayd said, "It was the day of their great celebration." Sa'id bin Jubayr said, "It was the day of their great bazzar." These statements are not contradictory.
 ## Personal Reflections
-
 

@@ -151,11 +151,5 @@ It has been said, "They were hoping for something better in exchange in this lif
 
 The most sensible among them said: 'Did I not urge you to say in sha' Allah—if Allah wills?'
 
-## AI Tafsir
-
-**What this ayah teaches:** He told them that Allah is pure from such pettiness.
-
-**Classical tafsir:** Ibn Kathir notes: He had advised them to recite tasbih which, literally, means to pronounce Allah's purity.
 ## Personal Reflections
-
 

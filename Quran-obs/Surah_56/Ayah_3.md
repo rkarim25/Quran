@@ -154,11 +154,5 @@ Therefore, those who rush to obey Allah in this life and are foremost in perform
 
 It will bring some low and raise others high.
 
-## AI Tafsir
-
-**What this ayah teaches:** There is not, for its occurrence, Kadhibah.)(3.
-
-**Classical tafsir:** Ibn Kathir notes: There is not, for its occurrence, Kadhibah.)(3.
 ## Personal Reflections
-
 

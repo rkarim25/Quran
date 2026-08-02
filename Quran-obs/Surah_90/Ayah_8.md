@@ -312,13 +312,5 @@ In sum, an ignoramus and heedless person, who denies the power of the Omnipotent
 
 Have We not given them two eyes—
 
-## AI Tafsir
-
-**What this ayah teaches:** Have We not made for him two eyes?)(9. The word najdain signifies the two high and conspicuous ways of good and evil, or of success and destruction.
-
-**Classical tafsir:** Ibn Kathir notes: Al-Hasan Al-Basri said, "Allah made it lawful (to fight in) for him (the Prophet ﷺ) for one hour of a day." The meaning of what they have said was mentioned in a Hadith that is agreed-upon as being authentic.
-
-**From the Sunnah:** Al-Hasan Al-Basri said, "Allah made it lawful (to fight in) for him (the Prophet ﷺ) for one hour of a day." The meaning of what they have said was mentioned in a Hadith that is agreed-upon as being authentic.
 ## Personal Reflections
-
 

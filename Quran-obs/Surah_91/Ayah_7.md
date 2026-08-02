@@ -208,13 +208,5 @@ Zayd then said, "The Messenger of Allah ﷺ used to teach us these (words) and w
 
 By the soul and the One who proportioned it—
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, I seek refuge with You from a heart that is not humble, a soul that is not satisfied, knowledge that does not benefit and a supplication that is not answered.) Zayd then said, "The Messenger of Allah ﷺ used to teach us these (words) and we now teach them to you." Muslim also recorded this Hadith.
-
-**Classical tafsir:** Ibn Kathir notes: This is as Qatadah said, "He cleanses it from the lowly and despicable characteristics." Similar to this has been reported from Mujahid, 'Ikrimah and Sa'id bin Jubayr. This means that He clarified that for it and He guided it to what has been ordained for him.
-
-**From the Sunnah:** Both Al-Bukhari and Muslim recorded this Hadith from Abu Hurayrah. (Sahih al-Bukhari, Sahih Muslim) I only asked you about that in order to inform you that a man from Muzaynah or Juhaynah tribe came to the Allah's Messenger ﷺ and asked him:
 ## Personal Reflections
-
 

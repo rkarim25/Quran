@@ -166,15 +166,5 @@ In contra-distinction to Muwalah [ intimate friendship ], there is a concept of 
 
 Satan has overcome them and made them forget dhikr—conscious remembrance of Allah. They are the party of Satan, and Satan's party is bound to lose.
 
-## AI Tafsir
-
-**Context:** وَيَحْلِفُونَ عَلَى الْكَذِبِ (and they swear false oaths ...58:14). It means they swear oaths profanely. According to some reports, this verse was revealed in connection with ` Abdullah Ibn 'Ubayy and ` Abdullah Ibn Nab…
-
-**What this ayah teaches:** So he has made them forget the remembrance of Allah.) meaning, Shaytan has taken over their hearts to the point that he made them forget Allah the Exalted and Most Honored.
-
-**Classical tafsir:** Ibn Kathir notes: Here 'love', 'affection' or 'intimacy' refers to the one coming from the heart involving intense emotional commitment (which necessarily includes having love with his way of life.
-
-**From the Sunnah:** Allah chastises the hypocrites for secretly aiding and supporting the those who reject the truth even though, in reality, they were neither with the those who reject the truth nor with the Muslims.
 ## Personal Reflections
-
 

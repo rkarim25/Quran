@@ -140,11 +140,5 @@ Verse no. 33 supports and accentuates the explanation given above for the wisdom
 
 We certainly gave Moses the Book and appointed his brother Aaron as his helper.
 
-## AI Tafsir
-
-**What this ayah teaches:** And indeed We gave Musa the Scripture, and placed his brother Harun with him as a helper (35)And We said: "Go you both to the people who have denied Our Ayat." Then We destroyed them with utter destruction (36)And Nuh's people, when they denied the Messengers, We drowned them, and We made them as a sign for mankind.
-
-**Classical tafsir:** Ibn Kathir notes: The most correct view is that a generation refers to nations who are one another's contemporaries, living at the same time.
 ## Personal Reflections
-
 

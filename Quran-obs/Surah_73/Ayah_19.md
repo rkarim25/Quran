@@ -167,13 +167,5 @@ These verses describe the horrors and terrors of the Day of Resurrection. Verse 
 
 This is a reminder. Let whoever wills take the path back to their Rabb.
 
-## AI Tafsir
-
-**Context:** (He knows that there will be some among you sick, others traveling through the land, seeking of Allah's bounty, yet others fighting in Allah's cause.) meaning, He knows that there will be people of this nation who will h…
-
-**What this ayah teaches:** Verily, this is an admonition, therefore whosoever wills, let him take a path to His Lord (19)Verily, your Lord knows that you do stand a little less than two-thirds of the night, or half the night, or a third of the night, and also a party of those with you.
-
-**Classical tafsir:** Ibn Kathir notes: This means, stand and pray during the night as much as is easy (for you).
 ## Personal Reflections
-
 

@@ -254,15 +254,5 @@ At this point, it is worth remembering that the waiver in the Islamic Legal Puni
 
 As for those who repent before you seize them, then know that Allah is All-Forgiving, the Rahim.
 
-## AI Tafsir
-
-**Context:** (Allah is Of-Forgiving, ar-Rahim,) "Were revealed about the idolators. Therefore, the Ayah decrees that, whoever among them repents before you apprehend them, then you have no right to punish them.
-
-**What this ayah teaches:** That is their disgrace in this world, and a great torment is theirs in the Hereafter (33)Except for those who (having fled away and then) came back (as Muslims) with repentance before they fall into your power; in that case, know that Allah is Oft-Forgiving, ar-Rahim .
-
-**Classical tafsir:** Ibn Kathir notes: This view is supported by the fact that the word Aw (or), indicates a choice.
-
-**From the Sunnah:** That is their disgrace in this world, and a great torment is theirs in the Hereafter (33)Except for those who (having fled away and then) came back (as Muslims) with repentance before they fall into your power; in that case, know that Alla…
 ## Personal Reflections
-
 

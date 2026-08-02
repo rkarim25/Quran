@@ -185,13 +185,5 @@ Maulana Ashraf ` Ali Thanavi (رح) has, in his Tafsir Bay-an al-Qur'an, taken u
 
 Torn between belief and rejection of the truth—belonging neither to these nor those. And whoever Allah leaves to stray, you will never find for them a way.
 
-## AI Tafsir
-
-**What this ayah teaches:** And when they stand up for Salah, they stand with laziness and to be seen of men, and they do not remember Allah but little (142)(They are) swaying between this and that, belonging neither to these nor to those; and he whom Allah sends astray, you will not find for him a way .
-
-**Classical tafsir:** Ibn Kathir notes: When they stand for prayer, they stand in laziness because they neither truly intend to perform it nor do they believe in it, have humility in it, or understand it.
-
-**From the Sunnah:** He sits watching the sun until when it goes down between the two horns of the devil, he stands up pecks out four Rak'ahs (for 'Asr) without remembering Allah during them except little.) Muslim, At-Tirmidhi and An-Nasa'i also recorded it. (Sahih Muslim, Jami' at-Tirmidhi)
 ## Personal Reflections
-
 

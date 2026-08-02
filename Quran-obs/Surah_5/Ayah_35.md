@@ -162,13 +162,5 @@ Moving on to the second (36) and the third (37) verses, one notices the manner i
 
 O you who have iman! live with taqwa toward Allah and seek what brings you closer to Him and struggle in His Way, so you may be successful.
 
-## AI Tafsir
-
-**What this ayah teaches:** Have Taqwa of Allah and seek the Wasilah to Him, and strive hard in His cause, so that you may be successful (35)Verily, those who disbelieve, if they had all that is in the earth, and as much again therewith to ransom themselves thereby from the torment on the Day of Resurrection, it would never be accepted of them.
-
-**Classical tafsir:** Ibn Kathir notes: Now, after this lexical explanation of the word, ` Wasilah,' and the exegetical notes from the Sahabah and Tabi` in, we do know how every-thing which becomes the means of achieving the pleasure and nearness of Allah is, for a human being, the ` Wasilah' of becoming close to Allah…
-
-**From the Sunnah:** Paradise, and it is the grade of the Messenger of Allah ﷺ, his residence and the nearest grade in Paradise to Allah's Throne. (Sahih al-Bukhari) he heard the Prophet ﷺ saying, (Sahih Muslim)
 ## Personal Reflections
-
 

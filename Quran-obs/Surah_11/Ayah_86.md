@@ -84,11 +84,5 @@ Whatever is left { with you ] by Allah is better for you, if you are believers. 
 
 What is left as a lawful gain by Allah is far better for you if you are truly believers. And I am not a keeper over you.”
 
-## AI Tafsir
-
-**What this ayah teaches:** In other words, "Do this for Allah and not to be seen by the people."
-
-**Classical tafsir:** Ibn Kathir notes: In other words, "Do this for Allah and not to be seen by the people."
 ## Personal Reflections
-
 

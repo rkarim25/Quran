@@ -74,13 +74,5 @@ The word: إِلْ يَاسِينَ (il ya sin) used in: سَلَامٌ عَلَ
 
 "Peace be upon Elias."
 
-## AI Tafsir
-
-**What this ayah teaches:** Allah sent him to the Children of Israel after Hizqil (Ezekiel), may peace be upon them both.
-
-**Classical tafsir:** Ibn Kathir notes: 'Ikrimah and Qatadah said, "This is the language of the people of Yemen." According to another report from Qatadah, it is the language of Azd Shanu'ah.
-
-**From the Sunnah:** Qatadah and Muhammad bin Ishaq said, "Ilyas is another name for Idris." Ibn Abi Hatim recorded that 'Abdullah bin Mas'ud, may Allah be pleased with him, said, "Ilyas is Idris." This was also the view of Ad-Dahhak .
 ## Personal Reflections
-
 

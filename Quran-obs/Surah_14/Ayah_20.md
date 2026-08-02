@@ -74,11 +74,5 @@ So, whatever good there is in gratitude, that is for you alone. There-fore, when
 
 That is not difficult for Allah at all.
 
-## AI Tafsir
-
-**What this ayah teaches:** And for Allah that is not hard or difficult.) means, it is not hard or impossible for Allah to do that.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

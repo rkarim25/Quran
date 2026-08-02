@@ -194,13 +194,5 @@ Hasan al-Basri (رح) has narrated the following story. Once Sayyidna Sulayman (
 
 We taught him the art of making body armour to protect you in battle. Will you then be showing shukr — gratitude shown in word and action?
 
-## AI Tafsir
-
-**Context:** Hasan al-Basri (رح) has narrated the following story. Once Sayyidna Sulayman (علیہ السلام) was inspecting his cavalry horses and got so engrossed in the inspection that he missed the ` Asr prayer.
-
-**What this ayah teaches:** And it was We Who were the doer (of all these things)(79)And We taught him the making of metal coats of mail (for battles), to protect you in your fighting. Skills beneficial to humanity are desirable and are like acts of prophets The above verse also explains the benefit of the industry of the armor making i.e.
-
-**Classical tafsir:** Ibn Kathir notes: Qatadah said that before that, they used to wear plated armor; he was the first one to make rings of chain-armor.
 ## Personal Reflections
-
 

@@ -112,11 +112,5 @@ First of all, by using the word: رَبّ (Rabb: Lord) here, the hint given is t
 
 Whatever blessings you have are from Allah. Then whenever hardship touches you, to Him alone you cry for help.
 
-## AI Tafsir
-
-**What this ayah teaches:** Will you then fear any other than Allah (52)And whatever of blessings and good things you have, it is from Allah.
-
-**Classical tafsir:** Ibn Kathir notes: It was also reported that Ibn 'Abbas said, "It means obligatory." Mujahid said: "It means purely for Him," i.e., worship is due to Him Alone, from whoever is in the heavens and on earth.
 ## Personal Reflections
-
 

@@ -241,13 +241,5 @@ Various Types of Zann
 
 These are only names you and your ancestors invented—names Allah never authorized. They follow nothing but assumption and whatever their nafs desires, though guidance from their Rabb has already come to them.
 
-## AI Tafsir
-
-**What this ayah teaches:** They follow but a guess and that which they themselves desire, whereas there has surely come to them the guidance from their Lord (23)Or shall man have what he wishes (24)But to Allah belongs the last (Hereafter) and the first (the world)(25)And there are many angels in the heavens, whose intercession will avail nothing, except after Allah has given leave for whom He wills and is pleased with .
-
-**Classical tafsir:** Ibn Kathir notes: Yaqin refers to assured or definitive knowledge about something that really exists, not the figment of someone's imagination.
-
-**From the Sunnah:** a statement from 'A'ishah with this meaning. (Sahih al-Bukhari) When he went back to the Prophet ﷺ and informed him of the story, the Prophet said to him, (Sunan an-Nasa'i)
 ## Personal Reflections
-
 

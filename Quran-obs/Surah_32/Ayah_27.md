@@ -160,11 +160,5 @@ And as for the correct position, this subject includes all such lands, with the 
 
 Do they not see how We drive rain to barren land and produce crops they and their cattle eat? Will they not see?
 
-## AI Tafsir
-
-**What this ayah teaches:** In other words, the rain is made to fall on some other land and it is from there that water is directed to move in the form of carrier channels on the ground all the way to the dry land that receives no rain.
-
-**Classical tafsir:** Ibn Kathir notes: In other words, the rain is made to fall on some other land and it is from there that water is directed to move in the form of carrier channels on the ground all the way to the dry land that receives no rain.
 ## Personal Reflections
-
 

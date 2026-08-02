@@ -95,11 +95,5 @@ Allah mentions the descriptions of the liars who falsely claim faith with their 
 
 Allah will distinguish those of sure iman from those of nifaq — outward acceptance with inward rejection.
 
-## AI Tafsir
-
-**What this ayah teaches:** The Attitudes of the Hypocrites and the Ways in which Allah tests People Allah mentions the descriptions of the liars who falsely claim faith with their lips, while faith is not firm in their hearts.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

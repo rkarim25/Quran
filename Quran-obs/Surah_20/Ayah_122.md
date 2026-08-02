@@ -123,13 +123,5 @@ The same views have been expressed by Qushairi Abu Nasr.
 
 Then his Rabb chose him for His grace, accepted his repentance, and guided him rightly.
 
-## AI Tafsir
-
-**What this ayah teaches:** Thus Adam disobeyd his Lord, so he went astray (121)Then his Lord chose him, and turned to him with forgiveness, and gave him guidance (122).
-
-**Classical tafsir:** Ibn Kathir notes: Adam and Iblis Ibn Abi Hatim recorded that Ibn 'Abbas said, "Verily, man was named Insan only because he was given a covenant, but he forgot it (Nasiya)." 'Ali bin Abi Talhah reported the same from Ibn 'Abbas. He also explains the enmity of Iblis for the Children of Adam and for their father, Adam, before them.
-
-**From the Sunnah:** Ibn Abi Hatim recorded that Ibn 'Abbas said, "Verily, man was named Insan only because he was given a covenant, but he forgot it (Nasiya)." 'Ali bin Abi Talhah reported the same from Ibn 'Abbas. Paradise there is a tree which a rider can travel under its shade for one hundred years and still not have passed it. (Musnad Ahmad)
 ## Personal Reflections
-
 

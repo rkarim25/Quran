@@ -97,13 +97,5 @@ We can now move to verse 86: وَلَئِن شِئْنَا لَنَذْهَبَ�
 
 If We willed, We could have certainly taken away what We have revealed to you O Prophet—then you would find none to guarantee its return from Us—
 
-## AI Tafsir
-
-**Context:** And if We willed, We could surely take away that which We have revealed to you. Then you would find no protector for you against Us in that respect (86)Except as a mercy from your Lord.
-
-**What this ayah teaches:** And if We willed, We could surely take away that which We have revealed to you. Therefore, they should be grateful to Allah for whatever of knowledge they have and stay away from wasting time in redundant and unnecessary investigations - specially when pure investigation is just not the objective, instead, testing others or belittling them is.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, getting entangled with unnecessary debates and investigations is a waste of precious time.
 ## Personal Reflections
-
 

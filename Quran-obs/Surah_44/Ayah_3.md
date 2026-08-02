@@ -135,13 +135,5 @@ Because some versions of the Tradition state that births, deaths and sustenance 
 
 Indeed, We sent it down on a blessed night, for We always warn against evil.
 
-## AI Tafsir
-
-**Context:** The statement that the Qur’ an was revealed in the Night of Power’ means that it was revealed in its entirety from the Preserved Tablet to the lowest Firmament in one night of the month of Ramadan.
-
-**What this ayah teaches:** There are, however, certain Traditions that speak highly of this night - that it is a night of blessings and that it is a night during which Allah showers His mercy.
-
-**Classical tafsir:** Ibn Kathir notes: Because some versions of the Tradition state that births, deaths and sustenance are decreed in the night of immunity or 15th night of Sha'ban, some of the scholars have interpreted the phrase 'laylah mubarakah' in the current verse as referring to 'laylat-ul-bara'ah' or 'the Nigh…
 ## Personal Reflections
-
 

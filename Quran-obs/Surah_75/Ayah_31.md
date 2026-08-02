@@ -180,13 +180,5 @@ Sayyidna Ibn ` Abbas says that the two 'shanks' refer to the two worlds: the Her
 
 This person neither believed nor prayed,
 
-## AI Tafsir
-
-**What this ayah teaches:** At this juncture neither is his repentance acceptable nor a righteous deed.
-
-**Classical tafsir:** Ibn Kathir notes: This means, 'you deserve to strut like this while you have disbelieved in your Creator and Maker.' This is what is commonly said in this type of situation in order to mock and intimidate (someone).
-
-**From the Sunnah:** this to Abu Jahl, then Allah, the Mighty and Sublime, revealed this Ayah.'
 ## Personal Reflections
-
 

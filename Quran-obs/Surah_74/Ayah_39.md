@@ -130,13 +130,5 @@ The word rahinah is used in the sense of marhunah 'will be detained'. The word i
 
 except the people of the right—
 
-## AI Tafsir
-
-**Context:** (Nay, everyone of them desires that he should be given pages spread out.) meaning, each one of these idolators wants to have a book revealed to him as Allah revealed to the Prophet ﷺ. Mujahid and others have said this.
-
-**What this ayah teaches:** The context indicates that the People of the Right are those who have repaid their debt, i.e. However, if 'detention' refers to being held at some other place before giving account or before admission into Paradise or Hell, it signifies that every person will be held to give an account of his deeds.
-
-**Classical tafsir:** Ibn Kathir notes: However, if 'detention' refers to being held at some other place before giving account or before admission into Paradise or Hell, it signifies that every person will be held to give an account of his deeds.
 ## Personal Reflections
-
 

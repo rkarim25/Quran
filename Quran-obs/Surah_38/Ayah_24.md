@@ -255,11 +255,5 @@ The sajdah of tilawah (recitation): Some rulings.
 
 Dawud ruled: "He has wronged you by demanding your sheep be added to his. Many partners wrong one another—except those who believe and do good, and how few they are!" Then he realized We had tested him. He asked his Lord's forgiveness, fell in prostration, and turned in repentance.
 
-## AI Tafsir
-
-**What this ayah teaches:** From here we learn that, should a person ask for something from someone in a manner that the addressee, whether willing or unwilling, is left with no way out other than giving it, then, (soliciting aside) even demanding a gift in that manner is also included under ghasb or usurpation.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, if the person asking is a man of office or power, or someone respectable and elegant-looking - and the addressee cannot afford to say no because of the pressure of this man's personality - then, even if the form of the situation is that of soliciting a gift, but in rea…
 ## Personal Reflections
-
 

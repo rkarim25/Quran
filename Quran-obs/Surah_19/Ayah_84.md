@@ -143,11 +143,5 @@ That is, how can one be so engrossed and relaxed with the worldly pleasures, whi
 
 Do not be in haste against them. We are closely counting down their days.
 
-## AI Tafsir
-
-**What this ayah teaches:** And they have taken gods besides Allah, that they might give them honor, power and glory (81)Nay, but they will deny their worship of them, and will become their adversaries (82)See you not that We have sent the Shayatin against the those who reject the truth to push them to do evil (83)So make no haste against them; We only count out to them a (limited) number .
-
-**Classical tafsir:** Ibn Kathir notes: The Idols of the Polytheists will deny Their Worship Allah, the Exalted, informs about the those who reject the truth who associate partners with their Lord, that they have taken gods besides Allah, so that these gods may be a source of honor and might for them.
 ## Personal Reflections
-
 

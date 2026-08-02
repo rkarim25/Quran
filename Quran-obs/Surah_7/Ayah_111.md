@@ -77,11 +77,5 @@ Some soldiers should be sent to collect and bring the sorcerers for this purpose
 
 They replied, “Let him and his brother wait and send mobilizers to all cities to bring you every clever magician.”
 
-## AI Tafsir
-
-**What this ayah teaches:** They said: "Put him and his brother off (for a time), and send callers to the cities to collect (111)"That they bring to you all well-versed sorcerers.
-
-**Classical tafsir:** Ibn Kathir notes: Because of this incorrect assumption, they brought all the magicians in order to defeat the miracles that he showed them.
 ## Personal Reflections
-
 

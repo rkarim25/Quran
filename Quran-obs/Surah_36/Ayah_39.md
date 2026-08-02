@@ -173,11 +173,5 @@ Relevant details have appeared in the commentary on Surah Yunus. It can be seen 
 
 As for the moon, We have ordained precise phases for it, until it ends up like an old, curved palm stalk.
 
-## AI Tafsir
-
-**What this ayah teaches:** That is the decree of the Almighty, the All-Knowing (38)And the moon, We have decreed for it stages, till it returns like the old dried curved date stalk (39)It is not for the sun to overtake the moon, nor does the night outstrip the day.
-
-**Classical tafsir:** Ibn Kathir notes: Dar'a' refers to the black sheep, i.e., the one whose head is black; the next three nights Zulam; then Hanadis, then Da'adi; then Mihaq, because of the absence of moonlight at the beginning of the month.
 ## Personal Reflections
-
 

@@ -247,13 +247,5 @@ The last sentence of this series said: فَاقْصُصِ الْقَصَصَ ل�
 
 If We had willed, We would have elevated him with Our signs, but he clung to this life—following his evil desires. His example is that of a dog: if you chase it away, it pants, and if you leave it, it pants. This is the example of the people who deny Our signs. So narrate stories, so perhaps they will reflect.
 
-## AI Tafsir
-
-**Context:** "Is about Bal'am bin Ba'ura' a man from the Children of Israel." Shu'bah and several other narrators narrated this statement from Mansur who got it from Ibn Mas'ud.
-
-**What this ayah teaches:** Therefore, his example is the example of the dog, its tongue pants regardless of whether it is driven away or not.
-
-**Classical tafsir:** Ibn Kathir notes: He used to live in Bayt Al-Maqdis with the tyrants." Al-'Awfi reported that Ibn 'Abbas said, "He is Bal'am bin Ba'ura', a man from Yemen whom Allah had given the knowledge of His Ayat, but he abandoned them." Malik bin Dinar said, "He was one of the scholars of the Children of Israel whose supplicat…
 ## Personal Reflections
-
 

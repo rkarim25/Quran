@@ -198,15 +198,5 @@ Finally, if we consider the statement in verse 25, that is: أُولَـٰئِك
 
 Those who believe and do good will have bliss and an honourable destination."
 
-## AI Tafsir
-
-**Context:** (Let him then bring us an Ayah like the ones (Prophets) that were sent before (with signs)!)[21:5] We mentioned this subject several times before and stated that Allah is able to bring them what they wanted.
-
-**What this ayah teaches:** The condition attached to this good deed is that one must first repent from the past sin and then do the good deed.
-
-**Classical tafsir:** Ibn Kathir notes: There is a Hadith which mentions that the idolators asked the Prophet to turn Mount As-Safa into gold and, they also asked him for a spring to gush forth for them and to remove the mountains from around Makkah and replace them with green fields and gardens.
-
-**From the Sunnah:** Paradise whose width is a hundred years, and the clothes of the people of Paradise are taken from its bark.
 ## Personal Reflections
-
 

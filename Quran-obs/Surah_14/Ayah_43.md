@@ -115,11 +115,5 @@ After the shape of things to come upon them has been stated, the address is to t
 
 rushing forward, heads raised, never blinking, hearts empty.
 
-## AI Tafsir
-
-**What this ayah teaches:** Consider not that Allah is unaware of that which the wrongdoers do, but He gives them respite up to a Day when the eyes will stare in horror (42)(They will be) hastening forward with necks outstretched, their heads raised up (towards the sky), their gaze returning not towards them and their hearts empty .
-
-**Classical tafsir:** Ibn Kathir notes: Do not think because Allah gave them respite and delayed their punishment that He is unaware or ignoring punishing them for what they do.
 ## Personal Reflections
-
 

@@ -185,11 +185,5 @@ The fourth woman is Maryam (علیہا السلام) . She was not wife of anyon
 
 Allah sets forth an example for the those who reject the truth: the wife of Noah and the wife of Lot. Each was married to one of Our righteous servants yet betrayed them. Their husbands could not protect them from Allah at all. Both were told: 'Enter the Fire with the others.'
 
-## AI Tafsir
-
-**What this ayah teaches:** Strive hard against the those who reject the truth and the hypocrites, and be severe against them; their abode will be Hell, and worst indeed is that destination (9)Allah sets forth an example for those who disbelieve: the wife of Nuh and the wife of Lut. They were under two of our righteous servants, but they both betrayed them.
-
-**Classical tafsir:** Ibn Kathir notes: As for the wife of Prophet Lut, she used to inform the people of the city (Sodom), who committed the awful sexual act (sodomy), whenever a guest was entertained by her husband." Ad-Dahhak reported that Ibn 'Abbas said, "No wife of a Prophet ever committed adultery and fornication.
 ## Personal Reflections
-
 

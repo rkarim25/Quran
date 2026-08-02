@@ -92,13 +92,5 @@ The word: سَبَب (sabab) used in: وَآتَيْنَاهُ مِن كُلِّ
 
 Surely We established him in the land, and gave him the means to all things.
 
-## AI Tafsir
-
-**What this ayah teaches:** Thus too was Dhul-Qarnayn: Allah gave him the means of all things, meaning the means and power to conquer all areas, regions and countries, to defeat enemies, suppress the kings of the earth and humiliate the people of Shirk.
-
-**Classical tafsir:** Ibn Kathir notes: Some of them said he was called Dhul-Qarnayn (the one with two horns) because he reached the two "Horns" of the sun, east and west, where it rises and where it sets.
-
-**From the Sunnah:** We have already mentioned how the those who reject the truth of Makkah sent word to the People of the Book and asked them for some information with which they could test the Prophet ﷺ.
 ## Personal Reflections
-
 

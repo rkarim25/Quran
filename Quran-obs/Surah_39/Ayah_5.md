@@ -185,11 +185,5 @@ Later in verse 5, it was said: كُلٌّ يَجْرِ‌ي لِأَجَلٍ م�
 
 He created the heavens and the earth for a purpose. He wraps the night around the day, and wraps the day around the night. He has subjected the sun and the moon, each orbiting for an appointed term. He is truly the Almighty, All-Forgiving.
 
-## AI Tafsir
-
-**What this ayah teaches:** Evidence of the Power and Oneness of Allah Allah tells us that He is the Creator of what is in the heavens and on earth, and what is between them.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

@@ -208,13 +208,5 @@ Zayd then said, "The Messenger of Allah ﷺ used to teach us these (words) and w
 
 By the day as it reveals the sun—
 
-## AI Tafsir
-
-**What this ayah teaches:** In other words, 'by the day when it is fully bright'.
-
-**Classical tafsir:** Ibn Kathir notes: This is as Qatadah said, "He cleanses it from the lowly and despicable characteristics." Similar to this has been reported from Mujahid, 'Ikrimah and Sa'id bin Jubayr. Another possibility, which is more pertinent to the context, is that the pronoun 'its' refers to the 'sun' in which case it signifies 'by the day when it brightens up the sun'.
-
-**From the Sunnah:** Both Al-Bukhari and Muslim recorded this Hadith from Abu Hurayrah. (Sahih al-Bukhari, Sahih Muslim) I only asked you about that in order to inform you that a man from Muzaynah or Juhaynah tribe came to the Allah's Messenger ﷺ and asked him:
 ## Personal Reflections
-
 

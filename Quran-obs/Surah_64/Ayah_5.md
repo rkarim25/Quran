@@ -111,11 +111,5 @@ Informing about the past nations and the torment and disciplinary lessons that t
 
 Have the stories of those who disbelieved before not reached you? They tasted the evil consequences of their deeds and will suffer a painful punishment.
 
-## AI Tafsir
-
-**What this ayah teaches:** And so they tasted the evil result of their disbelief, and theirs will be a painful torment (5)That was because there came to them their Messengers with Bayyinat, but they said: "Shall mere men guide us?" So they disbelieved and turned away.
-
-**Classical tafsir:** Ibn Kathir notes: And so they tasted the evil result of their disbelief, and theirs will be a painful torment (5)That was because there came to them their Messengers with Bayyinat, but they said: "Shall mere men guide us?" So they disbelieved and turned away.
 ## Personal Reflections
-
 

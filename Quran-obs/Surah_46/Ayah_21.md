@@ -238,13 +238,5 @@ These verses are to remind the infidels of the severe punishments faced by earli
 
 Remember the brother of 'Ad—Hud—when he warned his people among the sand dunes. Warners had come before him and after him. He said: Worship none but Allah. I fear for you the punishment of a tremendous day.
 
-## AI Tafsir
-
-**What this ayah teaches:** Thus, there is no need to repeat it here; and verily Allah is worthy of all praise and gratitude.
-
-**Classical tafsir:** Ibn Kathir notes: That made them happy and joyful, because they had a drought and needed rain.
-
-**From the Sunnah:** Under the chapter, "He Who supplicates should first mention Himself," Ibn Majah recorded that Ibn 'Abbas narrated that the Prophet ﷺ said: (Sunan Ibn Majah) On seeing the punishment approaching them, a nation once said: "This is a cloud bringing us rain.") This is also recorded by Al-Bukhari and Muslim. (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
-
 

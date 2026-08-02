@@ -392,13 +392,5 @@ Towards the end of the verse, after enumerating the articles of the pledge, it w
 
 Allah made a covenant with the Children of Israel and appointed twelve leaders from among them and said, “I am truly with you. If you establish salah, pay zakat, believe in My messengers, support them, and lend to Allah a good loan, I will certainly forgive your sins and admit you into Gardens under which rivers flow. And whoever among you disbelieves afterwards has truly strayed from the Right Way.”
 
-## AI Tafsir
-
-**What this ayah teaches:** As for this figure of twelve, it is rather unusual and lends to popular interpretations.
-
-**Classical tafsir:** Ibn Kathir notes: Muhammad bin Ishaq and Ibn 'Abbas said that this occurred when Musa went to fight the mighty enemy (in Palestine), and Allah commanded him to choose a leader from every tribe. Mujahid said that this Ayah refers to their plot to kill the Messenger of Allah ﷺ.
-
-**From the Sunnah:** Likewise, when the Messenger of Allah ﷺ took the pledge from the Ansar in the 'Aqabah area, there were twelve leaders from the Ansar. this Ayah refers to their plot to kill the Messenger of Allah ﷺ.
 ## Personal Reflections
-
 

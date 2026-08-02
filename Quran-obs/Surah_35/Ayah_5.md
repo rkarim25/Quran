@@ -116,11 +116,5 @@ The word: غَرُ‌ورُ‌ (gharur) is an emphatic form of an adjective that
 
 O humanity, Allah's promise is true. Do not let the dunya—this temporary worldly life—deceive you, and do not let the chief deceiver deceive you about Allah.
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, the promise of Allah is true.
-
-**Classical tafsir:** Ibn Kathir notes: It refers to the Shaitan (Satan) whose sole job is to deceive people and throw them into disbelief and sin.
 ## Personal Reflections
-
 

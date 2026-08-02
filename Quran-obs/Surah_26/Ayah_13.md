@@ -155,11 +155,5 @@ This verse proves that it is not possible to know the exact reality of Allah's B
 
 And so my heart will be broken and my tongue will be tied. So send Aaron along as a messenger.
 
-## AI Tafsir
-
-**What this ayah teaches:** [ 12] And my heart gets straitened and my tongue is not fluent; so send for Harun.
-
-**Classical tafsir:** Ibn Kathir notes: But the word is also used for 'unawareness' (which includes unintentional mistakes) It is this meaning that is intended here.
 ## Personal Reflections
-
 

@@ -225,15 +225,5 @@ The seventh verse (186) was revealed in the background of a particular event whi
 
 Every soul will taste death. And you will only receive your full reward on the Day of Judgment. Whoever is spared from the Fire and is admitted into Paradise will triumph, whereas the life of this dunya is no more than the delusion of enjoyment.
 
-## AI Tafsir
-
-**Context:** The seventh verse (186) was revealed in the background of a particular event which has been briefly referred to a little earlier in verse (181).
-
-**What this ayah teaches:** And whoever is moved away from the Fire and admitted to Paradise, he indeed is successful.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, Allah Alone is the Ever-Living Who never dies, while the Jinn, mankind and angels, including those who carry Allah's Throne, shall die.
-
-**From the Sunnah:** Paradise, he indeed is successful). (al-Mustadrak, Sahih Ibn Hibban) Allah's Messenger ﷺ rode a donkey with a saddle covered by a velvet sheet and let Usamah ride behind him (on the donkey). (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
-
 

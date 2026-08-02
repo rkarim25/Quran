@@ -93,15 +93,5 @@ Ibn Abi Hatim recorded that Ibn 'Abbas said, "The magicians were seventy men who
 
 We reassured him, “Do not fear! It is certainly you who will prevail.
 
-## AI Tafsir
-
-**Context:** (So Musa conceived fear in himself.) This means that he feared for the people that they would be tested and deceived by their magic before he could even have a chance to throw what was in his right hand.
-
-**What this ayah teaches:** Therefore, when this happened, they fell down into prostration to Allah. Even if this fear was for his own personal safety then it can be regarded as a natural human reaction to a dangerous situation and does not conflict with the mission of prophethood.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, when this happened, they fell down into prostration to Allah.
-
-**From the Sunnah:** Paradise was raised up before them until they were looking at it.
 ## Personal Reflections
-
 

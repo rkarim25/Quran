@@ -127,11 +127,5 @@ We now move to the sentence: حَتَّىٰ إِذَا لَقِيَا غُلَا
 
 So they proceeded until they came across a boy, and the man killed him. Moses protested, “Have you killed an innocent soul, who killed no one? You have certainly done a horrible thing.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Then they both proceeded till they met a boy, and he (Khidr) killed him. Verily, you have committed a thing Nukr!
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

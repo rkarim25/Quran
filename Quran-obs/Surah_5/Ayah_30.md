@@ -256,13 +256,5 @@ And Sayyidna al-Murtada ؓ said: 'Even the smallest deed done with Taqwa is not 
 
 Yet Cain convinced himself to kill his brother, so he killed him—becoming a loser.
 
-## AI Tafsir
-
-**Context:** In addition to what has been said above, through this very word, the addressees of the Holy Qur'an are also being chastened and guided to the fact that their noble prophet, on him be the peace and blessing of Allah, who…
-
-**What this ayah teaches:** We are Allah's and to Him is our return.
-
-**Classical tafsir:** Ibn Kathir notes: Am I not even able to be as this crow and to hide the dead body of my brother?" Then he became one of those who regretted.) As-Suddi said that the Companions said, "When his brother died, Qabil left him on the bare ground and did not know how to bury him.
 ## Personal Reflections
-
 

@@ -136,17 +136,5 @@ This verse explains why the Jews will have to undergo such a severe punishment. 
 
 Those are the ones who traded the Akhirah for the dunya. Their punishment will not be lightened, nor will they be helped.
 
-## AI Tafsir
-
-**Essence** To trade the Hereafter for this world is a bargain: punishment never lightened, a Day with no helper.
-
-**What it teaches** Ishtaraw — "they bought" — frames sin as a transaction: the dunya, paid for with the akhirah. The threat falls on those who die rejecting part of the Book (2:85): no lightening, no rescuer.
-
-**The scholars** Ibn Kathir: they "prefer this life to the Hereafter"; the torment eases "not even for an hour." Ibn 'Abbas (via Muhammad bin Ishaq): in the Aws–Khazraj wars Madinah's Jewish tribes killed and expelled each other, then ransomed prisoners by the Tawrah — "to acquire the life of this world." Maarif ul-Quran: no intercession allowed.
-
-**From the Sunnah** Ibn Kathir cites it under the 2:84 covenant — the bond these traders broke: the believers in their kindness, mercy and sympathy are like one body; when one organ falls ill, the rest rushes to it in fever and sleeplessness. (No collection named in the source.)
-
-**Reflection** Ask what you are buying — and what you are paying with.
 ## Personal Reflections
-
 

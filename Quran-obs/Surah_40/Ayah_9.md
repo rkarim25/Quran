@@ -145,11 +145,5 @@ After having reported this Hadith narration in Tafsir Mazhari, the author said, 
 
 And protect them from the consequences of their evil deeds. Whoever You protect from the evil of their deeds on that Day will have been shown Your mercy. That is the ultimate triumph."
 
-## AI Tafsir
-
-**What this ayah teaches:** The relatives of Muslim believers - fathers, grandfathers or wives and children - even if they are ranked lower than them, such is the munificence of Allah Ta’ ala that He would, in deference to them, also let the relatives of a lesser rank be along with them in Jannah, so that their happiness becomes total and complete as it has been said in another verse of the Qur'an appeari…
-
-**Classical tafsir:** Ibn Kathir notes: On the contrary We will raise the one whose deeds are of a lower status so that they will become equal, as a favor and a blessing from Us.' Sa'id bin Jubayr said that when the believer enters Paradise, he will ask where his father, son and brother are.
 ## Personal Reflections
-
 

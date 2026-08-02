@@ -197,13 +197,5 @@ The interpretation of amshaj as 'cardinal humours/fluids' allays their doubt onc
 
 The truly virtuous will drink from a cup flavoured with camphor—
 
-## AI Tafsir
-
-**Context:** Concerning the poor person and the orphan, an explanation of them and their characteristics has already preceded.
-
-**What this ayah teaches:** If the word 'camphor' is taken in its popular sense, it does not necessarily signify that the camphor of Paradise be equated with the camphor available in this world, because the latter is not palatable.
-
-**Classical tafsir:** Ibn Kathir notes: In reference to the captive, Sa'id bin Jubayr, Al-Hasan and Ad-Dahhak all said, "He is the captive among the people of the Qiblah (i.e., the Muslims)." Ibn 'Abbas said, "At that time (when this Ayah was revealed) their (the Muslims') captives were idolators." Proof for this is that on the day of Bad… 'Ikrimah said, "They (captives) are the slaves." Ibn Jarir preferred this opinion since the Ayah gen…
 ## Personal Reflections
-
 

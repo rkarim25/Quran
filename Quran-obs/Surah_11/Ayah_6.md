@@ -143,11 +143,5 @@ A lengthy Hadith narrated by Sayyidna ` Abdullah ibn Masud ؓ appearing in al-Bu
 
 There is no moving creature on earth whose provision is not guaranteed by Allah. And He knows where it lives and where it is laid to rest. All is written in a perfect Record.
 
-## AI Tafsir
-
-**What this ayah teaches:** And no moving creature is there on earth but its provision is due from Allah.
-
-**Classical tafsir:** Ibn Kathir notes: This means that He knows where their journeying will end in the earth and where they will seek shelter when they wish to nest.
 ## Personal Reflections
-
 

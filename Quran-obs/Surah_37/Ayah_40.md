@@ -138,13 +138,5 @@ Allah refined the wine of Paradise from the bad effects of the wine of this worl
 
 But not the chosen servants of Allah.
 
-## AI Tafsir
-
-**What this ayah teaches:** This is unlike the wine of this world, which causes colic and so on, because it is too watery.
-
-**Classical tafsir:** Ibn Kathir notes: This is unlike the wine of this world, which causes colic and so on, because it is too watery.
-
-**From the Sunnah:** Malik narrated that Zayd bin Aslam said, "White flowing wine," meaning, with a bright, shining color, unlike the wine of this earth with its ugly, repulsive colors of red, black, yellow and turbid shades, and other features which are repugnant to anyone of a s… Paradise, He states that it is free of these characteristics, as mentioned in Surat As-Saffat. (Sahih Muslim)
 ## Personal Reflections
-
 

@@ -170,11 +170,5 @@ The story of Sayyidna Musa (علیہ السلام) is related extensively in the
 
 Indeed, Pharaoh arrogantly elevated himself in the land and divided its people into subservient groups, one of which he persecuted, slaughtering their sons and keeping their women. He was truly one of the corruptors.
 
-## AI Tafsir
-
-**What this ayah teaches:** We recite to you some of the news of Musa and Fir'awn in truth, for a people who believe.)(4. Verily, Fir'awn exalted himself in the land and made its people Shiya'a, weakening a group among them: killing their sons, and letting their females live.
-
-**Classical tafsir:** Ibn Kathir notes: We recite to you some of the news of Musa and Fir'awn in truth, for a people who believe.)(4.
 ## Personal Reflections
-
 

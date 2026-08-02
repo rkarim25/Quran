@@ -174,11 +174,5 @@ In the two verses (27, 28) appearing next, there is a dialogue between the peopl
 
 As for those who commit evil, the reward of an evil deed is its equivalent. Humiliation will cover them—with no one to protect them from Allah—as if their faces were covered with patches of the night’s deep darkness. It is they who will be the residents of the Fire. They will be there forever.
 
-## AI Tafsir
-
-**What this ayah teaches:** And those who have earned evil deeds, the recompense of an evil deed is the like thereof, and humiliating disgrace will cover them (their faces).
-
-**Classical tafsir:** Ibn Kathir notes: Then, to the Mushriks We shall say that, ` you and your gods whom you had associated' with Us in Our divinity stay in your places where you are, so that you can find out the reality of your conviction.' After that, the connection between these people and their so-called gods as i…
 ## Personal Reflections
-
 

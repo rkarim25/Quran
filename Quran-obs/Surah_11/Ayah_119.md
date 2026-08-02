@@ -123,13 +123,5 @@ And Allah is Pure and High and He knows everything best.
 
 except those shown mercy by your Rabb—and so He created them to choose freely. And so the Word of your Rabb will be fulfilled: “I will surely fill up Hell with jinn and humans all together.”
 
-## AI Tafsir
-
-**What this ayah teaches:** The outcome is that there always will be some people who would keep at loggerheads against the true faith - of course, with the exception of those whom Allah Ta` ala has blessed with His mercy, that is, those who have been following the noble prophets.
-
-**Classical tafsir:** Ibn Kathir notes: Except him on whom your Lord has bestowed His mercy,) This means that people will always differ in religions, creeds, beliefs, opinions and sects.
-
-**From the Sunnah:** Paradise and some deserve the Hell Fire. All of them would have then become nothing but Muslims without any difference remaining between them.
 ## Personal Reflections
-
 

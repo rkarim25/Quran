@@ -78,11 +78,5 @@ Commentary
 
 Allah added, “And what is that in your right hand, O Moses?”
 
-## AI Tafsir
-
-**What this ayah teaches:** In other words, that which is in your right hand is a stick that you are familiar with.
-
-**Classical tafsir:** Ibn Kathir notes: It was a snake, moving quickly.) This means that the stick changed into a huge snake, like a long python, and it moved with rapid movements.
 ## Personal Reflections
-
 

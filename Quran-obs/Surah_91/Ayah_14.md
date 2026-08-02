@@ -132,13 +132,5 @@ Ends here
 
 They defied him and slaughtered her, so their Lord destroyed them for their sin and levelled them—
 
-## AI Tafsir
-
-**What this ayah teaches:** The word damdama refers to such tormenting scourge as is unleashed on a person or a nation again and again, until it destroys or crushes them completely. So their Lord destroyed them because of their sin, Fasawwaha (14)And He feared not the consequences thereof .
-
-**Classical tafsir:** Ibn Kathir notes: The word damdama refers to such tormenting scourge as is unleashed on a person or a nation again and again, until it destroys or crushes them completely.
-
-**From the Sunnah:** This is just as Imam Ahmad recorded from 'Abdullah bin Zam'ah. (Musnad Ahmad) This Hadith was recorded by Al-Bukhari in his Book of Tafsir, and Muslim in his Book of the Description of the Hellfire. (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
-
 

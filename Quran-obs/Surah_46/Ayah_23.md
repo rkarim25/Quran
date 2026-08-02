@@ -189,13 +189,5 @@ These verses are to remind the infidels of the severe punishments faced by earli
 
 He said: The knowledge of when that punishment comes belongs only to Allah. I convey to you only what I was sent with. But I see you are a people acting in ignorance.
 
-## AI Tafsir
-
-**What this ayah teaches:** And I convey to you that wherewith I have been sent, but I see that you are a people given to ignorance! Moreover, verse 28 points out that the false gods believed by them to be their patrons could not save them from the torment they faced, because they were coined only by their false imagination, having no real existence at all.
-
-**Classical tafsir:** Ibn Kathir notes: That made them happy and joyful, because they had a drought and needed rain.
-
-**From the Sunnah:** Under the chapter, "He Who supplicates should first mention Himself," Ibn Majah recorded that Ibn 'Abbas narrated that the Prophet ﷺ said: (Sunan Ibn Majah) On seeing the punishment approaching them, a nation once said: "This is a cloud bringing us rain.") This is also recorded by Al-Bukhari and Muslim. (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
-
 

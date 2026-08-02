@@ -131,15 +131,5 @@ Story telling was favourite pastime among the Arabs and the Persians since ancie
 
 boasting of the Sacred House, and babbling nonsense about the Quran by night.”
 
-## AI Tafsir
-
-**Context:** (from this.) means, the Qur'an which Allah revealed to His Messenger ﷺ. (In pride, talking evil about it by night.) refers to the arrogant pride which the Quraysh felt because they believed themselves to be the guardians…
-
-**What this ayah teaches:** Certainly you shall not be helped by Us (65)Indeed My Ayat used to be recited to you, but you used to turn back on your heels (66)In pride, talking evil about it by night . According to many commentators the word (on it) in this verse has a reference to the Haram (the sanctuary of Makkah).
-
-**Classical tafsir:** Ibn Kathir notes: According to many commentators the word (on it) in this verse has a reference to the Haram (the sanctuary of Makkah).
-
-**From the Sunnah:** With a view to discourage this practice, the Holy Prophet ﷺ enjoined upon the Muslims not to sleep before the ` Isha' prayers.
 ## Personal Reflections
-
 

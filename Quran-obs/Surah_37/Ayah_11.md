@@ -128,11 +128,5 @@ After that, in the five verses that follow it, described there is the reaction t
 
 So ask them which is harder to create: them or other marvels of Our creation? Indeed, We created them from sticky clay.
 
-## AI Tafsir
-
-**What this ayah teaches:** Human creation is from sperm, sperm from blood and blood from food.
-
-**Classical tafsir:** Ibn Kathir notes: In gist, it refers to the huge heavenly bodies of the universe mentioned in previous verses, and points out to the obvious weakness of human beings as compared to them.
 ## Personal Reflections
-
 

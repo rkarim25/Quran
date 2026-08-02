@@ -89,11 +89,5 @@ Small pebbles of baked clay would be sent down upon them: مُّسَوَّمَة
 
 We brought out the believers who were in that city before the punishment.
 
-## AI Tafsir
-
-**What this ayah teaches:** Some scholars say that each stone bore the name of the person with which he was to be destroyed, and if he ran in any particular direction, he was pursued by the same stone.
-
-**Classical tafsir:** Ibn Kathir notes: Some scholars say that each stone bore the name of the person with which he was to be destroyed, and if he ran in any particular direction, he was pursued by the same stone.
 ## Personal Reflections
-
 

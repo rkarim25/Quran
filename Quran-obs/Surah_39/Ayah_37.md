@@ -144,15 +144,5 @@ In verse 36, it was said: وَيُخَوِّفُونَكَ بِالَّذِين�
 
 And whoever Allah guides, none can lead astray. Is Allah not Almighty, capable of punishment?
 
-## AI Tafsir
-
-**Context:** In the first verse (36), it was said: أَلَيْسَ اللَّـهُ بِكَافٍ عَبْدَهُ (Is Allah not sufficient for (the protection of) His slave?). This verse was revealed in the background of an event.
-
-**What this ayah teaches:** And whom Allah sends astray, for him there will be no guide (36)And whomsoever Allah guides, for him there will be no misleader.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** Here Ibn Abi Hatim recorded a narration from Ibn 'Abbas, may Allah be pleased with him, attributing it to the Prophet ﷺ: Although, it is an open fact that anyone who threatens a Muslim on the ground that, should he not do such and such haram act or sin, his superiors at whose mercy he is, will be displeased with him, and may even hurt him is also included under this verse, even… (Sahih Muslim)
 ## Personal Reflections
-
 

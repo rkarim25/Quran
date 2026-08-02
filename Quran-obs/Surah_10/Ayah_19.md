@@ -131,11 +131,5 @@ Of course, when Kufr and Shirk spread out and posed a threat to 'Iman or true be
 
 Humanity was once nothing but a single community of believers, but then they differed. Had it not been for a prior decree from your Rabb, their differences would have been settled at once.
 
-## AI Tafsir
-
-**What this ayah teaches:** And they worship besides Allah things that harm them not, nor profit them, and they say: These are our intercessors with Allah." Say: Do you inform Allah of that which He knows not in the heavens and on the earth?" Glorified and Exalted is He above all that which they associate as partners (with Him)(18)Mankind were but one community, then they differed (later); and had not it been for a Word that…
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

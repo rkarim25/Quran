@@ -187,15 +187,5 @@ In this story, as for parts that have been mentioned in the Qur'an, or stand pro
 
 and, ‘Be steadfast in faith in all uprightness, and do not be one of the polytheists,’
 
-## AI Tafsir
-
-**Context:** Allah, the Exalted, says to His Messenger, Muhammad , 'Say: O mankind! If you are in doubt about the correctness of that which I have been sent with the Hanif (monotheism) religion - the religion which Allah has revealed…
-
-**What this ayah teaches:** So, they said, let that person show himself up so that others do not suffer because of one person.
-
-**Classical tafsir:** Ibn Kathir notes: So, they said, let that person show himself up so that others do not suffer because of one person.
-
-**From the Sunnah:** protection from other sins. (Sahih Muslim) If there were something somewhere even in the Qur'an, and Hadith, seemingly contrary to the established principles of Qur'an, and Sunnah, and the collective Muslim belief in prophets being protected from sins, it would have been necessary to interpret it in a… (Sahih Muslim)
 ## Personal Reflections
-
 

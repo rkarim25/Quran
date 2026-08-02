@@ -358,15 +358,5 @@ Through a treaty obligation, that is, بِحَبْلٍ مِّنَ النَّاس
 
 They will be stricken with disgrace wherever they go, unless they are protected by a covenant with Allah or a treaty with the people. They have invited the displeasure of Allah and have been branded with misery for rejecting Allah’s revelations and murdering prophets unjustly. This is for their disobedience and violations.
 
-## AI Tafsir
-
-**Essence** Allah decreed lasting humiliation, His wrath, and destitution upon those who persistently rejected His signs and killed His prophets — a disgrace broken only by clinging to a covenant from Allah or the protection of people.
-
-**What it teaches** Dhillah (humiliation) is "struck" upon them like a stamp wherever they are found, so that they are never secure; it is lifted only through a habl (rope, i.e. a binding covenant) from Allah or a habl from people. With it come ghadab (Allah's earned wrath) and maskanah (destitution, abject misery). The verse then grounds the sentence in their own conduct: they would disbelieve in Allah's ayat (signs), kill the prophets unjustly, and habitually disobey and overstep His limits.
-
-**The scholars** Ibn Kathir explains that Allah placed humiliation and disgrace on them wherever they may be, so that "they will never be safe." The "covenant from Allah" is the dhimmah, the covenant of protection obliging them to pay the jizyah and live subservient to Islamic law; the "covenant from men" is a pledge of protection and safety granted by Muslims — even by a Muslim man, woman, or slave, "according to one of the sayings of the scholars." He records that Ibn 'Abbas read the two ropes as a covenant of protection from Allah and a pledge of safety from people, and that the same was reported from Mujahid, 'Ikrimah, 'Ata', Ad-Dahhak, Al-Hasan, Qatadah, As-Suddi and Ar-Rabi' bin Anas. They "earned Allah's anger, which they deserved," and deserve destitution "by decree and legislatively." What drove them beneath the acts the verse names was, he writes, "their arrogance, transgression and envy," which earned them "humiliation, degradation and disgrace throughout this life and the Hereafter." Maarif ul Quran adds that two situations hold the disgrace from becoming manifest: a covenant of Allah (for instance, a minor child or woman is not to be killed) and a treaty obligation (the rope from men), whose wording covers all people, believers and disbelievers alike, while they live under such patronage.
-
-**Reflection** Honor is never owed to a people by their numbers or wealth; it is a trust from Allah. Cling to His covenant, revere His signs and His messengers, and never let arrogance or transgression drag the heart toward disgrace.
 ## Personal Reflections
-
 

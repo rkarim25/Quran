@@ -280,13 +280,5 @@ The third rank is that of the Salihin. These are people who recognize their ulti
 
 And whoever obeys Allah and the Messenger will be in the company of those blessed by Allah: the prophets, the people of truth, the martyrs, and the righteous—what honourable company!
 
-## AI Tafsir
-
-**Context:** (And whoever obeys Allah and the Messenger, then they will be in the company of those on whom Allah has bestowed His grace, of the Prophets, the true believers, the martyrs, and the righteous.
-
-**What this ayah teaches:** Greater news than this is in the authentic Hadith collected in the Sahih and Musnad compilations, in Mutawatir form, narrated by several Companions that the Messenger of Allah ﷺ was asked about the person who loves a people, but his status is not close to theirs.
-
-**Classical tafsir:** Ibn Kathir notes: In the Islamic terminology, it normally refers to those Companions of a prophet who excel all others in their submission to Allah and His Messenger.
 ## Personal Reflections
-
 

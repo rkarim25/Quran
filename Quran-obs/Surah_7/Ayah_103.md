@@ -112,11 +112,5 @@ The verse 103, has said that after the prophets Nuh, Hud, Salih, Lut and Shu'aib
 
 Then after them We sent Moses with Our signs to Pharaoh and his chiefs, but they wrongfully rejected them. See what was the end of the corruptors!
 
-## AI Tafsir
-
-**What this ayah teaches:** The Pharaoh of Musa's time is said to be Mernephtah.
-
-**Classical tafsir:** Ibn Kathir notes: The word Pharaoh was the title of Egyptian kings.
 ## Personal Reflections
-
 

@@ -104,13 +104,5 @@ In the last benefit, ships and boats are also included, because they are also us
 
 And you are carried upon some of them and upon ships.
 
-## AI Tafsir
-
-**What this ayah teaches:** And there are, in them, numerous benefits for you, and of them you eat (21)And on them, and on ships you are carried . And We have subdued them unto them so that some of them they have for riding and some they eat.
-
-**Classical tafsir:** Ibn Kathir notes: The water brings the red soil which is used to irrigate the land of Egypt, and whatever of it is deposited is used for agriculture, because the land of Egypt is infertile, and most of it is sand.
-
-**From the Sunnah:** Abd bin Humayd recorded in his Musnad and Tafsir from 'Umar that the Messenger of Allah ﷺ said:
 ## Personal Reflections
-
 

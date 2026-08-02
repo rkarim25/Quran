@@ -199,13 +199,5 @@ Allah Ta` ala chose Makkah Mukkarramah, out of the whole world, to establish the
 
 They say to the Prophet, “If we were to follow true guidance with you, we would certainly be snatched away from our land.” Have We not established for them a safe haven in Mecca to which fruits of all kinds are brought as a provision from Us? But most of them do not know this favour.
 
-## AI Tafsir
-
-**Context:** (Verily, you guide not whom you like, but Allah guides whom He wills. And He knows best those who are the guided.) meaning: Allah knows best who deserves to be guided and who deserves to be misguided.
-
-**What this ayah teaches:** And He knows best those who are the guided (56)And they say: "If we follow the guidance with you, we would be snatched away from our land." Have We not established for them a secure sanctuary, to which are brought fruits of all kinds, a provision from Ourselves, but most of them know not .
-
-**Classical tafsir:** Ibn Kathir notes: Az-Zuhri said: "Sa'id bin Al-Musayyib narrated to me that his father, Al-Musayyib bin Hazan Al-Makhzumi, may Allah be pleased with him, said: "When Abu Talib was dying, the Messenger of Allah ﷺ came to him and found Abu Jahl bin Hisham and 'Abdullah bin Abi Umayyah bin Al-Mughirah with him.
 ## Personal Reflections
-
 

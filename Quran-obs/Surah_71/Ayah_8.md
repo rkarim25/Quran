@@ -140,11 +140,5 @@ Commentary
 
 Then I called them openly,
 
-## AI Tafsir
-
-**What this ayah teaches:** He made each one of them in a set manner with a distinct quality so that the night and day may be known. He also determined fixed stations and positions for the moon, and He made its light vary so that sometimes it increases until it reaches a maximum, then it begins to decrease until it is completely veiled.
-
-**Classical tafsir:** Ibn Kathir notes: This means that He will give you more wealth, more children and gardens with various types of fruits.
 ## Personal Reflections
-
 

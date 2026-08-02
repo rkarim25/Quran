@@ -110,11 +110,5 @@ Creation of man from earth is obvious with reference to ‘Adam (علیہ الس
 
 One of His signs: He created you from dust, then you are humans spreading over the earth.
 
-## AI Tafsir
-
-**What this ayah teaches:** And among His signs is this that He created you from dust, and then – behold you are human beings scattered (20)And among His signs is this that He created for you wives from among yourselves, that you may find repose in them, and He has put between you affection and mercy.
-
-**Classical tafsir:** Ibn Kathir notes: For a man stays with a woman because he loves her, or because he feels compassion towards her if they have a child together, or because she needs him to take care of her, etc.
 ## Personal Reflections
-
 

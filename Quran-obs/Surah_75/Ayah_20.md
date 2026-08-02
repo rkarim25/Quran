@@ -178,15 +178,5 @@ In conclusion, the passage says: اِنَّ عَلَيْنَا بَيَانَه�
 
 No—you love this fleeting dunya,
 
-## AI Tafsir
-
-**Context:** This is Allah teaching His Messenger ﷺ how to receive the revelation from the angel. For verily, he (the Prophet ﷺ) was rushing in his attempts to grasp the revelation and he would be reciting the revelation with the ang…
-
-**What this ayah teaches:** Rather you love the present life of this world (20)And neglect the Hereafter (21)Some faces that Day shall be Nadirah (22)Looking at their Lord (23)And some faces that Day will be Basirah (24)Thinking that some calamity is about to fall on them .
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, Allah commanded him that when the angel brings some revelation to him he should just listen.
-
-**From the Sunnah:** For verily, he (the Prophet ﷺ) was rushing in his attempts to grasp the revelation and he would be reciting the revelation with the angel while he was reciting it.
 ## Personal Reflections
-
 

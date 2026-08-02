@@ -126,13 +126,5 @@ After making all these strategic statements he threatened the sorcerers, first, 
 
 I will certainly cut off your hands and feet on opposite sides, then crucify you all.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Certainly, Allah's punishment is more severe than your punishment and His torment for what you are calling us to, this day, and the magic you forced us to practice, is greater than your torment.
-
-**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas said that Fir'awn was the first to crucify and cut off hands and legs on opposite sides.
-
-**From the Sunnah:** pour out on us patience, and cause us to die as Muslims. Fir'awn then sent emissaries to various cities of his kingdom and collected magicians who were scattered throughout Egypt.
 ## Personal Reflections
-
 

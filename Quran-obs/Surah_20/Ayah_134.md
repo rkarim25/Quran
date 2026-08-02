@@ -190,15 +190,5 @@ This is the end of the Tafsir of Surah Ta Ha, and all praise and gratitude is du
 
 Had We destroyed them with a torment before this Prophet came, they would have surely argued, “Our Rabb! If only You had sent us a messenger, we would have followed Your revelations before being humiliated and put to shame.”
 
-## AI Tafsir
-
-**Context:** (Has there not come to them the proof of that which is in the former papers (Scriptures)?) This means the Qur'an which Allah revealed to him while he was an unlettered man who could not write well and who did not study w…
-
-**What this ayah teaches:** That which I have been given is a revelation that Allah has revealed to me, so I hope that I have the most followers among them (the Prophets) on the Day of Resurrection.) In this Hadith, the Prophet ﷺ only mentioned the greatest of the signs that he was given, which is the Qur'an.
-
-**Classical tafsir:** Ibn Kathir notes: It verifies what is correct and explains the mistakes that were falsely placed in these Books and attributed to them.
-
-**From the Sunnah:** In this Hadith, the Prophet ﷺ only mentioned the greatest of the signs that he was given, which is the Qur'an.
 ## Personal Reflections
-
 

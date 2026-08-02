@@ -240,13 +240,5 @@ The fifth injunction which emerges clearly from these verses is that all prophet
 
 Is it the judgment of ignorance they seek? Who could be a better judge than Allah for people of sure faith?
 
-## AI Tafsir
-
-**Context:** (So judge between them by what Allah has revealed.) The Ayah commands: O Muhammad! Rule between the people, Arabs and non-Arabs, lettered and unlettered, by what Allah has revealed to you in this Glorious Book and what i…
-
-**What this ayah teaches:** And truly, most men are rebelliou (49)Do they then seek the judgement of (the days of) ignorance And who is better in judgement than Allah for a people who have firm faith .
-
-**Classical tafsir:** Ibn Kathir notes: Al-'Awfi said that Ibn 'Abbas said that Muhayminan means, 'dominant over the previous Scriptures'.
 ## Personal Reflections
-
 

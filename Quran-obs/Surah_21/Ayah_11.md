@@ -124,11 +124,5 @@ This King was placed in authority over them just as he was used as an instrument
 
 Imagine how many societies of wrongdoers We have destroyed, raising up other people after them!
 
-## AI Tafsir
-
-**What this ayah teaches:** Hence it will be apt to leave the subject open, so that these settlements of Yemen may also come in its ambit. This Prophet was killed by his people, who were, as a punishment annihilated by the infidel King Nabucad Nazzar.
-
-**Classical tafsir:** Ibn Kathir notes: Hence it will be apt to leave the subject open, so that these settlements of Yemen may also come in its ambit.
 ## Personal Reflections
-
 

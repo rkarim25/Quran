@@ -269,15 +269,5 @@ Take our own existence and its countless blessings. These are not the outcome of
 
 For each person, angels succeed one another before and behind, guarding by Allah's command. Allah does not change a people's condition until they change what is within themselves. When Allah wills punishment for a people, none can avert it, and they find no protector besides Him.
 
-## AI Tafsir
-
-**Context:** Ibn Abi Hatim narrated that Ibrahim said, "Allah revealed to a Prophet from among the Children of Israel, 'Say to your nation: every people of a village or a house who used to obey Allah but changed their behavior to dis…
-
-**What this ayah teaches:** The assignment given to them under the command of Allah is that they should protect human beings.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, there are four angels that surround each person by day and they are replaced by four others at night, two scribes and two guards.
-
-**From the Sunnah:** By Allah, she who came to complain about her husband to the Messenger of Allah ﷺ was speaking while I was in another part of the room, yet I did not hear some of what she said.
 ## Personal Reflections
-
 

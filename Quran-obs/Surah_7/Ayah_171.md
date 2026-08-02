@@ -131,11 +131,5 @@ The above incident gives rise to a question. Why the Israelites were forced to m
 
 And when We raised the mountain over them as if it were a cloud and they thought it would fall on them. “Hold firmly to that which We have given you and observe its teachings so perhaps you will become mindful.”
 
-## AI Tafsir
-
-**What this ayah teaches:** And (remember) when We Nataqna the mountain over them as if it had been a canopy, and they thought that it was going to fall on them.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

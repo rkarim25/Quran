@@ -155,13 +155,5 @@ Of course, when Kufr and Shirk spread out and posed a threat to 'Iman or true be
 
 They ask, “Why has no other sign been sent down to him from his Rabb?” Say, O Prophet, “The knowledge of the unseen is with Allah alone. So wait! I too am waiting with you.”
 
-## AI Tafsir
-
-**Context:** These stubborn, lying those who reject the truth said, "Why would not a sign be revealed to Muhammad from his Lord." They meant a sign such as given to Salih. Allah sent the she-camel to Thamud.
-
-**What this ayah teaches:** The Idolators requested a Miracle These stubborn, lying those who reject the truth said, "Why would not a sign be revealed to Muhammad from his Lord." They meant a sign such as given to Salih.
-
-**Classical tafsir:** Ibn Kathir notes: The Idolators requested a Miracle These stubborn, lying those who reject the truth said, "Why would not a sign be revealed to Muhammad from his Lord." They meant a sign such as given to Salih.
 ## Personal Reflections
-
 

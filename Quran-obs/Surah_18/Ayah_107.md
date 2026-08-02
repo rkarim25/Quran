@@ -88,13 +88,5 @@ It appears in the Sahih of al-Bukhari and Muslim that the Holy Prophet ﷺ said:
 
 Indeed, those who believe and do good will have the Gardens of Paradise as an accommodation,.
 
-## AI Tafsir
-
-**What this ayah teaches:** The Reward of the Righteous Believers Allah tells us about His blessed servants, those who believed in Allah and His Messengers and accepted as truth what the Messengers brought.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** Paradise, at its center, the best of it. It appears in the Sahih of al-Bukhari and Muslim that the Holy Prophet ﷺ said: 'when you ask of Allah, ask for Jannatul-Firdaus because it is the highest and the superior most rank of Jannah. (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
-
 

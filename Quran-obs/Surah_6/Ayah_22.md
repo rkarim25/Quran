@@ -169,11 +169,5 @@ The difference of fifty thousand and ten thousand in this narration also appears
 
 The Day We will gather them all together then ask those who associated others, “Where are those gods you used to claim?”
 
-## AI Tafsir
-
-**What this ayah teaches:** Therefore, this day will seem to be that of fifty thousand years for some and that of one thousand years for others.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, this day will seem to be that of fifty thousand years for some and that of one thousand years for others.
 ## Personal Reflections
-
 

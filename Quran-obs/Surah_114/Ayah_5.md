@@ -122,13 +122,5 @@ The word خَنَّاسِ khannas is derived from khanasa which means 'to sneak,
 
 Who whispers into the hearts of people—among jinn and among humans—through suggestion, propaganda, envy, and the quiet narratives that reshape conscience without announcement.
 
-## AI Tafsir
-
-**What this ayah teaches:** This is because they (the Jinns) are also included in the usage of the word An-Nas (the people) in most cases. Therefore, He commands whoever is seeking protection to seek refuge with the One Who has these attributes from the evil of the whisperer who withdraws.
-
-**Classical tafsir:** Ibn Kathir notes: This is because they (the Jinns) are also included in the usage of the word An-Nas (the people) in most cases.
-
-**From the Sunnah:** It is also confirmed in the Two Sahihs from Anas, who reported the story of Safiyyah when she came to visit the Prophet ﷺ while he was performing I'tikaf, that he went out with her during the night to walk her back to her house.
 ## Personal Reflections
-
 

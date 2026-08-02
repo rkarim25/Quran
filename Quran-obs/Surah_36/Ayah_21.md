@@ -108,11 +108,5 @@ Other historical narrations reported by commentators at this stage tell us that 
 
 Follow those who ask no reward of you, and are rightly guided.
 
-## AI Tafsir
-
-**What this ayah teaches:** Therefore, the expression would mean that a man came running from the farthest part of the city.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, the expression would mean that a man came running from the farthest part of the city.
 ## Personal Reflections
-
 

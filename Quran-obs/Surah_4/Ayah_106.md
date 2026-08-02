@@ -125,15 +125,5 @@ After telling the Holy Prophet ﷺ the reality behind the case of theft, in the 
 
 And seek Allah’s forgiveness—indeed, Allah is All-Forgiving, the Rahim.
 
-## AI Tafsir
-
-**Context:** Not much time had passed when a whole section of the Qur'an was revealed about this episode through which the reality behind it was shown to the Holy Prophet ﷺ and general instructions covering such cases were given.
-
-**What this ayah teaches:** Surely, We have sent down to you (O Muhammad ﷺ) the Book in truth that you might judge between men by that which Allah has shown you, so be not a pleader for the treacherous (105)And seek the forgiveness of Allah, certainly, Allah is Ever Oft-Forgiving, ar-Rahim (106)And argue not on behalf of those who deceive themselves.
-
-**Classical tafsir:** Ibn Kathir notes: Some of you might be more eloquent in presenting his case than others, so that I judge in his favor.
-
-**From the Sunnah:** Umm Salamah said that the Messenger of Allah ﷺ heard the noise of disputing people close to the door of his room, and he went out to them saying, I…
 ## Personal Reflections
-
 

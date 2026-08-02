@@ -171,13 +171,5 @@ If the ` Izzah or honour mentioned here means the everlasting honour of the life
 
 Give good news of a painful punishment to those living in nifaq—outward acceptance with inward rejection, who choose those who reject the truth as allies instead of those who have iman. Do they seek honour and power through that company? Surely all honour and power belongs to Allah.
 
-## AI Tafsir
-
-**Context:** Verily, those who believe, then disbelieve, then believe (again), and (again) disbelieve, and go on increasing in disbelief; Allah will not forgive them, nor guide them on the (right) way (137)Give to the hypocrites the…
-
-**What this ayah teaches:** To explain, we can say that the urge to meet and be friendly with those who reject the truth and polytheists is generally prompted by the assumption that their outwardly visible influence, power and collective strength may give honour and power to those who have close relations with them.
-
-**Classical tafsir:** Ibn Kathir notes: Allah describes the hypocrites as taking the those who reject the truth as friends instead of the believers, meaning they are the those who reject the truth' supporters in reality, for they give them their loyalty and friendship in secret.
 ## Personal Reflections
-
 

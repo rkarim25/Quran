@@ -124,11 +124,5 @@ Allah explained His statement saying;
 
 So believe in Allah and His Messenger and in the Light We have revealed. Allah is All-Aware of what you do.
 
-## AI Tafsir
-
-**What this ayah teaches:** The word Nur [ light ] in this context refers to the Qur’ an.
-
-**Classical tafsir:** Ibn Kathir notes: The word Nur [ light ] in this context refers to the Qur’ an.
 ## Personal Reflections
-
 

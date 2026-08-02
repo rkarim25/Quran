@@ -189,11 +189,5 @@ The interpretation of amshaj as 'cardinal humours/fluids' allays their doubt onc
 
 We have prepared for those who reject the truth chains, shackles, and a blazing Fire.
 
-## AI Tafsir
-
-**Context:** Concerning the poor person and the orphan, an explanation of them and their characteristics has already preceded.
-
-**What this ayah teaches:** Allah has prepared, for the those who reject the truth, shackles and iron-collars and a blazing Fire. If the word 'camphor' is taken in its popular sense, it does not necessarily signify that the camphor of Paradise be equated with the camphor available in this world, because the latter is not palatable.
 ## Personal Reflections
-
 

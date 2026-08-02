@@ -147,11 +147,5 @@ The word: مُزِّقْتُمْ (when you are totally torn into pieces) is a de
 
 Those who reject the truth mock one another: "Shall we show you a man who claims that after you have been utterly scattered as dust you will be raised as a new creation?"
 
-## AI Tafsir
-
-**What this ayah teaches:** This means that in looking at the creation of the heavens and the earth, there is a sign for every servant who is intelligent and wise and who turns towards Allah.
-
-**Classical tafsir:** Ibn Kathir notes: This means that in looking at the creation of the heavens and the earth, there is a sign for every servant who is intelligent and wise and who turns towards Allah.
 ## Personal Reflections
-
 

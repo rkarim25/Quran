@@ -273,13 +273,5 @@ In short, the parable means that in the wake of rain vegetation of all sorts gro
 
 Know that this dunya is only play, distraction, adornment, boasting among yourselves, and rivalry in wealth and children—like rain whose growth delights farmers, then it withers and you see it yellow, then it crumbles to dust. In the Akhirah there is severe punishment, forgiveness from Allah, and His pleasure. The life of this dunya is nothing but the enjoyment of delusion.
 
-## AI Tafsir
-
-**What this ayah teaches:** The lahw [ amusement or pastime ] is a game or sport meant initially for amusement and enjoyment, but it may serve also some other subsidiary purpose like physical exercise.
-
-**Classical tafsir:** Ibn Kathir notes: The word la'ib (play) refers to a play that has no purpose at all, like the movements of little children.
-
-**From the Sunnah:** Paradise is nearer to any of you than the strap on his shoe, and so is the (Hell) Fire. (Sahih al-Bukhari)
 ## Personal Reflections
-
 

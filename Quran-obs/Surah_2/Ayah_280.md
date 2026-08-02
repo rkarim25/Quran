@@ -223,31 +223,5 @@ Another hadith says that a person who wishes that his prayer be answered, or his
 
 If a debtor is in hardship, grant time until ease. If you waive it as charity, that is better for you — if only you knew.
 
-## AI Tafsir
-
-**Essence**
-
-When a debtor genuinely cannot pay, Allah commands the creditor to grant him respite until ease — and to forgive the debt as charity is better still.
-
-**What it teaches**
-
-Coming directly after the stern war-warning against riba, this ayah turns the heart the opposite way. Riba squeezes the poor borrower hardest; this verse forbids squeezing him at all. If the debtor is in ʿusrah (real financial hardship), the creditor is not merely encouraged but commanded to grant naẓirah (deferment) ilā maysarah (until ease comes) — the obligation rests on the lender, and the debtor's hardship is the trigger. Then Allah lifts the bar higher: to cancel the loan outright is named ṣadaqah (charity), and He calls this khayr (better) "if you did but know" — better even though, to the lender's eye, it is pure loss.
-
-**The scholars**
-
-Ibn Kathir explains that Allah commands creditors to be patient with debtors in difficulty, and that "remit it by way of charity" means to forfeit the debt and cancel it completely. He contrasts this with the cruelty of Jahiliyyah, when a creditor would tell the debtor at the term, "Either pay now or interest will be added to the debt."
-
-Maarif ul Quran notes the same vicious habit of riba-consumers — once they learn the borrower is poor, they pile riba upon riba and even raise the rate — and observes that Allah, the wisest of all law-givers, instead forbids harassing a genuinely poor borrower and induces the lender to forgive. Maarif gives two reasons the Qur'an calls forgiveness "better": first, the eternal blessings of Paradise that follow this fleeting world; second, the barakah (increase, bliss) Allah places in wealth — a little stretches to meet many needs without any quantitative increase. Maarif draws the picture sharply: those whose wealth is unlawful pour fortunes into medicine, treatment and consultancy fees, while Allah grants the charitable health that spares them such costs — so what looked like loss becomes gain.
-
-**From the Sunnah**
-
-Ibn Kathir cites two narrations. In the first (Musnad Ahmad, from Buraydah), the Prophet ﷺ said, "Whoever gives time to a debtor facing hard times will gain charity of equal proportions for each day he gives." A fuller version adds: he earns equal charity each day before the term falls due, and when the term arrives and he still grants more time, he earns charity of twice that amount for each day.
-
-In the second (Musnad Ahmad, through Abu Qatadah; Muslim also recorded it), the Prophet ﷺ said, "Whoever gives time to his debtor, or forgives the debt, will be in the shade of the Throne of Allah on the Day of Resurrection."
-
-**Reflection**
-
-When someone who owes you truly cannot pay, ease their burden rather than press them — and if you can, let it go, trusting the reward and barakah Allah promised over what your eyes can count.
 ## Personal Reflections
-
 

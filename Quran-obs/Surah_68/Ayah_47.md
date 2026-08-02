@@ -105,13 +105,5 @@ Towards the end, the story of Sayyidna Yunus (علیہ السلام) is concisel
 
 Or do they have access to the unseen, so they copy it for all to see?
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, My plan is strong (45)Or is it that you ask them a wage, so that they are heavily burdened with debt (46)Or that the Unseen is in their hands, so that they can write it down .
-
-**Classical tafsir:** Ibn Kathir notes: The Terror of the Day of Judgement After Allah mentions that those who have Taqwa, will have Gardens of Delight with their Lord, He explains when this will be, and its actual occurrence.
-
-**From the Sunnah:** he heard the Prophet ﷺ saying, (Sahih al-Bukhari)
 ## Personal Reflections
-
 

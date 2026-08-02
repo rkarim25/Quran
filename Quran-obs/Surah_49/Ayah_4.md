@@ -160,15 +160,5 @@ In the clause of verse حَتَّىٰ تَخْرُ‌جَ إِلَيْهِمْ "
 
 Most of those who call out to you from outside your private quarters lack proper understanding.
 
-## AI Tafsir
-
-**Context:** (And Allah is Forgiving, ar-Rahim.) It was reported that this Ayah was revealed about Al-Aqra' bin Habis At-Tamimi, may Allah be pleased with him, according to more than one source.
-
-**What this ayah teaches:** This is why groups of the scholars of Hadith refuse to accept narrations from narrators whose reliability is unknown, for they might be from among the wicked people, in reality.
-
-**Classical tafsir:** Ibn Kathir notes: Lexically, it refers to a four-walled apartment or dwelling, comprising a courtyard and a roofed building.
-
-**From the Sunnah:** Allah the Exalted and Most Blessed admonished those, such as the uncivilized bedouins, who used to call to the Prophet ﷺ from behind the dwellings which belong to his wives, And know that among you there is the Messenger of Allah.) 'know that among you is the Messenger of Allah ﷺ.
 ## Personal Reflections
-
 

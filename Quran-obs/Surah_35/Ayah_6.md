@@ -112,11 +112,5 @@ The word: غَرُ‌ورُ‌ (gharur) is an emphatic form of an adjective that
 
 Satan is an enemy to you—treat him as an enemy. He only invites his followers to become inmates of the Blaze.
 
-## AI Tafsir
-
-**What this ayah teaches:** So, let not this present life deceive you, and let not the chief deceiver deceive you about Allah (5)Surely, Shaytan is an enemy to you, so take (treat) him as an enemy.
-
-**Classical tafsir:** Ibn Kathir notes: It refers to the Shaitan (Satan) whose sole job is to deceive people and throw them into disbelief and sin.
 ## Personal Reflections
-
 

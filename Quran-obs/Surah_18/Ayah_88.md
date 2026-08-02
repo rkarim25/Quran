@@ -140,11 +140,5 @@ Dhul-Qarnain). This way could be to take this address to have been made to Dhul-
 
 As for those who believe and do good, they will have the finest reward, and we will assign them easy commands.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Then, he would punish those who stood by their infidelity and reward those who believed and did what was good. Therefore, as said in the next verses, Allah Ta’ ala gave Dhul-Qarnain the choice of punishing them right away for their infidelity.
-
-**Classical tafsir:** Ibn Kathir notes: Hami'ah is, according to one of the two views, derived from the word Hama'ah, which means mud.
 ## Personal Reflections
-
 

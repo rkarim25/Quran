@@ -152,13 +152,5 @@ None of the peoples to whom Messengers were sent were given a sign at the hands 
 
 Whatever new reminder comes to them from their Rabb — the One who creates, owns, nurtures, and sustains, they only listen to it jokingly,.
 
-## AI Tafsir
-
-**What this ayah teaches:** 21:2, 3) This verse describes the state of those who disregard the punishment in the grave and in the Hereafter and do not prepare themselves to counter it with good deeds. Comes not unto them an admonition from their Lord as a recent revelation but they listen to it while they play.)(3.
-
-**Classical tafsir:** Ibn Kathir notes: 21:2, 3) This verse describes the state of those who disregard the punishment in the grave and in the Hereafter and do not prepare themselves to counter it with good deeds.
-
-**From the Sunnah:** 'Abdullah said, "Banu Isra'il, Al-Kahf, Maryam, Ta Ha and Al-Anbiya' - they are among the earliest and most beautiful Surahs and they are my treasure." (Sahih al-Bukhari) that Abu Sa'id reported from the Prophet ﷺ: (Sunan an-Nasa'i)
 ## Personal Reflections
-
 

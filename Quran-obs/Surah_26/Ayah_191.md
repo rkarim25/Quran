@@ -126,11 +126,5 @@ so they were seized by the torment of the Day of Canopy. - 26:189
 
 And your Rabb is certainly the Almighty, the Rahim.
 
-## AI Tafsir
-
-**What this ayah teaches:** And verily, your Lord, He is truly, the All-Mighty, the ar-Rahim.)(26:8-9) meaning, He is All-Mighty in His punishment of the those who reject the truth, and ar-Rahim towards His believing servants.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

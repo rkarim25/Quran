@@ -62,13 +62,5 @@ The sorcerers were so overawed by the miracle of the prophet Musa (علیہ ال
 
 And the magicians fell down, prostrating.
 
-## AI Tafsir
-
-**Context:** And We revealed to Musa (saying): "Throw your stick," and behold! It swallowed up straight away all the falsehood which they showed (117)Thus truth was confirmed, and all that they did was made of no effect (118)So they…
-
-**What this ayah teaches:** It swallowed up straight away all the falsehood which they showed (117)Thus truth was confirmed, and all that they did was made of no effect (118)So they were defeated there and returned disgraced (119)And the sorcerers fell down prostrate (120)They said: "We believe in the Lord of all that exists (121)"The Lord of Musa and Harun.
-
-**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas said that Musa's stick swallowed all the ropes and sticks that the magicians threw.
 ## Personal Reflections
-
 

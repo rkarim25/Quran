@@ -126,13 +126,5 @@ The word عَادِیَات adiyat is derived from the root ` adw' which means '
 
 By the charging warhorses, panting—
 
-## AI Tafsir
-
-**Context:** According to Sayyidna Ibn Masud, Jabir, Hasan Basri, ` Ikramah and ` Ata' رحمۃ اللہ علیہم Surah Al-` Adiyat was revealed in Makkah and, according to Sayyidna Ibn ` Abbas, Anas ؓ ، Imam Malik and Qatadah رحمۃ اللہ علیہما…
-
-**What this ayah teaches:** In this Surah Allah describes the special features of war-horses or chargers, and swears by them. In other words, man needs to look at the horses, especially the war-horses, who risk their lives to travel under very dangerous and difficult conditions, especially in the battlefields where they follow the commands of their masters, whereas man has not created them, he has not even created the fodder…
-
-**Classical tafsir:** Ibn Kathir notes: In this Surah Allah describes the special features of war-horses or chargers, and swears by them.
 ## Personal Reflections
-
 

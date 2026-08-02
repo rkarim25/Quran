@@ -71,11 +71,5 @@ Commentary
 
 He is the Knower of the seen and unseen. Exalted is He above what they associate with Him.
 
-## AI Tafsir
-
-**What this ayah teaches:** Glorified be Allah above all that they attribute to Him (91)All-Knower of the unseen and the seen!
-
-**Classical tafsir:** Ibn Kathir notes: It is impossible for the will of both to be fulfilled because of the conflict.
 ## Personal Reflections
-
 

@@ -235,15 +235,5 @@ Sayyidna Jundub ؓ عنہ narrated this incident and said that revelation of the
 
 Your Rabb—the One who creates, owns, nurtures, and sustains—has not forsaken you, O Prophet, nor does He despise you; a pause in revelation did not mean abandonment.
 
-## AI Tafsir
-
-**Context:** Al-'Awfi reported from Ibn 'Abbas, "When the Qur'an was revealed to the Messenger of Allah ﷺ, Jibril was delayed from coming to him for a number of days (on one occasion).
-
-**What this ayah teaches:** The unbelievers taunted, saying: "Mulhammad's Lord has forsaken him, and is displeased with him." Surah Ad-Duha was revealed on this occasion.
-
-**Classical tafsir:** Ibn Kathir notes: Another narration states that when the pagans or the Jews asked the Holy Prophet ﷺ about the soul, he promised them that he would give them a reply the next day.
-
-**From the Sunnah:** this Hadith. (Sahih al-Bukhari, Sahih Muslim) Therefore, the Messenger of Allah ﷺ was affected by this.
 ## Personal Reflections
-
 

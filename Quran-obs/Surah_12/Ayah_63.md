@@ -117,11 +117,5 @@ This much was an answer to what they had said. But, he had the need of the famil
 
 When Joseph’s brothers returned to their father, they pleaded, “O our father! We have been denied further supplies. So send our brother with us so that we may receive our measure, and we will definitely watch over him.”
 
-## AI Tafsir
-
-**What this ayah teaches:** So send our brother with us, and we shall get our measure and truly, we will guard him.
-
-**Classical tafsir:** Ibn Kathir notes: But, he had the need of the family in sight, and because he was blessed with the quality of trust in the Divine dispension of matters, he talked about the reality as he knew it saying, in effect, that man has no control over his gain or loss unless Allah Ta ala Himself so wills.
 ## Personal Reflections
-
 

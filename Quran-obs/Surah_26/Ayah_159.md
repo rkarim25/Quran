@@ -82,11 +82,5 @@ This verse indicates that nice vocations are Allah's Graces, and to draw benefit
 
 And your Rabb is certainly the Almighty, the Rahim.
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, in this is indeed a sign, yet most of them are not believers (158)And verily, your Lord He is indeed the All-Mighty, the ar-Rahim .
-
-**Classical tafsir:** Ibn Kathir notes: Useful vocations are Divine Graces provided they are not employed in bad things This verse indicates that nice vocations are Allah's Graces, and to draw benefit from them is lawful.
 ## Personal Reflections
-
 

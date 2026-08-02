@@ -121,27 +121,5 @@ Because of this whole set of their terrible deeds, verse 22 says that all their 
 
 Indeed, those who deny Allah’s signs, kill the prophets unjustly, and kill people who stand up for justice—give them good news of a painful punishment.
 
-## AI Tafsir
-
-**Essence**
-
-A warning that the gravest tyranny is to reject Allah's signs and then kill those who carry truth and justice — His Prophets and the just among the people — and that such crime earns only a painful punishment.
-
-**What it teaches**
-
-The mufassirun read this as Allah's condemnation of three escalating crimes: disbelieving in His ayat (His signs and verses), killing the Prophets bighayri haqq (without right — unjustly), and even killing ordinary people who command al-qist (justice and fair, even-handed dealing). The single response He gives such hardened defiance is "give them tidings of a painful punishment" — bushra, the word for glad tidings, turned bitterly against them.
-
-**The scholars**
-
-Ibn Kathir explains this ayah chastises the People of the Book for transgressions past and more recent — denying Allah's signs and Messengers out of defiance and refusal to follow the truth, and slaying Prophets who had committed no crime but only called them to the truth. He identifies the driving sin as the worst kind of arrogance, citing the Prophet's ﷺ definition of kibr; Allah therefore repaid them with humiliation and disgrace in this life and humiliating torment in the Hereafter. Maarif ul Quran (Bayan al-Qur'an), citing Ruh al-Ma'ani, clarifies that "those who disbelieve in the verses of Allah" here refers to the Jews who rejected the Injil and the Qur'an; that killing the Prophets "unjustly" means they did so knowing full well it was without justice; and that "those who bid justice" are the people who teach moderation in deeds and morals.
-
-**From the Sunnah**
-
-Arrogance — the root sin behind rejecting the Prophets and killing the just — is, in the Prophet's ﷺ words, "to refuse the truth and degrade people" (cited by Ibn Kathir). And Ruh al-Ma'ani, reporting a hadith from the Prophet ﷺ as narrated by Ibn Abi Hatim, relates that Bani Isra'il slew forty-three prophets at one and the same time, and that same day killed one hundred and seventy pious elders who had stood up calling them to uphold justice — the very crime this ayah names (cited in Maarif ul Quran).
-
-**Reflection**
-
-Guard your heart from the arrogance that "refuses the truth and degrades people" — and honor, rather than silence, every voice that calls for justice.
 ## Personal Reflections
-
 

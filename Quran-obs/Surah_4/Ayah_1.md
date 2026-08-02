@@ -290,15 +290,5 @@ The statement in the last sentence of this verse: إِنَّ اللَّـهَ ك
 
 O humanity! Be mindful of your Rabb Who created you from a single soul, and from it He created its mate, and through both He spread countless men and women. And live with taqwa—awareness that Allah sees you—toward Allah—in Whose Name you appeal to one another—and family ties. Surely Allah is ever Watchful over you.
 
-## AI Tafsir
-
-**Context:** Al-'Awfi Reported that Ibn 'Abbas said that Surat An-Nisa' was revealed in Al-Madinah. Ibn Marduwyah recorded similar statements from 'Abdullah bin Az-Zubayr and Zayd bin Thabit.
-
-**What this ayah teaches:** That they be determined fully and perfectly through mutual agreements is also much too difficult.
-
-**Classical tafsir:** Ibn Kathir notes: Virtues of Surat An-Nisa, A Madinan Surah Al-'Awfi Reported that Ibn 'Abbas said that Surat An-Nisa' was revealed in Al-Madinah.
-
-**From the Sunnah:** that Ibn 'Abbas said, "Ask me about Surat An-Nisa', for I learned the Qur'an when I was still young." Al-Hakim said, "This Hadith is Sahih according to the criteria of the Two Sahihs, and they did not collect it." (al-Mustadrak) a delegation from Mudar came to the Messenger of Allah ﷺ, and he saw their state, wearing striped woolen clothes due to poverty. (Sahih Muslim)
 ## Personal Reflections
-
 

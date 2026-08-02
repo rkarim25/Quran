@@ -125,11 +125,5 @@ So the first interpretation would mean, 'how can you attain safety for yourselve
 
 Leave the deniers—those absorbed in luxury—to Me, and bear with them a little longer.
 
-## AI Tafsir
-
-**What this ayah teaches:** Only the deniers of the Hereafter will live a life of luxury that is neglectful of the Hereafter.
-
-**Classical tafsir:** Ibn Kathir notes: This means, 'you should beware of denying this Messenger, lest you be afflicted by that which befell Fir'awn.
 ## Personal Reflections
-
 

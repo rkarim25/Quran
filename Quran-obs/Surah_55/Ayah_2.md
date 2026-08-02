@@ -148,13 +148,5 @@ Grammatically speaking, the verb عَلَّمَ ` allama [ to teach ] requires t
 
 He taught the Qur'an—guidance spoken into the world as a gift flowing from the Rahman's favour.
 
-## AI Tafsir
-
-**What this ayah teaches:** The fact that the second object has not been explicitly specified indicates its generality, that is, it refers to the totality of human beings.
-
-**Classical tafsir:** Ibn Kathir notes: Mujahid said, "An-Najm (the star); the one that is in the sky." Al-Hasan and Qatadah said similarly. Ibn Jurayj reported that Ibn 'Abbas said said Al-Akmam, means sheathed fruit stalks. The fact that the second object has not been explicitly specified indicates its generality, that is, it refers to the totality of human beings.
-
-**From the Sunnah:** a man said [to Ibn Mas'ud]: "How is this recited: "Ma'in Ghayri Yasin or Asin?" He asked him, "Are you that proficient in reciting the whole Qur'an?" He replied, "I recite the Mufassal section in one Rak'ah." So he said, "Woe to you!
 ## Personal Reflections
-
 

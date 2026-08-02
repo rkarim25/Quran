@@ -216,17 +216,5 @@ May Allah Almighty give us and all Muslims the most perfect ability to stay safe
 
 Do not consume one another's wealth unjustly, nor bribe authorities to devour part of others' property knowingly — that is a sin.
 
-## AI Tafsir
-
-**Essence** Do not devour one another's wealth by falsehood, nor weaponize the courts to seize what is not yours — for a ruling on earth never makes the unlawful lawful before Allah.
-
-**What it teaches** The ayah forbids consuming wealth *bil-batil* (by falsehood — theft, robbery, fraud, bribery, false claims) and condemns dragging such disputes before the *hukkam* (judges/authorities) to swallow a portion of people's property *bil-ithm* (sinfully). Maarif notes the verb "eat" is metaphorical: it covers every unlawful use of property — eating, drinking, wearing, any benefit — and reaches interest, gambling, and defective sales even where both parties consent. Maarif also reads the closing *wa-antum ta'lamun* ("while you know") as decisive: the warning falls on one who knows his claim is false, not on one who sues in honest misunderstanding. Maarif places the ayah right after the fasting verses by design — fasting trains a person to abstain even from the lawful, so that abstaining from the unlawful comes easier.
-
-**The scholars** Ibn Kathir reports from Ibn 'Abbas that this concerns the debtor who, having no proof against him, denies the loan and takes the case to the authorities "even though he knows that it is not his money and that he is a sinner." Mujahid, Sa'id bin Jubayr, 'Ikrimah, Al-Hasan, Qatadah, As-Suddi, Muqatil bin Hayan and 'Abdur-Rahman bin Zayd bin Aslam agreed: "Do not dispute when you know that you are being unjust." Qatadah warns that the judge "only rules according to his best judgment and the testimony of the witnesses" and may err — so the wrongly favored party "will still encounter the dispute when the disputing parties meet Allah on the Day of Resurrection." Maarif draws out *amwalakum* ("your property"): the encroacher should realize the victim loves his wealth as he loves his own, and that plundering others by falsehood merely "opens the door to the unlawful plundering of his own" — like a society drowning in mutual adulteration. A just, universal criterion of *halal* and *haram*, Maarif adds, can only come from the Creator through revelation, not from human committees that favor their own. Maarif notes a Hanafi nuance: per Imam Abu Hanifah, in contracts or annulments within the Qadi's authority, his ruling renders the transaction legally valid even if won by a false oath — though "the curse of lying and engineering false witnesses will hang round his neck."
-
-**From the Sunnah** The Prophet ﷺ said he is only human and judges by what he hears; if his ruling wrongly grants one person another's right, it is a piece of the Fire — he must not take it. A court's verdict never turns the unlawful into the lawful. (Sahih al-Bukhari and Sahih Muslim, from Umm Salamah)
-
-**Reflection** This ayah was revealed as two Companions disputed land; the defendant, about to swear a winning oath, heard the Prophet's ﷺ counsel and handed the land back rather than seize it falsely. When you could win unjustly — by a clever argument, a bribe, or a false oath — remember the reckoning before Allah, and walk away from what is not yours.
 ## Personal Reflections
-
 

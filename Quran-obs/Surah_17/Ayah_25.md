@@ -100,11 +100,5 @@ In the last verse quoted above: رَّ‌بُّكُمْ أَعْلَمُ بِم�
 
 Your Rabb knows best what is within yourselves. If you are righteous, He is certainly All-Forgiving to those who constantly turn to Him.
 
-## AI Tafsir
-
-**What this ayah teaches:** If you are righteous, then, verily, He is Ever Most Forgiving to those who turn to Him in repentance .
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

@@ -80,11 +80,5 @@ After that, he declares his abhorrence for disbelief and his disengagement from 
 
 O my fellow-prisoners! Which is far better: many different Rabbs or Allah—the One, the Supreme?
 
-## AI Tafsir
-
-**What this ayah teaches:** Are many different lords (gods) better or Allah, the One, the Irresistible? After having said that, he asked the same prisoners to tell him if it was better that human beings should be worshiping many gods, or was it better that one becomes a servant of one Allah alone - whose subduing power is all-dominant.
-
-**Classical tafsir:** Ibn Kathir notes: Prophet Yusuf explained to them next that it is because of their ignorance that they worship false deities and give them names, for these names were forged and are being transferred from one generation to the next generation.
 ## Personal Reflections
-
 

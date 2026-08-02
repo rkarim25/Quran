@@ -202,13 +202,5 @@ Since this explanation of the verse stands proved on the authority of Sahih Hadi
 
 We surely gave Moses nine clear signs. You, O Prophet, can ask the Children of Israel. When Moses came to them, Pharaoh said to him, “I really think that you, O Moses, are bewitched.”
 
-## AI Tafsir
-
-**Context:** (But We drowned him and all who were with him. And We said to the Children of Israel after him: "Dwell in the land...") This is good news for Muhammad ﷺ, a foretelling of the conquest of Makkah, even though this Surah wa…
-
-**What this ayah teaches:** Therefore, a number of commentators have taken the word 'ayat' to mean miracles - and the number nine does not make it necessary that they will not be more than nine - but, at this place, the figure 'nine' has been mentioned on the basis of some particular importance it has. These became evidence against them, because they stubbornly rejected them out of disbelief.
-
-**Classical tafsir:** Ibn Kathir notes: As Mujahid said, "doomed" includes all of these meanings.
 ## Personal Reflections
-
 

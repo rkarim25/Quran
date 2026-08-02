@@ -177,13 +177,5 @@ After the description of these four qualities of the Holy Qur'an, the address is
 
 “Should I seek a judge other than Allah while He is the One Who has revealed for you the Book perfectly explained?” Those who were given the Scripture know that it has been revealed from your Rabb in truth. So do not be one of those who doubt.
 
-## AI Tafsir
-
-**What this ayah teaches:** [Say:] "Shall I seek a judge other than Allah while it is He Who has sent down unto you the Book, explained in detail." Those unto whom We gave the Scripture know that it is revealed from your Lord in truth.
-
-**Classical tafsir:** Ibn Kathir notes: In other words, it means: ` Do you want that I should, after this decision (of Allah Ta` ala to reveal the Qur'an to me), go and look for a judge other than Him?
-
-**From the Sunnah:** The conditional 'if' in this Ayah does not mean that 'doubt' will ever occur to the Prophet ﷺ.
 ## Personal Reflections
-
 

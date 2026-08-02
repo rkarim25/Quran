@@ -163,13 +163,5 @@ the Holy Prophet ﷺ (Bayan al-Qur'an)
 
 And do not ever offer prayers for any of their dead, nor stand by their grave, for they have lost faith in Allah and His Messenger and died rebellious.
 
-## AI Tafsir
-
-**Context:** Allah commands His Messenger ﷺ to disown the hypocrites, to abstain from praying the funeral prayer when any of them dies, from standing next to his grave to seek Allah's forgiveness for him, or to invoke Allah for his b…
-
-**What this ayah teaches:** It will be recalled that he had said, ` Allah Ta` ala has prohibited you from leading the Salah of Janazah for a hypocrite.' We have to look for the basis on which he said that, because no verse had ever prohibited the Holy Prophet ﷺ expressly from offering the Salah of Janazah for a hypocrite.
-
-**Classical tafsir:** Ibn Kathir notes: Now the question is, if this verse of prohibition refers to the Salah of Janazah, why would the Holy Prophet ﷺ not let this be regarded as prohibited, instead of which, he said that the choice in the verse had been given to him?
 ## Personal Reflections
-
 

@@ -143,15 +143,5 @@ Abu ` Uthman ؓ has said, ` this verse of the Holy Qur'an brings great hope for 
 
 Some others have confessed their wrongdoing: they have mixed goodness with evil. It is right to hope that Allah will turn to them in mercy. Surely Allah is All-Forgiving, the Rahim.
 
-## AI Tafsir
-
-**Context:** These people admitted their error to themselves and their Lord. They had performed good deeds before, as well as, this evil deed that they committed. For them there was forgiveness and pardon of Allah.
-
-**What this ayah teaches:** Surely, Allah is Oft-Forgiving, ar-Rahim .
-
-**Classical tafsir:** Ibn Kathir notes: The third group was that of people who were genuinely handicapped because of which they could not go.
-
-**From the Sunnah:** When the Messenger of Allah ﷺ returned from that battle, this group, Abu Lubabah and five, seven or nine with him, tied themselves to the pillars of the Masjid and refused to let anyone untie them except the Messenger of Allah ﷺ. this Hadith in a short form upon the explanation of this Ayah. (Sahih al-Bukhari)
 ## Personal Reflections
-
 

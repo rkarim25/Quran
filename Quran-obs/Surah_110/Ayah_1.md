@@ -153,15 +153,5 @@ It is reported in Muqatil's narration that when this Surah was revealed, the Hol
 
 When Allah's decisive help arrives and victory becomes visible—not the small wins of ego, but the opening you could not manufacture yourself—
 
-## AI Tafsir
-
-**Context:** According to the consensus of scholars, this Surah was revealed in Madinah. Its other name is Surah At-Tawdi`. The word Tawdi` means 'to bid farewell'.
-
-**What this ayah teaches:** The expression 'victory' here is in reference to 'the promised Victory or Conquest of Makkah'.
-
-**Classical tafsir:** Ibn Kathir notes: The phrase idha ja'a [ when there comes ] apparently indicates that its revelation took place before the Conquest.
-
-**From the Sunnah:** This Surah Informs of the Completion of the Life of Allah's Messenger (ﷺ) Then he ('Umar) said to me, 'Is this what you say, O Ibn 'Abbas?' I said, 'No.' He then said, 'What do you say?' I said, 'It was the end of the life of Allah's Messenger ﷺ that Allah was informing him of.
 ## Personal Reflections
-
 

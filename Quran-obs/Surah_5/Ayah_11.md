@@ -270,13 +270,5 @@ Therefore, it is the duty of every Muslim, man and woman, that he or she must fu
 
 O you who have iman! Remember Allah’s favour upon you: when a people sought to harm you, but He held their hands back from you. live with taqwa toward Allah. And in Allah let those who have iman put their trust.
 
-## AI Tafsir
-
-**Context:** Muhammad bin Ishaq bin Yasar, Mujahid and 'Ikrimah said that this Ayah was revealed about Bani An-Nadir, who plotted to drop a stone on the head of the Messenger ﷺ when he came to them for help to pay the blood money of…
-
-**What this ayah teaches:** Remember the favor of Allah unto you when some people desired (made a plan) to stretch out their hands against you, but (Allah) held back their hands from you.
-
-**Classical tafsir:** Ibn Kathir notes: Muhammad bin Ishaq bin Yasar, Mujahid and 'Ikrimah said that this Ayah was revealed about Bani An-Nadir, who plotted to drop a stone on the head of the Messenger ﷺ when he came to them for help to pay the blood money of two persons whom Muslims killed.
 ## Personal Reflections
-
 

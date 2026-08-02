@@ -127,11 +127,5 @@ Some commentators have interpreted the meaning of وَكَانُوا مُسْت�
 
 The peoples of 'Ad and Thamud met a similar fate — clear to you from their ruins. Satan made their deeds seem fair, blocking them from the path though they could reason.
 
-## AI Tafsir
-
-**What this ayah teaches:** Shaytan made their deeds fair seeming to them, and turned them away from the path, though they were intelligent (38)And Qarun, Fir'awn, and Haman. It carried them through the air, lifting a man up to the sky and then hurling him headlong to the ground, so that his head split and he was left as a body without a head, like uprooted stems of date palms.
-
-**Classical tafsir:** Ibn Kathir notes: It carried them through the air, lifting a man up to the sky and then hurling him headlong to the ground, so that his head split and he was left as a body without a head, like uprooted stems of date palms.
 ## Personal Reflections
-
 

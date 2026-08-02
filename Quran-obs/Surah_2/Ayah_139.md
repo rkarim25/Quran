@@ -153,19 +153,5 @@ Nor should we forget another serious aspect of the problem. There is another all
 
 Say, "Do you argue with us about Allah when He is our Rabb and your Rabb? We have our deeds and you have yours, and we are devoted to Him alone."
 
-## AI Tafsir
-
-**Essence**
-Tell the disputers: arguing over Allah is futile when He is Lord of all alike — so no lineage wins exclusive favor. Each soul answers for its own deeds, and we worship Him with pure, undivided devotion.
-
-**What it teaches**
-The Prophet ﷺ is told to silence the Jews' and Christians' claim to exclusive favor: since Allah is "our Lord and your Lord," being Lord of all, He grants no group special favor by ancestry, and on the Day of Judgment He assesses each — Jew, Christian, and Muslim — by what they believed and how they behaved, not by descent. The word *mukhlisun* (from *ikhlas*, "purifying oneself") marks the believers as devoted to Allah alone, externally and internally, cleansed of all *shirk* (association).
-
-**The scholars**
-Ibn Kathir reads "Dispute you with us about Allah" as a dispute over His Oneness and submission to Him, while "He is our Lord and your Lord" affirms He alone deserves worship without partners; "for us our deeds and for you yours" he glosses as mutual disavowal — "We disown you just as you disown us." Maarif ul Quran adds that verse 139 captures the Ummah's defining trait: purity from *shirk*, unlike those who called 'Uzayr or 'Isa "the Son of Allah." Sa'id ibn Jubayr defined *ikhlas* as worshipping none but Allah, associating none with Him, and doing good deeds only to obey Him — not to win people's admiration; the spiritual masters said it is a deed no man, angel, or Satan can detect — a secret between Allah and His servant.
-
-**Reflection**
-Stop leaning on lineage or labels: you will answer for your own deeds. So purify them — let your worship be a secret offering between you and Allah alone.
 ## Personal Reflections
-
 

@@ -184,11 +184,5 @@ This concludes the explanation of Surat Al-Ahqaf. And all praise and blessings a
 
 Do they not see that Allah, who created the heavens and the earth without growing weary in creating them, is able to give life to the dead? Yes—He is capable of everything.
 
-## AI Tafsir
-
-**What this ayah teaches:** It will indicate that only sins relating to the rights of Allah would be forgiven but not the rights of people.
-
-**Classical tafsir:** Ibn Kathir notes: It will indicate that only sins relating to the rights of Allah would be forgiven but not the rights of people.
 ## Personal Reflections
-
 

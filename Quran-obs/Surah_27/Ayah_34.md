@@ -116,11 +116,5 @@ After having consulted the functionaries of her government and gaining their con
 
 She reasoned, “Indeed, when kings invade a land, they ruin it and debase its nobles. They really do so!
 
-## AI Tafsir
-
-**What this ayah teaches:** Because of her remarks, the ministers and the generals expressed their readiness to sacrifice everything they had in order to follow her command. If he becomes satisfied after receiving the gifts, then it would indicate that he was only a king and had approached her with mundane motives.
-
-**Classical tafsir:** Ibn Kathir notes: Because of her remarks, the ministers and the generals expressed their readiness to sacrifice everything they had in order to follow her command.
 ## Personal Reflections
-
 

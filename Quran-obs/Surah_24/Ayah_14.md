@@ -135,13 +135,5 @@ This verse was revealed for those believers who had by mistake got somehow invol
 
 Had it not been for Allah’s grace and mercy upon you in this dunya — this temporary worldly life and the Akhirah, you would have certainly been touched with a tremendous punishment for what you plunged into—
 
-## AI Tafsir
-
-**Context:** This verse was revealed for those believers who had by mistake got somehow involved in the slander, but then repented and begged Allah's pardon.
-
-**What this ayah teaches:** The manifestation of Allah's grace and mercy in the world is that, first, the Divine help was granted to adopt Islam and its faith, then the company of the Holy Prophet ﷺ ﷺ accorded, which is an impediment for the award of punishment, and then again the Divine help was granted to repent sincerely and beg Allah's forgiveness for the sin which was committed, and ultimately the re…
-
-**Classical tafsir:** Ibn Kathir notes: According to her, the meaning refers to lies which a person persists in telling.
 ## Personal Reflections
-
 

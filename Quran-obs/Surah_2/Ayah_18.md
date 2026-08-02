@@ -79,15 +79,5 @@ The last four verses bring out the miserable plight of the hypocrites with the h
 
 Deaf, dumb, and blind — they will not return to the right path.
 
-## AI Tafsir
-
-**Essence** Guidance traded for misguidance: the hypocrites are left deaf, dumb, and blind — every faculty of return shut.
-
-**What it teaches** Summun — deaf to the guidance; bukmun — unable to utter the words that might benefit them; 'umyun — even were there light, they would not see. Fa-hum la yarji'un: while they persist in this state, they do not return.
-
-**The scholars** Ibn Kathir: the kindled fire suddenly dies — Allah removed the light that benefited them, leaving them in the darkness of their doubts, disbelief, and hypocrisy; a parable, he relates, of those who first believed, then disbelieved, for "it is not the eyes that grow blind, but it is the hearts which are in the breasts that grow blind" (22:46). Maarif ul-Quran: those in whom disbelief took deep root yet feigned Islam for worldly motives — not beyond Allah's power to take away their sight and hearing, even destroy them, whenever He wills.
-
-**Reflection** Hold fast to the light while you have it — once it slips away, the faculties needed to find it again begin to close.
 ## Personal Reflections
-
 

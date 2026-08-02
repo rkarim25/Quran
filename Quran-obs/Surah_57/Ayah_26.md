@@ -153,15 +153,5 @@ In the preceding verses it was mentioned that in order to give guidance to the w
 
 We sent Noah and Abraham and established prophethood and scripture among their descendants. Some were guided; many were rebellious.
 
-## AI Tafsir
-
-**Context:** (Then, We sent after them Our Messengers, and We sent 'Isa the son of Maryam, and gave him the Injil.) refering to the Injil that Allah revealed to him, In the preceding verses it was mentioned that in order to give guid…
-
-**What this ayah teaches:** And among them there are some who are guided; but many of them are rebellious (26)Then, We sent after them Our Messengers, and We sent 'Isa the son of Maryam, and gave him the Injil. And indeed, We sent Nuh and Ibrahim, and placed in their offspring prophethood and Scripture.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, summon them and let them recite these Ayat our way and believe in them our way.' The king summoned them and gathered them and threatened them with death if they did not revert from reciting the original Tawrah and Injil to using the corrupted version only.
-
-**From the Sunnah:** a man came to him and asked…
 ## Personal Reflections
-
 

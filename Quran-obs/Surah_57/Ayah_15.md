@@ -199,11 +199,5 @@ In the matter of light, the infidels are not mentioned anywhere, because in thei
 
 Today no ransom will be accepted from you or from those who rejected the truth. Your home is the Fire—it is your only fitting refuge. What an evil destination!
 
-## AI Tafsir
-
-**What this ayah teaches:** They remained deceived until Allah cast them into Hellfire." The meaning here is that the believers will answer the hypocrites by saying, "You were with us in bodies which were heartless and devoid of intentions. Having received the reply from either the believers or the angels, the hypocrites will return to the place where the light was distributed.
-
-**Classical tafsir:** Ibn Kathir notes: Inside it will be mercy, and outside it will be torment.) Al-Hasan and Qatadah said that the wall mentioned here is located between Paradise and Hellfire.
 ## Personal Reflections
-
 

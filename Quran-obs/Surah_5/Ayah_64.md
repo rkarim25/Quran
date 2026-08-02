@@ -381,15 +381,5 @@ In verse 65, the Jews have been admonished that the people of the Torah and Inji
 
 The Jews said, “Allah is tight-fisted.” May their fists be tied and they be condemned for what they said. Rather, He is open-handed, giving freely as He pleases. That which has been revealed to you from your Rabb will only cause many of them to increase in wickedness and rejection of the truth. We have stirred among them hostility and hatred until the Day of Judgment. Whenever they kindle the fire of war, Allah puts it out. And they strive to spread corruption in the land. And Allah does not like corruptors.
 
-## AI Tafsir
-
-**Context:** (And let not your hand be tied (like a miser) to your neck.) Therefore, this is the meaning that the Jews meant, may Allah's curses be on them.
-
-**What this ayah teaches:** Rather, they mean that He is a miser and does not spend from what He has.
-
-**Classical tafsir:** Ibn Kathir notes: 'Ikrimah said that this Ayah was revealed about Finhas, one of the Jews, may Allah curse him.
-
-**From the Sunnah:** The Revelation to the Muslims only Adds to the Transgression and Disbelief of the Jews So, it is to keep Muslims safe from their evil designs that Allah has caused differences to crop up within their own sects because of which they would neither dare fight an open war nor would any conspiracy by them succeed.
 ## Personal Reflections
-
 

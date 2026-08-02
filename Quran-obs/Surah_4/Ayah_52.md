@@ -222,11 +222,5 @@ Literally, La'nah means being far removed from the mercy of Allah. In the termin
 
 It is they who have been condemned by Allah. And whoever is condemned by Allah will have no helper.
 
-## AI Tafsir
-
-**Context:** (Have you not seen those who claim sanctity for themselves?) was revealed about the Jews and Christians when they said, 'We are Allah's children and His loved ones.'" Ibn Zayd also said, "This Ayah was revealed concernin…
-
-**What this ayah teaches:** Allah's Curse on the Jews This Ayah [4:52] contains a curse for the Jews and informs them that they have no supporter in this life or the Hereafter, because they sought the help of the idolators.
 ## Personal Reflections
-
 

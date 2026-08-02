@@ -176,15 +176,5 @@ These verses purport to confirm the risalah of the Final Messenger of Allah ﷺ 
 
 We gave them clear commandments regarding faith. But they differed only after knowledge came to them, out of mutual envy. Your Lord will judge between them on the Day of Judgment regarding their differences.
 
-## AI Tafsir
-
-**Context:** (Then We have put you on a (legal) way of commandment. So follow you that.) 'follow what was revealed to you from your Lord, O Muhammad, there is no true deity except Him, and turn away from the idolators.' Allah said,
-
-**What this ayah teaches:** And they differed not until after the knowledge came to them, through envy among themselves. And indeed We gave the Children of Israel the Scripture, and the understanding of the Scripture and its laws, and the prophethood; and provided them with good things, and preferred them above the nations (16)And gave them clear proofs in matters.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** This Ayah contains a warning to the Muslim Ummah as well. (Sahih Muslim) These verses purport to confirm the risalah of the Final Messenger of Allah ﷺ .
 ## Personal Reflections
-
 

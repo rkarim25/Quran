@@ -108,11 +108,5 @@ Hence, the sequence of mutual killing which had commenced with the Shahadah (mar
 
 Moreover, establish salah, give zakat, and obey the Messenger, so you may be shown mercy.
 
-## AI Tafsir
-
-**What this ayah teaches:** The Command to Pray, Give the Zakah and Obey the Messenger (ﷺ); The Inability of the those who reject the truth to Escape,and the Ultimate Destiny Allah commands His believing servants to establish prayer, which means worshipping Allah Alone with no partner or associate; to pay the Zakah, which is an act of kindness towards His poor and weak creatures; and by doing so to obey the Messenger of Allah ﷺ, i.e., to…
-
-**Classical tafsir:** Ibn Kathir notes: The literal meaning of the word Kufr is thanklessness and in conventional sense it is the antonym of faith.
 ## Personal Reflections
-
 

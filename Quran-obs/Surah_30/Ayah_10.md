@@ -130,11 +130,5 @@ Ibn Abi Hatim also recorded it from them and from Ad-Dahhak bin Muzahim. This is
 
 Then the worst end was for those who denied and mocked Allah's signs.
 
-## AI Tafsir
-
-**What this ayah teaches:** Then evil was the end of those who did evil, because they dendied the Ayât of Allâh and made a mockery of them.) Signs of Tawhid Allah tells us that pondering His creation will show that He exists and that He is Unique in creating it, and that there is no Allah nor lord besides Him. Surely, Allâh wronged them not, but they used to wrong themselves.)(10.
-
-**Classical tafsir:** Ibn Kathir notes: Surely, Allâh wronged them not, but they used to wrong themselves.)(10.
 ## Personal Reflections
-
 

@@ -319,13 +319,5 @@ The same rule applies to mosques, religious schools and institu-tions, khanqahs 
 
 They have varying degrees in the sight of Allah. And Allah is All-Seeing of what they do.
 
-## AI Tafsir
-
-**Context:** (It is not for any Prophet to illegally take a part of the booty,) was revealed in connection with a red robe that was missing from the spoils of war of Badr.
-
-**What this ayah teaches:** His abode is Hell, and worse indeed is that destination (162)They are in varying grades with Allah, and Allah is All-Seer of what they do (163)Indeed, Allah conferred a great favor on the believers when He sent among them a Messenger from among themselves, reciting unto them His verses (the Qur'an), and purifying them, and instructing them (in) the Book (the Qur'an) and Al-Hikm…
-
-**Classical tafsir:** Ibn Kathir notes: His abode is Hell, and worse indeed is that destination!)[3:162], This refers to those seeking what pleases Allah by obeying His legislation, thus earning His pleasure and tremendous rewards, while being saved from His severe torment.
 ## Personal Reflections
-
 

@@ -174,11 +174,5 @@ Commentary
 
 Ask them also, “In Whose Hands is the authority over all things, protecting all while none can protect against Him, if you really know?”
 
-## AI Tafsir
-
-**What this ayah teaches:** And He protects, while against Whom there is no protector, if you know?
-
-**Classical tafsir:** Ibn Kathir notes: This is true of this world because nobody can stop Allah from rewarding virtuous people nor can anyone protect someone whom He chooses to punish.
 ## Personal Reflections
-
 

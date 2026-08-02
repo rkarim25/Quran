@@ -195,13 +195,5 @@ Allah's Fairness to Sinners
 
 We used to call on Him before. He is truly the Most Kind, the Rahim.
 
-## AI Tafsir
-
-**What this ayah teaches:** The verse means that for upgrading the children of the believers who died in the state of true faith, no part of the reward of their parents will be diminished for them to make up for the children's deeds.
-
-**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas said that Laghw means 'falsehood' while Ta'thim means 'lying'.
-
-**From the Sunnah:** Ibn Abi Hatim also recorded that Ibn 'Abbas commented on Allah's statement, Paradise, while the idolators and their offspring will dwell in the Hellfire.
 ## Personal Reflections
-
 

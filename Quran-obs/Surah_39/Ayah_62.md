@@ -101,13 +101,5 @@ In verse 59, it was said: بَلَىٰ قَدْ جَاءَتْكَ آيَاتِ�
 
 Allah is the Creator of all things, and He is the Maintainer of everything.
 
-## AI Tafsir
-
-**Context:** Allah is the Creator of all things, and He is the Trustee over all things (62)To Him belong the Maqalid of the heavens and the earth.
-
-**What this ayah teaches:** Allah is the Creator and Controller, and associating others in worship with Him cancels out Good Deeds Allah tells us that He is the Creator, Lord, Sovereign and Controller of all things; everything is subject to His dominion, power and guardianship.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, their claim that Allah gave them no guidance was absurd.
 ## Personal Reflections
-
 

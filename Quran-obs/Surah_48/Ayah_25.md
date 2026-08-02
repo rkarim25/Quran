@@ -462,13 +462,5 @@ Imam Qurtubi says that if a Muslim unknowingly kills another Muslim, it is not a
 
 They are the ones who persisted in denial and barred you from the Sacred Mosque, keeping the sacrificial animals from reaching their place. Had there not been believing men and women among them whom you did not know—whom you might have trampled unknowingly, incurring guilt—Allah would have let you march through. He admits into His mercy whomever He wills. Had those hidden believers been separate, We would have punished those who rejected the truth with a painful punishment.
 
-## AI Tafsir
-
-**What this ayah teaches:** The sense is that if Muslims detained in Makkah had been separate and distinct from the unbelievers, the Muslims coming from Madinah would have been able to save them in case of war, and Allah would have had the those who reject the truth punished then and there, because that was the demand of their attitude.
-
-**Classical tafsir:** Ibn Kathir notes: The those who reject the truth sent two men in pursuit who said to the Prophet ﷺ, 'Abide by the promise you gave us.' So, the Prophet ﷺ handed him over to them.
-
-**From the Sunnah:** "Abu Bakr, may Allah be pleased with him, said, "O, Allah's Messenger! By Allah, Khalid did not perceive the arrival of the Muslims until the dust arising from the march of the Muslim army reached him, then he turned back hurriedly to inform the Quraysh. (Sahih Muslim)
 ## Personal Reflections
-
 

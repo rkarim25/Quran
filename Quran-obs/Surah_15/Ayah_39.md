@@ -152,13 +152,5 @@ Addressing Iblis in Surah Al-A` raf, it was said: مَا مَنَعَكَ أَل
 
 Satan responded, “My Rabb! For allowing me to stray I will surely tempt them on earth and mislead them all together,.
 
-## AI Tafsir
-
-**What this ayah teaches:** Because You misled me, I shall indeed adorn the path of error for them (mankind) on the earth, and I shall mislead them all. This indicates that the main prostraters were after all the angels but Iblis too, being present with them, was reason-bound to join the prostrating an-gels.
-
-**Classical tafsir:** Ibn Kathir notes: This indicates that the main prostraters were after all the angels but Iblis too, being present with them, was reason-bound to join the prostrating an-gels.
-
-**From the Sunnah:** Ibn Abi Hatim recorded that Samurah bin Jundub reported from the Prophet ﷺ about,
 ## Personal Reflections
-
 

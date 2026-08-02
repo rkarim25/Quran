@@ -88,13 +88,5 @@ Arguments and evidence have been adduced in favour of all fundamental articles o
 
 The revelation of this Book is from Allah—the Almighty, All-Wise.
 
-## AI Tafsir
-
-**Context:** This entire Surah was revealed at Makkah except for one verse. According to one view, the following verse was revealed at Madinah: لِّلَّذِينَ آمَنُوا يَغْفِرُ‌وا لِلَّذِينَ لَا يَرْ‌جُونَ أَيَّامَ اللَّـهِ ("Tell those…
-
-**What this ayah teaches:** The revelation of the Book is from Allah, the Almighty, the All-Wise.)(3.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

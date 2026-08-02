@@ -222,23 +222,5 @@ According to certain commentators, the isolated letters are the names of the Sur
 
 Alif, Lam, Mim — opening letters whose full meaning Allah kept with Himself. They open this surah as a sign that invites humility before you read: some truths are held above human decoding.
 
-## AI Tafsir
-
-**Essence**
-
-Alif-Lam-Mim: three isolated letters whose full meaning Allah has kept with Himself, opening His Book with a sign of His wisdom and our humility before it.
-
-**What it teaches**
-
-These are the muqatta'at (isolated letters), each pronounced separately. Ibn Kathir reports their knowledge is among the things Allah kept for Himself, yet they are not jest: one wisdom scholars highlight is that they testify to the Qur'an's miracle, for people cannot produce its like though it is built from the same letters they speak with daily.
-
-**The scholars**
-
-Ibn Kathir relates that Abu Bakr, 'Umar, 'Uthman, 'Ali and Ibn Mas'ud held the meaning belongs to Allah alone, while Mujahid said they are simply letters of the alphabet that open the Surahs. The view that they prove the Qur'an's inimitability is traced to Al-Mubarrid, Al-Farra' and Az-Zamakhshari, and endorsed by Ibn Taymiyyah. Maarif (citing Al-Qurtubi) adds that the majority of Companions and Tabi'in treated them as Allah's secrets (mutashabihat): we believe and recite as revealed, receiving blessing without prying into their meaning.
-
-**Reflection**
-
-Begin the Book by surrendering: read what Allah revealed, content to leave its meaning with Him.
 ## Personal Reflections
-
 

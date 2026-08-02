@@ -114,11 +114,5 @@ Most of the subjects taken up in Surah Ya Sin related to signs of Divine power a
 
 And We have placed in it gardens of palm trees and grapevines, and caused springs to gush forth in it,
 
-## AI Tafsir
-
-**What this ayah teaches:** We give it life, and We bring forth from it grains, so that they eat thereof (33)And We have made therein gardens of date palms and grapes, and We have caused springs of water to gush forth therein (34)So that they may eat of the fruit thereof – and their hands made it not.
-
-**Classical tafsir:** Ibn Kathir notes: We give it life, and We bring forth from it grains, so that they eat thereof (33)And We have made therein gardens of date palms and grapes, and We have caused springs of water to gush forth therein (34)So that they may eat of the fruit thereof – and their hands made it not.
 ## Personal Reflections
-
 

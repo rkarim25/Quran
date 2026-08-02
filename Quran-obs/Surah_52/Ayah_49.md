@@ -149,13 +149,5 @@ Ends here
 
 and glorify Him during part of the night and at the fading of the stars.
 
-## AI Tafsir
-
-**What this ayah teaches:** The concluding part of this verse; "...and at setting of the stars" refers to the Fajr prayer and the tasbihat recited at that time.
-
-**Classical tafsir:** Ibn Kathir notes: The concluding part of this verse; "...and at setting of the stars" refers to the Fajr prayer and the tasbihat recited at that time.
-
-**From the Sunnah:** In his Sahih, Muslim recorded that 'Umar used to recite this supplication when he began Salah. (Sahih Muslim) Ahmad and the Sunan compilers recorded this Hadith from Abu Sa'id and other Companions, who stated that the Prophet ﷺ used to say that.
 ## Personal Reflections
-
 

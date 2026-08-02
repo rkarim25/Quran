@@ -158,13 +158,5 @@ Firstly, if someone commits a sin, its best remedy is that he should look for do
 
 These mu'mins will be given a double reward for their perseverance, responding to evil with good, and for donating from what We have provided for them.
 
-## AI Tafsir
-
-**Context:** (And there are, certainly, among the People of the Scripture, those who believe in Allah and in that which has been revealed to you, and in that which has been revealed to them, humbling themselves before Allah)(3:199).
-
-**What this ayah teaches:** As for the reason why these people have been chosen for such an extra ordinary reward, the straight answer is that it is Allah Ta` ala's prerogative to declare any deed preferable or superior to other deeds, and enhance its reward.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore the double reward contemplated for all these types, is that for every single good deed they will be awarded double the reward.
 ## Personal Reflections
-
 

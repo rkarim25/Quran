@@ -192,13 +192,5 @@ The reward of As-Sabiqun
 
 Waited on by eternal youths
 
-## AI Tafsir
-
-**What this ayah teaches:** Some said that the former means earlier (believing) nations, while the later refers to this Ummah. This is because this Ummah is the best of all nations, according to the text of the Qur'an.
-
-**Classical tafsir:** Ibn Kathir notes: Some said that the former means earlier (believing) nations, while the later refers to this Ummah.
-
-**From the Sunnah:** He considered it supported by the saying of Allah's Messenger ﷺ: And a few of those will be from the later ones.), this news became hard for the Companions of the Prophet ﷺ.
 ## Personal Reflections
-
 

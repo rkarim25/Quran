@@ -166,13 +166,5 @@ After that, it was said: مِن لَّدُنْ حَكِيمٍ خَبِيرٍ‌ 
 
 Alif-Lam-Ra. This is a Book whose ayahs are perfected, then explained in detail from One who is All-Wise, All-Aware.
 
-## AI Tafsir
-
-**Context:** (And We did not send any Messenger before you but We revealed to him (saying): There is no Allah but I, so worship Me.)[21:25] It is similar to Allah's statement,
-
-**What this ayah teaches:** But, after the revelation of this Book, since the very chain of the coming of prophets and revelations came to an end, therefore, this Book will not be abrogated until the last day of Qiyamah.
-
-**Classical tafsir:** Ibn Kathir notes: But, after the revelation of this Book, since the very chain of the coming of prophets and revelations came to an end, therefore, this Book will not be abrogated until the last day of Qiyamah.
 ## Personal Reflections
-
 

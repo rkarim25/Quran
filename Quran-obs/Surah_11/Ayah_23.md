@@ -112,11 +112,5 @@ This should remove the misunderstanding of those who regard the Jews and Christi
 
 Surely those who believe, do good, and humble themselves before their Rabb will be the residents of Paradise. They will be there forever.
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, those who believe and do righteous good deeds, and humble themselves before their Lord, they will be the dwellers of Paradise to dwell therein forever (23)The likeness of the two parties is as the blind and the deaf and the seer and the hearer.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, falsehood does not overcome him.
 ## Personal Reflections
-
 

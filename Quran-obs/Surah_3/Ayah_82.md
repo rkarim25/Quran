@@ -86,19 +86,5 @@ In this, there is the necessary refutation of the Christians who claimed that it
 
 Whoever turns back after this, they will be the rebellious.
 
-## AI Tafsir
-
-**Essence**
-After Allah bound every Prophet by covenant to believe in and aid the final Messenger, whoever then turns away has stepped outside the bounds of obedience — they are the truly rebellious.
-
-**What it teaches**
-The ayah is built as a verdict. The opening *fa-* ("then") ties it back to the ratified pledge (*mithāq*) of the previous ayah: it is *after that* solemn ratification that turning away is judged. *Tawallā* — to turn the back — is not mere doubt but active withdrawal from a bond already given. The reply *humu l-fāsiqūn* uses the emphatic pronoun *humu*: THEY, and they precisely, are the *fāsiqūn*. *Fisq* here carries its root sense of breaking out of a shell — breaking free of a covenant one personally sealed before Allah — not a minor lapse but repudiation of a sworn allegiance.
-
-**The scholars**
-Ibn Kathir explains the covenant of the prior ayah: Allah took a pledge from every Prophet from Adam to 'Isa that, having been given the Book and Hikmah, if a confirming Messenger came they would believe in and support him — for receiving knowledge and prophethood must never make one refrain from following the Prophet who comes after. He reports 'Ali bin Abi Talib and 'Abdullah bin 'Abbas: "Allah never sent a Prophet but after taking his pledge that if Muhammad ﷺ were sent in his lifetime, he would believe in and support him," each Prophet binding his nation likewise. Tawus, Al-Hasan Al-Basri and Qatadah read the pledge as the Prophets believing in one another; Ibn Kathir reconciles the two as one covenant seen from two angles, the second not contradicting the first. On "isri," Ibn 'Abbas, Mujahid, Ar-Rabi', Qatadah and As-Suddi held it means "My covenant," while Ibn Ishaq glossed it as the responsibility of the ratified pledge given to Allah. Ibn Kathir concludes that Muhammad ﷺ is the Final Prophet and greatest Imam, deserving obedience over all — which is why he led the Prophets in prayer on the night of Isra' at Bayt Al-Maqdis and alone carries the praised station (Al-Maqam Al-Mahmud) of intercession. Maarif ul Quran draws from the covenant the 'ismah of the Prophets — the Allah-given protection that guards them, above all, from shirk and revolt against Allah: one whom Allah, who knows perfectly, entrusts with the message could never deviate into associating partners or rebellion, for that would imply Divine knowledge is defective — we seek refuge with Allah. Maarif (citing Tafsir 'Usmani) adds that the ayah refutes the Christian claim that the Masih (alayhi as-salam) invited people to a son-of-Allah belief, corrects Muslims who asked whether they might prostrate to the Prophet ﷺ rather than greet him with salam, and admonishes the People of the Book who raised their rabbis and monks to a station belonging to Allah alone.
-
-**Reflection**
-The pledge in this ayah was specific: to recognize and stand with the final Messenger when he came. So the measure of not "turning away" is not vague piety but active allegiance to Muhammad ﷺ — believing what he brought and aiding his way — while reserving worship for Allah alone. Examine where your own life withdraws from that allegiance, and return.
 ## Personal Reflections
-
 

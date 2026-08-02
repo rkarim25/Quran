@@ -104,13 +104,5 @@ Imam Malik (رح) has taken: صَابرین (as-sabirun) in this verse to mean p
 
 And those who shun the worship of false gods, turning to Allah alone, will have good news. So give good news to My servants—
 
-## AI Tafsir
-
-**Context:** (Those who avoid At-Taghut by not worshipping them) was revealed concerning Zayd bin 'Amr bin Nufayl and Abu Dharr and Salman Al-Farisi, may Allah be pleased with them.
-
-**What this ayah teaches:** Those who avoid At-Taghut by not worshipping them and turn to Allah, for them are glad tidings; so announce the good news to My servants (17)Those who listen to the Word and follow the best thereof, those are (the ones) whom Allah has guided and those are men of understanding .
-
-**Classical tafsir:** Ibn Kathir notes: So much so that people who had lived their life of the mortal world in perfect peace and comfort would wish, 'alas!
 ## Personal Reflections
-
 

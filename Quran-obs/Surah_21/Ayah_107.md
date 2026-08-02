@@ -118,13 +118,5 @@ It, therefore, follows that performing jihad against the unbelievers in order to
 
 We sent you only as mercy to all that exists — every realm of creation.
 
-## AI Tafsir
-
-**Context:** (And indeed We have written in Az-Zabur after Adh-Dhikr). He said: 'Az-Zabur means the Tawrah, the Injil and the Qur'an.'" Mujahid said, "Az-Zabur means the Book." Ibn 'Abbas, Ash-Sha'bi, Al-Hasan, Qatadah and others sai…
-
-**What this ayah teaches:** When this essence departs from this world and no one is left to worship Allah, everything in it will perish.
-
-**Classical tafsir:** Ibn Kathir notes: When it is understood that the invocation and worship of Allah Ta` ala is the essence of all living things, then the reason for describing the Holy Prophet ﷺ as mercy to the Worlds becomes obvious because it is his teachings and the purity of his personal life alone which keep al…
 ## Personal Reflections
-
 

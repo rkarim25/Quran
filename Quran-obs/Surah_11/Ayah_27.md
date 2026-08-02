@@ -215,13 +215,5 @@ Returning to the ignorant thought expressed by the objectors, we see that it has
 
 The rejecting the truth chiefs of his people said, “We see you only as a human being like ourselves, and we see that no one follows you except the lowliest among us, who do so hastily without thinking. We do not see anything that makes all of you any better than us. In fact, we think you are liars.”
 
-## AI Tafsir
-
-**What this ayah teaches:** No one continues doubtfully pondering the truth (after it is made clear) except one who is ignorant and excessively critical.
-
-**Classical tafsir:** Ibn Kathir notes: For verily, the truth is not to be rejected because of the lowly status of those who follow it.
-
-**From the Sunnah:** Suppose we were to believe, then we understand that we too will be taken as Muslims, like them and equal to them and, in rows of prayers as well as in other meetings, we will have to sit with them as equals.
 ## Personal Reflections
-
 

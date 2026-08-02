@@ -87,11 +87,5 @@ In verse 77, it was said: فَاصْبِرْ‌ إِنَّ وَعْدَ اللّ
 
 You find in them other benefits too. By means of them you may reach destinations you desire, carried upon them and upon ships.
 
-## AI Tafsir
-
-**What this ayah teaches:** Allah, it is He Who has made cattle for you, that you may ride on some of them, and of some you eat (79)And you have (many other) benefits from them, and that you may reach by their means a desire that is in your breasts, and on them and on ships you are carried (80)And He shows you His Ayat.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, it was to comfort him that he was asked to be somewhat patient about it.
 ## Personal Reflections
-
 

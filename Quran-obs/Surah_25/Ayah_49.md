@@ -114,11 +114,5 @@ Allah sends the winds as heralds of glad tidings, i.e., they bring the clouds be
 
 giving life to a lifeless land, and providing water for countless animals and humans of Our Own creation.
 
-## AI Tafsir
-
-**What this ayah teaches:** And it is He Who sends the winds as heralds of glad tidings, going before His mercy; and We send down pure water from the sky (48)That We may give life thereby to a dead land, and We give to drink thereof many of the cattle and men that We have created (49)And indeed We have distributed it among them in order that they may remember the grace of Allah, but most men refuse (out of) gratitude .
-
-**Classical tafsir:** Ibn Kathir notes: The point worth consideration here is why the word 'many' is used which indicates that some human beings do not benefit from it.
 ## Personal Reflections
-
 

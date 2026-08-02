@@ -100,11 +100,5 @@ In the last verse (27), good news of future victories has been given. Gone is th
 
 They had already pledged to Allah earlier never to turn their backs in retreat. And a pledge to Allah must be answered for.
 
-## AI Tafsir
-
-**What this ayah teaches:** Then Allah reminds them of the promise they had made to Him before this fear struck them, that they would not turn their backs or flee from the battlefield. And any act or omission on his part that is proved to have been done as a preferable conduct (istihbab) and not as an obligatory one, should be followed by us too as a commendable (mustahab) conduct and not as a necessary obligation This, in o…
-
-**Classical tafsir:** Ibn Kathir notes: And any act or omission on his part that is proved to have been done as a preferable conduct (istihbab) and not as an obligatory one, should be followed by us too as a commendable (mustahab) conduct and not as a necessary obligation This, in other words, means that its contravent…
 ## Personal Reflections
-
 

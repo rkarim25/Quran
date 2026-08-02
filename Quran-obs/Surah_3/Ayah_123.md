@@ -160,22 +160,5 @@ The verse ends with the statement: فَاتَّقُوا اللَّـهَ لَع�
 
 Indeed, Allah made you victorious at Badr when you were outnumbered. So live with taqwa toward Allah, perhaps you will be grateful.
 
-## AI Tafsir
-
-**Essence**
-Allah reminds the believers that He gave them victory at Badr while they were few and weak, so that they would guard against Him in gratitude and never imagine that triumph comes from numbers rather than from Him.
-
-**What it teaches**
-"Nasarakum" — Allah made you victorious — at Badr came "wa-antum adhillatun," while you were weak, few in number and short of materials. The ayah then commands "fa-ittaqullah," have taqwa, the mindful obedience that guards the soul, "la'allakum tashkurun," so that you may be grateful. Taqwa is made here the fruit and proof of gratitude for a victory that was purely Allah's gift.
-
-**The scholars**
-Ibn Kathir reads 3:123 as the closing verse of the Uhud passage (3:121-122): Allah revives the believers' resolve by recalling Badr, fought on a Friday, the seventeenth of Ramadan in the second year of Hijrah. He calls it "Yawm al-Furqan," the Day of Clarification, by which Allah gave dominance to Islam and disgraced shirk. The Muslims were only three hundred and thirteen men, with two horses and seventy camels, most on foot and under-supplied, while the enemy numbered nine hundred to a thousand, well-armed and mounted — "yet Allah gave victory to His Messenger ﷺ." Ibn Kathir draws the lesson plainly: "victory is only from Allah, not because of a large army and adequate supplies," contrasting it with Hunayn (9:25), where the believers were pleased with their numbers and it availed them nothing. He locates Badr "between Makkah and Al-Madinah," named after the well dug there, and explains "fa-ittaqullah" as "fulfill the obligations of His obedience." Maarif ul Quran adds that Badr, about eighty miles south-west of Madinah and prized for its water, hosted "the first armed encounter between believers and disbelievers," a battle that "charted a revolutionary course in the history of the world" — hence Yawm al-Furqan. On the closing words it notes that taqwa and sabr are throughout the Qur'an a shield against the hypocrites and enemies; here taqwa alone is named because "Taqwa is such a comprehensive human attribute that Sabr too gets to be included therein."
-
-**From the Sunnah**
-Jabir bin 'Abdullah said the verse about two parties (Bani Harithah and Bani Salamah) being about to lose heart was revealed concerning them, and he would not wish it un-revealed because Allah declared in it that He was their Wali, their Supporter and Protector — a reassurance immediately preceding the reminder of Badr. (Al-Bukhari; also recorded by Muslim)
-
-**Reflection**
-When help arrives, trace it back to Allah and let your thanks take the shape of taqwa — obedience that guards the heart against pride in your own strength.
 ## Personal Reflections
-
 

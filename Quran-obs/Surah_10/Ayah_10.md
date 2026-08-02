@@ -163,11 +163,5 @@ Pure is your Lord, Lord of all might, above from what they ascribe to Him. And s
 
 There their call will be: Glory be to You, O Allah! Their greeting will be: Peace! And their closing words will be: All praise belongs to Allah—Rabb of all that exists.
 
-## AI Tafsir
-
-**What this ayah teaches:** Though, the salam greeting is actually a du'a (prayer) in the mortal world but, once in Jannah where one would have everything one needs or wishes to have, therefore, this word will not retain its sense of prayer there, instead, will become a complement of glad tidings.
-
-**Classical tafsir:** Ibn Kathir notes: The Ayah also indicates that Allah is the Praised One in this world and in the Hereafter and in all situations.
 ## Personal Reflections
-
 

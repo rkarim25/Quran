@@ -148,15 +148,5 @@ The word: اُمَّہ (ummah) has a few other meanings, but the well-known sens
 
 Indeed, Abraham was a model of excellence: devoted to Allah, perfectly upright—not a polytheist—
 
-## AI Tafsir
-
-**Context:** (Then, We have sent the revelation to you: "Follow the religion of Ibrahim (he was a) Hanif...) meaning, 'because of his perfection, greatness, and the soundness of his Tawhid and his way, We revealed to you, O Seal of t…
-
-**What this ayah teaches:** Verily, Ibrahim was (himself) an Ummah, obedient to Allah, a Hanif (monotheist), and he was not one of the idolators (120)(He was) thankful for His favors. Some commentators have taken exactly this meaning of the word at this place.
-
-**Classical tafsir:** Ibn Kathir notes: Some commentators have taken exactly this meaning of the word at this place.
-
-**From the Sunnah:** Of course, the Jews, the Christians and the Muslims revere him.
 ## Personal Reflections
-
 

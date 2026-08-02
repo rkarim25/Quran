@@ -140,13 +140,5 @@ Surah Al-Mu'minun began with the verse قَدْ أَفْلَحَ الْمُؤْ�
 
 This is a surah We revealed and made obligatory, with clear rulings within it, so you may live with taqwa.
 
-## AI Tafsir
-
-**Context:** Imam Malik recorded that 'Umar, may Allah be pleased with him, stood up and praised and glorified Allah, then he said; "O people! Allah sent Muhammad ﷺ with the truth, and revealed to him the Book.
-
-**What this ayah teaches:** A Surah which We have sent down and which We have enjoined (Faradnaha), and in it We have revealed manifest Ayat, that you may remember.)(2. The Messenger of Allah ﷺ carried out the punishment of stoning and after him we did so, but I am afraid that as time goes by, some will say that they did not find the Ayah of stoning in the Book of Allah, and they will go astray because they abandoned one of…
-
-**Classical tafsir:** Ibn Kathir notes: This indicates that if the person who is guilty of illegal sex is a virgin and unmarried, he should be banished in addition to being given one hundred stripes.
 ## Personal Reflections
-
 

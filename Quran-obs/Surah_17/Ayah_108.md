@@ -151,15 +151,5 @@ Since this explanation of the verse stands proved on the authority of Sahih Hadi
 
 and say, ‘Glory be to our Rabb! Surely the promise of our Rabb has been fulfilled.’
 
-## AI Tafsir
-
-**Context:** ("Believe in it (the Qur'an) or do not believe (in it).) meaning, it is all the same whether you believe in it or not, for it is true in and of itself.
-
-**What this ayah teaches:** Truly, the promise of our Lord must be fulfilled. Therefore, a number of commentators have taken the word 'ayat' to mean miracles - and the number nine does not make it necessary that they will not be more than nine - but, at this place, the figure 'nine' has been mentioned on the basis of some particular importance it has.
-
-**Classical tafsir:** Ibn Kathir notes: And a Sahih Hadith tells us that the word 'ayat' used here means divine injunctions.
-
-**From the Sunnah:** This Hadith has been reported in Abu Dawud, an-Nasa'i, Tirmidhi and Ibn Majah on the authority of Sayyidna Safwan ibn al-` Aththal. (Jami' at-Tirmidhi, Sunan Abi Dawud)
 ## Personal Reflections
-
 

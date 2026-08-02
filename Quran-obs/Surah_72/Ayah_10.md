@@ -110,13 +110,5 @@ So, they looked and saw that the stars still remained, and thus, they kept their
 
 We no longer know whether harm is intended for those on earth, or whether their Rabb intends good for them.
 
-## AI Tafsir
-
-**What this ayah teaches:** Therefore, they expressed their reservations about this to the effect that they had no idea as to whether it was a bad end that was intended for the inhabitants of the earth or whether Allah intended them to be rightly guided.
-
-**Classical tafsir:** Ibn Kathir notes: As-Suddi said, "The sky was never guarded except if there was a Prophet in the earth or the religion of Allah was victorious and dominant in the earth." So the devils before the time of Muhammad ﷺ had taken sitting stations for themselves in the heaven of this world and they would listen to the matt…
-
-**From the Sunnah:** Then they found the Messenger of Allah ﷺ reciting (the Qur'an) while leading his Companions in prayer.
 ## Personal Reflections
-
 

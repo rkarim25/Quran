@@ -201,19 +201,5 @@ Verse 130 speaks of the superiority of the religion of Sayyidna Ibrahim (علی�
 
 Who would turn away from Abraham's way except one who fools himself? We chose him in this world, and in the Akhirah he is among the righteous.
 
-## AI Tafsir
-
-**Essence**
-To turn away from the pure monotheism of Ibrahim is sheer folly and a wound one inflicts on one's own soul.
-
-**What it teaches**
-"And who turns away from the millah of Ibrahim except him who fools himself (safiha nafsahu)?" To abandon the path Allah chose for Ibrahim is to wrong oneself. For Allah honored him in both worlds: chosen (istafaynahu) in this life, and among the salihun, the righteous, in the Hereafter.
-
-**The scholars**
-Ibn Kathir explains that Ibrahim singled out Allah alone in worship with sincerity, never committing shirk for an instant, and disowned every false deity, defying his whole people. So whoever deviates defies the one chosen from his youth to be a true Imam, until Allah took him as His Khalil (intimate friend). Ibn Kathir then presses the verse's own challenge: is there anything more insane than forsaking this path, anything more unjust? for "joining others in worship with Allah is a great zulm" (31:13). He notes Abu Al-'Aliyah and Qatadah held the ayah was revealed about the Jews, who invented a practice not from Allah, defying Ibrahim's way. Maarif ul Quran adds its distinctive point: this is the religion of Nature (fitrah), which none can deny while his nature remains intact, recalling how Ibrahim accepted the fire rather than abandon worship of the One, and Allah turned it cool for him.
-
-**Reflection**
-Your own nature was made for the One. Guard that undivided tawhid as Ibrahim did, ready to lose everything sooner than divide it.
 ## Personal Reflections
-
 

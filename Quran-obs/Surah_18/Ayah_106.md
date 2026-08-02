@@ -122,13 +122,5 @@ Sayyidna Abu Said al-Khudri says: ' (on the day of Qiyamah) deeds as big as the 
 
 That is their reward: Hell, for their rejection of the truth and mockery of My signs and messengers.
 
-## AI Tafsir
-
-**Context:** Are they the Haruriyyah?' He said, 'No, they are the Jews and Christians. As for the Jews, they disbelieved in Muhammad ﷺ, and as for the Christians, they disbelieved in Paradise and said that there is no food or drink t…
-
-**What this ayah teaches:** As for the Jews, they disbelieved in Muhammad ﷺ, and as for the Christians, they disbelieved in Paradise and said that there is no food or drink there, and the Haruriyyah are those who break Allah's covenant after ratifying it.' Sa'd used to call them Al-Fasiqin (the corrupt).
-
-**Classical tafsir:** Ibn Kathir notes: 'Ali bin Abi Talib, Ad-Dahhak and others said: "They are the Haruriyyah," so this means, that according to 'Ali, may Allah be pleased with him, this Ayah includes the Haruriyyah just as it includes the Jews, the Christians and others.
 ## Personal Reflections
-
 

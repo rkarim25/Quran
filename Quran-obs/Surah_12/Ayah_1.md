@@ -100,15 +100,5 @@ After that it was said: تِلکَ آیٰتُ الکِتٰبِ المُبِین 
 
 Alif-Lam-Ra. These are the ayahs of the clear Book.
 
-## AI Tafsir
-
-**Context:** (Verily, We have sent it down as an Arabic Qur'an in order that you may understand.) The Arabic language is the most eloquent, plain, deep and expressive of the meanings that might arise in one's mind.
-
-**What this ayah teaches:** These are the verses of the Book that is clear.)(2.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, the most honorable Book, was revealed in the most honorable language, to the most honorable Prophet and Messenger ﷺ, delivered by the most honorable angel, in the most honorable land on earth, and its revelation started during the most honorable month of the year, Rama…
-
-**From the Sunnah:** a narration from Jabir bin 'Abdullah that 'Umar bin Al-Khattab came to the Prophet ﷺ with a book that he took from some of the People of the Book.
 ## Personal Reflections
-
 

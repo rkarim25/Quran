@@ -206,13 +206,5 @@ The commentator of the Qur'an, Qadi Thana'ullah of Panipat has said, ` the expre
 
 The mosques of Allah should only be maintained by those who believe in Allah and the Last Day, establish salah, pay zakat, and fear none but Allah. It is right to hope that they will be among the guided.
 
-## AI Tafsir
-
-**What this ayah teaches:** It means the building of mosques in the real sense is a serene task.
-
-**Classical tafsir:** Ibn Kathir notes: Some related issues When it is said in the present verses that Mushriks and Kafirs cannot take up the task of ` maintaining' a masjid which was something only righteous Muslims could do, it refers to the trusteeship and administrative responsibility of the masjid.
-
-**From the Sunnah:** When it is said in the present verses that Mushriks and Kafirs cannot take up the task of ` maintaining' a masjid which was something only righteous Muslims could do, it refers to the trusteeship and administrative responsibility of the masjid.
 ## Personal Reflections
-
 

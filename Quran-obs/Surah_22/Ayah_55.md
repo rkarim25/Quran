@@ -139,11 +139,5 @@ Commentary
 
 Yet those who reject the truth will persist in doubt about this revelation until the Hour takes them by surprise, or the torment of a terminating Day comes to them.
 
-## AI Tafsir
-
-**What this ayah teaches:** This verse explains that the disputes raised by the those who reject the truth in regard to Allah's message is not something new as similar doubts were raised by earlier people as well when their prophets presented to them the message of Truth, and the Shaitan cast doubts about it in the hearts of those who reject the truth.
-
-**Classical tafsir:** Ibn Kathir notes: This verse explains that the disputes raised by the those who reject the truth in regard to Allah's message is not something new as similar doubts were raised by earlier people as well when their prophets presented to them the message of Truth, and the Shaitan cast doubts about it in the heart…
 ## Personal Reflections
-
 

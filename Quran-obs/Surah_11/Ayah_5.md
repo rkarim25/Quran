@@ -121,11 +121,5 @@ The sixth verse carries a refutation of what the hypocrites and the disbelievers
 
 Indeed, they enfold what is in their hearts, trying to hide it from Him! But even when they cover themselves with their clothes, He knows what they conceal and what they reveal. Surely He knows best what is hidden in the heart.
 
-## AI Tafsir
-
-**Context:** (No doubt! They did fold up their breasts,) was revealed.'" In another wording of this narration, Ibn 'Abbas said, "There were people who used to be shy to remove their clothes while answering the call of nature in an op…
-
-**What this ayah teaches:** Surely, even when they cover themselves with their garments, He knows what they conceal and what they reveal. Their hearts blaze with malice and enmity but they maintain a cool front, find all sorts of covers to hide their true identity and intention and surmise that no one would find out who they were really and what they were doing actually.
 ## Personal Reflections
-
 

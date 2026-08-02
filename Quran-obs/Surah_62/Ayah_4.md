@@ -176,15 +176,5 @@ Sayyidna Abu Hurairah رضی اللہ تعالیٰ عنہ narrates, as recorded 
 
 This is the favour of Allah. He grants it to whomever He wills. Allah is the Lord of infinite bounty.
 
-## AI Tafsir
-
-**Context:** (And others among them who have not yet joined them. And He is the Almighty, the All-Wise.) Imam Abu 'Abdullah Al-Bukhari, may Allah have mercy upon him, recorded that Abu Hurayrah said, "We were sitting with the Prophet…
-
-**What this ayah teaches:** That is the grace of Allah, which He bestows on whom He wills.
-
-**Classical tafsir:** Ibn Kathir notes: Bayan-ul-Qur'an explains that 'sending among them' stands for 'sending for them' because the preposition fi in Arabic is also used in the sense of 'for'.
-
-**From the Sunnah:** Ibn 'Abbas and Abu Hurayrah narrated that Allah's Messenger ﷺ used to recite Surat Al-Jumu'ah and Surat Al-Munafiqin during the Friday Prayer. (Sahih Muslim) So Allah's Messenger ﷺ placed his hand on Salman, saying,
 ## Personal Reflections
-
 

@@ -217,11 +217,5 @@ It is prudent not to refer one's wife by her name in general gatherings, rather 
 
 Remember when Moses said to his family, “I have spotted a fire. I will either bring you some directions from there, or a burning torch so you may warm yourselves.”
 
-## AI Tafsir
-
-**What this ayah teaches:** One, to find out the way which he had forgotten, and second, to warm up with the fire, because it was a cold night.
-
-**Classical tafsir:** Ibn Kathir notes: Then He commanded him to throw down the stick that was in his hand, so that He might show him clear proof that He is the One Who is able to do all things, whatever He wills.
 ## Personal Reflections
-
 

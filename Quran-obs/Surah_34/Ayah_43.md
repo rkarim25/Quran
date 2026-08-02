@@ -228,11 +228,5 @@ Once the Arabs tapered down their use of camels for riding and transport purpose
 
 When Our clear ayahs are recited to them, they say, "This is only a man trying to stop you from what your forefathers worshipped." They also say, "This Quran is nothing but a fabricated lie." And when the truth comes to them, they call it pure magic.
 
-## AI Tafsir
-
-**Context:** (And We had not given them Scriptures that they could study, nor sent to them before you any warner) meaning, Allah did not reveal any Book to the Arabs before the Qur'an, and He did not send any Prophet to them before M…
-
-**What this ayah teaches:** They used to wish for that and say, 'if only a warner comes to us or a Book is revealed to us, we would be more guided than others,' but when Allah blessed them with that, they disbelieved him and stubbornly rejected him.
 ## Personal Reflections
-
 

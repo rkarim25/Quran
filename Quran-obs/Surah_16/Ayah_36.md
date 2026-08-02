@@ -229,13 +229,5 @@ From verse 36 in the present Surah: وَلَقَدْ بَعَثْنَا فِي �
 
 We surely sent a messenger to every community, saying, “Worship Allah and shun false gods.” But some of them were guided by Allah, while others were destined to stray. So travel throughout the land and see the fate of the deniers!
 
-## AI Tafsir
-
-**Context:** (And We did not send any Messenger before you (O Muhammad) but We revealed to him (saying): None has the right to be worshipped but I (Allah), so worship Me (alone and none else).")(21:25)
-
-**What this ayah teaches:** And those who worshipped others with Allah said: "If Allah had so willed, neither we nor our fathers would have worshipped any but Him nor would we have forbidden anything without (a command from) Him." Those before them did the same. To every nation - that is, to every generation, to every community of people - He sent a Messenger.
-
-**Classical tafsir:** Ibn Kathir notes: Those deserving the Word (wrath) of your Lord will not believe, even if every sign should come to them - until they see the painful torment)(10:96-97).
 ## Personal Reflections
-
 

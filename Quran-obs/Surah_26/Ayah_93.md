@@ -128,13 +128,5 @@ In accordance with the commonly adopted explanation of the verse it has now beco
 
 besides Allah? Can they help you or even help themselves?”
 
-## AI Tafsir
-
-**What this ayah teaches:** Probably the reason is that it is the male children from whom an effective help is expected in adverse situations.
-
-**Classical tafsir:** Ibn Kathir notes: It may also be noted that "sound heart" literally means a healthy heart.
-
-**From the Sunnah:** In accordance with the commonly adopted explanation of the verse it has now become clear that the wealth of a person could be of help to him on the Dooms Day, provided he is a Muslim. (Sahih Muslim)
 ## Personal Reflections
-
 

@@ -144,13 +144,5 @@ This is the end of the Tafsir of Surat Ar-Rahman, all praise is due to Allah and
 
 Both Gardens are of deep, lush green—shade and abundance beyond anything this dunya offers.
 
-## AI Tafsir
-
-**What this ayah teaches:** The word is derived from idhimam signifying, for a meadow or garden, to become of dark green hue inclining to black by reason of abundance of moisture or irrigation.
-
-**Classical tafsir:** Ibn Kathir notes: The word is derived from idhimam signifying, for a meadow or garden, to become of dark green hue inclining to black by reason of abundance of moisture or irrigation.
-
-**From the Sunnah:** that this tent is thirty miles wide (Sahih Muslim)
 ## Personal Reflections
-
 

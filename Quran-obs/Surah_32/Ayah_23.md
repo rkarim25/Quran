@@ -129,11 +129,5 @@ And Hasan al-Basri (رح) explains it by saying: The way Sayyidna Musa (علیہ
 
 We gave the Scripture to Moses — let there be no doubt, O Prophet, that you too receive revelation — and made it a guide for the Children of Israel.
 
-## AI Tafsir
-
-**What this ayah teaches:** And We made it a guide to the Children of Israel (23)And We made from among them, leaders, giving guidance under Our command, when they were patient and used to believe with certainty in Our Ayat (24)Verily, your Lord will judge between them on the Day of Resurrection, concerning that wherein they used to differ .
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, he should not grieve over the pains inflicted by those who reject the truth.
 ## Personal Reflections
-
 

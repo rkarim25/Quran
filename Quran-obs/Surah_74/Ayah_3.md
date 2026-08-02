@@ -160,13 +160,5 @@ Injunction [ 2]
 
 Magnify your Rabb alone.
 
-## AI Tafsir
-
-**What this ayah teaches:** And your Lord is the Most Generous.
-
-**Classical tafsir:** Ibn Kathir notes: There is no indication in the Qur'an that this injunction specifically refers to uttering Allahu Akbar to commence the prayers.
-
-**From the Sunnah:** It has been confirmed in the Sahih Al-Bukhari and Sahih Muslim on the authority of Abu Salamah that Jabir bin 'Abdullah informed him that he heard the Messenger of Allah ﷺ speaking about the time period (of the pause in) revelation. (Sahih al-Bukhari, Sahih Muslim) from Abu Salamah bin 'Abdur-Rahman that Jabir bin 'Abdullah informed him that he heard the Messenger of Allah ﷺ saying, (Musnad Ahmad)
 ## Personal Reflections
-
 

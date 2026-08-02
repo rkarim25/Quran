@@ -143,11 +143,5 @@ Allah Ta’ ala has mentioned a benefit of the night in this verse, that it prov
 
 Ask them, O Prophet, “Imagine if Allah were to make the night perpetual for you until the Day of Judgment, which god other than Allah could bring you sunlight? Will you not then listen?”
 
-## AI Tafsir
-
-**What this ayah teaches:** Then do you not listen?" Say, "Tell me, if Allah makes the day continuing upon you forever upto the Day of Judgment, which Allah, other than Allah, would bring to you night in which you may have comfort. He explains that if He made the night continuous, lasting until the Day of Resurrection, that would be harmful for them and would cause boredom and stress.
-
-**Classical tafsir:** Ibn Kathir notes: He explains that if He made the night continuous, lasting until the Day of Resurrection, that would be harmful for them and would cause boredom and stress.
 ## Personal Reflections
-
 

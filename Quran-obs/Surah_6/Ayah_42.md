@@ -159,11 +159,5 @@ At the end of verse 42 itself, this element of wisdom finds expression through t
 
 Indeed, We have sent messengers before you to other people who We put through suffering and adversity, so perhaps they would be humbled.
 
-## AI Tafsir
-
-**What this ayah teaches:** To Him alone you call, and, if He willed, He would remove that (distress) for which you call upon Him, and you forget at that time whatever partners you joined with Him (in worship)(41)Verily, We sent (Messengers) to many nations before you.
-
-**Classical tafsir:** Ibn Kathir notes: And We seized them with extreme poverty and loss of health so that they might believe with humility (42)When Our torment reached them, why then did they not believe with humility?
 ## Personal Reflections
-
 

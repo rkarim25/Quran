@@ -141,15 +141,5 @@ It is confirmed in the Sahih on the authority of Ibn 'Abbas, who said that the M
 
 Exalted is Allah, the True King! Do not rush to recite a revelation of the Quran O Prophet before it is properly conveyed to you, and pray, “My Rabb! Increase me in knowledge.”
 
-## AI Tafsir
-
-**Context:** وَلَا تَعْجَلْ بِالْقُرْ‌آنِ مِن قَبْلِ أَن يُقْضَىٰ إِلَيْكَ وَحْيُهُ (And do not hasten with (reciting) the Qur'an before its revelation is concluded - 20: 114.) It has been stated in Sahih Hadith on the authority of S…
-
-**What this ayah teaches:** Likewise, His threat is true, His Messengers are true, the Paradise is true, the Hellfire is true and everything from Him is true.
-
-**Classical tafsir:** Ibn Kathir notes: The Qur'an was revealed so that the People would have Taqwa and reflect After Allah, the Exalted, mentions that on the Day of Judgement both the good and the evil will be recompensed and there is no avoiding it, He then explains that the Qur'an was revealed as a bringer of glad t…
-
-**From the Sunnah:** the Messenger of Allah ﷺ used to go through great pains to retain the revelation.
 ## Personal Reflections
-
 

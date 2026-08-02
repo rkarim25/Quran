@@ -197,13 +197,5 @@ These women were talking among themselves. They were saying: Look, how regrettab
 
 Some women of the city gossiped, “The Chief Minister’s wife is trying to seduce her slave-boy. Love for him has plagued her heart. Indeed, we see that she is clearly mistaken.”
 
-## AI Tafsir
-
-**What this ayah teaches:** In customary usage, a boy slave when small is called a ghulam.
-
-**Classical tafsir:** Ibn Kathir notes: This indicates the best and most perfect grade in this case, for Yusuf was youthful, beautiful and full of manhood.
-
-**From the Sunnah:** An authentic Hadith stated that the Messenger of Allah passed ﷺ by Prophet Yusuf, during the Night of Isra' in the third heaven and commented, (authentic hadith)
 ## Personal Reflections
-
 

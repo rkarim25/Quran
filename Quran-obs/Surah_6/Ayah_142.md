@@ -261,15 +261,5 @@ At the end of the verse (141) it was said: وَلَا تُسْرِ‌فُوا ۚ
 
 Some cattle are fit for labour, others are too small. Eat of what Allah has provided for you and do not follow Satan’s footsteps. Certainly, he is your sworn enemy.
 
-## AI Tafsir
-
-**Context:** It was said that the extravagance prohibited here refers to excessive charity beyond normal amounts. Ibn Jurayj said, "This Ayah was revealed concerning Thabit bin Qays bin Shammas, who plucked the fruits of his date pal…
-
-**What this ayah teaches:** Certainly unusual is the phenomena when some trees were made to stand on strong trunks and taken as high as it would not be possible for human ingenuity to accomplish in.
-
-**Classical tafsir:** Ibn Kathir notes: Verily, He likes not the wasteful.) It was said that the extravagance prohibited here refers to excessive charity beyond normal amounts.
-
-**From the Sunnah:** "When planting, one gives away handfuls (of seed grains) and on harvest, he gives away handfuls and allows them to pick whatever is left on the ground of the harvest." Ath-Thawri said that Hammad narrated that Ibrahim An-Nakha'i said, "One gives away some of t… In…
 ## Personal Reflections
-
 

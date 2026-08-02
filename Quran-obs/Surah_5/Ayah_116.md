@@ -293,11 +293,5 @@ Important Notes
 
 And Allah will say, “O Jesus, son of Mary! Did you ever ask the people to worship you and your mother as gods besides Allah?” He will answer, “Glory be to You! How could I ever say what I had no right to say? If I had said such a thing, you would have certainly known it. You know what is within me, but I do not know what is within You. Indeed, You are the Knower of all unseen.
 
-## AI Tafsir
-
-**What this ayah teaches:** Did you say unto men: 'Worship me and my mother as two gods besides Allah?'" He will say: "Glory be to You!
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

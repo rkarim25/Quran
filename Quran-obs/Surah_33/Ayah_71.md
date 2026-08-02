@@ -102,11 +102,5 @@ Shah ` Abdul-Qadir of Delhi (رح) has translated this verse in a way that leads
 
 He will bless your deeds for you, and forgive your sins. And whoever obeys Allah and His Messenger, has truly achieved a great triumph.
 
-## AI Tafsir
-
-**What this ayah teaches:** And whosoever obeys Allah and His Messenger, he has indeed achieved a great victory . Have Taqwa of Allah and speak (always) the truth (70)He will direct you to do righteous good deeds and will forgive you your sins.
-
-**Classical tafsir:** Ibn Kathir notes: At another place the command of taqwa is followed by the direction of pondering on what one has sent ahead for the Hereafter, because it leads one to observe Taqwa (59.18).
 ## Personal Reflections
-
 

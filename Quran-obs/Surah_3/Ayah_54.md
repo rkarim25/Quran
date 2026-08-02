@@ -101,17 +101,5 @@ The verse means that the Jews started making a series of conspiracies and secret
 
 And those who reject the truth made a plan, but Allah also planned—and Allah is the best of planners.
 
-## AI Tafsir
-
-**Essence** The disbelievers wove a secret plot to destroy 'Isa, but Allah's countering plan overrode theirs completely — for Allah is the best of all who plan.
-
-**What it teaches** When 'Isa (peace be upon him) sensed the people's stubborn disbelief, he called, "Who will be my helpers in Allah's cause?" and the Hawariyyun, his disciples, answered with faith. His enemies then schemed (makaru) to seize and crucify him, but Allah schemed too (makara). The key term makr means a subtle, hidden move: blameworthy when aimed at evil, but here describing Allah's flawless, righteous countering of injustice, which is why He is named Khayr al-Makirin, the Best of planners.
-
-**The scholars** Ibn Kathir relates that the Children of Israel conspired to defame and crucify 'Isa, complaining to a disbelieving king with lies — that he misguided people, sowed division, and even slandering his birth — so the furious king sent men to capture and crucify him. But when they came to his house, Allah raised 'Isa to heaven and cast his likeness upon a man who was inside; entering while it was still dark, they seized and crucified that man, thinking they had triumphed. So, in Ibn Kathir's words, "Allah deceived these people" — rendering makara, Allah's just counter-plot — leaving them disgraced until the Day of Resurrection. Ma'arif ul Quran frames this as the miraculous Ascension of Sayyidna 'Isa (and notes the lookalike was one of the enemies sent to arrest him), stressing that makr in Arabic is a secret plan, good or bad by its purpose, unlike the purely negative Urdu usage — so Allah is rightly called Khayr al-Makirin. Ma'arif also warns that this verse refutes sects who deny 'Isa's ascension, his life in the heavens, and his descent in later times — contrary to the belief of the entire Muslim community.
-
-**From the Sunnah** Ibn Kathir draws a parallel: just as 'Isa sought helpers, the Prophet (peace be upon him) sought refuge before the Hijrah — "Who will give me asylum so that I can convey the Speech of my Lord, for the Quraysh have prevented me" — until the Ansar took him in and protected him. (Tafsir Ibn Kathir) Noting that Hawari in Arabic means "support," Ibn Kathir cites that when the Prophet (peace be upon him) called for fighters at the battle of Al-Ahzab, Az-Zubayr came forward, and the Prophet (peace be upon him) said every prophet has a devoted champion (hawari), naming Az-Zubayr as his own. (The Two Sahihs)
-
-**Reflection** Allah's plan unfolds unseen: what looked to the plotters like victory at the cross was their own disgrace, while 'Isa was already raised in safety. The believer therefore answers Allah's call like the Hawariyyun and rests in the certainty that no scheme can outrun His.
 ## Personal Reflections
-
 

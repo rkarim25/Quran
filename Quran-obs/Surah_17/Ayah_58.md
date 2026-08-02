@@ -119,11 +119,5 @@ About the sentence which follows immediately after: يَرْ‌جُونَ رَ�
 
 There is not a wicked society that We will not destroy or punish with a severe torment before the Day of Judgment. That is written in the Record.
 
-## AI Tafsir
-
-**What this ayah teaches:** And there is not a town (population) but We shall destroy it before the Day of Resurrection, or punish it with a severe torment.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

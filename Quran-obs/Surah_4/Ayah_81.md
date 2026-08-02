@@ -181,13 +181,5 @@ From here we know that one who leads people has to go through all sorts of hards
 
 And they say, “We obey,” but when they leave you, a group of them would spend the night contradicting what they said. Allah records all their schemes. So turn away from them, and put your trust in Allah. And Allah is sufficient as a Trustee of Affairs.
 
-## AI Tafsir
-
-**What this ayah teaches:** Thereupon, Allah Almighty instructed him to ignore them and continue with his mission placing his trust in Allah because Allah is all-sufficient for him.
-
-**Classical tafsir:** Ibn Kathir notes: As for the one who turns away from you, he will gain failure and loss and you will not carry a burden because of what he does.
-
-**From the Sunnah:** Here, the Prophet ﷺ was comforted in case the those who reject the truth rejected his message.
 ## Personal Reflections
-
 

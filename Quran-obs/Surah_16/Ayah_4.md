@@ -79,11 +79,5 @@ The verses affirm the Oneness of Allah through the great signs of the creation o
 
 He created humans from a sperm-drop, then—behold!—they openly challenge Him.
 
-## AI Tafsir
-
-**What this ayah teaches:** High is He, Exalted above all that they associate as partners with Him (3)He has created man from a Nutfah, then behold, this same (man) becomes an open opponent .
-
-**Classical tafsir:** Ibn Kathir notes: In other words, when the elementally weak man was endowed with strength and speech, he turned into a critic of the Creator Himself disputing His Being and Attributes publicly.
 ## Personal Reflections
-
 

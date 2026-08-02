@@ -93,11 +93,5 @@ Which carries the same meaning, "Verily, these are two [Hadhayn] magicians." Thi
 
 So the magicians disputed the matter among themselves, conversing privately.
 
-## AI Tafsir
-
-**What this ayah teaches:** Invent not a lie against Allah...") This means, "Do not make an illusion before the people of something that is not real, making it appear as if it were a creature, when it is not really a creature. And surely, he who invents a lie (against Allah) will fail miserably.") (62 Then they debated one with another what they must do, and they kept their talk secret (61)They said: "Verily, these are two m…
-
-**Classical tafsir:** Ibn Kathir notes: Invent not a lie against Allah...") This means, "Do not make an illusion before the people of something that is not real, making it appear as if it were a creature, when it is not really a creature.
 ## Personal Reflections
-
 

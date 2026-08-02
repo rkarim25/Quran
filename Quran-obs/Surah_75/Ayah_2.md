@@ -206,11 +206,5 @@ The first stage is developed into the second stage when the traveler perform rig
 
 and I swear by the self-reproaching nafs—the inner self that accuses itself when it falls short.
 
-## AI Tafsir
-
-**What this ayah teaches:** This Self is conscious of its own imperfections.
-
-**Classical tafsir:** Ibn Kathir notes: I swear by An-Nafs Al-Lawwamah.) Qatadah said, "This means, I swear by both of these things." This has also been reported from Ibn 'Abbas and Sa'id bin Jubayr. This means Our power is suitable to gather (and recreate) them, and if We wished We could surely resurrect him with more than what he originally had.
 ## Personal Reflections
-
 

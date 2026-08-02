@@ -154,17 +154,5 @@ which makes it plain that it is their arrogance and their evil deeds themselves 
 
 Allah has sealed their hearts and their hearing, and a veil covers their sight. A tremendous punishment awaits them.
 
-## AI Tafsir
-
-**Essence** The seal and the veil are Allah's just recompense for a disbelief the deniers chose and entrenched.
-
-**What it teaches** Khatama: the seal shuts heart and hearing; a ghishawah (veil) covers the eyes. Maarif ul Quran: their arrogant deeds formed the rust (ran) that Allah, Creator of all actions, made the seal — they authored their own ruin.
-
-**The scholars** Mujahid: sin submerges the heart — stain, then stamp, then the lock, worst of all. Al-Qurtubi: the Ummah agreed the sealing is Allah's punishment for disbelief.
-
-**From the Sunnah** When the believer commits a sin, a black dot is engraved on his heart; repentance polishes it, more sins spread until they cover it — the Ran of 83:14 (At-Tirmidhi, An-Nasa'i, Ibn Majah — Hasan Sahih). Trials leave hearts white like barren rock, unharmed by fitnah, or black like an overturned cup, knowing no good (the Sahih, from Hudhayfah).
-
-**Reflection** Repent at the first dark dot — by Allah's leave, a heart kept polished by turning back to Him is safeguarded from hardening.
 ## Personal Reflections
-
 

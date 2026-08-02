@@ -96,13 +96,5 @@ Ends here
 
 These opening letters—known as the muqatta'at—are among the signs whose full meaning Allah kept with Himself. They open the surah by reminding the reader that this Book is from beyond human authorship: approach it with humility, not arrogance.
 
-## AI Tafsir
-
-**What this ayah teaches:** The Lord of the heavens and the earth and all that is between them, if you (but) have a faith with certainty.)(8.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** In Musnad Al-Bazzar, it is recorded from Abu At-Tufayl 'Amir bin Wathilah from Zayd bin Harithah that the Messenger of Allah ﷺ said to Ibn Sayyad: As such, the view of those who deduce from this verse that saying "Assalamu 'alaikum" to non-Muslims is permissible does not carry much weight. (Sahih Muslim)
 ## Personal Reflections
-
 

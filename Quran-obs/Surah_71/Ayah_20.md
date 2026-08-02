@@ -148,11 +148,5 @@ Glorious is the One who made stellar formations in the sky and placed therein a 
 
 to walk along its spacious pathways.'
 
-## AI Tafsir
-
-**What this ayah teaches:** This means that He will give you more wealth, more children and gardens with various types of fruits. He made each one of them in a set manner with a distinct quality so that the night and day may be known.
-
-**Classical tafsir:** Ibn Kathir notes: This means that He will give you more wealth, more children and gardens with various types of fruits.
 ## Personal Reflections
-
 

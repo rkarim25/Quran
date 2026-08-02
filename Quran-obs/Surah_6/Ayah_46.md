@@ -192,11 +192,5 @@ In the last verse (45), it was said that, when the mass punishment of Allah Ta` 
 
 Ask, “Imagine if Allah were to take away your hearing or sight, or seal your hearts—who else other than Allah could restore it?” See how We vary the signs, yet they still turn away.
 
-## AI Tafsir
-
-**What this ayah teaches:** So whosoever believes and does righteous good deeds, upon such shall come no fear, nor shall they grieve (48)But those who reject Our Ayat, the torment will strike them for their rebelling .
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

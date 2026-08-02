@@ -156,11 +156,5 @@ The word ازواج (pairs) used in verse 53 is used here in the sense of "Kinds
 
 He is the One Who has laid out the earth for all of you, and set in it pathways for you, and sends down rain from the sky, causing various types of plants to grow,.
 
-## AI Tafsir
-
-**What this ayah teaches:** Who has made earth for you like a bed; and has opened ways for you therein, and has sent down water (rain) from the sky.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

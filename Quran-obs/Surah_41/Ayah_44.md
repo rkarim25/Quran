@@ -216,13 +216,5 @@ Taking Musa as an Example
 
 Had We revealed it as a non-Arabic Quran, they would have argued, "If only its verses were made clear in our language. What—a non-Arabic revelation for an Arab audience!" Say: "It is a guide and a healing to the believers. As for those who reject the truth, there is deafness in their ears and blindness in their hearts. It is as if they are being called from a faraway place."
 
-## AI Tafsir
-
-**Context:** (And if We had revealed it unto any of the non-Arabs, and he had recited it unto them, they would not have believed in it.)(26:198-199).
-
-**What this ayah teaches:** Not in Arabic nor an Arab?" Say: "It is for those who believe, a guide and a cure.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore ` ajamiyy is a person who is non-Arab, even though he may speak eloquently, and a'jamiyy is a person who cannot speak eloquently (Qurtubi).
 ## Personal Reflections
-
 

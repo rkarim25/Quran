@@ -172,13 +172,5 @@ The essence of the answer given by the polytheists is that they simply refused t
 
 Indeed, those before them had plotted, but Allah struck at the very foundation of their structure, so the roof collapsed on top of them, and the torment came upon them from where they did not expect.
 
-## AI Tafsir
-
-**What this ayah teaches:** This is to indicate that there is no need to are as to where the question came from. Thereupon, the Qur’ an admonished those unjust people for disinforming people about the Qur'an by telling them that it was nothing but the tales of the ancient whereby they make others too go astray like them.
-
-**Classical tafsir:** Ibn Kathir notes: In the present verses, the text describes how they, not content with their own straying, tried that others should also go astray like them.
-
-**From the Sunnah:** Still others take one question to have been asked by the polytheists while the other by Muslims.
 ## Personal Reflections
-
 

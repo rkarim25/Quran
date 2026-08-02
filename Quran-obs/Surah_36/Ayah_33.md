@@ -114,11 +114,5 @@ Most of the subjects taken up in Surah Ya Sin related to signs of Divine power a
 
 There is a sign for them in the dead earth: We give it life, producing grain from it for them to eat.
 
-## AI Tafsir
-
-**What this ayah teaches:** And a sign for them is the dead land.
-
-**Classical tafsir:** Ibn Kathir notes: We give it life, and We bring forth from it grains, so that they eat thereof (33)And We have made therein gardens of date palms and grapes, and We have caused springs of water to gush forth therein (34)So that they may eat of the fruit thereof – and their hands made it not.
 ## Personal Reflections
-
 

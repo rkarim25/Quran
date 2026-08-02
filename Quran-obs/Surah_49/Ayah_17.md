@@ -229,15 +229,5 @@ Ends here
 
 They treat their becoming Muslim as a favour to you. Say: Do not count your Islam as a favour to me. It is Allah who favoured you by guiding you to iman—if you are truthful.
 
-## AI Tafsir
-
-**Context:** According to Imam Baghawi, this verse was revealed in connection with the tribe of Banu Asad. A few members of that tribe came up to the Holy Prophet ﷺ in Madinah during a severe drought.
-
-**What this ayah teaches:** By accepting Islam, he does no show a favour to anybody; on the contrary, it is a favour of Allah that he is guided to the Truth.
-
-**Classical tafsir:** Ibn Kathir notes: "’ Iman", in the technical sense of Shari’ ah, refers to the belief by heart and thus connotes a firm and unshakable belief in the Oneness of Allah and in His ﷺ .
-
-**From the Sunnah:** There is a Difference between a Believer and a Muslim (Sahih Muslim) This is also demostrated in the Hadith of Jibril, peace be upon him, when he questioned the Prophet ﷺ about Islam, then Iman then Ihsan.
 ## Personal Reflections
-
 

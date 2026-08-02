@@ -170,11 +170,5 @@ The Story of the People of Nuh (علیہ السلام) and the Lesson Learnt fro
 
 Before them the people of Noah denied the truth. They rejected Our servant, called him mad, and he was driven back.
 
-## AI Tafsir
-
-**What this ayah teaches:** The people of Nuh denied (their Messenger) before them. But the sky's gates were opened on them that day, and therefore, the water that came down was not from clouds.
-
-**Classical tafsir:** Ibn Kathir notes: The word wazdujira literally denotes 'he was rebuked'.
 ## Personal Reflections
-
 

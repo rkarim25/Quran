@@ -260,15 +260,5 @@ Modern day materialistic disbelievers already deny the very existence of Allah T
 
 Sincere devotion is due only to Allah. As for those who take other lords besides Him, saying, "We worship them only so they may bring us closer to Allah," Allah will judge between all regarding what they differed about. Allah does not guide whoever persists in lying and rejection of the truth.
 
-## AI Tafsir
-
-**Context:** (And We did not send any Messenger before you but We revealed to him (saying): "None has the right to be worshipped but I (Allah), so worship Me.")(21:25)
-
-**What this ayah teaches:** This is a conditional sentence which does not imply that this happened or that it is permitted; indeed, it is impossible.
-
-**Classical tafsir:** Ibn Kathir notes: So, worship Allah by doing religious deeds sincerely for Him only.)(3.
-
-**From the Sunnah:** that 'A'ishah, may Allah be pleased with her, said, "The Messenger of Allah ﷺ used to fast until we would say, 'He does not want to break fast,' and he would not fast until we would say, 'He does not want to fast.' And he ﷺ used to recite Bani Isra'il [Al-Isra… (Sunan an-Nasa'i)
 ## Personal Reflections
-
 

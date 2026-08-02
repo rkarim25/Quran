@@ -168,13 +168,5 @@ Verse [ 105:4] بِحِجَارَ‌ةٍ مِّن سِجِّيلٍ (...stones of
 
 striking them with stones of baked clay—
 
-## AI Tafsir
-
-**What this ayah teaches:** And He made them like 'Asf, Ma'kul.) This is one of the favors Allah did for the Quraysh.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, Abrahah sent a messenger with gifts and precious objects to An-Najashi to appease him and flatter him, and a sack containing soil from Yemen and a piece of hair cut from his forelock.
-
-**From the Sunnah:** However, this was a means of giving a sign and preparing the way for the coming of the Messenger of Allah ﷺ. We have mentioned previously in the Tafsir of Surat Al-Fath that when the Messenger of Allah ﷺ approached the mountain pass that would lead him to the Quraysh on the Day of Al-Hudaybiyyah, his she-camel knelt down.
 ## Personal Reflections
-
 

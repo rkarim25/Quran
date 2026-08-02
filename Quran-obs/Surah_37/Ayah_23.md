@@ -96,11 +96,5 @@ After that, a command will go forth to angels: فَاهْدُوهُمْ إِلَ
 
 instead of Allah, then lead them all to the path of Hell.
 
-## AI Tafsir
-
-**What this ayah teaches:** Instead of Allah,) means, instead of Allah, i.e., their idols and false gods will be gathered together with them in the same place.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

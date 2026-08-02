@@ -116,11 +116,5 @@ This is a proof that he did not speak to his people for these three nights and t
 
 He came out to his people from the sanctuary, signalling them to glorify Allah morning and evening.
 
-## AI Tafsir
-
-**What this ayah teaches:** And remember your Lord much, and glorify (Him) in the afternoon and in the morning.)[3:41] This is a proof that he did not speak to his people for these three nights and their days as well.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

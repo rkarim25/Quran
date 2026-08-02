@@ -131,13 +131,5 @@ In the previous verse (46), there was a description of the Jewish stance against
 
 Have you not seen those who were given a portion of the Scriptures yet trade it for misguidance and wish to see you deviate from the Path?
 
-## AI Tafsir
-
-**What this ayah teaches:** This last aspect is in a way an exhortation to Muslims that they should be careful in choosing the words they use to say what they have to say, for mincing words is not their style.
-
-**Classical tafsir:** Ibn Kathir notes: They also ignored the knowledge that they inherited from previous Prophets, about the description of Muhammad ﷺ, so that they may have a small amount of the delights of this life.
-
-**From the Sunnah:** This last aspect is in a way an exhortation to Muslims that they should be careful in choosing the words they use to say what they have to say, for mincing words is not their style.
 ## Personal Reflections
-
 

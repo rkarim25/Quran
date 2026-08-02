@@ -113,13 +113,5 @@ The question is when his people have been destroyed by the punishment, what is t
 
 So he turned away from them, saying, “O my people! Surely I conveyed to you my Rabb’s message and gave you advice, but you do not like advisors.”
 
-## AI Tafsir
-
-**What this ayah teaches:** I have indeed conveyed to you the Message of my Lord, and have given you good advice, but you like not good advisers. These are the words of admonishment that Salih conveyed to his people after Allah destroyed them for defying Him, rebelling against Him, refusing to accept the truth, avoiding guidance, and preferring misguidance instead.
-
-**Classical tafsir:** Ibn Kathir notes: Allah Ta` ala spared him of the punishment at that time because of the sanctity of the Haram of Makkah.
-
-**From the Sunnah:** Similarly, it is recorded in the Two Sahihs that after the Messenger of Allah ﷺ defeated the those who reject the truth in the battle of Badr, he remained in that area for three days, and then rode his camel, which was prepared for him during the latter part of the night.
 ## Personal Reflections
-
 

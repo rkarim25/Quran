@@ -256,13 +256,5 @@ Concerning Allah's statement,
 
 when souls are paired again with their bodies,
 
-## AI Tafsir
-
-**What this ayah teaches:** And when the heaven is Kushitat;)(12.
-
-**Classical tafsir:** Ibn Kathir notes: We have neglected nothing in the Book, then unto their Lord they shall be gathered.)(6:38) Ibn 'Abbas said, "Everything will be gathered, even the flies." This statement was recorded by Ibn Abi Hatim.
-
-**From the Sunnah:** For example, the knowledgeable persons from among the Muslims who were serving Islamic studies will be made into one group; the people who devoted themselves for worship will be made into another group; the people performing jihad will be together, and the peo…
 ## Personal Reflections
-
 

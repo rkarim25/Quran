@@ -187,13 +187,5 @@ The entrant also said: وَلَا تُشْطِطْ (and do not cross the limits 
 
 When they burst in upon him, he was startled. They said, "Do not fear—we are two in a dispute. One of us has wronged the other. Judge between us with truth, do not exceed it, and guide us to the right way."
 
-## AI Tafsir
-
-**What this ayah teaches:** Natural fear is not contrary to the station of a prophet or man of Allah This tells us that being naturally affected at the sight of something fearful is not contrary to the station of a prophet or man of Allah.
-
-**Classical tafsir:** Ibn Kathir notes: Two men barging into one's privacy in that manner at an odd hour beating the security cordon can only be because of some bad intention in most cases.
-
-**From the Sunnah:** The evidence for it is the report recorded by Imam Ahmad from Ibn 'Abbas, may Allah be pleased with him, who said; "The prostration in Surah Sad is not one of the obligatory prostrations; I saw the Messenger of Allah ﷺ prostrating in this Surah." This was also… (Sahih al-Bukhari, Musnad Ahmad) he asked Mujahid about the prostration in Surah Sad. (Sahih al-Bukhari)
 ## Personal Reflections
-
 

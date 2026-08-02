@@ -237,11 +237,5 @@ The same subject has been taken up in another verse of the Holy Qur'an more expl
 
 And when you come across those who ridicule Our revelations, do not sit with them unless they engage in a different topic. Should Satan make you forget, then once you remember, do not sit with the wrongdoing people.
 
-## AI Tafsir
-
-**Context:** (And it has already been revealed to you in the Book that when you hear the Verses of Allah being denied and mocked at, then sit not with them, until they engage in a talk other than that; (but if you stayed with them) c…
-
-**What this ayah teaches:** Said at the end of the verse was ` if Satan makes you forget', that is, if one went into their gathering unmindfully - whether while not remembering the prohibition of participating in such gatherings, or while not recalling that these people talk against the Ayat of Allah and the Rasul of Allah in their gatherings - then, in either situation, once it is remembered, one should…
 ## Personal Reflections
-
 

@@ -121,11 +121,5 @@ Thus these attributes being only habitual, they can be changed whenever God so w
 
 Shame on you and whatever you worship instead of Allah! Do you not have any sense?”
 
-## AI Tafsir
-
-**What this ayah teaches:** His adoption of this act of dissimulation in fact served many religious interests; one of them being to make the people aware of the possibility that perhaps the big idol was infuriated with the smaller idols because they too were worshipped with the same degree of reverence as itself.
-
-**Classical tafsir:** Ibn Kathir notes: This is called tauriyah (dissembling) where the words used may be interpreted differently, so that the listener understands them one way whereas the speaker means something else.
 ## Personal Reflections
-
 

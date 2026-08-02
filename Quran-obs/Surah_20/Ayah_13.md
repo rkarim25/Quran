@@ -148,11 +148,5 @@ How to conduct oneself when the Qur'an is being recited
 
 I have chosen you, so listen to what is revealed:.
 
-## AI Tafsir
-
-**What this ayah teaches:** It shall not come upon you except all of a sudden.)[7:187] This means that its knowledge weighs heavily upon the dwellers of the heavens and the earth. Whoever behaves like these people, then verily he has failed and lost.
-
-**Classical tafsir:** Ibn Kathir notes: It shall not come upon you except all of a sudden.)[7:187] This means that its knowledge weighs heavily upon the dwellers of the heavens and the earth.
 ## Personal Reflections
-
 

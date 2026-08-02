@@ -127,11 +127,5 @@ Other scholars, however, assign another meaning to the words, "and will not ask 
 
 This dunya is only play and distraction. But if you have iman and taqwa, He will give you your full reward and will not demand all your wealth.
 
-## AI Tafsir
-
-**What this ayah teaches:** This worldly life is only amusement and diversion.
-
-**Classical tafsir:** Ibn Kathir notes: He only ordained giving charity from your wealth so that you would help your needy brothers.
 ## Personal Reflections
-
 

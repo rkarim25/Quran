@@ -86,13 +86,5 @@ Sayyidna Qatadah ؓ has explained the situation in another way. He says that alt
 
 So it was. And We awarded it all to the Children of Israel.
 
-## AI Tafsir
-
-**Context:** And We revealed to Musa, saying: "Depart by night with My servants, verily, you will be pursued. (52)Then Fir'awn sent callers to (all) the cities (53)(Saying): "Verily, these indeed are but a small band.
-
-**What this ayah teaches:** the land blessed by Us) because the word Barakna is used for the land of Syria in many verses of the Qur'an.
-
-**Classical tafsir:** Ibn Kathir notes: the land blessed by Us) because the word Barakna is used for the land of Syria in many verses of the Qur'an.
 ## Personal Reflections
-
 

@@ -88,11 +88,5 @@ On the Day, they see these conditions and these frightening sights, they will ha
 
 leaving the earth level and bare,.
 
-## AI Tafsir
-
-**What this ayah teaches:** The word Qa' means a piece of land that is level and the word Safsafa is used to place emphasis on this meaning.
-
-**Classical tafsir:** Ibn Kathir notes: The word Qa' means a piece of land that is level and the word Safsafa is used to place emphasis on this meaning.
 ## Personal Reflections
-
 

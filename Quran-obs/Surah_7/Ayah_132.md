@@ -122,13 +122,5 @@ And they said, مَهْمَا تَأْتِنَا بِهِ مِنْ آيَةٍ ل
 
 They said, “No matter what sign you may bring to deceive us, we will never believe in you.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Invoke your Lord so that He will remove the locusts from us, and we will believe in you and release the Children of Israel to you.' Musa invoked his Lord, and He removed the locusts.
-
-**Classical tafsir:** Ibn Kathir notes: Mujahid said it is water that carries the plague every where. Al-Hasan and Sa'id bin Jubayr said that 'Qummal' are small black insects.
-
-**From the Sunnah:** They collected grains and kept them in their homes.
 ## Personal Reflections
-
 

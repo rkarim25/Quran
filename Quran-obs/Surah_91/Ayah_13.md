@@ -127,13 +127,5 @@ Some of the commentators have analysed that the pronouns of zakka 'He purified' 
 
 Though the messenger of Allah had warned them: Do not harm Allah's she-camel, and do not block her drink—
 
-## AI Tafsir
-
-**What this ayah teaches:** Therefore, this resulted in a rejection in their hearts for the guidance and conviction their Messenger came to them with. The Rejection of Thamud and Allah's Destruction of Them Allah informs that Thamud rejected their Messenger because of the injustice and transgression they practiced.
-
-**Classical tafsir:** Ibn Kathir notes: So their Lord destroyed them because of their sin, Fasawwaha (14)And He feared not the consequences thereof .
-
-**From the Sunnah:** This is just as Imam Ahmad recorded from 'Abdullah bin Zam'ah. (Musnad Ahmad) This Hadith was recorded by Al-Bukhari in his Book of Tafsir, and Muslim in his Book of the Description of the Hellfire. (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
-
 

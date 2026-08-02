@@ -123,11 +123,5 @@ By particularly mentioning affluent people who use their wealth to pursue a life
 
 Whenever We intend to destroy a society, We command its elite to obey Allah but they act rebelliously in it. So the decree of punishment is justified, and We destroy it utterly.
 
-## AI Tafsir
-
-**What this ayah teaches:** Given in the verses cited above is what happens on the other side when the messages of Allah and His Messenger do reach a people and they still show contumacy, then, a mass punishment is sent over them.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, those who have been blessed with wealth by Allah Ta’ ala should be more concerned with the correction of their deeds and morals - lest they fall into the trap of a luxurious life style, are heedless to self-correction, and make the entire nation go astray because of th…
 ## Personal Reflections
-
 

@@ -134,13 +134,5 @@ Allah's saying:
 
 Then We caused the earth to swallow him up, along with his home. There was no one to help him against Allah, nor could he even help himself.
 
-## AI Tafsir
-
-**What this ayah teaches:** Had it not been that Allah was Gracious to us, He could have caused the earth to swallow us up! So, We caused the earth to swallow him and his dwelling place.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** his father told him that the Messenger of Allah ﷺ said: (Sahih al-Bukhari)
 ## Personal Reflections
-
 

@@ -120,22 +120,5 @@ The answer is that the withholding of guidance mentioned here is in accordance w
 
 As for those who repent afterwards and mend their ways, then surely Allah is All-Forgiving, the Rahim.
 
-## AI Tafsir
-
-**Essence**
-However far one falls — even into disbelief after faith — the door of repentance stays open: those who sincerely turn back and mend their ways find Allah Oft-Forgiving, Most Merciful.
-
-**What it teaches**
-After the severe verses on those who disbelieve after believing — who earn the curse of Allah, the angels, and all mankind, and a torment neither lightened nor delayed — this ayah carves out a saving exception (illā): "except those who repent (tābū) afterward and reform themselves (aṣlaḥū)." Tawbah here is not mere regret but a true turning back, and it must be joined to iṣlāḥ — actively mending and doing righteous deeds — after which, for the one who repents, Allah is Ghafūr (the One who forgives and conceals sins) and Raḥīm (overflowing in mercy).
-
-**The scholars**
-Ibn Kathir explains that this ayah "indicates Allah's kindness, graciousness, compassion, mercy and favor on His creatures when they repent to Him, for He forgives them in this case." Maarif ul Quran (citing Bayan al-Qur'an) removes an apparent doubt: the earlier verse "How shall Allah guide..." (3:86) seems to bar the apostate from guidance forever, yet many do return and are guided. The answer is that this withholding is spoken "in accordance with common usage" — like saying of a criminal, "Why are we going to give special treatment to such a one?" — meaning no guidance is warranted while he persists in his wrong, not that he can never become deserving of it should he turn back and behave well.
-
-**From the Sunnah**
-Ibn Jarir records from Ibn Abbas that a man of the Ansar embraced Islam, then reverted and joined the polytheists; later, full of regret, he sent his people to ask the Messenger of Allah ﷺ whether he could still repent — and this very ayah of forgiveness was revealed, upon which he re-embraced Islam. (The same wording is recorded by An-Nasa'i, al-Hakim — who graded its chain Sahih — and Ibn Hibban.)
-
-**Reflection**
-Tawbah is only half of it: the ayah pairs turning back with iṣlāḥ. Do not stop at remorse — repair what your wrong damaged and rebuild with righteous deeds, and trust that the One who answered even an apostate's plea is Ghafūr and Raḥīm.
 ## Personal Reflections
-
 

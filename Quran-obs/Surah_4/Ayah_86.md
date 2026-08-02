@@ -288,15 +288,5 @@ Towards the end of verse .86, it was said: إِنَّ اللَّـهَ كَان�
 
 And when you are greeted, respond with a better greeting or at least similarly. Surely Allah is a Reckoner of all things.
 
-## AI Tafsir
-
-**Context:** (Intercede and you will gain a reward of it. Yet, Allah shall decide whatever He wills by the words of His Prophet.) Mujahid bin Jabr said, "This Ayah was revealed about the intercession of people on behalf of each other…
-
-**What this ayah teaches:** And Allah is Ever All-Able to do everything (85)When you are greeted with a greeting, greet in return with what is better than it, or (at least) return it equally.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, the better Salam is recommended, while returning it equally is an obligation.
-
-**From the Sunnah:** For instance, the Prophet ﷺ said to the believers at the battle of Badr, while organizing their lines, Paradise, between each two grades is the distance between heaven and Earth.
 ## Personal Reflections
-
 

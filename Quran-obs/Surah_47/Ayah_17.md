@@ -151,13 +151,5 @@ Abu Hurayrah ؓ reports Allah's Messenger ﷺ as saying: "When the spoils of war
 
 As for those who are guided, He increases them in guidance and blesses them with taqwa.
 
-## AI Tafsir
-
-**What this ayah teaches:** The Description of the Situation of the Hypocrites and the Command to maintain Tawhid and seek Forgiveness Allah describes the hypocrites' stupidity and limited understanding. But already there have come (some of) its portents; and when it (actually) is on them, how can they benefit then by their reminder (18)So know that La ilaha illallah and ask forgiveness for your sin, and also for (the sin of…
-
-**Classical tafsir:** Ibn Kathir notes: The Description of the Situation of the Hypocrites and the Command to maintain Tawhid and seek Forgiveness Allah describes the hypocrites' stupidity and limited understanding.
-
-**From the Sunnah:** They used to sit before Allah's Messenger ﷺ and listen to his words without understanding anything. Allah's Messenger ﷺ has most clearly informed about the signs and indications of the Hour, as we have discussed elsewhere.
 ## Personal Reflections
-
 

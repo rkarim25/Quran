@@ -124,13 +124,5 @@ The prayer was granted so that even after the lapse of many millennia people all
 
 Those who believe and do good—the Rahman will bless them with genuine love.
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, those who believe and work deeds of righteousness, the ar-Rahman will bestow love for them (96)So, We have made this easy in your own tongue, only that you may give glad tidings to those who have Taqwa, and warn with it the people that are Ludda (97)And how many a generation before them have We destroyed!
-
-**Classical tafsir:** Ibn Kathir notes: Allah places Love of the Righteous People in the Hearts Allah, the Exalted, informs about His believing servants, who work righteous deeds – deeds that He is pleased with because they are in accordance with the legislation of Muhammad ﷺ – that He plants love for them in the heart…
-
-**From the Sunnah:** This has been reported in authentic Hadiths of the Messenger of Allah ﷺ in various different ways.
 ## Personal Reflections
-
 

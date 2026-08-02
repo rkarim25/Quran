@@ -165,13 +165,5 @@ About the first event (5), the Holy Qur’ an said: When the people of Faith sta
 
 Perhaps your Rabb — the One who creates, owns, nurtures, and sustains will have mercy on you if you repent, but if you return to sin, We will return to punishment. And We have made Hell a permanent confinement for those who reject the truth.”
 
-## AI Tafsir
-
-**Context:** Allah tells us that He made a declaration to the Children of Israel in the Scripture, meaning that He had already told them in the Book which He revealed to them, that they would cause mischief on the earth twice, and wo…
-
-**What this ayah teaches:** That Baytullah shall be protected and that those who reject the truth shall never take it over is a security concern that Allah Ta’ ala has taken it upon Himself.
-
-**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas said, "Hasir here means a jail." Mujahid said, "They will be detained in it." Others said likewise.
 ## Personal Reflections
-
 

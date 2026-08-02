@@ -137,11 +137,5 @@ Then there is the other situation. If being of the same age is taken to mean tha
 
 This dispute among the people of the Fire will certainly take place.
 
-## AI Tafsir
-
-**What this ayah teaches:** Consideration of matching age between spouses is better Then there is the other situation.
-
-**Classical tafsir:** Ibn Kathir notes: Verily, they shall enter in the Fire!) meaning, because they are of the people of Hell.
 ## Personal Reflections
-
 

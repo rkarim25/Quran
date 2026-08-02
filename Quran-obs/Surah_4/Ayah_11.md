@@ -499,15 +499,5 @@ This verse of the Holy Qur'an clearlydeclares that the shares of inheritance det
 
 Allah commands you regarding your children: the share of the male will be twice that of the female. If you leave only two females, their share is two-thirds of the estate. But if there is only one female, her share will be one-half. Each parent is entitled to one-sixth if you leave offspring. But if you are childless and your parents are the only heirs, then your mother will receive one-third. But if you leave siblings, then your mother will receive one-sixth—after the fulfilment of bequests and debts. your parents and children, as you do not know who is more beneficial to you. an obligation from Allah. Surely Allah is All-Knowing, All-Wise.
 
-## AI Tafsir
-
-**Context:** Sayyidna Jabir ibn ` Abdullah has reported the following event: "Once we went out with the Messenger of Allah s until we passed by an Ansari woman in the neighbourhood of Aswaf.
-
-**What this ayah teaches:** Therefore, two-thirds is the share of the two daughters or sisters, and Allah knows best.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, Allah commands that both males and females take a share in the inheritance, although the portion of the males is twice as much as that of the females.
-
-**From the Sunnah:** I said, 'What do you command me to do with my money, O Allah's Messenger?' this Ayah was later revealed, (Sahih al-Bukhari) The remainder of the Six compilers also collected this Hadith.. (Sahih Muslim, Sunan an-Nasa'i)
 ## Personal Reflections
-
 

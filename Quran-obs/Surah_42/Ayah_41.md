@@ -127,11 +127,5 @@ Maulana Ashraf ` Ali Thanawi (رح) ، has, however, explained the issue in Baya
 
 There is no blame on those who enforce justice after being wronged.
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, He likes not the wrongdoers (40)And indeed whosoever takes revenge after he has suffered wrong, for such there is no way (of blame) against them (41)The way is only against those who oppress men and rebel in the earth without justification; for such there will be a painful torment (42)And verily, whosoever shows patience and forgives, that would truly be from the things…
-
-**Classical tafsir:** Ibn Kathir notes: And in the verse that refers to revenge, we are told that it is a particular quality of these virtuous people that if at any time their heart is inclined to take revenge of an injustice and they do so, they do not exceed the equitable limit, although to forgive is always better f…
 ## Personal Reflections
-
 

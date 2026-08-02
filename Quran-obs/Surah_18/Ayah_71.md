@@ -115,11 +115,5 @@ boat with an axe because of which there was a danger that water would fill up th
 
 So they set out, but after they had boarded a ship, the man made a hole in it. Moses protested, “Have you done this to drown its people? You have certainly done a terrible thing!”
 
-## AI Tafsir
-
-**What this ayah teaches:** So they both proceeded, till, when they boarded the boat, he (Khidr) damaged it. Verily, you have committed a thing Imr.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

@@ -260,11 +260,5 @@ In the verse: أَفَمَنْ هُوَ قَائِمٌ عَلَىٰ كُلِّ �
 
 Is there any equal to the Vigilant One who knows what every soul commits? Yet they assign partners to Allah. Say: "Name them! Or will you inform Him of something on earth He does not know? Are these only empty names?" Their falsehood has been made appealing to them, turning them from the path. Whoever Allah leaves astray will have no guide.
 
-## AI Tafsir
-
-**What this ayah teaches:** To those who disbelieved, their plotting is made fair-seeming, and they have been hindered from the right path; and whom Allah sends astray, for him there is no guide .
-
-**Classical tafsir:** Ibn Kathir notes: This Ayah refers to the misguidance of the polytheists and their propagation night and day.
 ## Personal Reflections
-
 

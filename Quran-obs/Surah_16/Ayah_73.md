@@ -110,11 +110,5 @@ After that, by saying: وَرَ‌زَقَكُم مِّنَ الطَّيِّبَ
 
 Yet they worship besides Allah those idols who do not afford them any provision from the heavens and the earth, nor do they have the power to.
 
-## AI Tafsir
-
-**What this ayah teaches:** Denouncing the Worship of anything besides Allah Allah tells us about the Mushrikin who worship others besides Him, even though He alone is the bountiful Provider, the Creator and Sustainer, without partners or associates, but they still worship idols and make rivals for Him.
-
-**Classical tafsir:** Ibn Kathir notes: Given here, there may be another hint towards the fact that spouses belong to each other's genus and, as such, their needs and feelings are common to both, therefore, mutual consideration is but necessary for them.
 ## Personal Reflections
-
 

@@ -108,11 +108,5 @@ This statement of the Qur'an also sheds light on an issue which holds the modern
 
 Do not kill your children for fear of poverty. We provide for them and for you. Surely killing them is a heinous sin.
 
-## AI Tafsir
-
-**What this ayah teaches:** May be, this approach is not a sin equal in gravity to that of the killing of children, but there is no doubt about its being blameworthy.
-
-**Classical tafsir:** Ibn Kathir notes: Prohibition of killing Children This Ayah indicates that Allah is more compassionate towards His servants than a father to his child, because He forbids killing children just as He enjoins parents to take care of their children in matters of inheritance.
 ## Personal Reflections
-
 

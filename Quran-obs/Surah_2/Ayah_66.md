@@ -132,17 +132,5 @@ But this particular instance does in no way go to prove that the Hiyal are imper
 
 We made that an example for their contemporaries and those after them, and a reminder for people of taqwa.
 
-## AI Tafsir
-
-**Essence** Allah made the Sabbath-breakers' fate a *nakal* — a deterrent for those around and after them — and a *maw'izah*, an admonition for the God-fearing.
-
-**What it teaches** One punishment, two audiences: pressing sinners to repent, steeling the obedient — even now.
-
-**The scholars** Ibn Kathir: their deceit made sin look lawful, so the punishment matched the crime. Ibn 'Abbas: an example for the surrounding villages; the transformed died within three days, childless. Maarif ul-Quran cites al-Qurtubi on pretences hardening into open sin — and itself distinguishes such mockery from legitimate hiyal that conform to the Shari'ah.
-
-**From the Sunnah** "Do not commit what the Jews committed, breaching what Allah has forbidden, by resorting to the lowest types of deceit" (Ibn Battah; jayyid per Ibn Kathir). Sahih Muslim (Ibn Mas'ud): transformed peoples leave no progeny; apes and swine today are not their descendants.
-
-**Reflection** Honor Allah's limits outwardly and inwardly — never dress disobedience in clever excuses.
 ## Personal Reflections
-
 

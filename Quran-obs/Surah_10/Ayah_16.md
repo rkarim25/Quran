@@ -133,13 +133,5 @@ No doubt, this argument of the Qur'an provides a perfect proof of its veracity a
 
 Say, “Had Allah willed, I would not have recited it to you, nor would He have made it known to you. I had lived my whole life among you before this revelation. Do you not understand?”
 
-## AI Tafsir
-
-**What this ayah teaches:** Is it not that, much before the revelation of the Qur'an, I have spent a long period of forty years of my life among you? And if, there is no evidence to prove his honesty and truth in that person's past life, trusting him for the future just because of what he says or claims is not a wise thing to do.
-
-**Classical tafsir:** Ibn Kathir notes: Whatever there is in the Qur'an is the Word of Allah Ta` ala and has come from Him.
-
-**From the Sunnah:** When the Messenger ﷺ read to them from the Book of Allah and His clear evidence they said to him: "Bring a Qur'an other than this." They wanted the Prophet ﷺ to take back this Book and bring them another book of a different style or change it to a different fo… The Prophet ﷺ was never criticized for anything or held in contempt.
 ## Personal Reflections
-
 

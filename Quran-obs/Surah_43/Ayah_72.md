@@ -143,13 +143,5 @@ Therefore the best friendship, in respect of this world as well as the Hereafter
 
 That is the Paradise you will be awarded for what you used to do.
 
-## AI Tafsir
-
-**What this ayah teaches:** No fear shall be on you this Day, nor shall you grieve (68)(You) who believed in Our Ayat and were Muslims (69)Enter Paradise, you and your wives, in happiness (70)Trays of gold and cups will be passed round them; (there will be) therein all that their souls desire, and all that eyes could delight in and you will abide therein forever (71)This is the Paradise, which you have been made to inherit b…
-
-**Classical tafsir:** Ibn Kathir notes: And 'love for the sake of Allah' means to love someone because he is a true follower of the religion prescribed by Allah.
-
-**From the Sunnah:** Paradise, which you have been made to inherit because of your deeds that you used to do (72)Therein for you will be fruits in plenty, of which you will eat (as you desire). Paradise as You have shown to me, and be pleased with him, as you have been with me. (Sahih Muslim)
 ## Personal Reflections
-
 

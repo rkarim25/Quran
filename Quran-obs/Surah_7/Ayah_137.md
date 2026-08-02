@@ -192,13 +192,5 @@ The events discussed up to this point were related to the destruction of Pharaoh
 
 And We made the oppressed people successors of the eastern and western lands, which We had showered with blessings. the noble Word of your Rabb was fulfilled for the Children of Israel for what they had endured. And We destroyed what Pharaoh and his people constructed and what they established.
 
-## AI Tafsir
-
-**What this ayah teaches:** Firstly, because their patience against the constant persecution at the hands of Pharaoh and his people is a proven fact.
-
-**Classical tafsir:** Ibn Kathir notes: The word 'land', according to all experts in exegesis, refers to the land of Egypt and Syria which was brought under the domination of the Israelites after the people of Pharaoh and the Amaleks were destroyed.
-
-**From the Sunnah:** As the Israelites witnessed the fulfillment of Allah's promise by having their rule over the land, similarly the Muslim Ummah witnessed the fulfillment of Allah's promise in the form of their sovereignty over the major part of the earth (Ruh al-Bayan). (Sahih Muslim)
 ## Personal Reflections
-
 

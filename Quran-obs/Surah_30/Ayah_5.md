@@ -125,15 +125,5 @@ The other possibility is that "Allah's help" in the above sentence means Allah's
 
 at the victory Allah wills. He gives victory to whom He wills. He is the Almighty, the Rahim.
 
-## AI Tafsir
-
-**Context:** These Ayat were revealed about the victory of Sabur, the king of Persia, over Ash-Sham (Greater Syria), the adjoining partisan states of the Arabian Peninsula, and the outlying regions of the land of the Romans.
-
-**What this ayah teaches:** He helps whom He wills, and He is the All-Mighty, the ar-Rahim.)(6.
-
-**Classical tafsir:** Ibn Kathir notes: How Caesar defeated Chosroes (Kisra) It was previously reported that 'Ikrimah said: "Chosroes sent his deputy and his army against Caesar, and they fought." It is well-known that Chosroes himself fought in the army that invaded his land, and he defeated Caesar and overwhelmed him until he had nothin… Mujahid said, “That was a place in the Arabian Peninsula which is closer to the land of the Romans t…
-
-**From the Sunnah:** that Ibn 'Abbas, may Allah be pleased with him, commented on this Ayah: (Musnad Ahmad) This was mentioned…
 ## Personal Reflections
-
 

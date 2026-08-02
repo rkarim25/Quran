@@ -220,11 +220,5 @@ In the verses that follow, the horrors of the Day of Judgment are depicted. It i
 
 Are you harder to create, or the sky? He built it,
 
-## AI Tafsir
-
-**What this ayah teaches:** Are you more difficult to create or is the heaven that He constructed?)(28.
-
-**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas said, "He did Aghtasha of its night means that He made it dark." Mujahid, 'Ikrimah, Sa'id bin Jubayr and a large group have said this as well. The phrase 'punishment of the 'akhirah' refers to the punishment of the Hereafter that will be meted out to Fir'aun (the Pharaoh).
 ## Personal Reflections
-
 

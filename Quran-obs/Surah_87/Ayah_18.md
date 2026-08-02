@@ -172,13 +172,5 @@ Ends here
 
 This was written in the earlier Scriptures—
 
-## AI Tafsir
-
-**Context:** meaning, he purifies himself from despised characteristics and he follows what Allah has revealed to the Messenger ﷺ.
-
-**What this ayah teaches:** For indeed, this worldly life is lowly and temporal, whereas the Hereafter is noble and eternal.
-
-**Classical tafsir:** Ibn Kathir notes: I did not give you kingdom so that you may amass wealth, but I had given you power so that you may let the supplication of the oppressed against the oppressor reach me, because my law does not reject the supplication of an oppressed, even though it may be uttered by an unbeliever…
 ## Personal Reflections
-
 

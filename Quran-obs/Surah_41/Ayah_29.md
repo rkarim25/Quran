@@ -167,13 +167,5 @@ It is learnt from the above verse that making noises with the intention of creat
 
 They will cry, "Our Lord! Show us those jinn and humans who led us astray—we will put them under our feet so they will be among the lowest in Hell."
 
-## AI Tafsir
-
-**What this ayah teaches:** Show us those among Jinn and men who led us astray, that we may crush them under our feet so that they become the lowest. And the Word is justified against them as it was justified against those who were among the previous generations of Jinn and men that had passed away before them.
-
-**Classical tafsir:** Ibn Kathir notes: And the Word is justified against them as it was justified against those who were among the previous generations of Jinn and men that had passed away before them.
-
-**From the Sunnah:** "And make noise in the midst of its (recitation)" means whistling and trying to make the Messenger of Allah ﷺ confused when he recited Qur'an, which is what the Quraysh did.
 ## Personal Reflections
-
 

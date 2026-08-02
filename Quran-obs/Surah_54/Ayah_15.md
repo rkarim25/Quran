@@ -153,11 +153,5 @@ However, it appears that the meaning here is that Allah kept ships as a sign. Fo
 
 We left this as a sign. Is there anyone who will take heed?
 
-## AI Tafsir
-
-**What this ayah teaches:** The word alwah is the plural of lawh and it refers to a board or a plank. But the sky's gates were opened on them that day, and therefore, the water that came down was not from clouds.
-
-**Classical tafsir:** Ibn Kathir notes: The word alwah is the plural of lawh and it refers to a board or a plank.
 ## Personal Reflections
-
 

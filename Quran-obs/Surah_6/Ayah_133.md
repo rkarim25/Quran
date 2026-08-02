@@ -199,11 +199,5 @@ After that, it was also made clear that the way His mercy is universal and perfe
 
 Your Rabb is the Self-Sufficient, Full of Mercy. If He wills, He can do away with you and replace you with whoever He wills, just as He produced you from the offspring of other people.
 
-## AI Tafsir
-
-**What this ayah teaches:** He is All-Independent, yet He is the master-dispenser of mercy - an attribute which is the real cause of sending messengers and books for the good of human beings.
-
-**Classical tafsir:** Ibn Kathir notes: In the first (133) of the four verses cited above, it has been pointed out that the practice of sending needed our obediences and worthier because the Lord of the universe needed our obedience and worship, or some task of His depended on our obedience.
 ## Personal Reflections
-
 

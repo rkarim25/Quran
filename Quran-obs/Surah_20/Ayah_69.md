@@ -139,15 +139,5 @@ The Egyptian magicians who were masters of their art realized at once that what 
 
 Cast what is in your right hand, and it will swallow up what they have made, for what they have made is no more than a magic trick. And magicians can never succeed wherever they go.”
 
-## AI Tafsir
-
-**Context:** (So Musa conceived fear in himself.) This means that he feared for the people that they would be tested and deceived by their magic before he could even have a chance to throw what was in his right hand.
-
-**What this ayah teaches:** That which they have made is only a magician's trick, and the magician will never be successful, to whatever amount (of skill) he may attain.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, when this happened, they fell down into prostration to Allah.
-
-**From the Sunnah:** Paradise was raised up before them until they were looking at it.
 ## Personal Reflections
-
 

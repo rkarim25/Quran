@@ -144,13 +144,5 @@ All this does not imply that if a person has been lax in the performance of good
 
 O believers: why do you say what you do not do?
 
-## AI Tafsir
-
-**Context:** Some said that it was revealed about the gravity of fighting in battle, when one says that he fought and endured the battle, even though he did not do so.
-
-**What this ayah teaches:** It is severely hateful in Allah's sight that you say what you do not do...61:2-3) Apparently, the phrase 'what you do not do' implies that one should not claim to do something he does not intend to do. Why do you say that which you do not do?) This refutes those who neglect to fulfill their promises.
-
-**Classical tafsir:** Ibn Kathir notes: Qatadah and Ad-Dahhak said that this Ayah was sent down to admonish some people who used to say that they killed, fought, stabbed, and did such and such during battle, even though they did not do any of it.
 ## Personal Reflections
-
 

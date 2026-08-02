@@ -172,13 +172,5 @@ In other words, they lived among their families and yet were fearful and conscio
 
 thinking they would never return to Allah.
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, he thought that he would never return!)(15. Verily, he was among his people in joy!)(14.
-
-**Classical tafsir:** Ibn Kathir notes: This means that he will not be investigated for all the minute details of his deeds.
-
-**From the Sunnah:** Then when he completed the prayer, he informed them that the Messenger of Allah ﷺ prostrated during its recitation. (Sahih Muslim, Sunan an-Nasa'i) from Abu Rafi' that he prayed the Night prayer with Abu Hurayrah) recited, (Sahih al-Bukhari)
 ## Personal Reflections
-
 

@@ -152,11 +152,5 @@ So we say, just as the believers among the Jinns said, "O Allah! None of Your fa
 
 He spread out the earth for all creatures.
 
-## AI Tafsir
-
-**What this ayah teaches:** Evidently, the word 'anam in the verse refers to mankind and the jinn, because only these two species of Allah's creation are obligated to observe the precepts of Shari` ah. And observe the weight with equity and do not make the balance deficient.)(10.
-
-**Classical tafsir:** Ibn Kathir notes: Mujahid said, "An-Najm (the star); the one that is in the sky." Al-Hasan and Qatadah said similarly. Ibn Jurayj reported that Ibn 'Abbas said said Al-Akmam, means sheathed fruit stalks.
 ## Personal Reflections
-
 

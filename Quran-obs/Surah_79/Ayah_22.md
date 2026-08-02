@@ -218,11 +218,5 @@ The Holy Prophet ﷺ used to be hurt by the stubbornness of the obdurate rejecte
 
 then turned his back, striving against the truth.
 
-## AI Tafsir
-
-**What this ayah teaches:** This is the refined bodily soul that the angels transport to the heaven and transport him back with honours if he is enlightened.
-
-**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas said, "He did Aghtasha of its night means that He made it dark." Mujahid, 'Ikrimah, Sa'id bin Jubayr and a large group have said this as well. The statement that 'the soul is in ` Alam-ul-arwah or ` illiyyun' is also true, because the 'soul' in this context refers to ruh mujarrad or 'abstract spirit'.
 ## Personal Reflections
-
 

@@ -132,11 +132,5 @@ And Allah says in this Ayah, after mentioning this argument of theirs:
 
 Still the pagans have made some of His creation out to be a part of Him. Indeed, humankind is clearly ungrateful.
 
-## AI Tafsir
-
-**What this ayah teaches:** The gist of the argument is that had Allah any offspring, that offspring will have been His part, because a son is a part of his father, and it is a rule of logic that an entity that consists of parts is dependent upon its parts for its full existence.
-
-**Classical tafsir:** Ibn Kathir notes: They do nothing but lie!) Mujahid said, "They do not appreciate the power of Allah."
 ## Personal Reflections
-
 

@@ -152,13 +152,5 @@ Ends here.
 
 honest in their testimony,
 
-## AI Tafsir
-
-**What this ayah teaches:** The use of plural number in this verse too indicates that there are many types and categories of 'testimony', and it is necessary to stand firm by one's testimony of any type.
-
-**Classical tafsir:** Ibn Kathir notes: It has also been said that the meaning here refers to those who perform a deed and are constant in its performance and consistent in it.
-
-**From the Sunnah:** This is like what is reported in the authentic Hadith, (authentic hadith)
 ## Personal Reflections
-
 

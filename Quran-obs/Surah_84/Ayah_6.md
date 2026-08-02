@@ -185,13 +185,5 @@ The verses that follow depict separately the consequences of the good and the ba
 
 O humanity, you are labouring restlessly toward your Rabb, and you will meet the consequences of what you did.
 
-## AI Tafsir
-
-**What this ayah teaches:** Return to Allah Mankind is addressed in this verse and shown a road that if he were to think about it carefully, and use his sense and intelligence, he could exert his efforts in the right direction that will ensure for him welfare, well-being and safety in this world, as well as in the Hereafter.
-
-**Classical tafsir:** Ibn Kathir notes: This means that he will not be investigated for all the minute details of his deeds.
-
-**From the Sunnah:** Then when he completed the prayer, he informed them that the Messenger of Allah ﷺ prostrated during its recitation. (Sahih Muslim, Sunan an-Nasa'i) from Abu Rafi' that he prayed the Night prayer with Abu Hurayrah) recited, (Sahih al-Bukhari)
 ## Personal Reflections
-
 

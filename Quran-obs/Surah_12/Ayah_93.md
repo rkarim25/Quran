@@ -114,11 +114,5 @@ Said in the last sentence of verse 93 was: وَأْتُونِي بِأَهْلِ
 
 Go with this shirt of mine and cast it over my father’s face, and he will regain his sight. Then come back to me with your whole family.”
 
-## AI Tafsir
-
-**What this ayah teaches:** It is obvious that putting someone's shirt on the face of a person cannot become the physical cause of an eyesight to return. Given the conditions, he found it better that his father comes to him with the family.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, every shirt that touched his body could have this property.
 ## Personal Reflections
-
 

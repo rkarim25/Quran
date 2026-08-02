@@ -139,13 +139,5 @@ Looking at the letter of Sayyidna Sulaiman (علیہ السلام) one cannot av
 
 It is from Solomon, and it reads: ‘In the Name of Allah—the the Rahman — mercy that encompasses all creation in this life, the Rahim.
 
-## AI Tafsir
-
-**What this ayah teaches:** How did he write the name of the addressee, it is not mentioned in the Qur'an.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, it is also in order if the name of the writer is written first and then Bismillah.
-
-**From the Sunnah:** Hence, it should be taken in that light and Muslims should try to follow the guidance provided in it for letter writing. Religious jurist Abu al-Layth has written in his Bustan that if someone starts with the name of the addressee, no one can question its permissibility, because this has also been the practice among the Muslims for long, and no one has objected to that.
 ## Personal Reflections
-
 

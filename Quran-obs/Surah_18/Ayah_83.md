@@ -142,13 +142,5 @@ Let us look at the first verse cited above: قُلْ سَأَتْلُو عَلَ
 
 They ask you about Dhu'l-Qarnayn. Say: I will relate to you something worth remembering.
 
-## AI Tafsir
-
-**What this ayah teaches:** About Dhul-Qarnain, it is a strange coincidence that several men have been famous in the world while bearing the same name.
-
-**Classical tafsir:** Ibn Kathir notes: Some of them said he was called Dhul-Qarnayn (the one with two horns) because he reached the two "Horns" of the sun, east and west, where it rises and where it sets.
-
-**From the Sunnah:** We have already mentioned how the those who reject the truth of Makkah sent word to the People of the Book and asked them for some information with which they could test the Prophet ﷺ. Therefore, neither did the Qur'an take these things up nor were there any details about it described in any authentic Hadith. (authentic hadith)
 ## Personal Reflections
-
 

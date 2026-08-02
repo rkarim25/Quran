@@ -157,11 +157,5 @@ In the first verse (39): وَمَاذَا عَلَيْهِمْ لَوْ آمَن
 
 What harm could have come to them if they had believed in Allah and the Last Day and donated from what Allah has provided for them? And Allah has knowledge of them.
 
-## AI Tafsir
-
-**What this ayah teaches:** The apparent wording for this Ayah indicates that it is talking about being stingy with money, even though miserly conduct with knowledge is also included.
-
-**Classical tafsir:** Ibn Kathir notes: The apparent wording for this Ayah indicates that it is talking about being stingy with money, even though miserly conduct with knowledge is also included.
 ## Personal Reflections
-
 

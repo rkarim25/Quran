@@ -145,13 +145,5 @@ The answer is that embellishment and beauty are subservient to practice or custo
 
 Give them O Prophet an example of two men. To the rejecting the truth one We gave two gardens of grapevines, which We surrounded with palm trees and placed various crops in between.
 
-## AI Tafsir
-
-**Context:** (Have you seen him who disbelieved in Our Ayat and said: "I shall certainly be given wealth and children [if I will be alive again).")[19:77] He took it for granted that Allah would give him this, without any sound evide…
-
-**What this ayah teaches:** The Example of the Rich Idolators and the Poor Muslims After mentioning the idolators who were too arrogant to sit with the poor and weak among Muslims, showing off before them with their wealth and noble lineage, Allah then gives a parable for them of two men, one of whom Allah gave two gardens of grapes, surrounded with palm trees and cultivated with crops throughout.
-
-**Classical tafsir:** Ibn Kathir notes: This was because of his lack of understanding and the weakness of his faith in Allah, and because he was enamored with this world and its adornments, and because he disbelieved in the Hereafter.
 ## Personal Reflections
-
 

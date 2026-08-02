@@ -103,11 +103,5 @@ Sayyidna ` Uthman Ibn ` Affan ؓ says that anyone who conceals a secret in his h
 
 Had We willed, We could have shown them clearly to you, and you would have known them by their marks. But you will know them by the tone of their speech. Allah knows what you do.
 
-## AI Tafsir
-
-**What this ayah teaches:** Or do those in whose hearts is a disease, think that Allah will not expose their ill–wills (29)Had We so willed, We could have shown them clearly to you, so that you would know them by their marks; but you will know them by the tone of their speech!
-
-**Classical tafsir:** Ibn Kathir notes: In this Ayah, "until We know" means 'until We know of its occurrence.' This is why Ibn 'Abbas said in regard to this and similar texts, "Except so that We may know, means, so that We may see."
 ## Personal Reflections
-
 

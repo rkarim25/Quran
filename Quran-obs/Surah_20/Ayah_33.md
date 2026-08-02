@@ -108,13 +108,5 @@ Good companions are a help in the better performance of worship and Dhikr (remem
 
 so that we may glorify You much.
 
-## AI Tafsir
-
-**What this ayah teaches:** That is Allah has commanded him to place his hand into the opening of his garment, as is clearly stated in another Ayah.
-
-**Classical tafsir:** Ibn Kathir notes: Ath-Thawri reported from Abu Sa'id, from 'Ikrimah, who said that Ibn 'Abbas said, "Harun was made a Prophet at the same moment that Musa was made a Prophet." Ibn Abi Hatim recorded that 'A'ishah went out intending to perform 'Umrah and stopped to camp among some bedouins.
-
-**From the Sunnah:** Ibn 'Abbas said, "Harun was made a Prophet at the same moment that Musa was made a Prophet." Ibn Abi Hatim recorded that 'A'ishah went out intending to perform 'Umrah and stopped to camp among some bedouins.
 ## Personal Reflections
-
 

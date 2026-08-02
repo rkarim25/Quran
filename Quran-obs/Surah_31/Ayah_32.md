@@ -167,13 +167,5 @@ As it appears in some narratives, this verse was revealed in response to a quest
 
 When waves like mountains overwhelm them, they call to Allah with sincere devotion. When He delivers them to shore, only some show shukr. None rejects Our signs except the deceitful ingrate.
 
-## AI Tafsir
-
-**Context:** As it appears in some narratives, this verse was revealed in response to a question posed by Jewish priests. The reason which prompted them to ask this question was the verse of the Qur'an where it has been said: وَمَا أ…
-
-**What this ayah teaches:** Verily, in this are signs for every patient, grateful (person)(31)And when waves cover them like shades, they invoke Allah, making their invocations for Him only. This word describes a person who, whenever he makes a promise, breaks his promise, and it refers to the worst form of treachery.
-
-**Classical tafsir:** Ibn Kathir notes: This word describes a person who, whenever he makes a promise, breaks his promise, and it refers to the worst form of treachery.
 ## Personal Reflections
-
 

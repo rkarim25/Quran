@@ -98,11 +98,5 @@ There is a verse in Surah Al-Ma'arij which says that the day with your Lord will
 
 So those who believe and do good will have forgiveness and an honourable provision.
 
-## AI Tafsir
-
-**What this ayah teaches:** So those who believe and do righteous good deeds,) means, whose hearts believe and whose actions confirm their faith. Likewise it is possible that the length of the Day of Resurrection would be different on different horizons, and if its length right below the day line is one thousand years because of miraculously slow rotation of sun or earth), the areas falling 50 times far from it may have a da…
-
-**Classical tafsir:** Ibn Kathir notes: The first meaning is that the verse refers to the Day of Resurrection and the events which will take place on that day will be so horrifying and of such extreme severity that the day will appear never to end, as if it was equal to one thousand years according to our reckoning.
 ## Personal Reflections
-
 

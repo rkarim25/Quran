@@ -118,11 +118,5 @@ It was said in verse أَثُمَّ إِذَا مَا وَقَعَ آمَنتُ�
 
 Then the wrongdoers will be told, “Taste the torment of eternity! Are you not rewarded except for what you used to commit?”
 
-## AI Tafsir
-
-**What this ayah teaches:** I was told that the Hour is going to come, but He has not told me when it will occur.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, the punishment was withdrawn.
 ## Personal Reflections
-
 

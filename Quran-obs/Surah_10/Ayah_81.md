@@ -123,13 +123,5 @@ Another basharah (good news) of this world unfolds in the form that Muslims at l
 
 When they did, Moses said, “What you have produced is mere magic, Allah will surely make it useless, for Allah certainly does not set right the work of the corruptors.
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, Allah does not set right the work of the evildoers. The result was the exact opposite and he therefore didn't attain his goal.
-
-**Classical tafsir:** Ibn Kathir notes: The result was the exact opposite and he therefore didn't attain his goal.
-
-**From the Sunnah:** Another basharah (good news) of this world unfolds in the form that Muslims at large love someone and take him to be good without any personal motive or interest. (Sahih Muslim)
 ## Personal Reflections
-
 

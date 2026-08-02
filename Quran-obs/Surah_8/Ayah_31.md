@@ -195,13 +195,5 @@ Mentioned in verses 31 and 32 is the absurd remark made by Nadr ibn Harith, a pa
 
 When Our ayat are recited to them, they say: "We have heard this before. If we wished, we could say the like of this. This is nothing but tales of the ancients."
 
-## AI Tafsir
-
-**What this ayah teaches:** Now, after all this, to stand up and say that we too can say something like this, if we so wished, is something no self-respecting person would venture to say.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** Whenever the Prophet ﷺ would leave an audience in which An-Nadr was sitting, An-Nadr began narrating to them the stories that he learned in Persia, proclaiming afterwards, "Who, by Allah, has better tales to narrate, I or Muhammad?" When Allah allowed the Musl… Al-Hakim, "Its chain is Sahih and they did not record it." (al-Mustadrak)
 ## Personal Reflections
-
 

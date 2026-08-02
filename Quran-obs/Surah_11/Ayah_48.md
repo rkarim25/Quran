@@ -117,11 +117,5 @@ When the Holy Prophet ﷺ came to know of this detailed information about Sayyid
 
 It was said, “O Noah! Disembark with Our peace and blessings on you and some of the descendants of those with you. As for the others, We will allow them a brief enjoyment, then they will be touched with a painful punishment from Us.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Come down (from the ship) with peace from Us and blessings on you and on the people who are with you (and on some of their offspring), but (there will be other) people to whom We shall grant their pleasures (for a time), but in the end a painful torment will reach them from Us.
-
-**Classical tafsir:** Ibn Kathir notes: He extended his hand out of the ship and the pigeon grabbed his hand so that Nuh could pull it back into the ship.
 ## Personal Reflections
-
 

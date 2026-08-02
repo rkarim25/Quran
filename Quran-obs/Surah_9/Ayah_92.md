@@ -174,15 +174,5 @@ There are many events of this nature recorded in books of Exegesis and History. 
 
 Nor those who came to you for mounts, then when you said, “I can find no mounts for you,” they left with eyes overflowing with tears out of grief that they had nothing to contribute.
 
-## AI Tafsir
-
-**Context:** Mujahid said; "It was revealed about Bani Muqarrin from the tribe of Muzaynah."
-
-**What this ayah teaches:** There is no blame on those who are weak or ill or who find no resources to spend, if they are sincere and true (in duty) to Allah and His Messenger.
-
-**Classical tafsir:** Ibn Kathir notes: They are content to be with (the women) who sit behind (at home) and Allah has sealed up their hearts so that they know not (what they are losing).
-
-**From the Sunnah:** The present verses mention sincere Muslims who were deprived of participation in Jihad because they were genuinely incapable of doing so.
 ## Personal Reflections
-
 

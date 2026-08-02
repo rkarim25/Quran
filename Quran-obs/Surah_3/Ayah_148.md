@@ -246,13 +246,5 @@ And the better reward in the Hereafter. (148)
 
 So Allah gave them the reward of this dunya and the excellent reward of the Akhirah. For Allah loves the good-doers.
 
-## AI Tafsir
-
-**What this ayah teaches:** That reward is certainly the real one, an ideal state of peace and happiness which will never fade out.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, the Muslims' resolve was weakened and they did not actively participate in battle.
-
-**From the Sunnah:** When Muslims suffered defeat in battle at Uhud and some of them were killed, Shaytan shouted, "Muhammad has been killed." Ibn Qami'ah went back to the idolators and claimed, "I have killed Muhammad." Some Muslims believed this rumor and thought that the Messen… This story was collected by Al-Hafiz Abu Bakr Al-Bayhaqi in Dala'il An-Nubuwwah.
 ## Personal Reflections
-
 

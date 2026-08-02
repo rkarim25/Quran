@@ -186,11 +186,5 @@ My respected father, Maulana Muhammad Yasin, a dear disciple of Maulana Muhammad
 
 O my people, how is it that I invite you to salvation while you invite me to the Fire!
 
-## AI Tafsir
-
-**Context:** (The Fire, they are exposed to it, morning and afternoon). But the question arises: this Ayah was undoubtedly revealed in Makkah, but they use it as evidence to prove that there will be torment in the grave during the pe…
-
-**What this ayah teaches:** How is it that I call you to salvation while you call me to the Fire! It was said, 'how can this report be reconciled with the fact that the Ayah was revealed in Makkah and the Ayah indicates that there will be torment during the period of Al-Barzakh?' The answer is that the Ayah refers to the souls (of Fir'awn and his people) being exposed to the Fire morning and evening; it does not say that the…
 ## Personal Reflections
-
 

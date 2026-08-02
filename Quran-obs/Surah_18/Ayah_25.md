@@ -89,13 +89,5 @@ As for the period of sleep in the Cave given as three hundred nine years in the 
 
 They had remained in their cave for three hundred years, adding nine.
 
-## AI Tafsir
-
-**What this ayah teaches:** The length of time was three hundred plus nine years in lunar years, which is three hundred years in solar years.
-
-**Classical tafsir:** Ibn Kathir notes: But, the majority of commentators have said that both these sentences are the word of Allah.
-
-**From the Sunnah:** It was narrated that Qatadah commented on this Ayah:
 ## Personal Reflections
-
 

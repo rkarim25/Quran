@@ -144,11 +144,5 @@ The Holy Prophet ﷺ has been asked to warn the Israelites present in his time b
 
 When they ignored the warning they were given, We rescued those who used to warn against evil and overtook the wrongdoers with a dreadful punishment for their rebelliousness.
 
-## AI Tafsir
-
-**What this ayah teaches:** They said, 'why do you forbid these people from evil, when you know that they are destroyed and have earned Allah's punishment?' Therefore, they said, there is no benefit in forbidding them.
-
-**Classical tafsir:** Ibn Kathir notes: They said, 'why do you forbid these people from evil, when you know that they are destroyed and have earned Allah's punishment?' Therefore, they said, there is no benefit in forbidding them.
 ## Personal Reflections
-
 

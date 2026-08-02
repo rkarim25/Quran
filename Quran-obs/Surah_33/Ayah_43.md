@@ -181,11 +181,5 @@ The word 'Salah' has been used in this verse for Allah Ta’ ala as well as for 
 
 He is the One Who showers His blessings upon you—and His angels pray for you—so that He may bring you out of darkness and into light. For He is ever Merciful to the mu'mins.
 
-## AI Tafsir
-
-**What this ayah teaches:** Allah much Allah commands His believing servants to remember their Lord much, Who has bestowed upon them all kinds of blessings and favors, because this will bring them a great reward and a wonderful destiny. Remember Allah with much remembrance (41)And glorify His praises morning and Asila (42)He it is Who sends Salah on you, and His angels too, that He may bring you out from darkness into light.
-
-**Classical tafsir:** Ibn Kathir notes: His mercy towards them in the Hereafter means that He will save them from the greater terror (of the Day of Resurrection) and will command His angels to greet them with the glad tidings of Paradise and salvation from the Fire, which will only be because of His love for them and H…
 ## Personal Reflections
-
 

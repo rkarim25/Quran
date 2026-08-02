@@ -94,11 +94,5 @@ This verse indicates that the construction of houses and buildings without need 
 
 Why do you build a landmark on every high place in vanity,
 
-## AI Tafsir
-
-**What this ayah teaches:** This refers to the fact that they were physically strong and well-built, and very violent, and very tall; they had also been given a great deal of provisions, wealth, gardens, rivers, sons, crops and fruits. So, the meaning of the verse is that they used to make very high palaces of no benefit and which they did not need.
-
-**Classical tafsir:** Ibn Kathir notes: This refers to the fact that they were physically strong and well-built, and very violent, and very tall; they had also been given a great deal of provisions, wealth, gardens, rivers, sons, crops and fruits.
 ## Personal Reflections
-
 

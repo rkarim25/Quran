@@ -94,11 +94,5 @@ Commentary
 
 No people can advance their doom, nor can they delay it.
 
-## AI Tafsir
-
-**What this ayah teaches:** Then, after them, We created other generations (42)No nation can advance their term, nor can they delay it (43)Then We sent Our Messengers in succession.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

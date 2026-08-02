@@ -279,17 +279,5 @@ The last four verses bring out the miserable plight of the hypocrites with the h
 
 Or like those caught in a rainstorm from the sky — darkness, thunder, and lightning. They thrust their fingers into their ears at every thunderclap, terrified of death. And Allah encompasses those who reject Him by His might.
 
-## AI Tafsir
-
-**Essence** A traveler in a night storm — fingers in his ears, walking by each flash, frozen in the dark: the wavering hypocrite.
-
-**What it teaches** Ibn Kathir relates: the sayyib is rain; its darknesses, doubt, disbelief and hypocrisy; its thunder, fear shocking the hypocrite's heart; its lightning, iman's brief glimmer. Plugged ears avail nothing against Allah's encompassing will and decree.
-
-**The scholars** Ibn Mas'ud, Ibn 'Abbas, Mujahid and Qatadah: sayyib means rain; the hesitant hypocrite is Ibn Kathir's own framing. Maarif ul-Quran: they saw Islam's truth but worldly interests kept them hesitating. Ibn Jarir: Allah declares His power as a warning.
-
-**From the Sunnah** Hearts are four — the believer's, polished and lit; the disbeliever's, sealed; the pure hypocrite's, inverted; the wrapped, ruled by whichever prevails, faith or hypocrisy (Imam Ahmad). Lying, broken covenants, betrayed trusts — hypocrisy in deed, until given up (The Two Sahihs).
-
-**Reflection** The hypocrite walks only by borrowed light. Ask Allah for a lamp of your own — faith that keeps walking in the dark.
 ## Personal Reflections
-
 

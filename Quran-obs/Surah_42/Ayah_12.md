@@ -137,11 +137,5 @@ Commentary
 
 To Him belong the keys of the treasuries of the heavens and the earth. He gives abundant or limited provisions to whoever He wills. Indeed, He has perfect knowledge of all things.
 
-## AI Tafsir
-
-**What this ayah teaches:** And He Who gives life to the dead, and He is Able to do all things (9)And in whatsoever you differ, the decision thereof is with Allah.
-
-**Classical tafsir:** Ibn Kathir notes: The direction in many verses to obey Rasulullah ﷺ and in some verses to obey those in authority does not contradict the above, because the orders of Rasulullah ﷺ and of the authorities are also, in a way, orders of Allah.
 ## Personal Reflections
-
 

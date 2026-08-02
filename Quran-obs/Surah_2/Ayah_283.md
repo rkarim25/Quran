@@ -297,31 +297,5 @@ The second verse takes up the following two subjects:
 
 If you are on a journey and find no scribe, a pledged collateral is acceptable. If you trust one another, let the trusted one fulfil the trust and fear Allah, their Rabb. Do not conceal testimony — whoever conceals it, their heart is sinful. Allah knows what you do.
 
-## AI Tafsir
-
-**Essence**
-
-When a written contract is impossible, Allah permits a pledge taken in hand; yet He rests the whole matter on God-fearing trustworthiness and honest testimony, for the heart that hides the truth is itself the sinner.
-
-**What it teaches**
-
-If you are traveling and can find no scribe to record a debt, a rihan maqbudah — a tangible pledge actually taken into the creditor's possession — may stand as security in place of writing. But where people trust one another, even that may be set aside, provided the debtor discharges his amanah (trust) and keeps taqwa (God-consciousness) of "Allah, his Lord." Witnesses must never conceal their shahadah (testimony), for the one who hides it is "sinful in his heart."
-
-**The scholars**
-
-Ibn Kathir explains the pledge as something handed to the creditor "in lieu of writing the transaction." He cites Ibn 'Abbas widening when this applies — the ruling holds even if a scribe is found but no paper, ink, or pen can be had. He reports Abu Sa'id al-Khudri (with a sound chain) that this ayah abrogated the earlier requirement of recording and witnessing, and Ash-Sha'bi that if parties trust each other there is no harm in omitting writing or witnesses. He clarifies that "let him have taqwa" addresses the debtor. On concealing testimony, Ibn 'Abbas held that false testimony is among the worst major sins, as is hiding true testimony; As-Suddi glosses the verse as "a sinner in his heart." Maarif ul Quran adds a key fiqh point: the word maqbudah (taken in possession) shows the creditor may only hold the pledged item until the debt is cleared — any benefit it yields belongs to its original owner. It also explains why the heart is named as the sinner: one might suppose the sin lay only on the tongue that failed to speak, but the resolve to conceal forms first in the heart, so the heart's sin comes first.
-
-**From the Sunnah**
-
-The Prophet (peace be upon him) himself dealt on credit against a tangible pledge: he passed away while his shield was mortgaged to a Jew of Madinah for about thirty wasq (roughly 180 kg) of barley, bought as provision for his household. (The Two Sahihs, from Anas)
-
-**From the Sunnah**
-
-Whatever a debtor takes into his hand remains his binding obligation until he returns it in full. (Imam Ahmad and the Sunan, from Samurah)
-
-**Reflection**
-
-Trust let you set the paper aside; let it not let you set the duty aside. The pledge you hold is not yours to enjoy, and the testimony you carry is not yours to bury — for Allah knows what you do, down to the silence you keep.
 ## Personal Reflections
-
 

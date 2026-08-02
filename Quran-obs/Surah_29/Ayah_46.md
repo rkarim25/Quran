@@ -185,15 +185,5 @@ It is recorded in Sahih Al-Bukhari that Sayyidna Abu Hurairah ؓ has reported th
 
 Do not argue with the People of the Book except in the best manner, except those who wrong among them. Say: We believe in what was revealed to us and to you. Our Rabb and your Rabb is One, and to Him we submit.
 
-## AI Tafsir
-
-**Context:** And argue not with the People of the Scripture, except with that which is better – except with such of them as do wrong; and say (to them): "We believe in that which has been revealed to us and revealed to you; our Allah a…
-
-**What this ayah teaches:** Arguing with the People of the Book What is meant here is that anyone who wants to find out about religion from them should argue with them in a manner that is better, as this will be more effective.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, we abstain from endorsing or rejecting it'.
-
-**From the Sunnah:** Our Allah and your Allah is One, and to Him we have submitted.")" This Hadith was narrated only by Al-Bukhari. (Sahih al-Bukhari) that Humayd bin 'Abdur-Rahman heard Mu'awiyah talking to a group of Quraysh in Al-Madinah. (Sahih al-Bukhari)
 ## Personal Reflections
-
 

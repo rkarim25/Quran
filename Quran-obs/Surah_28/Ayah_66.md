@@ -125,11 +125,5 @@ The very first question infidels and disbelievers will be asked at the Tumultuou
 
 They will be too dumbstruck on that Day to ask one another for answers.
 
-## AI Tafsir
-
-**What this ayah teaches:** Because just as they led them astray, similarly at the same time, the prophets and their deputies also guided them towards the Right Path with sound arguments; making the Truth crystal clear to them .
-
-**Classical tafsir:** Ibn Kathir notes: Commentary The very first question infidels and those who reject the truth will be asked at the Tumultuous Place (mahshar) will be about shirk (associating someone else with Allah), that is, ` where are those Shaitans today whom you used to associate with Us?
 ## Personal Reflections
-
 

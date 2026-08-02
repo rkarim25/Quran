@@ -138,13 +138,5 @@ The Qur'an here describes the condition of those unbelievers who denied the Here
 
 That is the limit of their knowledge. Your Rabb knows best who strayed from His path and who is guided.
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, your Lord is He, Who knows best him who goes astray from His path, and He knows best him who receives guidance .
-
-**Classical tafsir:** Ibn Kathir notes: Allah is the One Who guides whom He wills and misguides whom He wills, and all of this indicates His power, knowledge and wisdom.
-
-**From the Sunnah:** Regretfully, nowadays the Muslims have characterized themselves by the same condition as a result of Western education and material needs and desires.
 ## Personal Reflections
-
 

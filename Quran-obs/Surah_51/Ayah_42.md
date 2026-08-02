@@ -138,11 +138,5 @@ After this, the stories of the people of ` Ad, Thamud and Nuh (علیہم الس
 
 which left nothing it touched except shattered ruins.
 
-## AI Tafsir
-
-**What this ayah teaches:** These stories were narrated many times before.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

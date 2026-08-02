@@ -255,13 +255,5 @@ This is the end of the Tafsir of Surat Al-Hashr. All praise is due to Allah.
 
 He is Allah—there is no god except Him: the King, the Most Holy, the All-Perfect, the Source of Serenity, the Watcher, the Almighty, the Supreme in Might, the Majestic. Glorified is Allah far above what they associate with Him in worship.
 
-## AI Tafsir
-
-**What this ayah teaches:** Surely, none except Allah is able to measure, bring forth and create whatever He wills to come to existence.
-
-**Classical tafsir:** Ibn Kathir notes: In one of the narrations for this Hadith, Al-Hasan Al-Basri said after narrating the Hadith, "You – mankind – are more worthy to miss the Messenger of Allah ﷺ than the tree trunk!" Likewise, this honorable Ayah asks that if the solid mountains feel humble and are rent asunder from the fear of Allah,… It could also be derived from the word jabr, meaning to 'join broken bones' and thus we have the wor…
-
-**From the Sunnah:** So, when the Minbar was made and placed in the Masjid, the Prophet ﷺ came to deliver a speech and passed the tree trunk, headed towards the Minbar, the tree trunk started weeping, just like an infant.
 ## Personal Reflections
-
 

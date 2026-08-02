@@ -190,11 +190,5 @@ The Holy Prophet ﷺ used to be hurt by the stubbornness of the obdurate rejecte
 
 consider the Day the quaking Blast arrives,
 
-## AI Tafsir
-
-**What this ayah teaches:** The statement that 'the soul is in ` Alam-ul-arwah or ` illiyyun' is also true, because the 'soul' in this context refers to ruh mujarrad or 'abstract spirit'. And by those who arrange affairs.)(6.
-
-**Classical tafsir:** Ibn Kathir notes: The statement that 'the soul is in ` Alam-ul-arwah or ` illiyyun' is also true, because the 'soul' in this context refers to ruh mujarrad or 'abstract spirit'.
 ## Personal Reflections
-
 

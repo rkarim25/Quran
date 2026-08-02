@@ -162,13 +162,5 @@ To put it briefly, it can be said that on occasions where Ijtihadi difference ex
 
 O you who have iman! You are accountable only for yourselves. It will not harm you if someone chooses to deviate—as long as you are guided. To Allah you will all return, and He will inform you of what you used to do.
 
-## AI Tafsir
-
-**Context:** These words of the verse, if looked at outwardly, sometimes are taken in the sense that it is enough for one to only take care of one's own conduct, and just correct it when necessary.
-
-**What this ayah teaches:** The return of you all is to Allah, then He will inform you about (all) that you used to do .
-
-**Classical tafsir:** Ibn Kathir notes: This tells us that, lexically, Ma` ruf signifies something well-recognized while Munkar refers to something unrecognized.
 ## Personal Reflections
-
 

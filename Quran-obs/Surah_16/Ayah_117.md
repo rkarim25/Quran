@@ -89,15 +89,5 @@ The restrictive particle: اَنَّمَا (innama: only) appearing in verse 115
 
 It is only a brief enjoyment, then they will suffer a painful punishment.
 
-## AI Tafsir
-
-**Context:** The restrictive particle: اَنَّمَا (innama: only) appearing in verse 115 seems to give the impression that things Haram are no more than the four mentioned in the verse.
-
-**What this ayah teaches:** It amounts to saying: Out of the things you have (arbitrarily) made out as Haram, only that which is really Haram is being mentioned here.
-
-**Classical tafsir:** Ibn Kathir notes: and then to Us will be their return, then We shall make them taste the severest torment because they disbelieved.)(10:69-70)
-
-**From the Sunnah:** It seems to be suggestive of nothing being Haram other than the things mentioned in the verse while the fact is that according to clarifications of the Qur'an and Sunnah and by the Consensus of the Muslim Ummah, there are many more things rated as Haram. (Sahih Muslim)
 ## Personal Reflections
-
 

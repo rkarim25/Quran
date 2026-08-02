@@ -121,13 +121,5 @@ Some injunctions and rulings come out from verses 67 and 68. These are given bel
 
 When they entered Joseph’s presence, he called his brother Benjamin aside, and confided to him, “I am indeed your brother Joseph! So do not feel distressed about what they have been doing.”
 
-## AI Tafsir
-
-**What this ayah teaches:** He comforted him and asked him not to worry about what their brothers have been doing until that time. Allah Ta’ ala would have not given him the permission to tell his father about himself - because he was yet to be tested once again through his separation from his son, Benyamin.
-
-**Classical tafsir:** Ibn Kathir notes: Allah Ta’ ala would have not given him the permission to tell his father about himself - because he was yet to be tested once again through his separation from his son, Benyamin.
-
-**From the Sunnah:** The ideal approach of a wise Muslim to whatever he does is that he must place his real trust in Allah Ta’ ala to begin with but, at the same time, he should not ignore physical and material means. (Sahih Muslim)
 ## Personal Reflections
-
 

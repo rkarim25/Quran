@@ -127,13 +127,5 @@ In verse 36, it was said: وَيُخَوِّفُونَكَ بِالَّذِين�
 
 who will be visited by a humiliating torment in this life and overwhelmed by an everlasting punishment in the next."
 
-## AI Tafsir
-
-**Context:** In the first verse (36), it was said: أَلَيْسَ اللَّـهُ بِكَافٍ عَبْدَهُ (Is Allah not sufficient for (the protection of) His slave?). This verse was revealed in the background of an event.
-
-**What this ayah teaches:** Is not Allah Almighty, Possessor of Retribution?) meaning, whoever relies on Him and turns to Him, will never be forsaken, for He is the Almighty Who cannot be overwhelmed by another, and there is none more severe than Him in exacting retribution on those who disbelieve in Him, associate others in worship with Him and resist His Messenger ﷺ.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

@@ -146,13 +146,5 @@ Thus Verse 23 describes the quality of Khushu' ('humbleness) while Verse 34 وَ
 
 and withholding when touched with good—
 
-## AI Tafsir
-
-**What this ayah teaches:** This verse describes the fickle nature of man.
-
-**Classical tafsir:** Ibn Kathir notes: It has also been said that the meaning here refers to those who perform a deed and are constant in its performance and consistent in it.
-
-**From the Sunnah:** This is like what is reported in the authentic Hadith, (authentic hadith)
 ## Personal Reflections
-
 

@@ -155,17 +155,5 @@ After mutual consultation, the Christians sent a delegation to the Holy Prophet 
 
 This is the truth from your Rabb, so do not be one of those who doubt.
 
-## AI Tafsir
-
-**Essence** The story of 'Isa told here is the very truth from your Lord, so let no shadow of doubt find a place in your heart.
-
-**What it teaches** After likening the creation of 'Isa to that of Adam (peace be upon them) — both formed by Allah's word "Be!" — Allah declares al-haqq min Rabbik, "the truth (is) from your Lord," and forbids being among al-mumtarin, the doubters or waverers. The address is to the Prophet ﷺ, but the lesson is for every believer: once the truth arrives from one's Rabb (the Lord who creates, sustains, and nurtures), certainty must replace all hesitation.
-
-**The scholars** Ibn Kathir explains that this is "the only true story about 'Isa, and what is beyond truth save falsehood?" The preceding parable settles the matter: He Who created Adam with neither father nor mother can surely create 'Isa without a father, so the claim that being fatherless makes 'Isa a son of Allah would befit Adam even more — and since that is plainly false, it is more false regarding 'Isa. Ibn Kathir adds that Allah's power is displayed in four modes of creation: Adam from neither parent, Hawwa' from a man without a woman, 'Isa from a mother without a father, and the rest of mankind from both. He notes that immediately after fixing this truth, Allah commands the Prophet ﷺ to summon those who still defy it to the Mubahalah (the mutual invoking of Allah's curse upon the liars). Both Ibn Kathir and Maarif ul Quran tie the verse to its occasion: a Christian delegation from Najran came to Madinah disputing about 'Isa — some calling him Allah, some a son of Allah, some one of a trinity — and Allah revealed these verses to refute them. Maarif ul Quran, citing Ibn Kathir, records that the Prophet ﷺ came out for the Mubahalah with Fatimah, 'Ali, and their sons Hasan and Husayn (may Allah be pleased with them), whereupon the Christians, acknowledging him as a true prophet, drew back and chose a treaty instead.
-
-**From the Sunnah** Al-Bukhari recorded from Hudhayfah that when Al-'Aqib and As-Sayyid of Najran came to invoke curses, one said to the other, "By Allah, if he were truly a Prophet and we invoke Allah for curses, we and our offspring shall never succeed afterwards" — so they refused the Mubahalah and asked for a trusted man, and the Prophet ﷺ sent Abu 'Ubaydah bin Al-Jarrah, saying, "This is the trustee of this Ummah." (Al-Bukhari) In a longer report closing with the Mubahalah, Imam Ahmad recorded from Ibn 'Abbas that the Prophet ﷺ said, "Had those who sought Mubahalah with the Messenger of Allah ﷺ went ahead with it, they would not have found estates or families when they returned home." Al-Bukhari, At-Tirmidhi, and An-Nasa'i also recorded it, and At-Tirmidhi graded it Hasan Sahih. (Imam Ahmad)
-
-**Reflection** When the truth has reached you from your Lord, hold to it without wavering — and do not, as the men of Najran did, dispute a prophethood you have already recognized.
 ## Personal Reflections
-
 

@@ -171,13 +171,5 @@ It means that in addition to their rejection of the Oneness of Allah, and their 
 
 But the hearts of those who reject the truth are oblivious to all of this, and they have other evil deeds, opposite to this, in which they are engrossed.
 
-## AI Tafsir
-
-**Context:** (from this.) means, the Qur'an which Allah revealed to His Messenger ﷺ. (In pride, talking evil about it by night.) refers to the arrogant pride which the Quraysh felt because they believed themselves to be the guardians…
-
-**What this ayah teaches:** In this verse the word means the ignorance in which the hearts of the infidels are submerged and hidden so that no light can reach them. And We task not any person except according to his capacity, and with Us is a Record which speaks the truth, and they will not be wronged (62)Nay, but their hearts are covered from this, and they have other deeds, besides which they are doing (63)Until when We se…
-
-**Classical tafsir:** Ibn Kathir notes: In this verse the word means the ignorance in which the hearts of the infidels are submerged and hidden so that no light can reach them.
 ## Personal Reflections
-
 

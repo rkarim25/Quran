@@ -222,13 +222,5 @@ Some commentators say that 'Iram' is the name of the 'paradise' which ` Ad's son
 
 The people of Iram, possessed of towering stature,
 
-## AI Tafsir
-
-**What this ayah teaches:** Some commentators say that 'Iram' is the name of the 'paradise' which ` Ad's son Shaddad had built.
-
-**Classical tafsir:** Ibn Kathir notes: Mujahid said, "Iram was an ancient nation who were the first people of 'Ad." Qatadah bin Di'amah and As-Suddi both said, "Verily, Iram refers to the House of the kingdom of 'Ad." This latter statement is good and strong. Ibn 'Abbas said, "They carved them and they hewed them." This was also said by Mujahid, Qatadah, Ad-Dahhak and Ibn Zayd.
-
-**From the Sunnah:** a narration from Jabir that Mu'adh prayed a prayer and a man came and joined him in the prayer. (Sunan an-Nasa'i) It is said, "Hajara Al-Hakim so-and-so (The judge passed a judgement preventing so-and-so)," when his judgement prevents the person from his liberty (i.e., of freely utilizing his wealth). (al-Mustadrak)
 ## Personal Reflections
-
 

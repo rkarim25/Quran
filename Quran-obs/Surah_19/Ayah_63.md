@@ -141,13 +141,5 @@ Some scholars have explained that mention of morning and the evening is a genera
 
 That is Paradise, which We grant to whoever among Our servants lives with taqwa.
 
-## AI Tafsir
-
-**What this ayah teaches:** Their sustenance will be brought out to them from Paradise, morning and evening.) Ahmad is the only one who collected this narration.
-
-**Classical tafsir:** Ibn Kathir notes: This means that these Gardens are from the unseen things that they believe in, even though they have never witnessed them.
-
-**From the Sunnah:** Paradise), but they will be living in times that alternate. (Musnad Ahmad) Paradise will have forms like the form of the moon on a night when it is full. (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
-
 

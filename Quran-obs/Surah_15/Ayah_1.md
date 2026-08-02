@@ -118,13 +118,5 @@ Finally, in the last verse (52), it was made clear that the description of condi
 
 Alif-Lam-Ra. These are the ayahs of the Book — the clear Quran.
 
-## AI Tafsir
-
-**What this ayah teaches:** Out of the narrations of Hadith reported on this subject, only some of them seem to indicate either a change in features only while others suggest a change of the thing itself. In other words, all this territory which now holds the population of the world will become the territory of Hell.
-
-**Classical tafsir:** Ibn Kathir notes: Out of the narrations of Hadith reported on this subject, only some of them seem to indicate either a change in features only while others suggest a change of the thing itself.
-
-**From the Sunnah:** How much would those who disbelieved wish that they had been Muslims.)(3. The those who reject the truth will someday wish that They had been Muslims
 ## Personal Reflections
-
 

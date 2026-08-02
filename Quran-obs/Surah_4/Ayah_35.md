@@ -168,11 +168,5 @@ It may be noted that by saying إِنَّ اللَّـهَ كَانَ عَلِي
 
 If you anticipate a split between them, appoint a mediator from his family and another from hers. If they desire reconciliation, Allah will restore harmony between them. Surely Allah is All-Knowing, All-Aware.
 
-## AI Tafsir
-
-**What this ayah teaches:** And if you come to the conclusion that matters cannot be set right between them or that they will not stay right later on, and both of you concur with the option that a separation between them is the expedient course, then do it.' When the woman heard this, she said: 'I accept this.
-
-**Classical tafsir:** Ibn Kathir notes: Although this Faruqi directive concerns disputes rising in between relatives, yet, the reason given in this directive (that is, court decisions tend to create hatred and hostility in hearts) is a reason which covers not only the relatives but non-relatives as well.
 ## Personal Reflections
-
 

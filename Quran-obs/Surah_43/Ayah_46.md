@@ -90,11 +90,5 @@ Incidents related to Sayyidna Musa (علیہ السلام) have been stated by t
 
 We sent Musa with Our signs to Pharaoh and his chiefs, and he said: "I am a messenger of the Rabb of all that exists."
 
-## AI Tafsir
-
-**What this ayah teaches:** Musa was sent with the Message of Tawhid to Fir'awn and His Chiefs Here Allah tells us about His servant and Messenger Musa, peace be upon him, and how He sent him to Fir'awn and his chiefs.
-
-**Classical tafsir:** Ibn Kathir notes: Invoke your Lord for us because of His promise to you.
 ## Personal Reflections
-
 

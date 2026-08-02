@@ -132,11 +132,5 @@ The expression: دَكَّاءَ (dakkaa'a - 98) used about the wall means what 
 
 until he reached a pass between two mountains. He found in front of them a people who could hardly understand his language.
 
-## AI Tafsir
-
-**What this ayah teaches:** But, they still attacked through the pass in between the two mountains and which was closed by Dhul-Qarnain.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

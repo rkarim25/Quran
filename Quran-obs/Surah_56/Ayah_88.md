@@ -148,13 +148,5 @@ This is the end of the Tafsir of Surat Al-Waqi'ah, all praise and thanks are due
 
 If the deceased is among those brought near to Allah,
 
-## AI Tafsir
-
-**What this ayah teaches:** Then, if he be of the Muqarrabin (88)Then Rawh, Rayhan and a Garden of Delights (89)And if he be of those on the right (90)Then Salam (peace) to you from those on the right (91)But if he be of the denying, the erring (92)Then for him is an entertainment with Hamim (93)And entry in Hellfire (94)Verily, this!
-
-**Classical tafsir:** Ibn Kathir notes: Abu Hazrah said that Rawh means: "Rest from the world." Sa'id bin Jubayr and As-Suddi said that it means to rejoice. Ibn 'Abbas, Mujahid and Sa'id bin Jubayr said that Rayhan means provisions.
-
-**From the Sunnah:** I heard him say, 'So-and-so narrated to me that he heard the Messenger of Allah ﷺ say, (Musnad Ahmad) This is the narration that Imam Ahmad collected; and in the Sahih, there is a Hadith with this meaning collected from 'A'ishah. (Musnad Ahmad)
 ## Personal Reflections
-
 

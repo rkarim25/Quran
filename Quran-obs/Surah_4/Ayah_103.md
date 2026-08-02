@@ -172,13 +172,5 @@ In this verse (102), mention has been made of both groups making one Raka'ah eac
 
 When the prayers are over, remember Allah—whether you are standing, sitting, or lying down. But when you are secure, establish regular prayers. Indeed, performing prayers is a duty on those who have iman at the appointed times.
 
-## AI Tafsir
-
-**What this ayah teaches:** When you have finished the Salah, remember Allah standing, sitting down, and on your sides, but when you are free from danger, perform the Salah. So, it is you, not they, who should be eager to fight so that you establish the Word of Allah and raise it high.
-
-**Classical tafsir:** Ibn Kathir notes: The concessions given in travel (In Islamic legal terminology, Safar means journey or travel; Qasr refers to the making of one's Salah short while in that status.
-
-**From the Sunnah:** Verse 102 mentions a special way of offering Sarah in a state where, due to the fear of enemy, all the Muslims cannot pray in a single congregation.
 ## Personal Reflections
-
 

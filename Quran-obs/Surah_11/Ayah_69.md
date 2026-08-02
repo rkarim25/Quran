@@ -211,11 +211,5 @@ This tells us a few things:
 
 And surely Our messenger-angels came to Abraham with good news of a son. They greeted him with, “Peace!” And he replied, “Peace be upon you!” Then it was not long before he brought them a fat, roasted calf.
 
-## AI Tafsir
-
-**What this ayah teaches:** Surely, He (Allah) is All-Praiseworthy, All-Glorious.
-
-**Classical tafsir:** Ibn Kathir notes: Surely, He (Allah) is All-Praiseworthy, All-Glorious.) This means that He is the Most Praiseworthy in all of His actions and statements.
 ## Personal Reflections
-
 

@@ -78,13 +78,5 @@ Ad-Dahhak said, "Meaning a death which is not followed by any life." Likewise sa
 
 which none will eat except the evildoers.'
 
-## AI Tafsir
-
-**What this ayah teaches:** None will eat it except the Khati'un.) meaning, there is no one today who can save him from the punishment of Allah, nor any close friend or intercessor whose request would be honored. The word ghislin with 'gh' bearing the kasrah [= i ] refers to the water with which the pus and blood of the wounds of the inmates of Hell will be washed.
-
-**Classical tafsir:** Ibn Kathir notes: Qatadah said, "It will be the worst food of the people of the Hellfire." Ar-Rabi' and Ad-Dahhak both said, "It (Ghislin) is a tree in Hell." Shabib bin Bishr reported from 'Ikrimah that Ibn 'Abbas said, 'Ghislin will be the blood and fluid that will flow from their flesh." 'Ali bin Abi Talhah report… The word ghislin with 'gh' bearing the kasrah [= i ] refers to the water with which the pus and bloo…
-
-**From the Sunnah:** And if it (the same drop of lead) were sent from the head of the…
 ## Personal Reflections
-
 

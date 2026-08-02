@@ -335,17 +335,5 @@ Then, there are lower degrees pertaining to the pious and the virtuous Muslims d
 
 When your Rabb said to the angels, "I am placing on earth a successive human authority," they said, "Will You place there one who spreads corruption and sheds blood while we glorify You and proclaim Your holiness?" He replied, "I know what you do not know."
 
-## AI Tafsir
-
-**Essence** Before creating man, Allah told the angels He would place a khalifah — a successive human authority — on earth, answering their wonder: "I know what you do not know."
-
-**What it teaches** Khalifah means generations succeeding one another. Their question was no objection — a humble plea to know the wisdom behind a creature who could do what they never would.
-
-**The scholars** Ibn Kathir: the good outweighs the harm — mankind yields Prophets, the truthful, martyrs, and scholars who act on their knowledge. Al-Qurtubi: the khalifah also judges and forbids injustice. Maarif ul-Quran: man's capacity for evil is exactly why earth needs a deputy — a being in whom good and evil mix, who conquers the evil in himself to seek his Creator's pleasure.
-
-**From the Sunnah** The angels ascend with the servants' deeds; Allah asks — while He knows best — "How did you leave My servants?" They reply, "We came to them while they were praying and left them while they were praying." (The Sahih)
-
-**Reflection** When His wisdom is hidden from you, answer as the angels did — keep glorifying Him, trusting He knows what you do not.
 ## Personal Reflections
-
 

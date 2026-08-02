@@ -136,11 +136,5 @@ The word نَّوَاصِي nawasi is the plural of نَاصِیۃُ nasiyah, an
 
 So which of your Rabb's favours will you both—humans and jinn—deny?
 
-## AI Tafsir
-
-**What this ayah teaches:** Then when the heaven is rent asunder, and it becomes Wardah like Dihan (37)Then which of the blessings of your Lord will you both deny (38)So, on that Day he will not be questioned about his sin, (neither) human nor Jinn (39)Then which of the blessings of your Lord will you both deny (40)The criminals will be known by their marks, and they will be seized by their foreheads and…
-
-**Classical tafsir:** Ibn Kathir notes: Al-Hasan and Qatadah said, "They will be known by their dark faces and their blue eyes." I say that this contrasts to the marks that will distinguish the believers, such as the light that will appear on the parts of the body that they used to wash while performing ablution.
 ## Personal Reflections
-
 

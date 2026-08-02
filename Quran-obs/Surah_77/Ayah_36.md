@@ -112,11 +112,5 @@ Then Allah says,
 
 nor will they be allowed to offer excuses.
 
-## AI Tafsir
-
-**What this ayah teaches:** Sometimes they will pass through a stage where it would be forbidden for them to speak or offer excuses; and at another stage they will be permitted. However, other verses of the Qur'an inform us that they will speak and will be permitted to offer excuses.
-
-**Classical tafsir:** Ibn Kathir notes: There is no discrepancy between the two verses, because there will be various stages on the Plain of Gathering (Mahshar) through which people will have to pass.
 ## Personal Reflections
-
 

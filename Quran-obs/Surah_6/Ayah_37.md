@@ -193,13 +193,5 @@ Based on these narrations of Hadith, the verse can be taken in its real sense, t
 
 They ask, “Why has no sign been sent down to him from his Rabb?” Say, “Allah certainly has the power to send down a sign”—though most of them do not know.
 
-## AI Tafsir
-
-**What this ayah teaches:** But, He decided out of His wisdom to delay that, because if He sends an Ayah of their liking and they still do not believe, this will hasten their punishment as with the previous nations.
-
-**Classical tafsir:** Ibn Kathir notes: But, He decided out of His wisdom to delay that, because if He sends an Ayah of their liking and they still do not believe, this will hasten their punishment as with the previous nations.
-
-**From the Sunnah:** And this was reported from the Prophet ﷺ in the Hadith about the Trumpet.
 ## Personal Reflections
-
 

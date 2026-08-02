@@ -123,11 +123,5 @@ The last few verses of this Surah Al-Mu'minun from verse 115 to verse 118 have s
 
 Whoever invokes, besides Allah, another god—for which they can have no proof—they will surely find their penalty with their Rabb. Indeed, those who reject the truth will never succeed.
 
-## AI Tafsir
-
-**What this ayah teaches:** And whoever invokes besides Allah, any other Allah, of whom he has no proof; then his reckoning is only with his Lord.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

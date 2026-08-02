@@ -137,11 +137,5 @@ Ruling: Qurtubi has said in his exegesis that this verse has made it clear that 
 
 We did not send messengers before you O Prophet except mere men inspired by Us. If you polytheists do not know this already, then ask those who have knowledge of the Scriptures.
 
-## AI Tafsir
-
-**What this ayah teaches:** This is a part of the perfect blessing of Allah towards His creation: He sent to them Messengers from among themselves so that they could receive the Message from them and learn from them. Therefore, what it actually means is that if you are not aware whether the prophets of the past were angels or ordinary men then you should find out from the scholars of Injil and Torah as they know perfectly we…
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, what it actually means is that if you are not aware whether the prophets of the past were angels or ordinary men then you should find out from the scholars of Injil and Torah as they know perfectly well that all prophets were human beings.
 ## Personal Reflections
-
 

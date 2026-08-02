@@ -104,11 +104,5 @@ First of all, by using the word: رَبّ (Rabb: Lord) here, the hint given is t
 
 Then as soon as He removes the hardship from you, a group of you associates others with their Rabb in worship,.
 
-## AI Tafsir
-
-**What this ayah teaches:** Allah Alone is Deserving of Worship Allah tells us that there is no Allah but He, and that no one else should be worshipped except Him, alone, without partners, for He is the Sovereign, Creator, and Lord of all things.
-
-**Classical tafsir:** Ibn Kathir notes: It was also reported that Ibn 'Abbas said, "It means obligatory." Mujahid said: "It means purely for Him," i.e., worship is due to Him Alone, from whoever is in the heavens and on earth.
 ## Personal Reflections
-
 

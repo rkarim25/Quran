@@ -106,11 +106,5 @@ Sayyidna Salih (علیہ السلام) warned them: If Allah Ta` ala shows you y
 
 When Our command came, We rescued Hûd and those who believed with him by a mercy from Us, saving them from a harsh torment.
 
-## AI Tafsir
-
-**What this ayah teaches:** There is no difference between any one of them, in the sense that it is necessary to believe in all of them.
-
-**Classical tafsir:** Ibn Kathir notes: They rejected the Ayat of their Lord) This means they disbelieved in the proofs and revelations (of Allah) and they disobeyed the Messengers of Allah.
 ## Personal Reflections
-
 

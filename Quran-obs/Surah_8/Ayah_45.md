@@ -126,13 +126,5 @@ One method of remembering Allah on the battlefield is what we generally recogniz
 
 O you who have iman: when you meet a force, stand firm and remember Allah much, so you may succeed.
 
-## AI Tafsir
-
-**What this ayah teaches:** 2.Remember Allah The second principle is the Dhikr of Allah which is a weapon in its own right, special and spiritual, something known to Muslims only and not known to or neglected by the rest of the world.
-
-**Classical tafsir:** Ibn Kathir notes: When you meet (an enemy) force, take a firm stand against them and remember Allah much, so that you may be successful (45)And obey Allah and His Messenger, and do not dispute (with one another) lest you lose courage and your strength departs, and be patient.
-
-**From the Sunnah:** Muslims are not allowed to run or shy away, or show cowardice in battle. Given in the first two verses cited above is a special set of instructions for Muslims when they confront enemies on the battlefield.
 ## Personal Reflections
-
 

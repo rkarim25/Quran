@@ -176,13 +176,5 @@ Towards the end of the verse, it was said: وَلَا يَدْخُلُونَ ا�
 
 Surely those who receive our revelations with denial and arrogance, the gates of heaven will not be opened for them, nor will they enter Paradise until a camel passes through the eye of a needle. This is how We reward the wicked.
 
-## AI Tafsir
-
-**What this ayah teaches:** The sense of the verse is that the camel is a big animal and its entry into the eye of a needle is functionally impossible.
-
-**Classical tafsir:** Ibn Kathir notes: Mujahid and 'Ikrimah said that Ibn 'Abbas used to recite this Ayah this way, "Until the Jummal goes through the eye of the needle", whereas 'Jummal' is a thick rope.
-
-**From the Sunnah:** 'Ata' narrated this from Ibn 'Abbas. This is a part of a long Hadith which was also recorded by Abu Dawud, An-Nasa'i and Ibn Majah. (Sunan Abi Dawud, Sunan Ibn Majah)
 ## Personal Reflections
-
 

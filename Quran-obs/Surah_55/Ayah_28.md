@@ -82,13 +82,5 @@ Other exegetes have interpreted the phrases وَجْهُ رَ‌بِّكَ 'your
 
 So which of your Rabb's favours will you both—humans and jinn—deny?
 
-## AI Tafsir
-
-**What this ayah teaches:** Whatsoever is on it (the earth) will perish (26)And the Face of your Lord Dhul-Jalal wal-Ikram will remain forever (27)Then which of the blessings of your Lord will you both deny (28)Whosoever is in the heavens and on the earth begs of Him.
-
-**Classical tafsir:** Ibn Kathir notes: Qatadah said, "First, Allah mentioned His creatures and then He said that all of this will perish." And in the reported supplication: 'O You the Ever Living Who sustains all that exists! The phrase 'what is with you' refers to 'wealth and power, comfort and discomfort, love and hatred'.
-
-**From the Sunnah:** The attached second person pronoun in rabb-i-ka [=your Lord ] refers to the Messenger of Allah ﷺ . : اَلِظُّوا بِیَا ذَا الجَلَال وَالاِکرَام (Persist [ in invoking Allah ] with '0 Lord of Majesty and Honour'. (Jami' at-Tirmidhi, Sunan an-Nasa'i)
 ## Personal Reflections
-
 

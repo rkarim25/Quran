@@ -130,13 +130,5 @@ The word: قَذف (qadhf) in verse 53: وَقَدْ كَفَرُ‌وا بِه�
 
 They had already rejected it before, guessing blindly from an equally distant place.
 
-## AI Tafsir
-
-**What this ayah teaches:** If they had believed in this world, that would have been good for them, but now they have entered the Hereafter, there is no way that their faith can be accepted, just as there is no way a person can get a thing if he is far away from it.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** It is also the opinion of Al-Bukhari and the Group. (Sahih al-Bukhari)
 ## Personal Reflections
-
 

@@ -165,11 +165,5 @@ In the second example, there is a man who bids justice and teaches what is good.
 
 And Allah sets forth a parable of two men: one of them is dumb, incapable of anything. He is a burden on his master. Wherever he is sent, he brings no good. Can such a person be equal to the one who commands justice and is on the Sirat al-Mustaqim — the way of living that pleases Allah?
 
-## AI Tafsir
-
-**What this ayah teaches:** And Allah gives an example of two men, one of them dumb, who has no power over anything, and he is a burden on his master; whichever way he directs him, he brings no good.
-
-**Classical tafsir:** Ibn Kathir notes: Another Example Mujahid said, "This also refers to idols and the True Allah, may He be exalted." Meaning that the idol is dumb and cannot speak or say anything, good or otherwise.
 ## Personal Reflections
-
 

@@ -162,11 +162,5 @@ This tells us that saying:.. بسم اللہ (bismillah: With the name of Allah)
 
 She wondered, “Oh, my! How can I have a child in this old age, and my husband here is an old man? This is truly an astonishing thing!”
 
-## AI Tafsir
-
-**What this ayah teaches:** So do not be amazed at this, even though you are old and barren and your husband is a very old man.
-
-**Classical tafsir:** Ibn Kathir notes: Surely, He (Allah) is All-Praiseworthy, All-Glorious.) This means that He is the Most Praiseworthy in all of His actions and statements.
 ## Personal Reflections
-
 

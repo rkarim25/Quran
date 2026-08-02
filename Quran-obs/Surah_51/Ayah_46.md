@@ -135,11 +135,5 @@ After this, the stories of the people of ` Ad, Thamud and Nuh (علیہم الس
 
 And the people of Noah before them—they were a rebellious people.
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, they were a people who were rebellious .
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

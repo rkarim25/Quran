@@ -203,11 +203,5 @@ The reason lies in pondering that Allah Ta` ala did create Sayyidna Adam (علی
 
 The Jews and the Christians each say, “We are the children of Allah and His most beloved!” Say, “Why then does He punish you for your sins? No! You are only humans like others of His Own making. He forgives whoever He wills and punishes whoever He wills. To Allah belongs the kingdom of the heavens and the earth and everything in between. And to Him is the final return.”
 
-## AI Tafsir
-
-**What this ayah teaches:** And Allah is able to do all things (17)And the Jews and the Christians say: "We are the children of Allah and His loved ones." Say: "Why then does He punish you for your sins?" Nay, you are but human beings of those He has created, He forgives whom He wills and He punishes whom He wills.
-
-**Classical tafsir:** Ibn Kathir notes: Some of the People of the Book who later became Muslims refuted this false statement saying, "This statement only indicates honor and respect, as is common in their speech at that time." The Christians claim that 'Isa said to them, "I will go back to my father and your father," m…
 ## Personal Reflections
-
 

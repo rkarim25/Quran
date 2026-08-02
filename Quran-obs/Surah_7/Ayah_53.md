@@ -242,11 +242,5 @@ Explaining this, Sayyidna ` Abdullah ibn ` Abbas ؓ says: When the questions and
 
 Do they only await the fulfilment ? The Day it will be fulfilled, those who ignored it before will say, “The messengers of our Rabb certainly came with the truth. Are there any intercessors who can plead on our behalf? Or can we be sent back so we may do unlike what we used to do?” They will have certainly ruined themselves, and whatever they fabricated will fail them.
 
-## AI Tafsir
-
-**What this ayah teaches:** Certainly, We have brought to them a Book (the Qur'an) which We have explained in detail with knowledge, a guidance and a mercy to a people who believe (52)Await they just for the final fulfillment of the event? But if they were returned (to the world), they would certainly revert to that which they were forbidden.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

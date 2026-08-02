@@ -115,13 +115,5 @@ These are the people of the Prophet Salih (علیہ السلام) whose story ha
 
 Before them, the people of Noah denied the truth, as did the people of the Well, Thamud,
 
-## AI Tafsir
-
-**What this ayah teaches:** Denied before them the people of Nuh, and the Dwellers of Rass, and Thamud (12)And 'Ad, and Fir'awn, and the brethren of Lut (13)And the Dwellers of Al-Aykah, and the people of Tubba'. Therefore, all those who fear suffering the same end should be warned, especially since the latter have denied their Messenger, just as the former denied their Messenger.
-
-**Classical tafsir:** Ibn Kathir notes: Most prominently it refers to a well that has not been built by bricks or stones.
-
-**From the Sunnah:** We mentioned earlier a Hadith collected in the Sahih,
 ## Personal Reflections
-
 

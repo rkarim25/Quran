@@ -124,11 +124,5 @@ The event relating to the people of ` Ad and Sayyidna Hud (علیہ السلام
 
 O my people! I do not ask you for any reward for this message. My reward is only from the One Who created me. Will you not then understand?
 
-## AI Tafsir
-
-**What this ayah teaches:** My reward is only from Him Who created me.
-
-**Classical tafsir:** Ibn Kathir notes: Now, just because what you are saying, we are not going to leave our gods we worship and, in you, we are not going to believe.
 ## Personal Reflections
-
 

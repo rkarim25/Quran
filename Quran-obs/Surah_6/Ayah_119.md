@@ -182,13 +182,5 @@ Similarly, the words " مَّا ذُكِرَ‌ اسْمُ اللَّـهِ عَ
 
 Why should you not eat of what is slaughtered in Allah’s Name when He has already explained to you what He has forbidden to you—except when compelled by necessity? Many certainly mislead others by their whims out of ignorance. Surely your Rabb knows the transgressors best.
 
-## AI Tafsir
-
-**What this ayah teaches:** Allowing What was Slaughtered in the Name of Allah This is a statement of permission from Allah, for His servants, allowing them to eat the slaughtered animals werein His Name was mentioned when slaughtering them.
-
-**Classical tafsir:** Ibn Kathir notes: Allowing What was Slaughtered in the Name of Allah This is a statement of permission from Allah, for His servants, allowing them to eat the slaughtered animals werein His Name was mentioned when slaughtering them.
-
-**From the Sunnah:** The event is that those who reject the truth tried to put Muslims in doubt by commenting that they did not eat of the animals killed by Allah (i.e.
 ## Personal Reflections
-
 

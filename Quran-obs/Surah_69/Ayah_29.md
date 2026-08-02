@@ -76,11 +76,5 @@ The word sultan also stands for 'authority, proof or argument' in which case it 
 
 My authority has been stripped from me.'
 
-## AI Tafsir
-
-**What this ayah teaches:** The word sultan, literally, yields the sense of 'power or overpowering'. The word sultan also stands for 'authority, proof or argument' in which case it would mean: 'Today I have no argument in favour of protecting myself against punishment'.
-
-**Classical tafsir:** Ibn Kathir notes: Qatadah said, "It will be the worst food of the people of the Hellfire." Ar-Rabi' and Ad-Dahhak both said, "It (Ghislin) is a tree in Hell." Shabib bin Bishr reported from 'Ikrimah that Ibn 'Abbas said, 'Ghislin will be the blood and fluid that will flow from their flesh." 'Ali bin Abi Talhah report…
 ## Personal Reflections
-
 

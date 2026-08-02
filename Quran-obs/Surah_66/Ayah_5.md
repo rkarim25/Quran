@@ -258,11 +258,5 @@ The wife mentioned here was Umm Salamah, and she is the one who advised 'Umar to
 
 Perhaps if he divorced you all, his Lord would replace you with better wives: submissive to Allah, faithful, devout, repentant, dedicated to worship and fasting—whether previously married or not.
 
-## AI Tafsir
-
-**Context:** In another narration collected from 'Ubayd bin 'Umayr, from 'A'ishah, it was Zaynab bint Jahsh who gave the honey to the Prophet ﷺ, while 'A'ishah and Hafsah were the plotters. Allah knows best.
-
-**What this ayah teaches:** Therefore, do not inform anybody about it.) Al-Bukhari also recorded this Hadith in the Book of Divorce; then he said, "Al-Maghafir is a type of sap, and in Ar-Rimth (a type of citrus) its taste is sweet..." Al-Jawhari said, "The 'Urfut is a tree of the shrub variety, which secretes Maghfur." Muslim collected this Hadith from 'A'ishah in the Book of Divorce in his Sahih, and hi…
 ## Personal Reflections
-
 

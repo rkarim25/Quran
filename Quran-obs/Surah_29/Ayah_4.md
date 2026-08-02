@@ -114,11 +114,5 @@ Hakim-ul-Ummah Thanawi (رح) has copied the argument of his Shaikh, Maulana Muh
 
 Do the wrongdoers think they will escape Us? How corrupt is their judgment.
 
-## AI Tafsir
-
-**What this ayah teaches:** Evil is that which they judge!) The Believers are tested so that it may be known Who is Sincere and Who is Lying In the beginning of the Tafsir of Surat Al-Baqarah, we discussed the letters which appear at the beginning of some Surahs.
-
-**Classical tafsir:** Ibn Kathir notes: It means that through tests and hardships the good and the bad, and the sincere and non-sincere will be differentiated, because if the hypocrites are mixed up with the sincere believers and are not identified, it may create a number of problems.
 ## Personal Reflections
-
 

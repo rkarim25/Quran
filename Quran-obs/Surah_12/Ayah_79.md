@@ -100,11 +100,5 @@ The reason he gave was that they had themselves said that ` he, in whose baggage
 
 Joseph responded, “Allah forbid that we should take other than the one with whom we found our property. Otherwise, we would surely be unjust.”
 
-## AI Tafsir
-
-**What this ayah teaches:** In fact, if they were to arrest someone other than the person from whose possession the lost property has been recovered, then, according to their own fatwa and ruling, they would be accused of being unjust.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

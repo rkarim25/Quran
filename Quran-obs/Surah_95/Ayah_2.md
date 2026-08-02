@@ -108,13 +108,5 @@ Commentary
 
 And Mount Sinai—where Allah spoke to Musa—
 
-## AI Tafsir
-
-**What this ayah teaches:** The second place is Mount Sinin, which is Mount Sinai where Allah spoke to Musa bin 'Imran.
-
-**Classical tafsir:** Ibn Kathir notes: 'Peaceful City' refers to Makkah, the birthplace and residence of the Final Messenger of Allah ﷺ .
-
-**From the Sunnah:** Malik and Shu'bah narrated from 'Adi bin Thabit, who narrated that Al-Bara' bin 'Azib said, "The Prophet ﷺ used to recite in one of his Rak'ahs while traveling 'At-Tin waz-Zaytun' (Surat At-Tin), and I have never heard anyone with a nicer voice or recitation t… 'Peaceful City' refers to Makkah, the birthplace and residence of the Final Messenger of Allah ﷺ .
 ## Personal Reflections
-
 

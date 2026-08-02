@@ -146,11 +146,5 @@ This verse proves that it is not possible to know the exact reality of Allah's B
 
 He replied, “My Rabb! I fear that they will reject me.
 
-## AI Tafsir
-
-**What this ayah teaches:** It leads to the principle that so far as the objective is to obey Allah's command, praying for some helping resources cannot be regarded as seeking ruses and excuses to escape from the required act.
-
-**Classical tafsir:** Ibn Kathir notes: But the word is also used for 'unawareness' (which includes unintentional mistakes) It is this meaning that is intended here.
 ## Personal Reflections
-
 

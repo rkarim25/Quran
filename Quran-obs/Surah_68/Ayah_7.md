@@ -192,13 +192,5 @@ Thus, the entire statement means, 'so you will know and they will know,' or 'you
 
 Your Lord alone knows best who has strayed from His Way and who is rightly guided.
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, your Lord is the best Knower of him who has gone astray from His path, and He is the best Knower of those who are guided.) We have already discussed the special letters of the Arabic alphabet at the beginning of Surat Al-Baqarah.
-
-**Classical tafsir:** Ibn Kathir notes: This means that he would act according to the commands and the prohibition in the Qur'an.
-
-**From the Sunnah:** This Hadith has been recorded by Imam Ahmad through various routes of transmission. (Musnad Ahmad, Jami' at-Tirmidhi) "It has been mentioned to us that Sa'd bin Hisham asked 'A'ishah about the character of the Messenger of Allah ﷺ, so she replied: 'Have you not read the Qur'an?' Sa'd said: 'Of course.' Then she said: 'Verily, the character of the Messenger of Allah ﷺ was the… (Sahih Muslim)
 ## Personal Reflections
-
 

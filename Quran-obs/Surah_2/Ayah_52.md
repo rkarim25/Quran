@@ -78,15 +78,5 @@ The Israelites were forgiven only when they had offered Taubah توبہ (repenta
 
 Even then We forgave you, so that you might show shukr — gratitude in word and action.
 
-## AI Tafsir
-
-**Essence** Even after the calf, Allah pardoned the people of Musa — 'afawna, "We pardoned you" — so that they might show shukr.
-
-**What it teaches** The pardon followed their taking the calf for worship in Musa's absence — for which 2:51 names them Zalimun, wrongdoers. Pardon after such a wrong is itself a favor to be remembered, and its stated aim is shukr: gratitude in word and action.
-
-**The scholars** Ibn Kathir: it came after the forty nights appointed for Musa by his Lord — thirty completed with ten (7:142) — and after Allah delivered Israel from Fir'awn and brought them safely across the sea. Maarif ul-Quran adds two keys: forgiveness came only after their tawbah, recounted in verse 54; and la'alla ("so that you may") signals expectation, never any doubt in Allah — when a man receives a pardon, the onlookers may expect him to feel grateful.
-
-**Reflection** Receive every pardon — divine or human — as a summons to thank the One who effaces faults.
 ## Personal Reflections
-
 

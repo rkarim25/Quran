@@ -112,13 +112,5 @@ It made it clear that their excuse was unacceptable. Therefore, they were served
 
 Some nomadic Arabs came with excuses, seeking exemption. And those who were untrue to Allah and His Messenger remained behind. The unfaithful among them will be afflicted with a painful punishment.
 
-## AI Tafsir
-
-**Context:** When the Holy Prophet ﷺ allowed Jadd ibn Qays that he may not go on Jihad,' says Sayyidna Jabir ibn ` Abdullah ؓ ، ` some hypocrites also came to him, offered their excuses and sought his permission to stay out of Jihad.…
-
-**What this ayah teaches:** And those who made excuses from the bedouins came asking your permission to exempt them (from the battle), and those who had lied to Allah and His Messenger sat at home (without asking the permission for it); a painful torment will seize those of them who disbelieve .
-
-**Classical tafsir:** Ibn Kathir notes: As for the permission, he let them have it, but he did realize that they were making false excuses, therefore, he turned away from them.
 ## Personal Reflections
-
 

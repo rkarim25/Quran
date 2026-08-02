@@ -130,11 +130,5 @@ Thus these attributes being only habitual, they can be changed whenever God so w
 
 He rebuked them, “Do you then worship—instead of Allah—what can neither benefit nor harm you in any way?
 
-## AI Tafsir
-
-**What this ayah teaches:** One of them is that his statement is in the nature of an assumption i.e.
-
-**Classical tafsir:** Ibn Kathir notes: This is called tauriyah (dissembling) where the words used may be interpreted differently, so that the listener understands them one way whereas the speaker means something else.
 ## Personal Reflections
-
 

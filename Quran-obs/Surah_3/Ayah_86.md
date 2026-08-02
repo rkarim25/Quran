@@ -150,22 +150,5 @@ The answer is that the withholding of guidance mentioned here is in accordance w
 
 How will Allah guide a people who chose to reject the truth after they had believed, acknowledged the Messenger to be true, and received clear proofs? For Allah does not guide the wrongdoing people.
 
-## AI Tafsir
-
-**Essence**
-Guidance is forfeited not by ignorance but by knowingly turning away from a truth one has already seen and confirmed — yet even that door is reopened by sincere repentance.
-
-**What it teaches**
-Allah poses a searching rhetorical question — "How shall Allah guide" (kayfa yahdi) — about people who disbelieved (kafaru) after their belief (iman), after they had borne witness (shahidu) that the Messenger is true, and after the clear proofs (al-bayyinat) had reached them. The point is that they sank into the darkness of polytheism with their eyes open, so they fall under "the wrongdoers" (al-zalimin) — those who wronged themselves by trading certainty for blindness.
-
-**The scholars**
-Ibn Kathir explains that the proofs and evidences had been firmly established, testifying to the truth of what the Messenger ﷺ was sent with; the truth was made plain to them, yet they reverted — so how could such people deserve guidance after they willingly leapt into utter blindness? Maarif ul Quran (citing Bayan al-Qur'an) removes a doubt the verse might raise: it does not mean an apostate can never be guided again, for many do return to faith. Rather, the withholding of guidance here follows common usage — as one might say of a criminal, "Why should we give special treatment to such a person?", meaning no such favor is warranted in his present state, not that he could never deserve it if he reformed. Ibn Kathir adds that the following verses pronounce the curse of Allah, the angels, and all mankind upon such people, with a torment neither lightened nor delayed or postponed — yet then comes the exception, "Except those who repent and do righteous deeds," which he says shows Allah's kindness, graciousness, compassion, mercy, and favor toward His creatures when they turn back to Him.
-
-**From the Sunnah**
-Ibn Jarir recorded on the authority of Ibn 'Abbas that a man of the Ansar embraced Islam, then reverted and joined the polytheists; afterward he grew sorrowful and sent his people to ask the Prophet ﷺ whether his repentance would be accepted — and this passage was revealed, ending with "Verily, Allah is Oft-Forgiving, Most Merciful," after which he re-embraced Islam. This wording is that of Sunan an-Nasa'i, al-Mustadrak, and Ibn Hibban, and al-Hakim graded its chain Sahih.
-
-**Reflection**
-Guard the certainty Allah has shown you, and never imagine your sins place you beyond His mercy — the same verse that warns the wilful rejecter holds open the door of return.
 ## Personal Reflections
-
 

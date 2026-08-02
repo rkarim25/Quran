@@ -198,11 +198,5 @@ Whether or not the ` Ma'idah' (food-spread) came down from the heaven is somethi
 
 Jesus, son of Mary, prayed, “O Allah, our Rabb! Send us from heaven a table spread with food as a feast for us—the first and last of us—and as a sign from You. Provide for us! You are indeed the Best Provider.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Can your Lord send down to us a Ma'idah from heaven) The Ma'idah is the table that has food on it.
-
-**Classical tafsir:** Ibn Kathir notes: Some scholars said that the disciples requested this table because they were poor and deprived.
 ## Personal Reflections
-
 

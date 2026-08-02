@@ -94,11 +94,5 @@ And these disbelievers (of Makkah) said to the Holy Prophet ﷺ : "0 you to whom
 
 We do not send the angels down except for a just cause, and then the end of those who reject the truth will not be delayed.
 
-## AI Tafsir
-
-**What this ayah teaches:** e., those who deny the Day of Resurrection and the life of the Hereafter), say: "Why are not the angels sent down to us, or why do we not see our Lord?" Indeed they think too highly of themselves, and are scornful with great pride.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

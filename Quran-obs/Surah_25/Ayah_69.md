@@ -151,13 +151,5 @@ Ibn Kathir has given another explanation for conversion of sins into virtues. He
 
 Their punishment will be multiplied on the Day of Judgment, and they will remain in it forever, in disgrace.
 
-## AI Tafsir
-
-**Context:** (And whoever kills a believer intentionally)(4:93), because even though this was revealed in Al-Madinah, the meaning is general, and it could be interpreted to refer to one who does not repent, because this Ayah states t…
-
-**What this ayah teaches:** As-Suddi said that Athama referred to punishment, which is closer to the apparent meaning of the Ayah.
-
-**Classical tafsir:** Ibn Kathir notes: As-Suddi said that Athama referred to punishment, which is closer to the apparent meaning of the Ayah.
 ## Personal Reflections
-
 

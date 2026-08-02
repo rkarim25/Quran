@@ -266,13 +266,5 @@ Right from here we learn that there is no shortage of ignorant and misguided Suf
 
 There they found a servant of Ours, to whom We had granted mercy from Us and enlightened with knowledge of Our Own.
 
-## AI Tafsir
-
-**Context:** (Musa got up to deliver a speech before the Children of Israel and he was asked, "Who is the most learned person among the people?" Musa replied, "I am." Allah rebuked him because he did not refer the knowledge to Allah.…
-
-**What this ayah teaches:** Al-Khidr said to Musa, "My knowledge and your knowledge, in comparison to Allah's knowledge, is like what this bird has taken out of the sea." Then they both disembarked from the boat, and while they were walking on the shore, Al-Khidr saw a boy playing with other boys.
-
-**Classical tafsir:** Ibn Kathir notes: Ibn Jarir (may Allah have mercy on him) said, "Some of the scholars of the Arabic language said that Huqub means a year in the dialect of [the tribe of] Qays," then he narrated that 'Abdullah bin 'Amr said, "Huqub means eighty years." Mujahid said, "Seventy years." 'Ali bin Abi Talhah reported that…
 ## Personal Reflections
-
 

@@ -243,15 +243,5 @@ Whoever has any of this (wealth) in his hands should make it serve him well for 
 
 Do not entrust the incapable with your wealth which Allah has made a means of support for you—but feed and clothe them from it, and speak to them kindly.
 
-## AI Tafsir
-
-**Context:** (And whoever among guardians is rich, he should take no wages, but if he is poor, let him have for himself what is just and reasonable.) was revealed about the guardian of the orphan and pertains to whatever work he does…
-
-**What this ayah teaches:** And whoever among guardians is rich, he should take no wages, but if he is poor, let him have for himself what is just and reasonable (according to his work).
-
-**Classical tafsir:** Ibn Kathir notes: Similar was also said by Ibn Mas'ud, Al-Hakam bin 'Uyaynah, Al-Hasan and Ad-Dahhak: "Women and boys." Sa'id bin Jubayr said that 'the unwise' refers to the orphans.
-
-**From the Sunnah:** Whosoever is killed while protecting his property is a shah id (that is, he is counted among Muslim martyrs in terms of Divine reward).
 ## Personal Reflections
-
 

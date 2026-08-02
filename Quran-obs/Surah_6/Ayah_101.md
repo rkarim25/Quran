@@ -121,11 +121,5 @@ The contents of this verse present a unique concern for thematic order. It will 
 
 The Originator of the heavens and earth. How could He have children when He has no mate? He created all things and has knowledge of everything.
 
-## AI Tafsir
-
-**What this ayah teaches:** He created all things and He is the All-Knower of everything .
-
-**Classical tafsir:** Ibn Kathir notes: This is why the word for innovation - Bid'ah - comes from it, because it is something that did not have a precedence.
 ## Personal Reflections
-
 

@@ -111,13 +111,5 @@ So, let us keep in mind that all sins are forgiven following Hijrah (Emigration)
 
 It is only a brief enjoyment. Then Hell will be their home—what an evil place to rest!
 
-## AI Tafsir
-
-**What this ayah teaches:** Let not the free disposal (and affluence) of the those who reject the truth throughout the land deceive you (196)A brief enjoyment; then their ultimate abode is Hell; and worst indeed is that place for rest (197)But, for those who have Taqwa of their Lord, are Gardens under which rivers flow (in Paradise); therein are they to dwell, an entertainment from Allah; and that which is with Allah i…
-
-**Classical tafsir:** Ibn Kathir notes: We postpone the punishment only so that they may increase in sinfulness.
-
-**From the Sunnah:** In the second and third verses (196-197), Muslims have been instructed not to be deceived by the apparent affluence and worldwide maneuvering of those who reject the truth for this is transitory and the punishment which follows in its wake is eternal. Paradise for Muslims who always keep fearing Allah.
 ## Personal Reflections
-
 

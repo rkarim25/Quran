@@ -171,27 +171,5 @@ Providing compensatory benefits (` mata متاع `) for divorced women has also 
 
 Thus Allah makes His signs clear to you, so you may understand.
 
-## AI Tafsir
-
-**Essence**
-
-Verse 242 is not itself a new ruling but the seal upon the preceding ones: having laid out the law of widowhood and divorce, Allah declares that He makes His Ayat clear so the believing mind may grasp them and live by them with understanding.
-
-**What it teaches**
-
-*Kadhalika yubayyinu Llahu lakum ayatihi* — "Thus Allah makes clear His Ayat to you" — means, as Ibn Kathir explains, that what Allah allows, forbids and requires, His set limits (*hudud*), His commandments and His prohibitions, are all explained and made plain and clear, and "He did not leave any matter in general terms if you needed the specifics." The closing *la'allakum ta'qilun*, he adds, means simply "that you may understand and comprehend."
-
-**The scholars**
-
-This verse closes a sequence whose substance lies in the verses before it, and the commentators read it in that light. On the divorced woman's *mata'* (compensatory gift) of 2:241, Ibn Kathir reports that 'Abdur-Rahman bin Zayd bin Aslam noted that when the gift was first called "a duty on the doers of good" (2:236), a man said, "If I want, I will be excellent and if I do not, I will not" — so Allah revealed that it is "a duty on Al-Muttaqin (the pious)" (2:241), binding it upon piety itself. On the strength of this, Sa'id bin Jubayr, several others among the Salaf, and Ibn Jarir ruled the *mata'* obligatory for every divorced woman, whether her dower was fixed or not and whether the marriage was consummated or not.
-
-Maarif ul Quran, also on 2:241, shows what its "universally applicable words" cover by tracing three senses of *mata'*: if it means the dower, payment is obligatory — the full dower where one was fixed, or the *mahr al-mithl* (equivalent dower) where none was; if it means a particular gift such as a set of clothes, that is obligatory only for the woman divorced before consummation and merely *mustahabb* (desirable) otherwise; and if it means maintenance (*nafaqah*), it is obligatory until the *'iddah* expires, whether the divorce was revocable (*raj'i*) or irrevocable (*ba'in*). By such words, Maarif concludes, the verse covers every situation.
-
-It is upon this clarified law — nothing left vague where specifics were needed — that 2:242 then sets its seal.
-
-**Reflection**
-
-Meet Allah's clarity with the faculty He named: receive His law not as a weight to bear but as light made plain, and bring to it a mind that seeks to understand and comprehend what He has set down.
 ## Personal Reflections
-
 

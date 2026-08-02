@@ -93,15 +93,5 @@ The phrase, "The Truth is from your Lord", can also be interpreted in a general 
 
 This is truth from your Rabb — so do not be among those who doubt.
 
-## AI Tafsir
-
-**Essence** The message Muhammad ﷺ brought is the truth from your Lord, so let not a shadow of doubt enter your heart.
-
-**What it teaches** Allah affirms that what His Messenger ﷺ came with — including the appointing of the Ka'bah as the qiblah — is al-haqq, settled truth straight "from your Lord," not human conjecture; the prohibition "fala takunanna" warns the believer never to be among al-mumtarin, the doubters who waver. Read more broadly, the verse defines truth itself: that alone is truth which comes from Allah.
-
-**The scholars** Ibn Kathir explains the preceding context: the scholars of the People of the Scripture recognized the truth of the Prophet ﷺ "just as one of them knows his own child" — a parable the Arabs use for what is utterly obvious — yet a party of them deliberately concealed it though they knew. He cites Al-Qurtubi's narration that when 'Umar asked 'Abdullah bin Salam (an Israelite scholar who embraced Islam) whether he recognized Muhammad ﷺ as he recognized his own son, he answered, "Yes, and even more," for "the Honest One descended from heaven on the Honest One on the earth with his description." Having exposed their dishonesty, Allah then "strengthens the resolve of His Prophet ﷺ and the believers." Maarif ul Quran adds that the Torah and Injil had foretold the Prophet ﷺ with clear signs, so their denial out of sheer obstinacy was as dishonest as a father refusing to recognize his own son; and that one who grasps that truth comes only from Allah is placed beyond doubt about any revelation Allah sends to a prophet.
-
-**Reflection** Let the certainty of others — even those who knowingly turned away — never unsettle your own; the worth of this truth rests on its Source, not on how many around you receive it.
 ## Personal Reflections
-
 

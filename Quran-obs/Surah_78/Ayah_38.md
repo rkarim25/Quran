@@ -233,11 +233,5 @@ This is the end of the Tafsir of Surat An-Naba'. And all praise and thanks are d
 
 except those the Rahman permits—angels and the holy spirit standing in ranks, speaking only what is true.
 
-## AI Tafsir
-
-**What this ayah teaches:** They will not speak, except the one who is permitted by the Rahman [ the All-Merciful ] and speaks aright -78:38).
-
-**Classical tafsir:** Ibn Kathir notes: He explains that He is the ar-Rahman, Whose mercy covers all things.
 ## Personal Reflections
-
 

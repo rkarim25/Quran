@@ -198,15 +198,5 @@ Finally, some fighting men from the opposing side were killed, some were taken p
 
 Whoever turns back on such a day—unless maneuvering for battle or joining another unit—has drawn Allah's wrath upon himself. His refuge is Jahannam, and what an evil destination.
 
-## AI Tafsir
-
-**Context:** When these verses were revealed during the battle of Badr, this was the operating order of the time, that is, take on the enemy, irrespective of its numbers, strength and power, and irrespective of your own numbers and s…
-
-**What this ayah teaches:** According to the consensus of the majority of the Muslim Ummah, and in the view of the Four Imams, the exact Islamic Legal position in this case is: Until such time the number of the adversary does not go beyond twice, it is Harm to desert the battlefield, and is a major sin.
-
-**Classical tafsir:** Ibn Kathir notes: We are your troop." Mujahid said that 'Umar said, "We are the troop of every Muslim." Abdul-Malik bin 'Umayr reported from 'Umar, "O people!
-
-**From the Sunnah:** We are your troop." Mujahid said that 'Umar said, "We are the troop of every Muslim." Abdul-Malik bin 'Umayr reported from 'Umar, "O people!
 ## Personal Reflections
-
 

@@ -126,13 +126,5 @@ Here Allah tells us about the terror of the Day of Resurrection and the tremendo
 
 And beware of the Day the wrongdoer will bite his nails in regret and say, “Oh! I wish I had followed the Way along with the Messenger!
 
-## AI Tafsir
-
-**Context:** (And (remember) the Day when the wrongdoer will bite at his hands, he will say: "O! Would that I had taken a path with the Messenger.") Here Allah tells us of the regret felt by the wrongdoer who rejected the path of the…
-
-**What this ayah teaches:** The Terrors of the Day of Resurrection, and How the Wrongdoers Will Wish That They Had Taken a Path With the Messenger (ﷺ) Here Allah tells us about the terror of the Day of Resurrection and the tremendous events that will happen, including the splitting of heavens when they are pierced by the clouds, that is the shadow of the magnificent light which dazzles all sight.
-
-**Classical tafsir:** Ibn Kathir notes: Would that I had never taken so-and-so as an intimate friend!) meaning, the one among the propagators of misguidance who diverted him from true guidance and led him to follow the path of misguidance, whether this refers to…
 ## Personal Reflections
-
 

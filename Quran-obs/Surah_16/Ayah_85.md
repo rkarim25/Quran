@@ -176,13 +176,5 @@ Finally, a note about the statement: سَرَ‌ابِيلَ تَقِيكُمُ 
 
 And when the wrongdoers face the punishment, it will not be lightened for them, nor will they be delayed from it.
 
-## AI Tafsir
-
-**Context:** Finally, a note about the statement: سَرَ‌ابِيلَ تَقِيكُمُ الْحَرَّ‌ (shirts which protect you from heat - 81). Here, protection from heat has been identified as the purpose of a shirt - though, a shirt protects one from…
-
-**What this ayah teaches:** Arabia is a hot country where the very thought of snow and winter chill is far-fetched, therefore, the statement was left with the mention of protection from heat as being sufficient. And on the Day when We resurrect a witness from each nation, then those who disbelieve will not be given leave, nor will they be allowed (to return to the world) to repent and ask for Allah's forgiveness.) 85.
-
-**Classical tafsir:** Ibn Kathir notes: Arabia is a hot country where the very thought of snow and winter chill is far-fetched, therefore, the statement was left with the mention of protection from heat as being sufficient.
 ## Personal Reflections
-
 

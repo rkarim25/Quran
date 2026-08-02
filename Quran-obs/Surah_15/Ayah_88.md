@@ -155,13 +155,5 @@ The Sahabah ؓ asked the Holy Prophet ﷺ as to what it will be about. He said t
 
 Do not let your eyes crave the fleeting pleasures We have provided for some of those who reject the truth, nor grieve for them. And be gracious to the believers.
 
-## AI Tafsir
-
-**What this ayah teaches:** He is anxious for you, for the believers - he is full of pity, kind and merciful)(9:128).
-
-**Classical tafsir:** Ibn Kathir notes: Sa'id said: "In them, Allah explains the obligations, the Hudud (legal limits), stories and rulings." Ibn 'Abbas said, "He explains the parables, stories and lessons." The second opinion is that they (the seven of the Mathani) are Al-Fatihah, which is composed of seven Ayat.
-
-**From the Sunnah:** Ibn 'Abbas said: "The Bismillah, is completing seven Ayah, which Allah has given exclusively to you (Muslims)." This is also the opinion of Ibrahim An-Nakha'i, 'Abdullah bin 'Umayr, Ibn Abi Mulaykah, Shahr bin Hawshab, Al-Hasan Al-Basri and Mujahid. two Hadiths on this topic. (Sahih al-Bukhari)
 ## Personal Reflections
-
 

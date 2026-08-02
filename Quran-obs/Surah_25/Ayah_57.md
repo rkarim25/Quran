@@ -218,13 +218,5 @@ Allah Ta’ ala advised the Holy Prophet ﷺ to say that he has no personal inte
 
 Say, “I do not ask you for any reward for this message, but whoever wishes, let them pursue the Way to their Rabb.”
 
-## AI Tafsir
-
-**Context:** (Then He rose over (Istawa) the Throne. The ar-Rahman! Ask Him, as He is the All-Knower.) meaning, find out about Him from one who knows most about Him, and follow him and take him as your example.
-
-**What this ayah teaches:** His reward is only that they turn towards Allah.
-
-**Classical tafsir:** Ibn Kathir notes: It is also possible that the correct attitude of the people is taken as a reward for the Holy Prophet ﷺ because he will also be rewarded if the people take up to right path.
 ## Personal Reflections
-
 

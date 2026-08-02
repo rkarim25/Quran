@@ -314,13 +314,5 @@ period of Bani Isra'il which was marked by the presence of Sayyidna Musa among t
 
 And when Moses said to his people, “O my people! Remember Allah’s favours upon you when He raised prophets from among you, made you sovereign, and gave you what He had never given anyone in the world.
 
-## AI Tafsir
-
-**What this ayah teaches:** The hint given here is that the people of Bani' Isra'il who were the oppressed slaves of the Pharaoh and his people for many ages saw how Allah Ta` ala destroyed their enemies and how they themselves were made masters and kings.
-
-**Classical tafsir:** Ibn Kathir notes: It was also said that the Ayah reads in a way that means that these men were respected and honored by their people.
-
-**From the Sunnah:** The Muslim Ummah is more respected and honored before Allah, and has a more perfect legislative code and system of life, it has the most honorable Prophet, the larger kingdom, more provisions, wealth and children, a larger domain and more lasting glory than th… (Sahih Muslim) Musa, Allah's Messenger, ordered the Children of Israel to enter Jerusalem and fight their enemy, and he promised them victory and triumph over the mighty people if they did so.
 ## Personal Reflections
-
 

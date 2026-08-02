@@ -164,13 +164,5 @@ Injunction [ 5]
 
 Do not give expecting more in return.
 
-## AI Tafsir
-
-**What this ayah teaches:** In other words, no gift should be given to anyone seeking to get back in return more than what was given.
-
-**Classical tafsir:** Ibn Kathir notes: This indicates that it is reprehensible to give to someone a gift with the intention that the person will give him a higher gift.
-
-**From the Sunnah:** It has been confirmed in the Sahih Al-Bukhari and Sahih Muslim on the authority of Abu Salamah that Jabir bin 'Abdullah informed him that he heard the Messenger of Allah ﷺ speaking about the time period (of the pause in) revelation. (Sahih al-Bukhari, Sahih Muslim) from Abu Salamah bin 'Abdur-Rahman that Jabir bin 'Abdullah informed him that he heard the Messenger of Allah ﷺ saying, (Musnad Ahmad)
 ## Personal Reflections
-
 

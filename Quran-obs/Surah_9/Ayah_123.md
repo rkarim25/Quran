@@ -134,15 +134,5 @@ Sayyidna ` Ali ؓ has said, ` when 'Iman enters the heart, it is like a radiant 
 
 O you who have iman! Fight those who reject the truth around you and let them find firmness in you. And know that Allah is with those who live with taqwa.
 
-## AI Tafsir
-
-**Context:** Previous verses carried inducement to Jihad. The first verse from the present ones (123) which opens with the words: يَا أَيُّهَا الَّذِينَ آمَنُوا قَاتِلُوا ( O those who believe, fight those those who reject the truth who are near y…
-
-**What this ayah teaches:** Fight those of the those who reject the truth who are close to you, and let them find harshness in you; and know that Allah is with those who have Taqwa .
-
-**Classical tafsir:** Ibn Kathir notes: The Prophet ﷺ marched until he reached Tabuk and went back because of the extreme hardship, little rain and little supplies.
-
-**From the Sunnah:** This is why the Messenger of Allah ﷺ started fighting the idolators in the Arabian Peninsula. In the tenth year, the Messenger of Allah ﷺ was busy with the Farewell Hajj.
 ## Personal Reflections
-
 

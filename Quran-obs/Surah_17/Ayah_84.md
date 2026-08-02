@@ -102,11 +102,5 @@ such as, disposition, habit, instinct, intention, way or manner. In sum, all the
 
 Say, O Prophet, “Everyone acts in their own way. But your Rabb knows best whose way is rightly guided.”
 
-## AI Tafsir
-
-**What this ayah teaches:** And when We bestow Our grace on man, he turns away and becomes arrogant. But if We let him taste good after evil has touched him, he is sure to say: "Ills have departed from me." Surely, he is exultant, and boastful.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

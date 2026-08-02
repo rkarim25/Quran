@@ -252,15 +252,5 @@ The verses that follow recount, as pointed out earlier, Allah's help and support
 
 We will cast horror into the hearts of those who reject the truth for associating with Allah—a practice He has never authorized. The Fire will be their home—what an evil place for the wrongdoers to stay!
 
-## AI Tafsir
-
-**Context:** This was the background in which the present verse was revealed.
-
-**What this ayah teaches:** If you obey those who disbelieve, they will send you back on your heels, and you will turn back as losers (149)Nay, Allah is your protector, and He is the best of helpers (150)We shall cast terror into the hearts of those who disbelieve, because they joined others in worship with Allah, for which He sent no authority; their abode will be the Fire and how evil is the abode of th…
-
-**Classical tafsir:** Ibn Kathir notes: Ibn Jurayj said that Ibn 'Abbas said that Fashiltum means, 'lost courage'. Al-Hasan and Qatadah said that, Tus'iduna, means, 'go up the mountain'.
-
-**From the Sunnah:** Allah next conveys the good news that He will put fear of the Muslims, and feelings of subordination to the Muslims in the hearts of their disbelieving enemies, because of their Kufr and Shirk.
 ## Personal Reflections
-
 

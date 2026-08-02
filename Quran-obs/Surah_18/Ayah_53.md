@@ -132,11 +132,5 @@ The word: ذُرِّ‌يَّتَهُ (dhurriyyatah) in verse 50 indicates that 
 
 The wicked will see the Fire and realize that they are bound to fall into it, and will find no way to avoid it.
 
-## AI Tafsir
-
-**What this ayah teaches:** And (remember) the Day He will say: "Call those (so-called) partners of Mine whom you claimed." Then they will cry unto them, but they will not answer them, and We shall put Mawbiq between them (52)And the criminals shall see the Fire and apprehend that they are to fall therein.
-
-**Classical tafsir:** Ibn Kathir notes: 'Abdullah bin 'Amr understood the pronoun in the phrase "between them" to refer to the believers and the those who reject the truth, meaning that the people of guidance and the people of misguidance will be separated.
 ## Personal Reflections
-
 

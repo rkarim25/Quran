@@ -157,15 +157,5 @@ A Preacher must not give up his preaching due to disappointment
 
 So We destroyed those who were far mightier than these Meccans. The examples of their predecessors have already been related.
 
-## AI Tafsir
-
-**Context:** (Ha-Mim. By the manifest Book.) means, plain and clear in both wording and meaning, because it was revealed in the language of the Arabs, which is the most eloquent language for communication among people. Allah says:
-
-**What this ayah teaches:** And never came there a Prophet to them but they used to mock at him.)(8.
-
-**Classical tafsir:** Ibn Kathir notes: By the manifest Book.) means, plain and clear in both wording and meaning, because it was revealed in the language of the Arabs, which is the most eloquent language for communication among people.
-
-**From the Sunnah:** Consolation to the Prophet ﷺ for the Disbelief of Quraysh
 ## Personal Reflections
-
 

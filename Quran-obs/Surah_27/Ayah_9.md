@@ -204,11 +204,5 @@ Ibn Jarir, Ibn Abi Hatim, Ibn Marduwaih etc., have also quoted another explanati
 
 O Moses! It is truly I. I am Allah—the Almighty, All-Wise.
 
-## AI Tafsir
-
-**What this ayah teaches:** Nothing He has made can encompass Him, and He is the Exalted, the Almighty, Who is utterly unlike all that He has created.
-
-**Classical tafsir:** Ibn Kathir notes: Then He commanded him to throw down the stick that was in his hand, so that He might show him clear proof that He is the One Who is able to do all things, whatever He wills.
 ## Personal Reflections
-
 

@@ -112,11 +112,5 @@ Then Allah says,
 
 That Day they will not speak,
 
-## AI Tafsir
-
-**What this ayah teaches:** This is the view of Mujahid, Al-Hasan, Qatadah, and Ad-Dahhak, and Ibn Jarir favored this view.
-
-**Classical tafsir:** Ibn Kathir notes: There is no discrepancy between the two verses, because there will be various stages on the Plain of Gathering (Mahshar) through which people will have to pass.
 ## Personal Reflections
-
 

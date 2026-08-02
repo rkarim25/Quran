@@ -86,19 +86,5 @@ The last two verses further fortify the doctrine of توحید tauhid on the gro
 
 Surely nothing on earth or in the heavens is hidden from Allah.
 
-## AI Tafsir
-
-**Essence**
-Nothing in all the heavens and the earth lies hidden from Allah — His knowledge is total and unbroken.
-
-**What it teaches**
-The verse affirms that not one thing (shay') anywhere — in the earth or in the heaven — is concealed from Allah; "lā yakhfā 'alayhi" means nothing is hidden or unknown to Him. This all-encompassing knowledge ('ilm) is paired in the verse that follows with His shaping of every human being in the womb, so that the One whose knowledge and power are unlimited is shown to be the only One worthy of worship (tawhid).
-
-**The scholars**
-Ibn Kathir explains that Allah here declares His perfect knowledge in the heavens and the earth, that nothing in them is hidden from His watch, and that He shapes mankind in the wombs as He wills — male or female, handsome or otherwise, happy or miserable. From this he draws a decisive argument in three steps: Allah's knowledge encompasses all things; He is the Creator who forms each person in the womb stage after stage; therefore 'Isa (Jesus, peace be upon him), son of Mary, who was himself created in the womb and passed through those same stages, is a created servant like the rest of mankind — and so cannot be divine as the Christians claim. Maarif ul Quran adds that these verses fortify the doctrine of tawhid: encompassing knowledge and unlimited power are strong proofs that Allah alone possesses eternal, all-encompassing knowledge and the power that controls everything, and that anyone of imperfect knowledge and limited power can never be entrusted with the exalted station of worship.
-
-**Reflection**
-Live as one always known to the All-Knowing — let the certainty that nothing is hidden from Allah guard your private deeds and your hidden heart.
 ## Personal Reflections
-
 

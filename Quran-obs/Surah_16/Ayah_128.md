@@ -128,13 +128,5 @@ The essence of this formula is that the help of Allah Ta’ ala is with people w
 
 Allah is with those who live with taqwa and those who do good.
 
-## AI Tafsir
-
-**Context:** Ibn Sirin said, "If a man among you takes something from you, then you should take something similar from him." This was also the opinion of Mujahid, Ibrahim, Al-Hasan Al-Basri, and others.
-
-**What this ayah teaches:** And do not grieve over them, and do not be distressed by their plots (127)Truly, Allah is with those who have Taqwa, and the doers of good .
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

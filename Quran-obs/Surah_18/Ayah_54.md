@@ -90,11 +90,5 @@ The statement: وَكَانَ الْإِنسَانُ أَكْثَرَ‌ شَي�
 
 We have surely set forth in this Quran every kind of lesson for people, but humankind is the most argumentative of all beings.
 
-## AI Tafsir
-
-**What this ayah teaches:** Examples put forth in the Qur'an Allah says, 'In this Qur'an, We have explained to mankind and given clear details of matters so that they will not stray from the truth or be misled from the path of guidance.
-
-**Classical tafsir:** Ibn Kathir notes: Examples put forth in the Qur'an Allah says, 'In this Qur'an, We have explained to mankind and given clear details of matters so that they will not stray from the truth or be misled from the path of guidance.
 ## Personal Reflections
-
 

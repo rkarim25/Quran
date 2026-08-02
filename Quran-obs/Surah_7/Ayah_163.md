@@ -177,11 +177,5 @@ The Holy Prophet ﷺ has been asked to warn the Israelites present in his time b
 
 Ask them about the town which was by the sea, who broke the Sabbath. During the Sabbath, fish would come to them clearly visible, but on other days the fish were never seen. In this way We tested them for their rebelliousness.
 
-## AI Tafsir
-
-**What this ayah teaches:** Thus We made a trial of them,) means, this is how We tested them by making the fish swim close to the surface of the water, on the day which they were prohibited to fish.
-
-**Classical tafsir:** Ibn Kathir notes: 'Ikrimah, Mujahid, Qatadah and As-Suddi said similarly.
 ## Personal Reflections
-
 

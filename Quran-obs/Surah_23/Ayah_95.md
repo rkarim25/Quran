@@ -103,13 +103,5 @@ Some commentators say that even though Allah has promised, on account of His reg
 
 We are indeed able to show you what We have threatened them with.
 
-## AI Tafsir
-
-**What this ayah teaches:** So we are commanded to mention Allah at the beginning of any undertaking, in order to ward off the Shayatin at the time of eating, intercourse, slaughtering animals for food, etc.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** If You would show me that with which they are threatened.) meaning, 'if You punish them while I am witnessing that, then do not cause me to be one of them.' As was said in the Hadith recorded by Imam Ahmad and At-Tirmidhi, who graded it Sahih: (Musnad Ahmad, Jami' at-Tirmidhi) We have already stated, when discussing Isti'adhah (seeking refuge), that the Messenger of Allah ﷺ used to say,
 ## Personal Reflections
-
 

@@ -145,13 +145,5 @@ In the Musnad of Said ibn Mansur, it has been mentioned on the authority of Sayy
 
 But if you must turn them down because you lack the means to give—while hoping to receive your Rabb’s bounty—then at least give them a kind word.
 
-## AI Tafsir
-
-**Context:** Regarding the background of the revelation of this verse, a report from Sayyidna Ibn Zaid ؓ says that some people used to ask for financial help from the Holy Prophet ﷺ and he knew what would be given to them would be sp…
-
-**What this ayah teaches:** Therefore, he refused to give it to them, for this refusal was a device to stop them from indulging in disorder. But spend not wastefully (your wealth) in the manner of a spendthrift (26)Verily, the spendthrifts are brothers of the Shayatin (devils), and the Shaytan is ever ungrateful to his Lord (27)And if you turn away from them and you are awaiting a mercy from your Lord for which you hope, the…
-
-**Classical tafsir:** Ibn Kathir notes: Ibn Mas'ud said: "This refers spending extravagantly when it is not appropriate." Ibn 'Abbas said likewise.
 ## Personal Reflections
-
 

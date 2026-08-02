@@ -144,13 +144,5 @@ The first oath, in the beginning of the Surah, is by the sky and tariq. The word
 
 It is the star of piercing brightness.
 
-## AI Tafsir
-
-**What this ayah teaches:** Stars normally disappear during the day and only appear at night, therefore they are called tariq. The word thaqib means 'piercing brightness'.
-
-**Classical tafsir:** Ibn Kathir notes: Some of the commentators say that najm refers to the Pleiades or Saturn, and they quote specimens of Arabic speech to confirm their argument.
-
-**From the Sunnah:** At the inception, he was created from various elements collected from throughout the world, and Allah's Power transformed them into a human being who is able to listen and see.
 ## Personal Reflections
-
 

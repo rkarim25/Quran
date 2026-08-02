@@ -103,11 +103,5 @@ While refusing to prostrate before Sayyidna 'Adam (علیہ السلام) ، Ibl
 
 Adding, “Do you see this one you honoured above me? If you delay my end until the Day of Judgment, I will certainly take hold of his descendants, except for a few.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Therefore, this question was considered unworthy of an answer and no answer was given. And (remember) when We said to the angels: "Prostrate yourselves unto Adam." They prostrated themselves except Iblis.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, this question was considered unworthy of an answer and no answer was given.
 ## Personal Reflections
-
 

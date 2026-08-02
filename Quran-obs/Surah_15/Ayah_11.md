@@ -66,11 +66,5 @@ The word: اَلشِيَعِ in the first verse (10) is the plural form of: شِ
 
 but no messenger ever came to them without being mocked.
 
-## AI Tafsir
-
-**What this ayah teaches:** Indeed, We sent (Messengers) before you (O Muhammad) amongst the earlier communities (10)And there never came a Messenger to them but that they mocked him (11)Thus We allow it to enter the hearts of the guilty (12)They would not believe in it (the Qur'an); and already the example of the ancients has gone forth .
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

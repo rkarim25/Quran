@@ -107,11 +107,5 @@ My master and mentor, Hadrat Thanavi (رح) ، in his Bayan al-Qur'an, has inter
 
 Say to them, O Prophet, “Even if you were to possess the infinite treasuries of my Rabb’s mercy, then you would certainly withhold them, fearing they would run out—for humankind is ever stingy!”
 
-## AI Tafsir
-
-**What this ayah teaches:** This has its link with previous verses (90, 91) where the those who reject the truth of Makkah had demanded that the Holy Prophet ﷺ should - if he was really a prophet in truth - make rivers flow in the barren desert of Makkah and trans-form it into lush green farms, like the land of Syria.
-
-**Classical tafsir:** Ibn Kathir notes: Holding back is Part of Man's Nature Allah says to His Messenger ﷺ: "Tell them, O Muhammad, even if you had authority over the treasures of Allah, you would refrain from spending for fear of exhausting it." Ibn 'Abbas and Qatadah said, "This means for fear of poverty," lest it run out, despite the f…
 ## Personal Reflections
-
 

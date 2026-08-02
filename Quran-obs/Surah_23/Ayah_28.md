@@ -130,13 +130,5 @@ as Allah mentions in another Ayah:
 
 Then when you and those with you have settled in the Ark, say, “All praise is for Allah, Who saved us from the wrongdoing people.”
 
-## AI Tafsir
-
-**Context:** He said: "O my Lord! Help me because they deny me. (26)So, We revealed to him: "Construct the ship under Our Eyes and under Our revelation.
-
-**What this ayah teaches:** Verily, they are to be drowned.) means, 'when you witness the heavy rain falling, do not let yourself be overcome with compassion and pity for your people, or hope for more time for them so that they may believe, for I have decreed that they will be drowned and will die in their state of disbelief and wrongdoing.' The story has already been told in detail in Surah Hud, and there is no need to repe…
-
-**Classical tafsir:** Ibn Kathir notes: Then, when Our command comes, and (water) gushes forth from the oven, take on board of each kind two, and your family, except those thereof against whom the Word has already gone forth.
 ## Personal Reflections
-
 

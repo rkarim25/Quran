@@ -143,11 +143,5 @@ They say: أَفْتَرَ‌ىٰ عَلَى اللَّـهِ كَذِبًا أ�
 
 "Has he invented a lie against Allah, or is he mad?" In truth, those who do not believe in the Akhirah are heading for torment and have strayed farthest from the right path.
 
-## AI Tafsir
-
-**What this ayah teaches:** Therefore, this claim of the Holy Prophet ﷺ is either a deliberate attempt to fabricate a lie against Allah Ta’ ala, or the person who says so is insane and no premise of his statement is correct. Nay, but those who disbelieve in the Hereafter are (themselves) in a torment, and in far error (8)See they not what is before them and what is behind them, of the heaven and the earth?
-
-**Classical tafsir:** Ibn Kathir notes: This means that in looking at the creation of the heavens and the earth, there is a sign for every servant who is intelligent and wise and who turns towards Allah.
 ## Personal Reflections
-
 

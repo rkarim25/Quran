@@ -78,13 +78,5 @@ After that, it was said: إِذًا لَّأَذَقْنَاكَ ضِعْفَ ا
 
 and then We truly would have made you taste double punishment both in this life and after death, and you would have found no helper against Us.
 
-## AI Tafsir
-
-**Context:** Verily, they were about to tempt you away from that which We have revealed to you, to fabricate something other than it against Us, and then they would certainly have taken you as an intimate frien (73)And had We not mad…
-
-**What this ayah teaches:** It means: Supposing the impossible, if you would have come closer to tilting towards their wrong move, your punishment would have been double in life and double after death (in the grave or the Hereafter, because even an insignificant error made by those close to Allah is considered to be very grave).
-
-**Classical tafsir:** Ibn Kathir notes: It means: Supposing the impossible, if you would have come closer to tilting towards their wrong move, your punishment would have been double in life and double after death (in the grave or the Hereafter, because even an insignificant error made by those close to Allah is conside…
 ## Personal Reflections
-
 

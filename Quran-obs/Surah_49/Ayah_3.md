@@ -206,15 +206,5 @@ My master, the honorable sage of the Ummah has in his Bayan-ul-Qur'an explicated
 
 Those who lower their voices before Allah's Messenger are the ones whose hearts Allah has tested for righteousness. They will have forgiveness and a great reward.
 
-## AI Tafsir
-
-**Context:** (O you who believe! Raise not your voices above the voice of the Prophet,) This contains another kind of favorable behavior.
-
-**What this ayah teaches:** Therefore, some of the scholars have expressed the view that it is disrespectful to say salam or speak very loudly in front of the Holy Prophet's mausoleum.
-
-**Classical tafsir:** Ibn Kathir notes: This verse teaches the believers that they should not raise their voices above the voice of the Holy Prophet ﷺ nor speak aloud to him as one speaks aloud to another in general discussions.
-
-**From the Sunnah:** Verily, those who lower their voices in the presence of Allah's Messenger, they are the ones whose hearts Allah has tested for Taqwa. Allah the Exalted is teaching the believers that they should not raise their voices above the voice of the Prophet ﷺ.
 ## Personal Reflections
-
 

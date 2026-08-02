@@ -209,13 +209,5 @@ Moving on to the second (36) and the third (37) verses, one notices the manner i
 
 As for those who reject the truth, even if they were to possess everything in the world twice over to ransom themselves from the punishment of the Day of Judgment, it would never be accepted from them. And they will suffer a painful punishment.
 
-## AI Tafsir
-
-**What this ayah teaches:** Commentary In verses previous to those cited above, the Islamic Prescribed Punishment of robbery and rebellion, as well as the details of injunctions relating to them, were mentioned while the Prescribed Punishment for theft is coming up after three verses later.
-
-**Classical tafsir:** Ibn Kathir notes: Now, after this lexical explanation of the word, ` Wasilah,' and the exegetical notes from the Sahabah and Tabi` in, we do know how every-thing which becomes the means of achieving the pleasure and nearness of Allah is, for a human being, the ` Wasilah' of becoming close to Allah…
-
-**From the Sunnah:** Paradise, and it is the grade of the Messenger of Allah ﷺ, his residence and the nearest grade in Paradise to Allah's Throne. (Sahih al-Bukhari) he heard the Prophet ﷺ saying, (Sahih Muslim)
 ## Personal Reflections
-
 

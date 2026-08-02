@@ -131,11 +131,5 @@ On the Day, they see these conditions and these frightening sights, they will ha
 
 On that Day all will follow the caller for assembly, and none will dare to deviate. All voices will be hushed before the the Rahman. Only whispers will be heard.
 
-## AI Tafsir
-
-**What this ayah teaches:** The word Qa' means a piece of land that is level and the word Safsafa is used to place emphasis on this meaning. And all voices will be humbled for the ar-Rahman (Allah), and nothing shall you hear except Hamsa .
-
-**Classical tafsir:** Ibn Kathir notes: The word Qa' means a piece of land that is level and the word Safsafa is used to place emphasis on this meaning.
 ## Personal Reflections
-
 

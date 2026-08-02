@@ -116,11 +116,5 @@ Allah created Different Types of Water
 
 He merged the two seas—they meet yet do not cross a barrier between them.
 
-## AI Tafsir
-
-**What this ayah teaches:** He created man from sounding clay like the clay of pottery (14)And the Jinn He created from a smokeless flame of fire (15)Then which of the blessings of your Lord will you both deny (16)The Lord of the two easts and the Lord of the two wests (17)Then which of the blessings of your Lord will you both deny (18)He has Maraja the two seas meeting together (19)Between them is a barr…
-
-**Classical tafsir:** Ibn Kathir notes: Mujahid, Qatadah, Abu Ruzayn, Ad-Dahhak said it, and it has also been reported from 'Ali. The word bahrain [ two seas or two types of waters ] refers to sweet and salty waters.
 ## Personal Reflections
-
 

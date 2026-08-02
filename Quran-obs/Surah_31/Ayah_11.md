@@ -130,11 +130,5 @@ No matter what the option, the verse does point out to the particular sign of th
 
 This is Allah's creation. Now show what those claimed gods besides Him have created. The wrongdoers are clearly astray.
 
-## AI Tafsir
-
-**What this ayah teaches:** And We send down water from the sky, and We cause (plants) of every goodly kind to grow therein in pairs (10)This is the creation of Allah.
-
-**Classical tafsir:** Ibn Kathir notes: Proofs of Tawhid Thus Allah explains His mighty power in creating the heavens and the earth, and everything that is within them and between them.
 ## Personal Reflections
-
 

@@ -110,15 +110,5 @@ Commentary
 
 Ta-Ha.
 
-## AI Tafsir
-
-**Context:** Juwaybir reported that Ad-Dahhak said, "When Allah sent the Qur'an down to His Messenger ﷺ, he and his Companions adhered to it.
-
-**What this ayah teaches:** This ayah declares: Ṭâ-Hâ.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** He created the lofty heavens with their high altitudes and subtleties.' It has been reported in a Hadith, which At-Tirmidhi and others graded as authentic, that the density of each sky of the heavens is the distance of five hundred years travel and the distanc… (Jami' at-Tirmidhi)
 ## Personal Reflections
-
 

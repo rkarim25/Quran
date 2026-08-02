@@ -100,13 +100,5 @@ Let us now turn to the statement: وَآخَرُ‌ونَ مُرْ‌جَوْن�
 
 And some others are left for Allah’s decision, either to punish them or turn to them in mercy. And Allah is All-Knowing, All-Wise.
 
-## AI Tafsir
-
-**Context:** Some Companions stayed behind from the battle of Tabuk due to laziness, preferring comfort, ease, ripe fruits and shade. They did not lag behind because of hypocrisy or doubts.
-
-**What this ayah teaches:** And others are made to await for Allah's Decree, whether He will punish them or will forgive them. Verse 106 is now referring to the other three gentlemen who had not done what the group of seven had done in the Masjid.
-
-**Classical tafsir:** Ibn Kathir notes: Verse 106 is now referring to the other three gentlemen who had not done what the group of seven had done in the Masjid.
 ## Personal Reflections
-
 

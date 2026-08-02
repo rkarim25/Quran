@@ -189,13 +189,5 @@ Since this explanation of the verse stands proved on the authority of Sahih Hadi
 
 Moses replied, “You know well that none has sent these signs down except the Rabb of the heavens and the earth as insights. And I really think that you, O Pharaoh, are doomed.”
 
-## AI Tafsir
-
-**Context:** (But We drowned him and all who were with him. And We said to the Children of Israel after him: "Dwell in the land...") This is good news for Muhammad ﷺ, a foretelling of the conquest of Makkah, even though this Surah wa…
-
-**What this ayah teaches:** Therefore, a number of commentators have taken the word 'ayat' to mean miracles - and the number nine does not make it necessary that they will not be more than nine - but, at this place, the figure 'nine' has been mentioned on the basis of some particular importance it has.
-
-**Classical tafsir:** Ibn Kathir notes: As Mujahid said, "doomed" includes all of these meanings.
 ## Personal Reflections
-
 

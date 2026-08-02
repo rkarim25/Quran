@@ -306,13 +306,5 @@ Concluding in the same vein, we refer to another hadith from al-Bukhari and Musl
 
 If you avoid the major sins forbidden to you, We will absolve you of your misdeeds and admit you into a place of honour.
 
-## AI Tafsir
-
-**What this ayah teaches:** The distinction between 'kabirah' and 'saghirah', major and minor sins, is made only when these are compared to each other.
-
-**Classical tafsir:** Ibn Kathir notes: However, there is no harm in commercial transactions that transpire between the buyer and the seller with mutual consent, so that money is legally earned from these transactions.
-
-**From the Sunnah:** Eat not up your property among yourselves unjustly) some Muslims said, 'Allah has forbidden us from eating up each other's property unjustly, and food is our best property. to me, 'Do you know what the day of Al-Jumu'ah is? (Musnad Ahmad)
 ## Personal Reflections
-
 

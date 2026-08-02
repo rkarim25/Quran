@@ -270,13 +270,5 @@ mmmm
 
 We have made sacrificial camels and cattle among the symbols of Allah, in which there is much good for you. So pronounce the Name of Allah over them when they are lined up for sacrifice. Once they have fallen lifeless on their sides, you may eat from their meat, and feed the needy—those who do not beg, and those who do. In this way We have subjected these animals to you so that you may be showing shukr.
 
-## AI Tafsir
-
-**What this ayah teaches:** He says Bismillah and Allahu Akbar, La ilaha illallah, Allahumma Minka wa Laka (In the Name of Allah and Allah is Most Great; there is no Allah but Allah.
-
-**Classical tafsir:** Ibn Kathir notes: 'Ali bin Abi Talhah reported that Ibn 'Abbas said, "Qani' is the one who is too proud to ask, and Mu'tarr is the one who does ask." This was also the view of Qatadah, Ibrahim An-Nakha'i and Mujahid, according to one report narrated from him.
-
-**From the Sunnah:** Mujahid said: "Al-Budn means camels." According to Muslim, Jabir bin 'Abdullah and others said, "The Messenger of Allah ﷺ commanded us to share in offering the sacrifice, a Budn (camel) for seven people, and one cow for seven people." (Sahih Muslim) O Allah, this is on behalf of me and anyone of my Ummah who has not offered a sacrifice.) This was recorded by Ahmad, Abu Dawud and At-Tirmidhi.
 ## Personal Reflections
-
 

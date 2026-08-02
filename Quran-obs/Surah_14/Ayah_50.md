@@ -138,13 +138,5 @@ Finally, in the last verse (52), it was made clear that the description of condi
 
 in garments of tar, faces covered with flames.
 
-## AI Tafsir
-
-**What this ayah teaches:** And you will see the criminals that Day, Muqarranun (bound together) in fetters (49)Their garments will be of Qatiran (tar), and fire will cover their faces (50)That Allah may requite each person according to what he has earned.
-
-**Classical tafsir:** Ibn Kathir notes: Out of the narrations of Hadith reported on this subject, only some of them seem to indicate either a change in features only while others suggest a change of the thing itself.
-
-**From the Sunnah:** Verily, if she who wails, dies before she repents from her behavior, she will be resurrected on the Day of Resurrection while wearing a dress of Qatiran and a cloak of mange.) Muslim collected this Hadith. (Sahih Muslim)
 ## Personal Reflections
-
 

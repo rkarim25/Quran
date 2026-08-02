@@ -155,11 +155,5 @@ Qatadah (رح) says that the verse refers to a stage after they will have been q
 
 On that Day no human or jinn will be asked about their sins—the record already speaks.
 
-## AI Tafsir
-
-**What this ayah teaches:** They are close to each other, and thus there is no conflict.
-
-**Classical tafsir:** Ibn Kathir notes: Al-Hasan and Qatadah said, "They will be known by their dark faces and their blue eyes." I say that this contrasts to the marks that will distinguish the believers, such as the light that will appear on the parts of the body that they used to wash while performing ablution.
 ## Personal Reflections
-
 

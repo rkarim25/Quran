@@ -195,11 +195,5 @@ The place also becomes auspicious if righteous deeds are performed there
 
 But when he came to it, he was called from the bush in the sacred ground to the right side of the valley: “O Moses! It is truly I. I am Allah—the Rabb of all worlds.
 
-## AI Tafsir
-
-**What this ayah teaches:** He found the fire burning in a green bush on the side of the mountain adjoining the valley, and he stood there amazed at what he was seeing. This indicates that when Musa headed for the fire, he headed in the direction of the Qiblah with the western mountain on his right.
-
-**Classical tafsir:** Ibn Kathir notes: This indicates that when Musa headed for the fire, he headed in the direction of the Qiblah with the western mountain on his right.
 ## Personal Reflections
-
 

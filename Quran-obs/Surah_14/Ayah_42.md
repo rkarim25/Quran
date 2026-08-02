@@ -124,11 +124,5 @@ In this verse: وَلَا تَحْسَبَنَّ اللَّـهَ غَافِلً
 
 Do not think Allah is unaware of what wrongdoers do. He only delays them until a Day when their eyes stare in horror—
 
-## AI Tafsir
-
-**What this ayah teaches:** And should it be that the Holy Prophet ﷺ himself is the addressee here, still then, the purpose of saying this would be to let the negligent of the community hear it and be warned - because, there exists just no possibility that the Holy Prophet ﷺ would, Allah forbid, ever think that Allah Ta’ ala is unaware or indifferent to what is happening.
-
-**Classical tafsir:** Ibn Kathir notes: Do not think because Allah gave them respite and delayed their punishment that He is unaware or ignoring punishing them for what they do.
 ## Personal Reflections
-
 

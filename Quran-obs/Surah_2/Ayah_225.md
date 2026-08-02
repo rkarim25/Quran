@@ -176,19 +176,5 @@ As compared to this, the oath that requires kaffarah کَفَّارہ is called 
 
 Allah will not hold you accountable for careless oaths, but He will hold you accountable for what your hearts intended. Allah is All-Forgiving, Most Forbearing.
 
-## AI Tafsir
-
-**Essence** Allah's mercy does not hold us to account for the careless words that slip from our tongues, but He does hold us answerable for what our hearts truly intend.
-
-**What it teaches** An oath has two faces. There is *al-laghw* — the unintentional, "habitual statements that the tongue repeats" without really intending them (a reflexive "No, by Allah" / "Yes, by Allah"), which Allah does not punish. And there is what "your hearts have earned" (*ma kasabat qulubukum*) — the deliberate, knowing oath, for which He does hold us accountable. The ayah seals with two divine names: *Ghafur* (Oft-Forgiving to His servants) and *Halim* (Most Forbearing with them).
-
-**The scholars** Read with the preceding verse, Ibn Kathir explains the lesson is not to use Allah's Name as a barrier "to refrain from pious acts and severing the relations with the relatives" — rather, break such a vow, pay the *kaffarah* (expiation), and do the good; "continuity in a sinful vow is more sinful than breaking it by expiation." On *al-laghw*, Ibn Kathir cites 'A'ishah (via Abu Dawud) defining it as a man's idle house-talk, and Ibn 'Abbas that it includes "vowing while angry" and "vowing to prohibit what Allah has allowed," which carries no kaffarah. On "what your hearts have earned," Ibn 'Abbas, Mujahid and others say this means "swearing about a matter while knowing that he is lying," likened to "your deliberate oaths" (5:89). Maarif ul Quran (Bayan al-Qur'an) classifies these as oaths that carry no kaffarah, distinct from the binding oath (*mun'aqidah*) — an intentional pledge to do or not do something, whose breach does require expiation.
-
-**From the Sunnah** Whoever takes an oath and then sees something better should pay the expiation for his oath and do the better deed, rather than clinging to a vow that blocks good. (Sahih Muslim, via Abu Hurayrah; the Two Sahihs report the same lesson from Abu Musa al-Ash'ari.)
-
-**From the Sunnah** New Muslims whose tongues still slipped into swearing by the old idols were told to immediately affirm "There is no deity worthy of worship except Allah," so the word of tawhid would erase the careless word. (the Two Sahihs)
-
-**Reflection** Watch the heart, not merely the tongue — and never let a hasty oath become a chain that keeps you from doing good.
 ## Personal Reflections
-
 

@@ -258,22 +258,5 @@ When Sayyidna Abu Bakr al-Siddiq ؓ sent Yazid ibn Abi Sufyan ؓ to Syria, he ga
 
 Fight in Allah's cause against those who fight you, but do not exceed the limits. Allah does not love transgressors.
 
-## AI Tafsir
-
-**Essence**
-Fight only those who fight you in Allah's cause, and never overstep the limits Allah has set, for Allah does not love transgressors.
-
-**What it teaches**
-This was the first verse permitting fighting after the migration to Madinah; it authorizes qital ("fighting") fi sabili-llah ("in the way of Allah") strictly against combatants who wage war on the Muslims. The closing warning against the mu'tadin ("transgressors") fences even legitimate war with mercy: do not exceed the limits Allah has drawn.
-
-**The scholars**
-Ibn Kathir reports from Abu al-'Aliyah that this was the first ayah on fighting revealed in Madinah, after which the Prophet (peace be upon him) fought only those who fought him and spared non-combatants. When 'Abdur-Rahman ibn Zayd ibn Aslam claimed the verse was abrogated by 9:5, Ibn Kathir rejects this as implausible: "those who fight you" already limits the command to the enemies actually engaged in fighting Islam and its people, so no abrogation is needed. On "transgress not," al-Hasan al-Basri — with Ibn 'Abbas, 'Umar ibn 'Abdul-'Aziz and Muqatil ibn Hayyan holding the same view — defines transgression as mutilating the dead, stealing from spoils, and killing women, children, the elderly who do not fight, priests and worshippers in their houses of worship, and needlessly burning trees or killing animals. Maarif ul Quran adds that the whole Ummah agrees fighting was forbidden before the Hijrah, and that jurists (Mazhari, Qurtubi, Jassas) exempt non-combatants — yet rule that any such person who actually joins or aids the fighting falls under "those who fight you" and may be fought. Maarif also records that Abu Bakr al-Siddiq (may Allah be pleased with him), dispatching Yazid ibn Abi Sufyan to Syria, gave these same orders, adding the prohibition of killing the devout, monks, priests and hired labourers who take no part in fighting.
-
-**From the Sunnah**
-Fight for the sake of Allah and fight those who disbelieve in Allah; but do not steal from the spoils, commit treachery, mutilate the dead, kill a child, or kill those who reside in houses of worship. (Sahih Muslim) — When a slain woman was found after a battle, the Prophet (peace be upon him) forbade the killing of women and children. (The Two Sahihs) — And in his marching orders: "Do not kill anyone old and weak, any young child or any woman." (Abu Dawud)
-
-**Reflection**
-The same verse that opens war also bounds it: the believer fights only the one who fights him, matches aggression without exceeding it, and stays his hand over the woman, the child, the old and the worshipper. To keep those limits under provocation — sparing whom Allah forbade you to harm — is itself the obedience the ayah commands.
 ## Personal Reflections
-
 

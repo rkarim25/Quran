@@ -535,13 +535,5 @@ The statement, 'And once you have taken a decision, place your trust in Allah' a
 
 It is out of Allah’s mercy that you have been lenient with them. Had you been cruel or hard-hearted, they would have certainly abandoned you. So pardon them, ask Allah’s forgiveness for them, and consult with them in matters. Once you make a decision, put your trust in Allah. Surely Allah loves those who trust in Him.
 
-## AI Tafsir
-
-**Context:** (It is not for any Prophet to illegally take a part of the booty,) was revealed in connection with a red robe that was missing from the spoils of war of Badr.
-
-**What this ayah teaches:** The command to consult given to him is simply to honour the blessed Companions and mollify their broken hearts.
-
-**Classical tafsir:** Ibn Kathir notes: His abode is Hell, and worse indeed is that destination!)[3:162], This refers to those seeking what pleases Allah by obeying His legislation, thus earning His pleasure and tremendous rewards, while being saved from His severe torment.
 ## Personal Reflections
-
 

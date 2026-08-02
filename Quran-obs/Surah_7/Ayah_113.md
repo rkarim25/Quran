@@ -92,13 +92,5 @@ Some reports say that the prophet Musa (علیہ السلام) had a short conve
 
 The magicians came to Pharaoh, saying, “Shall we receive a reward if we prevail?”
 
-## AI Tafsir
-
-**What this ayah teaches:** The Magicians convene and change Their Ropes into Snakes before Musa Allah describes the conversation that took place between Fir'awn and the magicians he collected to defeat Musa, peace be upon him.
-
-**Classical tafsir:** Ibn Kathir notes: The Magicians convene and change Their Ropes into Snakes before Musa Allah describes the conversation that took place between Fir'awn and the magicians he collected to defeat Musa, peace be upon him.
-
-**From the Sunnah:** Allah describes the conversation that took place between Fir'awn and the magicians he collected to defeat Musa, peace be upon him.
 ## Personal Reflections
-
 

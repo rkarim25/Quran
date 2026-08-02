@@ -95,13 +95,5 @@ In verse 28, it was said: أَمْ نَجْعَلُ الَّذِينَ آمَن�
 
 Should We treat those who believe and do good like those who spread corruption in the land? Should We treat the righteous like the wicked?
 
-## AI Tafsir
-
-**What this ayah teaches:** Then woe to those who disbelieve from the Fire (27)Shall We treat those who believe and do righteous good deeds as those who cause mischief on the earth? Then Allah explains that because of His justice and wisdom, He does not treat the believers and the those who reject the truth equally.
-
-**Classical tafsir:** Ibn Kathir notes: Then Allah explains that because of His justice and wisdom, He does not treat the believers and the those who reject the truth equally.
-
-**From the Sunnah:** Accordingly, non-Muslim minorities who live in an Islamic state under mutual pledges shall be given all human rights that will be but equal to those of Muslim. (Sahih Muslim)
 ## Personal Reflections
-
 

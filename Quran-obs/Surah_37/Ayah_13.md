@@ -86,11 +86,5 @@ As for the reaction of disbelievers on rational proofs, it was said: بَلْ ع
 
 When they are reminded, they are never mindful.
 
-## AI Tafsir
-
-**What this ayah teaches:** And when any advice is given to them, they pay no heed to it.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

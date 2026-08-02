@@ -197,15 +197,5 @@ This tells us that many of our brother Muslims who keep investigating into unnec
 
 Some people before you asked such questions then denied their answers.
 
-## AI Tafsir
-
-**Context:** Imam Ahmad recorded that 'Ali said, "When this Ayah was revealed,
-
-**What this ayah teaches:** Therefore, asking such questions is blameworthy - especially when it is already known that people who tend to ask such questions are mostly unaware of the basics of their religion.
-
-**Classical tafsir:** Ibn Kathir notes: Ask not about things which, if made plain to you, may cause you trouble.) This Ayah refers to good conduct that Allah is teaching His believing servants, by forbidding them from asking about useless things.
-
-**From the Sunnah:** The companions of Allah's Messenger ﷺ covered their faces and the sound of crying was coming out of their chests. Ibn Jarir recorded that Qatadah said about Allah's statement,
 ## Personal Reflections
-
 

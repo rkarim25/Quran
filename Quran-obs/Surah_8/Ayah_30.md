@@ -157,15 +157,5 @@ At this place, it is also noteworthy that the words used at the end of the verse
 
 Remember when those who reject the truth plotted against you—to imprison you, kill you, or expel you. They plotted, and Allah plotted. Allah is the best of planners.
 
-## AI Tafsir
-
-**Context:** Jibril came to the Prophet ﷺ and commanded him not to sleep in his bed that night and conveyed to him the news of their plot.
-
-**What this ayah teaches:** And (remember) when the those who reject the truth plotted against you to imprison you, or to kill you, or to expel you (from your home, Makkah); they were plotting and Allah too was plotting; and Allah is the best of plotters . Therefore, seek an opinion other than this one.' Another one of them said, 'Expel him from your land, so that you are free from his trouble!
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, seek an opinion other than this one.' Another one of them said, 'Expel him from your land, so that you are free from his trouble!
-
-**From the Sunnah:** Jibril came to the Prophet ﷺ and commanded him not to sleep in his bed that night and conveyed to him the news of their plot.
 ## Personal Reflections
-
 

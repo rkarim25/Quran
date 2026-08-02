@@ -159,11 +159,5 @@ And Allah says in this Ayah, after mentioning this argument of theirs:
 
 They argue: "Had the Rahman willed, we would never have worshipped them." They have no knowledge to support this claim. They do nothing but lie.
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, man is indeed a manifest ingrate (15)Or has He taken daughters out of what He has created, and He has selected for you sons (16)And if one of them is informed of the news of that which he sets forth as a parable to the ar-Rahman, his face becomes dark, and he is filled with grief (17)A creature who is brought up in adornments, and who in dispute cannot make itself c…
-
-**Classical tafsir:** Ibn Kathir notes: They do nothing but lie!) Mujahid said, "They do not appreciate the power of Allah." As such, there is consensus on this issue, but at the same time the manner of speech indicates that getting so much involved in adornment that one is busy in it the whole day long, is not proper; it is not only a symptom of one's being short-sighted, but also a cause of it.
 ## Personal Reflections
-
 

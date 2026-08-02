@@ -174,11 +174,5 @@ meaning, 'so that We may bring out great abundance, goodness, benefit, and bless
 
 and dense, spreading orchards?
 
-## AI Tafsir
-
-**What this ayah teaches:** That We may produce therewith grains and vegetations,)(16.
-
-**Classical tafsir:** Ibn Kathir notes: That We may produce therewith grains and vegetations,)(16.
 ## Personal Reflections
-
 

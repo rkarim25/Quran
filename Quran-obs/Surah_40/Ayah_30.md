@@ -126,13 +126,5 @@ Earlier in the verse, by saying: مُّؤْمِنٌ مِّنْ آلِ فِرْ�
 
 The believing man cautioned: "O my people, I truly fear for you the doom of earlier hostile forces—
 
-## AI Tafsir
-
-**What this ayah teaches:** However, making this verbal declaration before people publicly is not necessary.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** The only reason why it is needed is that unless people come to know about the person's 'iman, they would remain unable to interact with him or her in the same way as they do with Muslims.
 ## Personal Reflections
-
 

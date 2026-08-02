@@ -135,11 +135,5 @@ After this, the stories of the people of ` Ad, Thamud and Nuh (علیہم الس
 
 They defied their Rabb's command, so the blast seized them while they watched.
 
-## AI Tafsir
-
-**What this ayah teaches:** This ayah declares: Still they persisted in defying the commands of their Lord, so they were overtaken by a ˹mighty˺ blast while they were looking on.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

@@ -240,13 +240,5 @@ The Two Sahihs also recorded from Ibn 'Umar that the Messenger of Allah ﷺ burn
 
 This is because they defied Allah and His Messenger. Whoever defies Allah should know that Allah is severe in punishment.
 
-## AI Tafsir
-
-**Context:** Ibn 'Abbas used to call this chapter, 'Surah Bani An-Nadir.' Sa'id bin Mansur recorded that Sa'id bin Jubayr said, "I asked Ibn 'Abbas about Surat Al-Hashr and he said, 'It was revealed about Bani An-Nadir.'" Al-Bukhari…
-
-**What this ayah teaches:** That is because they opposed Allah and His Messenger.
-
-**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas used to call this chapter, 'Surah Bani An-Nadir.' Sa'id bin Mansur recorded that Sa'id bin Jubayr said, "I asked Ibn 'Abbas about Surat Al-Hashr and he said, 'It was revealed about Bani An-Nadir.'" Al-Bukhari and Muslim recorded it using another chain of narration from Ibn 'Abbas.
 ## Personal Reflections
-
 

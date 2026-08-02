@@ -259,15 +259,5 @@ In this story, as for parts that have been mentioned in the Qur'an, or stand pro
 
 Say, O Prophet, “O humanity! If you are in doubt of my faith, then know that I do not worship those idols you worship instead of Allah. But I worship Allah, Who has the power to cause your death. And I have been commanded, ‘Be one of the believers,’
 
-## AI Tafsir
-
-**Context:** Allah, the Exalted, says to His Messenger, Muhammad , 'Say: O mankind! If you are in doubt about the correctness of that which I have been sent with the Hanif (monotheism) religion - the religion which Allah has revealed…
-
-**What this ayah teaches:** They declare that the cause of the removal of punishment from the people was the failing of the prophet and that this very failing was the cause of Divine displeasure which is mentioned in Surah al-Anbiya' and Surah As-Saffat.
-
-**Classical tafsir:** Ibn Kathir notes: So, they said, let that person show himself up so that others do not suffer because of one person.
-
-**From the Sunnah:** protection from other sins.
 ## Personal Reflections
-
 

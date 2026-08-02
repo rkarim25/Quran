@@ -211,13 +211,5 @@ Earlier in the verse, by saying: مُّؤْمِنٌ مِّنْ آلِ فِرْ�
 
 O my people, authority belongs to you today, reigning supreme in the land. But who would help us against Allah's torment if it were to befall us?" Pharaoh assured his people: "I am telling you only what I believe, and I am leading you only to the way of guidance."
 
-## AI Tafsir
-
-**What this ayah teaches:** However, making this verbal declaration before people publicly is not necessary.
-
-**Classical tafsir:** Ibn Kathir notes: As-Suddi said, he was a cousin [son of the paternal uncle] of Fir'awn.
-
-**From the Sunnah:** Similarly, the Messenger of Allah ﷺ told the Quraysh to leave him alone and let him call the servants of Allah to Allah; he asked them not to harm him, and to uphold the ties of kinship that existed between him and them, by not harming him. The only reason why it is needed is that unless people come to know about the person's 'iman, they would remain unable to interact with him or her in the same way as they do with Muslims.
 ## Personal Reflections
-
 

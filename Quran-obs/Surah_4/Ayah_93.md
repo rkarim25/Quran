@@ -303,15 +303,5 @@ Let there be no doubt at this point as to why the burden of a crime committed by
 
 And whoever kills a believer intentionally, their reward will be Hell—where they will stay indefinitely. Allah will be displeased with them, condemn them, and will prepare for them a tremendous punishment.
 
-## AI Tafsir
-
-**Context:** (except by mistake). There is a difference of opinion concerning the reason behind revealing this part of the Ayah.
-
-**What this ayah teaches:** And Allah is Ever All-Knowing, All-Wise (92)And whoever kills a believer intentionally, his recompense is Hell to abide therein; and the wrath and the curse of Allah are upon him, and a great punishment is prepared for him .
-
-**Classical tafsir:** Ibn Kathir notes: The former type requires three types of Diyah, just like intentional murder, because it is somewhat similar to intentional murder.
-
-**From the Sunnah:** When one commits any of these three offenses, it is not up to ordinary citizens to kill him or her, because this is the responsibility of the Muslim Leader or his deputy.
 ## Personal Reflections
-
 

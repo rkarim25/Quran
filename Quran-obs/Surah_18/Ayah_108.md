@@ -68,13 +68,5 @@ The purpose of the last sentence: لَا يَبْغُونَ عَنْهَا حِ�
 
 where they will be forever, never desiring anywhere else.
 
-## AI Tafsir
-
-**What this ayah teaches:** Now, if they were not allowed to go elsewhere out of Jannah, they might start feeling the pinch of a sort of restriction.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** Paradise, at its center, the best of it.
 ## Personal Reflections
-
 

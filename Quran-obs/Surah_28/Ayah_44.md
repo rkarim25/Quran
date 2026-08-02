@@ -162,13 +162,5 @@ If the word Nas ناس (people) is used in the phrase بَصَائِرَ‌ لِ
 
 You were not there O Prophet on the western side of the mountain when We entrusted the Commandments to Moses, nor were you present in his time.
 
-## AI Tafsir
-
-**Context:** (and you were not among the witnesses.) 'to that event, but Allah has revealed this to you,' so that it may be evidence and proof of events which happened centuries ago, for people have forgotten the evidence that Allah…
-
-**What this ayah teaches:** It, therefore, does not necessarily follow that reading of Torah and Injil is banned for all times. And you were not on the western side (of the Mount), when We made clear to Musa the commandment, and you were not among the witnesses (44)But We created generations, and long were the ages that passed over them.
-
-**Classical tafsir:** Ibn Kathir notes: It, therefore, does not necessarily follow that reading of Torah and Injil is banned for all times.
 ## Personal Reflections
-
 

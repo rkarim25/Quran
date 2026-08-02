@@ -172,13 +172,5 @@ Rates of Zakah are Specified by Allah
 
 except with their spouses or those in their lawful possession, for then they are free from blame,
 
-## AI Tafsir
-
-**What this ayah teaches:** From its meanings is the same terminology used to describe standing (still) water (Al-Ma' Ad-Da'im).
-
-**Classical tafsir:** Ibn Kathir notes: It has also been said that the meaning here refers to those who perform a deed and are constant in its performance and consistent in it.
-
-**From the Sunnah:** This is like what is reported in the authentic Hadith, (authentic hadith)
 ## Personal Reflections
-
 

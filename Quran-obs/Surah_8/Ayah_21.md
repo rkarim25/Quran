@@ -111,13 +111,5 @@ For added emphasis on the same subject, it was said in the second verse (21): و
 
 Do not be like those who say, "We hear," while they do not truly listen.
 
-## AI Tafsir
-
-**What this ayah teaches:** Obey Allah and His Messenger, and turn not away from him while you are hearing (20)And be not like those who say: "We have heard," but they hear not (21)Verily, the worst of living creatures with Allah are the deaf and the dumb (the those who reject the truth), who understand not (22)Had Allah known of any good in them, He would indeed have made them listen; and even if He had made them listen, they would but h…
-
-**Classical tafsir:** Ibn Kathir notes: Muhammad bin Ishaq said that this Ayah refers to hypocrites, as we stated.
-
-**From the Sunnah:** So, Muslims have been forbidden from becoming like them.
 ## Personal Reflections
-
 

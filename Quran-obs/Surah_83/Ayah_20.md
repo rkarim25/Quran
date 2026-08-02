@@ -100,11 +100,5 @@ Ibn Mas'ud said concerning Allah's statement,
 
 A book already inscribed,
 
-## AI Tafsir
-
-**What this ayah teaches:** This refers to a drink called Tasnim, and it is the most excellent and exalted drink of the people of Paradise. According to some authorities, ` illiyyun is the plural of ` uluww and it signifies the 'highest point'.
-
-**Classical tafsir:** Ibn Kathir notes: This refers to a drink called Tasnim, and it is the most excellent and exalted drink of the people of Paradise.
 ## Personal Reflections
-
 

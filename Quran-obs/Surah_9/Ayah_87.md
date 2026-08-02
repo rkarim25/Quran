@@ -92,11 +92,5 @@ The expression: اُولُوا الطَّولِ (ulu 'at-caul: translated as ` t
 
 They preferred to stay behind with the helpless, and their hearts have been sealed so they do not comprehend.
 
-## AI Tafsir
-
-**What this ayah teaches:** But when a decisive Surah (explaining and ordering things) is sent down, and fighting is mentioned therein, you will see those in whose hearts is a disease looking at you with a look of one fainting to death.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

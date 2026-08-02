@@ -100,11 +100,5 @@ That is, if the hoopoe offers a plausible excuse for its absence, then it will b
 
 I will surely subject him to a severe punishment, or even slaughter him, unless he brings me a compelling excuse.”
 
-## AI Tafsir
-
-**What this ayah teaches:** - 27:21 That is, if the hoopoe offers a plausible excuse for its absence, then it will be saved from the punishment. Similarly, if the domestic animals, such as cow, horse, camel, donkey etc., do not perform their normal duty, then it is permissible even now to punish them moderately for disciplining.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

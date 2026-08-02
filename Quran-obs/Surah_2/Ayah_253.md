@@ -308,22 +308,5 @@ anyone is better than Yunus ibn Matta) and لا تخیرونی علی موسٰی
 
 Those messengers — We preferred some over others. To some Allah spoke directly; some He raised in rank. To Jesus, son of Mary, We gave clear proofs and supported him with the holy spirit. If Allah had willed, those after them would not have fought one another after clear proofs came. But they differed — some believed and some rejected. If Allah had willed, they would not have fought. But Allah does what He wills.
 
-## AI Tafsir
-
-**Essence**
-Allah elevated some of His messengers above others by His own choice, and the divisions and wars of later generations all unfold within His sovereign will: "Allah does what He wills."
-
-**What it teaches**
-Allah declares that He preferred (faddalna) some messengers over others. To some He spoke directly (kallama) — foremost Musa; others He raised to higher degrees (darajat); and to 'Isa son of Maryam He gave clear proofs (al-bayyinat) and supported him with Ruh al-Qudus, that is, the angel Jibril. The closing words teach that the later splitting of communities into belief and disbelief, and even their fighting, all happened by Allah's decree, for "Allah does what He wills."
-
-**The scholars**
-Ibn Kathir explains that "to some Allah spoke directly" refers to Musa and Muhammad (peace be upon him), and to Adam as well, per a hadith in Sahih Ibn Hibban from Abu Dharr; that "raised to degrees" is shown in the Isra' journey when the Prophet (peace be upon him) saw the prophets ranked in the various heavens; and that the "clear proofs" given to 'Isa testify that he was Allah's servant and Messenger to the Children of Israel. On the apparent tension with the hadith forbidding preference between prophets, Ibn Kathir resolves it: the prohibition is against ranking prophets out of dispute and personal opinion, since "it is not up to creation to decide which Prophet is better, for this is Allah's decision," and creation must only submit to and believe in it. Maarif ul Quran adds that verse 253 consoles the Prophet (peace be upon him) against the deniers, teaching that every community saw both supporters and opponents, yet always with a hidden divine wisdom; that ranking is forbidden only when done "without any proof, out of our own opinion," whereas a proof from Qur'an and Sunnah must be believed; and (from Mazhari) that the Prophet's words not to prefer him over Musa belonged to the time before he was given knowledge of his own precedence, which was later disclosed to him by revelation. Maarif also clarifies that Allah's speaking to Musa was without an angel as intermediary but not without hijab, so it does not conflict with Surah al-Shura 42:51.
-
-**From the Sunnah**
-A Muslim and a Jew quarreled, the Jew swearing "by Him Who gave Musa superiority over all human beings." When the dispute reached the Prophet (peace be upon him), he taught restraint in ranking the prophets: on the Day of Resurrection people will fall unconscious and he will be the first to revive, finding Musa holding the pillar of Allah's Throne — yet, he said, "I will not know whether the unconsciousness Musa suffered on the Day of the Trumpet sufficed for him, or if he got up before me. So, do not give me superiority above the Prophets." In another narration: "Do not give superiority to some Prophets above others." (The Two Sahihs, from Abu Hurayrah)
-
-**Reflection**
-Notice how the Prophet (peace be upon him), though highest in rank, would not press his own precedence in the heat of an argument — true reverence for Allah's messengers leaves the weighing of them to Allah. Hold that humility, and when communities clash around you, rest your heart in the certainty that Allah does what He wills with perfect wisdom.
 ## Personal Reflections
-
 

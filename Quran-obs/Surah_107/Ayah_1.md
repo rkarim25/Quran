@@ -138,13 +138,5 @@ Ends here
 
 Have you considered the one who denies the Reckoning—as though no final audit awaits the cruelty hidden in boardrooms, homes, and hearts?
 
-## AI Tafsir
-
-**What this ayah teaches:** Have you seen the one who denies the Din'?' Here the word Din means the Hereafter, the Recompense and the Final Reward. Have you seen him who denies Ad-Din?)(2.
-
-**Classical tafsir:** Ibn Kathir notes: This may either be referring to its act entirely, as Ibn 'Abbas said, or it may be referring to performing it in its stipulated time that has been legislated Islamically. Have you seen the one who denies the Din'?' Here the word Din means the Hereafter, the Recompense and the Final Reward.
-
-**From the Sunnah:** This does not refer to the unintentional errors, slips and mistakes that Muslims make in their prayers.
 ## Personal Reflections
-
 

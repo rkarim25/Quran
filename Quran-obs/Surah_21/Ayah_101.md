@@ -196,15 +196,5 @@ At that point Allah Ta` ala revealed the verse : إِنَّ الَّذِينَ �
 
 Surely those for whom We have destined the finest reward will be kept far away from Hell,.
 
-## AI Tafsir
-
-**Context:** (while they abide in that which their own selves desire.) means, they will be safe from that which they fear, and they will have all that they love and desire.
-
-**What this ayah teaches:** Mujahid, 'Ikrimah and Qatadah said: "Its fuel." Ad-Dahhak said: "The fuel of Hell means that which is thrown into it." This was also the view of others.
-
-**Classical tafsir:** Ibn Kathir notes: Mujahid, 'Ikrimah and Qatadah said: "Its fuel." Ad-Dahhak said: "The fuel of Hell means that which is thrown into it." This was also the view of others. Zafir refers to their exhalation, and Shahiq refers to their inhalation.
-
-**From the Sunnah:** According to what I have heard, the Messenger of Allah ﷺ sat down one day with Al-Walid bin Al-Mughirah in the Masjid, and An-Nadr bin Al-Harith came and sat down with them. He said this to the Messenger of Allah ﷺ, who said:
 ## Personal Reflections
-
 

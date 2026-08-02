@@ -250,11 +250,5 @@ Is it legitimate to demolish or burn down the homes of the infidels, or cut or b
 
 Whatever palm trees you cut down or left standing, it was by Allah's Will—to disgrace those who rebelled.
 
-## AI Tafsir
-
-**Context:** Ibn 'Abbas used to call this chapter, 'Surah Bani An-Nadir.' Sa'id bin Mansur recorded that Sa'id bin Jubayr said, "I asked Ibn 'Abbas about Surat Al-Hashr and he said, 'It was revealed about Bani An-Nadir.'" Al-Bukhari…
-
-**What this ayah teaches:** Commandment of the Holy Prophet ﷺ is in fact the Commandment of Allah: A Warning for those who Refute the authority of the Ahadith In verse [ 5], the cutting down of the trees or leaving them uncut is called bi-idhni-llah [ with Allah's permission ] whereas neither of the actions was the explicit command of Allah.
 ## Personal Reflections
-
 

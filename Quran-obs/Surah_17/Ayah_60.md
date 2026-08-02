@@ -165,11 +165,5 @@ It also stands proved from this event that the word رُّ‌ؤْيَا (ru'ya) 
 
 And remember, O Prophet when We told you, “Certainly your Rabb encompasses the people.” And We have made what We brought you to see as well as the cursed tree mentioned in the Quran only as a test for the people. We keep warning them, but it only increases them greatly in defiance.
 
-## AI Tafsir
-
-**What this ayah teaches:** Allah has encompassed Mankind and made the Vision of His Prophet a Trial for Them Allah says to His Messenger ﷺ, encouraging him to convey the Message and informing him that He is protecting him from the people, that He is able to deal with them and that they are in His grasp and under His domination and control.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, the majority of commentators have declared the event of Mi` raj alone as the relevant subject of this verse.
 ## Personal Reflections
-
 

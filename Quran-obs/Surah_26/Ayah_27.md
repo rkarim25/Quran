@@ -127,13 +127,5 @@ This is what is known as God gifted awe of truth, veracity and reality. The cont
 
 Pharaoh said mockingly, “Your messenger, who has been sent to you, must be insane.”
 
-## AI Tafsir
-
-**What this ayah teaches:** When Musa said to them: "I am the Messenger of the Lord of the worlds," Fir'awn said to him, "Who is this who you are claiming is the Lord of Al-'Alamin other than me?" This is how it was interpreted by the scholars of the Salaf and the Imams of later generations.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** The contentions and dialectics of Allah's messengers are also full of truth, veracity and wishing well for the addressee.
 ## Personal Reflections
-
 

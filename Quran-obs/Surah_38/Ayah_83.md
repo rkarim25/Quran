@@ -70,13 +70,5 @@ Here, it is about Sayyidna 'Adam (علیہ السلام) that Allah Ta’ ala ha
 
 except Your chosen servants among them."
 
-## AI Tafsir
-
-**What this ayah teaches:** All of the angels obeyed this command except for Iblis, who was not one of them. He refused to prostrate to Adam, and he disputed with his Lord about him, claiming that he was better than Adam, because he was created from fire while Adam was created from clay, and fire was better than clay, or so he said.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, the verse means: 'I created 'Adam with My power.' For that matter, everything in this universe owes its creation to nothing but Divine power.
-
-**From the Sunnah:** There is a consensus among the majority of the Muslim Ummah that "hands" do not mean that Allah Ta’ ala has hands as human being do. (Sahih Muslim)
 ## Personal Reflections
-
 

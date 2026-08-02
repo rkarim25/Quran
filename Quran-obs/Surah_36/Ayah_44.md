@@ -91,13 +91,5 @@ But, it is obvious that the Qur'an has not specifically named a camel or some ot
 
 except by mercy from Us, allowing them enjoyment for a little while.
 
-## AI Tafsir
-
-**What this ayah teaches:** And an Ayah for them is that We bore their offspring in the laden ship (41)And We have created for them of the like thereunto, on which they ride (42)And if We will, We shall drown them, and there will be no shout for them, nor will they be saved (43)Unless it be a mercy from Us, and as an enjoyment for a while .
-
-**Classical tafsir:** Ibn Kathir notes: Then, its similarity with boat or ship is strongly supportive of it, because the way the ship of the sea sails on the surface of the water, and the mass of water does not make it drown, similarly, the airplane sails or flies over the bed of air and it does not throw it down.
-
-**From the Sunnah:** " Ibn Jarir recorded that Ibn 'Abbas, may Allah be pleased with him, said, "Do you know what the Ayah:
 ## Personal Reflections
-
 

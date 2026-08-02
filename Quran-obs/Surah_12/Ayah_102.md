@@ -145,13 +145,5 @@ Since common people take the Knowledge of the Unseen (i1m al-Ghayb) only in the 
 
 That is from the stories of the unseen which We reveal to you O Prophet. You were not present when they all made up their minds, and when they plotted against Joseph.
 
-## AI Tafsir
-
-**What this ayah teaches:** The ` Jim of al-Ghayb (the knowledge of the unseen) is the unique attribute of Allah Ta` ala.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, there is no way he could have known it in the manner he did except that it be Divine revelation itself.
-
-**From the Sunnah:** This is the reason why the Holy Prophet has informed the Muslim Ummah of many events due to happen right through the day of Qiyamah, either briefly, or in details. (Sahih Muslim)
 ## Personal Reflections
-
 

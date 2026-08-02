@@ -287,11 +287,5 @@ The outcome of both parables is that foam does appear prominent for a while on t
 
 He sends rain from the sky; valleys flow each to its measure. The current carries rising foam, like slag from metal people melt for ornaments or tools. This is how Allah compares truth to falsehood: the worthless scum is cast off, but what benefits people remains on the earth. This is how Allah sets forth parables.
 
-## AI Tafsir
-
-**What this ayah teaches:** The foam also sticks to trees or is dissipated by wind, just as the case with the scum that rises on the surface of gold, silver, iron and copper ores; it all goes away and never returns.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

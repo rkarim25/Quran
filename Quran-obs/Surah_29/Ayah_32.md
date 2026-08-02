@@ -123,11 +123,5 @@ Out of the three sins mentioned in this verse the first one is most disgusting, 
 
 He said: But Lot is there. They replied: We know who is there. We will save him and his family except his wife, who is among the doomed.
 
-## AI Tafsir
-
-**What this ayah teaches:** There is no specification of the third sin in the Holy Qur'an.
-
-**Classical tafsir:** Ibn Kathir notes: When they brought this news to Ibrahim and told him that they were sent to destroy the people of Lut, he began to speak up for them, hoping to win more time for them so that they might be guided by Allah.
 ## Personal Reflections
-
 

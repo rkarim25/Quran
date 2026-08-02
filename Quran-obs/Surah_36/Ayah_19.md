@@ -91,11 +91,5 @@ The sense of the statement: قَالُوا طَائِرُ‌كُم مَّعَك�
 
 The messengers said, "Your bad omen lies within yourselves. Are you saying this because you are reminded of the truth? In fact, you are a transgressing people."
 
-## AI Tafsir
-
-**What this ayah teaches:** Nay, but you are a people mischievous.) means, 'because of us, because we admonished you and told you to worship Allah Alone and with all sincerity, and in return you said what you said and threatened us.
-
-**Classical tafsir:** Ibn Kathir notes: Nay, but you are a people mischievous.) means, 'because of us, because we admonished you and told you to worship Allah Alone and with all sincerity, and in return you said what you said and threatened us.
 ## Personal Reflections
-
 

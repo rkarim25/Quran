@@ -105,11 +105,5 @@ The third verse (52) tells us that the punishment of Allah visiting these crimin
 
 Their end is like that of Pharaoh's people and those before them—they rejected Allah's signs, so Allah seized them for their sins. Allah is All-Powerful, severe in punishment.
 
-## AI Tafsir
-
-**What this ayah teaches:** Now, if a person or a people were to close their eyes to all these things, give no ear to any of these Divine warnings, then, for such people, there is the inevitable practice of Allah Ta` ala: That they are visited by punishment in this world too, and that they are subjected to the everlasting punishment of the Hereafter as well.
-
-**Classical tafsir:** Ibn Kathir notes: In fact, it is nothing but the customary practice of Allah that He would give reason and understanding to His servants so that they could act as guided.
 ## Personal Reflections
-
 

@@ -236,13 +236,5 @@ In the concluding part of the verse (114), there appears a significant reminder 
 
 There is no good in most of their secret talks—except those encouraging charity, kindness, or reconciliation between people. And whoever does this seeking Allah’s pleasure, We will grant them a great reward.
 
-## AI Tafsir
-
-**Context:** (And whoever contradicts and opposes the Messenger after the right path has been shown clearly to him.) refers to whoever intentionally takes a path other than the path of the Law revealed to the Messenger, after the tru…
-
-**What this ayah teaches:** Bidding the Fair includes all imperatives and motivations through which people are led to do what is good and right.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, according to a consensus of the scholars of Tafsir, the word Sadaqah (charity) used here carries a general sense which includes the obligatory zakah, voluntary charities and everything done to bring benefit to someone.
 ## Personal Reflections
-
 

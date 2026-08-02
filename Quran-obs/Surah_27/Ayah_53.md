@@ -107,13 +107,5 @@ The other thing worth noting in this verse is that the one whom these infidels h
 
 We delivered those who were faithful and lived with taqwa toward Allah.
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, in this is indeed an Ayah for people who know (52)And We saved those who believed, and had Taqwa of Allah .
-
-**Classical tafsir:** Ibn Kathir notes: Al-'Awfi reported that Ibn 'Abbas said: "These were the people who killed the she-camel," Meaning, that happened upon their instigation, may Allah curse them.
-
-**From the Sunnah:** The other possibility is that he might have been a Muslim but enjoyed a prominent position and hence there could have been the risk of uprising and reprisal among the people. (Sahih Muslim)
 ## Personal Reflections
-
 

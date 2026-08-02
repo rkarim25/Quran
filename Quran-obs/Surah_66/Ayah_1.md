@@ -261,15 +261,5 @@ In this incident, the Messenger of Allah ﷺ swore an oath to abstain from honey
 
 O Prophet: why do you prohibit yourself what Allah has made lawful, seeking to please your wives? Allah is All-Forgiving, the Rahim—whose special mercy is for believers in the Akhirah.
 
-## AI Tafsir
-
-**Context:** In another narration collected from 'Ubayd bin 'Umayr, from 'A'ishah, it was Zaynab bint Jahsh who gave the honey to the Prophet ﷺ, while 'A'ishah and Hafsah were the plotters. Allah knows best.
-
-**What this ayah teaches:** 66:1) According to the principles of general stylistics, the Qur'an does not address the Holy Prophet' by his name but by his Prophetic title thus: '0 Prophet' which is his special honour.
-
-**Classical tafsir:** Ibn Kathir notes: [ 1] It should be noted here that these words were spoken by them in an interrogative accent, and therefore it was not a false statement.
-
-**From the Sunnah:** he heard 'A'ishah claiming that Allah's Messenger ﷺ used to stay for a period in the house of Zaynab bint Jahsh and drink honey in her house.
 ## Personal Reflections
-
 

@@ -93,13 +93,5 @@ The forthcoming verses address the people of the time of the Prophet Muhammad �
 
 He had warned them of Our punishment, but they doubted the warnings.
 
-## AI Tafsir
-
-**Context:** رَ‌اوَدُوهُ عَن ضَيْفِهِ (And they had even tried to tempt him against his guests...54:37). The word murawadah signifies to entice someone to satisfy one's lust.
-
-**What this ayah teaches:** Thus do We reward him who gives thanks (35)And he indeed had warned them of Our punishment, but they doubted the warnings (36)And they indeed sought to shame his guests. And he indeed had warned them of Our punishment,) meaning, before the torment struck his people, he warned them of Allah's torment and punishment.
-
-**Classical tafsir:** Ibn Kathir notes: The word murawadah signifies to entice someone to satisfy one's lust.
 ## Personal Reflections
-
 

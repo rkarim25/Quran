@@ -154,13 +154,5 @@ In relation to issues of religious beliefs embedded in this verse, it must be bo
 
 That is Allah—your True Rabb. So what is beyond the truth except falsehood? How can you then be turned away?”
 
-## AI Tafsir
-
-**What this ayah teaches:** How then are you turned away (32)Thus is the Word of your Lord justified against those who rebel (disobey Allah), that they will not believe .
-
-**Classical tafsir:** Ibn Kathir notes: How then are you turned away (32)Thus is the Word of your Lord justified against those who rebel (disobey Allah), that they will not believe .
-
-**From the Sunnah:** This is an established rule in the sight of the majority of scholars in the Muslim Ummah. (Sahih Muslim)
 ## Personal Reflections
-
 

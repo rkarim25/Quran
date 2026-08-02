@@ -248,13 +248,5 @@ The absurdity of this doubt was all too evident. Therefore, instead of answering
 
 The polytheists argue, “Had Allah willed, neither we nor our forefathers would have worshipped anything other than Him, nor prohibited anything without His command.” So did those before them. Is not the messengers’ duty only to deliver the message clearly?
 
-## AI Tafsir
-
-**Context:** (And We did not send any Messenger before you (O Muhammad) but We revealed to him (saying): None has the right to be worshipped but I (Allah), so worship Me (alone and none else).")(21:25)
-
-**What this ayah teaches:** And those who worshipped others with Allah said: "If Allah had so willed, neither we nor our fathers would have worshipped any but Him nor would we have forbidden anything without (a command from) Him." Those before them did the same. All of the Messengers called their people to worship Allah (Alone) as well as forbidding them from worshipping anything or anybody except for Him.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, instead of answering it, just saying words of comfort for the Holy Prophet ﷺ was considered sufficient, so that he does not feel sad about such senseless questions.
 ## Personal Reflections
-
 

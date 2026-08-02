@@ -222,11 +222,5 @@ In the matter of light, the infidels are not mentioned anywhere, because in thei
 
 They will call to them: Were we not with you? They will reply: Yes—but you led yourselves into temptation, waited too long, doubted, and false hopes deceived you until Allah's decree came. And the deceiver—Satan—deceived you about Allah.
 
-## AI Tafsir
-
-**What this ayah teaches:** But you led yourselves into temptations, you looked forward to our destruction; and you doubted, and you were deceived by false hopes, till the command of Allah came to pass.
-
-**Classical tafsir:** Ibn Kathir notes: Inside it will be mercy, and outside it will be torment.) Al-Hasan and Qatadah said that the wall mentioned here is located between Paradise and Hellfire.
 ## Personal Reflections
-
 

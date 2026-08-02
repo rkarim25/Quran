@@ -172,13 +172,5 @@ of slaughter, the calf came out alive, they would slaughter it as well - but, wo
 
 They say, “The offspring of this cattle is reserved for our males and forbidden to our females; but if it is stillborn, they may all share it.” He will repay them for their falsehood. Surely He is All-Wise, All-Knowing.
 
-## AI Tafsir
-
-**What this ayah teaches:** And they say: "What is in the bellies of such and such cattle is for our males alone, and forbidden to our females, but if it is born dead, then all have shares therein." He will punish them for their attribution (of such false orders to Allah).
-
-**Classical tafsir:** Ibn Kathir notes: They took out a portion in the name of Allah from grains and fruits, and some in the name of idols and Jinns.
-
-**From the Sunnah:** Abu Ishaq As-Subay'i narrated that 'Abdullah bin Abi Al-Hudhayl reported that Ibn 'Abbas said that,
 ## Personal Reflections
-
 

@@ -92,13 +92,5 @@ Another basharah (good news) of this world unfolds in the form that Muslims at l
 
 and deliver us by Your mercy from the rejecting the truth people.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Make us not a trial for the folk who are wrongdoers.) This means don't give them victory over us so that they rule us.
-
-**Classical tafsir:** Ibn Kathir notes: Make us not a trial for the folk who are wrongdoers.) This means don't give them victory over us so that they rule us.
-
-**From the Sunnah:** If you have believed in Allah, then put your trust in Him if you are Muslims. If you have believed in Allah, then put your trust in Him if you are Muslims.) Allah is sufficient for those who put their trust in Him.
 ## Personal Reflections
-
 

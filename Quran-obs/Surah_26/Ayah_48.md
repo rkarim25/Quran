@@ -100,13 +100,5 @@ Fir'awn was defeated in a manner the likes of which the world had never seen, bu
 
 the Rabb of Moses and Aaron.”.
 
-## AI Tafsir
-
-**What this ayah teaches:** It is not permitted to make an oath of this nature under the Islamic law (because swearing in the name of someone other than Allah is a sin).
-
-**Classical tafsir:** Ibn Kathir notes: It is not permitted to make an oath of this nature under the Islamic law (because swearing in the name of someone other than Allah is a sin).
-
-**From the Sunnah:** It is unfortunate that similar oaths have now become common among the Muslims as well, which are even more evil and vile, for instance, 'by the king,' 'by the head of yours,' 'by the beard of yours,' 'by the grave of your father' etc.
 ## Personal Reflections
-
 

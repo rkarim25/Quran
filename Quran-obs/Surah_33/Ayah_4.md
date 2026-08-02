@@ -327,15 +327,5 @@ And this is the same matter which, by throwing the Quraish of Arabia into decept
 
 Allah does not place two hearts in any person’s chest. Nor does He regard your wives as unlawful for you like your real mothers, even if you say they are. Nor does He regard your adopted children as your real children. These are only your baseless assertions. But Allah declares the truth, and He alone guides to the Sirat al-Mustaqim — the way of living that pleases Allah.
 
-## AI Tafsir
-
-**Context:** (nor has He made your adopted sons your real sons.) This was revealed concerning Zayd bin Harithah, may Allah be pleased with him, the freed servant of the Prophet ﷺ.
-
-**What this ayah teaches:** Your mother is but she who gave birth to you.' Now, at least, the notion of the people of Jahiliyyah that Zihar makes one's wife unlawful for ever is refuted by this verse.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, it was said:i It means: 'You are wrong in thinking that, should someone call his wife the equal or like of his mother, the wife does not go on to become unlawful for him forever like his real mother.
-
-**From the Sunnah:** The Prophet ﷺ had adopted him before prophethood, and he was known as Zayd bin Muhammad.
 ## Personal Reflections
-
 

@@ -242,13 +242,5 @@ To Sayyidna Yusha` ibn Nun (علیہ السلام) ، (Joshua) the Israelite pro
 
 Why do their rabbis and scholars not forbid them from saying what is sinful and consuming what is unlawful? Evil indeed is their inaction!
 
-## AI Tafsir
-
-**What this ayah teaches:** Evil indeed is that which they have been doing (62)Why do not the 'Rabbāniyyūn' and the 'Aḥbār' forbid them from uttering sinful words and from eating illegal things.
-
-**Classical tafsir:** Ibn Kathir notes: However, some commentators have said that ` Rabbaniyyun' refers to ` Ulama who have been appointed by Government and are fully authorized, while 'Ahbar' means the ` Ulama in general.
-
-**From the Sunnah:** It is useful to sum up the main elements of our discussion before we part with it by saying that Mashayikh and ` Ulama, rather, all Muslims, once they know something to be sinful or against law, are duty-bound to check, stop or prohibit sin and crime, to the b… As long as Muslims adhered to this principle right through the early and later centuries of Islam, they held a position of universal distinction in terms of knowledge, deed, morals and character.
 ## Personal Reflections
-
 

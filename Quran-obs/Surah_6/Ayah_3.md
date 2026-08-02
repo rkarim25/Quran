@@ -158,15 +158,5 @@ The third verse contains the consequential outcome of what was said in the first
 
 He is the Only True Allah in the heavens and the earth. He knows whatever you conceal and whatever you reveal, and knows whatever you do.
 
-## AI Tafsir
-
-**Context:** Al-'Awfi, 'Ikrimah and 'Ata' said that Ibn 'Abbas said, "Surat Al-An'am was revealed in Makkah" At-Tabarani recorded that Ibn 'Abbas said, "All of Surat Al-An'am was revealed in Makkah at night, accompanied by seventy th…
-
-**What this ayah teaches:** It declares that Allah is the only Being who is worthy of worship and obedience in all the heavens and the earth, and He is the One who knows everything human beings conceal or reveal and, particularly, everything they say or do.
-
-**Classical tafsir:** Ibn Kathir notes: In this Ayah, Allah describes darkness in the plural, Zulumat [where Zulmah is singular for darkness], while describing the light in the singular, An-Nur, because An-Nur is more honored.
-
-**From the Sunnah:** Ibn 'Abbas said, "Surat Al-An'am was revealed in Makkah" At-Tabarani recorded that Ibn 'Abbas said, "All of Surat Al-An'am was revealed in Makkah at night,…
 ## Personal Reflections
-
 

@@ -217,13 +217,5 @@ To console the Holy Prophet ﷺ it was said at the end that there will be many a
 
 Say, “O People of the Book! You have nothing to stand on unless you observe the Torah, the Gospel, and what has been revealed to you from your Rabb.” And your Rabb’s revelation to you will only cause many of them to increase in wickedness and rejection of the truth. So do not grieve for the people who reject the truth.
 
-## AI Tafsir
-
-**Context:** (O People of the Scripture! You have nothing...) meaning no real religion until you adhere to and implement the Tawrah and the Injil.
-
-**What this ayah teaches:** Commentary Follow the Divine Shari` ah: Instruction for the people of the Book In the first verse (68), the people of the Book, that is, the Jews and Christians were instructed to follow the Divine Shari` ah by making it clear that they would be reduced to nothing if they chose not to abide by the injunctions of the Shari` ah.
-
-**Classical tafsir:** Ibn Kathir notes: Another point worth noting in this verse is that the Jews and Christians have been asked to follow the injunctions of all three Books, that is, the Torah, the Injil and the Qur'an - although, some of them abrogate others.
 ## Personal Reflections
-
 

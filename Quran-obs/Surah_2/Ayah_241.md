@@ -167,15 +167,5 @@ Providing compensatory benefits (` mata متاع `) for divorced women has also 
 
 Reasonable provision must be made for divorced women — a duty on those who live with taqwa.
 
-## AI Tafsir
-
-**Essence** For every divorced woman there is a rightful, fair provision — and Allah makes it a binding duty, not an optional kindness, upon those who guard themselves in taqwa.
-
-**What it teaches** The ayah obligates *mata'* — a reasonable provision or parting gift "*bil-ma'ruf*" (in a fair, recognized, honorable manner) — for divorced women, sealing it with "*haqqan 'ala al-muttaqin*": a *haqq* (an established right and obligation) laid upon *al-muttaqin*, those who live in conscious reverence of Allah. Naming it a duty on the God-fearing both dignifies the divorced woman's claim and ties a man's fairness to her to the sincerity of his faith.
-
-**The scholars** Ibn Kathir reports from Abdur-Rahman bin Zayd bin Aslam that when the earlier verse 2:236 called this gift "a duty on the doers of good (*al-muhsinin*)," a man said, "If I want, I will be excellent, and if I do not, I will not"; thereafter Allah revealed this ayah, binding it instead upon *al-muttaqin*. On this basis, says Ibn Kathir, scholars including Sa'id bin Jubayr, several of the Salaf, and Ibn Jarir ruled that the *Mut'ah* (reasonable gift) at divorce is due to *every* divorced woman — whether or not a dowry was fixed for her, and whether or not the marriage was consummated — holding that 2:236 only spells out particular cases of this general ruling. Ma'arif ul-Qur'an shows how the verse's universal wording covers every case: if *mata'* means the dower, a divorcee whose dower was fixed receives it in full and one whose was not receives *mahr al-mithl* (the equivalent dower) after consummation; if it means the particular gift or set of clothes, it is obligatory for the pre-consummation cases named earlier and *mustahabb* (commendable) otherwise; and if it means maintenance (*nafaqah*), it is obligatory through the *'iddah*. Ibn Kathir adds on the closing words "*Thus Allah makes clear His Ayat*" that what Allah allows, forbids, requires, and His set limits, commands, and prohibitions are all made plain — He leaves nothing in vague terms where you need detail — "*that you may understand*."
-
-**Reflection** When a bond ends, let your taqwa be measured by your fairness — give the parting woman her due generously, knowing it is a debt owed to Allah before it is a gift to her.
 ## Personal Reflections
-
 

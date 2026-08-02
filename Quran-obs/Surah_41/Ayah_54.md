@@ -126,11 +126,5 @@ ends here.
 
 They are truly in doubt of the meeting with their Lord—but He is Fully Aware of everything.
 
-## AI Tafsir
-
-**What this ayah teaches:** Is it not sufficient in regard to your Lord that He is a Witness over all things (53)Lo, Verily, they are in doubt concerning the meeting with their Lord.
-
-**Classical tafsir:** Ibn Kathir notes: Mujahid, Al-Hasan and As-Suddi said, "And signs within themselves means, the battle of Badr, the conquest of Makkah, and other events which befell them, where Allah granted victory to Muhammad ﷺ and his Companions, and inflicted a humiliating defeat on falsehood and its followers." It may also be th… As detailed in the science of anatomy, which indicates the wisdom of the Creator – may He be blessed…
 ## Personal Reflections
-
 

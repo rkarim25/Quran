@@ -246,13 +246,5 @@ Ends here
 
 And whoever did an atom's weight of harm will see it—no cruelty dismissed as 'minor.'
 
-## AI Tafsir
-
-**What this ayah teaches:** So, whosoever does good equal to the weight of a speck of dust shall see it.)(8. When they passed through a stream from which they did drink, though he (their owner) does not intend to quench their thirst, yet, it would be counted as good deeds, Therefore, they are a reward for that man.
-
-**Classical tafsir:** Ibn Kathir notes: This refers to the alteration of the state of things and the earth moving and shaking.
-
-**From the Sunnah:** Then the man said, 'Rather give me something to recite that is comprehensive (of all of these), O Messenger of Allah.' So the Prophet ﷺ told him to recite So the man came to him and the Prophet ﷺ said to him,
 ## Personal Reflections
-
 

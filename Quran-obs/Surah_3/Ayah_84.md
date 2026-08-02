@@ -236,17 +236,5 @@ In this, there is the necessary refutation of the Christians who claimed that it
 
 Say, “We believe in Allah and what has been revealed to us and what was revealed to Abraham, Ishmael, Isaac, Jacob, and his descendants; and what was given to Moses, Jesus, and other prophets from their Rabb—we make no distinction between any of them, and to Him we submit.”
 
-## AI Tafsir
-
-**Essence** Say it plainly: we believe in Allah and in every prophet and book He revealed, making no distinction between His messengers, and to Him alone we submit.
-
-**What it teaches** Allah commands the believers to declare a unified faith — "We believe (amanna)" in what was revealed to Muhammad ﷺ (the Qur'an) and in what came to Ibrahim, Isma'il, Ishaq, Ya'qub, the Asbat (the twelve tribes that originated from the twelve children of Israel/Ya'qub), and to Musa and 'Isa (the Tawrah and the Injil) and all the Prophets. "La nufarriqu" — we make no distinction — means we believe in all of them and reject none, and "wa nahnu lahu muslimun" seals it: to Him we are submitted (muslimun) in Islam.
-
-**The scholars** Ibn Kathir roots this affirmation in the preceding verse: all creation in the heavens and earth submits to Allah "willingly or unwillingly." Carrying that context forward, he explains that the faithful believer submits to Allah in heart and body, while the disbeliever submits in body only, being under Allah's power, irresistible control, and mighty kingship that cannot be repelled. He notes Mujahid likened this to those who, if asked who created the heavens and earth, must answer "Allah," and Ibn 'Abbas tied it to "when He took the covenant from them." On 3:84 itself, Ibn Kathir stresses that faithful Muslims believe in every Prophet Allah sent and every Book He revealed, never disbelieving in any — which is why the next verse warns that whoever seeks a religion other than Islam will never have it accepted. From this verse Maarif ul Quran (citing Tafsir Usmani) infers the 'ismah (infallibility) of the prophets: it argues that one whom Allah invests with the Book, wisdom, and prophethood is always faithful to his mission and can never call people to worship himself or any creature instead of Allah, for Allah's knowledge of his loyalty is never defective. The same source reads the verse as a refutation of the Christians who claimed it was the Masih ('Isa, peace be upon him) who asked them to believe in his sonship and godhead, a correction of the Muslims who asked whether they might prostrate to the Prophet ﷺ rather than greet him with salam, and an admonition to the People of the Book who raised their rabbis and monks to a divine station.
-
-**From the Sunnah** Because the ayah confines true faith to what Allah actually revealed through His prophets — no more, no less — worship must follow that same revealed pattern. So the Prophet ﷺ said: "Whoever commits an action that does not conform to our matter (religion), then it is rejected" — an act of devotion outside what he brought is turned back, just as a religion other than Islam is not accepted. (an authentic Hadith, as cited by Ibn Kathir)
-
-**Reflection** Hold every prophet of Allah in honor, follow only what He revealed, and let your submission be of the heart — not the body alone.
 ## Personal Reflections
-
 

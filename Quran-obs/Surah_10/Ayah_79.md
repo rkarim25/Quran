@@ -76,13 +76,5 @@ Another basharah (good news) of this world unfolds in the form that Muslims at l
 
 Pharaoh demanded, “Bring me every skilled magician.”
 
-## AI Tafsir
-
-**What this ayah teaches:** And Fir'awn said: "Bring me every well-versed sorcerer (79)And when the sorcerers came, Musa said to them: "Cast down what you want to cast! The result was the exact opposite and he therefore didn't attain his goal.
-
-**Classical tafsir:** Ibn Kathir notes: The result was the exact opposite and he therefore didn't attain his goal.
-
-**From the Sunnah:** Another basharah (good news) of this world unfolds in the form that Muslims at large love someone and take him to be good without any personal motive or interest. (Sahih Muslim)
 ## Personal Reflections
-
 

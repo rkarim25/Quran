@@ -89,11 +89,5 @@ In verse 60, it was said: أَلَمْ أَعْهَدْ إِلَيْكُمْ ي�
 
 Yet he already misled great multitudes of you. Did you not have any sense?
 
-## AI Tafsir
-
-**What this ayah teaches:** In other words, this would be said on the day of Qiyamah to all human beings, (even to the Jinn). The answer is that submitting before some entity in the absolute sense and to obey that entity in word and deed in everything and under all conditions is nothing but worship.
-
-**Classical tafsir:** Ibn Kathir notes: In other words, this would be said on the day of Qiyamah to all human beings, (even to the Jinn).
 ## Personal Reflections
-
 

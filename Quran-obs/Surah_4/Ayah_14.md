@@ -167,13 +167,5 @@ If there is no one from ashabul-furud and no one from ` asbat either, the inheri
 
 But whoever disobeys Allah and His Messenger and exceeds their limits will be cast into Hell, to stay there forever. And they will suffer a humiliating punishment.
 
-## AI Tafsir
-
-**What this ayah teaches:** If there is no one from ashabul-furud and no one from ` asbat either, the inheritance goes to Dhawil-Arliam (maternal kinsmen).
-
-**Classical tafsir:** Ibn Kathir notes: And whosoever disobeys Allah and His Messenger, and transgresses His (set) limits, He will cast him into the Fire, to abide therein; and he shall have a disgraceful torment.) This is because he changed what Allah has ordained and disputed with His judgment.
-
-**From the Sunnah:** The purpose is to stress upon Muslims to obey these injunctions. Therefore, a Muslim will not inherit from any kafir and no kafir from a Muslim, no matter what lineal relationship they may have between them. (Sahih Muslim)
 ## Personal Reflections
-
 

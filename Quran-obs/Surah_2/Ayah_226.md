@@ -121,27 +121,5 @@ So, situations A, B and C are termed in Shari` ah as 'Ild' (ایلاء ). The in
 
 Those who swear off intimacy with their wives must wait four months. If they go back, Allah is All-Forgiving, the Rahim.
 
-## AI Tafsir
-
-**Essence**
-When a husband swears off intimacy with his wife, Allah caps his oath at four months, then he must either return in mercy or release her with justice — so a woman is never left suspended in harm.
-
-**What it teaches**
-This ayah legislates Īlā' (إيلاء) — a husband's oath to abstain from sexual relations with his wife. Allah grants a fixed waiting period (tarabbuṣ) of four months, after which the husband must act. If he "returns" (fāʾū) to a normal marital relationship, Allah is to him Ghafūr (Oft-Forgiving) and Raḥīm (Most Merciful), forgiving, as Ibn Kathir says, "any shortcomings that occurred in the rights of the wife because of the vow."
-
-**The scholars**
-Ibn Kathir explains that Īlā' is a vow not to sleep with one's wife for a set time, whether less or more than four months. If the oath is for less than four months, the wife must be patient until its term ends and cannot demand he break it early. But if it runs beyond four months, at the four-month mark she may demand that he end the Īlā' and resume relations; otherwise he should divorce her — compelled by the authorities if necessary — "so that the wife is not harmed." Ibn Kathir notes that "then if they return" means returning to a normal relationship of intercourse, the tafsir of Ibn 'Abbas, Masruq, Ash-Sha'bi, Sa'id bin Jubayr and Ibn Jarir. Crucially, he holds that the next verse ("And if they decide upon divorce") shows divorce does NOT fall by merely passing the four-month mark; the husband must actively retain or release — a position he traces to 'Umar, 'Uthman, 'Ali, Ibn 'Umar, Ibn 'Abbas and twelve Companions.
-
-Maarif ul Quran (Bayan al-Qur'an) records a divergent ruling. It frames four cases: no time-limit, exactly four months, and more than four months are all Īlā'; less than four months is not. In the first three, if he breaks the oath within four months and resumes relations, the marriage stays intact but he owes kaffārah (expiation). But — contrary to Ibn Kathir — "should it be that the time-limit of four months did expire and the oath-taker did not break his oath, an irrevocable divorce on his wife will become effective." Taking her back then requires a fresh marriage by mutual consent, though no halālah is needed.
-
-**From the Sunnah — the Prophet's own Īlā'**
-The Prophet ﷺ himself swore to stay away from his wives for a month, then came to them after twenty-nine days, teaching that the lunar month can be twenty-nine days. (The Two Sahihs — al-Bukhari and Muslim)
-
-**From the Sunnah — Ibn 'Umar's ruling**
-Ibn 'Umar ruled that divorce does not occur automatically even after four months pass; when the husband reaches that mark he must either divorce or return to her — a Companion's verdict, reported via Malik from Nafi' and also recorded by al-Bukhari.
-
-**Reflection**
-Even anger has a deadline in Allah's law: do not let a vow harden into lasting cruelty — return with mercy or part with justice, and trust that Allah forgives the one who turns back.
 ## Personal Reflections
-
 

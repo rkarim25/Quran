@@ -210,17 +210,5 @@ At the end, we shall again insist that no good can come out of unnecessarily med
 
 He is the Originator of the heavens and earth. When He decrees a matter, He only says to it, "Be," and it is.
 
-## AI Tafsir
-
-**Essence** Allah is the Originator of the heavens and the earth, far above having a son; when He decrees a thing, His command "Be!" brings it into being.
-
-**What it teaches** "Badi'" means He created the heavens and earth when nothing resembling them existed, with no prior model. And when He decrees a matter, His creative command "Be!" needs no instrument, helper, or precedent — the thing comes into existence, demonstrating His complete ability and tremendous authority. This is the decisive answer to any claim that Allah has begotten a son: a son is born of two comparable beings, yet He has no equal and no wife.
-
-**The scholars** Ibn Kathir says these verses refute the Christians, Jews, and Arab idolaters who claimed Allah took a son or that the angels are His daughters: He is the Supreme Master with no equal, who created everyone — so how could one of them be His son? Mujahid and As-Suddi note the linguistic sense of "Badi'," since all unprecedented things are called bid'ah. Maarif ul Quran adds the rational proof: any offspring must be of the same genus or a different one — a different genus implies defect, and Allah is free of all defect, while no being can share His genus, since He alone is the Necessary Being. Ibn Jarir, whose view Ibn Kathir calls "very good and correct," concludes that just as Allah created the heavens and earth out of nothing and without precedent, He created 'Isa by His power without a father. Ibn Kathir then cites that 'Isa is, before Allah, as the likeness of Adam, whom He made from dust and then said, "Be!"
-
-**From the Sunnah** Allah relates that the son of Adam wrongs Him in two ways: denying Him by doubting that He can resurrect, and insulting Him by claiming He has a son — yet Allah is far above taking a wife or a son. (Al-Bukhari) And none bears an insult with greater forbearance than Allah: people attribute a son to Him, while He still provides for them and grants them health. (The Two Sahihs)
-
-**Reflection** The One who has no equal and no genus, the Necessary Being upon whom all depend, is wronged by the very creatures He sustains — yet He answers insult with patience and provision. Let your worship rest on His pure oneness, and marvel that His single word "Be!" calls worlds into being.
 ## Personal Reflections
-
 

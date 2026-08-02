@@ -176,13 +176,5 @@ This verse indicates that the construction of houses and buildings without need 
 
 So they rejected him, and so We destroyed them. Surely in this is a sign. Yet most of them would not believe.
 
-## AI Tafsir
-
-**What this ayah teaches:** It means that the building which is constructed in excess of requirement has no benefit or virtue.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** In our explanation of Surat Al-A'raf, we mentioned the Hadiths which tell how the Messenger of Allah ﷺ passed by their dwelling place when he wanted to launch a raid on Syria.
 ## Personal Reflections
-
 

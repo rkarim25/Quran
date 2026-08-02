@@ -403,13 +403,5 @@ Imam Ahmad recorded that 'Abdullah bin 'Abbas said, "On the day of Hudaybiyyah, 
 
 When those who rejected the truth filled their hearts with the arrogance of pre-Islamic ignorance, Allah sent down His tranquillity upon His Messenger and the believers, and bound them to the declaration of tawhid—they were more entitled to it and worthier of it. Allah has perfect knowledge of everything.
 
-## AI Tafsir
-
-**What this ayah teaches:** Erase it and write instead: "These are the peace terms agreed to by Muhammad bin 'Abdullah.") By Allah, Allah's Messenger ﷺ is better than 'Ali, and the Messenger ﷺ erased his title.
-
-**Classical tafsir:** Ibn Kathir notes: The those who reject the truth sent two men in pursuit who said to the Prophet ﷺ, 'Abide by the promise you gave us.' So, the Prophet ﷺ handed him over to them.
-
-**From the Sunnah:** "Abu Bakr, may Allah be pleased with him, said, "O, Allah's Messenger! By Allah, Khalid did not perceive the arrival of the Muslims until the dust arising from the march of the Muslim army reached him, then he turned back hurriedly to inform the Quraysh. (Sahih Muslim)
 ## Personal Reflections
-
 

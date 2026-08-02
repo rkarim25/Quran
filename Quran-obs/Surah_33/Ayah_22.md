@@ -146,13 +146,5 @@ In the last verse (27), good news of future victories has been given. Gone is th
 
 When the mu'mins saw the enemy alliance, they said, “This is what Allah and His Messenger had promised us. The promise of Allah and His Messenger has come true.” And this only increased them in iman and submission.
 
-## AI Tafsir
-
-**What this ayah teaches:** Indeed in the Messenger of Allah you have a good example to follow for him who hopes in Allah and the Last Day, and remembers Allah much (21)And when the believers saw the Confederates, they said: "This is what Allah and His Messenger had promised us; and Allah and His Messenger had spoken the truth." And it only added to their faith and to their submissiveness .
-
-**Classical tafsir:** Ibn Kathir notes: And any act or omission on his part that is proved to have been done as a preferable conduct (istihbab) and not as an obligatory one, should be followed by us too as a commendable (mustahab) conduct and not as a necessary obligation This, in other words, means that its contravent…
-
-**From the Sunnah:** This Ayah is an important principle, to follow the Messenger of Allah ﷺ in all his words, and deeds, etc.
 ## Personal Reflections
-
 

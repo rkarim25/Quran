@@ -91,13 +91,5 @@ Other exegetes have interpreted the phrases وَجْهُ رَ‌بِّكَ 'your
 
 Only the Face of your Rabb—full of Majesty and Honour—will remain forever.
 
-## AI Tafsir
-
-**What this ayah teaches:** Despite being the Lord of Greatness and Majesty, Allah is not like the worldly kings and rulers who would not pay attention to others or the indigent people.
-
-**Classical tafsir:** Ibn Kathir notes: Qatadah said, "First, Allah mentioned His creatures and then He said that all of this will perish." And in the reported supplication: 'O You the Ever Living Who sustains all that exists! The phrase 'what is with you' refers to 'wealth and power, comfort and discomfort, love and hatred'.
-
-**From the Sunnah:** The attached second person pronoun in rabb-i-ka [=your Lord ] refers to the Messenger of Allah ﷺ . : اَلِظُّوا بِیَا ذَا الجَلَال وَالاِکرَام (Persist [ in invoking Allah ] with '0 Lord of Majesty and Honour'. (Jami' at-Tirmidhi, Sunan an-Nasa'i)
 ## Personal Reflections
-
 

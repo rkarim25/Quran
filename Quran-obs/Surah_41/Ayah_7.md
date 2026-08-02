@@ -134,13 +134,5 @@ The third question which arises here is that the commandment for Salah is the mo
 
 those who do not pay zakat—obligatory sharing of wealth to purify what remains—and deny the Akhirah."
 
-## AI Tafsir
-
-**Context:** Say: "I am only a human being like you. It is revealed to me that your Allah is One Allah, therefore take straight path to Him and obedience to Him, and seek forgiveness of Him.
-
-**What this ayah teaches:** The Zakah paid on one's wealth is so called because it purifies wealth, and it is a means of increasing it, blessing it and making it more beneficial, and a means of assisting one to use it in doing good deeds.
-
-**Classical tafsir:** Ibn Kathir notes: Qatadah said, "They withheld the Zakah of their wealth." This is the apparent meaning according to many of the scholars of Tafsir, and this is the view favored by Ibn Jarir.
 ## Personal Reflections
-
 

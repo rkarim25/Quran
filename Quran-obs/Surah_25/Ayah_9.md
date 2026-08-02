@@ -154,11 +154,5 @@ The Second Objection was that if the Holy Prophet ﷺ was a prophet, he should n
 
 See O Prophet how they call you names! So they have gone so far astray that they cannot find the Sirat al-Mustaqim — the way of living that pleases Allah.
 
-## AI Tafsir
-
-**What this ayah teaches:** And if this was not so, he should have at least enough wealth and gardens to take care of his day to day needs, so that he may not need to care for his living. Furthermore, how could he be accepted as a prophet when he is neither an angel nor does an angel accompany him to endorse what he preaches, therefore it appears that he has been charmed by someone which has turned his head and that is why h…
-
-**Classical tafsir:** Ibn Kathir notes: It almost bursts up with fury)(67:7-8), which means that parts of it almost separate from other parts because of its intense hatred towards those who disbelieved in Allah.
 ## Personal Reflections
-
 

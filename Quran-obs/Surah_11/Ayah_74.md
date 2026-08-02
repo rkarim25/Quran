@@ -96,11 +96,5 @@ Allah Ta` ala has, in His great design, made this world of ours an open gallery 
 
 Then after the fear had left Abraham, and the good news had reached him, he began to plead with Us for the people of Lot.
 
-## AI Tafsir
-
-**What this ayah teaches:** That a man would pollute his honor and dignity with another man is a curse the fallout from which is far more injurious than common forni-cation.
-
-**Classical tafsir:** Ibn Kathir notes: Indeed, the commandment of your Lord has gone forth.) This means the decree was settled concerning them and the Word was already given that they should be destroyed.
 ## Personal Reflections
-
 

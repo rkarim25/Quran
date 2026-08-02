@@ -127,13 +127,5 @@ The word: مِعْشَارَ‌ (mi'shar) in verse 45: وَمَا بَلَغُو
 
 Those before them denied as well—and these people have not attained even a tenth of what We gave their predecessors. Yet when they rejected My messengers, how severe was My response!
 
-## AI Tafsir
-
-**Context:** (And We had not given them Scriptures that they could study, nor sent to them before you any warner) meaning, Allah did not reveal any Book to the Arabs before the Qur'an, and He did not send any Prophet to them before M…
-
-**What this ayah teaches:** but that did not protect them from the punishment of Allah, and Allah destroyed them because they denied His Messengers. The sense of the verse is that not even a tenth, rather a thousandth, of the worldly wealth, power, blessings of age and health given to earlier communities was received by the people of Makkah.
-
-**Classical tafsir:** Ibn Kathir notes: but that did not protect them from the punishment of Allah, and Allah destroyed them because they denied His Messengers.
 ## Personal Reflections
-
 

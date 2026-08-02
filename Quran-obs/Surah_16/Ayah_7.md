@@ -139,11 +139,5 @@ Finally, mention has been made of another important benefit which comes from the
 
 And they carry your loads to distant lands which you could not otherwise reach without great hardship. Surely your Rabb — the One who creates, owns, nurtures, and sustains is Ever Gracious, the Rahim — special mercy for believers in the Akhirah — the everlasting life after death.
 
-## AI Tafsir
-
-**What this ayah teaches:** And you find (many other) benefits in them; you may reach by their means a desire that is in your breasts (i.e.
-
-**Classical tafsir:** Ibn Kathir notes: It signifies that there are countless benefits tied to the meat, skin, bone and hair of animals.
 ## Personal Reflections
-
 

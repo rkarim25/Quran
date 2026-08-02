@@ -163,11 +163,5 @@ So, whatever good there is in gratitude, that is for you alone. There-fore, when
 
 Why should we not trust Allah when He has guided us to the best ways? We will patiently endure whatever harm you cause us. In Allah let the faithful put their trust."
 
-## AI Tafsir
-
-**What this ayah teaches:** So, whatever good there is in gratitude, that is for you alone.
-
-**Classical tafsir:** Ibn Kathir notes: those who reject the truth reject Prophethood because the Messengers were Humans!
 ## Personal Reflections
-
 

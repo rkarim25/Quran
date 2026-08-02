@@ -192,13 +192,5 @@ In short, Allah Ta` ala has placed all that human beings need on and in this ear
 
 The weighing on that Day will be just. As for those whose scale will be heavy, they will be successful.
 
-## AI Tafsir
-
-**What this ayah teaches:** Tafsir authority, Ibn Kathir, after having reported all these narrations, has said that it is possible that the weighing is repeated several times in different ways and, it is obvious, the full reality of these matters is known to Allah Ta` ala alone - and for doing what one does in real life, it is, for all practical purposes, not necessary to know this reality.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, scholars of Tafsir say that this shows that weighing in Mahshar (Resurrection) will be twice.
-
-**From the Sunnah:** The Prophet ﷺ mentioned the opposite in the case of the those who reject the truth and the hypocrite. it is authentic. (Jami' at-Tirmidhi)
 ## Personal Reflections
-
 

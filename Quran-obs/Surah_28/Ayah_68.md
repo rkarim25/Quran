@@ -126,11 +126,5 @@ In the same way, many places of the world are preferred over other places, and m
 
 Your Rabb creates and chooses whatever He wills—the choice is not theirs. Glorified and Exalted is Allah above what they associate with Him!
 
-## AI Tafsir
-
-**What this ayah teaches:** Glorified is Allah, and exalted above all that they associate (68)And your Lord knows what their breasts conceal, and what they reveal (69)And He is Allah; La ilaha illa Huwa, His is the praise in the first and in the last, and His is the decision, and to Him shall you be returned .
-
-**Classical tafsir:** Ibn Kathir notes: - 43:31) that is, ` If Allah had wished to reveal this Qur'an He should have revealed it on some dignitary of Makkah or Ta'if, so that he should have had respect and reverence.
 ## Personal Reflections
-
 

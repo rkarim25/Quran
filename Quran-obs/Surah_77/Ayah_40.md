@@ -108,11 +108,5 @@ Then Allah says,
 
 Woe that Day to those who deny!
 
-## AI Tafsir
-
-**What this ayah teaches:** We have brought you and the men of old together (38)So, if you have a plot, use it against Me (Allah)(39)Woe that Day to the deniers (of the Day of Resurrection).
-
-**Classical tafsir:** Ibn Kathir notes: There is no discrepancy between the two verses, because there will be various stages on the Plain of Gathering (Mahshar) through which people will have to pass.
 ## Personal Reflections
-
 

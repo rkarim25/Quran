@@ -155,25 +155,5 @@ The fallacy of this argument is evident from what has been discussed above.
 
 If they turn away, then surely Allah has knowledge of the corruptors.
 
-## AI Tafsir
-
-**Essence**
-When truth has been made plain and people still turn away, Allah is fully aware of them, for to abandon truth for falsehood is itself corruption (fasad).
-
-**What it teaches**
-After establishing the truth about 'Isa and calling the disputing Christians to Mubahalah (mutual prayer invoking Allah's curse on the liars), this verse closes the argument: "And if they turn away, then surely Allah is All-Aware of the corrupters." The mufsidun are the "corrupters" — and turning from clear truth to falsehood is precisely the corruption (fasad) meant; 'Alim (All-Knowing) here carries a warning, that nothing of their obstinacy is hidden from Allah.
-
-**The scholars**
-Ibn Kathir explains "if they turn away" as "abandoning this truth," and that "those who abandon the truth for falsehood commit mischief, and Allah has full knowledge of them and will subject them to the worst punishment." He frames the whole passage as Allah's refutation of the Najran delegation, who variously claimed 'Isa was Allah, the son of Allah, or one of a trinity — "Allah is far from what they attribute to Him." The likeness of 'Isa to Adam is the proof: Allah created Adam with neither father nor mother, so creating 'Isa without a father shows divine power, not divine sonship — and if sonship were claimed for the fatherless, "then the same claim befits Adam even more," yet that is plainly false. Maarif ul Quran defines Mubahalah as joint prayer that Allah cast His curse on whichever party lies, since "curse means moving someone far away from the divine mercy" — and being far from mercy is being near divine wrath — so its essence is "Wrath be on the liar." Maarif also notes that "our sons" includes grandsons in common usage, so Hasan and Husayn, and 'Ali (RA) — raised like a son by the Prophet ﷺ — are included; Maarif rejects as a fallacy the Shia inference that 'Ali was instead counted under "ourselves" and so was the Prophet's immediate successor.
-
-**From the Sunnah**
-When the Prophet ﷺ called the two Najran leaders, Al-'Aqib and As-Sayyid, to invoke Allah's curse, one warned the other that if Muhammad ﷺ were truly a Prophet, none of them and their offspring would ever prosper after the curse — so they withdrew and instead asked for a trustworthy man, and the Prophet ﷺ sent Abu 'Ubaydah bin Al-Jarrah (RA), naming him the trustee of this Ummah. (Al-Bukhari, from Hudhayfah RA)
-
-**From the Sunnah**
-The Prophet ﷺ said that had those who sought the Mubahalah with him gone ahead with it, they would have returned home to find neither estates nor families left to them. (Recorded by Imam Ahmad from Ibn 'Abbas RA; also by Al-Bukhari, At-Tirmidhi and An-Nasa'i; At-Tirmidhi graded it Hasan Sahih)
-
-**Reflection**
-When the truth has reached you clearly, do not turn from it for the sake of status or habit — for nothing of the heart's turning is hidden from the One who knows the corrupters.
 ## Personal Reflections
-
 

@@ -150,17 +150,5 @@ Verse 175 tells us that a person who changes the injunction of Shari'ah in his g
 
 That is because Allah sent down the Book in truth. Those who dispute about it are deeply opposed.
 
-## AI Tafsir
-
-**Essence** Their dispute is inexcusable, for Allah sent down the Book in truth itself — so those who wrangle over it have torn themselves into deep, distant schism.
-
-**What it teaches** The word *dhalika* ("that") points back to the painful torment of vv. 174-175: it is deserved because Allah revealed the Book *bil-haqq* — "with the truth" — clear, decisive, and exposing falsehood. Those who then "differed" (*ikhtalafu*) over it are described as being in *shiqaq baeed* — a "schism" so "far" that they have placed themselves at the farthest remove from guidance and unity.
-
-**The scholars** Ibn Kathir reads the verse as the verdict that explains the doom announced before it: because Allah revealed Books to Muhammad (peace be upon him) and the Prophets before him bringing truth and exposing falsehood, yet the people "took Allah's signs for mockery." He identifies the concealers chiefly as the Jews who hid their Books' descriptions of the Prophet (peace be upon him) so as not to lose the honor and gifts they received from the Arabs — selling their souls for a "little profit" and earning "failure and loss in this life and the Hereafter" — though he also reports that some apply the verse to the idolaters who dismissed the Qur'an. Their being "far away in opposition," he concludes, is the fruit of choosing denial over the truth they recognized. Maarif ul Quran widens the lesson: just as scholars among the Jews distorted the Torah to please those who bribed them, this stands as a "veiled warning" to the scholars of this Ummah never to fall short in disclosing Allah's true injunctions for worldly gain; such people "elected to stray away from the Book of Allah, something so clear and true," and so are "far out in schism" deserving a matching punishment.
-
-**From the Sunnah** When the Qur'an warns that those who hide the Book "eat into their bellies nothing but fire" (2:174), it draws on an image that recurs in the Prophet's own speech. Ibn Kathir places alongside it the authentic Hadith — about the distinct matter of using forbidden vessels — that "those who eat or drink in golden or silver plates are filling their stomachs with the fire of Jahannam." The parallel sharpens the Qur'an's meaning: what the hand consumes in defiance of Allah's command becomes, in reality, fire within — a truth unfelt now but unveiled on the Day of Resurrection.
-
-**Reflection** This verse turns its sharpest edge inward. The scholar or believer entrusted with Allah's clear word is asked never to soften, withhold, or bend it for a fee, a friendship, or a reputation — for the one who edits the truth to suit his gain does not merely err, he steps into the very "distant schism" that severs a person from the guidance he once held.
 ## Personal Reflections
-
 

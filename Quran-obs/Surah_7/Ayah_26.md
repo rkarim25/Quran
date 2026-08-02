@@ -162,11 +162,5 @@ Along with it, there is the crucial need to correct one's morals and deeds which
 
 O children of Adam! We have provided for you clothing to cover your nakedness and as an adornment. However, the best clothing is righteousness. This is one of Allah’s bounties, so perhaps you will be mindful.
 
-## AI Tafsir
-
-**What this ayah teaches:** But, in accordance with the well-known reading of it, it means that everyone knows the two dresses mentioned, however, there is a third kind of dress, that of Taqwa - and that is the best of all dresses.
-
-**Classical tafsir:** Ibn Kathir notes: Libas refers to the clothes that are used to cover the private parts, while Rish refers to the outer adornments used for purposes of beautification.
 ## Personal Reflections
-
 

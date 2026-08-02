@@ -160,15 +160,5 @@ The restrictive particle: اَنَّمَا (innama: only) appearing in verse 115
 
 Do not falsely declare with your tongues, “This is lawful, and that is unlawful,” only fabricating lies against Allah. Indeed, those who fabricate lies against Allah will never succeed.
 
-## AI Tafsir
-
-**Context:** The restrictive particle: اَنَّمَا (innama: only) appearing in verse 115 seems to give the impression that things Haram are no more than the four mentioned in the verse.
-
-**What this ayah teaches:** But if one is forced by necessity, without willful disobedience, nor transgressing, then, Allah is Pardoning, ar-Rahim (115)And do not describe what your tongues have lied about, saying: "This is lawful and this is forbidden," to invent lies against Allah.
-
-**Classical tafsir:** Ibn Kathir notes: and then to Us will be their return, then We shall make them taste the severest torment because they disbelieved.)(10:69-70)
-
-**From the Sunnah:** It seems to be suggestive of nothing being Haram other than the things mentioned in the verse while the fact is that according to clarifications of the Qur'an and Sunnah and by the Consensus of the Muslim Ummah, there are many more things…
 ## Personal Reflections
-
 

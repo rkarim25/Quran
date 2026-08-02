@@ -118,11 +118,5 @@ If we go by the second view of the commentators, who say that both 'earlier' and
 
 In scorching heat and boiling water,
 
-## AI Tafsir
-
-**What this ayah teaches:** Depart you to a shadow in three columns, neither shady nor of any use against the fierce flame of the Fire.
-
-**Classical tafsir:** Ibn Kathir notes: As-Suddi said "Al-Him is a disease that strikes camels, causing them to feel thirst, and they drink until they die." Therefore, he said, the people of Hell, will never quench their thirst from drinking Hamim.
 ## Personal Reflections
-
 

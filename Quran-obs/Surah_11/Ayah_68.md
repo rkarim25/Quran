@@ -72,11 +72,5 @@ From this verse we learn that the people of Sayyidna Salih (علیہ السلا�
 
 as if they had never lived there. Surely Thamûd denied their Rabb, so away with Thamûd!
 
-## AI Tafsir
-
-**What this ayah teaches:** Commentator al-Qurtubi has said that there is no contradiction here.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

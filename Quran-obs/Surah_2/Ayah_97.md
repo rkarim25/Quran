@@ -197,17 +197,5 @@ That should leave no room for any doubt. Moreover, the "heart" perceives words a
 
 Say, "Whoever is an enemy of Gabriel should know that he brought this Quran to your heart by Allah's permission, confirming what came before — a guide and good news for the mu'min."
 
-## AI Tafsir
-
-**Essence** Enmity toward Jibril is enmity toward the One who sent him: he brought the Qur'an down upon the Prophet's ﷺ heart only by Allah's permission.
-
-**What it teaches** Jibril is purely an emissary; the Book he carries confirms the earlier Scriptures and is guidance and glad tidings for the believers.
-
-**The scholars** At-Tabari: the mufassirun agree this answered the Jews who called Jibril their enemy and Mika'il their friend. Ibn Kathir: enmity to one messenger is enmity to all (cf. 4:150). Mufti Shafi's Maarif ul Quran relays Thanavi's Bayan al-Qur'an: "upon your heart" never means meanings without words.
-
-**From the Sunnah** 'Abdullah bin Salam asked three things "which nobody knows except a Prophet"; the Prophet ﷺ said, "Jibril has just told me the answers" — and when he gave them, Ibn Salam embraced Islam. Ibn Kathir adduces the hadith qudsi: "Whoever takes a friend of Mine as an enemy, will have started a war with Me" (both Al-Bukhari).
-
-**Reflection** Receive the Qur'an as it was sent — upon the heart, where Jibril laid it.
 ## Personal Reflections
-
 

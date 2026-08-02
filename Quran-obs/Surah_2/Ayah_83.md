@@ -242,17 +242,5 @@ Talha ibn ` Umar recounts that once he said to the great master of the Sciences 
 
 And when We took a covenant from the Children of Israel: worship none but Allah; be good to parents, relatives, orphans, and the needy; speak kindly to people; establish salah; and give zakat. Then you turned away — except a few among you — and were indifferent.
 
-## AI Tafsir
-
-**Essence** Allah's covenant with the Children of Israel bound worship of Him alone to goodness toward people — yet all but a few knowingly turned away.
-
-**What it teaches** Tawhid, ihsan to parents, kin, orphans and the needy, good speech to all, salah and zakah — the shared core, Maarif notes, of Islam and every earlier Shari'ah. The faithful few, it adds, kept Musa's law, then Muhammad's, peace be upon them.
-
-**The scholars** Ibn Kathir: Allah's right to be worshipped alone is the highest right — the reason He created creation. Al-Hasan al-Basri: "speak good" means commanding good, forbidding evil, patience and forgiveness. 'Ata' (in Qurtubi): if Jews and Christians are owed gentle speech, how much more a fellow Muslim.
-
-**From the Sunnah** Asked the best deed, the Prophet ﷺ said: "Performing the prayer on time," then "being kind to one's parents" (the Two Sahihs). And: belittle no righteousness — even meeting your brother with a smiling face (Ahmad; Muslim; Tirmidhi: Sahih).
-
-**Reflection** Keep the covenant daily: prayer on time, parents honored, a kind face and word for everyone you meet.
 ## Personal Reflections
-
 

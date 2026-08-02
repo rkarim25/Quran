@@ -362,13 +362,5 @@ This tells us that the problem does not lie in difference of opinion, nor does i
 
 Say, “He has the power to unleash upon you a torment from above or below you or split you into factions and make you taste the violence of one another.” See how We vary the signs, so perhaps they will comprehend.
 
-## AI Tafsir
-
-**Context:** "Yalbisakum means, 'cover you with confusion', So it means to, 'divide into parties and sects'. Jabir bin 'Abdullah said, 'When this Ayah was revealed, So, the verse could be translated in the sense that one kind of ` Ad…
-
-**What this ayah teaches:** In the light of these Hadith narrations and the explanation of related verses, the outcome is that hardships faced by people at the hands of their rulers are a punishment which comes from above - and that which is inflicted through servants and subordinates is a punishment which comes from beneath.
-
-**Classical tafsir:** Ibn Kathir notes: Al-Walibi ('Ali bin Abi Talhah) reported that Ibn 'Abbas said that this Ayah refers to desires.
 ## Personal Reflections
-
 

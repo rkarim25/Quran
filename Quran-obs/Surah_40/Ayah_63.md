@@ -119,13 +119,5 @@ In the first verse (61), it was said: جَعَلَ لَكُمُ اللَّيْل
 
 This is how those who used to reject Allah's ayahs were also deluded.
 
-## AI Tafsir
-
-**What this ayah teaches:** How then are you turning away (62)Thus were turned away those who used to deny the Ayat of Allah (63)Allah, it is He Who has made for you the earth as a dwelling place and the sky as a canopy, and has given you shape and made your shapes good and pure (looking) and has provided you with good things.
-
-**Classical tafsir:** Ibn Kathir notes: Signs of the Power and Oneness of Allah Allah reminds us of His grace towards His creation in that He has given them the night in which they rest and relax from their activities so that they can go back to them for their livelihood during the day.
-
-**From the Sunnah:** that after ending every prayer, 'Abdullah bin Az-Zubayr used to say: (Musnad Ahmad) He said, "The Messenger of Allah ﷺ used to say the Tahlil in this fashion after every prayer." Similar was also recorded by Muslim, Abu Dawud and An-Nasa'i.
 ## Personal Reflections
-
 

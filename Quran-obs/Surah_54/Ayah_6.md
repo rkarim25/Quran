@@ -85,11 +85,5 @@ Allah the Exalted says, 'O Muhammad, turn away from these people who, when they 
 
 So turn away from them, O Prophet. Wait for the Day when the caller will summon them to something horrifying.
 
-## AI Tafsir
-
-**What this ayah teaches:** The Day that the caller will call (them) to a terrible thing (6)They will come forth, with humbled eyes from (their) graves as if they were locusts spread abroad (7)Hastening towards the caller.
-
-**Classical tafsir:** Ibn Kathir notes: The literal meaning of the word istiqrar is to settle.
 ## Personal Reflections
-
 

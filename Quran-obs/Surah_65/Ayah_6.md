@@ -273,13 +273,5 @@ If it is agreed that the wet-nurse would do the suckling, it is incumbent that t
 
 Let them live where you live during their waiting period, according to your means. Do not harass them to make their stay unbearable. If they are pregnant, maintain them until they deliver. If they nurse your child, compensate them and consult together courteously. If you fail to agree, another woman may nurse the child for the father.
 
-## AI Tafsir
-
-**What this ayah teaches:** If she is pregnant, then she is to be spent on her until she lays down her burden.
-
-**Classical tafsir:** Ibn Kathir notes: This verse states the positive aspect of the injunction, in that the husbands, according to their means, should let their divorced wives live in some portion of the residence where they themselves live.
-
-**From the Sunnah:** This is a point of consensus between all the Muslim jurists. (Sahih Muslim)
 ## Personal Reflections
-
 

@@ -80,11 +80,5 @@ Allah says,
 
 for the living and the dead,
 
-## AI Tafsir
-
-**What this ayah teaches:** The earth is held in place with them so that it does not shake and sway. Earth is created by Allah in a fashion that humans when alive, remain on its back, and when dead, in its belly.
-
-**Classical tafsir:** Ibn Kathir notes: The earth is held in place with them so that it does not shake and sway.
 ## Personal Reflections
-
 

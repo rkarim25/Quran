@@ -170,13 +170,5 @@ In verse 107, it was said: وَفَدَيْنَاهُ بِذِبْحٍ عَظِ�
 
 "Peace be upon Abraham."
 
-## AI Tafsir
-
-**What this ayah teaches:** The evidence for this is obvious, because Allah commanded Ibrahim, peace be upon him, to sacrifice his son, then He abrogated that and pointed out the ransom. The Muslims and the People of the Book agree, and indeed it is stated in their Book, that Isma'il, peace be upon him, was born when Ibrahim, peace be upon him, was eighty-six years old, and Ishaq was born when Ibrahim was ninety-nine years o…
-
-**Classical tafsir:** Ibn Kathir notes: They inserted the name of Ishaq because he is their ancestor, while Isma'il is the ancestor of the Arabs.
-
-**From the Sunnah:** The Muslims and the People of the Book agree, and indeed it is stated in their Book, that Isma'il, peace be upon him, was born when Ibrahim, peace be upon him, was eighty-six years old, and Ishaq was born when Ibrahim was ninety-nine years old.
 ## Personal Reflections
-
 

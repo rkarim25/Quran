@@ -238,15 +238,5 @@ Before we move to the next verse, it would be useful to keep in mind that the pe
 
 Indeed, We have sent revelation to you as We sent revelation to Noah and the prophets after him. We also sent revelation to Abraham, Ishmael, Isaac, Jacob, and his descendants, Jesus, Job, Jonah, Aaron, and Solomon. And to David We gave the Psalms.
 
-## AI Tafsir
-
-**Context:** (...and to Dawud We gave the Zabur.) The 'Zabur' (Psalms) is the name of the Book revealed to Prophet Dawud, peace be upon him. Zabur is the name of the Book revealed to David, Biblically known as the Psalms.
-
-**What this ayah teaches:** Keeping this in view, it is necessary that they keep to the line of argument they use in favour of these great prophets, that is, they accept them on the basis of their miracles.
-
-**Classical tafsir:** Ibn Kathir notes: Zabur is the name of the Book revealed to David, Biblically known as the Psalms.
-
-**From the Sunnah:** "and to Allah, Musa spoke directly." Abu Bakr said, 'Only a those who reject the truth would recite it like this.' Al-A'mash recited it with Yahya bin Withab, who recited it with Abu 'Abdur-Rahman As-Sulami who recited it with 'Ali bin Abi Talib who recited with the Messenge…
 ## Personal Reflections
-
 

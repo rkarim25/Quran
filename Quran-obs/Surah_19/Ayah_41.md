@@ -107,11 +107,5 @@ Meaning of Siddiq
 
 And mention Abraham in the Book. He was a man of truth and a prophet.
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, I fear lest a torment from the ar-Rahman should overtake you, so that you become a companion of Shaytan. In other words his utterances truly reflect his beliefs, and his actions in turn match with his beliefs and words.
-
-**Classical tafsir:** Ibn Kathir notes: Verily, I fear lest a torment from the ar-Rahman should overtake you, so that you become a companion of Shaytan.
 ## Personal Reflections
-
 

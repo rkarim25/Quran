@@ -166,15 +166,5 @@ Verse [ 111:3] سَيَصْلَىٰ نَارً‌ا ذَاتَ لَهَبٍ (He 
 
 He will enter a Fire of blazing flame—
 
-## AI Tafsir
-
-**Context:** The Reason for the Revelation of this Surah and the Arrogance of Abu Lahab toward the Messenger of Allah (ﷺ)
-
-**What this ayah teaches:** His wealth and his children will not benefit him!)(3. Therefore, she will be helping to administer his punishment in the fire of Hell on the Day of Judgement.
-
-**Classical tafsir:** Ibn Kathir notes: His wealth and his children will not benefit him!)(3.
-
-**From the Sunnah:** from Ibn 'Abbas that the Prophet ﷺ went out to the valley of Al-Batha and he ascended the mountain. (Sahih al-Bukhari) This man Abu Lahab was one of the uncles of the Messenger of Allah ﷺ.His name was 'Abdul-'Uzza bin Abdul-Muttalib.
 ## Personal Reflections
-
 

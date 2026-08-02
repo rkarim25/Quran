@@ -290,11 +290,5 @@ Their reply to this question has been reported in the Qur'an itself.
 
 Remember when your sister came along and proposed, ‘Shall I direct you to someone who will nurse him?’ So We reunited you with your mother so that her heart would be put at ease, and she would not grieve. Later you killed a man by mistake, but We saved you from sorrow, as well as other tests We put you through. Then you stayed for a number of years among the people of Midian. Then you came here as pre-destined, O Moses!
 
-## AI Tafsir
-
-**What this ayah teaches:** So she said to them, "I can take you to a family where there is a woman whose milk, I hope, the child will accept and who will bring him up with great love and affection." Thereupon the servants held her on the suspicion that she was, perhaps, the mother or a close relation of the child and for that reason spoke with such a confidence that the proposed family is well-wisher of…
-
-**Classical tafsir:** Ibn Kathir notes: Rather, they both should remember Allah during their meeting with Fir'awn so that the remembrance of Allah can be an aid for them against him.
 ## Personal Reflections
-
 

@@ -106,11 +106,5 @@ Commentary
 
 But those who reject the truth and deny Our revelations, it is they who will suffer a humiliating punishment.
 
-## AI Tafsir
-
-**What this ayah teaches:** So those who believed and did righteous good deeds will be in Gardens of Delight (56)And those who disbelieved and denied Our Ayat, for them will be a humiliating torment (in Hell). And those who disbelieved, will not cease to be in doubt about it until the Hour comes suddenly upon them, or there comes to them the torment of Yawm 'Aqim (55)The sovereignty on that Day will be that of Allah.
-
-**Classical tafsir:** Ibn Kathir notes: This verse explains that the disputes raised by the those who reject the truth in regard to Allah's message is not something new as similar doubts were raised by earlier people as well when their prophets presented to them the message of Truth, and the Shaitan cast doubts about it in the heart…
 ## Personal Reflections
-
 

@@ -234,15 +234,5 @@ In addition to that, the purpose here is to comfort the Holy Prophet ﷺ when he
 
 And so We have placed in every society the most wicked to conspire in it. Yet they plot only against themselves, but they fail to perceive it.
 
-## AI Tafsir
-
-**Context:** They said, why was not this Qur'an revealed to a mighty, respectable leader, honored by us,
-
-**What this ayah teaches:** Then, these big people open a front of hostility and conspiracy against them, which is obviously to harass or harm these pious souls, but in the ultimate analysis, the curse of what they do against them recoils back on them alone.
-
-**Classical tafsir:** Ibn Kathir notes: This is because they, may Allah curse them, belittled the Messenger ﷺ out of envy, transgression, rebellion and defiance.
-
-**From the Sunnah:** The those who reject the truth used to call the Prophet ﷺ, before he received revelation, 'Al-Amin' – the Truthful. In this statement of guidance, Muslims have been warned against aspiring to be like the big, the rich, the wealthy of the world.
 ## Personal Reflections
-
 

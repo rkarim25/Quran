@@ -207,13 +207,5 @@ The word: خَلَائِفَ (khala'if) in verse 39: هُوَ الَّذِي ج�
 
 Ask them: "Have you considered those you invoke besides Allah? Show me what they created on earth. Or do they share in the heavens? Have We given you a Book with clear proof?" In fact, the wrongdoers promise each other nothing but delusion.
 
-## AI Tafsir
-
-**Context:** (Or have We given them a Book, so that they act on clear proof therefrom?) meaning, 'have We revealed to them a Book on which they base their Shirk and disbelief?' This is not the case at all.
-
-**What this ayah teaches:** Or have We given them a Book, so that they act on clear proof therefrom? Show Me, what they have created of the earth.
-
-**Classical tafsir:** Ibn Kathir notes: Or have We given them a Book, so that they act on clear proof therefrom?
 ## Personal Reflections
-
 

@@ -82,11 +82,5 @@ meaning, they do not command that the poor and the needy be treated with kindnes
 
 And you devour inheritance greedily, by trickery or outright theft—
 
-## AI Tafsir
-
-**What this ayah teaches:** This is the third evil trait of the unbelievers, and the verse signifies that they devour inheritance with voracious appetites however they can get it, whether by lawful means or unlawful means. Here, however, 'inheritance' has been particularly mentioned, probably because having a greedy eye on it and pursuing it are a proof of man's greed and voracity for wealth.
-
-**Classical tafsir:** Ibn Kathir notes: This is the third evil trait of the unbelievers, and the verse signifies that they devour inheritance with voracious appetites however they can get it, whether by lawful means or unlawful means.
 ## Personal Reflections
-
 

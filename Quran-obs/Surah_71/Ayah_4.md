@@ -135,11 +135,5 @@ Commentary
 
 He will forgive your sins and delay your end until the appointed time. When the time set by Allah comes, it cannot be delayed—if only you knew.'
 
-## AI Tafsir
-
-**What this ayah teaches:** If it is taken in that sense here, it would signify that by embracing the faith only those sins would be forgiven which pertains to the Divine rights because violation of human rights would be forgiven only when the believer fulfills the human rights which he has violated [ such as pecuniary obligations ] and if they cannot be fulfilled [ such as hurting somebody physically or verbally ], then the…
-
-**Classical tafsir:** Ibn Kathir notes: Other scholars of Tafsir interpret the particle min as za'idah, (having no meaning, and added only because of usage).
 ## Personal Reflections
-
 

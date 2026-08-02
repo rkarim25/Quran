@@ -134,11 +134,5 @@ The Arabic word مَلَکُوت (Malakut) signifies kingdom indicating a superl
 
 Have they ever reflected on the wonders of the heavens and the earth, and everything Allah has created, and that perhaps their end is near? So what message after this would they believe in?
 
-## AI Tafsir
-
-**What this ayah teaches:** The last sentence of the verse warned them saying: "In what other word, then, shall they believe after it?" That is Allah has provided them with transparent signs, both internal and external, of the right path and of the True Faith.
-
-**Classical tafsir:** Ibn Kathir notes: Do they not contemplate about all this and learn lessons from it, so that they are certain that He Who has all this, has no equal or rival?
 ## Personal Reflections
-
 

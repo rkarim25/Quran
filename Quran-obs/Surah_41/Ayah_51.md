@@ -126,11 +126,5 @@ Lengthy supplications in themselves are praiseworthy and desirable as is proved 
 
 When We show favour to someone, they turn away acting arrogantly. And when touched with evil, they make endless prayers for good.
 
-## AI Tafsir
-
-**What this ayah teaches:** Here the Qur'an has used the word ` broad' to describe their lengthy supplications, because what is wider will automatically be longer too.
-
-**Classical tafsir:** Ibn Kathir notes: Here the Qur'an has used the word ` broad' to describe their lengthy supplications, because what is wider will automatically be longer too.
 ## Personal Reflections
-
 

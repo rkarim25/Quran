@@ -278,15 +278,5 @@ And Sayyidna ` Abdullah ibn Masud ؓ reports that the Holy Prophet ﷺ said: May
 
 Ask, “Who is the best witness?” Say, “Allah is! He is a Witness between me and you. And this Quran has been revealed to me so that, with it, I may warn you and whoever it reaches. Do you testify that there are other gods besides Allah?” say, “I will never testify !” say, “There is only One Allah. And I totally reject whatever you associate with Him.”
 
-## AI Tafsir
-
-**Context:** And if Allah touches you with harm, none can remove it but He, and if He touches you with good, then He is able to do all things (17)And He is the Irresistible, above His servants, and He is the All-Wise, Well-Acquainted…
-
-**What this ayah teaches:** Can you verily bear witness that besides Allah there are other gods?" Say "I bear no (such) witness!" Say: "Only He is Allah, alone, and truly I am innocent of what you join in worship with Him.
-
-**Classical tafsir:** Ibn Kathir notes: Then, you tell them that Allah is the witness between me and you The witness of Allah refers to those miracles and signs which Allah Ta` ala made manifest to confirm the veracity of the prophethood of the Holy Prophet ﷺ .
-
-**From the Sunnah:** It is recorded in the Sahih that the Messenger of Allah ﷺ used to supplicate,
 ## Personal Reflections
-
 

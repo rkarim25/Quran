@@ -108,13 +108,5 @@ Ibn 'Abbas said, "Az-Zarabi are carpets." This was also said by Ad-Dahhak and ot
 
 Other faces that Day will glow with bliss,
 
-## AI Tafsir
-
-**Context:** لَّا يُسْمِنُ وَلَا يُغْنِي مِن جُوعٍ (that will neither nourish, nor satisfy hunger...88:7). When the preceding verse was revealed in which it was stated that the inmates of Hell will get food like Dari`, some of the pa…
-
-**What this ayah teaches:** Faces that Day will be joyful (8)Glad with their endeavor (9)In a lofty Paradise (10)Where they shall neither hear harmful speech nor falsehood (11)Therein will be a running spring (12)Therein will be thrones raised high (13)And cups set at hand (14)And Namariq, set in rows (15)And Zarabi, spread out (Mabthuthah).
-
-**Classical tafsir:** Ibn Kathir notes: Here the word Mabthuthah means placed here and there for whoever would like to sit upon them.
 ## Personal Reflections
-
 

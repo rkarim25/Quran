@@ -149,15 +149,5 @@ It will be noticed that the two-fold punishment has been identified by the Qur'a
 
 And whoever of you devoutly obeys Allah and His Messenger and does good, We will grant her double the reward, and We have prepared for her an honourable provision.
 
-## AI Tafsir
-
-**Context:** (And indeed it has been revealed to you, as it was to those before you: "If you join others in worship with Allah, surely your deeds will be in vain.")(39:65)
-
-**What this ayah teaches:** Here, qunut, that is, staying obedience to Allah and His Messenger ﷺ is a condition.
-
-**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas, may Allah be pleased with him, said: "This means Nushuz (rebellion) and a bad attitude." Whatever the case, this is a conditional phrase and it does not imply that what is referred to would actually happen.
-
-**From the Sunnah:** This Ayah is addressed to the wives of the Prophet who chose Allah and His Messenger and the Home of the Hereafter, and remained married to the Messenger of Allah ﷺ.
 ## Personal Reflections
-
 

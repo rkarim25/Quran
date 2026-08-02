@@ -206,11 +206,5 @@ Then, he said: إِنْ أُرِ‌يدُ إِلَّا الْإِصْلَاحَ 
 
 He said, “O my people! Consider if I stand on a clear proof from my Rabb and He has blessed me with a good provision from Him. I do not want to do what I am forbidding you from. I only intend reform to the best of my ability. My success comes only through Allah. In Him I trust and to Him I turn.
 
-## AI Tafsir
-
-**What this ayah teaches:** Tell me if I have a clear evidence from my Lord and He has given me a good sustenance from Himself (shall I corrupt it by mixing it with the unlawfully earned money).
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

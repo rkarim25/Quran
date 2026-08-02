@@ -85,13 +85,5 @@ The other thing worth noting in this verse is that the one whom these infidels h
 
 And We poured upon them a rain of brimstone. How evil was the rain of those who had been warned!
 
-## AI Tafsir
-
-**What this ayah teaches:** We destined her to be of those who remained behind (57)And We rained down on them a rain. Lut and His People Allah tells us about His servant and Messenger Lut, peace be upon him, and how he warned his people of Allah's punishment for committing an act of immorality which no human ever committed before them – intercourse with males instead of females.
-
-**Classical tafsir:** Ibn Kathir notes: We destined her to be of those who remained behind.) meaning, she was one of those who were destroyed, with her people, because she was a helper to what they did and she approved of their evil deeds.
-
-**From the Sunnah:** The other possibility is that he might have been a Muslim but enjoyed a prominent position and hence there could have been the risk of uprising and reprisal among the people. (Sahih Muslim)
 ## Personal Reflections
-
 

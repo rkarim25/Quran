@@ -165,11 +165,5 @@ Most of the commentators have said that this injunction has been enforced as the
 
 If Allah returns you to a group of them and they ask to go forth with you, say, “You will not ever go forth or fight an enemy along with me. You preferred to stay behind the first time, so stay with those who remain behind.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Therefore, the Holy Prophet ﷺ was commanded that, even if they want to take part in a Jihad, he should tell them the truth that he does not trust their word and deed.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, the Holy Prophet ﷺ was commanded that, even if they want to take part in a Jihad, he should tell them the truth that he does not trust their word and deed.
 ## Personal Reflections
-
 

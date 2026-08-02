@@ -210,11 +210,5 @@ The first stage is developed into the second stage when the traveler perform rig
 
 Do people think We cannot reassemble their bones?
 
-## AI Tafsir
-
-**What this ayah teaches:** Though he may put forth his excuses.) The Oath about the Final Return on the Day of Resurrection and the Refutation against the Plots of the Thinkers It has been mentioned previously on more than one occasion that if the thing that is being sworn about is something that is being negated, then it is permissible to use the word "La" (Nay) before the oath to emphasize the negation.
-
-**Classical tafsir:** Ibn Kathir notes: I swear by An-Nafs Al-Lawwamah.) Qatadah said, "This means, I swear by both of these things." This has also been reported from Ibn 'Abbas and Sa'id bin Jubayr. This means Our power is suitable to gather (and recreate) them, and if We wished We could surely resurrect him with more than what he originally had.
 ## Personal Reflections
-
 

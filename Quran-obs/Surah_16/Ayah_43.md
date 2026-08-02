@@ -195,15 +195,5 @@ What has been written here on the religious question of Taqlid and Ijtihad is on
 
 We did not send messengers before you O Prophet except mere men inspired by Us. If you polytheists do not know this already, then ask those who have knowledge of the Scriptures.
 
-## AI Tafsir
-
-**Context:** And We sent not (as Our Messengers) before you (O Muhammad) any but men, whom We sent revelation. So ask Ahl Adh-Dhikr, if you know not (43)With clear signs and Books (We sent the Messengers).
-
-**What this ayah teaches:** Therefore, 'ahludh-dhikr' literally means 'the people of knowledge' (as refined in the cited translation). So ask Ahl Adh-Dhikr, if you know not (43)With clear signs and Books (We sent the Messengers).
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, 'ahludh-dhikr' literally means 'the people of knowledge' (as refined in the cited translation).
-
-**From the Sunnah:** So, how could they accept the statement of other Muslims? 'Ahludh-Dhikr' means authentic historians of past peoples based on this investigative position, this definition includes therein the people of the Book, the Jews and Christians, and the people of the Qur’ an, the Muslims as well.
 ## Personal Reflections
-
 

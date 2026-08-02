@@ -82,11 +82,5 @@ The reasoning for this he gave إِنَّ مَعِيَ رَ‌بِّي سَيَ�
 
 Or can they benefit or harm you?”.
 
-## AI Tafsir
-
-**What this ayah teaches:** Allah commanded His Messenger Muhammad ﷺ to recite this story to his Ummah so that they could follow this example of sincerity towards Allah, putting one's trust in Him, worshipping Him Alone with no partner or associate, and renouncing Shirk and its people.
-
-**Classical tafsir:** Ibn Kathir notes: Allah commanded His Messenger Muhammad ﷺ to recite this story to his Ummah so that they could follow this example of sincerity towards Allah, putting one's trust in Him, worshipping Him Alone with no partner or associate, and renouncing Shirk and its people.
 ## Personal Reflections
-
 

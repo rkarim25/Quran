@@ -234,13 +234,5 @@ Ends here
 
 He saw that angel on the clear horizon,
 
-## AI Tafsir
-
-**Context:** (He has been taught by one mighty in power (Jibril). Dhu Mirrah, then he rose. While he was in the highest part of the horizon. Then he approached and came closer. And was at a distance of two bows' length or less.
-
-**What this ayah teaches:** I swear by Al-Khunnas (15)Al-Jawar Al-Kunnas (16)And by the night when it 'As'as (17)And by the day when it Tanaffas (18)Verily, this is the Word a most honorable messenger (19)Dhi Quwwah, with the Lord of the Throne – Makin (20)Obeyed there, trustworthy (21)And your companion is not a madman (22)And indeed he saw him in the clear horizon (23)And he withholds not a knowledge of the Unseen (24)And…
-
-**Classical tafsir:** Ibn Kathir notes: Mujahid said, "It means its darkening." Sa'id bin Jubayr said, "When it begins." Al-Hasan Al-Basri said, "When it covers the people." This was also said by 'Atiyah Al-'Awfi.
 ## Personal Reflections
-
 

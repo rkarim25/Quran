@@ -407,13 +407,5 @@ However, our misery comes to an end, but the liability of oppressor for good.
 
 O Prophet, instruct the believers: when you intend to divorce women, divorce them with concern for their waiting period and count it accurately. Fear Allah, your Rabb. Do not force them from their homes, nor should they leave unless they commit blatant misconduct. These are Allah's limits; whoever transgresses them wrongs his own soul. You never know—perhaps Allah will bring about a change afterward.
 
-## AI Tafsir
-
-**What this ayah teaches:** Then, if he wishes to divorce her, he can divorce her when she is clean from her menses, before he has sexual intercourse with her.
-
-**Classical tafsir:** Ibn Kathir notes: The verse indicates that divorce should be given during tuhr (when woman is not in her menstruation period), so that ‘iddah may start from her immediate menstruation period.
-
-**From the Sunnah:** The Prophet ﷺ was addressed first in this Ayah, to honor him, even though his Ummah is also being addressed in Allah's statement, that 'Abdullah bin 'Umar divorced his wife, during the lifetime of Allah's Messenger ﷺ, while she was menstruating. (Sahih al-Bukhari)
 ## Personal Reflections
-
 

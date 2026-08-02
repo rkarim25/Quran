@@ -188,15 +188,5 @@ Commentary
 
 each soul will know what it sent ahead and left behind.
 
-## AI Tafsir
-
-**Context:** Al-Baghawi mentioned that Al-Kalbi and Muqatil said, "This Ayah was revealed about Al-Aswad bin Shariq who struck the Prophet ﷺ and he was not punished in retaliation. So Allah revealed,
-
-**What this ayah teaches:** A person will know what he has sent forward and left behind.)(6. corpses will emerge from their graves ], every soul shall come to know what it had sent ahead and what it had left behind.
-
-**Classical tafsir:** Ibn Kathir notes: The phrase 'what he sent ahead' means the good or evil act which he has done in his life; and the phrase 'what he left behind' means what he failed to do or refrained from doing.
-
-**From the Sunnah:** from Jabir that Mu'adh stood and lead the people in the Night prayer, and he made the recitation of his prayer long.
 ## Personal Reflections
-
 

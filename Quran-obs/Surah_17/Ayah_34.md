@@ -161,11 +161,5 @@ Respected jurists of Islam say that the outcome of the injunction against shorte
 
 Do not come near the wealth of the orphan—unless intending to enhance it—until they attain maturity. Honour your pledges, for you will surely be accountable for them.
 
-## AI Tafsir
-
-**What this ayah teaches:** And come not near to the orphan's property except to improve it, until he attains the age of full strength. And this pattern of management is to continue until such time when the orphaned children grow up and become capable of protecting their property themselves - the lower limit is when they attain to the age of fifteen years while the higher is eighteen years.
-
-**Classical tafsir:** Ibn Kathir notes: But, it has been mentioned here in the case of orphans particularly because they themselves are incapable of keeping or taking account and no one is expected to know about it.
 ## Personal Reflections
-
 

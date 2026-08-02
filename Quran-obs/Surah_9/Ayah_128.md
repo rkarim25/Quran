@@ -173,13 +173,5 @@ That this theme appears at the end of Surah At-Taubah happens to be very appropr
 
 There certainly has come to you a messenger from among yourselves. He is concerned by your suffering, anxious for your well-being, and gracious and merciful to those who have iman.
 
-## AI Tafsir
-
-**What this ayah teaches:** There is no Allah but He, in Him I put my trust and He is the Lord of the Mighty Throne.
-
-**Classical tafsir:** Ibn Kathir notes: The Advent of the Prophet (ﷺ) is a Great Bounty from Allah Allah reminds the believers that He has sent to them a Messenger from among themselves, from their kind, speaking their language.
-
-**From the Sunnah:** These are the last verses of Surah At-Taubah where it has been declared that the Holy Prophet ﷺ is very kind and merciful for the entire creation of Allah, particularly so for Muslims.
 ## Personal Reflections
-
 

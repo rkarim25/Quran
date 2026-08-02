@@ -188,13 +188,5 @@ On occasions of good cheer and Iight humor too, tauriyah stands proved from the 
 
 He later looked up to the stars in contemplation,
 
-## AI Tafsir
-
-**What this ayah teaches:** It was in this state of indecision that he, quite involuntarily, cast a glance towards the stars and, only after that, came his response. This explanation of casting a glance towards the stars apparently seems to be cloudless.
-
-**Classical tafsir:** Ibn Kathir notes: Ibrahim, peace be upon him, said this to his people so that he could stay behind in the city when they went out for their festival.
-
-**From the Sunnah:** Ibn Jarir narrated here a Hadith from Abu Hurayrah, may Allah be pleased with him, stating that the Messenger of Allah ﷺ said: The former is more apparent because of the report recorded by Al-Bukhari in the Book Af'al Al-'Ibad from Hudhayfah, attributed to the Prophet ﷺ: (Sahih al-Bukhari)
 ## Personal Reflections
-
 

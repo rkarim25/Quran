@@ -119,11 +119,5 @@ There are different recitations for the word اِدّٰرَکَ (iddaraka) and t
 
 They ask the mu'mins, “When will this threat come to pass, if what you say is true?”
 
-## AI Tafsir
-
-**What this ayah teaches:** Allah tells us about how the idolators asked about the Day of Resurrection, but thought it unlikely that it would ever come to pass.
-
-**Classical tafsir:** Ibn Kathir notes: Allah tells us about how the idolators asked about the Day of Resurrection, but thought it unlikely that it would ever come to pass.
 ## Personal Reflections
-
 

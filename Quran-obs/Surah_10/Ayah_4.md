@@ -162,11 +162,5 @@ The fourth verse describes the ` Aqidah of 'Akhirah (Belief in the Hereafter) إ
 
 To Him is your return all together. Allah’s promise is always true. Indeed, He originates the creation then resurrects it so that He may justly reward those who believe and do good. But those who reject the truth will have a boiling drink and a painful punishment for their rejection of the truth.
 
-## AI Tafsir
-
-**What this ayah teaches:** The Return of Everything is to Allah Allah tells us that the return of the creatures on the Day of Resurrection is to Him.
-
-**Classical tafsir:** Ibn Kathir notes: But those who disbelieved will have a drink of boiling fluids and painful torment because they used to disbelieve .
 ## Personal Reflections
-
 

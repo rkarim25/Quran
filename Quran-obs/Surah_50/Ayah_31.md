@@ -115,13 +115,5 @@ That is, 'I have made my decision which will certainly be implemented: it will n
 
 Paradise will be brought near to the righteous—not far away.
 
-## AI Tafsir
-
-**What this ayah teaches:** Jahannam and Paradise and their Dwellers Allah states that He will say to Jahannam on the Day of Resurrection, "Have you had your fill?" Allah the Most Honored has promised Hell that it will have its fill from the Jinns and mankind. Allah the Exalted and Most Honored shall not be unjust to any one of His creatures.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** Paradise until Allah creates another creation and He, the Exalted, makes them dwell in the empty parts of Paradise. (Sahih Muslim)
 ## Personal Reflections
-
 

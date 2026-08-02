@@ -74,11 +74,5 @@ Among the themes of this Surah (Al-A` raf) three topics are of great importance:
 
 Whoever Allah allows to stray, none can guide, leaving them to wander blindly in their defiance.
 
-## AI Tafsir
-
-**What this ayah teaches:** Whomsoever Allah sends astray, none can guide him; and He lets them wander blindly in their transgressions . The verse 186 provides him with a consolation saying that whomsoever Allah leaves wandering in his ignorance and lets him go on with his evil deeds can never be guided by any one and Allah leaves him at the mercy of his abject desires.
-
-**Classical tafsir:** Ibn Kathir notes: The verse 186 provides him with a consolation saying that whomsoever Allah leaves wandering in his ignorance and lets him go on with his evil deeds can never be guided by any one and Allah leaves him at the mercy of his abject desires.
 ## Personal Reflections
-
 

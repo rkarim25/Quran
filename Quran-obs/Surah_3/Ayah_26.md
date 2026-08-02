@@ -215,17 +215,5 @@ In short, the evil of things we regard as evil is partial. Looked at from its re
 
 Say, “O Allah! Rabb over all authorities! You give authority to whoever You please and remove it from who You please; You honour whoever You please and disgrace who You please—all good is in Your Hands. Surely You are Most Capable of everything.
 
-## AI Tafsir
-
-**Essence** All dominion belongs to Allah alone — He grants and strips power, raises and humbles, exactly as He wills, and in His Hand lies nothing but good.
-
-**What it teaches** The Prophet ﷺ is commanded to call upon "Mālik al-Mulk" — the absolute Owner of all sovereignty (mulk) — affirming that He alone gives kingdom (tu'ti l-mulk) and tears it away, bestows honour ('izz) and casts down into disgrace (dhull). The phrase biyadika l-khayr ("in Your Hand is the good"), understood in a manner befitting His Majesty, is the heart: power and its loss are not blind fate but flow from the perfectly wise, all-good will of the One who is qadir over everything.
-
-**The scholars** Ibn Kathir explains "Mālik al-Mulk" as "all sovereignty is Yours" — You are the Giver and the Taker; what You will occurs, and what You do not will does not occur. He reads the ayah as a call to thank Allah for His favour to the Prophet ﷺ and his Ummah: transferring prophethood from the Children of Israel to the unlettered Makkan Prophet ﷺ, the last of all prophets, endowing him with more knowledge of past and future matters than any before him, and letting his Ummah reach the eastern and western parts of the earth with his religion dominant over all others. He links it to Allah's refutation of those who presumed to decide for Him — "Is it they who would portion out the Mercy of your Lord?" (43:32), "Allah knows best with whom to place His Message" (6:124), and "See how We prefer one above another" (17:21). Maarif ul Quran adds that the verse, cast as a prayer, displays Allah's perfect power in the rise and fall of nations: enemies of Islam judge events "from the material angle," but all governments lie in Allah's Hand. On biyadika l-khayr it notes that although giving and taking, honour and disgrace, were paired, the text mentions only "good" (khayr) and omits "evil" (sharr) — teaching that what a person reckons evil is only partial; seen in relation to the Creator and the whole of creation, "nothing is really evil or bad as such," for everything is khayr in the wisdom of Allah.
-
-**From the Sunnah** As the sabab al-nuzul: while digging the trench at Khandaq, the Prophet ﷺ struck a rock that flashed light, and in it he was shown the palaces of Persia, Byzantium, and San'a in Yemen, declaring through the tidings of Jibra'il that his Ummah would prevail over all these lands — when the hypocrites mocked the promise, this ayah was revealed in answer. (narrations in al-Baihaqi, Abu Nu'aim and Ibn Khuzaimah)
-
-**Reflection** "Biyadika l-khayr" reframes how we read every reversal: what one people loses, another gains, and what looks like loss may be mercy in disguise. So when power shifts or hardship strikes, do not read it "from the material angle" — entrust the outcome to the Owner of all dominion and seek honour from Him alone.
 ## Personal Reflections
-
 

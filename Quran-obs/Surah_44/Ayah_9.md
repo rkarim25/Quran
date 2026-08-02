@@ -180,13 +180,5 @@ Because some versions of the Tradition state that births, deaths and sustenance 
 
 In fact, they are in doubt, amusing themselves.
 
-## AI Tafsir
-
-**Context:** (Then wait you for the Day when the sky will bring forth a visible smoke, covering the people, this is a painful torment) A man came to the Messenger of Allah ﷺ and said, "O Messenger of Allah!
-
-**What this ayah teaches:** Alarming the Idolators with News of the Day when the Sky will bring forth a visible Smoke Allah says, these idolaters are playing about in doubt, i.e., the certain truth has come to them, but they doubt it and do not believe in it.
-
-**Classical tafsir:** Ibn Kathir notes: Because some versions of the Tradition state that births, deaths and sustenance are decreed in the night of immunity or 15th night of Sha'ban, some of the scholars have interpreted the phrase 'laylah mubarakah' in the current verse as referring to 'laylat-ul-bara'ah' or 'the Nigh…
 ## Personal Reflections
-
 

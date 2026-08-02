@@ -128,13 +128,5 @@ In addition to that, also refuted here is the objection of those who used to deg
 
 They cannot listen to the highest assembly of angels, for they are pelted from every side,
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, We have adorned the near heaven with the stars (6)And to guard against every rebellious Shaytan (7)They cannot listen to the higher group for they are pelted from every side (8)Outcast, and theirs is a constant torment (9)Except such as snatch away something by stealing, and they are pursued by a flaming fire of piercing brightness .
-
-**Classical tafsir:** Ibn Kathir notes: If some Shaitan picks up even a part of their conversation, and tries to decamp with it, he is hit by a blazing flame, so that he remains unable to pass on this information to his devotees among soothsayers in the world.
-
-**From the Sunnah:** When the Messenger of Allah ﷺ was sent, if a Shaytan wanted to take his seat in the heavens, the flaming fire would come and would not miss him; it would burn him every time.
 ## Personal Reflections
-
 

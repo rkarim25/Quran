@@ -122,15 +122,5 @@ Verses [ 9-10] أَرَ‌أَيْتَ الَّذِي يَنْهَىٰ عَبْ�
 
 A servant when he performs salah—the formal prayer?
 
-## AI Tafsir
-
-**Context:** (Have you seen him who prevents. A servant when he prays) This was revealed about Abu Jahl, may Allah curse him. He threatened the Prophet for performing Salah at the Ka`bah.
-
-**What this ayah teaches:** In the Name of your Lord Who has created.) (96:1) This is the end of the Tafsir of Surah Iqra' (Surat Al-`Alaq). It does not specify what will happen at Resurrection, because the horrible, terrible and dreadful scenes of that are unimaginable.
-
-**Classical tafsir:** Ibn Kathir notes: In the Name of your Lord Who has created.) (96:1) This is the end of the Tafsir of Surah Iqra' (Surat Al-`Alaq).
-
-**From the Sunnah:** Haven't I prevented you from this' He threatened the Prophet and thus, the Messenger of Allah ﷺ became angry with him and reprimanded him. (Jami' at-Tirmidhi, Sunan an-Nasa'i)
 ## Personal Reflections
-
 

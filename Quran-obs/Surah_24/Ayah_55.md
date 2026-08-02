@@ -331,15 +331,5 @@ Hence, the sequence of mutual killing which had commenced with the Shahadah (mar
 
 Allah has promised those of you who believe and do good that He will certainly make them successors in the land, as He did with those before them; and will surely establish for them their iman which He has chosen for them; and will indeed change their fear into security—provided that they worship Me, associating nothing with Me. But whoever rejects the truth after this promise, it is they who will be the rebellious.
 
-## AI Tafsir
-
-**Context:** Al-Bara' bin 'Azib said, "This Ayah was revealed when we were in a state of extreme fear." This Ayah is like the Ayah:
-
-**What this ayah teaches:** Allah's Promise to the Believers That He Would Grant Them Succession This is a promise from Allah to His Messenger ﷺ that He would cause his Ummah to become successors on earth, i.e., they would become the leaders and rulers of mankind, through whom He would reform the world and to whom people would submit, so that they would have in exchange a safe security after their fear.
-
-**Classical tafsir:** Ibn Kathir notes: They caused the Word of Allah to prevail in the east and the west, and Allah supported them so much that they governed all the people and all the lands.
-
-**From the Sunnah:** Their wealth was spent for the sake of Allah, as the Messenger of Allah ﷺ had foretold and promised.
 ## Personal Reflections
-
 

@@ -265,15 +265,5 @@ When, according to this verse, the entry of Kafirs and Mushriks into the Haram w
 
 O you who have iman! Indeed, the polytheists are impure, so they should not approach the Sacred Mosque after this year. If you fear poverty, Allah will enrich you out of His bounty, if He wills. Surely, Allah is All-Knowing, All-Wise.
 
-## AI Tafsir
-
-**Context:** Allah commands His believing servants, who are pure in religion and person, to expel the idolators who are filthy in the religious sense, from Al-Masjid Al-Haram.
-
-**What this ayah teaches:** Secondly, if this is particular to the Sacred Mosque, then, is the entry of a Mushrik in the Sacred Mosque banned in an absolute sense?
-
-**Classical tafsir:** Ibn Kathir notes: And if ` najasah' in this verse means the spiritual filthiness of kufr and shirk, then, it is possible that the injunction which covers it may be different from the injunction which covers outward filth.
-
-**From the Sunnah:** The Messenger of Allah ﷺ sent 'Ali in the company of Abu Bakr that year to publicize to the idolators that no Mushrik will be allowed to perform Hajj after that year, nor a naked person allowed to perform Tawaf around the House.
 ## Personal Reflections
-
 

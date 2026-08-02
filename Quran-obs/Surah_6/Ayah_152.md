@@ -353,15 +353,5 @@ In this one verse - after having described five of the ten prohibitions - it was
 
 And do not come near the wealth of the orphan—unless intending to enhance it—until they attain maturity. Give full measure and weigh with justice. We never require of any soul more than what it can afford. Whenever you speak, maintain justice—even regarding a close relative. And fulfil your covenant with Allah. This is what He has commanded you, so perhaps you will be mindful.
 
-## AI Tafsir
-
-**Context:** Ka'b al-Ahbar, an accomplished scholar of the Torah, was a Jew before he became a Muslim. He says that these verses of the Holy Qur'an which describe ten unlawful things are with what the Torah, the Book of Allah, begins…
-
-**What this ayah teaches:** Therefore, precaution demands that one should not even go near what is prohibited.
-
-**Classical tafsir:** Ibn Kathir notes: Though, the address in this verse directly refers to the those who reject the truth of Makkah, but the subject of the address is general in its nature.
-
-**From the Sunnah:** This became difficult for the companions and they talked about it to the Messenger of Allah ﷺ, and Allah sent down the Ayah, Ka'b al-Ahbar, an accomplished scholar of the Torah, was a Jew before he became a Muslim. (Sahih Muslim)
 ## Personal Reflections
-
 

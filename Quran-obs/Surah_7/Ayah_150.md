@@ -243,11 +243,5 @@ while the verse 150 describes the events followed by the arrival of the Prophet 
 
 Upon Moses’ return to his people, furious and sorrowful, he said, “What an evil thing you committed in my absence! Did you want to hasten your Rabb’s torment?” Then he threw down the Tablets and grabbed his brother by the hair, dragging him closer. Aaron pleaded, “O son of my mother! The people overpowered me and were about to kill me. So do not make my enemies rejoice, nor count me among the wrongdoing people.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Allah states that when Musa returned to his people after conversation with his Lord, he became angry and full of regret.
-
-**Classical tafsir:** Ibn Kathir notes: The implication of the verse, therefore, is that he put away the Tablets as quickly in order to free his hands, as seemed like having been dropped.
 ## Personal Reflections
-
 

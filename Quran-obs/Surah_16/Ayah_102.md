@@ -109,11 +109,5 @@ In the previous verse (98), there was an instruction to say اَعُوذ بِا�
 
 Say, “The holy spirit has brought it down from your Rabb with the truth to reassure the believers, and as a guide and good news for those who submit to Allah.”
 
-## AI Tafsir
-
-**What this ayah teaches:** And when We change a verse in place of another - and Allah knows best what He reveals - they (the those who reject the truth) say: "You (O Muhammad) are but a forger." Rather, most of them know not (101)Say (O Muhammad); "Ruh-ul-Qudus has brought it (the Qur'an) down from your Lord with truth." for the conviction of those who believe, and as a guide and good news for the Muslims .
-
-**Classical tafsir:** Ibn Kathir notes: He explains that it is impossible for them to have faith when He has decreed that they are doomed.
 ## Personal Reflections
-
 

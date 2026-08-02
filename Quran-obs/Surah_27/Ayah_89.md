@@ -182,13 +182,5 @@ Word Faza' is purported here for any big calamity or perplexity. Thus the meanin
 
 Whoever comes with a good deed will be rewarded with what is better, and they will be secure from the horror on that Day.
 
-## AI Tafsir
-
-**What this ayah teaches:** Some have interpreted that the word "better" means here that the reward of one good deed would be awarded from ten times to seven hundred times more. The work of Allah, Who perfected all things, verily, He is well-acquainted with what you do (88)Whoever brings a good deed, will have better than its worth; and they will be safe from the terror on that Day (89)And whoever brings an evil deed, they w…
-
-**Classical tafsir:** Ibn Kathir notes: Some have interpreted that the word "better" means here that the reward of one good deed would be awarded from ten times to seven hundred times more.
-
-**From the Sunnah:** after a little while, you will see a major event which will destroy the House [the Ka'bah], and such and such will happen." Then he said, "The Messenger of Allah ﷺ said: (Sahih Muslim)
 ## Personal Reflections
-
 

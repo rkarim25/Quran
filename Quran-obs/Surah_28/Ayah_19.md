@@ -176,11 +176,5 @@ It is worth noting here that this saying of Musa (علیہ السلام) has est
 
 Then when Moses was about to lay his hands on their foe, the enemy said, “O Moses! Do you intend to kill me as you killed a man yesterday? You only want to be a tyrant in the land. You do not intend to make peace!”
 
-## AI Tafsir
-
-**What this ayah teaches:** Is it your intention to kill me as you killed a man yesterday?) Nobody except him and Musa, peace be upon him, knew about it, but when the other Coptic heard this, he took the news to Fir'awn's gate and told him about it.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, by declaring him a criminal he vowed not to help such a person again.
 ## Personal Reflections
-
 

@@ -124,13 +124,5 @@ The word kanud, (100:6) according to Hasan Basri (رح) ، refers to the one who
 
 And humanity bears witness to its own ingratitude by how it lives.
 
-## AI Tafsir
-
-**What this ayah teaches:** And that which is in the breasts shall be made known?)(11.
-
-**Classical tafsir:** Ibn Kathir notes: Verily, man is ungrateful to his Lord.)(7.
-
-**From the Sunnah:** This is just as the Messenger of Allah ﷺ used to perform raids in the early morning.
 ## Personal Reflections
-
 

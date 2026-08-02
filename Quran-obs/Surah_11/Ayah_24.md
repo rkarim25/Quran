@@ -101,11 +101,5 @@ This should remove the misunderstanding of those who regard the Jews and Christi
 
 The example of these two parties is that of the blind and the deaf, compared to the seeing and the hearing. Can the two be equal? Will you not then be living with taqwa?
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, those who believe and do righteous good deeds, and humble themselves before their Lord, they will be the dwellers of Paradise to dwell therein forever (23)The likeness of the two parties is as the blind and the deaf and the seer and the hearer.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, falsehood does not overcome him.
 ## Personal Reflections
-
 

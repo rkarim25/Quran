@@ -167,15 +167,5 @@ Then the Israelites acted upon this divine commandments, they became worthy of r
 
 And when Moses said to his people, "You wronged yourselves by worshipping the calf. Turn in repentance to your Creator and put the guilty among you to death. That is best for you with your Creator." Then He accepted your repentance. He is the Accepter of Repentation, the Rahim.
 
-## AI Tafsir
-
-**Essence** True repentance before Allah (al-Bari', the Creator) may demand the most costly surrender — and when His servants submit fully, al-Tawwab al-Rahim turns back to them completely.
-
-**What it teaches** Moses (peace be upon him) named their sin precisely: *zulm* (self-wrong) through calf-worship — shirk against the very One who created them from nothing, al-Bari'. Ibn Kathir notes the name is deliberate: it "alerts the Children of Israel to the enormity of their error" — repent to the One who created you after you associated others with Him in worship. Their prescribed repentance was a physical enactment of how grave shirk is: those who had not worshipped the calf slew those who had. The ayah closes with al-Tawwab al-Rahim, affirming that no cost of repentance exceeds His capacity to receive it.
-
-**The scholars** Al-Hasan al-Basri traced this command to 7:149: the people had already regretted and seen their own straying before Musa addressed them — their prior remorse was the ground on which his words fell. Maarif ul Quran draws an enduring legal principle: even in Islamic Shari'ah, grave sins entail capital punishment alongside tawbah — intentional homicide requires qisas, adultery established through evidence requires the hadd. The inward turning and the outward legal reckoning are both required.
-
-**From the Sunnah** Ibn 'Abbas narrated: "Allah told the Children of Israel that their repentance would be to slay by the sword every person they meet, be he father or son. They should not care whom they kill. Those were guilty whom Musa and Harun were not aware of their guilt, they admitted their sin and did as they were ordered. So Allah forgave both the killer and the one killed." (Ibn Jarir al-Tabari and Ibn Abi Hatim)
 ## Personal Reflections
-
 

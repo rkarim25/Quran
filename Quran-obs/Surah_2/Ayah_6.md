@@ -128,19 +128,5 @@ The Holy Qur'an describes .the condition of these disbelievers in terms of their
 
 As for those who persist in rejecting the truth, it makes no difference whether you warn them or stay silent — they will not accept iman — faith that reshapes how you live.
 
-## AI Tafsir
-
-**Essence**
-For those who chose to cover the truth and whom Allah knew would die upon it, warning and silence are alike — they will not believe.
-
-**What it teaches**
-Kufr literally means to cover — many of these deniers, the mufassirin note, recognized the truth they hid. Indhar is no mere threat but a prophet's warning born of compassion, like warning a child against fire. The verdict falls only on the obstinate — many disbelievers later embraced Islam.
-
-**The scholars**
-Ibn Kathir cites "Truly, those against whom the Word of your Lord has been justified will not believe" (10:96) and consoles the Prophet ﷺ: "Your duty is only to convey, and on Us is the reckoning" (13:40). In an athar via Ali bin Abi Talhah, Ibn 'Abbas said the Messenger ﷺ longed for all to believe; Allah informed him that none would except those He decreed happiness for. Maarif ul Quran gives the next verse's reason: Allah set a seal on their hearts and ears — just recompense for their own stubbornness.
-
-**Reflection**
-Deliver the truth with compassion and constancy; leave the hearts — and the reckoning — to Allah.
 ## Personal Reflections
-
 

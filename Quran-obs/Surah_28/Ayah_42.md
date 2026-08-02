@@ -142,11 +142,5 @@ Allah tells us of Fir'awn's disbelief and wrongdoing, and how he falsely claimed
 
 We caused a curse to follow them in this dunya — this temporary worldly life. And on the Day of Judgment they will be among the outcasts.
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, in this is an instructive admonition for whosoever fears Allah.)(79:23-26) meaning: he brought his people together and called to them in a loud voice, shouting that, and they responded to him obediently.
-
-**Classical tafsir:** Ibn Kathir notes: So kindle for me (a fire), O Haman, to bake clay, and set up for me a Sarh in order that I may look at the Allah of Musa; and verily, I think that he (Musa) is one of the liars.
 ## Personal Reflections
-
 

@@ -148,13 +148,5 @@ Despite their kufr, shirk and moral aberration, the Jews claimed نَحْنُ أ
 
 Say: 'O Jews, if you claim to be Allah's chosen people above all others, then wish for death, if what you say is true.'
 
-## AI Tafsir
-
-**What this ayah teaches:** Obviously, if a person believes that the blessings of the Hereafter are a zillion times better than the blessings of this world, he must, of necessity, wish for death, so that he is able to enter Paradise sooner and start enjoying its blessings forthwith.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, they are worse than the donkey, because the donkey cannot understand.
-
-**From the Sunnah:** Paradise unless he is a Jew) [ 2:111].
 ## Personal Reflections
-
 

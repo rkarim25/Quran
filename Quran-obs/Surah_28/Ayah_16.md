@@ -128,13 +128,5 @@ Some commentators have observed that although killing of the Qibti was permissib
 
 He pleaded, “My Rabb — the One who creates, owns, nurtures, and sustains! I have definitely wronged my soul, so forgive me.” So He forgave him, for He is indeed the All-Forgiving, the Rahim — special mercy for believers in the Akhirah — the everlasting life after death.
 
-## AI Tafsir
-
-**What this ayah teaches:** Therefore, in view of his status as a prophet, he maintained that it was a sin on his part, and hence, invoked Allah's pardon. For that with which You have favored me, I will nevermore be a helper of the criminals!
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, in view of his status as a prophet, he maintained that it was a sin on his part, and hence, invoked Allah's pardon.
-
-**From the Sunnah:** The covenant established by practice can be understood by the example that if in a non-Islamic state Muslims and non-Muslims are living in harmony and there is no conflict between them, and any pillage or fighting with each other is regarded as treachery, then… (Sahih Muslim, Sunan Abi Dawud) Therefore, any Muslim living and socializing with infidels in the manner that they are safe and secure for each other, for him it is unlawful to slay them, or forcefully gra
 ## Personal Reflections
-
 

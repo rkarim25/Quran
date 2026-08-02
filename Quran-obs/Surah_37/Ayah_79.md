@@ -94,13 +94,5 @@ In verses 78 and 79, it was said: وَتَرَ‌كْنَا عَلَيْهِ ف�
 
 "Peace be upon Noah among all peoples."
 
-## AI Tafsir
-
-**What this ayah teaches:** What is meant here by Romans is the original Romans, i.e., the Greeks who claimed descent from Ruma (Roma) the son of Liti, the son of Yunan, the son of Yafith, the son of Nuh, peace be upon him. He stayed among them for one thousand years less fifty, and after he stayed among them for so long and their disbelief became too much for him to bear – for every time he called them, they turned away fro…
-
-**Classical tafsir:** Ibn Kathir notes: He stayed among them for one thousand years less fifty, and after he stayed among them for so long and their disbelief became too much for him to bear – for every time he called them, they turned away from him even more – he prayed to his Lord saying, "I have been overcome, so he…
-
-**From the Sunnah:** In addition to Muslims, even Jews and Christians regard him as being their spiritual leader.
 ## Personal Reflections
-
 

@@ -148,11 +148,5 @@ At the beginning of the explanation of Surat Al-Baqarah we discussed the letters
 
 Have they failed to look at the earth, to see how many types of fine plants We have caused to grow in it?
 
-## AI Tafsir
-
-**What this ayah teaches:** So, they have indeed denied, then the news of what they mocked at will come to them.)(7. Then Allah tells those who dared to oppose His Messenger ﷺ and disbelieve in His Book, that He is the Subduer, the Almighty, the All-Powerful, Who created the earth and caused every good kind of crop, fruit and animal to grow therein.
-
-**Classical tafsir:** Ibn Kathir notes: Abu Al-'Aliyah, Qatadah, Ar-Rabi' bin Anas and Ibn Ishaq said: "He is Almighty in His punishment of those who went against His commands and worshipped others besides Him." Sa'id bin Jubayr said: "He is ar-Rahim towards those who repent to Him and turn to Him."
 ## Personal Reflections
-
 

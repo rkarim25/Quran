@@ -236,13 +236,5 @@ Hence, the outcome is that the consideration of kafa'ah (equalness and likeness)
 
 It is not for a believing man or woman—when Allah and His Messenger decree a matter—to have any other choice in that matter. Indeed, whoever disobeys Allah and His Messenger has clearly gone far astray.
 
-## AI Tafsir
-
-**Context:** This is how it was recorded by Imam Ahmad, in full. Muslim and An-Nasa'i recorded the story of his death in Al-Fada'il.
-
-**What this ayah teaches:** Whoever does not have it, no matter how noble his family is, he yet has no status in the sight of Allah.
-
-**Classical tafsir:** Ibn Kathir notes: The Issue of Equality in marriage (Kaf'ah) Marriage (nikah) is a matter in which the absence of homogeneity in the temperaments of the spouses disturbs the purpose of marriage, disturbs the process of fulfilling each other's rights and breeds mutual disputes.
 ## Personal Reflections
-
 

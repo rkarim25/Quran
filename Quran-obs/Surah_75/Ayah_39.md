@@ -182,13 +182,5 @@ The word aula is the inverted form of wail which means ' The expression 'woe' ha
 
 And from it He made pairs, male and female.
 
-## AI Tafsir
-
-**What this ayah teaches:** And then woe to you (35)Does man think that he will be left neglected (36)Was he not a Nutfah of semen emitted (37)Then he became an 'Alaqah; then shaped and fashioned in due proportion (38)And made of him two sexes, male and female (39)Is it not so then, that He would be able to give life to the dead .
-
-**Classical tafsir:** Ibn Kathir notes: This means, 'you deserve to strut like this while you have disbelieved in your Creator and Maker.' This is what is commonly said in this type of situation in order to mock and intimidate (someone).
-
-**From the Sunnah:** this to Abu Jahl, then Allah, the Mighty and Sublime, revealed this Ayah.'
 ## Personal Reflections
-
 

@@ -142,13 +142,5 @@ Allah threatens the idolators who denied and opposed His Messenger Muhammad and 
 
 We had ordered them, “Go to the people who would deny Our signs.” Then We annihilated the deniers entirely.
 
-## AI Tafsir
-
-**Context:** الَّذِينَ كَذَّبُوا بِآيَاتِنَا (who have rejected Our signs - 25:36). Here it is described that the people of Pharaoh had denied Allah's verses.
-
-**What this ayah teaches:** And when the people of Nuh denied him, Allah destroyed them likewise, for whoever denies one Messenger denies all the Messengers, because there is no difference between one Messenger and another.
-
-**Classical tafsir:** Ibn Kathir notes: The most correct view is that a generation refers to nations who are one another's contemporaries, living at the same time.
 ## Personal Reflections
-
 

@@ -110,11 +110,5 @@ Explaining the word: سَعْيَهَا (as due), Tafsir Ruh al-Ma’ ani says t
 
 But whoever desires the Akhirah and strives for it accordingly, and is a true believer, it is they whose striving will be appreciated.
 
-## AI Tafsir
-
-**What this ayah teaches:** Then, afterwards, We have appointed for him Hell; he will burn therein disgraced and rejected (18)And whoever desires the Hereafter and strives for it, with the necessary effort due for it while he is a believer, then such are the ones whose striving shall be appreciated, (rewarded by Allah).
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, even well meaning efforts made by insisting on bland personal opinion and self-invented ways - which includes common customs of Bid'ah (innovations in established religion) - no matter how good and beneficial they may appear at their face, but are not appropriate to th…
 ## Personal Reflections
-
 

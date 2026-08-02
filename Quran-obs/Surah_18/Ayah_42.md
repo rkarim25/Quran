@@ -158,11 +158,5 @@ The word: حُسبانا - (husbana) in verse 40 has been explained by Qatadah a
 
 And so all his produce was totally ruined, so he started to wring his hands for all he had spent on it, while it had collapsed on its trellises. He cried, “Alas! I wish I had never associated anyone with my Rabb in worship!”
 
-## AI Tafsir
-
-**What this ayah teaches:** He (Allah) is the best for reward and the best for the final end .
-
-**Classical tafsir:** Ibn Kathir notes: He (Allah) is the best for reward and the best for the final end .
 ## Personal Reflections
-
 

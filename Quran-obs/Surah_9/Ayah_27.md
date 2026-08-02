@@ -142,13 +142,5 @@ This proves that the matter of rights is serious. It is not permissible to take 
 
 Then afterwards Allah will turn in grace to whoever He wills. And Allah is All-Forgiving, the Rahim.
 
-## AI Tafsir
-
-**What this ayah teaches:** Such is the recompense of those who reject the truth (26)Then after that Allah will accept the repentance of whom He wills. Allah then sent down His aid and support to His Messenger ﷺ and the believers who remained with him, so that they were aware that victory is from Allah alone and through His aid, even if the victorious were few.
-
-**Classical tafsir:** Ibn Kathir notes: This indicates the tremendous trust in Allah and reliance upon Him, as well as, sure knowledge that He will give him victory, complete what He has sent him for and give prominence to his religion above all other religions.
-
-**From the Sunnah:** On the day of Hunayn, the Muslims were proud because of their large number, which did not avail them in the least; they retreated and fled from battle.
 ## Personal Reflections
-
 

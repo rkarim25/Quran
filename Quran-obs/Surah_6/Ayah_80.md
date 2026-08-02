@@ -267,15 +267,5 @@ This debating style of Sayyidna Ibrahim (علیہ السلام) provides some im
 
 And his people argued with him. He responded, “Are you arguing with me about Allah, while He has guided me? I am not afraid of whatever you associate with Him— unless my Rabb so wills. My Rabb encompasses everything in knowledge. Will you not be mindful?
 
-## AI Tafsir
-
-**Context:** (Verily! Joining others in worship with Allah is a great Zulm (wrong) indeed.)[31:13], was later revealed." Imam Ahmad recorded that 'Abdullah said, "When this Ayah was revealed,
-
-**What this ayah teaches:** Then, beaming at his people, he said: This is my Lord.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, how can I ever consider your misguided statements and false doubts?
-
-**From the Sunnah:** And who among us did not commit Zulm against himself? Joining others in worship with Allah is a great Zulm (wrong) indeed.)[31:13], was later revealed." Imam Ahmad recorded that 'Abdullah said, "When this Ayah was revealed, (Musnad Ahmad)
 ## Personal Reflections
-
 

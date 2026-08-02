@@ -85,11 +85,5 @@ Allah swears by His creation, in which some of His signs can be seen in His crea
 
 It is not the prose of a poet, yet you hardly have any faith.
 
-## AI Tafsir
-
-**What this ayah teaches:** So, I swear by whatsoever you see (38)And by whatsoever you see not (39)That this is verily the word of an honored Messenger (40)It is not the word of a poet, little is that you believe (41)Nor is it the word of a soothsayer, little is that you remember (42)This is the revelation sent down from the Lord of all that exists .
-
-**Classical tafsir:** Ibn Kathir notes: Some say 'what you do not see' refers to the Being of Allah Ta` ala and His attributes.
 ## Personal Reflections
-
 

@@ -104,11 +104,5 @@ In verse 60, it was said: أَلَمْ أَعْهَدْ إِلَيْكُمْ ي�
 
 This is the Hell you were warned of.
 
-## AI Tafsir
-
-**What this ayah teaches:** This is Hell which you were promised (63)Burn (enter) therein this Day, for that you used to disbelieve (64)This Day, We shall seal up their mouths, and their hands will speak to Us, and their legs will bear witness to what they used to earn (65)And if it had been Our will, We would surely have wiped out their eyes, so that they would struggle for the path, how then would they see (66)And if it ha…
-
-**Classical tafsir:** Ibn Kathir notes: In other words, this would be said on the day of Qiyamah to all human beings, (even to the Jinn).
 ## Personal Reflections
-
 

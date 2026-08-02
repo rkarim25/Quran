@@ -123,11 +123,5 @@ Her house was on the banks of the Nile, so she took a box and made it into a cra
 
 And it so happened that Pharaoh’s people picked him up, only to become their enemy and source of grief. Surely Pharaoh, Hamân, and their soldiers were sinful.
 
-## AI Tafsir
-
-**What this ayah teaches:** No one ever saw Musa, peace be upon him, but they loved him, and the blessed ones were those who loved him both as a natural feeling and because he was a Prophet. Allah filled her heart with love for him when she saw him; this was because she was blessed and because Allah wanted to honor her and cause her husband's doom.
-
-**Classical tafsir:** Ibn Kathir notes: No one ever saw Musa, peace be upon him, but they loved him, and the blessed ones were those who loved him both as a natural feeling and because he was a Prophet.
 ## Personal Reflections
-
 

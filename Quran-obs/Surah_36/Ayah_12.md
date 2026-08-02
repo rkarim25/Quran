@@ -270,13 +270,5 @@ There could be a possible doubt here in that the present Surah is Makki, while t
 
 It is certainly We Who resurrect the dead, and write what they send forth and what they leave behind. Everything is listed by Us in a perfect Record.
 
-## AI Tafsir
-
-**Context:** There could be a possible doubt here in that the present Surah is Makki, while the event mentioned in these Hadith belongs to Madinah.
-
-**What this ayah teaches:** Because these footsteps are being recorded, then those which are setting an example, whether good or bad, are more likely to be recorded.
-
-**Classical tafsir:** Ibn Kathir notes: Qatadah said, "If Allah were to have neglected anything with regard to you, O son of Adam, He would have neglected what the wind could remove of these footsteps." But He takes into account the footsteps of the son of Adam and all his deeds; He even takes into account these footsteps and whether they… This also indicates that Allah gives life to the heart of whomever He wills among the those who reject the truth,…
 ## Personal Reflections
-
 

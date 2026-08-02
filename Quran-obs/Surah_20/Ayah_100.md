@@ -81,11 +81,5 @@ Allah, the Exalted, is saying to Prophet Muhammad ﷺ, 'We have told you (O Muha
 
 Whoever turns away from it will surely bear the burden of sin on the Day of Judgment,.
 
-## AI Tafsir
-
-**What this ayah teaches:** Whoever follows it, then he is rightly guided and whoever opposes it and turns away from it, then he is misguided.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

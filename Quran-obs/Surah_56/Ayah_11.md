@@ -158,13 +158,5 @@ Ibn-Kathir (رح) cites all these views and concludes that they are all correct 
 
 They are the ones brought nearest to Allah,
 
-## AI Tafsir
-
-**What this ayah teaches:** And those foremost will be foremost.)(11. They are the chiefs of those on the right side, because they include the Messengers, Prophets, true believers and martyrs.
-
-**Classical tafsir:** Ibn Kathir notes: And those foremost will be foremost.)(11.
-
-**From the Sunnah:** : "They are those who accept the truth when it is presented to them; when they are asked for the rights due from them, they fulfill them; and they judge about the matters of others as they would judge about themselves. (Musnad Ahmad) Ibn Sirin says that it refers to early Muslims who performed their prayers facing the two qiblas, namely, baytul-maqdis and baitulllah.
 ## Personal Reflections
-
 

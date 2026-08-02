@@ -150,13 +150,5 @@ In the Shari` ah brought by the Holy Prophet Muhammad al Mustafa ﷺ there are s
 
 We forbade the Jews certain foods that had been lawful to them for their wrongdoing, and for hindering many from the Way of Allah, taking interest despite its prohibition, and consuming people’s wealth unjustly. We have prepared for those who reject the truth among them a painful punishment.
 
-## AI Tafsir
-
-**Context:** Ibn 'Abbas said, "This Ayah was revealed concerning 'Abdullah bin Salam, Tha'labah bin Sa'yah, Zayd bin Sa'yah and Asad bin 'Ubayd who embraced Islam and believed what Allah sent Muhammad ﷺ with. Allah said,
-
-**What this ayah teaches:** Some Foods Were Made Unlawful for the Jews Because of their Injustice and Wrongdoing Allah states that because of the injustice and transgression of the Jews, demonstrated by committing major sins, He prohibited some of the lawful, pure things which were previously allowed for them.
-
-**Classical tafsir:** Ibn Kathir notes: And verily, We are Truthful.) This means, We prohibited these things for them because they deserved it due to their transgression, injustice, defying their Messenger and disputing with him.
 ## Personal Reflections
-
 

@@ -131,11 +131,5 @@ As for the appointed time not being late or early as stated in this verse, it is
 
 O children of Adam! When messengers from among yourselves come to you reciting My revelations—whoever shuns evil and mends their ways, there will be no fear for them, nor will they grieve.
 
-## AI Tafsir
-
-**What this ayah teaches:** If there come to you Messengers from among you, reciting to you My Ayat, then whosoever has Taqwa and becomes righteous, on them shall be no fear nor shall they grieve (35)But those who reject Our Ayat and treat them with arrogance, they are the dwellers of the Fire, they will abide therein forever .
-
-**Classical tafsir:** Ibn Kathir notes: The third verse (34) describes their sad end and the punishment they would have in the Hereafter.
 ## Personal Reflections
-
 

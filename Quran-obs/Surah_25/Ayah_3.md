@@ -144,11 +144,5 @@ These verses define the sacred and exalted position of the Holy Qur’ an and by
 
 Yet they have taken besides Him gods who cannot create anything but are themselves created. Nor can they protect or benefit themselves. Nor can they control life, death, or resurrection.
 
-## AI Tafsir
-
-**What this ayah teaches:** For instance, earth is not made in such a liquid form, that anything put on it is drowned, nor is it made too hard like steel or concrete to be dug.
-
-**Classical tafsir:** Ibn Kathir notes: No one should be worshipped except Him because whatever He wills happens and whatever he does not will does not happen.
 ## Personal Reflections
-
 

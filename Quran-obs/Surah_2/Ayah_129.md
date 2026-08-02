@@ -208,17 +208,5 @@ In the end, let us note that the three prophetic functions which Sayyidna Ibrahi
 
 Our Rabb, raise from among them a messenger from themselves who will recite Your signs, teach them the Book and wisdom, and purify them. You are the Almighty, the All-Wise.
 
-## AI Tafsir
-
-**Essence** Ibrahim crowns his prayer for Makkah by begging Allah to raise a Messenger from his own offspring — a prayer Allah answered in Muhammad ﷺ.
-
-**What it teaches** Ibrahim asks for a rasul "from among them" — as Maarif notes, one of their own, whose character they know and can trust. He names three tasks: to recite Allah's verses (tilawah — the very words, an act of worship), to teach the Book and al-hikmah (wisdom), and yuzakkihim — to purify them. He seals it with two of Allah's names: al-'Aziz (the Almighty) and al-Hakim (the All-Wise).
-
-**The scholars** Ibn Kathir: this accepted prayer matched Allah's decree that Muhammad ﷺ be sent, so Ibrahim was the first to name him to mankind. On al-hikmah, the salaf — al-Hasan, Qatadah, Muqatil bin Hayyan, Abu Malik — read it as the Sunnah; others as "comprehension in religion," and the two are reported as complementary. Ibn 'Abbas (via 'Ali bin Abi Talhah) glossed "purify them" as "with the obedience of Allah." On al-'Aziz al-Hakim, Ibn Kathir: nothing escapes His power, and He sets each thing in its rightful place. Maarif draws a sharp line: "reciting" is the words, "teaching" the meanings — so the Qur'an's words are revealed and preserved exactly, while their meaning needs a divinely-taught teacher.
-
-**From the Sunnah** The Prophet ﷺ named himself the answer to this prayer: "the supplication of my father Ibrahim and the glad tidings brought forth by Jesus the son of Mary." (Ibn Kathir; a fuller version in Imam Ahmad's Musnad, per Maarif) He also said he was sent only as a teacher. (Maarif ul Quran)
-
-**Reflection** Be a lifelong student of the Prophet ﷺ — recite the Book, learn its meaning from those who carry his teaching, and let it purify you into obedience.
 ## Personal Reflections
-
 

@@ -204,17 +204,5 @@ Most of the jurists and the masters of the science of Hadith, however, believe t
 
 But the wrongdoers changed the words they were told to say. So We sent down punishment from heaven for their rebellion.
 
-## AI Tafsir
-
-**Essence** Those who twisted Allah's word of repentance into mockery drew down His punishment from the sky.
-
-**What it teaches** Told to enter the town (Jerusalem, in Ibn Kathir's preferred view) saying "Hittah" — relieve us of our errors and sins — the wrongdoers jeered "Hintah (grain seed) in Sha'irah (barley)"; for their fisq (defiance) Allah sent down Rijz.
-
-**The scholars** Ibn 'Abbas: every Rijz in Allah's Book means punishment. Maarif ul-Quran (citing Qurtubi) names it a plague that killed seventy thousand, and rules the Qur'an's words irreplaceable: its meaning is inseparable from the words Allah revealed.
-
-**From the Sunnah** "The Children of Israel were commanded to enter the door while bowing and to say 'Hittah'. Yet, they entered the door on their behinds, distorting the words. They said; 'Habbah (seed), in Sha'rah (a hair).'" (Al-Bukhari)
-
-**Reflection** Carry Allah's words as He gave them — humble in tongue and deed — for a sincere plea lifts sins, while mockery invites His anger.
 ## Personal Reflections
-
 

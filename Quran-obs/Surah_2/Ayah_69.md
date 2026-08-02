@@ -148,22 +148,5 @@ These Verses show how the Israelites were disposed to disobedience, and how this
 
 They said, "Call on your Rabb to specify its colour." He said, "He says it should be a bright yellow cow, pleasing to look at."
 
-## AI Tafsir
-
-**Essence**
-They questioned instead of obeying, and the command tightened — now the cow must be vivid yellow, pleasing every eye.
-
-**What it teaches**
-The colour they demanded came back precise: baqarah safra' — yellow, faqi' (bright, vivid), "pleasing the beholders."
-
-**The scholars**
-Ibn Kathir, from Ibn 'Abbas and 'Ubaydah: any cow would have sufficed, but they made it hard, so Allah made it harder. Ibn 'Abbas (via Al-'Awfi): "a deep yellowish white"; Wahb bin Munabbih (relayed, not affirmed): skin seeming to radiate sunlight. The modern Tawrah's "red cow," Ibn Kathir suggests, may be an error — or a yellow so deep it looked reddish; Allah knows best.
-
-**From the Sunnah**
-A narration in Maarif ul Quran (no collection named): had they obeyed without doubts and unnecessary questions, no strict condition would have been imposed — any cow would have been accepted.
-
-**Reflection**
-Obey at the first word — questions that delay obedience only make it heavier.
 ## Personal Reflections
-
 

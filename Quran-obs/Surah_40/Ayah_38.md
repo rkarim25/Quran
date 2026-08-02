@@ -83,11 +83,5 @@ My respected father, Maulana Muhammad Yasin, a dear disciple of Maulana Muhammad
 
 The believing man urged: "O my people, follow me, and I will lead you to the Way of Guidance.
 
-## AI Tafsir
-
-**What this ayah teaches:** Since no one expects any head of the state to go that wild in his imagination, therefore, some commentators have said that this much he too knew that, no matter how high a structure is made for him, he still cannot reach the skies (by that mode of ascent). Follow me, I will guide you to the way of right conduct.
-
-**Classical tafsir:** Ibn Kathir notes: Since no one expects any head of the state to go that wild in his imagination, therefore, some commentators have said that this much he too knew that, no matter how high a structure is made for him, he still cannot reach the skies (by that mode of ascent).
 ## Personal Reflections
-
 

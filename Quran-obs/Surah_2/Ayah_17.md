@@ -125,15 +125,5 @@ The last four verses bring out the miserable plight of the hypocrites with the h
 
 Their likeness is someone who kindled a fire; when it lit up what was around them, Allah took away their light and left them in darkness, unable to see.
 
-## AI Tafsir
-
-**Essence** Hypocrisy is borrowed light: it flares briefly, then Allah Himself takes it away, leaving the hypocrite in the darkness he purchased.
-
-**What it teaches** Allah likens the hypocrites to a man whose fire lights up his surroundings, then dies. The nur stripped from them is the faith they professed; the zulumat left behind are layered darknesses, for they bought misguidance with guidance.
-
-**The scholars** Ibn Kathir explains: Allah removed what benefits them — the light — and left what harms them: darkness and smoke, "their doubts, disbelief and hypocrisy." He relates that the parable indicates they first believed, then disbelieved, and cites the Qur'an: "Verily, it is not the eyes that grow blind, but it is the hearts which are in the breasts that grow blind" (22:46). Maarif ul-Quran adds: this simile is for those whose disbelief took deep root yet who pretended Islam for worldly motives — a warning that they are not beyond Allah's power.
-
-**Reflection** Guard the light of faith Allah has kindled in you; never trade it for a worldly gain that ends in darkness.
 ## Personal Reflections
-
 

@@ -158,11 +158,5 @@ It is important to note that for all kinds of ` taubah', giving up of sin must b
 
 He is the One Who accepts repentance from His servants and pardons their sins. And He knows whatever you do.
 
-## AI Tafsir
-
-**What this ayah teaches:** And He it is Who accepts repentance from His servants, and forgives sins, and He knows what you do (25)And He answers those who believe and do righteous good deeds, and gives them increase of His bounty.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

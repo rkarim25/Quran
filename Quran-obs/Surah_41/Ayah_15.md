@@ -219,11 +219,5 @@ The basic purpose of these verses is to warn the people of Makkah that if, even 
 
 As for 'Ad, they acted arrogantly throughout the land with no right, boasting, "Who is superior to us in might?" Did they not see that Allah, Who created them, was far superior in might? Still they persisted in denying Our signs.
 
-## AI Tafsir
-
-**What this ayah teaches:** But surely the torment of the Hereafter will be more disgracing, and they will never be helped (16)And as for Thamud, We showed them the path of truth but they preferred blindness to guidance; so the Sa'iqah of disgracing torment seized them because of what they used to earn (17)And We saved those who believed and had Taqwa .
-
-**Classical tafsir:** Ibn Kathir notes: But surely the torment of the Hereafter will be more disgracing, and they will never be helped (16)And as for Thamud, We showed them the path of truth but they preferred blindness to guidance; so the Sa'iqah of disgracing torment seized them because of what they used to earn (17)…
 ## Personal Reflections
-
 

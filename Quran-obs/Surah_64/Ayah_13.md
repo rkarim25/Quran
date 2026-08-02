@@ -111,13 +111,5 @@ Commentary
 
 Allah—there is no god worthy of worship except Him. So let the believers put their trust in Him.
 
-## AI Tafsir
-
-**What this ayah teaches:** 'Az-Zuhri said, "From Allah comes the Message, its deliverance is up to the Messenger, and the adherence is up to us." Tawhid Allah states that He is the One, Whom all creations need and seek, the One other than Whom there is no (true) Allah.
-
-**Classical tafsir:** Ibn Kathir notes: 'Az-Zuhri said, "From Allah comes the Message, its deliverance is up to the Messenger, and the adherence is up to us." Tawhid Allah states that He is the One, Whom all creations need and seek, the One other than Whom there is no (true) Allah.
-
-**From the Sunnah:** There is an agreed upon Hadith [that Al-Bukhari and Muslim collected and] which states, (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
-
 

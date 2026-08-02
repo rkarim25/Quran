@@ -184,13 +184,5 @@ The Response to this False Accusation
 
 Say, O Prophet, “Bring then a scripture from Allah which is a better guide than these two so I may follow it, if your claim is true.”
 
-## AI Tafsir
-
-**Context:** (Verily, we have heard a Book sent down after Musa, confirming what came before it)(46:30). Waraqah bin Nawfal said, "This is An-Namus, who came down to Musa." And those who are possessed of insight know instinctively th…
-
-**What this ayah teaches:** Verily, Allah guides not the people who are wrongdoers (50)And indeed now We have conveyed the Word to them, in order that they may remember .
-
-**Classical tafsir:** Ibn Kathir notes: Verily, Allah guides not the people who are wrongdoers (50)And indeed now We have conveyed the Word to them, in order that they may remember .
 ## Personal Reflections
-
 

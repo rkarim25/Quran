@@ -89,11 +89,5 @@ The expression: اُولُوا الطَّولِ (ulu 'at-caul: translated as ` t
 
 But the Messenger and those who have iman with him strived with their wealth and their lives. They will have all the best, and it is they who will be successful.
 
-## AI Tafsir
-
-**What this ayah teaches:** But the Messenger and those who believed with him strove hard and fought with their wealth and their lives. This describes the qualities, as well as, the reward of faithful believers.
-
-**Classical tafsir:** Ibn Kathir notes: This describes the qualities, as well as, the reward of faithful believers.
 ## Personal Reflections
-
 

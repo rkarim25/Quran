@@ -156,15 +156,5 @@ It means that the person guilty of qazf is subject to two punishments. One is in
 
 Those who accuse chaste women of adultery and fail to produce four witnesses, give them eighty lashes each. And do not ever accept any testimony from them—for they are indeed the rebellious—
 
-## AI Tafsir
-
-**Context:** In the Qur’ anic verse, either because of general practice or because of the incident for which the verse was revealed, the accusation of adultery and related punishment is described in a way that the accusers are men an…
-
-**What this ayah teaches:** Because, if there are no other witnesses, or the total number is less than four, or there is doubt if the witnesses will give the evidence, then only one man would never like to venture evidence alone and be punished with eighty stripes.
-
-**Classical tafsir:** Ibn Kathir notes: Ash-Sha'bi and Ad-Dahhak said, "His testimony cannot be accepted even if he does repent, unless he himself admits that he said something false, in which case his testimony may be accepted." And Allah knows best.
-
-**From the Sunnah:** It means that the person against whom adultery is established is sane, adult, a free Muslim, and who is validly married to…
 ## Personal Reflections
-
 

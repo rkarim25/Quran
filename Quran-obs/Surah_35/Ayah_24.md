@@ -134,11 +134,5 @@ This verse has itself clarified it that, at this place, making someone hear mean
 
 We sent you with the truth as a bearer of good news and a warner. There is no community that has not had a warner.
 
-## AI Tafsir
-
-**What this ayah teaches:** The Believer and the those who reject the truth are not equal Allah says that these antonyms are clearly not equal, the blind and the seeing are not equal, there is a difference and a huge gap between them.
-
-**Classical tafsir:** Ibn Kathir notes: This proves that the negation of making the ( dead hear referred to in this verse means a particular listening that is beneficial, something because of which the listener forsakes the false and takes to the true.
 ## Personal Reflections
-
 

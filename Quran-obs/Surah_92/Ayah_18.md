@@ -174,15 +174,5 @@ The wordings of the verse give good news, in general, to anyone who spends in Al
 
 The one who gives his wealth to purify himself—
 
-## AI Tafsir
-
-**Context:** Many of the scholars of Tafsir have mentioned that these Ayat were revealed about Abu Bakr As-Siddiq. Some of them even mentioned that there is a consensus among the Qur'anic commentators concerning this.
-
-**What this ayah teaches:** The one who is called from them will not have any need.
-
-**Classical tafsir:** Ibn Kathir notes: This verse describes the reward of the most Allah-fearing person, as opposed to the punishment of the most wretched in the preceding verse.
-
-**From the Sunnah:** Paradise, and whoever disobeys me, then he has refused. (Sahih al-Bukhari) For verily, he was truthful, pious, generous, charitable, and he always spent his wealth in obedience of His Master (Allah) and in aiding the Messenger of Allah ﷺ.
 ## Personal Reflections
-
 

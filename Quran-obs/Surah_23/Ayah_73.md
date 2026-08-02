@@ -154,11 +154,5 @@ One reason for their denial of the true faith could have been if the message was
 
 And surely you are calling them to the Sirat al-Mustaqim — the way of living that pleases Allah,
 
-## AI Tafsir
-
-**What this ayah teaches:** But the recompense of your Lord is better, and He is the Best of those who give sustenance (72)And certainly, you call them to the straight path (73)And verily, those who believe not in the Hereafter are indeed deviating far astray from the path (74)And though We had mercy on them and removed the distress which is on them, still they would obstinately persist in their transgression, wandering blin…
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

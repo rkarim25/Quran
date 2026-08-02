@@ -176,11 +176,5 @@ The Religion of All the Prophets Is Tawhid; And the Warning Against Splitting in
 
 Yet the people have divided it into different sects, each rejoicing in what they have.
 
-## AI Tafsir
-
-**What this ayah teaches:** It should be noted that the difference of opinion among the mujtahidin (competent Shari` ah Scholars) in some minor issues is not included in this division which is condemned in this verse, because these differences do not cause a division of the religion, nor do the people maintaining these differences become separate sects.
-
-**Classical tafsir:** Ibn Kathir notes: The Command to Eat Lawful Food and to Do Righteous Deeds Allah commands His servants and Messengers, peace be upon them all, to eat lawful food and do righteous deeds, which indicates that eating what is lawful helps one to do righteous deeds.
 ## Personal Reflections
-
 

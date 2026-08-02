@@ -137,15 +137,5 @@ The Status of Previous Shari'ahs for Muslims
 
 They can be of no benefit to you against Allah. The wrongdoers are allies of one another, whereas Allah is the Ally of the righteous.
 
-## AI Tafsir
-
-**Context:** (Then We have put you on a (legal) way of commandment. So follow you that.) 'follow what was revealed to you from your Lord, O Muhammad, there is no true deity except Him, and turn away from the idolators.' Allah said,
-
-**What this ayah teaches:** This indicates that the law is applicable in the Shari` ah of this Ummah also. So follow you that, and follow not the desires of those who know not (18)Verily, they can avail you nothing against Allah.
-
-**Classical tafsir:** Ibn Kathir notes: This indicates that the law is applicable in the Shari` ah of this Ummah also.
-
-**From the Sunnah:** This Ayah contains a warning to the Muslim Ummah as well. (Sahih Muslim)
 ## Personal Reflections
-
 

@@ -148,11 +148,5 @@ Then Allah says:
 
 Whatever they used to invoke besides Allah will fail them. And they will realize they will have no escape.
 
-## AI Tafsir
-
-**What this ayah teaches:** - 44) The original word used for non-Arabic in the text is a'jamiyy (with hamza before the letter 'ain) which is an Arabic term for ` ineloquent speech', while ` ajam' (without hamzah in its beginning) means any nation other than Arabs.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore ` ajamiyy is a person who is non-Arab, even though he may speak eloquently, and a'jamiyy is a person who cannot speak eloquently (Qurtubi).
 ## Personal Reflections
-
 

@@ -126,13 +126,5 @@ Reports say that these habitations were composed of four major towns where those
 
 When Our command came, We turned the cities upside down and rained down on them clustered stones of baked clay,.
 
-## AI Tafsir
-
-**What this ayah teaches:** So when Our commandment came, We turned them upside down, and rained on them stones of clay, in an array (82)Marked from your Lord; and they are not ever far from the wrongdoers .
-
-**Classical tafsir:** Ibn Kathir notes: Some of the scholars said that it (Sijjil) derived from the word Sang, which means a stone.
-
-**From the Sunnah:** "Sijjil means that which is big and strong." Concerning Allah's statement, (Sahih al-Bukhari) Verily, it has been reported in a Hadith of the Sunan collections, from Ibn 'Abbas, which he attributed to the Prophet ﷺ,
 ## Personal Reflections
-
 

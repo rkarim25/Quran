@@ -160,15 +160,5 @@ This attitude of the Holy Prophet ﷺ was based on ijtihad or 'an opinion based 
 
 He frowned and turned away
 
-## AI Tafsir
-
-**Context:** (He frowned and turned away.) "This was revealed about Ibn Umm Maktum, the blind man. He came to the Messenger of Allah ﷺ and began saying, 'Guide me.' At the time the Messenger of Allah ﷺ had a man with him who was one…
-
-**What this ayah teaches:** ...80:3) alludes to the fact that the Holy Prophet ﷺ was excusable, because it did not come to his attention that the Companion is asking something whose effect will be certain and the effect of conversation with others is dubious.
-
-**Classical tafsir:** Ibn Kathir notes: This indicates that if an excusable person were to break any rule of etiquette unwittingly, he should not be reprimanded.
-
-**From the Sunnah:** He (Ibn Umm Maktum) then began asking the Messenger of Allah ﷺ about something, urgently beseeching him.
 ## Personal Reflections
-
 

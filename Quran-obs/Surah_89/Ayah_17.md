@@ -91,11 +91,5 @@ Spending on the Orphan is not Sufficient. Their respect is also necessary
 
 No! You do not honour the orphan—
 
-## AI Tafsir
-
-**What this ayah teaches:** Spending on the Orphan is not Sufficient.
-
-**Classical tafsir:** Ibn Kathir notes: The style of this verse, in condemning the evil trait of the unbelievers, indicates that it is an obligation of the affluent to spend on the poor and indigent from their own wealth.
 ## Personal Reflections
-
 

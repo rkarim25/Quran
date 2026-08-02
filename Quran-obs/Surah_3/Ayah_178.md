@@ -234,13 +234,5 @@ Let there be no doubt about the worldly wellbeing of disbelievers for one may be
 
 Those who reject the truth should not think that living longer is good for them. They are only given more time to increase in sin, and they will suffer a humiliating punishment.
 
-## AI Tafsir
-
-**What this ayah teaches:** And let not the those who reject the truth think that Our postponing their punishment is good for them.
-
-**Classical tafsir:** Ibn Kathir notes: This Ayah refers to Uhud, since Allah tested the believers in that battle, thus making known the faith, endurance, patience, firmness and obedience to Allah and His Messenger ﷺ that the believers had.
-
-**From the Sunnah:** Because the Prophet ﷺ was eager for people's benefit, he would become sad when the those who reject the truth would resort to defiance, rebellion and stubbornness. Allah mentions the money that the miser collected on the Day of Resurrection,
 ## Personal Reflections
-
 

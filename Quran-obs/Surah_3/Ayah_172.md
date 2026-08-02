@@ -313,13 +313,5 @@ The word, Taqwa, has been interpreted variously but the most comprehensive defin
 
 Those who responded to the call of Allah and His Messenger after their injury, those of them who did good and were mindful will have a great reward.
 
-## AI Tafsir
-
-**Context:** Qatadah, Ar-Rabi' and Ad-Dahhak said that these Ayat were revealed about the martyrs of Uhud. (They rejoice in what Allah has bestowed upon them) indicates that the martyrs who were killed in Allah's cause are alive with…
-
-**What this ayah teaches:** In its ultimate reality, the command of the Messenger of Allah is the command of Allah.
-
-**Classical tafsir:** Ibn Kathir notes: Nay, they are alive, with their Lord, and they have provision.) Qatadah, Ar-Rabi' and Ad-Dahhak said that these Ayat were revealed about the martyrs of Uhud.
 ## Personal Reflections
-
 

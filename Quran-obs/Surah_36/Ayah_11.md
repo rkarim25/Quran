@@ -253,11 +253,5 @@ The majority of commentators have declared the present verse to be a similitude 
 
 You can only warn those who follow the Reminder and stand in awe of the Rahman without seeing Him. So give them good news of forgiveness and an honourable reward.
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, We have put on their necks iron collars reaching to the chins, so that their heads are raised up (8)And We have put a barrier before them, and a barrier behind them, and We have covered them up, so that they cannot see (9)It is the same to them whether you warn them or you warn them not, they will not believe (10)You can only warn him who follows the Reminder, and fears the ar-Rahman u…
-
-**Classical tafsir:** Ibn Kathir notes: Qatadah said, "If Allah were to have neglected anything with regard to you, O son of Adam, He would have neglected what the wind could remove of these footsteps." But He takes into account the footsteps of the son of Adam and all his deeds; He even takes into account these footsteps and whether they… This also indicates that Allah gives life to the heart of whomever He wills among the those who reject the truth,…
 ## Personal Reflections
-
 

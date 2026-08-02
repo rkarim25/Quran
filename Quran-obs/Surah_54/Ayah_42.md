@@ -113,15 +113,5 @@ The forthcoming verses address the people of the time of the Prophet Muhammad �
 
 They rejected all Our ayahs, so We seized them with the grip of the Almighty, All-Powerful.
 
-## AI Tafsir
-
-**Context:** Al-Bukhari also recorded that Yusuf bin Mahak said, "I was with the Mother of the faithful, 'A'ishah, when she said, 'When I was still a young playful girl in Makkah, this Ayah was revealed to Muhammad ﷺ, رَ‌اوَدُوهُ عَن…
-
-**What this ayah teaches:** And indeed, warnings came to the people of Fir'awn (41)(They) denied all Our signs, so We seized them with a punishment of the Almighty, All-Capable (42)Are your those who reject the truth better than these? Allah supported Musa and Harun with tremendous miracles and great signs, but Fir'awn and his people rejected all of them.
-
-**Classical tafsir:** Ibn Kathir notes: The word murawadah signifies to entice someone to satisfy one's lust.
-
-**From the Sunnah:** Abu Bakr caught him by the hand and said, 'This is sufficient, O Allah's Messenger!
 ## Personal Reflections
-
 

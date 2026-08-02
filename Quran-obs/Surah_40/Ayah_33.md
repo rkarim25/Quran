@@ -153,11 +153,5 @@ There is a lengthy Hadith in Tafsir Mazhari. It has been reported from Sayyidna 
 
 the Day you will try in vain to turn your backs and run away, with no one to protect you from Allah. Whoever Allah leaves to stray will have no guide.
 
-## AI Tafsir
-
-**What this ayah teaches:** And whomsoever Allah sends astray, for him there is no guide (33)And indeed Yusuf did come to you, in times gone by, with clear signs, but you ceased not to doubt in that which he did bring to you, till when he died, you said: "No Messenger will Allah send after him." Thus Allah leaves astray him who is a transgressor and a skeptic (34)Those who dispute about the Ayat of Allah,…
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

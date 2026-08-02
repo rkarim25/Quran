@@ -95,11 +95,5 @@ Verses appearing immediately earlier described the many blessings of Allah Ta` a
 
 Can the One Who creates be equal to those who do not? Will you not then be living with taqwa?
 
-## AI Tafsir
-
-**What this ayah teaches:** He was the first one to travel by ship, he was taught how to make them, then people took this knowledge from him and passed it down from generation to generation through the centuries, so that they could travel from country to country and from place to place, bringing goods from here to there and from there to here.
-
-**Classical tafsir:** Ibn Kathir notes: He was the first one to travel by ship, he was taught how to make them, then people took this knowledge from him and passed it down from generation to generation through the centuries, so that they could travel from country to country and from place to place, bringing goods from…
 ## Personal Reflections
-
 

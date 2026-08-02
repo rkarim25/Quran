@@ -126,11 +126,5 @@ As it appears in some narratives, this verse was revealed in response to a quest
 
 Creating and resurrecting all of you is as easy for Him as creating a single soul. He is All-Hearing, All-Seeing.
 
-## AI Tafsir
-
-**Context:** As it appears in some narratives, this verse was revealed in response to a question posed by Jewish priests. The reason which prompted them to ask this question was the verse of the Qur'an where it has been said: وَمَا أ…
-
-**What this ayah teaches:** The number seven is used to indicate a large amount, it is not to be taken literally or to be understood as referring to the seven oceans of the world, as was suggested by those who took this idea from Israelite stories, which we neither believe nor reject.
 ## Personal Reflections
-
 

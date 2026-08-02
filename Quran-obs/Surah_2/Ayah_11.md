@@ -142,15 +142,5 @@ This is an indication that Allah alone10 knows the states of men's hearts and th
 
 When they are told, "Do not spread corruption in the land," they answer, "We are only making peace."
 
-## AI Tafsir
-
-**Essence** The hypocrites dress their corruption in the language of reform — so self-deceived they do not even see the mischief they spread.
-
-**What it teaches** Fasad, as Ibn 'Abbas and Ibn Mas'ud explained, is at root disbelief and disobedience to Allah. Their emphatic innama — “We are nothing but reformers” — claims exclusivity; the Qur'an's rejoinder exposes it: deeds, not labels, decide who builds and who destroys, for “what thief would call himself a thief?”
-
-**The scholars** Abu al-'Aliyah: “Peace on both the earth and in the heavens is ensured through obedience.” Ibn Jarir: they doubt Allah's religion, lie to the believers, and aid His enemies. Maarif ul-Quran: only Allah “knows the one who makes mischief distinct from him who promotes good” (2:220) — intention alone is not enough unless thought and deed harmonize with the Shari'ah.
-
-**Reflection** Before calling your work islah, ask whether it obeys Allah — corruption rarely announces itself; it arrives wearing reform's name.
 ## Personal Reflections
-
 

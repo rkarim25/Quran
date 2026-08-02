@@ -128,11 +128,5 @@ Ibn Kathir says that this verse indicates proper manners for entertaining guests
 
 and set it before them, saying: Will you not eat?
 
-## AI Tafsir
-
-**What this ayah teaches:** He did not first mention this favor to them by saying, "We will make food for you." Rather, he discretely had it prepared and placed before them. Rather, he placed it close to them and refrained from ordering them to eat.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

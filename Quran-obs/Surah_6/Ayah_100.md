@@ -129,11 +129,5 @@ The contents of this verse present a unique concern for thematic order. It will 
 
 Yet they associate the jinn with Allah, even though He created them, and they falsely attribute to Him sons and daughters out of ignorance. Glorified and Exalted is He above what they claim!
 
-## AI Tafsir
-
-**What this ayah teaches:** Yet, they join the Jinns as partners in worship with Allah, though He has created them, and they attribute, falsely without knowledge - sons and daughters to Him. The word, Kharaqu, means 'falsely attributed, invented, claimed and lied', according to the scholars of the Salaf.
-
-**Classical tafsir:** Ibn Kathir notes: The word, Kharaqu, means 'falsely attributed, invented, claimed and lied', according to the scholars of the Salaf.
 ## Personal Reflections
-
 

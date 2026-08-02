@@ -201,11 +201,5 @@ The last verse (9): أَفَلَمْ يَرَ‌وْا إِلَىٰ مَا بَ�
 
 Have they not looked at the heavens and the earth around them? If We willed, We could make the earth swallow them, or drop fragments of the sky upon them. In this is a sign for every servant who turns back to Allah.
 
-## AI Tafsir
-
-**What this ayah teaches:** This means that in looking at the creation of the heavens and the earth, there is a sign for every servant who is intelligent and wise and who turns towards Allah.
-
-**Classical tafsir:** Ibn Kathir notes: This means that in looking at the creation of the heavens and the earth, there is a sign for every servant who is intelligent and wise and who turns towards Allah.
 ## Personal Reflections
-
 

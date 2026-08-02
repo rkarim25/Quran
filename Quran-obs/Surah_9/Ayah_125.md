@@ -118,13 +118,5 @@ Sayyidna ` Ali ؓ has said, ` when 'Iman enters the heart, it is like a radiant 
 
 But as for those with sickness in their hearts, it has increased them only in wickedness upon their wickedness, and they die as those who reject the truth.
 
-## AI Tafsir
-
-**Context:** Previous verses carried inducement to Jihad. The first verse from the present ones (123) which opens with the words: يَا أَيُّهَا الَّذِينَ آمَنُوا قَاتِلُوا ( O those who believe, fight those those who reject the truth who are near y…
-
-**What this ayah teaches:** And whenever there comes down a Surah, some of them (hypocrites) say: "Which of you has had his faith increased by it" As for those who believe, it has increased their faith, and they rejoice (124)But as for those in whose hearts is a disease, it will add Rijs (doubt) to their Rijs (doubt); and they die while they are those who reject the truth .
-
-**Classical tafsir:** Ibn Kathir notes: He carried out the command by assembling people from his family and conveyed to them the Word of Allah as revealed to him.
 ## Personal Reflections
-
 

@@ -99,11 +99,5 @@ In addition to that, by saying: وَمَا كَانُوا يَعْبُدُونَ
 
 Allah will say to the angels: "Gather all the wrongdoers along with their peers, and whatever they used to worship
 
-## AI Tafsir
-
-**What this ayah teaches:** The Day of Recompense Allah tells us what the those who reject the truth will say on the Day of Resurrection, how they will blame themselves and admit that they wronged themselves in this world. Allah will command the angels to separate the those who reject the truth from the believers in the place where they are standing.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

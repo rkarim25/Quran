@@ -150,11 +150,5 @@ To sum up, it can be said that taking the birth of a girl to be bad is a detesta
 
 To those who reject the truth in the Akhirah belong all evil qualities, whereas to Allah belong the finest attributes. And He is the Almighty, All-Wise.
 
-## AI Tafsir
-
-**What this ayah teaches:** Certainly, evil is their decision (59)For those who do not believe in the Hereafter is an evil description, and for Allah is the highest description.
-
-**Classical tafsir:** Ibn Kathir notes: And for themselves (they assign) what they desire (57)And when the news of (the birth of) a female (child) is brought to any of them, his face becomes dark, and he is filled with inner grief (58)He hides himself from the people because of the evil of what he has been informed.
 ## Personal Reflections
-
 

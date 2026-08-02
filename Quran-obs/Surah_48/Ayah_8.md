@@ -241,13 +241,5 @@ After that, there is reference to the pledge of Ridwan which was narrated in par
 
 We have sent you as a witness, a bearer of glad news, and a warner,
 
-## AI Tafsir
-
-**What this ayah teaches:** Shahid means 'witness' and its sense here is the same as that of shahid which occurs in [ 4:41].
-
-**Classical tafsir:** Ibn Kathir notes: Other scholars express the view that the Holy Prophet ﷺ will bear witness to the entire community's good and bad works, and to its obedience and defiance, because, according to some versions, angels present to the Holy Prophet ﷺ morning and evening the works of the community.
-
-**From the Sunnah:** The number of the Companions who gave their pledge to Allah's Messenger ﷺ at that time was either 1,300, 1,400 or 1,500. that Jabir bin 'Abdullah, may Allah be pleased with him, said, "We numbered one thousand and four hundred on the day of Hudaybiyyah." Muslim also collected this Hadith. (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
-
 

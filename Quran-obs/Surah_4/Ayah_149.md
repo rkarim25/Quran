@@ -138,11 +138,5 @@ Now, we move on to verses 150, 151 and 152 where the Holy Qur'an has given the c
 
 Whether you reveal or conceal a good or pardon an evil—surely Allah is Ever-Pardoning, Most Capable.
 
-## AI Tafsir
-
-**What this ayah teaches:** And Allah is Ever All-Hearer, All-Knower (148)Whether you disclose a good deed or conceal it, or pardon an evil, verily, Allah is Ever Pardoning, All-Powerful .
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, for such a person, overlooking and forgiving is far more desirable.
 ## Personal Reflections
-
 

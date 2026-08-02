@@ -78,13 +78,5 @@ Since it is established that Resurrection is a reality and inevitable, the rewar
 
 Ask them which of them can guarantee all that.
 
-## AI Tafsir
-
-**What this ayah teaches:** How judge you (36)Or have you a Book wherein you learn (37)That you shall therein have all that you choose (38)Or have you oaths from Us, lasting until the Day of Judgement, that yours will be what you judge (39)Ask them, which of them will stand as surety for that (40)Or have they "partners"?
-
-**Classical tafsir:** Ibn Kathir notes: The Reward of those Who have Taqwa and that They will not be treated like the Criminals After Allah mentions the situation of the people of the worldly garden and the wrath they suffered when they disobeyed Allah and opposed his commands, He then explains that whoever has Taqwa o…
-
-**From the Sunnah:** Verily, for those who have Taqwa are Gardens of Delight with their Lord (34)Shall We then treat the Muslims like the criminals (35)What is the matter with you?
 ## Personal Reflections
-
 

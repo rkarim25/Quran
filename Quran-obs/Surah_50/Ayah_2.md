@@ -195,13 +195,5 @@ Is it Possible to Observe the Heaven?
 
 Yet those who deny are astonished that a warner from among themselves has come warning of resurrection. They say: This is something unbelievable!
 
-## AI Tafsir
-
-**What this ayah teaches:** So the those who reject the truth say: "This is a strange thing!")(3.
-
-**Classical tafsir:** Ibn Kathir notes: Some common people say that the Mufassal starts with Surah 'Amma An-Naba, (chapter 78), however, this is not true because none of the respected scholars ever supported this opinion.
-
-**From the Sunnah:** Paradise, the Fire, Allah's reward and punishment, lessons of encouragement, and lessons of discouragement. Al-'Awfi narrated that 'Abdullah bin 'Abbas commented on the statement of Allah the Exalted,
 ## Personal Reflections
-
 

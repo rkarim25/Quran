@@ -158,13 +158,5 @@ This age is regarded as an age of ascension for science. The marvelous new inven
 
 The sun and moon run by precise calculation.
 
-## AI Tafsir
-
-**What this ayah teaches:** He has appointed the night for resting, and the sun and the moon for calculating. If we go by the latter lexicologists' interpretation that husban is the plural of hisab, then it will refer to the fact that each of the sun and the moon has its own calculated orbits.
-
-**Classical tafsir:** Ibn Kathir notes: Mujahid said, "An-Najm (the star); the one that is in the sky." Al-Hasan and Qatadah said similarly. Ibn Jurayj reported that Ibn 'Abbas said said Al-Akmam, means sheathed fruit stalks.
-
-**From the Sunnah:** a man said [to Ibn Mas'ud]: "How is this recited: "Ma'in Ghayri Yasin or Asin?" He asked him, "Are you that proficient in reciting the whole Qur'an?" He replied, "I recite the Mufassal section in one Rak'ah." So he said, "Woe to you! (Musnad Ahmad) it and he said, "This Hadith is Gharib." Al-Hafiz Abu Bakr Al-Bazzar also collected this Hadith.
 ## Personal Reflections
-
 

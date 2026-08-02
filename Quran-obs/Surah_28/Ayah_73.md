@@ -119,11 +119,5 @@ Allah Ta’ ala has mentioned a benefit of the night in this verse, that it prov
 
 It is out of His mercy that He has made for you the day and night so that you may rest in the latter and seek His bounty in the former, and perhaps you will be showing shukr.
 
-## AI Tafsir
-
-**What this ayah teaches:** He explains that if He made the night continuous, lasting until the Day of Resurrection, that would be harmful for them and would cause boredom and stress. If Allah made the day continuous for you till the Day of Resurrection, which Allah besides Allah could bring you night wherein you rest?
-
-**Classical tafsir:** Ibn Kathir notes: He explains that if He made the night continuous, lasting until the Day of Resurrection, that would be harmful for them and would cause boredom and stress.
 ## Personal Reflections
-
 

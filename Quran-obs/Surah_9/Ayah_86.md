@@ -122,11 +122,5 @@ The expression: اُولُوا الطَّولِ (ulu 'at-caul: translated as ` t
 
 Whenever a sûrah is revealed stating, “Believe in Allah and struggle along with His Messenger,” the rich among them would ask to be exempt, saying, “Leave us with those who remain behind.”
 
-## AI Tafsir
-
-**What this ayah teaches:** If war starts, such people are the most cowardice, but when it is safe, they are the most boastful among men.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

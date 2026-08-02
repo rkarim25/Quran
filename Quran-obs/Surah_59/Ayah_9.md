@@ -362,13 +362,5 @@ Having cited this narration, Ibn Kathir says that Nasa'i has also cited this nar
 
 Those who had settled in the city and embraced faith before the emigrants love whoever comes to them. They feel no envy in their hearts for what the emigrants receive. They prefer the emigrants over themselves even when they themselves are in need. Whoever is saved from the selfishness of their own nafs—the inner self that pulls toward desire—is truly successful.
 
-## AI Tafsir
-
-**Context:** It is recorded in Tirmidhi on the authority of Sayyidna Abu Hurairah ؓ that one night a guest came to ansari's house. The latter had only as much food as he and his children could eat.
-
-**What this ayah teaches:** And whoever is saved from the greed of his soul, then such people are the successful....59:9) After the mention of the Ansar's selflessness and self-sacrifice, a general rule of law or a universal principle is being laid down in the concluding part of verse [ 9].
-
-**Classical tafsir:** Ibn Kathir notes: The phrase min qablihim [ before them ] describes another characteristic of Ansar, which means that they had settled in Madinah before the Emigrants, while Madinah was so important a city that all the Muslims living in Makkah were ordered to emigrate to it and it became the cente…
 ## Personal Reflections
-
 

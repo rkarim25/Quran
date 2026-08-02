@@ -80,11 +80,5 @@ First of all, by using the word: رَبّ (Rabb: Lord) here, the hint given is t
 
 They fear their Rabb above them, and do whatever they are commanded.
 
-## AI Tafsir
-
-**What this ayah teaches:** they worship their Lord (Allah) with humility (49)They fear their Lord above them, and they do what they are commanded .
-
-**Classical tafsir:** Ibn Kathir notes: Mujahid said, "When the sun passes its zenith, everything prostrates to Allah, may He be glorified." This was also said by Qatadah, Ad-Dahhak and others.
 ## Personal Reflections
-
 

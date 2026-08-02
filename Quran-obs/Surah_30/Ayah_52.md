@@ -87,11 +87,5 @@ Allah says, 'just as you are not able to make the dead hear in their graves, or 
 
 You cannot make the dead hear truth, nor make the deaf hear the call when they turn away.
 
-## AI Tafsir
-
-**What this ayah teaches:** So verily, you cannot make the dead to hear, nor can you make the deaf to hear the call, when they show their backs and turn away (52)And you cannot guide the blind from their straying; you can make to hear only those who believe in Our Ayat, and have submitted (to Allah in Islam).
-
-**Classical tafsir:** Ibn Kathir notes: Qatadah said: "Allah brought them back to life for him so that they could hear what he said by way of rebuke and vengeance."
 ## Personal Reflections
-
 

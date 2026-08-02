@@ -153,11 +153,5 @@ Patience and Gratitude
 
 those who are stingy and urge stinginess on others. Whoever turns away—Allah is the Self-Sufficient, the Praised.
 
-## AI Tafsir
-
-**What this ayah teaches:** And whosoever turns away, then Allah is Rich, Worthy of all praise .
-
-**Classical tafsir:** Ibn Kathir notes: Allah says here, 'do not boast before people about what Allah has favored you with, because it is not you who earned it by your efforts.
 ## Personal Reflections
-
 

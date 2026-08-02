@@ -294,13 +294,5 @@ The Reward of Those on the Right
 
 And the people of the right—how blessed they will be!
 
-## AI Tafsir
-
-**What this ayah teaches:** For those on the right.) This is the view of Ibn Jarir.
-
-**Classical tafsir:** Ibn Kathir notes: Qatadah said, "Nothing will prevent them from reaching out to get these fruits, no branches, thorns or distance." We mentioned a Hadith before that states that whenever someone takes a fruit in Paradise, another one grows in its place.
-
-**From the Sunnah:** Paradise the shade of which a rider would take one hundred years to pass. (Sahih al-Bukhari, Sahih Muslim) Paradise, the believer will be given such and such strength for women.
 ## Personal Reflections
-
 

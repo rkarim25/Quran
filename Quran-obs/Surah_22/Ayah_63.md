@@ -194,13 +194,5 @@ In all these verses it is encouraged not to retaliate for revenge and rather for
 
 Do you not see that Allah sends down rain from the sky, then the earth becomes green? Surely Allah is Most Subtle, All-Aware.
 
-## AI Tafsir
-
-**What this ayah teaches:** But surely he who bears patiently and forgives - surely that is true constancy - 42:43.
-
-**Classical tafsir:** Ibn Kathir notes: In the raging sea with its tempestuous waves, the ships sail gently with their passengers and carry them wherever they want to go for trading and other purposes from one land to another, so that they bring goods from here to there, or vice versa, whatever people want or need.
-
-**From the Sunnah:** On the other hand there are several verses which promise Allah's goodwill to those Muslims who bear their sufferings with patience and equanimity and do not seek vengeance from their oppressors.
 ## Personal Reflections
-
 

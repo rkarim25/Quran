@@ -107,13 +107,5 @@ Verily, Allah responded to the supplication of both of these Prophets concerning
 
 Those leaders have already led many astray. So, O Lord, only allow the wrongdoers to stray farther away.'
 
-## AI Tafsir
-
-**Context:** وَلَا تَزِدِ الظَّالِمِينَ إِلَّا ضَلَالًا (…let not the wrongdoers progress in anything but deviation from the right path 71:24). This is the supplication of Prophet Nuh (علیہ السلام) against his people.
-
-**What this ayah teaches:** They had many idols, the five mentioned in the verse under comment being the most popular because of the deep love they had for them.
-
-**Classical tafsir:** Ibn Kathir notes: Destroy their wealth, and harden their hearts, so that they will not believe until they see the painful torment.)(10:88) Verily, Allah responded to the supplication of both of these Prophets concerning their people and He drowned their nations due to their rejection of what he (t…
 ## Personal Reflections
-
 

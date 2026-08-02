@@ -146,13 +146,5 @@ ends here.
 
 Wait then! They too are certainly waiting.
 
-## AI Tafsir
-
-**What this ayah teaches:** That will be the supreme success (57)Certainly, We have made this easy in your tongue, in order that they may remember (58)Wait then; verily, they (too) are waiting .
-
-**Classical tafsir:** Ibn Kathir notes: The State of Those Who have Taqwa and the Delights.They will enjoy in Paradise When Allah describes the state of the doomed, He follows that with a description of the life of the blessed.
-
-**From the Sunnah:** It was reported in the Two Sahihs that the Messenger of Allah ﷺ said: Paradise and Hell, then it will be slaughtered.
 ## Personal Reflections
-
 

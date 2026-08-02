@@ -164,13 +164,5 @@ Thereafter, Allah the Exalted and Most Honored sent down this Ayah about that in
 
 And there are other victories not yet within your reach that Allah has already encompassed. Allah is capable of everything.
 
-## AI Tafsir
-
-**What this ayah teaches:** They would not have found any helper or supporter, because they were fighting Allah, His Messenger ﷺ and His Faithful Party.
-
-**Classical tafsir:** Ibn Kathir notes: Al-'Awfi reported that Ibn 'Abbas said that it refers to the conquest of Khaybar. Qatadah said that this part of the Ayah refers to the conquest of Makkah, and this opinion was preferred by Ibn Jarir.
-
-**From the Sunnah:** Good News of continuous Muslim Victories until the Day of Resurrection (Sahih Muslim) that Ibn 'Abbas commented on the Ayah, (Sunan Abi Dawud)
 ## Personal Reflections
-
 

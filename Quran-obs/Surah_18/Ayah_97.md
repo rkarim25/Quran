@@ -270,13 +270,5 @@ In short, there is no clear and definite proof in the Qur’ an and Sunnah that 
 
 And so the enemies could neither scale nor tunnel through it.
 
-## AI Tafsir
-
-**What this ayah teaches:** And the major confusion has showed up in the case of the last two Walls because the name of both the places is Darband and there is a Wall also present at both. Historians who have called the Wall and Darband of Bukhara and Tirmidh as being the Wall of Dhul-Qarnain have, most likely, been confused because of the common factor of the word, Darband.
-
-**Classical tafsir:** Ibn Kathir notes: And as for the statement of the Qur'an, that is, no hole can be made in this Wall, it refers to the time when Dhul-Qarnain had made it.
-
-**From the Sunnah:** The Prophet ﷺ woke from sleep, and he was red in the face (Musnad Ahmad) According to a Hadith narrated from 'Atiyah from Ibn 'Abbas and Abu Sa'id, and attributed to the Prophet ﷺ,
 ## Personal Reflections
-
 

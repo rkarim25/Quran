@@ -198,13 +198,5 @@ Tawakkul (Trust in Allah) does not mean to forsake the causes and means Allah ha
 
 and provide from sources they could never imagine. Whoever puts their trust in Allah, He alone is sufficient. Allah achieves His Will. He has already set a destiny for everything.
 
-## AI Tafsir
-
-**What this ayah teaches:** And He will provide him from where he never could imagine.) meaning, whoever has Taqwa of Allah in what He has commanded and avoids what He has forbidden, then Allah will make a way out for him from every difficulty and will provide for him from resources he never anticipated or thought about.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** that 'Imran bin Husayn was asked about a man who divorced his wife and then had sexual intercourse with her, without notifying witnesses of when he divorced her and when he took her back. (Sunan Abi Dawud, Sunan Ibn Majah) he rode the Prophet's camel while sitting behind the Prophet , and the Messenger of Allah ﷺ said to him, (Musnad Ahmad)
 ## Personal Reflections
-
 

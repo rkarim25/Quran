@@ -98,13 +98,5 @@ Sayyidna Abu Ad-Darda' ؓ while interpreting this verse has said that the people
 
 Alif-Lam-Mim — opening a surah about defeat, hope, and signs in creation.
 
-## AI Tafsir
-
-**Context:** These Ayat were revealed about the victory of Sabur, the king of Persia, over Ash-Sham (Greater Syria), the adjoining partisan states of the Arabian Peninsula, and the outlying regions of the land of the Romans.
-
-**What this ayah teaches:** The Muslims wanted the Romans to prevail over them (the Persians), because they were both people who followed a Book. He helps whom He wills, and He is the All-Mighty, the ar-Rahim.) The Quraysh, on the other hand, wanted the Persians to prevail, because neither of them were people who followed a Book and neither of them believed in the Resurrection.
-
-**Classical tafsir:** Ibn Kathir notes: How Caesar defeated Chosroes (Kisra) It was previously reported that 'Ikrimah said: "Chosroes sent his deputy and his army against Caesar, and they fought." It is well-known that Chosroes himself fought in the army that invaded his land, and he de…
 ## Personal Reflections
-
 

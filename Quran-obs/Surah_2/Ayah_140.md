@@ -220,15 +220,5 @@ Nor should we forget another serious aspect of the problem. There is another all
 
 Or do you claim that Abraham, Ishmael, Isaac, Jacob, and the tribes were Jews or Christians?" Say, "Who knows better — you or Allah?" Who does greater wrong than those who hide testimony they received from Allah? Allah is not unaware of what you do.
 
-## AI Tafsir
-
-**Essence** When the People of the Book claimed the great prophets for their own creed, Allah silences the boast with one question: do you know better, or does Allah?
-
-**What it teaches** The verse rebukes the claim that Ibrahim, Isma'il, Ishaq, Ya'qub and Al-Asbat (his descendants) were Jews or Christians: the religion of all these prophets was Islam in its general sense, before the earlier Shari'ahs were abrogated and the name "Islam" given to the religion of Muhammad ﷺ. To conceal a testimony (shahadah) one holds from Allah is the gravest injustice (zulm); and the closing warning — Allah is never ghafil (heedless) of what you do — affirms that His knowledge encompasses every deed and repays it.
-
-**The scholars** Ibn Kathir reads "Do you know better or does Allah?" as decisive: Allah Himself declared these prophets neither Jews nor Christians, as in "Ibrahim was neither a Jew nor a Christian, but a true Muslim Hanif" (3:67). Al-Hasan Al-Basri sharpens the charge — the People of the Book read in their own scripture that the true religion is Islam and Muhammad ﷺ the Messenger, testified to it, then hid it. Maarif ul Quran adds that Allah, Lord of all, grants no group exclusive favour; He judges each by his own belief and conduct, not by ancestral glory.
-
-**Reflection** Do not lean on inherited labels or noble ancestry — before Allah you stand on your own faith and deeds, and on the courage never to hide a truth you know.
 ## Personal Reflections
-
 

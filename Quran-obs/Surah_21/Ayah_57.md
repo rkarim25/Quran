@@ -115,13 +115,5 @@ Commentary
 
 Then he said to himself, “By Allah! I will surely plot against your idols after you have turned your backs and gone away.”
 
-## AI Tafsir
-
-**What this ayah teaches:** How Ibrahim broke the Idols Then Ibrahim swore an oath, which some of his people heard, to plot against their idols, i.e., to break them and destroy them after they had gone away and turned their backs, when they went out to their festival.
-
-**Classical tafsir:** Ibn Kathir notes: This was Ibrahim's ultimate purpose, so that he could tell this great gathering about the extent of their ignorance and how foolish they were to worship idols which could not defend themselves from harm or help themselves, so how could they ask them for help?
-
-**From the Sunnah:** In the Two Sahihs it was recorded from Abu Hurayrah that the Messenger of Allah ﷺ said:
 ## Personal Reflections
-
 

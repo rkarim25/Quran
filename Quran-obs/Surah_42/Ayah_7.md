@@ -210,13 +210,5 @@ Imam Ahmad recorded that Abu Nadrah said, "One of the Companions of the Prophet 
 
 We have revealed to you a Quran in Arabic, so you may warn the Mother of Cities and everyone around it, and warn of the Day of Gathering—about which there is no doubt—when a group will be in Paradise and another in the Blaze.
 
-## AI Tafsir
-
-**Context:** And thus We have revealed to you a Qur'an in Arabic that you may warn the Mother of the Towns and all around it, and warn (them) of the Day of Assembling of which there is no doubt, a party will be in Paradise and a part…
-
-**What this ayah teaches:** Makkah is called Umm Al-Qura (the Mother of the Towns) because it is nobler than all other lands, as indicated by much evidence that has been discussed elsewhere.
-
-**Classical tafsir:** Ibn Kathir notes: This title has been given to this city because, to Allah Almighty, it is more distinguished and more excellent than all other cities, habitations and the whole earth.
 ## Personal Reflections
-
 

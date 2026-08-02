@@ -140,11 +140,5 @@ When he came into this world, his condition was that وَاللَّـهُ أَخ
 
 Allah created you weak, then gave strength after weakness, then weakness and old age after strength. He creates what He wills. He is All-Knowing, Most Capable.
 
-## AI Tafsir
-
-**What this ayah teaches:** It is in his own interest that he should keep in mind the impending weakness while he is still strong, and does not forget how he achieved strength gradually from the state of weakness.
-
-**Classical tafsir:** Ibn Kathir notes: The first lesson was to teach you crying, so that you could attract the attention of your parents towards you, and they should look for your needs of thirst and hunger.
 ## Personal Reflections
-
 

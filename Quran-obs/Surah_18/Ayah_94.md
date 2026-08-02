@@ -288,13 +288,5 @@ In short, there is no clear and definite proof in the Qur’ an and Sunnah that 
 
 They pleaded, “O Ⱬul-Qarnain! Surely Gog and Magog are spreading corruption throughout the land. Should we pay you tribute, provided that you build a wall between us and them?”
 
-## AI Tafsir
-
-**What this ayah teaches:** 297) The Wall of Dhul-Qarnain: Is it still there?
-
-**Classical tafsir:** Ibn Kathir notes: And as for the statement of the Qur'an, that is, no hole can be made in this Wall, it refers to the time when Dhul-Qarnain had made it.
-
-**From the Sunnah:** It has been reported in the Sahih of Muslim and in all books of Ahadith recognized for their authenticity. (Sahih Muslim) And Allah is, in my absence, the guardian and protector of all Muslims. (Sahih Muslim)
 ## Personal Reflections
-
 

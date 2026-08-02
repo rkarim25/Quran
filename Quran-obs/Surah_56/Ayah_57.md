@@ -114,11 +114,5 @@ After referring to the birth of man from very insignificant beginning, the Surah
 
 It is We who created you. Will you not then believe in resurrection?
 
-## AI Tafsir
-
-**What this ayah teaches:** With verse 57 begins a series of arguments in support of Allah's Oneness and His power to raise the dead.
-
-**Classical tafsir:** Ibn Kathir notes: With verse 57 begins a series of arguments in support of Allah's Oneness and His power to raise the dead.
 ## Personal Reflections
-
 

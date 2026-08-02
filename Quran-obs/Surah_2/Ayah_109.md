@@ -256,22 +256,5 @@ This command to show forbearance towards the Jews was proper to the situations o
 
 Many among the People of the Book wish they could turn you back to rejection after the truth has become clear to them — out of envy. Pardon and bear with them until Allah delivers His decision. Allah is capable of everything.
 
-## AI Tafsir
-
-**Essence**
-Many People of the Book, knowing the truth, wish out of sheer envy to drag believers back into disbelief — so pardon and bear with them until Allah issues His command, for He is able over all things.
-
-**What it teaches**
-Their hostility is *ḥasad* — envy welling up "from their own selves," provoked by nothing the Muslims did, surviving even after the truth stood plain. Allah prescribes not retaliation but *ʿafw* and *ṣafḥ* — to pardon and turn away — until His decree arrives, sealed with His name *Qadīr*, able over everything.
-
-**The scholars**
-Ibn Kathir warns against those who envy the believers while inwardly knowing the Prophet's ﷺ truth. Abu Al-ʿAliyah — with Qatadah and Ar-Rabiʿ bin Anas — strikes hardest: they found Muhammad ﷺ named in their own Torah and Injil, then denied him "because he was not one of them." On a separate chain, Ibn ʿAbbas (via ʿAli bin Abi Talhah) read the pardon as abrogated by the Ayah of the sword — Abu Al-ʿAliyah, Ar-Rabiʿ, Qatadah and As-Suddi concurring — though others hold its forbearance stands.
-
-**From the Sunnah**
-The Messenger ﷺ and his Companions forgave the disbelievers and People of the Book, as commanded, bearing their harm until Allah permitted fighting — then destroyed the strong men of Quraysh marked for death by the Prophet's forces. (Ibn Abi Hatim, from Usamah bin Zayd; Ibn Kathir: chain Sahih, but its wording is not in the six collections, its basis being in the Two Sahihs.)
-
-**Reflection**
-The believers who first heard this were few, their enemy strong — so the verse answers their fear by closing on *Qadīr*: power over everything, ordinary or extraordinary. Pardon here is not weakness but trust handed to the One whose command, and whose timing, settle every account.
 ## Personal Reflections
-
 

@@ -617,22 +617,5 @@ Towards the end of the verse, by saying تِلْكَ حُدُودُ اللَّـ
 
 It is permitted for you to be intimate with your wives on the nights of fasting. They are a garment for you and you for them. Allah knew you were deceiving yourselves, so He accepted your repentance and pardoned you. Now be intimate with them and seek what Allah ordained for you. Eat and drink until the white thread of dawn is distinct from the black thread of night, then complete the fast until nightfall. Do not be intimate with them while you are in retreat in the mosques. These are Allah's limits — do not cross them. Thus Allah makes His signs clear, so you may live with taqwa.
 
-## AI Tafsir
-
-**Essence**
-Allah lifts an early hardship of the fast — knowing His servants had been deceiving themselves, He accepts their repentance and pardons them, restoring the night for food, drink, and intimacy with their spouses — then draws clear limits so the fast trains them in taqwa.
-
-**What it teaches**
-In Islam's early years the fast forbade eating, drinking, and marital relations after the 'Isha prayer or after sleep, whichever came first; some Companions found this too hard, and a few "deceived themselves" by transgressing it. This ayah abrogates that ruling and opens the whole night until the white thread of dawn becomes distinct from the black thread — true daybreak. It then sets sunset as the fast's end, and forbids marital relations during I'tikaf (mosque retreat).
-
-**The scholars**
-Ibn Kathir records that Ibn 'Abbas, 'Ata', Mujahid, Qatadah and a long line of the Salaf read "rafath" as marital intercourse, and that "they are a garment for you" means husband and wife are a mutual resort and cover for one another (Ar-Rabi' bin Anas: "They are your cover and you are their cover"); "seek what Allah has ordained" he glosses as the pursuit of offspring. He explains the white-and-black thread as the light of dawn made distinct from night's darkness — clinched by "of the dawn" — and notes that since eating until dawn is allowed, Suhur is an encouraged concession (rukhsah), best delayed near to Fajr. On "do not be intimate with them while in I'tikaf," he reports the agreed practice of the scholars (Ibn 'Abbas, Ad-Dahhak, Mujahid, Qatadah): one in retreat must not touch his wife, in or out of the mosque, until his I'tikaf ends. On "these are the limits of Allah," 'Abdur-Rahman bin Zayd counts the four limits legislated here for fasting, and Allah clarifies His signs "that they may attain Taqwa" — learning true guidance and how to worship Him. Maarif ul Quran (drawing on Imam al-Jassas) stresses that the real cut-off is certainty of dawn: one must neither stop out of baseless doubt before it nor eat a moment after it; and since nearing a limit risks crossing it, caution at the edges — trimming a little before Suhur ends — is wisdom.
-
-**From the Sunnah**
-Take the pre-dawn meal of Suhur, for it carries blessing (The Two Sahihs). Bilal's call comes in the night, so eat and drink until you hear Ibn Umm Maktum's adhan, for he calls only at the break of dawn (The Two Sahihs, wording from Al-Bukhari).
-
-**Reflection**
-Spouses are each other's garment, and Allah meets His servants' weakness with pardon before He sets His limits — so receive His concessions with the same love you give His commands: eat the blessed Suhur, break the fast on time, yet never crowd the edges of what He drew. The one who keeps clear of the line never crosses it.
 ## Personal Reflections
-
 

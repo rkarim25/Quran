@@ -177,11 +177,5 @@ This means that he will call to the worship of his Lord in his cradle and while 
 
 He replied: "So it will be. Your Rabb says: It is easy for Me. We will make him a sign for humanity and a mercy from Us. It is already decreed."
 
-## AI Tafsir
-
-**What this ayah teaches:** And (We wish) to appoint him as a sign to mankind and a mercy from Us (Allah), and it is a matter (already) decreed (by Allah).' (21).
-
-**Classical tafsir:** Ibn Kathir notes: And he will speak to the people, in the cradle and in manhood, and he will be one of the righteous.)[3:45-46] This means that he will call to the worship of his Lord in his cradle and while and adult.
 ## Personal Reflections
-
 

@@ -128,11 +128,5 @@ In this affair the considered opinion of Sayyidna Musa (علیہ السلام) �
 
 Moses then asked, “What did you think you were doing, O Sâmiri?”
 
-## AI Tafsir
-
-**What this ayah teaches:** He then turned to Samiri and asked him to explain his conduct in this whole affair.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

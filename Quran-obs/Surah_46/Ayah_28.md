@@ -125,11 +125,5 @@ These verses are to remind the infidels of the severe punishments faced by earli
 
 So why did the gods they invented—hoping those idols would bring them nearer to Allah—not help them? Instead, those gods vanished from them. That was their lie and their fabrication.
 
-## AI Tafsir
-
-**What this ayah teaches:** Moreover, verse 28 points out that the false gods believed by them to be their patrons could not save them from the torment they faced, because they were coined only by their false imagination, having no real existence at all. This means, you listeners must beware of being like them lest a punishment similar to theirs strikes you in this life and the Hereafter.
-
-**Classical tafsir:** Ibn Kathir notes: This means, you listeners must beware of being like them lest a punishment similar to theirs strikes you in this life and the Hereafter.
 ## Personal Reflections
-
 

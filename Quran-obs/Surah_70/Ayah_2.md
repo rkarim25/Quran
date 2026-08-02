@@ -172,13 +172,5 @@ The word ma’ arij is the plural of mi` raj or mi'raj. It means a 'ladder or a 
 
 for the those who reject the truth—none can avert it—
 
-## AI Tafsir
-
-**What this ayah teaches:** The those who reject the truth see this as something that is farfetched.
-
-**Classical tafsir:** Ibn Kathir notes: A questioner asked concerning a torment about to befall)(2.
-
-**From the Sunnah:** Then the man said, 'O Abu Hurayrah what is this?' Abu Hurayrah replied, 'I heard the Messenger of Allah ﷺ say, In this narration (of Ahmad) the Prophet ﷺ also added,
 ## Personal Reflections
-
 

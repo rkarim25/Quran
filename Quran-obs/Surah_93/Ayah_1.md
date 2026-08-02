@@ -218,15 +218,5 @@ Sayyidna Jundub ؓ عنہ narrated this incident and said that revelation of the
 
 By the morning brightness—
 
-## AI Tafsir
-
-**Context:** Al-'Awfi reported from Ibn 'Abbas, "When the Qur'an was revealed to the Messenger of Allah ﷺ, Jibril was delayed from coming to him for a number of days (on one occasion).
-
-**What this ayah teaches:** Another narration states that when the pagans or the Jews asked the Holy Prophet ﷺ about the soul, he promised them that he would give them a reply the next day. And verily, your Lord will give you so that you shall be well-pleased.)(6.
-
-**Classical tafsir:** Ibn Kathir notes: Another narration states that when the pagans or the Jews asked the Holy Prophet ﷺ about the soul, he promised them that he would give them a reply the next day.
-
-**From the Sunnah:** this Hadith. (Sahih al-Bukhari, Sahih Muslim) Therefore, the Messenger of Allah ﷺ was affected by this.
 ## Personal Reflections
-
 

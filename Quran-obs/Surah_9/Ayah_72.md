@@ -180,13 +180,5 @@ Moreover, since this friendship and concern for each other is for Allah alone, i
 
 Allah has promised those who have iman, both men and women, Gardens under which rivers flow, to stay there forever, and splendid homes in the Gardens of Eternity, and—above all—the pleasure of Allah. That is the ultimate triumph.
 
-## AI Tafsir
-
-**What this ayah teaches:** Allah has promised the believers – men and women, – Gardens under which rivers flow to dwell therein forever, and beautiful mansions in gardens of 'Adn (Eden; Paradise).
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** Paradise by Allah, no matter whether he emigrates in Allah's cause, or remains in the land where he is born. Paradise, it will be for only one man, and I hope I am that man.
 ## Personal Reflections
-
 

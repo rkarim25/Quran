@@ -156,11 +156,5 @@ If we analyse the verse of the Qur'an carefully, we notice that it does not spec
 
 issued from between the backbone and the ribcage.
 
-## AI Tafsir
-
-**What this ayah teaches:** So, let man see from what he is created!)(6.
-
-**Classical tafsir:** Ibn Kathir notes: He is created from a water gushing forth,)(7.
 ## Personal Reflections
-
 

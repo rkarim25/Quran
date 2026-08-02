@@ -193,13 +193,5 @@ Finally, it was said: یضَاهِئُونَ قَوْلَ الَّذِينَ ك�
 
 The Jews say, “Ezra is the son of Allah,” while the Christians say, “The Messiah is the son of Allah.” Such are their baseless assertions, only parroting the words of earlier those who reject the truth. May Allah condemn them! How can they be deluded ?
 
-## AI Tafsir
-
-**What this ayah teaches:** And the Jews say: "Uzayr (Ezra) is the son of Allah," and the Christians say: "The Messiah is the son of Allah." That is their saying with their mouths, resembling the saying of those who disbelieved aforetime.
-
-**Classical tafsir:** Ibn Kathir notes: And the Jews say: "Uzayr (Ezra) is the son of Allah," and the Christians say: "The Messiah is the son of Allah." That is their saying with their mouths, resembling the saying of those who disbelieved aforetime.
-
-**From the Sunnah:** a Hadith via several chains of narration, from 'Adi bin Hatim, may Allah be pleased with him, who became Christian during the time of Jahiliyyah. (Sahih Muslim, Musnad Ahmad) This is how they worshipped them.) The Messenger of Allah ﷺ said to 'Adi,
 ## Personal Reflections
-
 

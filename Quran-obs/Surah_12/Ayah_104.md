@@ -117,11 +117,5 @@ After that it was said: وَمَا تَسْأَلُهُمْ عَلَيْهِ م�
 
 even though you are not asking them for a reward for this Quran. It is only a reminder to the whole world.
 
-## AI Tafsir
-
-**What this ayah teaches:** You were not (present) with them when they arranged their plan together, and (while) they were plotting (102)And most of mankind will not believe even if you desire it eagerly (103)And no reward you ask of them for it; it (the Qur'an) is no less than a Reminder unto the 'Alamin (men and Jinn).
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

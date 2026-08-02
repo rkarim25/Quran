@@ -260,11 +260,5 @@ Commentary
 
 When the sun is wrapped up,
 
-## AI Tafsir
-
-**What this ayah teaches:** The sense of folding the sun is that its function will come to an end, and it will lose its light.
-
-**Classical tafsir:** Ibn Kathir notes: We have neglected nothing in the Book, then unto their Lord they shall be gathered.)(6:38) Ibn 'Abbas said, "Everything will be gathered, even the flies." This statement was recorded by Ibn Abi Hatim.
 ## Personal Reflections
-
 

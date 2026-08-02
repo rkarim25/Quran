@@ -145,11 +145,5 @@ What is apparent here is that real merit does lie in praying in the first row - 
 
 Surely your Rabb — the One who creates, owns, nurtures, and sustains alone will gather them together for judgment. He is truly All-Wise, All-Knowing.
 
-## AI Tafsir
-
-**What this ayah teaches:** Truly, He is Most Wise, (and) Knowing .
-
-**Classical tafsir:** Ibn Kathir notes: They can be accommodated all in one because the all-encompassing knowledge of Allah Ta` ala covers all kinds of people 'who go ahead' or 'remain behind.' In his Tafsir, Al-Qurtubi has said that this verse indicates the merit of performing Salah in the first row, and soon after th…
 ## Personal Reflections
-
 

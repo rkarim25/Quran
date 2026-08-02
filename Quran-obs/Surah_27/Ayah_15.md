@@ -153,13 +153,5 @@ The knowledge given to Sayyidna Dawud and Sulaiman (علیہما السلام) w
 
 Indeed, We granted knowledge to David and Solomon. And they said in acknowledgment, “All praise is for Allah Who has privileged us over many of His faithful servants.”
 
-## AI Tafsir
-
-**What this ayah teaches:** While relating all these graces, knowledge is mentioned first, which is a clear hint that knowledge is superior and paramount among them all.
-
-**Classical tafsir:** Ibn Kathir notes: What is meant here is not wealth, because if that were the case, Sulayman would not have been singled out from among the sons of Dawud, as Dawud had one hundred wives.
-
-**From the Sunnah:** Rather what is meant is the inheritance of kingship and prophethood, for the wealth of the Prophets cannot be inherited, as the Messenger of Allah ﷺ said: Grant me the power and ability that I may be grateful for Your favors which You have bestowed on me and on my parents, and that I may do righteous good deeds that will please You,) meaning: 'inspire me to give thanks for the blessings that You have bestowed up…
 ## Personal Reflections
-
 

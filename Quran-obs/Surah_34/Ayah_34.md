@@ -214,13 +214,5 @@ In this verse, the word: مُترَف (mutraf, translated above as 'those who li
 
 Whenever We sent a warner to a community, its elite would say, "We reject what you have been sent with."
 
-## AI Tafsir
-
-**What this ayah teaches:** He tells him that no Prophet was ever sent to a township but those among its people who lived a life of luxury disbelieved in him, and the weaker people of the town followed him. Then, they transgress therein, and thus the Word (of torment) is justified against it (them).
-
-**Classical tafsir:** Ibn Kathir notes: This means that just as there are differences between them in this world – where one may be poor and in straitened circumstances while another is rich and enjoys a life of plenty – so they will be in the Hereafter.
-
-**From the Sunnah:** Paradise, whilst another will be in the lowest levels of Hell.
 ## Personal Reflections
-
 

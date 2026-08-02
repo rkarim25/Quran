@@ -305,13 +305,5 @@ The well from which the people of Thamud got their water was the one from which 
 
 And to the people of Thamûd We sent their brother Ṣâliḥ. He said, “O my people! Worship Allah—you have no other god except Him. A clear proof has come to you from your Rabb: this is Allah’s she-camel as a sign to you. So leave her to graze on Allah’s land and do not harm her, or else you will be overcome by a painful punishment.
 
-## AI Tafsir
-
-**Context:** (And We did not send any Messenger before you but We revealed to him (saying): "None has the right to be worshipped but I, so worship Me.")[21:25] and,
-
-**What this ayah teaches:** This she-camel of Allah is a sign unto you; so you leave her to graze in Allah's earth, and touch her not with harm, lest a painful torment should seize you (73)And remember when He made you successors (generations) after 'Ad and gave you habitations in the land, you build for yourselves palaces in plains, and carve out homes in the mountains.
-
-**Classical tafsir:** Ibn Kathir notes: 'Abdur-Razzaq narrated that Ma'mar said that Az-Zuhri said that Abu Righal is the father of the tribe of Thaqif.
 ## Personal Reflections
-
 

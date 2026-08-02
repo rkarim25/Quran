@@ -189,13 +189,5 @@ In the last two verses (80, 81), the cultivation of deep friendship with disbeli
 
 Those who reject the truth among the Children of Israel were condemned in the revelations of David and Jesus, son of Mary. That was for their disobedience and violations.
 
-## AI Tafsir
-
-**Context:** Those among the Children of Israel who disbelieved were cursed by the tongue of Dawud and 'Isa, son of Maryam. That was because they disobeyed (Allah and the Messengers) and were ever transgressing (beyond the bounds)(78…
-
-**What this ayah teaches:** Those among the Children of Israel who disbelieved were cursed by the tongue of Dawud and 'Isa, son of Maryam. Allah Cursed the those who reject the truth Among the Children of Israel Allah states that He has cursed the those who reject the truth among the Children of Israel long ago, and revealed this fact to His Prophets Dawud and 'Isa, son of Maryam.
-
-**Classical tafsir:** Ibn Kathir notes: The Sad End of Bani Isra'Il Mentioned in the second verse (78) is the sad end of those from the Bani Isra'il who were involved in this error of excess and deficiency.
 ## Personal Reflections
-
 

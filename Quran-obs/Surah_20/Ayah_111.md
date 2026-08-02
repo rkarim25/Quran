@@ -140,11 +140,5 @@ After Allah mentions the wrongdoers and their threat, He then commends the pious
 
 And all faces will be humbled before the Ever-Living, All-Sustaining. And those burdened with wrongdoing will be in loss.
 
-## AI Tafsir
-
-**What this ayah teaches:** On that day no intercession shall avail, except the one for whom the ar-Rahman has given permission and whose word is acceptable to Him (109)He knows what happens to them, and what will happen to them, but they will never encompass anything of His knowledge (110)And (all) faces shall be humbled before the Ever Living, the Sustainer.
-
-**Classical tafsir:** Ibn Kathir notes: This means that their evils will not be increased and their good deeds will not be decreased.
 ## Personal Reflections
-
 

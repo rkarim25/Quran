@@ -178,11 +178,5 @@ meaning, 'so that We may bring out great abundance, goodness, benefit, and bless
 
 the night as a cover over you,
 
-## AI Tafsir
-
-**What this ayah teaches:** That is to say: [ 1] darkness of night; [ 2] the state of sleep is imposed on all humans and animals simultaneously, so that they sleep at the same time.
-
-**Classical tafsir:** Ibn Kathir notes: And We have made your sleep as a thing for rest.)(10.
 ## Personal Reflections
-
 

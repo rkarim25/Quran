@@ -83,11 +83,5 @@ During his tenure of rule, Sayyidna Yusuf (علیہ السلام) had accomplish
 
 And the reward of the Akhirah is far better for those who are faithful and are living with taqwa — living with Allah-consciousness, as though Allah sees you toward Allah.
 
-## AI Tafsir
-
-**What this ayah teaches:** We bestow of Our mercy on whom We will, and We make not to be lost the reward of the good doers (56)And verily, the reward of the Hereafter is better for those who believed and had Taqwa .
-
-**Classical tafsir:** Ibn Kathir notes: He said: I do this so that the feeling for the hunger of my common people does not disappear from my heart.
 ## Personal Reflections
-
 

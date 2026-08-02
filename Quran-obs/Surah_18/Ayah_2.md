@@ -221,15 +221,5 @@ The word: عوج ('iwaj) in: وَلَمْ يَجْعَل لَّهُ عِوَجً
 
 making it perfectly upright, to warn those who reject the truth of a severe torment from Him; to give good news to the believers—who do good—that they will have a fine reward,.
 
-## AI Tafsir
-
-**Context:** Muhammad bin Ishaq mentioned the reason why this Surah was revealed. He said that an old man from among the people of Egypt who came to them some forty-odd years ago told him, from 'Ikrimah that Ibn 'Abbas said:
-
-**What this ayah teaches:** It clearly guides to a straight path, plain and manifest, giving a warning to the those who reject the truth and good news to the believers. All praise is due to Allah, Who has sent down to His servant the Book, and has not placed therein any crookedness.)(2.
-
-**Classical tafsir:** Ibn Kathir notes: All praise is due to Allah, Who has sent down to His servant the Book, and has not placed therein any crookedness.)(2.
-
-**From the Sunnah:** from Abu Ad-Darda' that the Prophet ﷺ said: (Musnad Ahmad) In his Mustadrak, Al-Hakim recorded from Abu Sa'id that the Prophet ﷺ said: (al-Mustadrak)
 ## Personal Reflections
-
 

@@ -144,11 +144,5 @@ Imam Baghawi reports from Sayyidna ` Abdullah Ibn Masud ؓ that, according to hi
 
 They said: 'Woe to us! We have certainly been transgressors.'
 
-## AI Tafsir
-
-**What this ayah teaches:** Then, when he died, and his children inherited the garden they said, 'Verily, our father was foolish for giving some of this garden's harvest to the poor. If we prevent them from it, then we will have more.' So when they made up their minds to do this they were punished with what was contrary to their plan.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

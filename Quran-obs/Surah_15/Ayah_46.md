@@ -86,13 +86,5 @@ It is about this kind of grudge that Sayyidna ` Ali ؓ said: "I hope that I shal
 
 It will be said to them, “Enter in peace and security.”
 
-## AI Tafsir
-
-**What this ayah teaches:** And that My torment is indeed the most painful torment.) meaning, 'O Muhammad, tell My servants that I am the source of mercy and I am the source of punishment.' Similar Ayat to this have already been quoted above, which indicate that we must always be in a state between hope (for Allah's mercy) and fear (of His punishment).
-
-**Classical tafsir:** Ibn Kathir notes: And that My torment is indeed the most painful torment.) meaning, 'O Muhammad, tell My servants that I am the source of mercy and I am the source of punishment.' Similar Ayat to this have already been quoted above, which indicate that we must always be in a state between hope (fo…
-
-**From the Sunnah:** Paradise will enter Paradise with whatever enmity is left in their hearts from this world.
 ## Personal Reflections
-
 

@@ -102,11 +102,5 @@ The sense of the fourth verse (132) is fairly clear. It says that with Allah the
 
 They will each be assigned ranks according to their deeds. And your Rabb is not unaware of what they do.
 
-## AI Tafsir
-
-**What this ayah teaches:** This is because your Lord would not destroy the (populations of) towns for their wrongdoing while their people were unaware (131)For all there will be degrees according to what they did.
-
-**Classical tafsir:** Ibn Kathir notes: This is because your Lord would not destroy the (populations of) towns for their wrongdoing while their people were unaware (131)For all there will be degrees according to what they did.
 ## Personal Reflections
-
 

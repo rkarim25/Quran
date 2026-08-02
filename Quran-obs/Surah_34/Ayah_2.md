@@ -157,13 +157,5 @@ With the help of and praise for Allah Ta’ ala
 
 He knows whatever sinks into the earth and whatever rises from it, whatever descends from the sky and whatever ascends toward it. He is the Rahim—special mercy for those who turn to Him—and ever-forgiving.
 
-## AI Tafsir
-
-**What this ayah teaches:** He knows that which goes into the earth and that which comes forth from it, and that which descends from the heaven and that which ascends to it. His is all praise in the Hereafter, and He is the All-Wise, the All-Aware.)(2.
-
-**Classical tafsir:** Ibn Kathir notes: Malik narrated that Az-Zuhri said, He is All-Aware of His creation, All-Wise in His commands.
-
-**From the Sunnah:** Malik narrated that Az-Zuhri said, He is All-Aware of His creation, All-Wise in His commands.
 ## Personal Reflections
-
 

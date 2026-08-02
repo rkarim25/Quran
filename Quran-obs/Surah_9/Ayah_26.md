@@ -150,13 +150,5 @@ After that, in conclusion, it was said: وَعَذَّبَ الَّذِينَ ك
 
 Then Allah sent down His reassurance upon His Messenger and those who have iman, and sent down forces you could not see, and punished those who disbelieved. Such was the reward of those who reject the truth.
 
-## AI Tafsir
-
-**What this ayah teaches:** Yet, the Messenger remained on his mule, which is a slow animal, not suitable for fast battle moves or even escape.
-
-**Classical tafsir:** Ibn Kathir notes: This indicates the tremendous trust in Allah and reliance upon Him, as well as, sure knowledge that He will give him victory, complete what He has sent him for and give prominence to his religion above all other religions.
-
-**From the Sunnah:** On the day of Hunayn, the Muslims were proud because of their large number, which did not avail them in the least; they retreated and fled from battle. After the Prophet ﷺ conquered Makkah and things settled, most of its people embraced Islam and he set them free.
 ## Personal Reflections
-
 

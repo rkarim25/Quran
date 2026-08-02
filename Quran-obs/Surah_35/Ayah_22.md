@@ -151,11 +151,5 @@ This verse has itself clarified it that, at this place, making someone hear mean
 
 nor are the dead and the living equal. Allah makes whoever He wills hear, but you cannot make those in the graves hear your call.
 
-## AI Tafsir
-
-**What this ayah teaches:** Whether or not the dead hear the living is a different issue in its own place.
-
-**Classical tafsir:** Ibn Kathir notes: This proves that the negation of making the ( dead hear referred to in this verse means a particular listening that is beneficial, something because of which the listener forsakes the false and takes to the true.
 ## Personal Reflections
-
 

@@ -214,13 +214,5 @@ Then Allah rebukes the idolators who prostrate to idols and rivals instead of Al
 
 Yet they worship besides Allah what can neither benefit nor harm them. And the one who rejects the truth always collaborates against their Rabb.
 
-## AI Tafsir
-
-**Context:** (Then He rose over (Istawa) the Throne. The ar-Rahman! Ask Him, as He is the All-Knower.) meaning, find out about Him from one who knows most about Him, and follow him and take him as your example.
-
-**What this ayah teaches:** The Ignorance of the Idolators Allah tells us how ignorant the idolators are; instead of worshipping Allah, they worship idols which do not possess the power either to harm or benefit. They cannot help them, but they will be brought forward as a troop against those who worshipped them.)(36:74-75) meaning, the gods which they worshipped instead of Allah cannot help them.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

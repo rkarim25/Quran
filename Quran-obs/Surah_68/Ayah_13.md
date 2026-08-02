@@ -134,13 +134,5 @@ The preceding verse prohibited any compromise with the unbelievers in general in
 
 brute—and on top of all that, one of illegitimate birth.
 
-## AI Tafsir
-
-**What this ayah teaches:** _68:10-13) The word zanim refers to 'a person whose legitimate birth from a father is not proved'.
-
-**Classical tafsir:** Ibn Kathir notes: _68:10-13) The word zanim refers to 'a person whose legitimate birth from a father is not proved'.
-
-**From the Sunnah:** Al-Waki' said, "It ('Utul) is every Jawwaz, Ja'zari and arrogant person." Both Al-Bukhari and Muslim recorded this in their Two Sahihs, as well as the rest of the Group, except for Abu Dawud. (Sahih al-Bukhari, Sahih Muslim) Concerning the word Zanim, Al-Bukhari recorded from Ibn 'Abbas that he said concerning the Ayah, (Sahih al-Bukhari)
 ## Personal Reflections
-
 

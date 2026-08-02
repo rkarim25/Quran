@@ -150,13 +150,5 @@ Pagans of Arabia had countless idols that they worshipped. However, there were t
 
 Have you considered al-Lat,
 
-## AI Tafsir
-
-**What this ayah teaches:** Allah mentioned these three here because they were more famous than the others. They built houses for their idols to resemble the Ka'bah built by Prophet Ibrahim, Allah's Khalil.
-
-**Classical tafsir:** Ibn Kathir notes: Allah mentioned these three here because they were more famous than the others.
-
-**From the Sunnah:** a statement from 'A'ishah with this meaning. (Sahih al-Bukhari) When he went back to the Prophet ﷺ and informed him of the story, the Prophet said to him, (Sunan an-Nasa'i)
 ## Personal Reflections
-
 

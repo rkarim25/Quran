@@ -163,11 +163,5 @@ Shaykh Abu al-Mansur has said: The purpose behind the whole Surah Yusuf and the 
 
 Until they know that you are a messenger from Allah, they will not cease doubting — though their knowledge of the Scripture should suffice as witness between you and them.
 
-## AI Tafsir
-
-**What this ayah teaches:** Indeed in their stories, there is a lesson for men of understanding.
-
-**Classical tafsir:** Ibn Kathir notes: The Qur'an tells us about the Lord, the Exalted and Most Honored, and about His Names and Attributes and teaches us that Allah is glorified from being similar in any way to the creation.
 ## Personal Reflections
-
 

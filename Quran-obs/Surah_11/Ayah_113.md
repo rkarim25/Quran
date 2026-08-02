@@ -113,11 +113,5 @@ According to Tafsir al-Qurtubi, this verse tells us that it is obligatory (wajib
 
 And do not be inclined to the wrongdoers or you will be touched by the Fire. For then you would have no protectors other than Allah, nor would you be helped.
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, He is All-Seer of what you do (112)And incline not toward those who do wrong, lest the Fire should touch you, and you have no protectors other than Allah, nor would you then be helped .
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, the sense of the verse is: ` Whoever indulges in injustice and oppression ruins his or her life, worldly and spiritual both - this is a fact everyone knows.
 ## Personal Reflections
-
 

@@ -224,11 +224,5 @@ At the conclusion of the verse, the given situation has been identified as a dev
 
 Do not be like the woman who foolishly unravels her yarn after it is firmly spun, by taking your oaths as a means of deceiving one another in favour of a stronger group. Surely Allah tests you through this. And on the Day of Judgment He will certainly make your differences clear to you.
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, Allah knows what you do (91)And do not be like the one who undoes the thread which she has spun, after it has become strong, by taking your oaths as a means of deception among yourselves when one group is more numerous than another group.
-
-**Classical tafsir:** Ibn Kathir notes: And fulfill the covenants (taken in the Name of) Allah when you have taken them, and do not break the oaths after you have confirmed them - and indeed you have appointed Allah as your guarantor.
 ## Personal Reflections
-
 

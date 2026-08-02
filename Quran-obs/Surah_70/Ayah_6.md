@@ -152,13 +152,5 @@ Allah says,
 
 They see this Day as impossible,
 
-## AI Tafsir
-
-**What this ayah teaches:** It could also be referring to the name of the souls (Arwah) of the Children of Adam (humans). The word "Ba'id" here means that which is impossible to occur.
-
-**Classical tafsir:** Ibn Kathir notes: It could also be referring to the name of the souls (Arwah) of the Children of Adam (humans).
-
-**From the Sunnah:** Then the man said, 'O Abu Hurayrah what is this?' Abu Hurayrah replied, 'I heard the Messenger of Allah ﷺ say, In this narration (of Ahmad) the Prophet ﷺ also added,
 ## Personal Reflections
-
 

@@ -335,13 +335,5 @@ I have said earlier that none of our articles of faith or problems of religious 
 
 “And as for the wall, it belonged to two orphan boys in the city, and under the wall was a treasure that belonged to them, and their father had been a righteous man. So your Rabb willed that these children should come of age and retrieve their treasure, as a mercy from your Rabb. I did not do it all on my own. This is the explanation of what you could not bear patiently.”
 
-## AI Tafsir
-
-**What this ayah teaches:** 11) According to Tafsir Mazhari, this verse also indicates that people too should show consideration and affection for the children of the learned and the pious - unless, of course, they were to succumb to disbelief and sin. Therefore, because of this common factor, the form used was that of the first person, plural.
-
-**Classical tafsir:** Ibn Kathir notes: 11) According to Tafsir Mazhari, this verse also indicates that people too should show consideration and affection for the children of the learned and the pious - unless, of course, they were to succumb to disbelief and sin.
-
-**From the Sunnah:** the Prophet ﷺ said concerning Al-Khidr: (Musnad Ahmad) And in Sahih Muslim, it appears that Dajjal (Imposter) will reach a point close to Madinah when a man of Madinah will come out to confront him. (Sahih Muslim)
 ## Personal Reflections
-
 

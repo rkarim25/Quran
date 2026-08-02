@@ -138,13 +138,5 @@ The Holy Qur'an is full of admonitory stories of the world. Those who had earned
 
 They know only outward affairs of this dunya while they are heedless of the Akhirah.
 
-## AI Tafsir
-
-**Context:** These Ayat were revealed about the victory of Sabur, the king of Persia, over Ash-Sham (Greater Syria), the adjoining partisan states of the Arabian Peninsula, and the outlying regions of the land of the Romans.
-
-**What this ayah teaches:** Earning of mundane needs by neglecting the Hereafter is no sagacity The Holy Qur'an is full of admonitory stories of the world.
-
-**Classical tafsir:** Ibn Kathir notes: How Caesar defeated Chosroes (Kisra) It was previously reported that 'Ikrimah said: "Chosroes sent his deputy and his army against Caesar, and they fought." It is well-known that Chosroes himself fought in the army that invaded his land, and he defeated Caesar and overwhelmed him until he had nothin… Mujahid said, “That was a place in the Arabian Peninsula which is closer to the land of the Romans t…
 ## Personal Reflections
-
 

@@ -127,13 +127,5 @@ How this Light of Allah reached its perfection during the blessed period of the 
 
 He is the One Who has sent His Messenger with guidance and the deen of truth, making it prevail over all others, even to the dismay of the polytheists.
 
-## AI Tafsir
-
-**What this ayah teaches:** Then, in future too, in terms of its legitimacy and truth for all times to come, the religion of Islam is a perfect religion no sensible person would elect to criticize.
-
-**Classical tafsir:** Ibn Kathir notes: 'religion of truth' refers to the righteous, legal deeds that bring about benefit in this life and the Hereafter.
-
-**From the Sunnah:** They try through argument and lies to extinguish the guidance and religion of truth that the Messenger of Allah ﷺ was sent with. Those who became Muslims among them acquired goodness, honor and might.
 ## Personal Reflections
-
 

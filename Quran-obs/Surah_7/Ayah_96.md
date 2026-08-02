@@ -172,11 +172,5 @@ The verses 97 to 99 have warned the people of the world saying: "So, do the peop
 
 Had the people of those societies been faithful and mindful, We would have overwhelmed them with blessings from heaven and earth. But they disbelieved, so We seized them for what they used to commit.
 
-## AI Tafsir
-
-**What this ayah teaches:** When we take in view the circumstances prevailing in today's world we notice the fact that the net produce of the earth is comparably far more than ever before.
-
-**Classical tafsir:** Ibn Kathir notes: Except the people of Yunus; when they believed, We removed from them the torment of disgrace in the life of the (present) world, and permitted them to enjoy for a while.)[10:98] This Ayah indicates that no city believed in its entirety, except the city of Prophet Yunus, for they…
 ## Personal Reflections
-
 

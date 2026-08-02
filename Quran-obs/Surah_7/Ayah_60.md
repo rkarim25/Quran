@@ -105,13 +105,5 @@ In reply, his people said: إِنَّا لَنَرَ‌اكَ فِي ضَلَا�
 
 But the chiefs of his people said, “We surely see that you are clearly misguided.”
 
-## AI Tafsir
-
-**What this ayah teaches:** The sense of what his people said in response to his call was to tell him that he was actually trying to wean them away from their ancestral faith and that all these ideas of rising on some last day and being rewarded or punished were nothing but superstition. Allah mentioned the story of Nuh, because he was the first Messenger Allah sent to the people of the earth after Adam.
-
-**Classical tafsir:** Ibn Kathir notes: Allah mentioned the story of Nuh, because he was the first Messenger Allah sent to the people of the earth after Adam.
-
-**From the Sunnah:** In his Sahih, Muslim recorded that the Messenger of Allah ﷺ said to his Companions on the Day of 'Arafah, when their gathering was as large as it ever was, (Sahih Muslim)
 ## Personal Reflections
-
 

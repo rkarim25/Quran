@@ -124,11 +124,5 @@ Allah's saying;
 
 withholder of good, aggressor, and doubter,
 
-## AI Tafsir
-
-**What this ayah teaches:** I did not push him to transgression, but he was himself in error far astray.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

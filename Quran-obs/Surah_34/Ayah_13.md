@@ -214,11 +214,5 @@ In the last sentence of verse وَقَلِيلٌ مِّنْ عِبَادِيَ �
 
 They built for him whatever he wished—sanctuaries, statues, basins like reservoirs, and fixed cooking pots. "Work with shukr—gratitude shown in word and deed—O family of Dawud!" Yet few of My servants are truly grateful.
 
-## AI Tafsir
-
-**What this ayah teaches:** However, the correct position in this matter is that, should mihrabs of this nature be made for the convenience of the people praying, and in the best interests of the masjid - without taking it to be the desired Sunnah - then, there is no reason to call it a bid'ah (innovation in established religion).
-
-**Classical tafsir:** Ibn Kathir notes: Al-Hasan Al-Basri said, "He set out from Damascus in the morning, landed in Istakhar where he ate a meal, then flew on from Istakhar and spent the night in Kabil." Between Damascus and Istakhar is an entire month's travel for a swift rider, and between Istakhar and Kabul is an entire month's travel… Ibn Zayd said, "This means dwellings." With regard to "Tamathil," 'Atiyah Al-'Awfi, Ad-Dahhak and As-…
 ## Personal Reflections
-
 

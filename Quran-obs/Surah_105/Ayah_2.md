@@ -202,13 +202,5 @@ Verse [ 105:1] أَلَمْ تَرَ‌ كَيْفَ فَعَلَ رَ‌بُّ�
 
 Did He not turn their plot into failure—exposing that no coalition, no technology of its age, no arrogance, outruns His decree?
 
-## AI Tafsir
-
-**What this ayah teaches:** Have you not seen how your Lord dealt with the Owners of the Elephant?)(2. Therefore, they did not resist him on the understanding that he would not touch the idol of Lat.
-
-**Classical tafsir:** Ibn Kathir notes: Commentary The subject-matter of the Surah This Surah refers to the story of the People of the Elephants who came with an army of elephants for the purpose of destroying the House of Allah in (The Holy Ka'bah) in Makkah.
-
-**From the Sunnah:** However, this was a means of giving a sign and preparing the way for the coming of the Messenger of Allah ﷺ. We have mentioned previously in the Tafsir of Surat Al-Fath that when the Messenger of Allah ﷺ approached the mountain pass that would lead him to the Quraysh on the Day of Al-Hudaybiyyah, his she-camel knelt down.
 ## Personal Reflections
-
 

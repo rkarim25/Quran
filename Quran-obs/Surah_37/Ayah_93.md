@@ -189,13 +189,5 @@ On occasions of good cheer and Iight humor too, tauriyah stands proved from the 
 
 Then he swiftly turned on them, striking them with his right hand.
 
-## AI Tafsir
-
-**What this ayah teaches:** Now, whatever the so-called experts of astrology have with them is merely a collection of inferences, conjectures and whims based on which no certain knowledge can be acquired.
-
-**Classical tafsir:** Ibn Kathir notes: Ibrahim, peace be upon him, said this to his people so that he could stay behind in the city when they went out for their festival.
-
-**From the Sunnah:** Ibn Jarir narrated here a Hadith from Abu Hurayrah, may Allah be pleased with him, stating that the Messenger of Allah ﷺ said: The former is more apparent because of the report recorded by Al-Bukhari in the Book Af'al Al-'Ibad from Hudhayfah, attributed to the Prophet ﷺ: (Sahih al-Bukhari)
 ## Personal Reflections
-
 

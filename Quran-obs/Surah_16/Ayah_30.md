@@ -183,15 +183,5 @@ The essence of the answer given by the polytheists is that they simply refused t
 
 And when it is said to those living with taqwa — living with Allah-consciousness, as though Allah sees you toward Allah, “What has your Rabb revealed?” They say, “All the best!” For those who do good in this dunya — this temporary worldly life, there is goodness. But far better is the eternal Home of the Akhirah. How excellent indeed is the home of the righteous:.
 
-## AI Tafsir
-
-**Context:** (What is it that your Lord has revealed?) they will reluctantly answer, "He did not reveal anything, these are just the fables of old." But the blessed, on the other hand, will say, "That which is good," meaning - He rev…
-
-**What this ayah teaches:** And (when) it is said to those who had Taqwa (piety and righteousness), "What is it that your Lord has revealed?" They say: "That which is good." For those who do good in this world, there is good, and the home of the Hereafter will be better.
-
-**Classical tafsir:** Ibn Kathir notes: In the present verses, the text describes how they, not content with their own straying, tried that others should also go astray like them.
-
-**From the Sunnah:** Still others take one question to have been asked by the polytheists while the other by Muslims.
 ## Personal Reflections
-
 

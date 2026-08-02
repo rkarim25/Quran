@@ -138,13 +138,5 @@ The Holy Prophet ﷺ was instructed to tell people that all the creatures that l
 
 Say, O Prophet, “None in the heavens and the earth has knowledge of the unseen except Allah. Nor do they know when they will be resurrected.
 
-## AI Tafsir
-
-**What this ayah teaches:** The One Who knows the Unseen is Allah Allah commands His Messenger ﷺ to inform all of creation that no one among the dwellers of heaven and earth knows the Unseen, except Allah.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** Other scholars read this with the meaning "their knowledge is all the same with regard to that," which reflects the meaning of the Hadith in Sahih Muslim which states that the Messenger of Allah ﷺ said to Jibril, when the latter asked him when the Hour would c… (Sahih Muslim)
 ## Personal Reflections
-
 

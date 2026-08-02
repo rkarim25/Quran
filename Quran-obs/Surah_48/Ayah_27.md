@@ -246,13 +246,5 @@ This was necessary because the Jews of Khaibar always conspired with the disbeli
 
 Allah will fulfil His Messenger's true vision: you will enter the Sacred Mosque, in sha' Allah, in security—some with heads shaved and some with hair shortened—without fear. He knew what you did not know, and granted you first the triumph already at hand.
 
-## AI Tafsir
-
-**What this ayah teaches:** 'Abdullah bin Rawahah, from Al-Ansar, was holding the bridle of the Prophet's camel and repeating this poem, "In the Name of He, other than Whose religion there is no true religion, In the Name of He, Whom Muhammad is His Messenger, O children of the those who reject the truth, stay out of his way, For today, we shall impose on you the fulfillment of its interpretation, Just as we fought wit…
-
-**Classical tafsir:** Ibn Kathir notes: The Prophet ﷺ did not order them to do Ramal in all the rounds of Tawaf out of pity for them." Al-Bukhari recorded that Ibn 'Abbas said, "In the year when the Prophet ﷺ came as stipulated by the peace treaty, he said, 'Perform Ramal.' So that the idolators may witness their strength.
-
-**From the Sunnah:** In a dream, the Messenger of Allah ﷺ saw himself entering Makkah and performing Tawaf around the House.
 ## Personal Reflections
-
 

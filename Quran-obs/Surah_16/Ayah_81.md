@@ -193,15 +193,5 @@ Finally, a note about the statement: سَرَ‌ابِيلَ تَقِيكُمُ 
 
 And Allah has provided you shade out of what He created, and has given you shelter in the mountains. He has also provided you with clothes protecting you from the heat and cold, and armour shielding you in battle. This is how He perfects His favour upon you, so perhaps you will fully submit to Him.
 
-## AI Tafsir
-
-**Context:** Finally, a note about the statement: سَرَ‌ابِيلَ تَقِيكُمُ الْحَرَّ‌ (shirts which protect you from heat - 81). Here, protection from heat has been identified as the purpose of a shirt - though, a shirt protects one from…
-
-**What this ayah teaches:** Arabia is a hot country where the very thought of snow and winter chill is far-fetched, therefore, the statement was left with the mention of protection from heat as being sufficient.
-
-**Classical tafsir:** Ibn Kathir notes: Arabia is a hot country where the very thought of snow and winter chill is far-fetched, therefore, the statement was left with the mention of protection from heat as being sufficient.
-
-**From the Sunnah:** This is interpreted by the majority to mean submitting to Allah or becoming Muslim. (Sahih Muslim)
 ## Personal Reflections
-
 

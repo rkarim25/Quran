@@ -125,13 +125,5 @@ According to a narration of Sayyidna Jabir ؓ appearing in the Sahihs of al-Bukh
 
 They ask, "When will this threat come true, if you are honest?"
 
-## AI Tafsir
-
-**What this ayah teaches:** The entire earth has been made a Masjid and a means of purification for me, so that when the time for prayer comes, any man of my Ummah should pray.
-
-**Classical tafsir:** Ibn Kathir notes: The entire earth has been made a Masjid and a means of purification for me, so that when the time for prayer comes, any man of my Ummah should pray.
-
-**From the Sunnah:** intercede on behalf of others on the fateful plains of the Resurrection [ al-hashr ], I shall, then, be given the opportunity to intercede). (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
-
 

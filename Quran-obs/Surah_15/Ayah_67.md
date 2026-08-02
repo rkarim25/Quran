@@ -78,11 +78,5 @@ As for the third probability, that the blessings of Jannah may remain everlastin
 
 And there came the men of the city, rejoicing.
 
-## AI Tafsir
-
-**What this ayah teaches:** However, here the conjunction (wa, meaning "and") does not imply the sequence of events, especially since there is something to indicate that this is not the case.
-
-**Classical tafsir:** Ibn Kathir notes: However, here the conjunction (wa, meaning "and") does not imply the sequence of events, especially since there is something to indicate that this is not the case.
 ## Personal Reflections
-
 

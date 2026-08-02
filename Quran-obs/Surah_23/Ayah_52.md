@@ -171,11 +171,5 @@ The Religion of All the Prophets Is Tawhid; And the Warning Against Splitting in
 
 Surely this deen of yours is only one, and I am your Rabb, so fear Me alone.
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, I am Well-Acquainted with what you do (51)And verily, this your religion is one religion, and I am your Lord, so have Taqwa.
-
-**Classical tafsir:** Ibn Kathir notes: The Command to Eat Lawful Food and to Do Righteous Deeds Allah commands His servants and Messengers, peace be upon them all, to eat lawful food and do righteous deeds, which indicates that eating what is lawful helps one to do righteous deeds.
 ## Personal Reflections
-
 

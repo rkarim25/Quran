@@ -294,11 +294,5 @@ Secondly, it is the easiest of all acts of ` Ibadah. The Shari'ah too has placed
 
 Surely Muslim men and women, believing men and women, devout men and women, truthful men and women, patient men and women, humble men and women, charitable men and women, fasting men and women, men and women who guard their chastity, and men and women who remember Allah often — for all of them Allah has prepared forgiveness and a great reward.
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, the Muslims: men and women, the believers: men and women, the Qanit: men and the women, the men and women who are truthful, the men and the women who are patient, the Khashi': men and the women, the men and the women who give Sadaqat, the men and the women who fast, the men and the women who guard their chastity and the men and the women who remember Allah much with their hearts and tongue…
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

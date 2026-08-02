@@ -139,15 +139,5 @@ A similar promise has been made for Muhajirin in the following verse of Surah An
 
 As for those who emigrated in the cause of Allah after being persecuted, We will surely bless them with a good home in this dunya. But the reward of the Akhirah is far better, if only they knew.
 
-## AI Tafsir
-
-**Context:** Allah tells us about the reward of those who migrated for His sake, seeking His pleasure, those who left their homeland behind, brothers and friends, hoping for the reward of Allah.
-
-**What this ayah teaches:** To bless them with the greater reward of the Hereafter which is limitless.
-
-**Classical tafsir:** Ibn Kathir notes: This may have been revealed concerning those who migrated to Ethiopia, those whose persecution at the hands of their own people in Makkah was so extreme that they left them and went to Ethiopia so that they would be able to worship their Lord.
-
-**From the Sunnah:** Among the most prominent of these migrants were 'Uthman bin 'Affan and his wife Ruqayyah, the daughter of the Messenger of Allah ﷺ, Ja'far bin Abi Talib, the cousin of the Messenger ﷺ, and Abu Salamah bin 'Abdul-Asad, among a group of almost eighty sincere and…
 ## Personal Reflections
-
 

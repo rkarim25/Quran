@@ -178,15 +178,5 @@ Mentioned in verse 126: وَإِنْ عَاقَبْتُمْ , (And if you were t
 
 Be patient O Prophet, for your sabr — steadfast endurance that keeps you upright is only with Allah’s help. Do not grieve over those who reject the truth, nor be distressed by their schemes.
 
-## AI Tafsir
-
-**Context:** Ibn Sirin said, "If a man among you takes something from you, then you should take something similar from him." This was also the opinion of Mujahid, Ibrahim, Al-Hasan Al-Basri, and others.
-
-**What this ayah teaches:** But if you have patience with them, then it is better for those who are patient (126)And be patient, and your patience will not be, but by the help of Allah.
-
-**Classical tafsir:** Ibn Kathir notes: No matter how softly and politely one explains things to them and no matter how much goodwill one has for them in his heart, they would, even then, go in a fit of anger, use bad language and cause pain.
-
-**From the Sunnah:** The narration in Sahih al-Bukhari is in accordance with it. (Sahih al-Bukhari) Therefore, Muslim jurists say that in the event a person kills someone, the killed will be avenged by killing the killer. (Sahih Muslim)
 ## Personal Reflections
-
 

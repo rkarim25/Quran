@@ -166,11 +166,5 @@ The last sentence of verse 82: وَلَوْ كَانَ مِنْ عِندِ غَ�
 
 Do they not then reflect on the Quran? Had it been from anyone other than Allah, they would have certainly found in it many inconsistencies.
 
-## AI Tafsir
-
-**Context:** We should mention here the Hadith of 'Umar bin Al-Khattab collected in the Two Sahihs. When 'Umar was informed that the Messenger of Allah ﷺ divorced his wives, he came from his house, entered the Masjid and found the pe…
-
-**What this ayah teaches:** Here, 'a great deal of contradiction' means: Had there been a contradiction in one subject, the contradiction in many subjects would obviously have become a great deal of contradiction (Bayan a1-Qura'n).
 ## Personal Reflections
-
 

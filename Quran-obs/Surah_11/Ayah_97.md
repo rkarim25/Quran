@@ -140,13 +140,5 @@ During the Khilafah of Sayyidna ` Umar ibn ` Abd al-` Aziz (رح) ، someone was
 
 to Pharaoh and his chiefs, but they followed the command of Pharaoh, and Pharaoh’s command was not well guided.
 
-## AI Tafsir
-
-**What this ayah teaches:** And indeed We sent Musa with Our Ayat and a manifest authority (96)To Fir'awn and his chiefs, but they followed the command of Fir'awn, and the command of Fir'awn was no right guide (97)He will go ahead of his people on the Day of Resurrection, and will lead them into the Fire, and evil indeed is the place to which they are led (98)They were pursued by a curse in this (deceiving life of this world…
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** There is a consensus of the entire Muslim Ummah that doing so is strictly Haram (unlawful). (Sahih Muslim)
 ## Personal Reflections
-
 

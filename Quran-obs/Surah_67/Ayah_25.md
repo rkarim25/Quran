@@ -157,11 +157,5 @@ After this, the non-believers are threatened with punishment. Towards the end of
 
 They ask: 'When will this threat come to pass, if what you say is true?'
 
-## AI Tafsir
-
-**What this ayah teaches:** So, when what they denied occurs, it will grieve them because they will know what is awaiting them there (in Hell) of the worst evil. This means that it will surround them and Allah will command what they were not able to reckon or fully comprehend to come to them.
-
-**Classical tafsir:** Ibn Kathir notes: This means that it will surround them and Allah will command what they were not able to reckon or fully comprehend to come to them.
 ## Personal Reflections
-
 

@@ -272,13 +272,5 @@ Included here are all Muhajerin and Ansar present during the blessed age of the 
 
 Those were the ones to whom We gave the Scripture, wisdom, and prophethood. But if these reject the truth in this, then We have already entrusted it to a people who will never reject the truth in it.
 
-## AI Tafsir
-
-**Context:** (And indeed it has been revealed to you, as it was to those (Allah's Messengers) before you: "If you join others in worship with Allah, surely your deeds will be in vain.")[39:65]
-
-**What this ayah teaches:** But if they disbelieve therein, then, indeed We have entrusted it to a people who are not those who reject the truth therein (89)They are those whom Allah had guided. In other words, it means: If some of your addressees do not listen to you and are, despite having been told about the teachings of all past prophets, bent upon nothing short of denial, then, you do not have to worry - because We have appointed a g…
-
-**Classical tafsir:** Ibn Kathir notes: Certainly, one becomes jubilant and joyous when he becomes a grandfather, because this means that his offspring will continue to exist.
 ## Personal Reflections
-
 

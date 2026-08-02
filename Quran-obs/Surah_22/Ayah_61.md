@@ -130,13 +130,5 @@ In all these verses it is encouraged not to retaliate for revenge and rather for
 
 That is because Allah causes the night to merge into the day, and the day into the night. Indeed, Allah is All-Hearing, All-Seeing.
 
-## AI Tafsir
-
-**What this ayah teaches:** And verily, Allah is All-Hearer, All-Seer (61)That is because Allah – He is the Truth, and what they invoke besides Him, it is false.
-
-**Classical tafsir:** Ibn Kathir notes: That is because Allah merges the night into the day, and He merges the day into the night.
-
-**From the Sunnah:** On the other hand there are several verses which promise Allah's goodwill to those Muslims who bear their sufferings with patience and equanimity and do not seek vengeance from their oppressors.
 ## Personal Reflections
-
 

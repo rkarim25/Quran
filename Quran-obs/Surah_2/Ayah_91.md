@@ -236,15 +236,5 @@ The next verses proceed to refute the Jews on several other counts.
 
 When told, "Believe in what Allah has sent down," they say, "We believe only in what was sent to us," and they reject what came after — though it confirms their own Scripture. Say, "Then why did you kill Allah's prophets before, if you were believers?"
 
-## AI Tafsir
-
-**Essence** Selective faith is no faith: those who accept revelation only when it descends upon themselves stand exposed.
-
-**What it teaches** Told to believe in what Allah revealed, the Jews of the Prophet's ﷺ time said, "We believe in what was sent down to us," rejecting what came after — though it is al-haqq, confirming their own Scripture. Then why, if believers, were Allah's prophets killed before — by forebears whose deed they ratified?
-
-**The scholars** Ibn Kathir: the Qur'an's conformity to their Book is itself proof against them — they recognized him "as they recognize their sons" (2:146). Maarif ul-Quran: a plea betraying envy and malice, refuted threefold — denial ignores irrefutable proofs; rejecting what confirms the Torah rejects the Torah; slaying prophets who taught its law, then taking the killers as chiefs, falsifies the claim.
-
-**Reflection** Ask not whether truth came through your own people, but whether you will follow it when it comes.
 ## Personal Reflections
-
 

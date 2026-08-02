@@ -158,11 +158,5 @@ It has been mentioned earlier that the Holy Prophet ﷺ had prayed to Allah to p
 
 But as soon as We open for them a gate of severe punishment, they will be utterly desperate.
 
-## AI Tafsir
-
-**What this ayah teaches:** And indeed We seized them with punishment, but they humbled not themselves to their Lord, nor did they invoke with submission to Him (76)Until, when We open for them the gate of severe punishment, then lo!
-
-**Classical tafsir:** Ibn Kathir notes: This is only the tales of the ancients!") This means, "It is impossible that we could be brought back.
 ## Personal Reflections
-
 

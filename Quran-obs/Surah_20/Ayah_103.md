@@ -105,11 +105,5 @@ This means that you only remained in it (the earth) a little while. If you only 
 
 They will whisper among themselves, “You stayed no more than ten days on the earth.”
 
-## AI Tafsir
-
-**What this ayah teaches:** For the worldly life, with its repetitious time periods and successive nights, days and hours, is as if it is just one day.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

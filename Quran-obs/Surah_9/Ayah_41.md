@@ -153,15 +153,5 @@ In the fourth verse (41), the command given earlier has been repeated for emphas
 
 March forth whether it is easy or difficult for you, and strive with your wealth and your lives in the cause of Allah. That is best for you, if only you knew.
 
-## AI Tafsir
-
-**Context:** (March forth, whether you are light or heavy) was the first part to be revealed from Surah Bara'ah." Mu'tamir bin Sulayman narrated that his father said, "Hadrami claimed that he was told that some people used to declare…
-
-**What this ayah teaches:** This is better for you, if you but knew.) Allah says, this is better for you in this life and the Hereafter.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** Allah commanded mass mobilization together with the Messenger of Allah ﷺ for the battle of Tabuk, to fight the disbelieving, People of the Book, the Romans, Allah's enemies. Abu Talhah commented (on this Ayah), "Whether you are old or young, Allah did not leave an excuse for anyone." Abu Talhah marched to Ash-Sham and fought until he was killed.
 ## Personal Reflections
-
 

@@ -280,17 +280,5 @@ Towards the end of the verse it was said أَنَّ اللَّـهَ عَزِي�
 
 And when Abraham said, "My Rabb, show me how You give life to the dead," He said, "Do you not believe?" He said, "Yes — but so my heart may be at rest." He said, "Take four birds, train them to return to you, then cut them and place a portion on each hilltop. Call them — they will come to you in haste. Know that Allah is Almighty, All-Wise."
 
-## AI Tafsir
-
-**Essence** Ibrahim, already certain of resurrection, asks Allah not for proof but for the stillness of seeing it — and Allah revives four slaughtered birds to settle his heart and, with it, to resolve the doubts disbelievers nurse about life after death.
-
-**What it teaches** Ibrahim (peace be upon him) prays "Show me how You give life to the dead," and when asked "Do you not believe?" answers "Yes, but so my heart may be at rest (li-yatma'inna qalbi)." Maarif ul Quran draws the precise line: iman is voluntary belief in the unseen on the word of Allah's Messenger, which Ibrahim already possessed in full; itmi'nan is peace of heart that comes only through visual experience. He believed perfectly; he sought only the stillness of having seen.
-
-**The scholars** Ibn Kathir explains that fasurhunna means "cut them to pieces" — the reading of Ibn 'Abbas, 'Ikrimah, Sa'id bin Jubayr, Abu Malik, Abu Al-Aswad Ad-Dili, Wahb bin Munabbih, Al-Hasan and As-Suddi: Ibrahim slaughtered four birds, mixed flesh, feathers and blood, set portions on the hills, and kept the heads in his hand; at his call each bird flew back together and came to claim its own head, refusing any other, by Allah's leave. Maarif notes the Qur'an says they came "running" (sa'yan), not flying, so they stayed in full sight and no doubt of substitution could remain. Maarif also grades this peace: there is the itmi'nan of the awliya and the truthful (siddiqin), a higher grade given to prophets in general, and the highest — visual experience — granted to the chosen, as the Prophet ﷺ was shown Paradise and Hell. Closing with 'Aziz (All-Mighty, whom none can resist) and Hakim (All-Wise), Ibn Kathir says whatever Allah wills occurs without hindrance; Maarif adds it is His wisdom that such sight is withheld from most, so the higher rank of believing in the unseen is preserved. Ibn 'Abbas said of this verse, "To me, there is no Ayah in the Qur'an that brings more hope than this" — for Allah accepted Ibrahim's faith the moment he simply said "Yes," answering the doubts that attack the heart and the whispers of Shaytan.
-
-**From the Sunnah** The Prophet ﷺ said, "We are more liable to be in doubt (shakk) than Ibrahim" when he asked to see the dead revived — exalting Ibrahim, whose faith never wavered, above ourselves who are the more prone to waver. Ibn Kathir glosses the words: the meaning is "We are more liable to seek certainty." (Al-Bukhari)
-
-**Reflection** Faith can be whole while the heart still trembles before the unseen. That tremor is not unbelief but the ache for sukun — the rest that the All-Mighty grants in His time, to hearts that keep believing even before they are shown.
 ## Personal Reflections
-
 

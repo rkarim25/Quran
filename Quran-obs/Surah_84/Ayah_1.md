@@ -174,13 +174,5 @@ It is possible that Allah will, on that day, endow the sky and the earth with sp
 
 When the sky bursts open,
 
-## AI Tafsir
-
-**What this ayah teaches:** When the heaven is split asunder,)(2.
-
-**Classical tafsir:** Ibn Kathir notes: This means that he will not be investigated for all the minute details of his deeds.
-
-**From the Sunnah:** Then when he completed the prayer, he informed them that the Messenger of Allah ﷺ prostrated during its recitation. (Sahih Muslim, Sunan an-Nasa'i) from Abu Rafi' that he prayed the Night prayer with Abu Hurayrah) recited, (Sahih al-Bukhari)
 ## Personal Reflections
-
 

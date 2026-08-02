@@ -86,11 +86,5 @@ Verse 85: فَأَتْبَعَ سَبَبًا So he followed a way) means that -
 
 So he travelled a course,.
 
-## AI Tafsir
-
-**What this ayah teaches:** Hami'ah is, according to one of the two views, derived from the word Hama'ah, which means mud. So he followed a way (85)Until, when he reached the setting place of the sun, he found it setting in a spring of Hami'ah.
-
-**Classical tafsir:** Ibn Kathir notes: Hami'ah is, according to one of the two views, derived from the word Hama'ah, which means mud.
 ## Personal Reflections
-
 

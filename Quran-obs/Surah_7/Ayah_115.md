@@ -88,11 +88,5 @@ The Arabic word:'' اِلقَا ‘ ء ! 'ilga' means to drop something down. On
 
 They asked, “O Moses! Will you cast, or shall we be the first to cast?”
 
-## AI Tafsir
-
-**What this ayah teaches:** It was said that the wisdom behind asking them to throw first, is that - Allah knows best - the people might witness the magicians' sorcery first.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

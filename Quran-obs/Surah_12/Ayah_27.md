@@ -143,11 +143,5 @@ The explanation of the ` shahid' or witness of Sayyidna Yusuf (علیہ السل
 
 But if it is torn from the back, then she has lied and he is truthful.”
 
-## AI Tafsir
-
-**What this ayah teaches:** So they raced with one another to the door, and she tore his shirt from the back. She caught up with him and held on to his shirt from the back, tearing it so terribly that it fell off Yusuf's back.
-
-**Classical tafsir:** Ibn Kathir notes: Ath-Thawri reported that Jabir said that Ibn Abi Mulaykah said that Ibn 'Abbas said, "He was from the king's entourage." Mujahid, 'Ikrimah, Al-Hasan, Qatadah, As-Suddi, Muhammad bin Ishaq and others also said that the witness was an adult male.
 ## Personal Reflections
-
 

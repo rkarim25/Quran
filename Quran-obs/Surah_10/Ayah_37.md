@@ -212,13 +212,5 @@ In relation to issues of religious beliefs embedded in this verse, it must be bo
 
 It is not possible for this Quran to have been produced by anyone other than Allah. In fact, it is a confirmation of what came before, and an explanation of the Scripture. It is, without a doubt, from the Rabb of all worlds.
 
-## AI Tafsir
-
-**What this ayah teaches:** With this complete and more than sufficient explanation, the Qur'an leaves no doubt that it is from Allah, the Lord of all that exists.
-
-**Classical tafsir:** Ibn Kathir notes: So those who believed among them, believed because of what they knew and felt in the Book, including its beauty, elegance, benefit, and fluency.
-
-**From the Sunnah:** This is an established rule in the sight of the majority of scholars in the Muslim Ummah. (Sahih Muslim)
 ## Personal Reflections
-
 

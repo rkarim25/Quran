@@ -130,11 +130,5 @@ Some reciters read the Ayah as,
 
 A voice reassured her from below: "Do not grieve. Your Rabb has provided a stream at your feet.
 
-## AI Tafsir
-
-**What this ayah teaches:** And if you see any human being, say: 'Verily, I have vowed a fast for the ar-Rahman so I shall not speak to any human being today., .
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

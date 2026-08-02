@@ -127,13 +127,5 @@ To console the Holy Prophet ﷺ ، it was said at the end of the verse that ther
 
 This is one of the stories of the unseen, which we reveal to you O Prophet. Neither you nor your people knew it before this. So be patient! Surely the ultimate outcome belongs only to the righteous.
 
-## AI Tafsir
-
-**What this ayah teaches:** Surely, the (good) end is for those who have Taqwa (49).
-
-**Classical tafsir:** Ibn Kathir notes: This is so that no one who rejects you can say that you learned it from him.
-
-**From the Sunnah:** Allah revealed it to you (the Prophet ﷺ) in the way that it occurred, as if he witnessed it himself.
 ## Personal Reflections
-
 

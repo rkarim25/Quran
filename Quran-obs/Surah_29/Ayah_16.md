@@ -140,13 +140,5 @@ The second story is that of Sayyidna Ibrahim (علیہ السلام) who too pas
 
 Abraham said to his people: Worship Allah and live with taqwa toward Him. That is better for you, if you knew.
 
-## AI Tafsir
-
-**What this ayah teaches:** Therefore, you too should not care about the troubles afflicted by the infidels, and should keep on performing firmly your prophetic obligations. It was so because he was the very first prophet who had to confront with the infidelity and association of others with Allah Ta’ ala.
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, you too should not care about the troubles afflicted by the infidels, and should keep on performing firmly your prophetic obligations.
-
-**From the Sunnah:** It was described in the previous verses that infidels keep on their opposition and afflictions on Muslims as a routine. All these stories were related to keep the spirit of the Holy Prophet ﷺ high, and to make Muslims steadfast to the religion.
 ## Personal Reflections
-
 

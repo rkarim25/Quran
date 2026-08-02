@@ -115,11 +115,5 @@ We now move to the sentence: حَتَّىٰ إِذَا لَقِيَا غُلَا
 
 Moses replied, “If I ever question you about anything after this, then do not keep me in your company, for by then I would have given you enough of an excuse.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Then they both proceeded till they met a boy, and he (Khidr) killed him.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

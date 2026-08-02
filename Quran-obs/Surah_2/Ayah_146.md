@@ -122,15 +122,5 @@ The phrase, "The Truth is from your Lord", can also be interpreted in a general 
 
 Those We gave the Scripture recognize this Prophet as they recognize their own children. Yet a group among them hides the truth knowingly.
 
-## AI Tafsir
-
-**Essence** A group of the very scholars who could recognize this Prophet ﷺ as surely as they know their own children chose instead to bury that truth, knowing full well it was true.
-
-**What it teaches** "They recognize it" (*yaʿrifūnahu*) means the People of the Scripture knew the Prophet ﷺ — and the new Qiblah — with the unmistakable certainty of a father recognizing his own child; yet "a group of them" (*farīqan minhum*) "conceal the truth (*yaktumūna l-ḥaqq*) while they know it" (*wa-hum yaʿlamūna*). The Qur'an's stress is that this faction had both knowledge and certainty, and still hid what their own Books contained. The continuation in the next verse — "*al-ḥaqq* is from your Lord, so be not of the doubters" (2:147) — then anchors the believers and, read in a general sense, defines truth itself: that alone is truth which comes from Allah.
-
-**The scholars** Ibn Kathir explains that the scholars of the People of the Scripture knew the truth of what the Messenger ﷺ was sent with just as one knows his own child — an Arab parable for what is utterly plain — and that they hid from people the description of the Prophet ﷺ written in the Tawrah and the Injil even while certain of it. He cites Al-Qurtubi's report that when 'Umar asked 'Abdullah ibn Salam (an Israelite scholar who became a Muslim), "Do you recognize Muhammad as you recognize your own son?" he answered, "Yes, and even more. The Honest One descended from heaven upon the Honest One on the earth with his description, and I recognized him, although I do not know anything about his mother's story." Maarif ul Quran adds that the Torah and the Evangel had foretold his coming with signs to identify him, so to deny him was as dishonest as a man refusing to recognize his own son; it cautions that the simile intends only this single, obvious point of certain recognition — one should not stretch the analogy beyond it — and notes that some, while denying the truth themselves, even strove to keep it hidden from others, though they knew this Qiblah injunction was established by Revelation from Allah Himself.
-
-**Reflection** Knowledge that is hidden out of pride condemns its keeper; let what you know of the truth move you to confess it, not conceal it.
 ## Personal Reflections
-
 

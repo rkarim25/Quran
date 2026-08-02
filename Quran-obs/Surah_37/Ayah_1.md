@@ -132,13 +132,5 @@ So many ahadith stressing on the need to make rows complete and keep them straig
 
 By those angels lined up in ranks,
 
-## AI Tafsir
-
-**Context:** This Surah is Makki, that is, it was revealed in Makkah al-Mukarramah. Like other Makki Surahs, matters of faith have been taken up as its essential subject.
-
-**What this ayah teaches:** Therefore, the Surah has been initiated with an oath taken in the name of angels combined with a declaration of the attributes of their servitude. Towards the end, this belief has been refuted in details and an overall view of the Surah seems to indicate that the refutation of this particular kind of shirk (ascribing partners to the Divinity of Allah by declaring angels to be the daughters of Allah)…
-
-**Classical tafsir:** Ibn Kathir notes: Therefore, the Surah has been initiated with an oath taken in the name of angels combined with a declaration of the attributes of their servitude.
 ## Personal Reflections
-
 

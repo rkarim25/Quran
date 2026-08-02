@@ -160,15 +160,5 @@ At the end of the first verse (87), it was said: وَلَا تَعْتَدُوا
 
 O you who have iman! Do not forbid the good things which Allah has made lawful for you, and do not transgress. Indeed, Allah does not like transgressors.
 
-## AI Tafsir
-
-**Context:** Ali bin Abi Talhah said that Ibn 'Abbas said, "This Ayah [5:87] was revealed about some of the Companions of the Prophet ﷺ who said, 'We should cut off our male organs, abandon the desires of this life and travel in the…
-
-**What this ayah teaches:** Verily, Allah does not like the transgressors (87)And eat of the things which Allah has provided for you, lawful and good, and have Taqwa of Allah in Whom you believe . Make not unlawful the good things which Allah has made lawful to you, and transgress not.
-
-**Classical tafsir:** Ibn Kathir notes: Of course, if such a restriction is not there with the intention of Thawab, instead, it is there for some other reason, such as, some physical or spiritual sickness because of which one abandons something permanently, then, there will be no sin in doing so.
-
-**From the Sunnah:** Ibn 'Abbas narrated a similar Hadith.
 ## Personal Reflections
-
 

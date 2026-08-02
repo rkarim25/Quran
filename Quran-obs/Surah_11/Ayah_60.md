@@ -119,11 +119,5 @@ Sayyidna Salih (علیہ السلام) warned them: If Allah Ta` ala shows you y
 
 They were followed by a curse in this dunya, as they will be on the Day of Judgment. Surely ’Âd denied their Rabb. So away with ’Âd, the people of Hûd.
 
-## AI Tafsir
-
-**What this ayah teaches:** Surely, my Lord is Guardian over all things (57)And when Our commandment came, We saved Hud and those who believed with him by a mercy from Us, and We saved them from a severe torment (58)Such were [the people of] 'Ad.
-
-**Classical tafsir:** Ibn Kathir notes: They rejected the Ayat of their Lord) This means they disbelieved in the proofs and revelations (of Allah) and they disobeyed the Messengers of Allah.
 ## Personal Reflections
-
 

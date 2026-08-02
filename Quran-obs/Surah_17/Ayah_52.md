@@ -188,11 +188,5 @@ But, the truth of the matter is that there is no likelihood of a contra-diction 
 
 On the Day He will call you, you will instantly respond by praising Him, thinking you had remained in the world only for a little while.
 
-## AI Tafsir
-
-**What this ayah teaches:** As outwardly obvious, the verse does seem to indicate that this will be the state of all, believers or those who reject the truth - they both will rise praising Allah.
-
-**Classical tafsir:** Ibn Kathir notes: This means that if you were to assume that you would become dead, which is the opposite of living, Allah will resurrect you when He wills, for nothing can stop Him when He wills a thing.
 ## Personal Reflections
-
 

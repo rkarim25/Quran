@@ -158,11 +158,5 @@ It has been mentioned earlier that the Holy Prophet ﷺ had prayed to Allah to p
 
 We have already been promised this, as well as our forefathers earlier. This is nothing but ancient fables!”
 
-## AI Tafsir
-
-**What this ayah teaches:** This is only the tales of the ancients!") This means, "It is impossible that we could be brought back.
-
-**Classical tafsir:** Ibn Kathir notes: This is only the tales of the ancients!") This means, "It is impossible that we could be brought back.
 ## Personal Reflections
-
 

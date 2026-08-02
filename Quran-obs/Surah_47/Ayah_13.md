@@ -181,15 +181,5 @@ All four kinds of rivers - of water, milk, wine and honey - are used in their pr
 
 How many communities stronger than yours—which drove you out—did We destroy, with no one to rescue them?
 
-## AI Tafsir
-
-**Context:** Ibn 'Abbas then said, "The worst of enemies is he who transgresses against Allah in His own sacred place, who kills a person who is not trying to kill him, or who kills because of Jahiliyyah vengeance.
-
-**What this ayah teaches:** There is no need to apply them unnecessarily in their figurative sense.
-
-**Classical tafsir:** Ibn Kathir notes: Allah destroyed them completely,) which means that Allah punished them because of their denial and disbelief, and saved the believers from among them.
-
-**From the Sunnah:** After the battle of Uhud, Abu Sufyan Sakhr bin Harb, the commander of the idolators at that time, inquired about the Prophet ﷺ, Abu Bakr, and 'Umar, may Allah be pleased with them. This is a great threat and severe warning to the people of Makkah because they rejected Allah's Messenger ﷺ, who was the chief of the Messengers and the last of the Prophets.
 ## Personal Reflections
-
 

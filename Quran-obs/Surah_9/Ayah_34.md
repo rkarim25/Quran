@@ -258,11 +258,5 @@ The majority of Muslim jurists and Imams have taken this approach. It should be 
 
 O you who have iman! Indeed, many rabbis and monks consume people’s wealth wrongfully and hinder from the Way of Allah. Give good news of a painful torment to those who hoard gold and silver and do not spend it in Allah’s cause.
 
-## AI Tafsir
-
-**What this ayah teaches:** Verily, there are many of the Ahbar (rabbis) and the Ruhban (monks) who devour the wealth of mankind in falsehood, and hinder (them) from the way of Allah. The verse states that many rabbis and monks among the Jews and Christians eat up the wealth of the people by false means and prevent (them) from the way of Allah.
-
-**Classical tafsir:** Ibn Kathir notes: Warning against Corrupt Scholars and Misguided Worshippers As-Suddi said that the Ahbar are Jewish rabbis, while the Ruhban are Christian monks.
 ## Personal Reflections
-
 

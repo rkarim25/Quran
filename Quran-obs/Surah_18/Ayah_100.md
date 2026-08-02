@@ -76,11 +76,5 @@ The pronoun in: فَجَمَعْنَاهُمْ (fajama'nahum: Then We shall gath
 
 On that Day We will display Hell clearly for those who reject the truth,.
 
-## AI Tafsir
-
-**What this ayah teaches:** Hell will be displayed before the those who reject the truth on the Day of Resurrection Allah tells us what He will do to the those who reject the truth on the Day of Resurrection. And on that Day We shall present Hell to the those who reject the truth, plain to view (100)(To) those whose eyes had been under a covering from My Reminder, and they could not bear to hear (it)(101)Do then those who disbelieved think that they can take My serv…
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

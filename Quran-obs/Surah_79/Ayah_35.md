@@ -144,11 +144,5 @@ In the verses that follow, the horrors of the Day of Judgment are depicted. It i
 
 the Day every person remembers all they strove for,
 
-## AI Tafsir
-
-**What this ayah teaches:** The expression 'according to the rules' has been used because many verses and narratives indicate that there could be 'exceptions to the rules'. The phrase 'punishment of the 'akhirah' refers to the punishment of the Hereafter that will be meted out to Fir'aun (the Pharaoh).
-
-**Classical tafsir:** Ibn Kathir notes: The phrase 'punishment of the 'akhirah' refers to the punishment of the Hereafter that will be meted out to Fir'aun (the Pharaoh).
 ## Personal Reflections
-
 

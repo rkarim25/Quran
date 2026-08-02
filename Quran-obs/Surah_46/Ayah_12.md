@@ -201,15 +201,5 @@ This has been recorded in the Two Sahihs and An-Nasa'i. Similarly, Ibn 'Abbas, m
 
 Before this, the Book of Moses was sent as guidance and mercy. This Book confirms it in the Arabic tongue—to warn those who do wrong and to bring glad news to those who do good.
 
-## AI Tafsir
-
-**Context:** (from Allah, and you disbelieved in it?) meaning, 'what do you think that Allah will do to you if this Book that I have come to you with is actually revealed to me from Him in order that I convey it to you, and yet you d…
-
-**What this ayah teaches:** And this is a Book confirming in the Arabic tongue, to warn those who do wrong, and as glad tidings for the doers of good (12)Verily, those who say: "Our Lord is (only) Allah," and thereafter stand firm, on them shall be no fear, nor shall they grieve (13)Such shall be the dwellers of Paradise, abiding therein (forever) – a reward for what they used to do .
-
-**Classical tafsir:** Ibn Kathir notes: The pagans said this only because they thought that they held a high status with Allah, and that He took special care of them.
-
-**From the Sunnah:** Paradise, abiding therein (forever) – a reward for what they used to do .
 ## Personal Reflections
-
 

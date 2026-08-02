@@ -145,11 +145,5 @@ This is the end of the Tafsir of Surah Qaf. All praise is due to Allah, He is fo
 
 Listen: On the Day the caller will call from a place near at hand,
 
-## AI Tafsir
-
-**What this ayah teaches:** And listen on the Day when the caller will call from a near place (41)The Day when they will hear As-Sayhah in truth, that will be the Day of coming out (42)Verily, it is We Who give life and cause death; and to Us is the final return (43)On the Day when the earth shall be cleft, from off them (they will come out) hastening forth.
-
-**Classical tafsir:** Ibn Kathir notes: The phrase "a near place" refers to the fact that the voice of the angel will reach everybody who rises from death anywhere on the surface of the earth, and will feel as though the angel had called him from a nearby place.
 ## Personal Reflections
-
 

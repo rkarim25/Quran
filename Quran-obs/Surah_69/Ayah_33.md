@@ -86,13 +86,5 @@ Ad-Dahhak said, "Meaning a death which is not followed by any life." Likewise sa
 
 For they never had iman in Allah, the Greatest,
 
-## AI Tafsir
-
-**What this ayah teaches:** And that I had never known how my account is!
-
-**Classical tafsir:** Ibn Kathir notes: Qatadah said, "It will be the worst food of the people of the Hellfire." Ar-Rabi' and Ad-Dahhak both said, "It (Ghislin) is a tree in Hell." Shabib bin Bishr reported from 'Ikrimah that Ibn 'Abbas said, 'Ghislin will be the blood and fluid that will flow from their flesh." 'Ali bin Abi Talhah report…
-
-**From the Sunnah:** And if it (the same drop of lead) were sent from the head of the chain (of Hell), it would travel forty fall seasons, night and day, before it would reach its (Hell's) cavity or base.) At-Tirmidhi also recorded this Hadith and he said, "This Hadith is Hasan."… (Jami' at-Tirmidhi)
 ## Personal Reflections
-
 

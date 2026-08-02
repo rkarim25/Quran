@@ -89,13 +89,5 @@ The forthcoming verses address the people of the time of the Prophet Muhammad �
 
 We have made the Qur'an easy for remembrance. Is there anyone who will remember?
 
-## AI Tafsir
-
-**Context:** رَ‌اوَدُوهُ عَن ضَيْفِهِ (And they had even tried to tempt him against his guests...54:37). The word murawadah signifies to entice someone to satisfy one's lust.
-
-**What this ayah teaches:** 'Ad denied; then how was My torment and My warnings (18)Verily, We sent against them a violently cold (Sarsar) wind on a day of calamity, continuous (19)Plucking out men as if they were uprooted stems of date palms (20)Then, how was My torment and My warnings (21)And We have indeed made the Qur'an easy to understand and remember; then is there any that will remember (22).
-
-**Classical tafsir:** Ibn Kathir notes: The word murawadah signifies to entice someone to satisfy one's lust.
 ## Personal Reflections
-
 

@@ -120,11 +120,5 @@ Of all the events of early people described in this chapter the next event is of
 
 We did not find most of them true to their covenant. Rather, We found most of them truly rebellious.
 
-## AI Tafsir
-
-**What this ayah teaches:** The covenant mentioned here is the Fitrah that Allah instilled in them while still in their fathers' loins, and taking their covenant, that He is their Lord, King, and that there is no deity worthy of worship except Him,.
-
-**Classical tafsir:** Ibn Kathir notes: The verse, therefore, has said that Allah did not find most of the people true to this covenant.
 ## Personal Reflections
-
 

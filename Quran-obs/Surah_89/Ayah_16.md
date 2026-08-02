@@ -110,13 +110,5 @@ Wealth and Poverty are no Signs of One's Acceptance or Rejection
 
 But when He tests them by restricting provision, they protest, "My Lord has humiliated me!"—mistaking hardship for divine rejection.
 
-## AI Tafsir
-
-**What this ayah teaches:** Likewise, He withholds sustenance /wealth from those whom He loves and those whom He does not love.] Often the matter is quite the contrary.
-
-**Classical tafsir:** Ibn Kathir notes: The word 'man' here primarily refers to an 'unbelieving man' who may form any thought about Allah as he feels like, but in its general sense, the word may include a Muslim as well who has the same thought as an unbeliever.
-
-**From the Sunnah:** Paradise forty years before the wealthy muhajirs (Immigrants). (Sahih Muslim, Jami' at-Tirmidhi)
 ## Personal Reflections
-
 

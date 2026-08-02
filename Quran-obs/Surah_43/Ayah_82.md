@@ -175,11 +175,5 @@ I would have been the first to worship - 43:81) It does not mean that, God forbi
 
 Glorified is the Rabb of the heavens and earth, the Rabb of the Throne, far above what they claim.
 
-## AI Tafsir
-
-**What this ayah teaches:** Exalted be He from all that they ascribe (to Him).) meaning, exalted and sanctified and glorified be the Creator of all things far above having any offspring, for He is Unique, One and Eternally Self-Sufficient.
-
-**Classical tafsir:** Ibn Kathir notes: He is eternally free of all faults and shortcomings, because He is the Lord, the Exalted, the Almighty, the Sovereign of all things, Who is in control of all affairs.
 ## Personal Reflections
-
 

@@ -226,13 +226,5 @@ Verse [ 2] وَأَخْرَ‌جَتِ الْأَرْ‌ضُ أَثْقَالَ�
 
 and throws out its burdens—everything buried, hidden, and stored will surface;
 
-## AI Tafsir
-
-**What this ayah teaches:** When the earth quakes with its Zilzal.)(2. This refers to the alteration of the state of things and the earth moving and shaking.
-
-**Classical tafsir:** Ibn Kathir notes: This refers to the alteration of the state of things and the earth moving and shaking.
-
-**From the Sunnah:** Then the man said, 'Rather give me something to recite that is comprehensive (of all of these), O Messenger of Allah.' So the Prophet ﷺ told him to recite So the man came to him and the Prophet ﷺ said to him,
 ## Personal Reflections
-
 

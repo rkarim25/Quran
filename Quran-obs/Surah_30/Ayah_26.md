@@ -91,15 +91,5 @@ The sixth sign of divine omnipotence is in fact the sum and substance of the pre
 
 To Him belong all in the heavens and earth — all are subject to His will.
 
-## AI Tafsir
-
-**Context:** The sixth sign of divine omnipotence is in fact the sum and substance of the previous five signs, and they were in fact revealed to explain and elaborate this verse.
-
-**What this ayah teaches:** To Him belongs whatever is in the heavens and the earth. Sixth sign of divine omnipotence Existence of the sky and earth is by the command of Allah.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
-
-**From the Sunnah:** the Prophet ﷺ said: (Sahih al-Bukhari)
 ## Personal Reflections
-
 

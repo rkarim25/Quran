@@ -196,15 +196,5 @@ Verse [ 1] draws attention to the situation of the world before the advent of th
 
 Those who rejected the truth among the People of the Book and the mushrikun were not going to leave their ways until a bayyinah—a clear, undeniable proof—came to them:
 
-## AI Tafsir
-
-**Context:** (And We did not send any Messenger before you but We revealed to him: La ilaha illa Ana.)(21:25)
-
-**What this ayah teaches:** Those who disbelieve from among the People of the Scripture and the idolators, were not going to leave until there came to them the Bayyinah.)(2. And the People of the Scripture differed not until after there came to them the Bayyinah.)(5.
-
-**Classical tafsir:** Ibn Kathir notes: It is they for whom there is an awful torment.)(3:105) This refers to the people of those divinely revealed Scriptures that were sent down to the nations that were before us.
-
-**From the Sunnah:** from Anas bin Malik that the Messenger of Allah ﷺ said to Ubayy bin Ka'b, (Musnad Ahmad) this Hadith from Shu'bah. (Sahih al-Bukhari, Sahih Muslim)
 ## Personal Reflections
-
 

@@ -104,11 +104,5 @@ Commentary
 
 This is how We relate to you O Prophet some of the stories of the past. And We have certainly granted you a Reminder from Us.
 
-## AI Tafsir
-
-**What this ayah teaches:** The Entire Qur'an is the Remembrance of Allah and mentioning the Punishment of Those Who turn away from It Allah, the Exalted, is saying to Prophet Muhammad ﷺ, 'We have told you (O Muhammad) the story of Musa and what happened with him, Fir'awn and his armies, just as it actually happened.
-
-**Classical tafsir:** Ibn Kathir notes: - 20:99) According to a majority of commentators the word (advice) in the present context means the Qur'an.
 ## Personal Reflections
-
 

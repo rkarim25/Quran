@@ -285,15 +285,5 @@ Some scholars interpret the exceptive sentence 'except that which Allah wills' d
 
 except what Allah wills. He knows what is open and what is hidden.
 
-## AI Tafsir
-
-**Context:** This Surah was revealed in Makkah before the migration to Al-Madinah. The proof of this is what Al-Bukhari recorded from Al-Bara' bin 'Azib, that he said, "The first people to come to us (in Al-Madinah) from the Companio…
-
-**What this ayah teaches:** Except what Allah may will He knows what is apparent and what is hidden.)(8.
-
-**Classical tafsir:** Ibn Kathir notes: We shall make you recite, so you shall not forget,)(7.
-
-**From the Sunnah:** Then 'Umar bin Al-Khattab came with a group of twenty people, after which the Prophet ﷺ came. (Sahih al-Bukhari) It has been confirmed in the Two Sahihs that the Messenger of Allah ﷺ said to Mu'adh,
 ## Personal Reflections
-
 

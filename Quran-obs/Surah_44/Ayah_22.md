@@ -186,13 +186,5 @@ Commentary
 
 Ultimately, he cried out to his Lord, "These are a wicked people!"
 
-## AI Tafsir
-
-**Context:** And indeed We revealed to Mu0sa0 (saying): Travel by night with My servants and strike a dry path for them in the sea, fearing neither to be overtaken nor being afraid (of drowning in the sea). (20:77)
-
-**What this ayah teaches:** When the believer dies, that gate is closed; it misses him and weeps for him, and the place of prayer on earth where he used to pray and remember Allah also weeps for him.
-
-**Classical tafsir:** Ibn Kathir notes: This refers to the clear signs and definitive evidence with which Allah sent him.
 ## Personal Reflections
-
 

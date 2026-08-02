@@ -122,11 +122,5 @@ Here, their immodesty has been censured on two grounds: (1)-It so happens that m
 
 And when Lot scolded his people, “Do you commit a shameful deed that no man has ever done before?
 
-## AI Tafsir
-
-**What this ayah teaches:** And (remember) Lut, when he said to his people: "Do you commit lewdness such as none preceding you has committed in all of the nations (80)"Verily, you practice your lusts on men instead of women. Then, it was said that this shameful act has never been committed by anyone in all the worlds before they did it.
-
-**Classical tafsir:** Ibn Kathir notes: Indeed, this behavior is evil and ignorant because you have placed things in their improper places.
 ## Personal Reflections
-
 

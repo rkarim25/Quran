@@ -114,11 +114,5 @@ Sayyidna Salih (علیہ السلام) warned them: If Allah Ta` ala shows you y
 
 And O my people! Seek your Rabb’s forgiveness and turn to Him in repentance. He will shower you with rain in abundance, and add strength to your strength. So do not turn away, persisting in wickedness.”
 
-## AI Tafsir
-
-**What this ayah teaches:** Then he commanded them to seek the forgiveness of the One Who is capable of expiating previous sins.
-
-**Classical tafsir:** Ibn Kathir and Maarif ul Quran expand on the themes of this ayah in the full commentaries below.
 ## Personal Reflections
-
 

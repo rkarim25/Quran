@@ -303,13 +303,5 @@ The punishment for miserliness بُخُل (Bukhl) mentioned in this verse: 'They
 
 And do not let those who withhold Allah’s bounties think it is good for them—in fact, it is bad for them! They will be leashed on the Day of Judgment with whatever they used to withhold. And Allah is the inheritor of the heavens and the earth. And Allah is All-Aware of what you do.
 
-## AI Tafsir
-
-**What this ayah teaches:** And let not those who are stingy with that which Allah has bestowed on them of His bounty think that it is good for them.
-
-**Classical tafsir:** Ibn Kathir notes: This Ayah refers to Uhud, since Allah tested the believers in that battle, thus making known the faith, endurance, patience, firmness and obedience to Allah and His Messenger ﷺ that the believers had.
-
-**From the Sunnah:** Because the Prophet ﷺ was eager for people's benefit, he would become sad when the those who reject the truth would resort to defiance, rebellion and stubbornness. Allah mentions the money that the miser collected on the Day of Resurrection,
 ## Personal Reflections
-
 

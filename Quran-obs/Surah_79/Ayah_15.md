@@ -222,11 +222,5 @@ The Holy Prophet ﷺ used to be hurt by the stubbornness of the obdurate rejecte
 
 Has the story of Musa reached you?
 
-## AI Tafsir
-
-**What this ayah teaches:** Mentioning the Story of Musa and that it is a Lesson for Those Who fear Allah Allah informs His Messenger Muhammad ﷺ about His Messenger Musa.
-
-**Classical tafsir:** Ibn Kathir notes: Ibn 'Abbas said, "He did Aghtasha of its night means that He made it dark." Mujahid, 'Ikrimah, Sa'id bin Jubayr and a large group have said this as well. The statement that 'the soul is in ` Alam-ul-arwah or ` illiyyun' is also true, because the 'soul' in this context refers to ruh mujarrad or 'abstract spirit'.
 ## Personal Reflections
-
 
