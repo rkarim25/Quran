@@ -1,4 +1,4 @@
-const cache = { index: null, surahs: {}, pristine: {}, aiWbw: {}, timeline: null, hadithIndex: null, hadithMap: null, asbabNuzul: null, people: null, peopleHadith: null, duas: null };
+const cache = { index: null, surahs: {}, pristine: {}, aiWbw: {}, passageTafsir: {}, timeline: null, hadithIndex: null, hadithMap: null, asbabNuzul: null, people: null, peopleHadith: null, duas: null };
 const LS = {
   lastRead: "quran-last-read",
   recentReads: "quran-recent-reads",
@@ -49,9 +49,9 @@ const DEFAULT_PREFS = {
   activePanel: "reflection",
   activeContextTab: "occasion",
   theme: "light",
-  bookContent: { arabic: true, translit: false, translation: true, aiTranslation: false, aiTafsir: false, ibnKathir: false, maarif: false },
+  bookContent: { arabic: true, translit: false, translation: true, aiTranslation: false, passageTafsir: false, ibnKathir: false, maarif: false },
   // Tadabbur + tafsir shown inline under every ayah of the whole view (verse/wbw).
-  studyShow: { tadabbur: false, aiTafsir: false, ibnKathir: false, maarif: false },
+  studyShow: { tadabbur: false, passageTafsir: false, ibnKathir: false, maarif: false },
   editView: "mine",
   editsFilter: { wordEdit: true, transEdit: true, tadabbur: true },
   homeView: "surah",
@@ -72,8 +72,14 @@ function loadPrefs() {
     merged.bookContent = { ...DEFAULT_PREFS.bookContent, ...(raw.bookContent || {}) };
     merged.studyShow = { ...DEFAULT_PREFS.studyShow, ...(raw.studyShow || {}) };
     // Book's tafsir toggles moved into the shared studyShow group — carry them over.
-    for (const k of ["aiTafsir", "ibnKathir", "maarif"]) {
+    for (const k of ["passageTafsir", "ibnKathir", "maarif"]) {
       if (merged.bookContent?.[k] && raw.studyShow?.[k] === undefined) merged.studyShow[k] = true;
+    }
+    // Per-ayah "AI Tafsir" became passage-based "Passage Tafsir"; carry the
+    // saved toggle across so anyone who had it on keeps commentary showing.
+    for (const group of ["studyShow", "bookContent"]) {
+      if (raw[group]?.aiTafsir && raw[group]?.passageTafsir === undefined) merged[group].passageTafsir = true;
+      delete merged[group].aiTafsir;
     }
     return merged;
   } catch {
@@ -354,6 +360,33 @@ async function loadSurah(n) {
     cache.pristine[n] = JSON.parse(JSON.stringify(data));
   }
   return cache.surahs[n];
+}
+
+// Passage tafsir: one entry per contiguous ayah RANGE, not per ayah.
+// Loaded on demand; null if this surah has not been generated yet.
+async function loadPassageTafsir(n) {
+  if (cache.passageTafsir[n] === undefined) {
+    try {
+      const res = await fetch(`data/passage_tafsir/surah_${n}.json?v=${DATA_VERSION}`);
+      cache.passageTafsir[n] = res.ok ? await res.json() : null;
+    } catch (_) {
+      cache.passageTafsir[n] = null;
+    }
+  }
+  return cache.passageTafsir[n];
+}
+
+// The passage covering a given ayah, or null. Ranges never overlap
+// (tafsir_passages.py enforces that at build time), so first match wins.
+function passageFor(n, ayahNum) {
+  const data = cache.passageTafsir[n];
+  if (!data || !data.passages) return null;
+  return data.passages.find((p) => ayahNum >= p.start && ayahNum <= p.end) || null;
+}
+
+// "2:1–5" — the range label that tells the reader what the tafsir covers.
+function passageRangeLabel(n, p) {
+  return p.start === p.end ? `${n}:${p.start}` : `${n}:${p.start}–${p.end}`;
 }
 
 // AI word-by-word analysis (loaded on demand; null if not generated yet)
@@ -785,7 +818,12 @@ function bookExtrasBlock(ayah, surahId) {
   if (effectiveShow(surahId, ayahN, "tadabbur")) {
     parts.push(`<div class="ax-tadabbur"><div class="ax-label">Tadabbur</div><textarea class="ax-tadabbur-input" data-s="${surahId}" data-a="${ayahN}" rows="2" placeholder="Your tadabbur — what does this ayah move in your heart?">${esc(m.personal_reflections || "")}</textarea><div class="ax-save-status"></div></div>`);
   }
-  for (const key of ["aiTafsir", "ibnKathir", "maarif"]) {
+  if (effectiveShow(surahId, ayahN, "passageTafsir")) {
+    // Once per passage, on its first ayah — not repeated under every ayah.
+    const p = passageFor(surahId, ayahN);
+    if (p && p.start === ayahN) parts.push(passageTafsirHtml(surahId, ayahN));
+  }
+  for (const key of ["ibnKathir", "maarif"]) {
     if (!effectiveShow(surahId, ayahN, key)) continue;
     const text = tafsirFieldFor(m, key);
     if (!text) continue;
@@ -1090,9 +1128,9 @@ function debouncedSave() {
 // ---- Inline study extras (tadabbur + tafsir) shown under an ayah ----
 // View-wide via prefs.studyShow (the Content box); per-ayah via ayahShow overrides
 // (the ☰ menu). An ayah shows an extra if either is on.
-const STUDY_KEYS = ["tadabbur", "aiTafsir", "ibnKathir", "maarif"];
-const STUDY_LABELS = { tadabbur: "Tadabbur", aiTafsir: "AI Tafsir", ibnKathir: "Ibn Kathīr", maarif: "Maʿārif ul Qurʼān" };
-const ayahShow = {}; // "surah:ayah" -> { tadabbur, aiTafsir, ibnKathir, maarif } (session, additive)
+const STUDY_KEYS = ["tadabbur", "passageTafsir", "ibnKathir", "maarif"];
+const STUDY_LABELS = { tadabbur: "Tadabbur", passageTafsir: "Passage Tafsir", ibnKathir: "Ibn Kathīr", maarif: "Maʿārif ul Qurʼān" };
+const ayahShow = {}; // "surah:ayah" -> { tadabbur, passageTafsir, ibnKathir, maarif } (session, additive)
 
 function effectiveShow(surahId, ayahNum, key) {
   if (prefs.studyShow?.[key]) return true;
@@ -1104,10 +1142,30 @@ function anyEffectiveShow(surahId, ayahNum) {
   || !!ayahShow[`${surahId}:${ayahNum}`]?.hadith;
 }
 function tafsirFieldFor(ay, key) {
-  if (key === "aiTafsir") return ay.ai_tafsir;
   if (key === "ibnKathir") return ay.tafsir_ibn_kathir || ay.qf_tafsir;
   if (key === "maarif") return ay.maarif_ul_quran;
   return null;
+}
+
+// Passage tafsir covers a RANGE, so it must say so — otherwise a reader opening
+// ayah 4 of a 1–7 passage would read it as commentary on ayah 4 alone. It is
+// rendered once, on the first ayah of the range that is on screen.
+function passageTafsirHtml(surahId, ayahNum) {
+  const p = passageFor(surahId, ayahNum);
+  if (!p || !p.tafsir) return "";
+  const label = passageRangeLabel(surahId, p);
+  const single = p.start === p.end;
+  const scope = single
+    ? `This tafsir covers ayah ${label}`
+    : `This tafsir covers ayat ${label} — read as one passage`;
+  return `<details class="ayah-extra ax-passage" open>
+      <summary>Passage Tafsir<span class="ax-passage-range">${esc(label)}</span></summary>
+      <div class="ax-passage-head">
+        ${p.title ? `<div class="ax-passage-title">${esc(p.title)}</div>` : ""}
+        <div class="ax-passage-scope">${esc(scope)}</div>
+      </div>
+      <div class="ax-tafsir-body">${md(p.tafsir)}</div>
+    </details>`;
 }
 
 // The editable tadabbur + tafsir blocks rendered beneath an ayah.
@@ -1121,7 +1179,13 @@ function ayahExtrasHtml(ay, surahId, ayahNum) {
         <div class="ax-save-status"></div>
       </div>`);
   }
-  for (const key of ["aiTafsir", "ibnKathir", "maarif"]) {
+  if (effectiveShow(surahId, ayahNum, "passageTafsir")) {
+    // Only on the passage's first ayah — repeating it under every ayah of the
+    // range is exactly the noise the passage format exists to remove.
+    const p = passageFor(surahId, ayahNum);
+    if (p && p.start === ayahNum) blocks.push(passageTafsirHtml(surahId, ayahNum));
+  }
+  for (const key of ["ibnKathir", "maarif"]) {
     if (!effectiveShow(surahId, ayahNum, key)) continue;
     const text = tafsirFieldFor(ay, key);
     if (!text) continue;
@@ -1162,12 +1226,26 @@ function panelContent(ayah) {
   if (prefs.activePanel === "timeline") return renderTimelinePanel();
   if (prefs.activePanel === "hadith") return renderContextPanel(currentSurah?.id, ayah?.ayah);
   if (prefs.activePanel === "tafsir") {
-    let html = `<p class="panel-intro tafsir-intro">Concise commentary drawing on Ibn Kathir, Maarif ul Quran, classical scholars, and authenticated hadith.</p>`;
-    if (ayah.qf_tafsir) {
-      html += `<details open class="qf-tafsir-block"><summary class="qf-tafsir-summary">Ibn Kathir (Quran.com)</summary><div class="qf-tafsir-body">${md(ayah.qf_tafsir)}</div></details>`;
+    let html = `<p class="panel-intro tafsir-intro">Commentary drawing on Ibn Kathir, Maarif ul Quran, classical scholars, and authenticated hadith.</p>`;
+    // Opened from one ayah, so show the passage wherever in the range we are —
+    // with the range stated, so it is never mistaken for single-ayah commentary.
+    const p = currentSurah ? passageFor(currentSurah.id, ayah.ayah) : null;
+    if (p && p.tafsir) {
+      const label = passageRangeLabel(currentSurah.id, p);
+      const scope = p.start === p.end
+        ? `Covers ayah ${label}`
+        : `Covers ayat ${label} — this commentary treats the whole passage`;
+      html += `<details open class="passage-tafsir-block">
+        <summary class="passage-tafsir-summary">Passage Tafsir<span class="pt-range">${esc(label)}</span></summary>
+        <div class="pt-head">
+          ${p.title ? `<div class="pt-title">${esc(p.title)}</div>` : ""}
+          <div class="pt-scope">${esc(scope)}</div>
+        </div>
+        <div class="pt-body">${md(p.tafsir)}</div>
+      </details>`;
     }
-    if (ayah.ai_tafsir) {
-      html += `<details ${ayah.qf_tafsir ? "" : "open"} class="ai-tafsir-block"><summary class="ai-tafsir-summary">AI Tafsir</summary><div class="ai-tafsir-body">${md(ayah.ai_tafsir)}</div></details>`;
+    if (ayah.qf_tafsir) {
+      html += `<details class="qf-tafsir-block"><summary class="qf-tafsir-summary">Ibn Kathir (Quran.com)</summary><div class="qf-tafsir-body">${md(ayah.qf_tafsir)}</div></details>`;
     }
     if (ayah.tafsir_ibn_kathir) html += `<details><summary>Ibn Kathir (full)</summary>${md(ayah.tafsir_ibn_kathir)}</details>`;
     if (ayah.maarif_ul_quran) html += `<details><summary>Maarif ul Quran</summary>${md(ayah.maarif_ul_quran)}</details>`;
@@ -1772,6 +1850,9 @@ function bindStudyPanelEvents(block) {
           !cache.hadithIndex ? loadHadithData() : Promise.resolve(),
           cache.asbabNuzul === null ? loadAsbabNuzul() : Promise.resolve(),
         ]);
+      }
+      if (btn.dataset.panel === "tafsir" && currentSurah) {
+        await loadPassageTafsir(currentSurah.id);
       }
       block.querySelector(".study-panel-body").innerHTML = panelContent(selectedAyah);
       bindReflectionInput(block);
@@ -3298,6 +3379,11 @@ function renderBookmarks() {
 async function renderSurah(data, targetAyah, openStudy = false) {
   currentSurah = data;
   loadAiWbw(data.id);
+  // The ayah blocks read passage tafsir synchronously, so it must be cached
+  // before the first paint — but only wait for it when it will actually be
+  // shown; otherwise just warm the cache and let the paint go ahead.
+  if (prefs.studyShow?.passageTafsir) await loadPassageTafsir(data.id);
+  else loadPassageTafsir(data.id);
   const lastForSurah = getLastReadForSurah(data.id);
   if (!targetAyah && lastForSurah) targetAyah = lastForSurah.ayah;
   const ayah = targetAyah || 1;
@@ -3390,6 +3476,10 @@ document.addEventListener("change", async (e) => {
   if (t.matches("input[data-sx]")) {
     prefs.studyShow[t.dataset.sx] = t.checked;
     savePrefs();
+    // Rendered synchronously from cache, so fetch it before refreshing.
+    if (t.dataset.sx === "passageTafsir" && t.checked && currentSurah) {
+      await loadPassageTafsir(currentSurah.id);
+    }
     if (currentSurah) refreshAyahStream(currentSurah.id);
     return;
   }
@@ -3418,6 +3508,9 @@ document.addEventListener("change", async (e) => {
   (ayahShow[key] || (ayahShow[key] = {}))[axs.dataset.axs] = axs.checked;
   if (axs.dataset.axs === "timeline" && axs.checked && !cache.timeline) {
     await loadTimeline();
+  }
+  if (axs.dataset.axs === "passageTafsir" && axs.checked) {
+    await loadPassageTafsir(s);   // rendered synchronously; must be in cache first
   }
   if (axs.dataset.axs === "hadith" && axs.checked && (!cache.hadithIndex || cache.asbabNuzul === null)) {
     await Promise.all([

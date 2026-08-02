@@ -1705,39 +1705,113 @@ body {
   color: var(--ink-muted);
 }
 
-.ai-tafsir-block {
+/* ─── Passage tafsir ───
+   Covers an ayah RANGE, so the range label and scope line are load-bearing:
+   without them a reader opening one ayah would read it as commentary on that
+   ayah alone. */
+.passage-tafsir-block {
   border: 1px solid rgba(31, 107, 82, 0.18);
   border-radius: var(--radius);
   background: linear-gradient(135deg, rgba(230, 242, 236, 0.45), rgba(245, 240, 230, 0.5));
   margin-bottom: 0.85rem;
 }
 
-.ai-tafsir-block summary.ai-tafsir-summary {
+.passage-tafsir-block summary.passage-tafsir-summary {
   font-weight: 600;
   color: var(--green);
   letter-spacing: 0.02em;
 }
 
-.ai-tafsir-body {
+.pt-range,
+.ax-passage-range {
+  display: inline-block;
+  margin-left: 0.5rem;
+  padding: 0.05rem 0.45rem;
+  border: 1px solid var(--gold-soft);
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.55);
+  font-family: var(--font-ui);
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  color: var(--gold-deep, var(--green));
+  text-transform: none;
+}
+
+.pt-head,
+.ax-passage-head {
+  margin: 0.45rem 0 0.2rem;
+}
+
+.pt-title,
+.ax-passage-title {
+  font-family: var(--font-display, var(--font-ui));
+  font-size: 0.98rem;
+  font-weight: 600;
+  color: var(--ink);
+  line-height: 1.35;
+}
+
+.pt-scope,
+.ax-passage-scope {
+  font-family: var(--font-ui);
+  font-size: 0.74rem;
+  font-style: italic;
+  color: var(--ink-muted);
+  margin-top: 0.15rem;
+}
+
+.pt-body {
   font-size: 0.92rem;
   line-height: 1.68;
+  margin-top: 0.55rem;
 }
 
-.ai-tafsir-body strong {
+.pt-body h2,
+.ax-passage .ax-tafsir-body h2 {
+  font-family: var(--font-ui);
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--green);
+  margin: 1rem 0 0.35rem;
+}
+
+.pt-body strong,
+.ax-passage .ax-tafsir-body strong {
   color: var(--green);
   font-weight: 600;
-  font-size: 0.82rem;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
 }
 
-.ai-tafsir-body blockquote {
+.pt-body blockquote,
+.ax-passage .ax-tafsir-body blockquote {
   border-left: 3px solid var(--gold);
   margin: 0.5rem 0;
   padding-left: 0.75rem;
   color: var(--ink-muted);
   font-style: italic;
 }
+
+/* inline (under-ayah) variant */
+.ax-passage {
+  background: linear-gradient(135deg, rgba(230, 242, 236, 0.4), rgba(245, 240, 230, 0.45));
+  border: 1px solid rgba(31, 107, 82, 0.16);
+  border-radius: var(--radius-sm);
+  padding: 0.55rem 0.85rem;
+  font-family: var(--font-body);
+  font-size: 0.95rem;
+  line-height: 1.65;
+  color: var(--ink-soft);
+}
+.ax-passage > summary {
+  cursor: pointer; list-style: none;
+  font-family: var(--font-ui); font-size: 0.78rem; font-weight: 600;
+  color: var(--green); letter-spacing: 0.02em;
+}
+.ax-passage > summary::-webkit-details-marker { display: none; }
+.ax-passage > summary::before { content: "▸ "; color: var(--gold-muted); }
+.ax-passage[open] > summary::before { content: "▾ "; }
 
 /* ─── Surah navigation ─── */
 .surah-nav {
@@ -2773,7 +2847,10 @@ html[data-theme="night"] .surah-card-inner, html[data-theme="night"] .study-pane
 html[data-theme="night"] .sticky-toolbar { background: rgba(20,23,26,0.94); border-bottom-color: rgba(95,179,139,0.12); }
 html[data-theme="night"] .book-translation-section.ai-mode .book-flow.translation-flow,
 html[data-theme="night"] .translation-block.ai-mode,
-html[data-theme="night"] .ai-tafsir-block { background: linear-gradient(135deg, rgba(95,179,139,0.10), rgba(95,179,139,0.03)); border-color: rgba(95,179,139,0.22); }
+html[data-theme="night"] .passage-tafsir-block,
+html[data-theme="night"] .ax-passage { background: linear-gradient(135deg, rgba(95,179,139,0.10), rgba(95,179,139,0.03)); border-color: rgba(95,179,139,0.22); }
+html[data-theme="night"] .pt-range,
+html[data-theme="night"] .ax-passage-range { background: rgba(255,255,255,0.06); border-color: rgba(95,179,139,0.28); color: var(--gold); }
 /* sepia: match toolbar to parchment tone */
 html[data-theme="sepia"] .sticky-toolbar { background: rgba(239,229,208,0.94); }
 

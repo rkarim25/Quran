@@ -100,9 +100,25 @@
   }
   const tadabburHtml = (t) => `<div class="pr-tadabbur"><span class="pr-tad-label">Tadabbur</span>${esc2(t)}</div>`;
   const mdRender = (t) => (window.md ? window.md(t) : `<p>${esc2(t)}</p>`);
-  function tafsirBlocksHtml(ay, opt) {
+  // Passage tafsir covers an ayah RANGE, so it prints once, at the range's first
+  // ayah, with the range spelled out — never repeated under each ayah.
+  function passageTafsirPrintHtml(surahId, ayahNum) {
+    if (!window.passageFor) return "";
+    const p = window.passageFor(surahId, ayahNum);
+    if (!p || !p.tafsir || p.start !== ayahNum) return "";
+    const label = window.passageRangeLabel ? window.passageRangeLabel(surahId, p)
+      : (p.start === p.end ? `${surahId}:${p.start}` : `${surahId}:${p.start}–${p.end}`);
+    const scope = p.start === p.end ? `Ayah ${label}` : `Ayat ${label} — read as one passage`;
+    return `<div class="pr-tafsir pr-passage">
+        <span class="pr-tafsir-label">Passage Tafsir <span class="pr-passage-range">${esc2(label)}</span></span>
+        ${p.title ? `<div class="pr-passage-title">${esc2(p.title)}</div>` : ""}
+        <div class="pr-passage-scope">${esc2(scope)}</div>
+        ${mdRender(p.tafsir)}
+      </div>`;
+  }
+  function tafsirBlocksHtml(ay, opt, surahId) {
     let h = "";
-    if (opt.incAiTafsir && ay.ai_tafsir) h += `<div class="pr-tafsir"><span class="pr-tafsir-label">AI Tafsir</span>${mdRender(ay.ai_tafsir)}</div>`;
+    if (opt.incPassageTafsir && surahId) h += passageTafsirPrintHtml(surahId, ay.ayah);
     if (opt.incIbnKathir && ay.tafsir_ibn_kathir) h += `<div class="pr-tafsir"><span class="pr-tafsir-label">Ibn Kathīr</span>${mdRender(ay.tafsir_ibn_kathir)}</div>`;
     if (opt.incMaarif && ay.maarif_ul_quran) h += `<div class="pr-tafsir"><span class="pr-tafsir-label">Maʿārif ul Qurʼān</span>${mdRender(ay.maarif_ul_quran)}</div>`;
     return h;
@@ -138,7 +154,7 @@
       const tl = opt.translit ? `<div class="pr-tl" dir="ltr">${esc2(translitOf(ay))}</div>` : "";
       const tr = opt.translation ? `<div class="pr-tr">${esc2(translationOf(ay, trSrc(opt)))}</div>` : "";
       const tad = ay._tadabbur ? tadabburHtml(ay._tadabbur) : "";
-      const taf = tafsirBlocksHtml(ay0, opt);
+      const taf = tafsirBlocksHtml(ay0, opt, group.surah);
       h += ROW(`<div class="pr-ayah">${ar}${tl}${tr}${tad}${taf}</div>`);
     }
     return h;
@@ -181,7 +197,7 @@
       const fullText = opt.translation ? translationOf(ay, trSrc(opt)) : "";
       const full = fullText ? `<div class="pr-wbw-full${useAi ? " pr-ai" : ""}">${useAi ? '<span class="pr-ai-tag">AI</span> ' : ""}${esc2(fullText)}</div>` : "";
       const tad = ay._tadabbur ? tadabburHtml(ay._tadabbur) : "";
-      const taf = tafsirBlocksHtml(ay0, opt);
+      const taf = tafsirBlocksHtml(ay0, opt, group.surah);
       h += ROW(`<div class="pr-wbw-ayah"><div class="pr-wbw-num">${rosette(num)}</div><div class="pr-wbw-grid" dir="rtl">${cells}</div>${full}${tad}${taf}</div>`);
     }
     return h;
@@ -212,8 +228,17 @@
       const refl = group.ayahs.map((num) => { const a0 = byNum[num]; if (!a0) return ""; const ay = effAyah(a0, group.surah, opt); return ay._tadabbur ? `<div class="pr-tadabbur"><span class="pr-tad-label">Tadabbur ${num}</span>${esc2(ay._tadabbur)}</div>` : ""; }).filter(Boolean).join("");
       if (refl) h += ROW(`<div class="pr-book-reflections">${refl}</div>`);
     }
-    if (opt.incAiTafsir || opt.incIbnKathir || opt.incMaarif) {
-      const taf = group.ayahs.map((num) => { const a0 = byNum[num]; if (!a0) return ""; const t = tafsirBlocksHtml(a0, opt); return t ? `<div class="pr-tafsir-ayah"><span class="pr-tafsir-num">${num}</span>${t}</div>` : ""; }).filter(Boolean).join("");
+    if (opt.incPassageTafsir || opt.incIbnKathir || opt.incMaarif) {
+      const taf = group.ayahs.map((num) => {
+        const a0 = byNum[num]; if (!a0) return "";
+        const t = tafsirBlocksHtml(a0, opt, group.surah);
+        if (!t) return "";
+        // Passage blocks already carry their own range label; a per-ayah number
+        // above them would contradict it.
+        const isPassageOnly = !opt.incIbnKathir && !opt.incMaarif;
+        return isPassageOnly ? t
+          : `<div class="pr-tafsir-ayah"><span class="pr-tafsir-num">${num}</span>${t}</div>`;
+      }).filter(Boolean).join("");
       if (taf) h += ROW(`<div class="pr-block pr-tafsir-section">${taf}</div>`);
     }
     return h;
@@ -248,6 +273,12 @@
     const bism = await getBismillah();
     const groups = groupBySurah(refs);
     const metaById = Object.fromEntries(index.surahs.map((s) => [s.id, s]));
+
+    // Passage tafsir is read synchronously while building the HTML, so every
+    // surah in this selection must be in the cache before we start.
+    if (opt.incPassageTafsir && window.loadPassageTafsir) {
+      await Promise.all([...new Set(groups.map((g) => g.surah))].map((n) => window.loadPassageTafsir(n)));
+    }
 
     // page/juz per ayah + cover span
     const pageOf = {}, juzOf = {};
@@ -311,11 +342,11 @@
       incMyTranslation: !!$("pr-my-trans")?.checked,
       incMyWords: !!$("pr-my-words")?.checked,
       incTadabbur: !!$("pr-my-tadabbur")?.checked,
-      incAiTafsir: !!$("pr-ai-tafsir")?.checked,
+      incPassageTafsir: !!$("pr-passage-tafsir")?.checked,
       incIbnKathir: !!$("pr-ibn-kathir")?.checked,
       incMaarif: !!$("pr-maarif")?.checked,
     };
-    const anyContent = opt.arabic || opt.translit || opt.translation || opt.incAiTafsir || opt.incIbnKathir || opt.incMaarif || opt.incTadabbur;
+    const anyContent = opt.arabic || opt.translit || opt.translation || opt.incPassageTafsir || opt.incIbnKathir || opt.incMaarif || opt.incTadabbur;
     if (!anyContent) opt.arabic = true;
     if (opt.layout === "wbw") opt.arabic = true; // word-by-word always shows Arabic
     if (opt.pageTo < opt.pageFrom) opt.pageTo = opt.pageFrom;
@@ -340,8 +371,8 @@
     const layout = o ? o.layout : (document.querySelector('input[name="pr-layout"]:checked')?.value || "ayah");
     const arabic = o ? o.arabic : !!$("pr-arabic")?.checked;
     const translation = o ? o.translation : !!$("pr-translation")?.checked;
-    const tafsir = o ? (o.incAiTafsir || o.incIbnKathir || o.incMaarif)
-      : ($("pr-ai-tafsir")?.checked || $("pr-ibn-kathir")?.checked || $("pr-maarif")?.checked);
+    const tafsir = o ? (o.incPassageTafsir || o.incIbnKathir || o.incMaarif)
+      : ($("pr-passage-tafsir")?.checked || $("pr-ibn-kathir")?.checked || $("pr-maarif")?.checked);
     return arabic && translation && layout === "ayah" && !tafsir;
   }
 
@@ -375,7 +406,7 @@
       arabic = !!c.arabic; translit = !!c.translit;
       translation = !!(c.translation || c.aiTranslation);
       aiTrans = !!c.aiTranslation && !c.translation;
-      setChk("pr-ai-tafsir", !!c.aiTafsir); setChk("pr-ibn-kathir", !!c.ibnKathir); setChk("pr-maarif", !!c.maarif);
+      setChk("pr-passage-tafsir", !!c.passageTafsir); setChk("pr-ibn-kathir", !!c.ibnKathir); setChk("pr-maarif", !!c.maarif);
     } else {
       arabic = true; translit = !!p.showTransliteration;
       translation = p.readMode !== "arabic"; aiTrans = p.readMode === "ai";
