@@ -4,7 +4,7 @@
 > context loss. **Update this file whenever a task's state changes.** Keep
 > HANDOVER.md for session-specific handoffs; this file is the standing roadmap.
 
-Last updated: 2026-07-31
+Last updated: 2026-08-02
 
 ## The site
 
@@ -27,33 +27,52 @@ own awaited pull → `render()` again, then `boot()`'s explicit `render()`.
 concurrent pulls coalesce to one in-flight promise; `onMerged` gets a
 `changed` flag and skips re-render on no-op pulls; post-render sync failure
 logs instead of nuking the app. reader.js v62, firebase-sync.js v29,
-SW `2026-07-31a`. **Verify on live after deploy.**
+SW `2026-07-31a`. **Verified live** (build `9706fdc3` serving).
 
-### 2. AI word-by-word — 101/114 done, 13 remaining — IN PROGRESS (this session)
-Missing surahs: **22, 23, 24, 29, 42, 47, 60, 70, 71, 72, 75, 76, 77**.
+### 2. AI word-by-word — **COMPLETE: 114/114 surahs, all validate clean** (2026-08-02)
+The 13 missing surahs (22, 23, 24, 29, 42, 47, 60, 70, 71, 72, 75, 76, 77) are
+done. While finishing them, a full-corpus audit found and fixed **more than the
+original gap**:
+- **388 raw stub positions** in surahs 25, 64, 65, 66 — files were marked
+  complete but held unanalysed `{ar,tr,gloss}` stubs, which had also poisoned the
+  rebuilt form cache (312 corrupt entries, purged).
+- **425 entirely missing positions** in surahs 33 (323) and 35 (102) — absent
+  entries, invisible to a stub scan; only the full `validate_wbw.py` sweep
+  caught them.
+**Verification gate that should be re-run after any WBW change:** loop
+`validate_wbw.py` over all 114 surahs — currently *all 114 pass*. A per-file
+stub scan is NOT sufficient (it misses absent positions).
 Process = `scripts/WBW_RUNBOOK.md` (global form cache; extract → Workflow
 `scripts/workflows/ai_wbw_pipeline.js` → assemble → apply → validate → build →
 commit). Cache `scripts/_forms/_wbw_cache.json` is git-ignored — rebuild first in
-any new session: `python scripts/rebuild_wbw_cache.py`.
-The pipeline now writes crash-safe `part_NNN.json` files into the surah dir;
-pass `--analyses scripts/_forms/surah_N/part_*.json` to assemble_wbw.py.
+any new session: `python scripts/rebuild_wbw_cache.py` (now 18,642 forms).
+The pipeline writes crash-safe `part_NNN.json` files into the surah dir; pass
+`--analyses scripts/_forms/surah_N/part_*.json` to assemble_wbw.py. **After any
+gap re-run, re-run `extract_forms.py` before assembling** — see the runbook's
+"Gap re-runs" section (a stale `asm.json` snapshot silently drops analyses).
 
-### 3. Hadith links for 8 surahs — PENDING
-Surahs **71, 72, 79, 94, 100, 103, 104, 106** have zero entries in
-`docs/data/hadith_map.json`. Do a deliberate pass: extract authentic narrations
-from real sources only (each ayah's own Ibn Kathir/Maarif text in `Quran-obs`,
-or sunnah.com with exact reference). If genuinely none exist for a surah, record
-that here as a deliberate conclusion, not an omission.
-Related scripts: `scripts/generate_asbab.py`, `scripts/add_isnad.py` (see how
-hadith_index/hadith_map entries are shaped before adding).
+### 3. Hadith links for 8 surahs — DONE (deliberate conclusion, 2026-07-31)
+Surahs **71, 72, 79, 94, 100, 103, 104, 106**: a strict re-extraction pass
+(8 parallel agents, full raw Ibn Kathir English text per surah, marfu'-only +
+named-collection-required rules) found **zero qualifying hadith in all 8** —
+this is a verified conclusion, not an omission. The abridged Ibn Kathir either
+quotes marfu' fragments with NO named collection (94: two prayer hadith marked
+only "agreed-upon"; 71: family-ties/lifespan; 72 & 79: the Jibril "questioned
+knows no more" fragment "recorded in the Sahih" without saying which; 100: the
+dawn-raid practice) or contains only mawquf/Tabi'i/scholar material (103, 104,
+106; 71's Bukhari idol report is Ibn Abbas's own statement). Old unsourced
+entries in `scripts/_context_out/` for 71/72/79/94 were overwritten with honest
+empties. `docs/data/*` unchanged — nothing qualified.
+**Optional future follow-up (user to decide):** those known marfu' fragments do
+exist in real collections; a sunnah.com extraction pass with exact references
+could add them legitimately (extract-from-real-source, never from memory).
 
-### 4. Repo hygiene — PENDING
-Working tree has WIP: modified `scripts/workflows/ai_wbw_pipeline.js` (KEEPER —
-crash-safe part-file writing, used for the July batches; commit it), untracked
-helper scripts (`_check_*.py`, `_fix_*.py`, `_inspect_*.py`, `_validate_data.py`,
-`wbw_all_surahs.js`, `generate_asbab_log.txt`, `_canon_qpc.json`, `HANDOVER.md`,
-this file). Commit the useful ones; gitignore caches/logs (`_canon_qpc.json`,
-`generate_asbab_log.txt`, `scripts/_forms/`).
+### 4. Repo hygiene — DONE (2026-07-31)
+`ai_wbw_pipeline.js` (crash-safe part files), `wbw_all_surahs.js`,
+`_validate_data.py`, this doc and `.claude/launch.json` are committed;
+one-off scratch helpers (`_check_*`, `_fix_*`, `_inspect_*`), regenerable
+caches (`_canon_qpc.json`) and run logs (`generate_asbab_log.txt`) are
+gitignored.
 
 ### 5. AI TAFSIR FULL REDO — NEXT MAJOR PROJECT (user request 2026-07-31)
 User wants the layered AI tafsir redone **all together** (not the slow scheduled
