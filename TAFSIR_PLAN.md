@@ -1,10 +1,9 @@
-# AI Tafsir redo — passage-based design (DRAFT for discussion)
+# AI Tafsir redo — passage-based design (DECIDED, in progress)
 
-> **Status: DRAFT — do NOT start generation.** The user wants to plan this in
-> detail together first (their words, 2026-07-31). This doc captures the
-> requirements, a proposed design, and the open questions to settle with the
-> user. Any session picking this up: read this + `PROJECT_STATUS.md`, then
-> discuss with the user before executing anything.
+> **Status: AGREED AND BUILDING.** All five open questions were answered by the
+> user on 2026-08-02 (recorded below). The pipeline is built and surah 1 is
+> published. To continue, use the **`resume-ai-tafsir` skill** — it holds the
+> operational loop. This doc holds the *design and rationale*.
 
 ## What the user asked for (2026-07-31, verbatim intent)
 
@@ -38,31 +37,54 @@
 
 ## Proposed design (to review with the user)
 
-### Passage segmentation
-Candidate strategies — **pick one with the user**:
-- **A. Ibn Kathir's own blocks.** The source tafsir already groups ayahs
-  (e.g. surah 79 = blocks 1–14, 15–26, 27–33, 34–46). Pros: segmentation is
-  itself source-grounded, aligns perfectly with the grounding text; zero
-  invented structure. Cons: blocks are sometimes long.
-- **B. Classical rukūʿ divisions** (~556 sections). Pros: traditional,
-  well-defined. Cons: not aligned with either source's commentary blocks.
-- **C. AI-proposed thematic segmentation** with per-surah review. Pros: can
-  be finer-grained. Cons: invented structure; more to verify.
-- Recommendation: **A**, split overly long blocks at natural sub-themes when
-  needed (splits noted in the passage title).
+### Passage segmentation — DECIDED: AI thematic
 
-### Data model
-- New static file per surah: `docs/data/ai_tafsir/surah_N.json`:
-  `{ "passages": [ { "start": 1, "end": 5, "title": "<short passage theme>",
-  "tafsir": "<markdown>" }, ... ] }` (every ayah covered by exactly one passage).
-- Reader: ayah → passage lookup; the AI Tafsir block header shows e.g.
-  **"This tafsir covers 2:1–5 · <theme>"**; same content shown from any ayah
-  in the range. (Small `reader.js` change + CSS; keep old per-ayah field as
-  fallback until cutover, then remove.)
-- Source of truth: passage files are generated FROM the md sources; whether
-  the passage text is also mirrored into the md files is an open question
-  (leaning: no — passages span ayahs, md files are per-ayah; keep passage
-  tafsir as its own static data like `ai_wbw`).
+**The user chose AI thematic, and measurement confirmed it was right.** My
+initial recommendation (use Ibn Kathir's own commentary blocks) was wrong, and
+the data killed it. Counting distinct Ibn Kathir blocks per surah in the md
+sources:
+
+| Surah | Ayat | Distinct Ibn Kathir blocks |
+|---|---|---|
+| 94 | 8 | **1** (whole surah) |
+| 100 | 11 | **1** |
+| 112 | 4 | **1** |
+| 55 | 78 | 8 |
+| 67 | 30 | 6 |
+| 36 | 83 | 21 |
+| 18 | 110 | 43 |
+| **2** | **286** | **173** (≈1.65 ayat each — nearly per-ayah) |
+
+So the abridgement is not a segmenter at all: it lumps short surahs into a
+single block while splitting al-Baqarah almost per-ayah — reintroducing exactly
+the per-ayah repetition this redo exists to remove. Rukūʿ divisions were
+rejected for the same reason in reverse: they ignore where the commentary
+actually breaks.
+
+**Mitigating the "invented structure" risk** (the one real cost of AI thematic):
+1. Segmentation is proposed by one agent, then **adversarially reviewed** by a
+   second that attacks coverage, split narratives, incoherent bundles, size, and
+   vague titles, and returns a corrected list.
+2. `tafsir_passages.py bundles` is a **hard deterministic gate**: it refuses to
+   proceed unless every ayah is covered exactly once, ascending, no gaps or
+   overlaps.
+3. `passages.json` is a small human-readable artifact — editable by hand before
+   any drafting cost is incurred.
+
+### Data model — BUILT
+- `docs/data/passage_tafsir/surah_N.json`:
+  `{ "surah": N, "format": "passage-v2", "passages": [ { "start", "end",
+  "title", "tafsir" } ] }` — every ayah covered by exactly one passage.
+- Static data like `ai_wbw`, **not** mirrored back into the md files (passages
+  span ayahs; md files are per-ayah) and therefore not rebuilt by `build_site.py`.
+- Reader: ayah → passage lookup, then a range badge plus a scope line —
+  *"This tafsir covers ayat 1:1–4 — read as one passage"*. Rendered **once per
+  passage, on its first ayah** in the inline and book views, so it never repeats
+  under every ayah of the range. In the study panel (opened from one specific
+  ayah) it shows wherever in the range you are, with the range stated, so it can
+  never be mistaken for single-ayah commentary.
+- Anyone who had the old per-ayah "AI Tafsir" toggle on is migrated to
+  "Passage Tafsir" on first load, so commentary does not silently disappear.
 
 ### Content shape (flexible, not a rigid template)
 Always: 1–2 sentence **essence** of the passage + **why these ayahs belong
@@ -96,12 +118,35 @@ Length: whatever genuine helpfulness requires; runaway guard ~4500 chars/passage
 per passage worst-case this is a multi-session effort; the per-surah loop is
 resumable at any point.
 
-## Open questions for the user
+## Decisions (user, 2026-08-02)
 
-1. Segmentation source: Ibn Kathir blocks (recommended) / rukūʿ / AI thematic?
-2. Discard the existing per-ayah AI tafsir (1:1–3:132) once passages cover
-   those surahs, or keep both visible during transition?
-3. Should passage tafsir also appear in the printed/book view the way per-ayah
-   tafsir does now?
-4. Reading level/tone: keep the current reverent plain-English register?
-5. Any surahs to prioritize first (e.g. ones the user is currently studying)?
+1. **Segmentation: AI thematic.** Confirmed by the block-count measurement above.
+2. **Discard all of the old AI tafsir** — not kept side by side. The `## AI
+   Tafsir` section was stripped from all 6,236 ayah files and the 114
+   `docs/data/ai_tafsir` sidecars deleted (commit `e850982b`; recoverable from
+   git history). Passage tafsir is a genuinely new section, not a patch of the old.
+3. **Yes, it appears in the book and print/PDF views**, once per passage with its
+   range label. Print checkbox is now "Passage Tafsir" (`pr-passage-tafsir`).
+4. **Tone: keep the reverent plain-English register.**
+5. **Priority: most-recited / memorized first** —
+   `1 → 36 → 55 → 67 → 18 → 112, 113, 114 → 78–114 → 2 → 3 → rest`.
+   Mirrored in `scripts/tafsir_progress.json` (`priority_order`).
+
+## Status
+
+- **Surah 1 done and live** — 2 passages (1–4, 5–7), validated, deployed.
+  Split on the qudsi division of al-Fatiha, which the segmenter found unaided.
+- Everything else pending. Continue with the **`resume-ai-tafsir` skill**.
+
+### What the first run taught us
+
+- **The adversarial fact-check earns its keep.** On surah 1 it caught the draft
+  presenting two different narrations as one seamless quotation attributed to
+  Muslim. Neither passage passed clean on the first attempt.
+- **Length must follow the passage.** al-Fatiha 1–4 came in at ~13.5k chars and
+  is not padded. The guard is 18k (runaway protection); `validate` prints the
+  length spread so depth stays visible rather than silently capped.
+- **Watch bundle size.** `bundles` prints each passage's source bundle size;
+  al-Fatiha 5–7 was 230 KB because its Maʿārif commentary is unusually long.
+  Above roughly 150 KB, split the passage — the drafting agent reads the whole
+  bundle.

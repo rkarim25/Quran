@@ -1,7 +1,18 @@
 {
   "format": "passage-v2",
-  "completed_surahs": [],
-  "priority_order": [1, 36, 55, 67, 18, 112, 113, 114],
+  "completed_surahs": [
+    1
+  ],
+  "priority_order": [
+    1,
+    36,
+    55,
+    67,
+    18,
+    112,
+    113,
+    114
+  ],
   "priority_note": "Most-recited / memorized first (user's choice 2026-08-02), then the rest of Juz Amma (78-114), then 2, 3, and onwards.",
   "note": "Surahs whose passage tafsir is generated, validated (tafsir_passages.py validate exits 0) and published. See .claude/skills/resume-ai-tafsir and TAFSIR_PLAN.md.",
   "superseded": {

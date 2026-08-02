@@ -4,7 +4,7 @@
 > context loss. **Update this file whenever a task's state changes.** Keep
 > HANDOVER.md for session-specific handoffs; this file is the standing roadmap.
 
-Last updated: 2026-08-02
+Last updated: 2026-08-02 (passage tafsir shipped; surah 1 live)
 
 ## The site
 
@@ -74,7 +74,22 @@ one-off scratch helpers (`_check_*`, `_fix_*`, `_inspect_*`), regenerable
 caches (`_canon_qpc.json`) and run logs (`generate_asbab_log.txt`) are
 gitignored.
 
-### 5. AI TAFSIR FULL REDO — NEXT MAJOR PROJECT (user request 2026-07-31)
+### 5. AI TAFSIR REDO — DESIGN AGREED, PIPELINE BUILT, SURAH 1 LIVE
+**Continue with the `resume-ai-tafsir` skill** (`.claude/skills/`), which holds
+the operational loop. Design + rationale: `TAFSIR_PLAN.md`.
+- All five design questions answered by the user 2026-08-02. Segmentation is
+  **AI thematic** (Ibn Kathir's own blocks measured out as unusable: 1 block for
+  all of surah 94/100/112 but 173 across surah 2's 286 ayat).
+- Old per-ayah AI Tafsir **discarded entirely** — stripped from all 6,236 md
+  files, sidecars deleted (commit `e850982b`, recoverable from git history).
+- New section: `docs/data/passage_tafsir/surah_N.json`, shown with a range badge
+  and scope line in the study drawer, inline, book and print views.
+- **Surah 1 published and validated.** Priority order for the rest:
+  `36 → 55 → 67 → 18 → 112,113,114 → 78–114 → 2 → 3 → rest`.
+- Verification gate: `python scripts/tafsir_passages.py validate --surah N`
+  must exit 0 (coverage + hadith grounding + creed/style checks).
+
+<details><summary>Original request (2026-07-31) — kept for context</summary>
 User wants the layered AI tafsir redone **all together** (not the slow scheduled
 trickle). Current state: layered-v1 format complete only through **surah 3:132**
 (`scripts/tafsir_progress.json`); the rest is older/absent.
@@ -96,9 +111,7 @@ Apply: `scripts/apply_layered_tafsir.py` · validate: `scripts/validate_ai_tafsi
   Depth follows what the passage needs, not a fixed template.
 - Existing hard rules still apply (grounding, no invented hadith, creed —
   see `scripts/LAYERED_TAFSIR_RUNBOOK.md`).
-**Plan doc to create: `TAFSIR_PLAN.md`** — passage segmentation strategy, data
-model (range-keyed, ayah→range lookup), UI change, batching, verification,
-progress tracking. DO NOT start generation before the plan is agreed with the user.
+</details>
 
 ## Done (verified live) — for context
 
