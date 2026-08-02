@@ -9,7 +9,7 @@
      sign-in, cross-device sync, and the auto-update check still need (and use)
      the live network.
    Bump VERSION on any change here to roll caches over. */
-const VERSION = "2026-08-02b";
+const VERSION = "2026-08-02c";
 const CORE = `quran-core-${VERSION}`;
 const RUNTIME = `quran-runtime-${VERSION}`;
 
