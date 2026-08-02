@@ -26,12 +26,81 @@ These are not style preferences — breaking them corrupts the product.
    settling them.
 4. **"Allah"**, never a standalone "God"; honorific after the Prophet ﷺ.
 
+## STEP ONE, ALWAYS: ask the repo where it left off
+
+```bash
+python scripts/tafsir_passages.py status
+```
+
+This derives state from what is actually on disk — segmentation present, which
+passages are drafted, which are published — so it cannot go stale. It prints the
+**exact next command**, including ready-to-paste workflow args. Run it before
+anything else, in every session. If the user names a surah, use
+`status --surah N`.
+
+**If `status` prints `*** PAUSED ***`, stop.** Report the pause and its reason
+and do nothing further — unless the user's current message is itself asking to
+resume, in which case clear it first:
+
+```bash
+python scripts/tafsir_passages.py resume
+```
+
+## Keep going — this is a loop, not one surah
+
+Unless the user asked for a single surah, **work surah after surah in priority
+order**, and between surahs:
+
+1. Commit and push the finished surah.
+2. Re-run `status`.
+3. **Stop if it says PAUSED.** Otherwise start the next surah.
+
+Keep looping until the priority list is exhausted, the user pauses, or you run
+out of session/usage budget. Do not stop after one surah and ask whether to
+continue — carrying on *is* the instruction. Report progress as you go.
+
+### Pausing
+
+The user may say "pause ai tafsir" at any time:
+
+```bash
+python scripts/tafsir_passages.py pause --reason "<what they said>"
+```
+
+Then finish only what is safely finishable — run `apply` for the surah in flight
+so drafted passages are published, commit, and stop. The flag lives in the
+committed `scripts/tafsir_progress.json`, so it holds across sessions and
+machines: a future session running `status` will see PAUSED and not restart on
+its own. Commit it.
+
+### Resuming after a session limit
+
+This is the expected case, not an exception. Nothing is lost:
+
+- Drafting writes `draft_<a>_<b>.json` the **moment each passage finishes**, so
+  every completed passage survives.
+- `apply` is safe to run with only some passages drafted. It publishes what
+  exists and records the gap in `scripts/tafsir_progress.json` under
+  `in_progress.<surah>.missing_ranges` — and that file **is committed**, so the
+  footprint survives even a fresh clone.
+- So when a run dies: run `apply`, **commit** (partial tafsir is still real
+  tafsir), and stop. `status` in the next session names the missing ranges and
+  the command to finish them.
+- `completed_surahs` only gains a surah once every passage is published, so a
+  half-done surah can never be mistaken for finished.
+
+**While working a long surah, run `apply` + commit after each drafting slice**
+rather than only at the end. That converts working state into committed state as
+you go.
+
 ## Where things stand
 
-- Progress marker: `scripts/tafsir_progress.json` (`format: passage-v2`,
-  `completed_surahs: [...]`). **That list is the source of truth for what is done.**
+- Progress: `scripts/tafsir_progress.json` — `completed_surahs` (fully done) and
+  `in_progress` (interrupted, with missing ranges).
 - Published data: `docs/data/passage_tafsir/surah_N.json`.
-- Working files (git-ignored): `scripts/_tafsir/surah_N/`.
+- Working files (git-ignored, survive across sessions on this machine):
+  `scripts/_tafsir/surah_N/`. **Do not delete mid-run** — drafts there are the
+  only copy of finished passages until `apply` runs.
 
 ### Surah priority order (user's choice, 2026-08-02: most-recited / memorized)
 
@@ -39,8 +108,7 @@ These are not style preferences — breaking them corrupts the product.
 1 → 36 → 55 → 67 → 18 → 112, 113, 114 → 78–114 (Juz Amma) → 2 → 3 → then the rest
 ```
 
-Pick the first surah in that order not already in `completed_surahs`, unless the
-user names one.
+`status` already applies this. Override only if the user names a surah.
 
 ## The loop (per surah N)
 
@@ -69,9 +137,11 @@ has to read the whole bundle. Edit `passages.json` by hand and re-run.
 `scriptPath: scripts/workflows/tafsir_draft.js`
 `args: {"surah": N, "dir": "<abs path>", "passages": <the passages array>}`
 For a surah with many passages, run in slices with `"start_index"` and
-`"count"` (~12 passages per run) so a usage limit costs less. Each passage is
-written to `draft_<a>_<b>.json` the moment it finishes, so completed work always
-survives. Re-running only the missing ranges is safe.
+`"count"` (~12 passages per run) so a usage limit costs less, and run
+`apply` + commit between slices. Each passage is written to
+`draft_<a>_<b>.json` the moment it finishes, so completed work always survives;
+re-running only the missing ranges is safe. To finish an interrupted surah, pass
+just the missing ranges (from `status`) in `passages`.
 
 ```bash
 python scripts/tafsir_passages.py apply --surah N

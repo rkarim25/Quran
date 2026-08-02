@@ -10,14 +10,18 @@ task — the 3× blink on refresh — is now diagnosed, fixed, and verified live
 
 ## Next session starts here
 
-**Generate passage tafsir for the next surah.** Invoke the
-**`resume-ai-tafsir`** skill — it holds the whole loop (outline → segment →
-bundles → draft → apply → validate → build → push) and the surah priority order.
+**Generate passage tafsir for the next surah.** Say "resume tafsir" (or invoke
+the **`resume-ai-tafsir`** skill — it is installed at USER level, so it works
+from any directory and any chat).
 
-Next up: **surah 36 (Yasin)**, then `55 → 67 → 18 → 112,113,114 → 78–114 →
-2 → 3 → rest`. `scripts/tafsir_progress.json` `completed_surahs` is the source
-of truth for what is done (currently `[1]` once you record it — surah 1 is
-published; add it to that list if it is still empty).
+First command, always:
+
+```bash
+python scripts/tafsir_passages.py status
+```
+
+It derives state from disk and prints the exact next command. Next up:
+**surah 36 (Yasin)**, then `55 → 67 → 18 → 112,113,114 → 78–114 → 2 → 3 → rest`.
 
 Design and rationale, if you need the "why": `TAFSIR_PLAN.md`.
 
@@ -28,6 +32,19 @@ Design and rationale, if you need the "why": `TAFSIR_PLAN.md`.
 - Passage tafsir: pipeline built, **surah 1 live and validated**. Old per-ayah
   AI Tafsir discarded on the user's instruction (recoverable from git history).
 - Blink fix, hadith coverage pass, repo hygiene: done — see PROJECT_STATUS.md.
+
+It then works **surah after surah** in priority order, committing between each,
+until paused or out of budget.
+
+**If a session limit hits mid-run, nothing is lost.** Finished passages are
+written to disk as they complete. Run `apply` and commit the partial result;
+`scripts/tafsir_progress.json` then records `in_progress.<surah>.missing_ranges`,
+and `status` next session names exactly what remains.
+
+**To stop it:** say "pause ai tafsir" (or run
+`python scripts/tafsir_passages.py pause`). The flag lives in the committed
+progress file, so any later session sees PAUSED via `status` and will not restart
+on its own. "resume tafsir" clears it and carries on.
 
 ## Two traps worth knowing
 

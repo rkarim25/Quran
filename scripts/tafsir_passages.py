@@ -15,12 +15,23 @@ sections. Hadith may only be cited if present in that text, with the
 collection named as the source names it. Never invent isnad or grading.
 
 Subcommands
+  status  [--surah N]  -> what is done / what is left / the exact next command
+  pause   [--reason R] -> set the pause flag; the loop stops at the next surah
+  resume               -> clear the pause flag
   outline  --surah N   -> _tafsir/surah_N/outline.json     (for segmentation)
   bundles  --surah N   -> _tafsir/surah_N/src_<a>_<b>.md   (for drafting)
   apply    --surah N   -> docs/data/passage_tafsir/surah_N.json
   validate --surah N   -> exit 0 iff coverage + grounding checks pass
 
 Working files live in scripts/_tafsir/ (git-ignored, derived).
+
+RESUMING AFTER A SESSION LIMIT
+`status` derives everything from what is actually on disk, so it cannot go
+stale — run it first in any new session. Drafting persists each passage the
+moment it is finished, and `apply` is safe to run with only some passages
+drafted: it publishes what exists and records the missing ranges in
+scripts/tafsir_progress.json (which IS committed), so the footprint survives
+even a fresh clone. Re-run drafting for just the missing ranges.
 """
 from __future__ import annotations
 
@@ -217,6 +228,50 @@ def cmd_bundles(n: int) -> int:
 
 # ------------------------------------------------------------------ apply
 
+def load_progress() -> dict:
+    if PROGRESS.exists():
+        return json.loads(PROGRESS.read_text(encoding="utf-8"))
+    return {"format": "passage-v2", "completed_surahs": []}
+
+
+def save_progress(prog: dict) -> None:
+    PROGRESS.write_text(json.dumps(prog, ensure_ascii=False, indent=2) + "\n",
+                        encoding="utf-8")
+
+
+def record_progress(n: int, total: int, applied: int, missing: list[str]) -> None:
+    """Write the resume footprint into the COMMITTED progress file.
+
+    scripts/_tafsir/ is git-ignored, so on a fresh clone the only durable record
+    of "surah N was half done, these ranges are missing" is this file. Written on
+    every apply, including partial ones, so a session limit mid-run still leaves
+    a complete picture of what is left.
+    """
+    prog = load_progress()
+    done = set(prog.get("completed_surahs") or [])
+    in_prog = {k: v for k, v in (prog.get("in_progress") or {}).items()}
+
+    if missing:
+        done.discard(n)
+        in_prog[str(n)] = {
+            "total_passages": total,
+            "applied": applied,
+            "missing_ranges": missing,
+            "next": (f"re-run the tafsir-draft workflow for surah {n} with only "
+                     f"these ranges in `passages`: {', '.join(missing)}"),
+        }
+    else:
+        done.add(n)
+        in_prog.pop(str(n), None)
+
+    prog["completed_surahs"] = sorted(done)
+    if in_prog:
+        prog["in_progress"] = in_prog
+    else:
+        prog.pop("in_progress", None)
+    save_progress(prog)
+
+
 def cmd_apply(n: int, drafts: list[str]) -> int:
     """Merge segmentation + drafted passage tafsir into the published sidecar."""
     rows = load_rows(n)
@@ -265,6 +320,10 @@ def cmd_apply(n: int, drafts: list[str]) -> int:
         encoding="utf-8",
     )
     print(f"surah {n}: applied {len(out_passages)}/{len(passages)} passage(s) -> {dest}")
+    record_progress(n, len(passages), len(out_passages), missing)
+    if missing:
+        print(f"  recorded resume footprint in {PROGRESS.name} "
+              f"(in_progress.{n}.missing_ranges) — commit it so the state survives")
     return 1 if missing else 0
 
 
@@ -337,16 +396,165 @@ def cmd_validate(n: int) -> int:
     return 1 if problems else 0
 
 
+# ----------------------------------------------------------- pause / resume
+
+def cmd_pause(reason: str) -> int:
+    """Set the pause flag. Checked between surahs, so work in flight finishes."""
+    prog = load_progress()
+    prog["paused"] = {"reason": reason or "paused by the user"}
+    save_progress(prog)
+    print("PAUSED — tafsir generation will stop at the next surah boundary.")
+    print(f"  reason: {prog['paused']['reason']}")
+    print("  resume with: python scripts/tafsir_passages.py resume")
+    print(f"  commit {PROGRESS.name} so the pause holds across sessions/machines.")
+    return 0
+
+
+def cmd_resume() -> int:
+    prog = load_progress()
+    was = prog.pop("paused", None)
+    save_progress(prog)
+    if was:
+        print(f"Resumed (was paused: {was.get('reason', '')}).")
+    else:
+        print("Not paused — nothing to clear.")
+    return 0
+
+
+def is_paused(prog: dict) -> dict | None:
+    p = prog.get("paused")
+    return p if isinstance(p, dict) else None
+
+
+# ---------------------------------------------------------------- status
+
+PRIORITY = [1, 36, 55, 67, 18, 112, 113, 114] + list(range(78, 112)) + [2, 3]
+
+
+def surah_state(n: int) -> dict:
+    """Everything about surah N's tafsir, derived from disk only."""
+    files = ayah_files(n)
+    wd = WORK / f"surah_{n}"
+    pj = wd / "passages.json"
+    segmented, planned = False, []
+    if pj.exists():
+        try:
+            data = json.loads(pj.read_text(encoding="utf-8"))
+            planned = sorted(data.get("passages", []), key=lambda p: int(p["start"]))
+            segmented = bool(planned)
+        except Exception:
+            pass
+    drafted = {(int(m.group(1)), int(m.group(2)))
+               for f in wd.glob("draft_*.json")
+               if (m := re.match(r"draft_(\d+)_(\d+)$", f.stem))}
+    published = 0
+    dest = OUT / f"surah_{n}.json"
+    if dest.exists():
+        try:
+            published = len(json.loads(dest.read_text(encoding="utf-8")).get("passages", []))
+        except Exception:
+            pass
+    missing = [f"{int(p['start'])}-{int(p['end'])}" for p in planned
+               if (int(p["start"]), int(p["end"])) not in drafted]
+    return {
+        "ayat": len(files),
+        "segmented": segmented,
+        "planned": len(planned),
+        "drafted": len(drafted),
+        "published": published,
+        "missing": missing,
+        "work_dir": str(wd),
+    }
+
+
+def next_command(n: int, st: dict) -> str:
+    wd = st["work_dir"].replace("\\", "/")
+    if not st["segmented"]:
+        return (f"python scripts/tafsir_passages.py outline --surah {n}\n"
+                f"    then Workflow scripts/workflows/tafsir_segment.js with args "
+                f'{{"surah": {n}, "dir": "{wd}", "ayah_count": {st["ayat"]}}}')
+    if st["missing"]:
+        return (f"python scripts/tafsir_passages.py bundles --surah {n}\n"
+                f"    then Workflow scripts/workflows/tafsir_draft.js for the "
+                f"{len(st['missing'])} missing range(s): {', '.join(st['missing'])}")
+    if st["published"] < st["planned"]:
+        return f"python scripts/tafsir_passages.py apply --surah {n}"
+    return (f"python scripts/tafsir_passages.py validate --surah {n}  (then "
+            f"build_site.py --surah {n}, bump versions, commit, push)")
+
+
+def cmd_status(only: int | None) -> int:
+    prog = load_progress()
+    done = set(prog.get("completed_surahs") or [])
+
+    paused = is_paused(prog)
+    if paused:
+        print("*** PAUSED ***")
+        print(f"  reason: {paused.get('reason', '')}")
+        print("  Do NOT start new tafsir work. Only the user saying resume should")
+        print("  clear this: python scripts/tafsir_passages.py resume")
+        print()
+
+    if only:
+        targets = [only]
+    else:
+        # Anything with work on disk or recorded as in progress, plus the next
+        # not-yet-started surah in priority order.
+        targets = sorted({int(p.name.split("_")[1]) for p in WORK.glob("surah_*")
+                          if p.is_dir()} | {int(k) for k in (prog.get("in_progress") or {})} | done)
+        nxt = next((s for s in PRIORITY if s not in done), None)
+        if nxt and nxt not in targets:
+            targets.append(nxt)
+
+    print(f"completed: {len(done)}/114 -> {sorted(done) if done else 'none'}")
+    incomplete = []
+    for n in targets:
+        st = surah_state(n)
+        if not st["ayat"]:
+            continue
+        flag = "DONE " if n in done and not st["missing"] else "TODO "
+        print(f"\n{flag}surah {n}: {st['ayat']} ayat | segmented={st['segmented']} "
+              f"planned={st['planned']} drafted={st['drafted']} published={st['published']}")
+        if st["missing"]:
+            print(f"      missing drafts: {', '.join(st['missing'])}")
+        if n not in done or st["missing"]:
+            incomplete.append(n)
+            print(f"      NEXT: {next_command(n, st)}")
+
+    if not incomplete:
+        nxt = next((s for s in PRIORITY if s not in done), None)
+        if nxt:
+            print(f"\nNothing half-finished. Next surah in priority order: {nxt}")
+            print(f"      NEXT: python scripts/tafsir_passages.py outline --surah {nxt}")
+        else:
+            print("\nPriority list exhausted — pick any remaining surah.")
+    if paused:
+        print("\n*** PAUSED — stop here. ***")
+    return 0
+
+
 # ------------------------------------------------------------------- main
 
 def main() -> int:
     ap = argparse.ArgumentParser(description=__doc__,
                                  formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("cmd", choices=("outline", "bundles", "apply", "validate"))
-    ap.add_argument("--surah", type=int, required=True)
+    ap.add_argument("cmd", choices=("status", "pause", "resume", "outline",
+                                    "bundles", "apply", "validate"))
+    ap.add_argument("--surah", type=int,
+                    help="required for every command except status/pause/resume")
+    ap.add_argument("--reason", default="", help="pause: why")
     ap.add_argument("--drafts", nargs="*", default=[],
                     help="apply: draft JSON globs (default: _tafsir/surah_N/draft_*.json)")
     args = ap.parse_args()
+
+    if args.cmd == "status":
+        return cmd_status(args.surah)
+    if args.cmd == "pause":
+        return cmd_pause(args.reason)
+    if args.cmd == "resume":
+        return cmd_resume()
+    if not args.surah:
+        ap.error(f"--surah is required for `{args.cmd}`")
 
     if args.cmd == "outline":
         return cmd_outline(args.surah)
