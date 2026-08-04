@@ -335,7 +335,7 @@ function route() {
   return { view: "surah", surah: +parts[0], ayah: +parts[1], study };
 }
 
-const DATA_VERSION = "55";
+const DATA_VERSION = "56";
 
 async function loadIndex() {
   if (!cache.index) cache.index = await (await fetch(`data/index.json?v=${DATA_VERSION}`)).json();
