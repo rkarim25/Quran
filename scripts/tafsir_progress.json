@@ -6,6 +6,7 @@
     3,
     4,
     5,
+    6,
     18,
     36,
     55,
@@ -65,27 +66,5 @@
     "last_surah": 3,
     "last_ayah": 132,
     "note": "The old per-ayah 5-layer AI Tafsir reached 3:132. Discarded on the user's instruction (2026-08-02) in favour of passage tafsir; recoverable from git history if ever needed."
-  },
-  "in_progress": {
-    "6": {
-      "total_passages": 37,
-      "applied": 24,
-      "missing_ranges": [
-        "114-117",
-        "118-121",
-        "122-127",
-        "128-132",
-        "133-135",
-        "136-140",
-        "141-144",
-        "145-147",
-        "148-150",
-        "151-153",
-        "154-157",
-        "158-160",
-        "161-165"
-      ],
-      "next": "re-run the tafsir-draft workflow for surah 6 with only these ranges in `passages`: 114-117, 118-121, 122-127, 128-132, 133-135, 136-140, 141-144, 145-147, 148-150, 151-153, 154-157, 158-160, 161-165"
-    }
   }
 }
