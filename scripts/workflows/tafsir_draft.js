@@ -67,7 +67,8 @@ const SHAPE = [
   `Skip any dimension the passage does not call for. A passage of legal rulings and a passage of oaths about the Last Day should read very differently.`,
   ``,
   `FORMAT: markdown. Use bold lead-ins or short "## " sub-headings to guide the eye — the reader is scrolling on a phone. Refer to specific ayat by number ("In ayah 5 …") so the reader can follow along, since this covers a RANGE.`,
-  `LENGTH: however long genuine helpfulness requires — do not pad, and do not truncate real scholarly depth to hit a target. A dense opening passage may run several thousand words; a short oath sequence may need far less. Hard ceiling 15000 characters.`,
+  `LENGTH: however long genuine helpfulness requires — do not pad, and do not truncate real scholarly depth to hit a target. A dense opening passage may run several thousand words; a short oath sequence may need far less.`,
+  `HARD CEILING: 17000 characters. This is enforced downstream — anything longer is rejected and has to be cut, which costs more depth than writing tightly would have. Before returning, count your draft; if it exceeds 17000, cut repetition and rhetorical build-up until it fits rather than handing over an over-long draft.`,
 ].join('\n')
 
 function draftPrompt(p) {
@@ -128,6 +129,27 @@ function finalizePrompt(p, draft, verdict) {
   ].join('\n')
 }
 
+// Drafting agents cannot count their own characters reliably and routinely
+// overshoot. JS can, so the ceiling is enforced here rather than by asking
+// nicely in the prompt. Deletion-only, so no ungrounded material can enter on
+// a pass that exists purely to shorten.
+const MAX_CHARS = 17400
+function condensePrompt(p, text) {
+  return [
+    `Tighten this tafsir for sūrah ${surah}, ayat ${p.start}–${p.end}. It is ${text.length} characters and must come in under ${MAX_CHARS}. This is a COMPRESSION pass, not a rewrite.`,
+    ``,
+    `1. You may ONLY delete text, plus the minimal joins needed to keep sentences grammatical. Do NOT add claims, examples, attributions, or hadith. Nothing may enter the text that is not already in it.`,
+    `2. NEVER drop or alter a hadith's collection name or an attribution to a named scholar (Ibn Kathir, Maʿārif ul Qurʼān, or a named early authority). If a hadith must go, drop it whole — never keep wording while losing its source, never keep a source while changing wording.`,
+    `3. Cut in this order: points made twice, throat-clearing and transitions, restatements of what the ayah already says, rhetorical build-up. Preserve substance, scholarly depth, warmth, and the sub-heading structure.`,
+    `4. Keep every ayah-number reference, the honorific ﷺ, and "Allah" — the word "God" must not appear standing alone.`,
+    ``,
+    `DRAFT:`,
+    text,
+    ``,
+    `Return { tafsir: "<shortened markdown>" }. Count before returning; if still over ${MAX_CHARS}, cut more.`,
+  ].join('\n')
+}
+
 phase('Draft')
 log(`Passage tafsir: surah ${surah}, ${passages.length} passage(s)${si ? ` (from index ${si})` : ''}`)
 
@@ -149,6 +171,13 @@ const results = await pipeline(
       const fin = await agent(finalizePrompt(p, b.draft, b.verdict), { label: `finalize ${p.start}-${p.end}`, phase: 'Finalize', schema: FINAL_SCHEMA })
       if (fin && fin.tafsir) text = fin.tafsir
     }
+    // Enforce the ceiling here, where the length is actually measurable. Retry
+    // once: a single condense pass sometimes still lands over.
+    for (let attempt = 0; attempt < 2 && text.length > MAX_CHARS; attempt++) {
+      const short = await agent(condensePrompt(p, text), { label: `condense ${p.start}-${p.end}`, phase: 'Finalize', schema: FINAL_SCHEMA })
+      if (!short || !short.tafsir) break
+      text = short.tafsir
+    }
     // Persist immediately, one file per passage: a session limit mid-run then
     // costs only the passages still in flight, never the finished ones.
     const payload = JSON.stringify({ start: p.start, end: p.end, title: p.title || '', tafsir: text })
@@ -156,19 +185,22 @@ const results = await pipeline(
       `Write this JSON to "${dir}/draft_${p.start}_${p.end}.json" using the Write tool. Reply ONLY the word "ok".\n${payload}`,
       { label: `save ${p.start}-${p.end}`, phase: 'Finalize' }
     )
-    return { start: p.start, end: p.end, chars: text.length, verified: !!clean }
+    return { start: p.start, end: p.end, chars: text.length, verified: !!clean, over: text.length > MAX_CHARS }
   },
 )
 
 const done = results.filter(Boolean)
 const failed = passages.filter((p) => !done.some((d) => d.start === p.start && d.end === p.end))
 log(`Drafted ${done.length}/${passages.length} passage(s)${failed.length ? `; MISSING: ${failed.map((p) => `${p.start}-${p.end}`).join(', ')}` : ''}`)
+const stillOver = done.filter((d) => d.over)
+if (stillOver.length) log(`STILL OVER ${MAX_CHARS} chars after condensing: ${stillOver.map((d) => `${d.start}-${d.end} (${d.chars})`).join(', ')}`)
 
 return {
   surah,
   requested: passages.length,
   written: done.length,
   clean_first_pass: done.filter((d) => d.verified).length,
+  still_over_length: stillOver.map((d) => ({ start: d.start, end: d.end, chars: d.chars })),
   missing: failed.map((p) => ({ start: p.start, end: p.end })),
   dir,
 }
