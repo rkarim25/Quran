@@ -73,20 +73,8 @@
   "in_progress": {
     "10": {
       "total_passages": 30,
-      "applied": 12,
+      "applied": 24,
       "missing_ranges": [
-        "41-44",
-        "45-47",
-        "48-53",
-        "54-56",
-        "57-60",
-        "61-64",
-        "65-67",
-        "68-70",
-        "71-74",
-        "75-82",
-        "83-86",
-        "87-89",
         "90-93",
         "94-97",
         "98-100",
@@ -94,7 +82,7 @@
         "104-107",
         "108-109"
       ],
-      "next": "re-run the tafsir-draft workflow for surah 10 with only these ranges in `passages`: 41-44, 45-47, 48-53, 54-56, 57-60, 61-64, 65-67, 68-70, 71-74, 75-82, 83-86, 87-89, 90-93, 94-97, 98-100, 101-103, 104-107, 108-109"
+      "next": "re-run the tafsir-draft workflow for surah 10 with only these ranges in `passages`: 90-93, 94-97, 98-100, 101-103, 104-107, 108-109"
     }
   }
 }
