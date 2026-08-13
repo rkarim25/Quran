@@ -181,11 +181,25 @@ const results = await pipeline(
     // Persist immediately, one file per passage: a session limit mid-run then
     // costs only the passages still in flight, never the finished ones.
     const payload = JSON.stringify({ start: p.start, end: p.end, title: p.title || '', tafsir: text })
-    await agent(
-      `Write this JSON to "${dir}/draft_${p.start}_${p.end}.json" using the Write tool. Reply ONLY the word "ok".\n${payload}`,
-      { label: `save ${p.start}-${p.end}`, phase: 'Finalize' }
-    )
-    return { start: p.start, end: p.end, chars: text.length, verified: !!clean, over: text.length > MAX_CHARS }
+    const file = `${dir}/draft_${p.start}_${p.end}.json`
+    // A save that silently no-ops loses the passage while the run still reports
+    // success, so the write is confirmed by reading the file back. Retry once.
+    let saved = false
+    for (let attempt = 0; attempt < 2 && !saved; attempt++) {
+      const reply = await agent(
+        [
+          `Write this JSON to "${file}" using the Write tool.`,
+          `Then read that same file back with the Read tool to confirm it exists and parses.`,
+          `Reply with ONLY the number of characters in the file's "tafsir" value — no words, no punctuation.`,
+          payload,
+        ].join('\n'),
+        { label: `save ${p.start}-${p.end}`, phase: 'Finalize' }
+      )
+      const n = parseInt(String(reply || '').replace(/[^0-9]/g, ''), 10)
+      saved = Number.isFinite(n) && Math.abs(n - text.length) <= 40
+    }
+    if (!saved) log(`SAVE UNCONFIRMED for ${p.start}-${p.end} — check the file exists before applying`)
+    return { start: p.start, end: p.end, chars: text.length, verified: !!clean, over: text.length > MAX_CHARS, saved }
   },
 )
 
@@ -194,6 +208,8 @@ const failed = passages.filter((p) => !done.some((d) => d.start === p.start && d
 log(`Drafted ${done.length}/${passages.length} passage(s)${failed.length ? `; MISSING: ${failed.map((p) => `${p.start}-${p.end}`).join(', ')}` : ''}`)
 const stillOver = done.filter((d) => d.over)
 if (stillOver.length) log(`STILL OVER ${MAX_CHARS} chars after condensing: ${stillOver.map((d) => `${d.start}-${d.end} (${d.chars})`).join(', ')}`)
+const unconfirmed = done.filter((d) => !d.saved)
+if (unconfirmed.length) log(`SAVE UNCONFIRMED: ${unconfirmed.map((d) => `${d.start}-${d.end}`).join(', ')} — verify on disk before applying`)
 
 return {
   surah,
@@ -201,6 +217,7 @@ return {
   written: done.length,
   clean_first_pass: done.filter((d) => d.verified).length,
   still_over_length: stillOver.map((d) => ({ start: d.start, end: d.end, chars: d.chars })),
+  save_unconfirmed: unconfirmed.map((d) => ({ start: d.start, end: d.end })),
   missing: failed.map((p) => ({ start: p.start, end: p.end })),
   dir,
 }
