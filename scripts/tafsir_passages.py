@@ -340,6 +340,25 @@ def normalise(s: str) -> str:
     return re.sub(r"[^a-z0-9]+", " ", s.lower()).strip()
 
 
+# Spellings the source texts actually use for a collection, beyond the name the
+# tafsir is likely to use. The Maarif ul Quran translation prints "al-Bukhri"
+# (missing the 'a') in a number of places; treating that as absent made the
+# grounding check reject citations that were in fact properly grounded, which is
+# the more dangerous failure — it pushes toward deleting true attributions.
+# Only add a variant here after confirming it in the source text itself.
+COLLECTION_ALIASES = {
+    "bukhari": ("bukhari", "bukhri", "bukhaari"),
+}
+
+
+def named_in_source(coll: str, src: str) -> bool:
+    key = normalise(coll)
+    for variant in COLLECTION_ALIASES.get(key, (key,)):
+        if variant in src:
+            return True
+    return False
+
+
 def cmd_validate(n: int) -> int:
     rows = load_rows(n)
     total = len(rows)
@@ -375,7 +394,7 @@ def cmd_validate(n: int) -> int:
             for v in by_ayah.get(a, {}).get("sections", {}).values()
         ))
         for coll in {m.group(0) for m in HADITH_CUE.finditer(text)}:
-            if normalise(coll) not in src:
+            if not named_in_source(coll, src):
                 problems.append(
                     f"{tag}: cites '{coll}' but that collection is not named in the "
                     f"ayahs' own source text"
