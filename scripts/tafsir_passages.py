@@ -385,8 +385,13 @@ def cmd_validate(n: int) -> int:
             continue
         if len(text) > MAX_TAFSIR_CHARS:
             problems.append(f"{tag}: {len(text)} chars exceeds guard {MAX_TAFSIR_CHARS}")
-        if not (p.get("title") or "").strip():
+        title = (p.get("title") or "").strip()
+        if not title:
             problems.append(f"{tag}: missing title")
+        # Titles are published alongside the tafsir, so they are held to the
+        # same language rule. Checking only the body let a title through.
+        if re.search(r"\bGod\b", title):
+            problems.append(f"{tag}: title uses standalone 'God' (must be 'Allah')")
         # Creed/style rules carried over from the layered runbook.
         if re.search(r"\bGod\b", text):
             problems.append(f"{tag}: uses standalone 'God' (must be 'Allah')")
