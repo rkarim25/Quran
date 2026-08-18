@@ -82,16 +82,8 @@
   "in_progress": {
     "20": {
       "total_passages": 27,
-      "applied": 12,
+      "applied": 20,
       "missing_ranges": [
-        "71-76",
-        "77-79",
-        "80-82",
-        "83-89",
-        "90-94",
-        "95-98",
-        "99-101",
-        "102-108",
         "109-112",
         "113-114",
         "115-119",
@@ -100,7 +92,7 @@
         "128-132",
         "133-135"
       ],
-      "next": "re-run the tafsir-draft workflow for surah 20 with only these ranges in `passages`: 71-76, 77-79, 80-82, 83-89, 90-94, 95-98, 99-101, 102-108, 109-112, 113-114, 115-119, 120-122, 123-127, 128-132, 133-135"
+      "next": "re-run the tafsir-draft workflow for surah 20 with only these ranges in `passages`: 109-112, 113-114, 115-119, 120-122, 123-127, 128-132, 133-135"
     }
   }
 }
