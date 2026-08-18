@@ -354,10 +354,27 @@ COLLECTION_ALIASES = {
 }
 
 
-def named_in_source(coll: str, src: str) -> bool:
+# Some sources name the collection ONLY in Arabic script: Maarif ul Quran
+# prints its takhrij as an Arabic parenthetical, e.g. Surah 22:23, where the
+# silk hadith carries (رواہ ابو داؤد الطیالسی فی مسندہ وقال القرطبی اسنادہ صحیح).
+# normalise() strips non-ASCII, so that attribution was invisible here and a
+# correctly grounded citation was flagged — the same false-negative that the
+# table above exists to prevent, and the failure that pushes toward deleting
+# true attributions. Matched against the RAW source, not the normalised one.
+# Only add a variant after confirming it in the source text itself.
+ARABIC_ALIASES = {
+    "abu dawud": ("ابو داؤد", "ابو داود", "أبو داود", "ابی داود"),
+    "abu dawood": ("ابو داؤد", "ابو داود", "أبو داود", "ابی داود"),
+}
+
+
+def named_in_source(coll: str, src: str, src_raw: str = "") -> bool:
     key = normalise(coll)
     for variant in COLLECTION_ALIASES.get(key, (key,)):
         if variant in src:
+            return True
+    for variant in ARABIC_ALIASES.get(key, ()):
+        if variant in src_raw:
             return True
     return False
 
@@ -397,12 +414,13 @@ def cmd_validate(n: int) -> int:
             problems.append(f"{tag}: uses standalone 'God' (must be 'Allah')")
         # Hadith grounding: any collection named in the tafsir must also be
         # named in the covered ayahs' own source text.
-        src = normalise(" ".join(
+        src_raw = " ".join(
             v for a in range(start, end + 1)
             for v in by_ayah.get(a, {}).get("sections", {}).values()
-        ))
+        )
+        src = normalise(src_raw)
         for coll in {m.group(0) for m in HADITH_CUE.finditer(text)}:
-            if not named_in_source(coll, src):
+            if not named_in_source(coll, src, src_raw):
                 problems.append(
                     f"{tag}: cites '{coll}' but that collection is not named in the "
                     f"ayahs' own source text"
