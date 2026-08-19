@@ -351,6 +351,7 @@ COLLECTION_ALIASES = {
     "ahmad": ("ahmad", "abmad", "ahmed"),      # "Imam Abmad in his Musnad" — OCR 'h'->'b'
     "bayhaqi": ("bayhaqi", "baihaqi"),
     "tabarani": ("tabarani", "tabrani"),
+    "muwatta": ("muwatta", "mu watta"),   # Maarif prints "al-Mu'watta"
 }
 
 
