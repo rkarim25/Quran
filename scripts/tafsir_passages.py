@@ -352,6 +352,9 @@ COLLECTION_ALIASES = {
     "bayhaqi": ("bayhaqi", "baihaqi"),
     "tabarani": ("tabarani", "tabrani"),
     "muwatta": ("muwatta", "mu watta"),   # Maarif prints "al-Mu'watta"
+    # Maarif prints "Abu Dad" (OCR drops the "wu") at e.g. 41:33-36.
+    "abu dawud": ("abu dawud", "abu dawood", "abu dad"),
+    "abu dawood": ("abu dawood", "abu dawud", "abu dad"),
 }
 
 
