@@ -349,7 +349,8 @@ def normalise(s: str) -> str:
 COLLECTION_ALIASES = {
     "bukhari": ("bukhari", "bukhri", "bukhaari"),
     "ahmad": ("ahmad", "abmad", "ahmed"),      # "Imam Abmad in his Musnad" — OCR 'h'->'b'
-    "bayhaqi": ("bayhaqi", "baihaqi"),
+    # Maarif prints "Baihagi" (OCR 'q'->'g') at e.g. 70:1-4.
+    "bayhaqi": ("bayhaqi", "baihaqi", "baihagi"),
     "tabarani": ("tabarani", "tabrani"),
     "muwatta": ("muwatta", "mu watta"),   # Maarif prints "al-Mu'watta"
     # Maarif prints "Abu Dad" (OCR drops the "wu") at e.g. 41:33-36.
@@ -369,6 +370,11 @@ COLLECTION_ALIASES = {
 ARABIC_ALIASES = {
     "abu dawud": ("ابو داؤد", "ابو داود", "أبو داود", "ابی داود"),
     "abu dawood": ("ابو داؤد", "ابو داود", "أبو داود", "ابی داود"),
+    # Surah 70:1-4 — Maarif gives the takhrij of the Abu Hurairah hadith on the
+    # length of the Day only in Arabic: اخرجہ الحاکم و البیھقی مرفوعاً و موقوفاً.
+    # Both Urdu (ک/ی/ھ) and standard Arabic (ك/ي/ه) letter forms listed.
+    "hakim": ("الحاکم", "الحاكم", "حاکم", "حاكم"),
+    "bayhaqi": ("البیھقی", "البيهقي", "بیھقی", "بيهقي"),
 }
 
 
