@@ -348,7 +348,9 @@ def normalise(s: str) -> str:
 # Only add a variant here after confirming it in the source text itself.
 COLLECTION_ALIASES = {
     "bukhari": ("bukhari", "bukhri", "bukhaari"),
-    "ahmad": ("ahmad", "abmad", "ahmed"),      # "Imam Abmad in his Musnad" — OCR 'h'->'b'
+    # "Imam Abmad in his Musnad" — OCR 'h'->'b'; "Imam Alhmad" — OCR inserts 'l'
+    # (Maarif at 73:11-14, "The Righteous Elders' Fear of the Hereafter").
+    "ahmad": ("ahmad", "abmad", "ahmed", "alhmad"),
     # Maarif prints "Baihagi" (OCR 'q'->'g') at e.g. 70:1-4.
     "bayhaqi": ("bayhaqi", "baihaqi", "baihagi"),
     "tabarani": ("tabarani", "tabrani"),
