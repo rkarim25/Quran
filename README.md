@@ -2,6 +2,9 @@
 
 A study website for the Holy Quran with English translation, word-by-word hover meanings, revelation context, and tafsir.
 
+**Developing this project?** Start with [ARCHITECTURE.md](ARCHITECTURE.md) — how the
+system works, its data flow, pipelines, and the invariants that must not be broken.
+
 **Live site:** [https://rkarim25.github.io/Quran/](https://rkarim25.github.io/Quran/)
 
 ## Features

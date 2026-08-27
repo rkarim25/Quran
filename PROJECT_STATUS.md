@@ -1,10 +1,13 @@
-# PROJECT STATUS — single source of truth for any session
+# PROJECT STATUS — standing roadmap and task history
 
-> **Purpose:** any chat/session can read this file and continue the work with zero
-> context loss. **Update this file whenever a task's state changes.** Keep
-> HANDOVER.md for session-specific handoffs; this file is the standing roadmap.
+> **Read [ARCHITECTURE.md](ARCHITECTURE.md) first** if you are new to the repo —
+> it covers how the system works: data flow, pipelines, invariants and traps.
+> This file is the complement: what has been done, why, and what is pending.
+> **Update it whenever a task's state changes.** `HANDOVER.md` carries only the
+> next-session handoff.
 
-Last updated: 2026-08-02 (passage tafsir shipped; surah 1 live)
+Last updated: 2026-08-27 (passage tafsir COMPLETE, 114/114; CI moved off Node 20;
+quality pass on surahs 2-9)
 
 ## The site
 
@@ -74,7 +77,7 @@ one-off scratch helpers (`_check_*`, `_fix_*`, `_inspect_*`), regenerable
 caches (`_canon_qpc.json`) and run logs (`generate_asbab_log.txt`) are
 gitignored.
 
-### 5. AI TAFSIR REDO — DESIGN AGREED, PIPELINE BUILT, SURAH 1 LIVE
+### 5. AI TAFSIR REDO — **COMPLETE: 114/114 surahs published and validated** (2026-08-27)
 **Continue with the `resume-ai-tafsir` skill** (`.claude/skills/`), which holds
 the operational loop. Design + rationale: `TAFSIR_PLAN.md`.
 - All five design questions answered by the user 2026-08-02. Segmentation is
@@ -84,8 +87,11 @@ the operational loop. Design + rationale: `TAFSIR_PLAN.md`.
   files, sidecars deleted (commit `e850982b`, recoverable from git history).
 - New section: `docs/data/passage_tafsir/surah_N.json`, shown with a range badge
   and scope line in the study drawer, inline, book and print views.
-- **Surah 1 published and validated.** Priority order for the rest:
-  `36 → 55 → 67 → 18 → 112,113,114 → 78–114 → 2 → 3 → rest`.
+- **All 114 surahs published and validated.** The priority order
+  (`1 → 36 → 55 → 67 → 18 → 112,113,114 → 78–114 → 2 → 3 → rest`) is exhausted.
+- 2026-08-27 quality pass on surahs 2–9: fixed a frontmatter truncation bug that
+  had been feeding cut-off ayat to the drafting agents, and removed one
+  ungrounded hadith at 6:4-11. Details in ARCHITECTURE.md §8.
 - Verification gate: `python scripts/tafsir_passages.py validate --surah N`
   must exit 0 (coverage + hadith grounding + creed/style checks).
 
@@ -117,7 +123,10 @@ Apply: `scripts/apply_layered_tafsir.py` · validate: `scripts/validate_ai_tafsi
 
 - Arabic glyph fix: entire Quran + word-by-word reconciled to canonical
   `qpc_uthmani_hafs`; markdown SOURCE fixed (commit `a0fc076f`), verified live.
-- Occasions of revelation: all 114 surahs, 1,476 entries (`asbab_nuzul.json`).
+- Occasions of revelation (`asbab_nuzul.json`). Verified on disk 2026-08-27:
+  1,186 ayah-level entries across 85 surahs + one `__setting_*` context group
+  per surah (114). (An earlier note here said "all 114 surahs, 1,476 entries";
+  that does not match the current file.)
 - Isnad chains: 690/690 hadith in `hadith_index.json` have isnad.
 - Duas page canonical text + green underline fix.
 - Tadabbur quick-note launcher (commit `ffe1f388`).
