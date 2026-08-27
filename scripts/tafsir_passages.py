@@ -91,8 +91,30 @@ def section(body: str, name: str) -> str:
 
 
 def frontmatter_value(fm: str, key: str) -> str:
-    m = re.search(rf"^{re.escape(key)}:\s*(.*)$", fm, re.M)
-    return m.group(1).strip() if m else ""
+    r"""Read a YAML plain scalar, including the lines it wraps onto.
+
+    The obvious `^key:\s*(.*)$` captures only the FIRST line, and most ayat
+    wrap: 73% of `sentence_translation` and 58% of `arabic_ayat` values in
+    Quran-obs run onto continuation lines. Reading one line silently truncated
+    them -- Ayat al-Kursi reached the drafting bundles at 71 of its 540
+    characters. YAML folds a wrapped plain scalar with spaces, so we do too.
+    """
+    lines = fm.split("\n")
+    for i, line in enumerate(lines):
+        if not line.startswith(key + ":"):
+            continue
+        parts = [line[len(key) + 1 :].strip()]
+        for nxt in lines[i + 1 :]:
+            if not nxt.strip():
+                break
+            if nxt[:1] not in (" ", "\t"):
+                break
+            # an indented `foo:` or `1:` opens a nested mapping, not a wrap
+            if re.match(r"^\s+\S+:\s*$", nxt) or re.match(r"^\s+\d+:", nxt):
+                break
+            parts.append(nxt.strip())
+        return " ".join(p for p in parts if p).strip()
+    return ""
 
 
 def read_ayah(path: Path) -> dict:
