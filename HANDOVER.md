@@ -16,43 +16,33 @@ generating passage tafsir surah by surah — is now complete for all 114 surahs)
 - Whole corpus re-validated clean at commit `da781099`.
 - Working tree clean, `main` in sync with `origin/main`.
 
-## One thing is unfinished, and it is not a code problem
+## Everything is landed and live
 
-**GitHub Pages deploys have been failing since ~2026-08-27 17:24.** The `build`
-job succeeds and the artifact uploads; `deploy-pages` then sits in
-`updating_pages` until its 10-minute timeout cancels it. Four consecutive runs
-failed the same way.
+The Pages deploy failures seen earlier on 2026-08-27 have cleared. `deploy-pages`
+had been stalling in `updating_pages` past its timeout for four consecutive runs;
+it recovered on its own, and commit `da781099` deployed successfully. Verified
+live: the ungrounded hadith removed at 6:4-11 no longer appears in
+`data/passage_tafsir/surah_6.json`.
 
-Ruled out: the Node-24 action upgrade (v4 and v5 have identical timeout defaults,
-and v5 deployed successfully once), artifact size (~155 MB deployed fine before),
-and a stuck deployment blocking the queue. This looks like a GitHub-side stall.
-
-**Effect: commit `da781099` is pushed but not live** — surah 6 still serves the
-pre-fix text. No code change is needed; re-run when Pages recovers:
+If the same stall recurs, re-run the failed job rather than changing config —
+the cause was on GitHub's side, not in this repo:
 
 ```bash
 gh run list --limit 1 --json databaseId -q '.[0].databaseId' | xargs gh run rerun --failed
 ```
 
-Then confirm the fix actually landed:
-
-```bash
-curl -s "https://rkarim25.github.io/Quran/data/passage_tafsir/surah_6.json?cb=$RANDOM" | grep -c "best of generations"   # expect 0
-```
-
 ## Sensible next moves (owner to choose)
 
-1. **Land the pending deploy** (above). Do this first.
-2. **Semantic verification pass over the tafsir.** The 2026-08-27 audit of
+1. **Semantic verification pass over the tafsir.** The 2026-08-27 audit of
    surahs 2–9 was mechanical: strong on quotation and hadith grounding, but it
    does not cover ungrounded *reasoning* — invented etymologies, misattributed
    glosses, over-reach that is not a quotation. Covering that means running the
    drafting pipeline's own adversarial verifier over already-published passages.
    It is a large agent fan-out, so it needs an explicit go-ahead.
-3. **Cleanup.** Empty `docs/data/ai_tafsir/`; the legacy layered-tafsir scripts
+2. **Cleanup.** Empty `docs/data/ai_tafsir/`; the legacy layered-tafsir scripts
    listed in ARCHITECTURE.md §6; and `Quran-obs/Surah_2/Ayah_126.md`, the one
    remaining file with discarded `## What it teaches` / `## The scholars` sections.
-4. **Feature work.** ARCHITECTURE.md §10 has the end-to-end recipe.
+3. **Feature work.** ARCHITECTURE.md §10 has the end-to-end recipe.
 
 ## Traps worth re-reading before you touch anything
 

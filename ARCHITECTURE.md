@@ -358,18 +358,16 @@ three of four flags were false positives of exactly this kind.
 
 ### Known issues
 
-- **GitHub Pages deploys have been failing since ~2026-08-27 17:24.** The `build`
-  job succeeds and the artifact uploads; `deploy-pages` then sits in
-  `updating_pages` until its 10-minute timeout cancels it. Ruled out: the action
-  upgrade (v4 and v5 have identical timeout defaults, and v5 deployed
-  successfully once), artifact size (~155 MB deployed fine before), and a stuck
-  deployment blocking the queue. This looks like a GitHub-side stall. **Effect:
-  commit `da781099` is pushed but not live.** Re-run when Pages recovers:
-
+- **Pages deploys stalled on 2026-08-27 and recovered on their own.** For roughly
+  40 minutes the `build` job succeeded and the artifact uploaded, but
+  `deploy-pages` sat in `updating_pages` until its 10-minute timeout cancelled
+  it — four runs in a row. It was not the Node-24 action upgrade (v4 and v5 have
+  identical timeout defaults), not artifact size (~155 MB deploys fine), and not
+  a stuck deployment blocking the queue; it was a GitHub-side stall that cleared
+  itself. If it recurs, re-run rather than changing config:
   ```bash
   gh run list --limit 1 --json databaseId -q '.[0].databaseId' | xargs gh run rerun --failed
   ```
-
 - **Unverified dimension.** The 2026-08-27 audit of surahs 2-9 was mechanical —
   strong on quotation and hadith grounding, but it does **not** cover semantic
   over-reach (invented etymologies, misattributed glosses, ungrounded reasoning
