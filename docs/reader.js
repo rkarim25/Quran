@@ -752,8 +752,14 @@ function translationBlockHtml(ayah, { inline = false } = {}) {
     const ot = orig && (orig.translation || orig.qf_translation || "");
     if (ot && ot !== transText) origNote = `<p class="translation-orig"><span class="orig-label">Original</span> ${esc(ot)}</p>`;
   }
+  const sId = currentSurah?.id || 1;
+  const hasAsbab = !!(ayah.has_context || (cache.asbabNuzul && cache.asbabNuzul[`${sId}:${ayah.ayah}`]?.has_occasion));
+  const bulbBtn = (!inline && hasAsbab)
+    ? `<button type="button" class="asbab-bulb-btn" data-action="toggle-asbab" data-s="${sId}" data-a="${ayah.ayah}" title="Occasion of Revelation (Asbāb al-Nuzūl) — Click to view historical context" aria-label="Occasion of Revelation">💡 Background</button>`
+    : "";
+
   return `<${tag} class="${cls}">
-        ${transMode === "ai" ? `<span class="translation-badge">AI Translation</span>` : ""}
+        ${(transMode === "ai" || bulbBtn) ? `<div class="translation-header-row">${transMode === "ai" ? `<span class="translation-badge">AI Translation</span>` : ""}${bulbBtn}</div>` : ""}
         <p class="translation-text">${esc(transText)}</p>
         ${origNote}
         ${!inline && transMode === "standard" ? `<button type="button" class="translation-edit-btn" data-action="edit-translation" title="Edit translation" aria-label="Edit translation">✎</button>` : ""}
@@ -810,12 +816,16 @@ function wbwAyahBlock(data, ayah, surahId) {
         </span>`).join("")
     : `<p class="arabic-text">${esc(cleanArabic(a.arabic))}</p>`;
   const { text: transText } = displayTranslation(a);
+  const hasAsbab = !!(a.has_context || (cache.asbabNuzul && cache.asbabNuzul[`${surahId}:${ayah.ayah}`]?.has_occasion));
+  const bulbBtn = hasAsbab
+    ? `<button type="button" class="asbab-bulb-btn wbw-asbab-bulb" data-action="toggle-asbab" data-s="${surahId}" data-a="${ayah.ayah}" title="Occasion of Revelation (Asbāb al-Nuzūl) — Click to view historical context" aria-label="Occasion of Revelation">💡 Background</button>`
+    : "";
   return `
     <article class="ayah-block wbw-ayah" id="ayah-${surahId}-${ayah.ayah}" data-surah="${surahId}" data-ayah="${ayah.ayah}">
       ${ayahRailHtml(a, ayah.ayah, surahId)}
       <div class="ayah-body">
         <div class="wbw-grid" dir="rtl">${grid}</div>
-        ${transText && prefs.readMode !== "arabic" ? `<p class="wbw-fulltrans">${esc(transText)}</p>` : ""}
+        ${transText && prefs.readMode !== "arabic" ? `<div class="wbw-trans-wrapper">${bulbBtn}<p class="wbw-fulltrans">${esc(transText)}</p></div>` : ""}
         ${sajdahBannerHtml(surahId, ayah.ayah)}
         ${ayahExtrasHtml(a, surahId, ayah.ayah)}
       </div>
@@ -870,11 +880,29 @@ function bookSectionsFor(ayahs, surahId, c) {
     if (f) sec.push(`<section class="book-section book-translit-section" aria-label="Transliteration"><p class="book-flow translit-flow" dir="ltr">${f}</p></section>`);
   }
   if (c.translation) {
-    const f = ayahs.map((a) => { const m = mergeLocalEdits(a, surahId); const t = m.translation || m.qf_translation || ""; return t ? `<span class="book-trans-seg" data-ayah="${a.ayah}">${ayahMarkerHtml(a.ayah, { inline: true })} ${esc(t)}${sajdahInlineHtml(surahId, a.ayah)}</span>` : ""; }).filter(Boolean).join(" ");
+    const f = ayahs.map((a) => {
+      const m = mergeLocalEdits(a, surahId);
+      const t = m.translation || m.qf_translation || "";
+      if (!t) return "";
+      const hasAsbab = !!(m.has_context || (cache.asbabNuzul && cache.asbabNuzul[`${surahId}:${a.ayah}`]?.has_occasion));
+      const bulb = hasAsbab
+        ? `<button type="button" class="asbab-bulb-btn book-asbab-bulb" data-action="toggle-asbab" data-s="${surahId}" data-a="${a.ayah}" title="Occasion of Revelation (Asbāb al-Nuzūl) — Click to view historical context" aria-label="Occasion of Revelation">💡</button>`
+        : "";
+      return `<span class="book-trans-seg" data-ayah="${a.ayah}">${ayahMarkerHtml(a.ayah, { inline: true })} ${bulb}${esc(t)}${sajdahInlineHtml(surahId, a.ayah)}</span>`;
+    }).filter(Boolean).join(" ");
     if (f) sec.push(`<section class="book-section book-translation-section" aria-label="Translation"><p class="book-flow translation-flow">${f}</p></section>`);
   }
   if (c.aiTranslation) {
-    const f = ayahs.map((a) => { const m = mergeLocalEdits(a, surahId); const t = m.ai_translation || ""; return t ? `<span class="book-trans-seg" data-ayah="${a.ayah}">${ayahMarkerHtml(a.ayah, { inline: true })} ${esc(t)}${sajdahInlineHtml(surahId, a.ayah)}</span>` : ""; }).filter(Boolean).join(" ");
+    const f = ayahs.map((a) => {
+      const m = mergeLocalEdits(a, surahId);
+      const t = m.ai_translation || "";
+      if (!t) return "";
+      const hasAsbab = !!(m.has_context || (cache.asbabNuzul && cache.asbabNuzul[`${surahId}:${a.ayah}`]?.has_occasion));
+      const bulb = hasAsbab
+        ? `<button type="button" class="asbab-bulb-btn book-asbab-bulb" data-action="toggle-asbab" data-s="${surahId}" data-a="${a.ayah}" title="Occasion of Revelation (Asbāb al-Nuzūl) — Click to view historical context" aria-label="Occasion of Revelation">💡</button>`
+        : "";
+      return `<span class="book-trans-seg" data-ayah="${a.ayah}">${ayahMarkerHtml(a.ayah, { inline: true })} ${bulb}${esc(t)}${sajdahInlineHtml(surahId, a.ayah)}</span>`;
+    }).filter(Boolean).join(" ");
     if (f) sec.push(`<section class="book-section book-translation-section ai-mode" aria-label="AI translation"><p class="book-flow translation-flow">${f}</p></section>`);
   }
   const studyBlocks = ayahs.map((a) => bookExtrasBlock(a, surahId)).filter(Boolean).join("");
@@ -1417,6 +1445,80 @@ function renderOccasionTab(surahId, ayahNum) {
   if (source) html += `<p class="occ-source">Source: ${esc(source)}</p>`;
 
   return html;
+}
+
+async function toggleAsbabCard(surahId, ayahNum, triggerBtn) {
+  const existingCard = document.getElementById(`asbab-card-${surahId}-${ayahNum}`);
+  if (existingCard) {
+    existingCard.remove();
+    triggerBtn?.classList.remove("active");
+    return;
+  }
+
+  // Close any other open asbab cards for clean, distraction-free reading
+  document.querySelectorAll(".asbab-micro-card").forEach((c) => c.remove());
+  document.querySelectorAll(".asbab-bulb-btn.active").forEach((b) => b.classList.remove("active"));
+
+  if (cache.asbabNuzul === null) {
+    await loadAsbabNuzul();
+  }
+
+  const key = `${surahId}:${ayahNum}`;
+  const entry = cache.asbabNuzul ? cache.asbabNuzul[key] : null;
+  const ayahObj = currentSurah?.ayahs?.find((a) => a.ayah === ayahNum);
+  const rawText = entry?.occasion || ayahObj?.context || "";
+  const source = entry?.source || "Ibn Kathir, Tafsir al-Qur'an al-Adhim";
+
+  if (!rawText) return;
+
+  const isLong = rawText.length > 360;
+  const shortText = isLong ? rawText.slice(0, 320) + "…" : rawText;
+
+  const cardHtml = `
+    <div class="asbab-micro-card" id="asbab-card-${surahId}-${ayahNum}" data-s="${surahId}" data-a="${ayahNum}">
+      <div class="asbab-card-header">
+        <span class="asbab-card-badge">💡 OCCASION OF REVELATION · ASBĀB AL-NUZŪL</span>
+        <button type="button" class="asbab-card-close" data-action="close-asbab" title="Close" aria-label="Close">×</button>
+      </div>
+      <div class="asbab-card-body">
+        <p class="asbab-card-text" id="asbab-text-${surahId}-${ayahNum}" data-full="${esc(rawText)}">${esc(shortText)}</p>
+        ${isLong ? `<button type="button" class="asbab-expand-btn" data-action="expand-asbab" data-s="${surahId}" data-a="${ayahNum}">Read full background ▾</button>` : ""}
+      </div>
+      <div class="asbab-card-footer">
+        <span class="asbab-card-source">Source: ${esc(source)}</span>
+        <button type="button" class="asbab-card-study-btn" data-action="study-occasion" data-s="${surahId}" data-a="${ayahNum}">
+          Open Hadith & Study Panel ➔
+        </button>
+      </div>
+    </div>
+  `;
+
+  triggerBtn?.classList.add("active");
+
+  const block = document.getElementById(`ayah-${surahId}-${ayahNum}`);
+  if (block) {
+    const transBlock = block.querySelector(".translation-block, .wbw-trans-wrapper, .wbw-fulltrans");
+    if (transBlock) {
+      transBlock.insertAdjacentHTML("afterend", cardHtml);
+    } else {
+      block.querySelector(".ayah-body")?.insertAdjacentHTML("beforeend", cardHtml);
+    }
+  } else {
+    const seg = document.querySelector(`.book-trans-seg[data-ayah="${ayahNum}"]`);
+    const transSec = seg?.closest(".book-translation-section");
+    if (transSec) {
+      transSec.insertAdjacentHTML("afterend", cardHtml);
+    } else if (seg) {
+      seg.insertAdjacentHTML("afterend", cardHtml);
+    } else {
+      triggerBtn?.parentElement?.insertAdjacentHTML("afterend", cardHtml);
+    }
+  }
+
+  const card = document.getElementById(`asbab-card-${surahId}-${ayahNum}`);
+  if (card) {
+    card.scrollIntoView({ behavior: "smooth", block: "nearest" });
+  }
 }
 
 function renderIsnadSvg(h) {
@@ -2259,6 +2361,64 @@ function bindSurahEvents() {
       openStudyPanel(+el.dataset.ayah);
     });
   });
+
+  // Delegated click handling for Asbab al-Nuzul light bulbs and micro-cards
+  const readerContainer = document.getElementById("reader-container");
+  if (readerContainer && !readerContainer.dataset.asbabBound) {
+    readerContainer.dataset.asbabBound = "1";
+    readerContainer.addEventListener("click", (e) => {
+      const bulbBtn = e.target.closest('[data-action="toggle-asbab"]');
+      if (bulbBtn) {
+        e.preventDefault();
+        e.stopPropagation();
+        const sId = +bulbBtn.dataset.s;
+        const aNum = +bulbBtn.dataset.a;
+        toggleAsbabCard(sId, aNum, bulbBtn);
+        return;
+      }
+
+      const closeBtn = e.target.closest('[data-action="close-asbab"]');
+      if (closeBtn) {
+        e.preventDefault();
+        e.stopPropagation();
+        const card = closeBtn.closest(".asbab-micro-card");
+        if (card) {
+          const s = card.dataset.s;
+          const a = card.dataset.a;
+          card.remove();
+          document.querySelector(`.asbab-bulb-btn[data-s="${s}"][data-a="${a}"]`)?.classList.remove("active");
+        }
+        return;
+      }
+
+      const expandBtn = e.target.closest('[data-action="expand-asbab"]');
+      if (expandBtn) {
+        e.preventDefault();
+        e.stopPropagation();
+        const s = expandBtn.dataset.s;
+        const a = expandBtn.dataset.a;
+        const textEl = document.getElementById(`asbab-text-${s}-${a}`);
+        if (textEl && textEl.dataset.full) {
+          textEl.textContent = textEl.dataset.full;
+          expandBtn.remove();
+        }
+        return;
+      }
+
+      const studyBtn = e.target.closest('[data-action="study-occasion"]');
+      if (studyBtn) {
+        e.preventDefault();
+        e.stopPropagation();
+        const aNum = +studyBtn.dataset.a;
+        prefs.activePanel = "hadith";
+        openStudyPanel(aNum);
+        setTimeout(() => {
+          document.querySelector('.ctx-subtab[data-tab="occasion"]')?.click();
+        }, 120);
+        return;
+      }
+    });
+  }
 
 
   document.getElementById("layout-select")?.addEventListener("change", async (e) => {
@@ -3595,6 +3755,7 @@ async function renderSurah(data, targetAyah, openStudy = false) {
   window.bookChunks = bookChunks;
   window.mergeLocalEdits = mergeLocalEdits;
   loadAiWbw(data.id);
+  loadAsbabNuzul();
   // The ayah blocks read passage tafsir synchronously, so it must be cached
   // before the first paint — but only wait for it when it will actually be
   // shown; otherwise just warm the cache and let the paint go ahead.

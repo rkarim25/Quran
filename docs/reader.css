@@ -4741,3 +4741,184 @@ html[data-theme="sepia"] .book-trans-seg.segment-speaking {
   }
 }
 
+/* ==========================================================================
+   Asbab al-Nuzul (Occasion of Revelation) Light Bulb & Micro Card
+   ========================================================================== */
+.asbab-bulb-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  background: rgba(245, 158, 11, 0.12);
+  color: #d97706;
+  border: 1px solid rgba(245, 158, 11, 0.35);
+  border-radius: 999px;
+  padding: 0.12rem 0.5rem;
+  font-size: 0.76rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  vertical-align: middle;
+  margin-inline-end: 0.4rem;
+  line-height: 1.3;
+}
+
+.asbab-bulb-btn:hover {
+  background: rgba(245, 158, 11, 0.22);
+  border-color: rgba(245, 158, 11, 0.6);
+  box-shadow: 0 0 10px rgba(245, 158, 11, 0.3);
+  transform: translateY(-1px);
+}
+
+.asbab-bulb-btn.active {
+  background: #f59e0b;
+  color: #fff;
+  border-color: #d97706;
+  box-shadow: 0 0 12px rgba(245, 158, 11, 0.45);
+}
+
+.book-asbab-bulb {
+  padding: 0.05rem 0.3rem;
+  font-size: 0.72rem;
+  margin: 0 0.25rem 0 0.1rem;
+  border-radius: 6px;
+}
+
+.translation-header-row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  margin-bottom: 0.35rem;
+  flex-wrap: wrap;
+}
+
+.wbw-trans-wrapper {
+  margin-top: 0.6rem;
+  text-align: center;
+}
+
+.wbw-trans-wrapper .asbab-bulb-btn {
+  margin-bottom: 0.35rem;
+}
+
+/* Micro Card */
+.asbab-micro-card {
+  max-width: 620px;
+  margin: 0.75rem auto;
+  padding: 0.9rem 1.15rem;
+  background: linear-gradient(135deg, rgba(254, 243, 199, 0.55), rgba(255, 251, 235, 0.85));
+  border: 1px solid rgba(217, 119, 6, 0.35);
+  border-left: 4px solid #f59e0b;
+  border-radius: var(--radius-sm, 8px);
+  text-align: left;
+  box-shadow: 0 4px 14px rgba(217, 119, 6, 0.08);
+  animation: asbabCardFade 0.25s ease-out;
+}
+
+@keyframes asbabCardFade {
+  from { opacity: 0; transform: translateY(-4px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+[data-theme="dark"] .asbab-micro-card {
+  background: linear-gradient(135deg, rgba(40, 32, 18, 0.85), rgba(30, 24, 14, 0.9));
+  border-color: rgba(217, 119, 6, 0.45);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.4);
+}
+
+.asbab-card-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 0.5rem;
+  border-bottom: 1px solid rgba(217, 119, 6, 0.15);
+  padding-bottom: 0.35rem;
+}
+
+.asbab-card-badge {
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: #b45309;
+}
+
+[data-theme="dark"] .asbab-card-badge {
+  color: #fcd34d;
+}
+
+.asbab-card-close {
+  background: none;
+  border: none;
+  font-size: 1.15rem;
+  line-height: 1;
+  color: var(--muted, #888);
+  cursor: pointer;
+  padding: 0 0.2rem;
+  border-radius: 4px;
+}
+
+.asbab-card-close:hover {
+  color: var(--ink, #111);
+  background: rgba(0, 0, 0, 0.08);
+}
+
+.asbab-card-text {
+  font-size: 0.92rem;
+  line-height: 1.6;
+  color: var(--ink, #1f2937);
+  margin: 0;
+  white-space: pre-line;
+}
+
+.asbab-expand-btn {
+  background: none;
+  border: none;
+  color: #b45309;
+  font-size: 0.78rem;
+  font-weight: 600;
+  cursor: pointer;
+  padding: 0.2rem 0;
+  margin-top: 0.2rem;
+  display: inline-block;
+}
+
+.asbab-expand-btn:hover {
+  text-decoration: underline;
+}
+
+.asbab-card-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 0.65rem;
+  padding-top: 0.45rem;
+  border-top: 1px dashed rgba(217, 119, 6, 0.2);
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.asbab-card-source {
+  font-size: 0.72rem;
+  color: var(--muted, #666);
+  font-style: italic;
+}
+
+.asbab-card-study-btn {
+  background: rgba(245, 158, 11, 0.15);
+  border: 1px solid rgba(217, 119, 6, 0.3);
+  color: #b45309;
+  font-size: 0.72rem;
+  font-weight: 600;
+  border-radius: 6px;
+  padding: 0.2rem 0.55rem;
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.asbab-card-study-btn:hover {
+  background: #f59e0b;
+  color: #fff;
+}
+
