@@ -766,12 +766,14 @@ function toArabicNum(n) {
 function ayahRailHtml(a, ayahNum, surahId) {
   const bookmarked = isBookmarked(surahId, ayahNum);
   const hasReflection = !!(a.personal_reflections && a.personal_reflections.trim());
+  const isPlaying = window.QuranAudio?.isPlayingAyah?.(surahId, ayahNum);
   return `
       <div class="ayah-rail">
         <button type="button" class="ayah-num-stack" data-action="select" aria-label="Ayah ${ayahNum}" title="Ayah ${ayahNum}">
           <span class="ayn-en">${ayahNum}</span>
           <span class="ayn-ar" dir="rtl">${toArabicNum(ayahNum)}</span>
         </button>
+        <button type="button" class="ayah-dot play-btn ${isPlaying ? "playing" : ""}" data-action="play-ayah" aria-label="${isPlaying ? "Pause recitation" : "Play recitation"}" title="${isPlaying ? "Pause" : "Play recitation (Mishary Alafasy)"}"><span class="icon-play">${isPlaying ? "⏸" : "▶"}</span></button>
         <button type="button" class="ayah-dot bookmark-btn ${bookmarked ? "active" : ""}" data-action="bookmark" aria-label="${bookmarked ? "Remove bookmark" : "Bookmark"}" title="${bookmarked ? "Remove bookmark" : "Bookmark"}"><span class="icon-star">${bookmarked ? "✦" : "✧"}</span></button>
         <button type="button" class="ayah-dot study-btn ${hasReflection ? "has-note" : ""}" data-action="study" aria-label="Study and reflect" title="Tadabbur · Tafsir"><span class="icon-study">${hasReflection ? "✎" : "☰"}</span></button>
       </div>`;
@@ -799,10 +801,11 @@ function wbwAyahBlock(data, ayah, surahId) {
   const a = mergeLocalEdits(ayah, surahId);
   const words = orderedWords(a.word_by_word);
   const grid = words.length
-    ? words.map((w) => `<span class="wbw-word">
+    ? words.map((w) => `<span class="wbw-word" data-s="${surahId}" data-a="${ayah.ayah}" data-w="${w.key}">
           <span class="q-word wbw-ar" data-s="${surahId}" data-a="${ayah.ayah}" data-i="${w.key}" tabindex="0">${esc(cleanArabic(w.arabic))}</span>
           ${prefs.showTransliteration ? `<span class="wbw-tr">${esc(w.transliteration || "")}</span>` : ""}
           <span class="wbw-en">${esc(w.translation || "")}</span>
+          <button type="button" class="wbw-audio-btn" data-play-word="${surahId}-${ayah.ayah}-${w.key}" title="Listen to word" aria-label="Listen to word">🔊</button>
         </span>`).join("")
     : `<p class="arabic-text">${esc(cleanArabic(a.arabic))}</p>`;
   const { text: transText } = displayTranslation(a);
@@ -1000,6 +1003,7 @@ function toolbarHtml(data, ayah, surahs = []) {
             <option value="book" ${prefs.layoutMode === "book" ? "selected" : ""}>Book</option>
             ${mushafAvailable(data.id) ? `<option value="mushaf" ${prefs.layoutMode === "mushaf" ? "selected" : ""}>Mushaf</option>` : ""}
           </select>
+          <button type="button" class="btn play-surah-btn" id="toolbar-play-surah" title="Listen to this sūrah (Mishary Rashid Alafasy)">▶ Listen</button>
           ${contentMenuHtml(data)}
           <button type="button" class="btn ${prefs.wordMode === "ai" ? "active" : ""}" id="toggle-wordmode" title="Hover any word for an AI grammar &amp; meaning breakdown">Word AI</button>
           <span class="font-group"><span class="fg-label" dir="rtl">ع</span><button type="button" class="btn icon-only" id="font-smaller" title="Smaller Arabic">A−</button><button type="button" class="btn icon-only" id="font-larger" title="Larger Arabic">A+</button></span>
@@ -2041,19 +2045,21 @@ function showWordTooltip(el, opts = {}) {
   tooltip.hidden = false;
   tooltip.classList.toggle("ai", !!ai);
 
+  const wordAudioBtn = `<button type="button" class="wt-audio-btn" data-play-word="${surahId}-${ayahNum}-${key}" title="Listen to word" aria-label="Listen to word">🔊</button>`;
+
   if (editing) {
-    tooltip.innerHTML = `<div class="wt-ar">${esc(word.arabic)}</div><div class="wt-tr">${esc(word.transliteration || "")}</div>
+    tooltip.innerHTML = `<div class="wt-ar-header"><div class="wt-ar">${esc(word.arabic)}</div>${wordAudioBtn}</div><div class="wt-tr">${esc(word.transliteration || "")}</div>
        <label class="wt-label">Meaning</label><input id="wt-meaning" />
        <div class="wt-actions"><button type="button" id="wt-cancel">Cancel</button><button type="button" class="primary" id="wt-save">Save</button></div>`;
   } else if (ai) {
-    tooltip.innerHTML = `<div class="wt-ar">${esc(word.arabic)}</div>
+    tooltip.innerHTML = `<div class="wt-ar-header"><div class="wt-ar">${esc(word.arabic)}</div>${wordAudioBtn}</div>
        <div class="wt-tr">${esc(word.transliteration || "")}</div>
        <div class="wt-ai-meaning">${esc(ai.meaning || word.translation || "")}</div>
        ${ai.parts && ai.parts.length ? `<div class="wt-ai-parts">${ai.parts.map((p) => `<span class="wt-seg"><span class="wt-seg-ar" dir="rtl" lang="ar">${esc(p.ar || "")}</span><span class="wt-seg-en">${p.tr ? `<em>${esc(p.tr)}</em> — ` : ""}${esc(p.en || "")}</span></span>`).join("")}</div>` : ""}
        ${ai.grammar ? `<div class="wt-ai-grammar">${esc(ai.grammar)}</div>` : ""}
        ${ai.root ? `<div class="wt-ai-root">${esc(ai.root)}</div>` : ""}${symbolHtml}`;
   } else {
-    tooltip.innerHTML = `<div class="wt-ar">${esc(word.arabic)}</div><div class="wt-tr">${esc(word.transliteration || "")}</div>
+    tooltip.innerHTML = `<div class="wt-ar-header"><div class="wt-ar">${esc(word.arabic)}</div>${wordAudioBtn}</div><div class="wt-tr">${esc(word.transliteration || "")}</div>
        <div class="wt-en">${esc(word.translation || "")}</div>
        ${origMeaning}
        ${prefs.wordMode === "ai" ? `<div class="wt-ai-pending">Detailed AI word analysis for this sūrah is being prepared.</div>` : ""}
@@ -2219,6 +2225,9 @@ function bindSurahEvents() {
         btn.querySelector(".icon-star").textContent = added ? "✦" : "✧";
         btn.title = added ? "Remove bookmark" : "Bookmark";
         btn.setAttribute("aria-label", added ? "Remove bookmark" : "Bookmark");
+      } else if (action === "play-ayah") {
+        e.stopPropagation();
+        window.QuranAudio?.toggleAyah(surahId, ayahNum);
       } else if (action === "study" || action === "select") {
         openStudyPanel(ayahNum);
       }
@@ -2228,6 +2237,12 @@ function bindSurahEvents() {
       e.stopPropagation();
       openTranslationEdit(block);
     });
+  });
+
+  document.getElementById("toolbar-play-surah")?.addEventListener("click", () => {
+    const sId = currentSurah ? currentSurah.id : 1;
+    const vAyah = visibleAyah || 1;
+    window.QuranAudio?.toggleAyah(sId, vAyah);
   });
 
   document.querySelectorAll(".book-ayah").forEach((el) => {
@@ -3444,6 +3459,7 @@ async function renderSurah(data, targetAyah, openStudy = false) {
   bindSurahEvents();
   bindReaderSearch(surahList);
   setupScrollObserver(data.id);
+  window.QuranAudio?.onSurahRendered?.(data);
   updateProgress(data.id, ayah);
   requestAnimationFrame(() => {
     scrollToAyah(data.id, ayah, false);

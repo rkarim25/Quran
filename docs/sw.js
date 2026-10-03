@@ -9,7 +9,7 @@
      sign-in, cross-device sync, and the auto-update check still need (and use)
      the live network.
    Bump VERSION on any change here to roll caches over. */
-const VERSION = "2026-10-03a";
+const VERSION = "2026-10-03b";
 const CORE = `quran-core-${VERSION}`;
 const RUNTIME = `quran-runtime-${VERSION}`;
 
@@ -23,10 +23,11 @@ const CORE_ASSETS = [
   "./apple-touch-icon.png",
   "./icon-192.png",
   "./icon-512.png",
+  "./audio-player.js",
 ];
 
-// Live endpoints that must always hit the network (caching them breaks auth/sync
-// or the new-build check).
+// Live endpoints that must always hit the network (caching them breaks auth/sync,
+// streaming audio, or the new-build check).
 const NETWORK_ONLY_HOSTS = [
   "firestore.googleapis.com",
   "identitytoolkit.googleapis.com",
@@ -36,6 +37,9 @@ const NETWORK_ONLY_HOSTS = [
   "quran-reader-sync.firebaseapp.com",
   "accounts.google.com",
   "apis.google.com",
+  "everyayah.com",
+  "verses.quran.com",
+  "audio.qurancdn.com",
 ];
 
 self.addEventListener("install", (event) => {
@@ -63,12 +67,15 @@ self.addEventListener("fetch", (event) => {
   let url;
   try { url = new URL(req.url); } catch (_) { return; }
 
-  // Never cache auth/sync/installations calls, or the auto-update probe.
+  // Never cache auth/sync/installations calls, streaming audio, or the auto-update probe.
   if (
     NETWORK_ONLY_HOSTS.includes(url.hostname) ||
     url.hostname.endsWith(".firebaseapp.com") ||
     url.hostname.endsWith(".googleapis.com") ||
-    url.hostname.endsWith(".google.com")
+    url.hostname.endsWith(".google.com") ||
+    url.hostname.includes("everyayah.com") ||
+    url.hostname.includes("qurancdn.com") ||
+    url.hostname.includes("quran.com")
   ) {
     return;
   }

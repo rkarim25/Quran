@@ -86,6 +86,10 @@
             <span class="nav-icon" aria-hidden="true">⎙</span>
             <span class="nav-label">Print</span>
           </button>
+          <button type="button" id="header-audio-btn" class="nav-link nav-link-btn" title="Audio Recitation (Mishary Rashid Alafasy)" aria-label="Audio Recitation">
+            <span class="nav-icon" aria-hidden="true">🔊</span>
+            <span class="nav-label">Listen</span>
+          </button>
         </nav>
         <button type="button" id="theme-toggle" class="theme-toggle" title="Reading theme — light · sepia · night" aria-label="Reading theme">◐</button>
         <button type="button" id="sync-badge" class="sync-badge readonly" title="Cross-device sync settings">Sync</button>
@@ -226,13 +230,38 @@
     </div>
   </div>
 
+  <div id="quran-audio-player" class="quran-audio-player" hidden>
+    <div class="qap-inner">
+      <div class="qap-meta">
+        <span class="qap-reciter" title="Reciter">Mishary Rashid Alafasy</span>
+        <span class="qap-track" id="qap-track">Surah 1:1</span>
+      </div>
+      <div class="qap-controls">
+        <button type="button" class="qap-btn" id="qap-prev" title="Previous Ayah (J)" aria-label="Previous Ayah">⏮</button>
+        <button type="button" class="qap-btn qap-play-btn" id="qap-play" title="Play / Pause (Space)" aria-label="Play or Pause">▶</button>
+        <button type="button" class="qap-btn" id="qap-next" title="Next Ayah (K)" aria-label="Next Ayah">⏭</button>
+      </div>
+      <div class="qap-scrub">
+        <span class="qap-time" id="qap-current-time">0:00</span>
+        <input type="range" class="qap-progress" id="qap-progress" min="0" max="100" value="0" aria-label="Audio scrubber">
+        <span class="qap-time" id="qap-duration">0:00</span>
+      </div>
+      <div class="qap-actions">
+        <button type="button" class="qap-pill" id="qap-continuous" title="Toggle continuous playback">🔁 Cont.</button>
+        <button type="button" class="qap-pill" id="qap-speed" title="Playback speed">1x</button>
+        <button type="button" class="qap-btn qap-close" id="qap-close" title="Close player" aria-label="Close">×</button>
+      </div>
+    </div>
+  </div>
+
   <script src="firebase-config.js?v=24"></script>
   <script src="https://www.gstatic.com/firebasejs/10.12.0/firebase-app-compat.js"></script>
   <script src="https://www.gstatic.com/firebasejs/10.12.0/firebase-auth-compat.js"></script>
   <script src="https://www.gstatic.com/firebasejs/10.12.0/firebase-firestore-compat.js"></script>
   <script src="github-sync.js?v=27"></script>
   <script src="firebase-sync.js?v=30"></script>
-  <script src="reader.js?v=64"></script>
+  <script src="audio-player.js?v=1"></script>
+  <script src="reader.js?v=65"></script>
   <script src="print.js?v=11"></script>
   <script>
     // Offline support: register the service worker (no-op on unsupported browsers).
