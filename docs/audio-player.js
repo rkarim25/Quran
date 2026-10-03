@@ -327,7 +327,9 @@ const QuranAudio = (() => {
       const curTime = document.getElementById("qap-current-time");
       const durTime = document.getElementById("qap-duration");
       if (progress && speechEstimatedDuration > 0) {
-        progress.value = Math.min(100, (elapsed / speechEstimatedDuration) * 100);
+        const pct = Math.min(100, (elapsed / speechEstimatedDuration) * 100);
+        progress.value = pct;
+        progress.style.setProperty("--seek-pct", `${pct}%`);
       }
       if (curTime) curTime.textContent = formatTime(elapsed);
       if (durTime) durTime.textContent = formatTime(speechEstimatedDuration);
@@ -1091,6 +1093,11 @@ const QuranAudio = (() => {
     isPlaying = true;
     highlightArabicAyah(currentSurahId, currentAyahNum);
     clearEnglishHighlights();
+    const progressEl = document.getElementById("qap-progress");
+    if (progressEl) {
+      progressEl.value = 0;
+      progressEl.style.setProperty("--seek-pct", "0%");
+    }
     updatePlayerBar();
     updateMediaSession();
     if (autoScroll) scrollToAyah(currentSurahId, currentAyahNum);
@@ -1149,6 +1156,11 @@ const QuranAudio = (() => {
     isPlaying = true;
     clearArabicHighlights();
     highlightEnglishSegment(currentAyahNum);
+    const progressEl = document.getElementById("qap-progress");
+    if (progressEl) {
+      progressEl.value = 0;
+      progressEl.style.setProperty("--seek-pct", "0%");
+    }
     updatePlayerBar();
     updateMediaSession();
 
@@ -1569,6 +1581,11 @@ const QuranAudio = (() => {
     currentChunk = null;
     clearArabicHighlights();
     clearEnglishHighlights();
+    const progressEl = document.getElementById("qap-progress");
+    if (progressEl) {
+      progressEl.value = 0;
+      progressEl.style.setProperty("--seek-pct", "0%");
+    }
     updatePlayerBar();
     const toolbarBtn = document.getElementById("toolbar-play-surah");
     if (toolbarBtn) {
@@ -1584,7 +1601,9 @@ const QuranAudio = (() => {
       const curTime = document.getElementById("qap-current-time");
       const durTime = document.getElementById("qap-duration");
       if (progress && activeAudio.duration) {
-        progress.value = (activeAudio.currentTime / activeAudio.duration) * 100;
+        const pct = (activeAudio.currentTime / activeAudio.duration) * 100;
+        progress.value = pct;
+        progress.style.setProperty("--seek-pct", `${pct}%`);
       }
       if (curTime) curTime.textContent = formatTime(activeAudio.currentTime);
       if (durTime && activeAudio.duration) durTime.textContent = formatTime(activeAudio.duration);
@@ -1627,6 +1646,7 @@ const QuranAudio = (() => {
     if (progressEl) {
       progressEl.addEventListener("input", () => {
         seeking = true;
+        progressEl.style.setProperty("--seek-pct", `${progressEl.value}%`);
         const curTime = document.getElementById("qap-current-time");
         if (playPhase === "english" && activeSpeechType !== "studio") {
           if (curTime && speechEstimatedDuration > 0) {
@@ -1640,6 +1660,7 @@ const QuranAudio = (() => {
         }
       });
       progressEl.addEventListener("change", () => {
+        progressEl.style.setProperty("--seek-pct", `${progressEl.value}%`);
         if (playPhase === "english" && activeSpeechType !== "studio") {
           if (speechSentences.length > 0 && speechEstimatedDuration > 0) {
             const pct = progressEl.value / 100;
