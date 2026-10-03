@@ -214,22 +214,42 @@ const QuranFirebaseSync = (() => {
 
   async function signInWithGoogle() {
     if (!configured) {
-      document.getElementById("firebase-status-msg").textContent =
-        "Add your Firebase config to docs/firebase-config.js first.";
+      const msgEl = document.getElementById("firebase-status-msg");
+      if (msgEl) {
+        msgEl.textContent = "Add your Firebase config to docs/firebase-config.js first.";
+      }
       return;
     }
     const msgEl = document.getElementById("firebase-status-msg");
     if (msgEl) msgEl.textContent = "Opening Google sign-in…";
+
+    const provider = new firebase.auth.GoogleAuthProvider();
+    provider.setCustomParameters({ prompt: "select_account" });
+
     try {
-      const provider = new firebase.auth.GoogleAuthProvider();
-      const isMobile = /Android|iPhone|iPad|iPod/i.test(navigator.userAgent);
-      if (isMobile) {
-        await auth.signInWithRedirect(provider);
-      } else {
-        await auth.signInWithPopup(provider);
-      }
+      // Prefer popup across both desktop and mobile. On mobile browsers (iOS Safari,
+      // Android Chrome), popup auth avoids cross-origin storage partitioning and third-party
+      // cookie blocking that breaks signInWithRedirect when the site (github.io) and
+      // authDomain (firebaseapp.com) are different origins.
+      await auth.signInWithPopup(provider);
+      if (msgEl) msgEl.textContent = "Signed in successfully.";
     } catch (e) {
-      console.warn("Google sign-in failed", e);
+      console.warn("Google sign-in popup attempt failed", e);
+      // Fallback to redirect only if popup is strictly blocked or unsupported
+      if (
+        e.code === "auth/popup-blocked" ||
+        e.code === "auth/operation-not-supported-in-this-environment"
+      ) {
+        if (msgEl) msgEl.textContent = "Popup blocked — redirecting to Google…";
+        try {
+          await auth.signInWithRedirect(provider);
+          return;
+        } catch (redirErr) {
+          console.warn("Google sign-in redirect fallback failed", redirErr);
+          if (msgEl) msgEl.textContent = redirErr.message || "Sign-in failed.";
+          return;
+        }
+      }
       if (msgEl) {
         msgEl.textContent =
           e.code === "auth/popup-closed-by-user"
@@ -358,11 +378,36 @@ const QuranFirebaseSync = (() => {
       if (isSignedIn()) setStatus("offline");
     });
 
-    return new Promise((resolve) => {
-      auth.getRedirectResult().catch((e) => console.warn("Redirect sign-in failed", e));
+    return new Promise(async (resolve) => {
+      let resolved = false;
+      const done = () => {
+        if (!resolved) {
+          resolved = true;
+          resolve();
+        }
+      };
+
+      // Safeguard so offline/slow boot never hangs
+      const timeout = setTimeout(done, 3000);
+
+      try {
+        const res = await Promise.race([
+          auth.getRedirectResult(),
+          new Promise((_, reject) => setTimeout(() => reject(new Error("redirect-timeout")), 2500)),
+        ]);
+        if (res && res.user) {
+          console.info("Firebase sync: redirect sign-in succeeded for", res.user.email);
+        }
+      } catch (e) {
+        if (e && e.message !== "redirect-timeout") {
+          console.warn("Firebase redirect sign-in check failed", e);
+        }
+      }
+
       auth.onAuthStateChanged((user) => {
+        clearTimeout(timeout);
         onAuthStateChanged(user);
-        resolve();
+        done();
       });
     });
   }

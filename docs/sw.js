@@ -9,7 +9,7 @@
      sign-in, cross-device sync, and the auto-update check still need (and use)
      the live network.
    Bump VERSION on any change here to roll caches over. */
-const VERSION = "2026-08-27a";
+const VERSION = "2026-10-03a";
 const CORE = `quran-core-${VERSION}`;
 const RUNTIME = `quran-runtime-${VERSION}`;
 
@@ -33,6 +33,9 @@ const NETWORK_ONLY_HOSTS = [
   "securetoken.googleapis.com",
   "www.googleapis.com",
   "firebaseinstallations.googleapis.com",
+  "quran-reader-sync.firebaseapp.com",
+  "accounts.google.com",
+  "apis.google.com",
 ];
 
 self.addEventListener("install", (event) => {
@@ -61,7 +64,14 @@ self.addEventListener("fetch", (event) => {
   try { url = new URL(req.url); } catch (_) { return; }
 
   // Never cache auth/sync/installations calls, or the auto-update probe.
-  if (NETWORK_ONLY_HOSTS.includes(url.hostname)) return;
+  if (
+    NETWORK_ONLY_HOSTS.includes(url.hostname) ||
+    url.hostname.endsWith(".firebaseapp.com") ||
+    url.hostname.endsWith(".googleapis.com") ||
+    url.hostname.endsWith(".google.com")
+  ) {
+    return;
+  }
   if (url.pathname.endsWith("build.json")) return;
 
   // SPA navigations: try the network (so deploys land), fall back to the shell.
