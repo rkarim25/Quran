@@ -9,7 +9,7 @@
      sign-in, cross-device sync, and the auto-update check still need (and use)
      the live network.
    Bump VERSION on any change here to roll caches over. */
-const VERSION = "2026-10-03h";
+const VERSION = "2026-10-03i";
 const CORE = `quran-core-${VERSION}`;
 const RUNTIME = `quran-runtime-${VERSION}`;
 
@@ -77,7 +77,9 @@ self.addEventListener("fetch", (event) => {
     url.hostname.includes("everyayah.com") ||
     url.hostname.includes("qurancdn.com") ||
     url.hostname.includes("quran.com") ||
-    url.hostname.includes("islamic.network")
+    url.hostname.includes("islamic.network") ||
+    url.pathname.endsWith(".mp3") ||
+    url.pathname.includes("/audio/")
   ) {
     return;
   }
