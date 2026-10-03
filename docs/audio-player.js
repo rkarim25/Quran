@@ -521,6 +521,12 @@ const QuranAudio = (() => {
     if (speedBtn) {
       speedBtn.textContent = `${playbackRate}x`;
     }
+
+    const toolbarBtn = document.getElementById("toolbar-play-surah");
+    if (toolbarBtn) {
+      toolbarBtn.textContent = isPlaying ? "⏸ Pause" : "▶ Listen";
+      toolbarBtn.classList.toggle("playing", isPlaying);
+    }
   }
 
   function playArabicAyah(surahId, ayahNum, { autoScroll = true } = {}) {
@@ -530,6 +536,13 @@ const QuranAudio = (() => {
     playPhase = "arabic";
     usingFallback = false;
 
+    // Immediate visual feedback on click
+    isPlaying = true;
+    highlightArabicAyah(currentSurahId, currentAyahNum);
+    updatePlayerBar();
+    updateMediaSession();
+    if (autoScroll) scrollToAyah(currentSurahId, currentAyahNum);
+
     const url = getAyahAudioUrl(currentSurahId, currentAyahNum, false);
     audio.src = url;
     audio.playbackRate = playbackRate;
@@ -538,10 +551,7 @@ const QuranAudio = (() => {
       .play()
       .then(() => {
         isPlaying = true;
-        highlightArabicAyah(currentSurahId, currentAyahNum);
         updatePlayerBar();
-        updateMediaSession();
-        if (autoScroll) scrollToAyah(currentSurahId, currentAyahNum);
       })
       .catch((err) => {
         console.warn("Primary audio play failed, trying fallback", err);
@@ -552,10 +562,7 @@ const QuranAudio = (() => {
           .play()
           .then(() => {
             isPlaying = true;
-            highlightArabicAyah(currentSurahId, currentAyahNum);
             updatePlayerBar();
-            updateMediaSession();
-            if (autoScroll) scrollToAyah(currentSurahId, currentAyahNum);
           })
           .catch((e) => {
             console.warn("Fallback recitation playback failed", e);
@@ -759,10 +766,14 @@ const QuranAudio = (() => {
   }
 
   function toggleAyah(surahId, ayahNum) {
-    if (currentSurahId === +surahId && currentAyahNum === +ayahNum) {
-      togglePlay();
+    const sId = +(surahId || (window.currentSurah ? window.currentSurah.id : 1));
+    const aNum = +(ayahNum || 1);
+    if (currentSurahId === sId && currentAyahNum === aNum && isPlaying) {
+      pause();
+    } else if (currentSurahId === sId && currentAyahNum === aNum && !isPlaying) {
+      resume();
     } else {
-      playAyah(surahId, ayahNum);
+      playAyah(sId, aNum);
     }
   }
 
@@ -1042,7 +1053,11 @@ const QuranAudio = (() => {
       updatePlayerBar();
     },
   };
+  window.QuranAudio = api;
+  return api;
 })();
+
+window.QuranAudio = QuranAudio;
 
 if (document.readyState === "loading") {
   document.addEventListener("DOMContentLoaded", QuranAudio.init);

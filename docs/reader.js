@@ -1007,7 +1007,7 @@ function toolbarHtml(data, ayah, surahs = []) {
             <option value="book" ${prefs.layoutMode === "book" ? "selected" : ""}>Book</option>
             ${mushafAvailable(data.id) ? `<option value="mushaf" ${prefs.layoutMode === "mushaf" ? "selected" : ""}>Mushaf</option>` : ""}
           </select>
-          <button type="button" class="btn play-surah-btn" id="toolbar-play-surah" title="Listen to this sūrah (Mishary Rashid Alafasy)">▶ Listen</button>
+          <button type="button" class="btn play-surah-btn" id="toolbar-play-surah" data-action="play-surah" title="Listen to this sūrah (Mishary Rashid Alafasy)">▶ Listen</button>
           ${contentMenuHtml(data)}
           <button type="button" class="btn ${prefs.wordMode === "ai" ? "active" : ""}" id="toggle-wordmode" title="Hover any word for an AI grammar &amp; meaning breakdown">Word AI</button>
           <span class="font-group"><span class="fg-label" dir="rtl">ع</span><button type="button" class="btn icon-only" id="font-smaller" title="Smaller Arabic">A−</button><button type="button" class="btn icon-only" id="font-larger" title="Larger Arabic">A+</button></span>
@@ -2231,7 +2231,8 @@ function bindSurahEvents() {
         btn.setAttribute("aria-label", added ? "Remove bookmark" : "Bookmark");
       } else if (action === "play-ayah") {
         e.stopPropagation();
-        window.QuranAudio?.toggleAyah(surahId, ayahNum);
+        const player = window.QuranAudio || (typeof QuranAudio !== "undefined" ? QuranAudio : null);
+        player?.toggleAyah(surahId, ayahNum);
       } else if (action === "study" || action === "select") {
         openStudyPanel(ayahNum);
       }
@@ -2243,10 +2244,13 @@ function bindSurahEvents() {
     });
   });
 
-  document.getElementById("toolbar-play-surah")?.addEventListener("click", () => {
-    const sId = currentSurah ? currentSurah.id : 1;
+  document.getElementById("toolbar-play-surah")?.addEventListener("click", (e) => {
+    e.preventDefault();
+    e.stopPropagation();
+    const sId = currentSurah ? currentSurah.id : (window.currentSurah ? window.currentSurah.id : 1);
     const vAyah = visibleAyah || 1;
-    window.QuranAudio?.toggleAyah(sId, vAyah);
+    const player = window.QuranAudio || (typeof QuranAudio !== "undefined" ? QuranAudio : null);
+    player?.toggleAyah(sId, vAyah);
   });
 
   document.querySelectorAll(".book-ayah").forEach((el) => {
@@ -3480,9 +3484,20 @@ async function renderSurah(data, targetAyah, openStudy = false) {
 }
 
 document.addEventListener("click", (e) => {
+  const playSurahBtn = e.target.closest && e.target.closest("#toolbar-play-surah, [data-action='play-surah']");
+  if (playSurahBtn) {
+    e.preventDefault();
+    e.stopPropagation();
+    const sId = currentSurah ? currentSurah.id : (window.currentSurah ? window.currentSurah.id : 1);
+    const vAyah = (typeof visibleAyah !== "undefined" && visibleAyah) ? visibleAyah : 1;
+    const player = window.QuranAudio || (typeof QuranAudio !== "undefined" ? QuranAudio : null);
+    player?.toggleAyah(sId, vAyah);
+    return;
+  }
   const tooltip = document.getElementById("word-tooltip");
-  if (tooltip.hidden) return;
-  if (!tooltip.contains(e.target) && !e.target.classList.contains("q-word")) hideTooltip();
+  if (tooltip && !tooltip.hidden) {
+    if (!tooltip.contains(e.target) && !e.target.classList.contains("q-word")) hideTooltip();
+  }
 });
 
 document.addEventListener("click", async (e) => {
