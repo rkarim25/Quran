@@ -1465,7 +1465,7 @@ async function toggleAsbabCard(surahId, ayahNum, triggerBtn) {
 
   const key = `${surahId}:${ayahNum}`;
   const entry = cache.asbabNuzul ? cache.asbabNuzul[key] : null;
-  const ayahObj = currentSurah?.ayahs?.find((a) => a.ayah === ayahNum);
+  const ayahObj = (currentSurah && currentSurah.id === surahId ? currentSurah : cache.surahs[surahId])?.ayahs?.find((a) => a.ayah === ayahNum);
   const rawText = entry?.occasion || ayahObj?.context || "";
   const source = entry?.source || "Ibn Kathir, Tafsir al-Qur'an al-Adhim";
 
@@ -1495,24 +1495,25 @@ async function toggleAsbabCard(surahId, ayahNum, triggerBtn) {
 
   triggerBtn?.classList.add("active");
 
-  const block = document.getElementById(`ayah-${surahId}-${ayahNum}`);
-  if (block) {
+  const seg = triggerBtn?.closest(".book-trans-seg") || document.querySelector(`.book-trans-seg[data-ayah="${ayahNum}"]`);
+  const transSec = seg?.closest(".book-translation-section");
+  const block = document.querySelector(`.ayah-block#ayah-${surahId}-${ayahNum}`);
+
+  if (transSec) {
+    // Book mode: place card directly after the translation section of this chunk
+    transSec.insertAdjacentHTML("afterend", cardHtml);
+  } else if (block) {
+    // Verse / WBW mode: place inside the ayah block after the translation
     const transBlock = block.querySelector(".translation-block, .wbw-trans-wrapper, .wbw-fulltrans");
     if (transBlock) {
       transBlock.insertAdjacentHTML("afterend", cardHtml);
     } else {
-      block.querySelector(".ayah-body")?.insertAdjacentHTML("beforeend", cardHtml);
+      (block.querySelector(".ayah-body") || block).insertAdjacentHTML("beforeend", cardHtml);
     }
+  } else if (triggerBtn?.parentElement) {
+    triggerBtn.parentElement.insertAdjacentHTML("afterend", cardHtml);
   } else {
-    const seg = document.querySelector(`.book-trans-seg[data-ayah="${ayahNum}"]`);
-    const transSec = seg?.closest(".book-translation-section");
-    if (transSec) {
-      transSec.insertAdjacentHTML("afterend", cardHtml);
-    } else if (seg) {
-      seg.insertAdjacentHTML("afterend", cardHtml);
-    } else {
-      triggerBtn?.parentElement?.insertAdjacentHTML("afterend", cardHtml);
-    }
+    document.getElementById("app")?.insertAdjacentHTML("beforeend", cardHtml);
   }
 
   const card = document.getElementById(`asbab-card-${surahId}-${ayahNum}`);
@@ -2362,63 +2363,6 @@ function bindSurahEvents() {
     });
   });
 
-  // Delegated click handling for Asbab al-Nuzul light bulbs and micro-cards
-  const readerContainer = document.getElementById("reader-container");
-  if (readerContainer && !readerContainer.dataset.asbabBound) {
-    readerContainer.dataset.asbabBound = "1";
-    readerContainer.addEventListener("click", (e) => {
-      const bulbBtn = e.target.closest('[data-action="toggle-asbab"]');
-      if (bulbBtn) {
-        e.preventDefault();
-        e.stopPropagation();
-        const sId = +bulbBtn.dataset.s;
-        const aNum = +bulbBtn.dataset.a;
-        toggleAsbabCard(sId, aNum, bulbBtn);
-        return;
-      }
-
-      const closeBtn = e.target.closest('[data-action="close-asbab"]');
-      if (closeBtn) {
-        e.preventDefault();
-        e.stopPropagation();
-        const card = closeBtn.closest(".asbab-micro-card");
-        if (card) {
-          const s = card.dataset.s;
-          const a = card.dataset.a;
-          card.remove();
-          document.querySelector(`.asbab-bulb-btn[data-s="${s}"][data-a="${a}"]`)?.classList.remove("active");
-        }
-        return;
-      }
-
-      const expandBtn = e.target.closest('[data-action="expand-asbab"]');
-      if (expandBtn) {
-        e.preventDefault();
-        e.stopPropagation();
-        const s = expandBtn.dataset.s;
-        const a = expandBtn.dataset.a;
-        const textEl = document.getElementById(`asbab-text-${s}-${a}`);
-        if (textEl && textEl.dataset.full) {
-          textEl.textContent = textEl.dataset.full;
-          expandBtn.remove();
-        }
-        return;
-      }
-
-      const studyBtn = e.target.closest('[data-action="study-occasion"]');
-      if (studyBtn) {
-        e.preventDefault();
-        e.stopPropagation();
-        const aNum = +studyBtn.dataset.a;
-        prefs.activePanel = "hadith";
-        openStudyPanel(aNum);
-        setTimeout(() => {
-          document.querySelector('.ctx-subtab[data-tab="occasion"]')?.click();
-        }, 120);
-        return;
-      }
-    });
-  }
 
 
   document.getElementById("layout-select")?.addEventListener("change", async (e) => {
@@ -3755,7 +3699,7 @@ async function renderSurah(data, targetAyah, openStudy = false) {
   window.bookChunks = bookChunks;
   window.mergeLocalEdits = mergeLocalEdits;
   loadAiWbw(data.id);
-  loadAsbabNuzul();
+  await loadAsbabNuzul();
   // The ayah blocks read passage tafsir synchronously, so it must be cached
   // before the first paint — but only wait for it when it will actually be
   // shown; otherwise just warm the cache and let the paint go ahead.
@@ -3827,6 +3771,82 @@ document.addEventListener("click", (e) => {
   const tooltip = document.getElementById("word-tooltip");
   if (tooltip && !tooltip.hidden) {
     if (!tooltip.contains(e.target) && !e.target.classList.contains("q-word")) hideTooltip();
+  }
+});
+
+// Delegated click handling for Asbab al-Nuzul light bulbs and micro-cards
+document.addEventListener("click", async (e) => {
+  const bulbBtn = e.target.closest && e.target.closest('[data-action="toggle-asbab"]');
+  if (bulbBtn) {
+    e.preventDefault();
+    e.stopPropagation();
+    const sId = +bulbBtn.dataset.s;
+    const aNum = +bulbBtn.dataset.a;
+    await toggleAsbabCard(sId, aNum, bulbBtn);
+    return;
+  }
+
+  const closeBtn = e.target.closest && e.target.closest('[data-action="close-asbab"]');
+  if (closeBtn) {
+    e.preventDefault();
+    e.stopPropagation();
+    const card = closeBtn.closest(".asbab-micro-card");
+    if (card) {
+      const s = card.dataset.s;
+      const a = card.dataset.a;
+      card.remove();
+      document.querySelector(`.asbab-bulb-btn[data-s="${s}"][data-a="${a}"]`)?.classList.remove("active");
+    }
+    return;
+  }
+
+  const expandBtn = e.target.closest && e.target.closest('[data-action="expand-asbab"]');
+  if (expandBtn) {
+    e.preventDefault();
+    e.stopPropagation();
+    const s = expandBtn.dataset.s;
+    const a = expandBtn.dataset.a;
+    const textEl = document.getElementById(`asbab-text-${s}-${a}`);
+    if (textEl && textEl.dataset.full) {
+      textEl.textContent = textEl.dataset.full;
+      expandBtn.remove();
+    }
+    return;
+  }
+
+  const studyBtn = e.target.closest && e.target.closest('[data-action="study-occasion"]');
+  if (studyBtn) {
+    e.preventDefault();
+    e.stopPropagation();
+    const sId = +studyBtn.dataset.s;
+    const aNum = +studyBtn.dataset.a;
+    prefs.activeContextTab = "occasion";
+    if (prefs.layoutMode === "book") {
+      prefs.activePanel = "hadith";
+      openStudyPanel(aNum);
+      setTimeout(() => {
+        document.querySelector('.ctx-tab[data-ctx="occasion"]')?.click();
+      }, 120);
+    } else {
+      const key = `${sId}:${aNum}`;
+      (ayahShow[key] || (ayahShow[key] = {})).hadith = true;
+      if (!cache.hadithIndex || cache.asbabNuzul === null) {
+        await Promise.all([
+          !cache.hadithIndex ? loadHadithData() : Promise.resolve(),
+          cache.asbabNuzul === null ? loadAsbabNuzul() : Promise.resolve(),
+        ]);
+      }
+      refreshAyahExtras(sId, aNum);
+      const block = document.getElementById(`ayah-${sId}-${aNum}`);
+      if (block) {
+        const axWrap = block.querySelector(".ax-hadith");
+        if (axWrap) {
+          bindContextPanelEvents(axWrap);
+          axWrap.scrollIntoView({ behavior: "smooth", block: "nearest" });
+        }
+      }
+    }
+    return;
   }
 });
 
