@@ -85,6 +85,7 @@ const QuranAudio = (() => {
   let currentSurahId = null;
   let currentAyahNum = null;
   let isPlaying = false;
+  let playPhase = "arabic"; // "arabic" | "english"
   // Repeat Modes: "cont" (continuous) | "ayah" (repeat 1) | "para" (repeat paragraph) | "range" (repeat range of ayat) | "single" (once)
   let repeatMode = localStorage.getItem(STORAGE_REPEAT_MODE) ||
     (localStorage.getItem(STORAGE_CONT) === "false" ? "single" : "cont");
