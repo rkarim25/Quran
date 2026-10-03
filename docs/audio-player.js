@@ -20,6 +20,10 @@ const QuranAudio = (() => {
   const STORAGE_RATE = "quran-audio-rate";
   const STORAGE_ENG = "quran-audio-english";
   const STORAGE_FORMAT = "quran-audio-format";
+  const STORAGE_REPEAT_MODE = "quran-audio-repeat-mode";
+  const STORAGE_REPEAT_START = "quran-audio-repeat-start";
+  const STORAGE_REPEAT_END = "quran-audio-repeat-end";
+  const STORAGE_REPEAT_LIMIT = "quran-audio-repeat-limit";
 
   // Audio CDNs
   const ARABIC_PRIMARY_BASE = "https://everyayah.com/data/Alafasy_128kbps/";
@@ -81,8 +85,14 @@ const QuranAudio = (() => {
   let currentSurahId = null;
   let currentAyahNum = null;
   let isPlaying = false;
-  let playPhase = "arabic"; // "arabic" | "english"
-  let continuous = localStorage.getItem(STORAGE_CONT) !== "false";
+  // Repeat Modes: "cont" (continuous) | "ayah" (repeat 1) | "para" (repeat paragraph) | "range" (repeat range of ayat) | "single" (once)
+  let repeatMode = localStorage.getItem(STORAGE_REPEAT_MODE) ||
+    (localStorage.getItem(STORAGE_CONT) === "false" ? "single" : "cont");
+  let repeatRangeStart = parseInt(localStorage.getItem(STORAGE_REPEAT_START), 10) || 1;
+  let repeatRangeEnd = parseInt(localStorage.getItem(STORAGE_REPEAT_END), 10) || 7;
+  let repeatLimit = parseInt(localStorage.getItem(STORAGE_REPEAT_LIMIT), 10) || 0; // 0 = infinite (∞)
+  let repeatCurrentIteration = 1;
+  let continuous = repeatMode === "cont";
   let includeEnglish = localStorage.getItem(STORAGE_ENG) !== "false";
   let playbackFormat = localStorage.getItem(STORAGE_FORMAT) || "auto"; // "auto" | "paragraph" | "sentence"
   let playbackRate = parseFloat(localStorage.getItem(STORAGE_RATE)) || 1.0;
@@ -693,7 +703,12 @@ const QuranAudio = (() => {
     const sName = getSurahName(currentSurahId);
     const isPara = isParagraphMode();
 
-    let title = `${sName} · Ayah ${currentAyahNum}`;
+    let loopTag = "";
+    if (repeatMode === "ayah") loopTag = " 🔂";
+    else if (repeatMode === "para") loopTag = " 🔁 Para";
+    else if (repeatMode === "range") loopTag = ` 🔁 ${Math.min(repeatRangeStart, repeatRangeEnd)}–${Math.max(repeatRangeStart, repeatRangeEnd)}`;
+
+    let title = `${sName} · Ayah ${currentAyahNum}${loopTag}`;
     let artist = "Mishary Rashid Alafasy";
 
     if (playPhase === "english") {
@@ -713,14 +728,14 @@ const QuranAudio = (() => {
       if (isPara && currentChunk) {
         const s = currentChunk[0].ayah;
         const e = currentChunk[currentChunk.length - 1].ayah;
-        title = `${sName} · ${currentSurahId}:${s}–${e} (Ayah ${currentAyahNum})${typeLabel}`;
+        title = `${sName} · ${currentSurahId}:${s}–${e} (Ayah ${currentAyahNum})${typeLabel}${loopTag}`;
       } else {
-        title = `${sName} · ${currentSurahId}:${currentAyahNum}${typeLabel}`;
+        title = `${sName} · ${currentSurahId}:${currentAyahNum}${typeLabel}${loopTag}`;
       }
     } else if (isPara && currentChunk) {
       const s = currentChunk[0].ayah;
       const e = currentChunk[currentChunk.length - 1].ayah;
-      title = `${sName} · ${currentSurahId}:${s}–${e} (Ayah ${currentAyahNum})`;
+      title = `${sName} · ${currentSurahId}:${s}–${e} (Ayah ${currentAyahNum})${loopTag}`;
     }
 
     navigator.mediaSession.metadata = new MediaMetadata({
@@ -858,14 +873,17 @@ const QuranAudio = (() => {
     const paneSurah = document.getElementById("qap-pane-surah");
     const paneVerse = document.getElementById("qap-pane-verse");
     const paneJuz = document.getElementById("qap-pane-juz");
+    const paneRepeat = document.getElementById("qap-pane-repeat");
 
     if (paneSurah) paneSurah.hidden = tab !== "surah";
     if (paneVerse) paneVerse.hidden = tab !== "verse";
     if (paneJuz) paneJuz.hidden = tab !== "juz";
+    if (paneRepeat) paneRepeat.hidden = tab !== "repeat";
 
     if (tab === "surah") renderSurahChooser();
     else if (tab === "verse") renderVerseChooser(verseChooserSurahId);
     else if (tab === "juz") renderJuzChooser();
+    else if (tab === "repeat") renderRepeatChooser();
   }
 
   async function renderSurahChooser(filter = "") {
@@ -984,6 +1002,271 @@ const QuranAudio = (() => {
     });
   }
 
+  function setRepeatMode(mode, opts = {}) {
+    repeatMode = mode;
+    repeatCurrentIteration = 1;
+    continuous = repeatMode === "cont";
+    if (opts.start !== undefined) repeatRangeStart = +opts.start;
+    if (opts.end !== undefined) repeatRangeEnd = +opts.end;
+    if (opts.limit !== undefined) repeatLimit = +opts.limit;
+
+    if (repeatMode === "range" && (!opts.start || !opts.end)) {
+      const sId = currentSurahId || (window.currentSurah ? window.currentSurah.id : 1);
+      const total = getTotalVerses(sId);
+      const cur = currentAyahNum || 1;
+      const chunkInfo = findChunkForAyah(sId, cur);
+      if (chunkInfo) {
+        repeatRangeStart = chunkInfo.chunk[0].ayah;
+        repeatRangeEnd = chunkInfo.chunk[chunkInfo.chunk.length - 1].ayah;
+      } else {
+        repeatRangeStart = cur;
+        repeatRangeEnd = Math.min(total, cur + 3);
+      }
+    }
+
+    try {
+      localStorage.setItem(STORAGE_REPEAT_MODE, repeatMode);
+      localStorage.setItem(STORAGE_CONT, String(continuous));
+      localStorage.setItem(STORAGE_REPEAT_START, String(repeatRangeStart));
+      localStorage.setItem(STORAGE_REPEAT_END, String(repeatRangeEnd));
+      localStorage.setItem(STORAGE_REPEAT_LIMIT, String(repeatLimit));
+    } catch (_) {}
+
+    updatePlayerBar();
+    renderRepeatChooser();
+
+    if (opts.playNow) {
+      const sId = currentSurahId || (window.currentSurah ? window.currentSurah.id : 1);
+      if (repeatMode === "range") {
+        playAyah(sId, repeatRangeStart);
+      } else if (repeatMode === "para") {
+        const chunkInfo = findChunkForAyah(sId, currentAyahNum);
+        const sAyah = chunkInfo ? chunkInfo.chunk[0].ayah : currentAyahNum;
+        playAyah(sId, sAyah);
+      } else if (!isPlaying) {
+        resume();
+      }
+    }
+  }
+
+  function cycleRepeatMode() {
+    const modes = ["cont", "ayah", "para", "range", "single"];
+    const idx = modes.indexOf(repeatMode);
+    const nextMode = modes[(idx + 1) % modes.length];
+    setRepeatMode(nextMode);
+  }
+
+  function renderRepeatChooser() {
+    const container = document.getElementById("qap-repeat-container");
+    if (!container) return;
+
+    const sId = currentSurahId || (window.currentSurah ? window.currentSurah.id : 1);
+    const sName = getSurahName(sId);
+    const totalVerses = getTotalVerses(sId);
+    const curAyah = currentAyahNum || 1;
+
+    const chunkInfo = findChunkForAyah(sId, curAyah);
+    const chunkStart = chunkInfo ? chunkInfo.chunk[0].ayah : curAyah;
+    const chunkEnd = chunkInfo ? chunkInfo.chunk[chunkInfo.chunk.length - 1].ayah : Math.min(totalVerses, curAyah + 3);
+    const paraRangeLabel = `${chunkStart}–${chunkEnd}`;
+
+    if (repeatRangeStart < 1) repeatRangeStart = 1;
+    if (repeatRangeStart > totalVerses) repeatRangeStart = totalVerses;
+    if (repeatRangeEnd < 1) repeatRangeEnd = 1;
+    if (repeatRangeEnd > totalVerses) repeatRangeEnd = totalVerses;
+    if (repeatRangeEnd < repeatRangeStart) repeatRangeEnd = repeatRangeStart;
+
+    container.innerHTML = `
+      <div class="qap-repeat-wrap">
+        <div class="qap-repeat-header">
+          <span class="qap-repeat-sname">${sId}. ${sName}</span>
+          <span class="qap-repeat-meta">${totalVerses} verses total</span>
+        </div>
+
+        <div class="qap-repeat-sec">
+          <div class="qap-repeat-label">Repeat Mode</div>
+          <div class="qap-repeat-grid">
+            <button type="button" class="qap-rpt-opt${repeatMode === 'cont' ? ' active' : ''}" data-mode="cont">
+              <span class="qap-rpt-icon">🔁</span>
+              <span class="qap-rpt-text">
+                <span class="qap-rpt-title">Continuous</span>
+                <span class="qap-rpt-desc">Entire Sūrah</span>
+              </span>
+            </button>
+
+            <button type="button" class="qap-rpt-opt${repeatMode === 'ayah' ? ' active' : ''}" data-mode="ayah">
+              <span class="qap-rpt-icon">🔂</span>
+              <span class="qap-rpt-text">
+                <span class="qap-rpt-title">1 Ayah</span>
+                <span class="qap-rpt-desc">Loop Ayah ${curAyah}</span>
+              </span>
+            </button>
+
+            <button type="button" class="qap-rpt-opt${repeatMode === 'para' ? ' active' : ''}" data-mode="para">
+              <span class="qap-rpt-icon">📄</span>
+              <span class="qap-rpt-text">
+                <span class="qap-rpt-title">Paragraph</span>
+                <span class="qap-rpt-desc">Passage ${paraRangeLabel}</span>
+              </span>
+            </button>
+
+            <button type="button" class="qap-rpt-opt${repeatMode === 'range' ? ' active' : ''}" data-mode="range">
+              <span class="qap-rpt-icon">🔢</span>
+              <span class="qap-rpt-text">
+                <span class="qap-rpt-title">Custom Range</span>
+                <span class="qap-rpt-desc">Ayat ${repeatRangeStart}–${repeatRangeEnd}</span>
+              </span>
+            </button>
+
+            <button type="button" class="qap-rpt-opt${repeatMode === 'single' ? ' active' : ''}" data-mode="single">
+              <span class="qap-rpt-icon">⏸</span>
+              <span class="qap-rpt-text">
+                <span class="qap-rpt-title">Play Once</span>
+                <span class="qap-rpt-desc">Stop after current</span>
+              </span>
+            </button>
+          </div>
+        </div>
+
+        <div class="qap-repeat-sec qap-range-box" id="qap-range-box">
+          <div class="qap-repeat-label">Range of Ayat (For Custom Range)</div>
+          <div class="qap-range-inputs">
+            <div class="qap-range-field">
+              <label>From Verse</label>
+              <div class="qap-stepper">
+                <button type="button" class="qap-step-btn" id="qap-step-start-dec">−</button>
+                <input type="number" id="qap-step-start-input" min="1" max="${totalVerses}" value="${repeatRangeStart}">
+                <button type="button" class="qap-step-btn" id="qap-step-start-inc">+</button>
+              </div>
+            </div>
+            <div class="qap-range-sep">➔</div>
+            <div class="qap-range-field">
+              <label>To Verse</label>
+              <div class="qap-stepper">
+                <button type="button" class="qap-step-btn" id="qap-step-end-dec">−</button>
+                <input type="number" id="qap-step-end-input" min="1" max="${totalVerses}" value="${repeatRangeEnd}">
+                <button type="button" class="qap-step-btn" id="qap-step-end-inc">+</button>
+              </div>
+            </div>
+          </div>
+          <div class="qap-range-presets">
+            <button type="button" class="qap-preset-btn" id="qap-preset-para">Current Paragraph (${paraRangeLabel})</button>
+            <button type="button" class="qap-preset-btn" id="qap-preset-single">Current Ayah (${curAyah})</button>
+            <button type="button" class="qap-preset-btn" id="qap-preset-3">+3 Verses</button>
+            <button type="button" class="qap-preset-btn" id="qap-preset-5">+5 Verses</button>
+            <button type="button" class="qap-preset-btn" id="qap-preset-all">Whole Sūrah (1–${totalVerses})</button>
+          </div>
+        </div>
+
+        <div class="qap-repeat-sec">
+          <div class="qap-repeat-label">Repeat Limit</div>
+          <div class="qap-count-pills">
+            <button type="button" class="qap-cnt-pill${repeatLimit === 0 ? ' active' : ''}" data-limit="0">∞ Infinite Loop</button>
+            <button type="button" class="qap-cnt-pill${repeatLimit === 2 ? ' active' : ''}" data-limit="2">2×</button>
+            <button type="button" class="qap-cnt-pill${repeatLimit === 3 ? ' active' : ''}" data-limit="3">3×</button>
+            <button type="button" class="qap-cnt-pill${repeatLimit === 5 ? ' active' : ''}" data-limit="5">5×</button>
+            <button type="button" class="qap-cnt-pill${repeatLimit === 10 ? ' active' : ''}" data-limit="10">10×</button>
+          </div>
+        </div>
+
+        <div class="qap-repeat-actions">
+          <button type="button" class="qap-apply-repeat-btn" id="qap-apply-repeat">
+            ▶ Apply & Start Loop
+          </button>
+        </div>
+      </div>
+    `;
+
+    container.querySelectorAll(".qap-rpt-opt").forEach((btn) => {
+      btn.addEventListener("click", () => {
+        setRepeatMode(btn.dataset.mode);
+      });
+    });
+
+    const startInput = container.querySelector("#qap-step-start-input");
+    const endInput = container.querySelector("#qap-step-end-input");
+
+    const updateInputs = (s, e) => {
+      repeatRangeStart = Math.max(1, Math.min(totalVerses, s));
+      repeatRangeEnd = Math.max(repeatRangeStart, Math.min(totalVerses, e));
+      if (startInput) startInput.value = repeatRangeStart;
+      if (endInput) endInput.value = repeatRangeEnd;
+      try {
+        localStorage.setItem(STORAGE_REPEAT_START, String(repeatRangeStart));
+        localStorage.setItem(STORAGE_REPEAT_END, String(repeatRangeEnd));
+      } catch (_) {}
+      updatePlayerBar();
+    };
+
+    container.querySelector("#qap-step-start-dec")?.addEventListener("click", () => {
+      updateInputs(repeatRangeStart - 1, repeatRangeEnd);
+    });
+    container.querySelector("#qap-step-start-inc")?.addEventListener("click", () => {
+      updateInputs(repeatRangeStart + 1, Math.max(repeatRangeStart + 1, repeatRangeEnd));
+    });
+    container.querySelector("#qap-step-end-dec")?.addEventListener("click", () => {
+      updateInputs(repeatRangeStart, Math.max(repeatRangeStart, repeatRangeEnd - 1));
+    });
+    container.querySelector("#qap-step-end-inc")?.addEventListener("click", () => {
+      updateInputs(repeatRangeStart, repeatRangeEnd + 1);
+    });
+
+    startInput?.addEventListener("change", (e) => {
+      updateInputs(+e.target.value, repeatRangeEnd);
+    });
+    endInput?.addEventListener("change", (e) => {
+      updateInputs(repeatRangeStart, +e.target.value);
+    });
+
+    container.querySelector("#qap-preset-para")?.addEventListener("click", () => {
+      updateInputs(chunkStart, chunkEnd);
+      setRepeatMode("para");
+    });
+    container.querySelector("#qap-preset-single")?.addEventListener("click", () => {
+      updateInputs(curAyah, curAyah);
+      setRepeatMode("ayah");
+    });
+    container.querySelector("#qap-preset-3")?.addEventListener("click", () => {
+      updateInputs(curAyah, Math.min(totalVerses, curAyah + 2));
+      setRepeatMode("range");
+    });
+    container.querySelector("#qap-preset-5")?.addEventListener("click", () => {
+      updateInputs(curAyah, Math.min(totalVerses, curAyah + 4));
+      setRepeatMode("range");
+    });
+    container.querySelector("#qap-preset-all")?.addEventListener("click", () => {
+      updateInputs(1, totalVerses);
+      setRepeatMode("range");
+    });
+
+    container.querySelectorAll(".qap-cnt-pill").forEach((btn) => {
+      btn.addEventListener("click", () => {
+        repeatLimit = +btn.dataset.limit;
+        repeatCurrentIteration = 1;
+        try {
+          localStorage.setItem(STORAGE_REPEAT_LIMIT, String(repeatLimit));
+        } catch (_) {}
+        container.querySelectorAll(".qap-cnt-pill").forEach((b) => {
+          b.classList.toggle("active", +b.dataset.limit === repeatLimit);
+        });
+        updatePlayerBar();
+      });
+    });
+
+    container.querySelector("#qap-apply-repeat")?.addEventListener("click", () => {
+      closeChooser();
+      if (repeatMode === "range") {
+        playAyah(sId, repeatRangeStart);
+      } else if (repeatMode === "para") {
+        playAyah(sId, chunkStart);
+      } else if (repeatMode === "ayah") {
+        playAyah(sId, curAyah);
+      } else {
+        if (!isPlaying) resume();
+      }
+    });
+  }
+
   function openQuickNote() {
     const surah = currentSurahId || (window.currentSurah ? window.currentSurah.id : 1);
     const ayah = currentAyahNum || 1;
@@ -1040,16 +1323,21 @@ const QuranAudio = (() => {
     }
 
     if (trackEl) {
+      let loopTag = "";
+      if (repeatMode === "ayah") loopTag = " 🔂";
+      else if (repeatMode === "para") loopTag = " 🔁 Para";
+      else if (repeatMode === "range") loopTag = ` 🔁 ${Math.min(repeatRangeStart, repeatRangeEnd)}–${Math.max(repeatRangeStart, repeatRangeEnd)}`;
+
       if (isPara && currentChunk) {
         const start = currentChunk[0].ayah;
         const end = currentChunk[currentChunk.length - 1].ayah;
         const typeLabel = activeSpeechType === "tafsir" ? " [AI Tafsir]" : activeSpeechType === "ai_translation" ? " [AI Trans]" : " [English]";
         const phaseSuffix = playPhase === "english" ? typeLabel : "";
-        trackEl.textContent = `${sName} · ${currentSurahId}:${start}–${end} (Ayah ${currentAyahNum})${phaseSuffix}`;
+        trackEl.textContent = `${sName} · ${currentSurahId}:${start}–${end} (Ayah ${currentAyahNum})${phaseSuffix}${loopTag}`;
       } else {
         const typeLabel = activeSpeechType === "tafsir" ? " [AI Tafsir]" : activeSpeechType === "ai_translation" ? " [AI Trans]" : " [English]";
         const phaseSuffix = playPhase === "english" ? typeLabel : "";
-        trackEl.textContent = `${sName} · ${currentSurahId}:${currentAyahNum}${phaseSuffix}`;
+        trackEl.textContent = `${sName} · ${currentSurahId}:${currentAyahNum}${phaseSuffix}${loopTag}`;
       }
     }
 
@@ -1060,11 +1348,34 @@ const QuranAudio = (() => {
     }
 
     if (contBtn) {
-      contBtn.classList.toggle("active", continuous);
-      contBtn.textContent = continuous ? "🔁 Cont." : "🔂 Single";
-      contBtn.title = continuous
-        ? "Continuous playback enabled (auto-advances)"
-        : "Single playback enabled";
+      contBtn.classList.remove("repeat-ayah", "repeat-para", "repeat-range", "repeat-single");
+      const countSuffix = (repeatLimit > 0) ? ` (${repeatCurrentIteration}/${repeatLimit})` : "";
+
+      if (repeatMode === "cont") {
+        contBtn.classList.add("active");
+        contBtn.textContent = "🔁 Cont.";
+        contBtn.title = "Repeat: Continuous (plays whole Sūrah). Click to cycle mode, or right-click / drawer to customize.";
+      } else if (repeatMode === "ayah") {
+        contBtn.classList.add("active", "repeat-ayah");
+        contBtn.textContent = `🔂 Ayah${countSuffix}`;
+        contBtn.title = `Repeat: 1 Ayah (looping Ayah ${currentAyahNum || 1}${countSuffix}). Click to cycle mode, or right-click / drawer to customize.`;
+      } else if (repeatMode === "para") {
+        contBtn.classList.add("active", "repeat-para");
+        contBtn.textContent = `🔁 Para${countSuffix}`;
+        const chunkInfo = findChunkForAyah(currentSurahId, currentAyahNum);
+        const rLabel = chunkInfo ? ` (${chunkInfo.chunk[0].ayah}–${chunkInfo.chunk[chunkInfo.chunk.length - 1].ayah})` : "";
+        contBtn.title = `Repeat: Paragraph${rLabel}${countSuffix}. Click to cycle mode, or right-click / drawer to customize.`;
+      } else if (repeatMode === "range") {
+        contBtn.classList.add("active", "repeat-range");
+        const s = Math.min(repeatRangeStart, repeatRangeEnd);
+        const e = Math.max(repeatRangeStart, repeatRangeEnd);
+        contBtn.textContent = `🔁 ${s}–${e}${countSuffix}`;
+        contBtn.title = `Repeat: Range (Ayahs ${s} to ${e}${countSuffix}). Click to cycle mode, or right-click / drawer to customize.`;
+      } else {
+        contBtn.classList.remove("active");
+        contBtn.textContent = "⏸ Once";
+        contBtn.title = "Repeat: Off (plays once and pauses). Click to cycle mode.";
+      }
     }
 
     if (engBtn) {
@@ -1284,9 +1595,10 @@ const QuranAudio = (() => {
       ? chunkStartAyah
       : chunk[0].ayah;
 
-    const speakAyahs = chunk.filter((a) => a.ayah >= startAt);
+    const rangeEnd = (repeatMode === "range") ? Math.max(repeatRangeStart, repeatRangeEnd) : Infinity;
+    const speakAyahs = chunk.filter((a) => a.ayah >= startAt && a.ayah <= rangeEnd);
     if (!speakAyahs.length) {
-      advanceAfterChunk(chunk);
+      onChunkAudioFinished(chunk);
       return;
     }
 
@@ -1319,11 +1631,7 @@ const QuranAudio = (() => {
         updateMediaSession();
         speakNaturalText(content.text, () => {
           clearEnglishHighlights();
-          if (continuous) {
-            advanceAfterChunk(chunk);
-          } else {
-            pause();
-          }
+          onChunkAudioFinished(chunk);
         });
         return;
       }
@@ -1336,26 +1644,41 @@ const QuranAudio = (() => {
   function handleArabicEnded() {
     if (!isPlaying || playPhase !== "arabic") return;
 
+    if (repeatMode === "ayah") {
+      if (includeEnglish) {
+        playEnglishAyah(currentSurahId, currentAyahNum);
+      } else {
+        onAyahLoopFinished();
+      }
+      return;
+    }
+
     const isPara = isParagraphMode();
     if (isPara) {
       const chunkInfo = findChunkForAyah(currentSurahId, currentAyahNum);
       if (!chunkInfo) {
-        advanceAfterSentence();
+        if (includeEnglish) {
+          playEnglishAyah(currentSurahId, currentAyahNum);
+        } else {
+          onSentenceAudioFinished();
+        }
         return;
       }
 
       currentChunk = chunkInfo.chunk;
       const lastAyahInChunk = currentChunk[currentChunk.length - 1].ayah;
+      const rangeEnd = (repeatMode === "range") ? Math.max(repeatRangeStart, repeatRangeEnd) : Infinity;
+      const effectiveLastAyah = Math.min(lastAyahInChunk, rangeEnd);
 
-      if (currentAyahNum < lastAyahInChunk) {
-        // More Arabic ayahs remain in this paragraph
+      if (currentAyahNum < effectiveLastAyah) {
+        // More Arabic ayahs remain in this paragraph (or range)
         playArabicAyah(currentSurahId, currentAyahNum + 1);
       } else {
-        // Reached end of the Arabic paragraph
+        // Reached end of the Arabic paragraph (or range)
         if (includeEnglish) {
           startEnglishPhaseForChunk(currentChunk);
         } else {
-          advanceAfterChunk(currentChunk);
+          onChunkAudioFinished(currentChunk);
         }
       }
     } else {
@@ -1363,7 +1686,7 @@ const QuranAudio = (() => {
       if (includeEnglish) {
         playEnglishAyah(currentSurahId, currentAyahNum);
       } else {
-        advanceAfterSentence();
+        onSentenceAudioFinished();
       }
     }
   }
@@ -1371,31 +1694,143 @@ const QuranAudio = (() => {
   function handleEnglishEnded() {
     if (!isPlaying || playPhase !== "english") return;
 
+    if (repeatMode === "ayah") {
+      onAyahLoopFinished();
+      return;
+    }
+
     const isPara = isParagraphMode();
     if (isPara && currentChunk) {
+      const rangeEnd = (repeatMode === "range") ? Math.max(repeatRangeStart, repeatRangeEnd) : Infinity;
       currentChunkEnglishIndex++;
+
       if (currentChunkEnglishIndex < currentChunk.length) {
-        // Play next ayah in the chunk
         const nextAyahInChunk = currentChunk[currentChunkEnglishIndex].ayah;
-        playEnglishAyah(currentSurahId, nextAyahInChunk);
-      } else {
-        // Reached end of English paragraph
-        clearEnglishHighlights();
-        if (continuous) {
-          advanceAfterChunk(currentChunk);
-        } else {
-          pause();
+        if (nextAyahInChunk <= rangeEnd) {
+          playEnglishAyah(currentSurahId, nextAyahInChunk);
+          return;
         }
       }
+
+      // Reached end of English paragraph or range limit
+      clearEnglishHighlights();
+      onChunkAudioFinished(currentChunk);
     } else {
       // Sentence mode
       clearEnglishHighlights();
-      if (continuous) {
-        advanceAfterSentence();
-      } else {
-        pause();
-      }
+      onSentenceAudioFinished();
     }
+  }
+
+  function shouldStopRepeat() {
+    if (repeatLimit > 0) {
+      if (repeatCurrentIteration >= repeatLimit) {
+        repeatCurrentIteration = 1;
+        pause();
+        return true;
+      }
+      repeatCurrentIteration++;
+      updatePlayerBar();
+    }
+    return false;
+  }
+
+  function onAyahLoopFinished() {
+    clearArabicHighlights();
+    clearEnglishHighlights();
+    if (repeatMode === "single") {
+      pause();
+      return;
+    }
+    if (shouldStopRepeat()) return;
+    playAyah(currentSurahId, currentAyahNum);
+  }
+
+  function onSentenceAudioFinished() {
+    clearArabicHighlights();
+    clearEnglishHighlights();
+
+    if (repeatMode === "ayah") {
+      onAyahLoopFinished();
+      return;
+    }
+
+    if (repeatMode === "para") {
+      const chunkInfo = findChunkForAyah(currentSurahId, currentAyahNum);
+      if (chunkInfo) {
+        const endAyah = chunkInfo.chunk[chunkInfo.chunk.length - 1].ayah;
+        if (currentAyahNum < endAyah) {
+          playAyah(currentSurahId, currentAyahNum + 1);
+        } else {
+          if (shouldStopRepeat()) return;
+          playAyah(currentSurahId, chunkInfo.chunk[0].ayah);
+        }
+      } else {
+        advanceAfterSentence();
+      }
+      return;
+    }
+
+    if (repeatMode === "range") {
+      const rStart = Math.min(repeatRangeStart, repeatRangeEnd);
+      const rEnd = Math.max(repeatRangeStart, repeatRangeEnd);
+      if (currentAyahNum < rEnd) {
+        playAyah(currentSurahId, currentAyahNum + 1);
+      } else {
+        if (shouldStopRepeat()) return;
+        playAyah(currentSurahId, rStart);
+      }
+      return;
+    }
+
+    if (repeatMode === "single") {
+      pause();
+      return;
+    }
+
+    advanceAfterSentence();
+  }
+
+  function onChunkAudioFinished(chunk) {
+    clearArabicHighlights();
+    clearEnglishHighlights();
+
+    if (repeatMode === "ayah") {
+      onAyahLoopFinished();
+      return;
+    }
+
+    if (repeatMode === "para") {
+      if (shouldStopRepeat()) return;
+      playAyah(currentSurahId, chunk[0].ayah);
+      return;
+    }
+
+    if (repeatMode === "range") {
+      const rStart = Math.min(repeatRangeStart, repeatRangeEnd);
+      const rEnd = Math.max(repeatRangeStart, repeatRangeEnd);
+      if (currentAyahNum < rEnd) {
+        const nextAyah = currentAyahNum + 1;
+        const total = getTotalVerses(currentSurahId);
+        if (nextAyah <= total) {
+          playAyah(currentSurahId, nextAyah);
+        } else {
+          if (shouldStopRepeat()) return;
+          playAyah(currentSurahId, rStart);
+        }
+      } else {
+        if (shouldStopRepeat()) return;
+        playAyah(currentSurahId, rStart);
+      }
+      return;
+    }
+
+    if (repeatMode === "single") {
+      pause();
+      return;
+    }
+
+    advanceAfterChunk(chunk);
   }
 
   function advanceAfterSentence() {
@@ -1582,11 +2017,7 @@ const QuranAudio = (() => {
   }
 
   function toggleContinuous() {
-    continuous = !continuous;
-    try {
-      localStorage.setItem(STORAGE_CONT, String(continuous));
-    } catch (_) {}
-    updatePlayerBar();
+    cycleRepeatMode();
   }
 
   function toggleEnglish() {
@@ -1599,14 +2030,10 @@ const QuranAudio = (() => {
       englishAudio.pause();
       stopEnglishSpeech();
       clearEnglishHighlights();
-      if (continuous) {
-        if (isParagraphMode() && currentChunk) {
-          advanceAfterChunk(currentChunk);
-        } else {
-          advanceAfterSentence();
-        }
+      if (isParagraphMode() && currentChunk) {
+        onChunkAudioFinished(currentChunk);
       } else {
-        pause();
+        onSentenceAudioFinished();
       }
     }
     updatePlayerBar();
@@ -1754,7 +2181,17 @@ const QuranAudio = (() => {
     document.getElementById("qap-play")?.addEventListener("click", togglePlay);
     document.getElementById("qap-prev")?.addEventListener("click", prevAyah);
     document.getElementById("qap-next")?.addEventListener("click", nextAyah);
-    document.getElementById("qap-continuous")?.addEventListener("click", toggleContinuous);
+    const contBtn = document.getElementById("qap-continuous");
+    if (contBtn) {
+      contBtn.addEventListener("click", (e) => {
+        e.preventDefault();
+        cycleRepeatMode();
+      });
+      contBtn.addEventListener("contextmenu", (e) => {
+        e.preventDefault();
+        openChooser("repeat");
+      });
+    }
     document.getElementById("qap-english")?.addEventListener("click", toggleEnglish);
     document.getElementById("qap-format")?.addEventListener("click", cycleFormat);
     document.getElementById("qap-speed")?.addEventListener("click", cycleSpeed);
@@ -1866,6 +2303,15 @@ const QuranAudio = (() => {
     closeChooser,
     toggleChooser,
     openQuickNote,
+    setRepeatMode,
+    cycleRepeatMode,
+    getRepeatMode: () => ({
+      mode: repeatMode,
+      start: repeatRangeStart,
+      end: repeatRangeEnd,
+      limit: repeatLimit,
+      iteration: repeatCurrentIteration,
+    }),
     updateHighlights: () => {
       if (playPhase === "arabic") {
         highlightArabicAyah(currentSurahId, currentAyahNum);

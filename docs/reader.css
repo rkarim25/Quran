@@ -4243,6 +4243,235 @@ html[data-theme="night"] .qap-note-btn {
   color: var(--muted);
 }
 
+/* Repeat Pane in Chooser Drawer */
+.qap-repeat-wrap {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  padding: 4px 2px;
+}
+.qap-repeat-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px 12px;
+  background: var(--parchment);
+  border-radius: 9px;
+  border: 1px solid var(--border);
+}
+.qap-repeat-sname {
+  font-weight: 600;
+  font-size: 13px;
+  color: var(--ink);
+}
+.qap-repeat-meta {
+  font-size: 11px;
+  color: var(--muted);
+}
+.qap-repeat-sec {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+.qap-repeat-label {
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--muted);
+}
+.qap-repeat-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(135px, 1fr));
+  gap: 6px;
+}
+.qap-rpt-opt {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 10px;
+  border: 1px solid var(--parchment-deep);
+  background: var(--parchment);
+  border-radius: 9px;
+  cursor: pointer;
+  text-align: left;
+  transition: all 0.15s ease;
+}
+.qap-rpt-opt:hover {
+  background: var(--green-light);
+  border-color: var(--green-mid);
+}
+.qap-rpt-opt.active {
+  background: var(--green-light);
+  border-color: var(--green);
+  box-shadow: 0 0 0 1px var(--green);
+}
+.qap-rpt-icon {
+  font-size: 16px;
+}
+.qap-rpt-text {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+}
+.qap-rpt-title {
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--ink);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.qap-rpt-desc {
+  font-size: 10px;
+  color: var(--muted);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.qap-range-box {
+  background: var(--parchment);
+  border: 1px solid var(--parchment-deep);
+  border-radius: 9px;
+  padding: 10px;
+}
+.qap-range-inputs {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  margin-top: 4px;
+}
+.qap-range-field {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  flex: 1;
+}
+.qap-range-field label {
+  font-size: 10.5px;
+  color: var(--muted);
+}
+.qap-stepper {
+  display: flex;
+  align-items: center;
+  border: 1px solid var(--border);
+  background: var(--paper);
+  border-radius: 7px;
+  overflow: hidden;
+}
+.qap-step-btn {
+  border: none;
+  background: transparent;
+  padding: 6px 10px;
+  font-weight: 700;
+  font-size: 13px;
+  color: var(--ink-soft);
+  cursor: pointer;
+  transition: background 0.1s;
+}
+.qap-step-btn:hover {
+  background: var(--green-light);
+  color: var(--green);
+}
+.qap-stepper input {
+  width: 100%;
+  border: none;
+  background: transparent;
+  text-align: center;
+  font-size: 13px;
+  font-weight: 600;
+  font-family: var(--font-ui);
+  color: var(--ink);
+  outline: none;
+  padding: 4px;
+}
+.qap-range-sep {
+  color: var(--muted);
+  font-size: 13px;
+  margin-top: 14px;
+}
+.qap-range-presets {
+  display: flex;
+  gap: 5px;
+  flex-wrap: wrap;
+  margin-top: 8px;
+}
+.qap-preset-btn {
+  border: 1px solid var(--border);
+  background: var(--paper);
+  border-radius: 6px;
+  padding: 3px 8px;
+  font-size: 10.5px;
+  font-weight: 500;
+  color: var(--ink-soft);
+  cursor: pointer;
+}
+.qap-preset-btn:hover {
+  background: var(--green-light);
+  border-color: var(--green);
+  color: var(--green);
+}
+.qap-count-pills {
+  display: flex;
+  gap: 5px;
+  flex-wrap: wrap;
+}
+.qap-cnt-pill {
+  border: 1px solid var(--parchment-deep);
+  background: var(--parchment);
+  border-radius: 7px;
+  padding: 5px 10px;
+  font-size: 11.5px;
+  font-weight: 600;
+  color: var(--ink-soft);
+  cursor: pointer;
+  transition: all 0.12s;
+}
+.qap-cnt-pill:hover {
+  background: var(--green-light);
+  border-color: var(--green);
+  color: var(--green);
+}
+.qap-cnt-pill.active {
+  background: var(--green);
+  border-color: var(--green);
+  color: #fff;
+}
+.qap-apply-repeat-btn {
+  width: 100%;
+  padding: 9px;
+  background: var(--green);
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  font-weight: 600;
+  font-size: 13px;
+  cursor: pointer;
+  transition: background 0.15s;
+  font-family: var(--font-ui);
+}
+.qap-apply-repeat-btn:hover {
+  background: var(--green-mid);
+}
+
+/* Repeat pill states in toolbar */
+.qap-pill.repeat-ayah,
+.qap-pill.repeat-para,
+.qap-pill.repeat-range {
+  background: var(--green-light);
+  border-color: var(--green);
+  color: var(--green);
+  font-weight: 600;
+}
+html[data-theme="night"] .qap-pill.repeat-ayah,
+html[data-theme="night"] .qap-pill.repeat-para,
+html[data-theme="night"] .qap-pill.repeat-range {
+  background: rgba(95, 179, 139, 0.2);
+  border-color: var(--green);
+  color: var(--green);
+}
+
 /* Mobile & Touch Layout Optimization */
 @media (max-width: 768px) {
   .quran-audio-player {
