@@ -3776,10 +3776,24 @@ html[data-theme="night"] .tdb-action-badge { color: #ffd679; }
   justify-content: space-between;
   gap: 1rem;
 }
+.qap-scrub {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  flex: 1;
+  max-width: 440px;
+}
+.qap-main-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  flex: 2;
+}
 .qap-meta {
   display: flex;
   flex-direction: column;
-  min-width: 140px;
+  min-width: 130px;
 }
 .qap-reciter {
   font-size: 0.72rem;
@@ -3787,11 +3801,32 @@ html[data-theme="night"] .tdb-action-badge { color: #ffd679; }
   font-family: var(--font-display);
   letter-spacing: 0.02em;
 }
+.qap-track-btn {
+  background: none;
+  border: none;
+  padding: 0;
+  margin: 0;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  cursor: pointer;
+  text-align: left;
+  border-radius: 4px;
+  transition: opacity 0.15s;
+}
+.qap-track-btn:hover {
+  opacity: 0.8;
+}
 .qap-track {
   font-size: 0.95rem;
   font-weight: 600;
   color: var(--ink);
   white-space: nowrap;
+}
+.qap-track-arrow {
+  font-size: 0.7rem;
+  color: var(--gold-muted);
+  transition: transform 0.2s;
 }
 .qap-controls {
   display: flex;
@@ -3828,13 +3863,6 @@ html[data-theme="night"] .tdb-action-badge { color: #ffd679; }
 }
 .qap-play-btn:hover {
   background: var(--green-mid);
-}
-.qap-scrub {
-  display: flex;
-  align-items: center;
-  gap: 0.6rem;
-  flex: 1;
-  max-width: 480px;
 }
 .qap-time {
   font-size: 0.75rem;
@@ -3879,7 +3907,7 @@ html[data-theme="night"] .tdb-action-badge { color: #ffd679; }
 .qap-actions {
   display: flex;
   align-items: center;
-  gap: 0.5rem;
+  gap: 0.45rem;
 }
 .qap-pill {
   padding: 0.25rem 0.6rem;
@@ -3891,6 +3919,7 @@ html[data-theme="night"] .tdb-action-badge { color: #ffd679; }
   color: var(--muted);
   cursor: pointer;
   transition: all 0.15s;
+  white-space: nowrap;
 }
 .qap-pill:hover {
   color: var(--ink);
@@ -3901,9 +3930,357 @@ html[data-theme="night"] .tdb-action-badge { color: #ffd679; }
   color: var(--green);
   border-color: var(--green);
 }
+.qap-note-btn {
+  background: rgba(212, 175, 55, 0.14);
+  color: #8e5a00;
+  border-color: var(--gold-soft);
+  font-weight: 600;
+}
+html[data-theme="night"] .qap-note-btn {
+  color: #ffd679;
+}
+.qap-note-btn:hover {
+  background: var(--gold-soft);
+  color: #5d3b00;
+}
 .qap-close {
   font-size: 1.25rem;
   line-height: 1;
+}
+
+/* Audio Chooser Drawer (Surah, Verse, Juz) */
+.qap-chooser-drawer {
+  position: absolute;
+  bottom: calc(100% + 8px);
+  left: 50%;
+  transform: translateX(-50%);
+  width: 94%;
+  max-width: 580px;
+  max-height: 480px;
+  background: var(--paper);
+  border: 1px solid var(--gold-soft);
+  border-radius: 16px;
+  box-shadow: var(--shadow-lift);
+  display: flex;
+  flex-direction: column;
+  z-index: 300;
+  overflow: hidden;
+  animation: qapDrawerIn 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+}
+.qap-chooser-drawer[hidden] {
+  display: none !important;
+}
+@keyframes qapDrawerIn {
+  from { opacity: 0; transform: translate(-50%, 10px); }
+  to { opacity: 1; transform: translate(-50%, 0); }
+}
+.qap-chooser-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.75rem 1rem;
+  border-bottom: 1px solid var(--parchment-deep);
+  background: var(--parchment);
+  gap: 0.5rem;
+}
+.qap-chooser-tabs {
+  display: flex;
+  gap: 5px;
+  background: var(--parchment-deep);
+  padding: 3px;
+  border-radius: 10px;
+}
+.qap-tab-btn {
+  border: none;
+  background: transparent;
+  padding: 5px 12px;
+  border-radius: 8px;
+  font-family: var(--font-ui);
+  font-size: 12px;
+  font-weight: 500;
+  color: var(--ink-soft);
+  cursor: pointer;
+  transition: all 0.15s;
+}
+.qap-tab-btn.active {
+  background: var(--paper);
+  color: var(--green);
+  font-weight: 600;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+}
+.qap-chooser-close {
+  border: none;
+  background: none;
+  font-size: 1rem;
+  color: var(--muted);
+  cursor: pointer;
+  padding: 4px;
+}
+.qap-chooser-close:hover {
+  color: var(--ink);
+}
+.qap-chooser-body {
+  flex: 1;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+.qap-pane {
+  flex: 1;
+  overflow-y: auto;
+  padding: 0.75rem 1rem;
+}
+.qap-pane[hidden] {
+  display: none !important;
+}
+.qap-search-wrap {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  background: var(--parchment);
+  border: 1px solid var(--parchment-deep);
+  border-radius: 10px;
+  padding: 6px 10px;
+  margin-bottom: 0.65rem;
+}
+.qap-search-icon {
+  color: var(--muted);
+  font-size: 14px;
+}
+.qap-search-input {
+  flex: 1;
+  border: none;
+  background: none;
+  outline: none;
+  font-family: var(--font-ui);
+  font-size: 13px;
+  color: var(--ink);
+}
+.qap-surah-list {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+.qap-surah-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  background: var(--parchment);
+  border: 1px solid transparent;
+  border-radius: 9px;
+  padding: 7px 10px;
+  cursor: pointer;
+  text-align: left;
+  transition: all 0.15s;
+}
+.qap-surah-item:hover {
+  background: var(--green-light);
+  border-color: var(--gold-soft);
+}
+.qap-surah-item.active {
+  background: var(--green-light);
+  border-color: var(--green);
+}
+.qap-s-num {
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--muted);
+  min-width: 24px;
+}
+.qap-s-names {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+}
+.qap-s-en {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--ink);
+}
+.qap-s-trans {
+  font-size: 11px;
+  color: var(--muted);
+}
+.qap-s-ar {
+  font-family: var(--font-quran, serif);
+  font-size: 16px;
+  color: var(--green);
+}
+.qap-verse-nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 0.75rem;
+  background: var(--parchment);
+  padding: 6px 10px;
+  border-radius: 9px;
+}
+.qap-nav-surah-btn {
+  border: 1px solid var(--border);
+  background: var(--paper);
+  border-radius: 6px;
+  padding: 4px 10px;
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--ink-soft);
+  cursor: pointer;
+}
+.qap-nav-surah-btn:hover {
+  background: var(--green-light);
+  color: var(--green);
+}
+.qap-verse-surah-label {
+  font-size: 12.5px;
+  font-weight: 600;
+  color: var(--ink);
+}
+.qap-verse-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(42px, 1fr));
+  gap: 6px;
+  max-height: 320px;
+}
+.qap-v-pill {
+  border: 1px solid var(--parchment-deep);
+  background: var(--parchment);
+  color: var(--ink);
+  border-radius: 8px;
+  padding: 8px 4px;
+  font-family: var(--font-ui);
+  font-size: 12.5px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.12s;
+}
+.qap-v-pill:hover {
+  background: var(--green-light);
+  border-color: var(--green);
+  color: var(--green);
+}
+.qap-v-pill.active {
+  background: var(--green);
+  border-color: var(--green);
+  color: #fff;
+}
+.qap-juz-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
+  gap: 8px;
+}
+.qap-juz-card {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 2px;
+  background: var(--parchment);
+  border: 1px solid var(--parchment-deep);
+  border-radius: 10px;
+  padding: 8px 10px;
+  cursor: pointer;
+  text-align: left;
+  transition: all 0.15s;
+}
+.qap-juz-card:hover {
+  background: var(--green-light);
+  border-color: var(--gold-soft);
+}
+.qap-j-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
+.qap-j-num {
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--green);
+}
+.qap-j-ar {
+  font-family: var(--font-quran, serif);
+  font-size: 13px;
+  color: var(--gold-muted);
+}
+.qap-j-name {
+  font-size: 11px;
+  color: var(--muted);
+}
+
+/* Mobile & Touch Layout Optimization */
+@media (max-width: 768px) {
+  .quran-audio-player {
+    padding: 0.5rem 0.75rem calc(0.55rem + env(safe-area-inset-bottom, 0px));
+  }
+  .qap-inner {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0.35rem;
+  }
+  .qap-scrub {
+    width: 100%;
+    max-width: 100%;
+    gap: 0.45rem;
+  }
+  .qap-main-row {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.4rem;
+  }
+  .qap-meta {
+    min-width: 0;
+    max-width: 130px;
+    flex: 1;
+  }
+  .qap-reciter {
+    font-size: 0.65rem;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+  .qap-track {
+    font-size: 0.85rem;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+  .qap-controls {
+    gap: 0.25rem;
+  }
+  .qap-btn {
+    padding: 0.35rem;
+    font-size: 0.95rem;
+  }
+  .qap-play-btn {
+    width: 2.2rem;
+    height: 2.2rem;
+    font-size: 0.95rem;
+  }
+  .qap-actions {
+    gap: 0.25rem;
+  }
+  .qap-pill {
+    padding: 0.22rem 0.45rem;
+    font-size: 0.68rem;
+  }
+  .qap-chooser-drawer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    max-width: 100%;
+    max-height: 82vh;
+    border-radius: 20px 20px 0 0;
+    transform: none;
+    box-shadow: 0 -8px 30px rgba(0, 0, 0, 0.25);
+  }
+  @keyframes qapDrawerIn {
+    from { opacity: 0; transform: translateY(100%); }
+    to { opacity: 1; transform: translateY(0); }
+  }
 }
 
 /* Ayah playing highlight */

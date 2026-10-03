@@ -44,6 +44,40 @@ const QuranAudio = (() => {
     5, 4, 5, 6
   ];
 
+  // Standard Hafs 30 Juz definitions
+  const JUZ_LIST = [
+    { juz: 1, surah: 1, ayah: 1, name: "Al-Fatihah", ar: "آلم" },
+    { juz: 2, surah: 2, ayah: 142, name: "Sayaqool", ar: "سَيَقُولُ" },
+    { juz: 3, surah: 2, ayah: 253, name: "Tilka 'r-Rusul", ar: "تِلْكَ الرُّسُلُ" },
+    { juz: 4, surah: 3, ayah: 93, name: "Lan Tanaloo", ar: "لَنْ تَنَالُوا" },
+    { juz: 5, surah: 4, ayah: 24, name: "Wal Muhsanat", ar: "وَالْمُحْصَنَاتُ" },
+    { juz: 6, surah: 4, ayah: 148, name: "La Yuhibbullah", ar: "لَا يُحِبُّ اللَّهُ" },
+    { juz: 7, surah: 5, ayah: 82, name: "Wa Iza Sami'oo", ar: "وَإِذَا سَمِعُوا" },
+    { juz: 8, surah: 6, ayah: 111, name: "Wa Law Annana", ar: "وَلَوْ أَنَّنَا" },
+    { juz: 9, surah: 7, ayah: 88, name: "Qal al-Mala'u", ar: "قَالَ الْمَلَأُ" },
+    { juz: 10, surah: 8, ayah: 41, name: "Wa'lamoo", ar: "وَاعْلَمُوا" },
+    { juz: 11, surah: 9, ayah: 93, name: "Ya'taziroona", ar: "يَعْتَذِرُونَ" },
+    { juz: 12, surah: 11, ayah: 6, name: "Wa Ma Min Da'abbah", ar: "وَمَا مِنْ دَابَّةٍ" },
+    { juz: 13, surah: 12, ayah: 53, name: "Wa Ma Ubarri'u", ar: "وَمَا أُبَرِّئُ" },
+    { juz: 14, surah: 15, ayah: 1, name: "Rubama", ar: "رُبَمَا" },
+    { juz: 15, surah: 17, ayah: 1, name: "Subhana 'lladhi", ar: "سُبْحَانَ الَّذِي" },
+    { juz: 16, surah: 18, ayah: 75, name: "Qala Alam Aqul", ar: "قَالَ أَلَمْ أَقُلْ" },
+    { juz: 17, surah: 21, ayah: 1, name: "Iqtaraba li-n-Nas", ar: "اقْتَرَبَ لِلنَّاسِ" },
+    { juz: 18, surah: 23, ayah: 1, name: "Qad Aflaha", ar: "قَدْ أَفْلَحَ" },
+    { juz: 19, surah: 25, ayah: 21, name: "Wa Qal alladhina", ar: "وَقَالَ الَّذِينَ" },
+    { juz: 20, surah: 27, ayah: 56, name: "Amman Khalaqa", ar: "أَمَّنْ خَلَقَ" },
+    { juz: 21, surah: 29, ayah: 46, name: "Utlu Ma Oohiya", ar: "اتْلُ مَا أُوحِيَ" },
+    { juz: 22, surah: 33, ayah: 31, name: "Wa Man Yaqnut", ar: "وَمَنْ يَقْنُتْ" },
+    { juz: 23, surah: 36, ayah: 28, name: "Wa Ma Anzalna", ar: "وَمَا أَنْزَلْنَا" },
+    { juz: 24, surah: 39, ayah: 32, name: "Fa-man Azlamu", ar: "فَمَنْ أَظْلَمُ" },
+    { juz: 25, surah: 41, ayah: 47, name: "Ilayhi Yuraddu", ar: "إِلَيْهِ يُرَدُّ" },
+    { juz: 26, surah: 46, ayah: 1, name: "Ha Meem", ar: "حم" },
+    { juz: 27, surah: 51, ayah: 31, name: "Qala Fa-ma Khatbukum", ar: "قَالَ فَمَا خَطْبُكُمْ" },
+    { juz: 28, surah: 58, ayah: 1, name: "Qad Sami'a", ar: "قَدْ سَمِعَ" },
+    { juz: 29, surah: 67, ayah: 1, name: "Tabarak alladhi", ar: "تَبَارَكَ الَّذِي" },
+    { juz: 30, surah: 78, ayah: 1, name: "'Amma Yatasa'aloon", ar: "عَمَّ يَتَسَاءَلُونَ" }
+  ];
+
   let currentSurahId = null;
   let currentAyahNum = null;
   let isPlaying = false;
@@ -53,6 +87,12 @@ const QuranAudio = (() => {
   let playbackFormat = localStorage.getItem(STORAGE_FORMAT) || "auto"; // "auto" | "paragraph" | "sentence"
   let playbackRate = parseFloat(localStorage.getItem(STORAGE_RATE)) || 1.0;
   let seeking = false;
+
+  // Audio Chooser state (Surah, Verse, Juz)
+  let surahsList = [];
+  let chooserOpen = false;
+  let activeChooserTab = "surah";
+  let verseChooserSurahId = 1;
 
   // Active chunk tracking for Paragraph mode
   let currentChunk = null; // array of ayah objects in active chunk
@@ -298,18 +338,240 @@ const QuranAudio = (() => {
       ],
     });
 
+    navigator.mediaSession.playbackState = isPlaying ? "playing" : "paused";
+
     navigator.mediaSession.setActionHandler("play", () => resume());
     navigator.mediaSession.setActionHandler("pause", () => pause());
     navigator.mediaSession.setActionHandler("previoustrack", () => prevAyah());
     navigator.mediaSession.setActionHandler("nexttrack", () => nextAyah());
+
+    try {
+      navigator.mediaSession.setActionHandler("seekbackward", (details) => {
+        const skip = details.seekOffset || 10;
+        const activeAudio = playPhase === "arabic" ? arabicAudio : englishAudio;
+        activeAudio.currentTime = Math.max(0, activeAudio.currentTime - skip);
+        updateMediaSessionPosition();
+      });
+    } catch (_) {}
+
+    try {
+      navigator.mediaSession.setActionHandler("seekforward", (details) => {
+        const skip = details.seekOffset || 10;
+        const activeAudio = playPhase === "arabic" ? arabicAudio : englishAudio;
+        if (activeAudio.duration) {
+          activeAudio.currentTime = Math.min(activeAudio.duration, activeAudio.currentTime + skip);
+          updateMediaSessionPosition();
+        }
+      });
+    } catch (_) {}
+
     try {
       navigator.mediaSession.setActionHandler("seekto", (details) => {
         if (details.seekTime !== undefined) {
           const activeAudio = playPhase === "arabic" ? arabicAudio : englishAudio;
           if (activeAudio.duration) activeAudio.currentTime = details.seekTime;
+          updateMediaSessionPosition();
         }
       });
     } catch (_) {}
+
+    updateMediaSessionPosition();
+  }
+
+  function updateMediaSessionPosition() {
+    if (!("mediaSession" in navigator) || !("setPositionState" in navigator.mediaSession)) return;
+    const activeAudio = playPhase === "arabic" ? arabicAudio : englishAudio;
+    if (activeAudio.duration && isFinite(activeAudio.duration) && activeAudio.duration > 0) {
+      try {
+        navigator.mediaSession.setPositionState({
+          duration: activeAudio.duration,
+          playbackRate: activeAudio.playbackRate || 1.0,
+          position: Math.min(Math.max(0, activeAudio.currentTime), activeAudio.duration),
+        });
+      } catch (_) {}
+    }
+  }
+
+  async function loadSurahsList() {
+    if (surahsList && surahsList.length) return surahsList;
+    if (window.cache?.index?.surahs?.length) {
+      surahsList = window.cache.index.surahs;
+      return surahsList;
+    }
+    try {
+      const res = await fetch("data/index.json");
+      const data = await res.json();
+      surahsList = data.surahs || [];
+      return surahsList;
+    } catch (e) {
+      console.warn("Could not load surahs list for audio chooser", e);
+      return [];
+    }
+  }
+
+  function openChooser(tab = null) {
+    const drawer = document.getElementById("qap-chooser-drawer");
+    if (!drawer) return;
+    chooserOpen = true;
+    drawer.hidden = false;
+    verseChooserSurahId = currentSurahId || (window.currentSurah ? window.currentSurah.id : 1);
+    switchChooserTab(tab || activeChooserTab || "surah");
+  }
+
+  function closeChooser() {
+    const drawer = document.getElementById("qap-chooser-drawer");
+    if (!drawer) return;
+    chooserOpen = false;
+    drawer.hidden = true;
+  }
+
+  function toggleChooser() {
+    if (chooserOpen) closeChooser();
+    else openChooser();
+  }
+
+  function switchChooserTab(tab) {
+    activeChooserTab = tab;
+    document.querySelectorAll(".qap-chooser-tabs .qap-tab-btn").forEach((btn) => {
+      btn.classList.toggle("active", btn.dataset.tab === tab);
+    });
+    const paneSurah = document.getElementById("qap-pane-surah");
+    const paneVerse = document.getElementById("qap-pane-verse");
+    const paneJuz = document.getElementById("qap-pane-juz");
+
+    if (paneSurah) paneSurah.hidden = tab !== "surah";
+    if (paneVerse) paneVerse.hidden = tab !== "verse";
+    if (paneJuz) paneJuz.hidden = tab !== "juz";
+
+    if (tab === "surah") renderSurahChooser();
+    else if (tab === "verse") renderVerseChooser(verseChooserSurahId);
+    else if (tab === "juz") renderJuzChooser();
+  }
+
+  async function renderSurahChooser(filter = "") {
+    const listEl = document.getElementById("qap-surah-list");
+    if (!listEl) return;
+    const surahs = await loadSurahsList();
+    const q = (filter || "").trim().toLowerCase();
+
+    const filtered = surahs.filter((s) => {
+      if (!q) return true;
+      if (String(s.id) === q) return true;
+      if (s.name_simple && s.name_simple.toLowerCase().includes(q)) return true;
+      if (s.translated_name && s.translated_name.toLowerCase().includes(q)) return true;
+      if (s.name_arabic && s.name_arabic.includes(q)) return true;
+      return false;
+    });
+
+    listEl.innerHTML = filtered.map((s) => {
+      const active = (currentSurahId === s.id) ? " active" : "";
+      return `<button type="button" class="qap-surah-item${active}" data-surah="${s.id}">
+        <span class="qap-s-num">${s.id}</span>
+        <span class="qap-s-names">
+          <span class="qap-s-en">${s.name_simple}</span>
+          <span class="qap-s-trans">${s.translated_name} · ${s.verses_count}v</span>
+        </span>
+        <span class="qap-s-ar">${s.name_arabic}</span>
+      </button>`;
+    }).join("");
+
+    listEl.querySelectorAll(".qap-surah-item").forEach((btn) => {
+      btn.addEventListener("click", () => {
+        const sId = +btn.dataset.surah;
+        verseChooserSurahId = sId;
+        if (window.location.hash !== `#/${sId}`) {
+          window.location.hash = `#/${sId}`;
+        }
+        playAyah(sId, 1);
+        closeChooser();
+      });
+    });
+
+    const activeEl = listEl.querySelector(".qap-surah-item.active");
+    if (activeEl) {
+      activeEl.scrollIntoView({ block: "nearest" });
+    }
+  }
+
+  function renderVerseChooser(surahId) {
+    verseChooserSurahId = surahId || currentSurahId || (window.currentSurah ? window.currentSurah.id : 1);
+    const label = document.getElementById("qap-verse-surah-label");
+    const grid = document.getElementById("qap-verse-grid");
+    const prevBtn = document.getElementById("qap-prev-surah-btn");
+    const nextBtn = document.getElementById("qap-next-surah-btn");
+
+    if (prevBtn) prevBtn.disabled = verseChooserSurahId <= 1;
+    if (nextBtn) nextBtn.disabled = verseChooserSurahId >= 114;
+
+    const total = getTotalVerses(verseChooserSurahId);
+    const sName = getSurahName(verseChooserSurahId);
+
+    if (label) {
+      label.textContent = `${verseChooserSurahId}. ${sName} (${total} verses)`;
+    }
+
+    if (grid) {
+      let html = "";
+      for (let v = 1; v <= total; v++) {
+        const isActive = (verseChooserSurahId === currentSurahId && v === currentAyahNum) ? " active" : "";
+        html += `<button type="button" class="qap-v-pill${isActive}" data-verse="${v}">${v}</button>`;
+      }
+      grid.innerHTML = html;
+
+      grid.querySelectorAll(".qap-v-pill").forEach((btn) => {
+        btn.addEventListener("click", () => {
+          const vNum = +btn.dataset.verse;
+          if (verseChooserSurahId !== currentSurahId) {
+            if (window.location.hash !== `#/${verseChooserSurahId}`) {
+              window.location.hash = `#/${verseChooserSurahId}`;
+            }
+          }
+          playAyah(verseChooserSurahId, vNum);
+          closeChooser();
+        });
+      });
+
+      const activeEl = grid.querySelector(".qap-v-pill.active");
+      if (activeEl) {
+        activeEl.scrollIntoView({ block: "nearest" });
+      }
+    }
+  }
+
+  function renderJuzChooser() {
+    const grid = document.getElementById("qap-juz-grid");
+    if (!grid) return;
+
+    grid.innerHTML = JUZ_LIST.map((j) => {
+      const isCur = currentSurahId === j.surah;
+      return `<button type="button" class="qap-juz-card${isCur ? " active" : ""}" data-juz="${j.juz}" data-surah="${j.surah}" data-ayah="${j.ayah}">
+        <div class="qap-j-top">
+          <span class="qap-j-num">Juzʼ ${j.juz}</span>
+          <span class="qap-j-ar">${j.ar}</span>
+        </div>
+        <span class="qap-j-name">${j.name} (${j.surah}:${j.ayah})</span>
+      </button>`;
+    }).join("");
+
+    grid.querySelectorAll(".qap-juz-card").forEach((card) => {
+      card.addEventListener("click", () => {
+        const s = +card.dataset.surah;
+        const a = +card.dataset.ayah;
+        window.location.hash = `#/${s}/${a}`;
+        playAyah(s, a);
+        closeChooser();
+      });
+    });
+  }
+
+  function openQuickNote() {
+    const surah = currentSurahId || (window.currentSurah ? window.currentSurah.id : 1);
+    const ayah = currentAyahNum || 1;
+    if (typeof window.openTadabburEditor === "function") {
+      window.openTadabburEditor({ surah, from: ayah, to: ayah });
+    } else {
+      console.warn("openTadabburEditor not available");
+    }
   }
 
   function updatePlayerBar() {
@@ -643,6 +905,9 @@ const QuranAudio = (() => {
     arabicAudio.pause();
     englishAudio.pause();
     isPlaying = false;
+    if ("mediaSession" in navigator) {
+      navigator.mediaSession.playbackState = "paused";
+    }
     clearArabicHighlights();
     clearEnglishHighlights();
     updatePlayerBar();
@@ -656,6 +921,9 @@ const QuranAudio = (() => {
     }
 
     isPlaying = true;
+    if ("mediaSession" in navigator) {
+      navigator.mediaSession.playbackState = "playing";
+    }
     if (playPhase === "english") {
       englishAudio.play().catch((e) => console.warn("English resume failed", e));
       highlightEnglishSegment(currentAyahNum);
@@ -664,6 +932,7 @@ const QuranAudio = (() => {
       highlightArabicAyah(currentSurahId, currentAyahNum);
     }
     updatePlayerBar();
+    updateMediaSessionPosition();
   }
 
   function togglePlay() {
@@ -843,6 +1112,7 @@ const QuranAudio = (() => {
       }
       if (curTime) curTime.textContent = formatTime(activeAudio.currentTime);
       if (durTime && activeAudio.duration) durTime.textContent = formatTime(activeAudio.duration);
+      updateMediaSessionPosition();
     };
 
     arabicAudio.addEventListener("timeupdate", () => {
@@ -893,6 +1163,7 @@ const QuranAudio = (() => {
           activeAudio.currentTime = (progressEl.value / 100) * activeAudio.duration;
         }
         seeking = false;
+        updateMediaSessionPosition();
       });
     }
 
@@ -904,6 +1175,36 @@ const QuranAudio = (() => {
     document.getElementById("qap-format")?.addEventListener("click", cycleFormat);
     document.getElementById("qap-speed")?.addEventListener("click", cycleSpeed);
     document.getElementById("qap-close")?.addEventListener("click", closePlayer);
+    document.getElementById("qap-note")?.addEventListener("click", openQuickNote);
+    document.getElementById("qap-track-btn")?.addEventListener("click", (e) => {
+      e.stopPropagation();
+      toggleChooser();
+    });
+    document.getElementById("qap-chooser-close")?.addEventListener("click", closeChooser);
+    document.querySelectorAll(".qap-chooser-tabs .qap-tab-btn").forEach((btn) => {
+      btn.addEventListener("click", () => switchChooserTab(btn.dataset.tab));
+    });
+    document.getElementById("qap-surah-search")?.addEventListener("input", (e) => {
+      renderSurahChooser(e.target.value);
+    });
+    document.getElementById("qap-prev-surah-btn")?.addEventListener("click", () => {
+      if (verseChooserSurahId > 1) renderVerseChooser(verseChooserSurahId - 1);
+    });
+    document.getElementById("qap-next-surah-btn")?.addEventListener("click", () => {
+      if (verseChooserSurahId < 114) renderVerseChooser(verseChooserSurahId + 1);
+    });
+
+    // Click outside to close chooser
+    document.addEventListener("click", (e) => {
+      if (chooserOpen) {
+        const drawer = document.getElementById("qap-chooser-drawer");
+        const trackBtn = document.getElementById("qap-track-btn");
+        if (drawer && !drawer.contains(e.target) && (!trackBtn || !trackBtn.contains(e.target))) {
+          closeChooser();
+        }
+      }
+    });
+
     document.getElementById("header-audio-btn")?.addEventListener("click", () => {
       const bar = document.getElementById("quran-audio-player");
       if (bar && !bar.hidden && isPlaying) {
@@ -917,6 +1218,11 @@ const QuranAudio = (() => {
     window.addEventListener("keydown", (e) => {
       const tag = document.activeElement?.tagName;
       if (tag === "INPUT" || tag === "TEXTAREA" || tag === "SELECT") return;
+
+      if (e.key === "Escape" && chooserOpen) {
+        closeChooser();
+        return;
+      }
 
       if (e.code === "Space") {
         const bar = document.getElementById("quran-audio-player");
@@ -972,6 +1278,10 @@ const QuranAudio = (() => {
     cycleFormat,
     cycleSpeed,
     closePlayer,
+    openChooser,
+    closeChooser,
+    toggleChooser,
+    openQuickNote,
     updateHighlights: () => {
       if (playPhase === "arabic") {
         highlightArabicAyah(currentSurahId, currentAyahNum);

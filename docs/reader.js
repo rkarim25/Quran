@@ -3072,6 +3072,7 @@ function makeFabDraggable(b) {
 let tdbEditorEl = null;
 function closeTadabburEditor() { if (tdbEditorEl) { tdbEditorEl.remove(); tdbEditorEl = null; document.removeEventListener("keydown", tdbEditorEsc); } }
 function tdbEditorEsc(e) { if (e.key === "Escape") closeTadabburEditor(); }
+window.openTadabburEditor = openTadabburEditor;
 function openTadabburEditor(opts = {}) {
   closeTadabburEditor();
   const note = opts.noteId ? getTadabburNotes().find((n) => n.id === opts.noteId) : null;
