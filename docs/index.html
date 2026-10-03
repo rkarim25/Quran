@@ -233,13 +233,13 @@
   <div id="quran-audio-player" class="quran-audio-player" hidden>
     <div class="qap-inner">
       <div class="qap-meta">
-        <span class="qap-reciter" title="Reciter">Mishary Rashid Alafasy</span>
+        <span class="qap-reciter" id="qap-reciter" title="Current Speaker">Mishary Rashid Alafasy</span>
         <span class="qap-track" id="qap-track">Surah 1:1</span>
       </div>
       <div class="qap-controls">
-        <button type="button" class="qap-btn" id="qap-prev" title="Previous Ayah (J)" aria-label="Previous Ayah">⏮</button>
+        <button type="button" class="qap-btn" id="qap-prev" title="Previous (J)" aria-label="Previous">⏮</button>
         <button type="button" class="qap-btn qap-play-btn" id="qap-play" title="Play / Pause (Space)" aria-label="Play or Pause">▶</button>
-        <button type="button" class="qap-btn" id="qap-next" title="Next Ayah (K)" aria-label="Next Ayah">⏭</button>
+        <button type="button" class="qap-btn" id="qap-next" title="Next (K)" aria-label="Next">⏭</button>
       </div>
       <div class="qap-scrub">
         <span class="qap-time" id="qap-current-time">0:00</span>
@@ -248,6 +248,8 @@
       </div>
       <div class="qap-actions">
         <button type="button" class="qap-pill" id="qap-continuous" title="Toggle continuous playback">🔁 Cont.</button>
+        <button type="button" class="qap-pill active" id="qap-english" title="Toggle English translation audio">🌐 Eng: ON</button>
+        <button type="button" class="qap-pill" id="qap-format" title="Playback format (Paragraph / Verse)">📄 Para</button>
         <button type="button" class="qap-pill" id="qap-speed" title="Playback speed">1x</button>
         <button type="button" class="qap-btn qap-close" id="qap-close" title="Close player" aria-label="Close">×</button>
       </div>
@@ -260,8 +262,8 @@
   <script src="https://www.gstatic.com/firebasejs/10.12.0/firebase-firestore-compat.js"></script>
   <script src="github-sync.js?v=27"></script>
   <script src="firebase-sync.js?v=30"></script>
-  <script src="audio-player.js?v=1"></script>
-  <script src="reader.js?v=65"></script>
+  <script src="audio-player.js?v=2"></script>
+  <script src="reader.js?v=66"></script>
   <script src="print.js?v=11"></script>
   <script>
     // Offline support: register the service worker (no-op on unsupported browsers).

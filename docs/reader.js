@@ -88,6 +88,7 @@ function loadPrefs() {
 }
 
 const prefs = loadPrefs();
+window.prefs = prefs;
 
 function savePrefs() {
   prefs.updatedAt = Date.now();
@@ -904,9 +905,12 @@ function bookViewHtml(data, surahId) {
   const flowCount = (c.arabic ? 1 : 0) + (c.translit ? 1 : 0) + (c.translation ? 1 : 0) + (c.aiTranslation ? 1 : 0);
   const chunks = flowCount >= 2 ? bookChunks(data.ayahs, surahId) : [data.ayahs];
   const parts = [];
-  for (const chunk of chunks) {
+  for (let i = 0; i < chunks.length; i++) {
+    const chunk = chunks[i];
     const sec = bookSectionsFor(chunk, surahId, c);
-    if (sec.length) parts.push(`<div class="book-chunk">${sec.join("")}</div>`);
+    const startAyah = chunk[0]?.ayah || 1;
+    const endAyah = chunk[chunk.length - 1]?.ayah || startAyah;
+    if (sec.length) parts.push(`<div class="book-chunk" data-chunk="${i}" data-start="${startAyah}" data-end="${endAyah}">${sec.join("")}</div>`);
   }
   if (!parts.length) parts.push(`<p class="empty-note center">Choose at least one element in “Content”.</p>`);
   return `<div class="book-stream">${parts.join("")}<div id="book-study-slot" class="book-study-slot"></div></div>`;
@@ -2256,6 +2260,7 @@ function bindSurahEvents() {
   document.getElementById("layout-select")?.addEventListener("change", async (e) => {
     prefs.layoutMode = e.target.value;
     savePrefs();
+    window.QuranAudio?.onLayoutChanged?.();
     if (currentSurah) {
       await renderSurah(currentSurah, visibleAyah || getLastReadForSurah(currentSurah.id)?.ayah);
     }
@@ -3413,6 +3418,9 @@ function renderBookmarks() {
 
 async function renderSurah(data, targetAyah, openStudy = false) {
   currentSurah = data;
+  window.currentSurah = data;
+  window.bookChunks = bookChunks;
+  window.mergeLocalEdits = mergeLocalEdits;
   loadAiWbw(data.id);
   // The ayah blocks read passage tafsir synchronously, so it must be cached
   // before the first paint — but only wait for it when it will actually be
@@ -3600,7 +3608,10 @@ async function render() {
   const r = route();
   const leavingSurah =
     currentSurah && (r.view !== "surah" || r.surah !== currentSurah.id);
-  if (leavingSurah) flushRecordReading();
+  if (leavingSurah) {
+    flushRecordReading();
+    window.currentSurah = null;
+  }
   hideTooltip();
   closeStudyPanel();
   try {

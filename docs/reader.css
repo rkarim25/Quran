@@ -3884,6 +3884,76 @@ html[data-theme="night"] .ayah-block.audio-playing {
   background: rgba(95, 179, 139, 0.11);
   border-left-color: var(--green);
 }
+
+/* Book mode ayah recitation highlight */
+.book-ayah.audio-playing {
+  background: rgba(44, 90, 74, 0.14) !important;
+  border-radius: 4px;
+  box-shadow: 0 0 0 2px rgba(44, 90, 74, 0.22);
+}
+html[data-theme="night"] .book-ayah.audio-playing {
+  background: rgba(95, 179, 139, 0.2) !important;
+  box-shadow: 0 0 0 2px rgba(95, 179, 139, 0.35);
+}
+html[data-theme="sepia"] .book-ayah.audio-playing {
+  background: rgba(140, 100, 30, 0.14) !important;
+  box-shadow: 0 0 0 2px rgba(140, 100, 30, 0.25);
+}
+
+/* English Translation Speaking Highlight (Verse & WBW mode) */
+.translation-block.translation-speaking,
+.wbw-fulltrans.translation-speaking {
+  background: rgba(212, 175, 55, 0.14) !important;
+  border-radius: var(--radius-sm, 6px);
+  box-shadow: 0 0 0 2px rgba(212, 175, 55, 0.4), 0 4px 16px rgba(212, 175, 55, 0.12);
+  transition: all 0.25s ease;
+}
+
+/* English Translation Speaking Highlight (Book mode paragraph) */
+.book-section.book-translation-section.translation-speaking {
+  background: rgba(212, 175, 55, 0.08) !important;
+  border-left: 3px solid var(--gold);
+  border-radius: 6px;
+  padding: 0.5rem 0.75rem;
+  box-shadow: 0 2px 14px rgba(212, 175, 55, 0.12);
+  transition: all 0.25s ease;
+}
+
+/* Segment within Book translation paragraph currently speaking */
+.book-trans-seg.segment-speaking {
+  background: rgba(212, 175, 55, 0.22) !important;
+  border-radius: 4px;
+  box-shadow: 0 0 0 1px rgba(212, 175, 55, 0.3);
+  transition: background 0.2s ease;
+}
+
+/* Theme overrides for translation speaking */
+html[data-theme="night"] .translation-block.translation-speaking,
+html[data-theme="night"] .wbw-fulltrans.translation-speaking {
+  background: rgba(230, 195, 90, 0.14) !important;
+  box-shadow: 0 0 0 2px rgba(230, 195, 90, 0.45);
+}
+html[data-theme="night"] .book-section.book-translation-section.translation-speaking {
+  background: rgba(230, 195, 90, 0.1) !important;
+  border-left-color: var(--gold);
+}
+html[data-theme="night"] .book-trans-seg.segment-speaking {
+  background: rgba(230, 195, 90, 0.25) !important;
+}
+
+html[data-theme="sepia"] .translation-block.translation-speaking,
+html[data-theme="sepia"] .wbw-fulltrans.translation-speaking,
+html[data-theme="sepia"] .book-section.book-translation-section.translation-speaking {
+  background: rgba(180, 130, 40, 0.12) !important;
+}
+html[data-theme="sepia"] .book-trans-seg.segment-speaking {
+  background: rgba(180, 130, 40, 0.22) !important;
+}
+
+.qap-reciter.speaking-english {
+  color: var(--gold);
+  font-weight: 600;
+}
 .ayah-dot.play-btn {
   font-size: 0.8rem;
   transition: all 0.15s;
@@ -3961,32 +4031,38 @@ html[data-theme="night"] .ayah-block.audio-playing {
 /* Mobile responsive player */
 @media (max-width: 640px) {
   .quran-audio-player {
-    padding: 0.5rem 0.75rem 0.65rem;
+    padding: 0.45rem 0.65rem 0.6rem;
   }
   .qap-inner {
     flex-wrap: wrap;
-    gap: 0.4rem;
+    gap: 0.35rem;
   }
   .qap-meta {
-    flex: 1;
+    flex: 1 1 100%;
     min-width: 0;
   }
   .qap-track {
-    font-size: 0.88rem;
+    font-size: 0.85rem;
     overflow: hidden;
     text-overflow: ellipsis;
+  }
+  .qap-controls {
+    order: 1;
+  }
+  .qap-actions {
+    order: 2;
+    gap: 0.25rem;
+    flex-wrap: wrap;
+  }
+  .qap-pill {
+    padding: 0.2rem 0.45rem;
+    font-size: 0.72rem;
   }
   .qap-scrub {
     order: 3;
     width: 100%;
     max-width: 100%;
     margin-top: 0.1rem;
-  }
-  .qap-actions {
-    order: 2;
-  }
-  .qap-controls {
-    order: 1;
   }
 }
 
