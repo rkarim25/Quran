@@ -99,6 +99,18 @@ const QuranAudio = (() => {
   let chunkStartAyah = null; // ayah number where playback of the chunk started
   let currentChunkEnglishIndex = 0; // index within chunk being spoken in English
 
+  // Natural Voice Speech Synthesis State (for AI Translation, AI Tafsir, and custom text)
+  let bestEnglishVoice = null;
+  let speechActive = false;
+  let speechSentences = [];
+  let speechSentenceIndex = 0;
+  let speechTimer = null;
+  let speechProgressTimer = null;
+  let speechEstimatedDuration = 0;
+  let speechStartTime = 0;
+  let activeUtterance = null;
+  let activeSpeechType = "studio"; // "studio" | "ai_translation" | "tafsir" | "custom"
+
   // Dedicated HTML audio elements
   const arabicAudio = new Audio();
   const englishAudio = new Audio();
@@ -140,6 +152,326 @@ const QuranAudio = (() => {
 
   function getWordAudioUrl(surah, ayah, word) {
     return `${WBW_BASE}${pad(surah, 3)}_${pad(ayah, 3)}_${pad(word, 3)}.mp3`;
+  }
+
+  // Natural Voice Selection and Scoring
+  function scoreVoice(v) {
+    const name = (v.name || "").toLowerCase();
+    const lang = (v.lang || "").toLowerCase();
+    if (!lang.startsWith("en")) return -10000;
+
+    let score = 0;
+    // Massive bonus for online/natural neural voices
+    if (name.includes("natural") || name.includes("neural") || name.includes("online")) score += 500;
+    if (name.includes("enhanced") || name.includes("premium")) score += 400;
+
+    // British English preferred for Quran recitation/translation dignity
+    if (lang.startsWith("en-gb")) score += 80;
+    else if (lang.startsWith("en-us")) score += 50;
+    else score += 20;
+
+    // Specific well-tuned human/natural voices
+    if (name.includes("ryan")) score += 250;      // Microsoft Ryan Online Natural (gold standard)
+    if (name.includes("sonia")) score += 220;     // Microsoft Sonia
+    if (name.includes("libby")) score += 200;     // Microsoft Libby
+    if (name.includes("guy")) score += 190;       // Microsoft Guy
+    if (name.includes("oliver") || name.includes("arthur")) score += 190; // Siri
+    if (name.includes("martha") || name.includes("serena")) score += 180;
+    if (name.includes("daniel")) score += 170;    // Daniel UK
+    if (name.includes("george")) score += 150;    // OneCore George
+    if (name.includes("google")) score += 140;    // Google UK / US Neural
+    if (name.includes("jenny") || name.includes("aria")) score += 140;
+    if (name.includes("samantha")) score += 120;
+
+    // Penalize legacy robotic SAPI desktop voices
+    if (name.includes("desktop") || name.includes("david") || name.includes("zira") || name.includes("mark")) {
+      score -= 400;
+    }
+    return score;
+  }
+
+  function pickBestEnglishVoice() {
+    if (!("speechSynthesis" in window)) return null;
+    const voices = window.speechSynthesis.getVoices() || [];
+    if (!voices.length) return null;
+    const en = voices.filter((v) => (v.lang || "").toLowerCase().startsWith("en"));
+    if (!en.length) return voices[0];
+    en.sort((a, b) => scoreVoice(b) - scoreVoice(a));
+    return en[0];
+  }
+
+  if ("speechSynthesis" in window) {
+    window.speechSynthesis.onvoiceschanged = () => {
+      bestEnglishVoice = pickBestEnglishVoice();
+    };
+  }
+
+  function cleanTextForNaturalSpeech(raw) {
+    if (!raw) return "";
+    let text = String(raw);
+
+    // Strip HTML tags
+    text = text.replace(/<[^>]+>/g, " ");
+
+    // Strip Markdown
+    text = text.replace(/^#+\s+/gm, "");
+    text = text.replace(/\*\*([^*]+)\*\*/g, "$1");
+    text = text.replace(/\*([^*]+)\*/g, "$1");
+    text = text.replace(/`([^`]+)`/g, "$1");
+
+    // Islamic honorifics expanded to natural English phrasing
+    text = text.replace(/ﷺ/g, ", peace be upon him, ");
+    text = text.replace(/ﷻ/g, ", the Exalted, ");
+    text = text.replace(/رضي الله عنه|رضي الله عنهم|ؓ/g, ", may Allah be pleased with them, ");
+    text = text.replace(/\(peace be upon him\)/gi, ", peace be upon him, ");
+
+    // Strip bracketed references e.g. [1], (38:27), (15:87)
+    text = text.replace(/\[\d+\]/g, " ");
+    text = text.replace(/\(\d+:\d+\)/g, " ");
+    text = text.replace(/\(\d+\)/g, " ");
+
+    // Strip list markers and bullets
+    text = text.replace(/^\s*[-*•]\s+/gm, "");
+    text = text.replace(/^\s*\d+[\.\)]\s*/gm, "");
+
+    // Replace dashes and colons with gentle breath pauses
+    text = text.replace(/[—–]/g, ", ");
+    text = text.replace(/--/g, ", ");
+    text = text.replace(/:\s+/g, ", ");
+    text = text.replace(/;\s+/g, ", ");
+
+    // Transliterated Arabic letter normalization for smooth pronunciation
+    text = text.replace(/[āĀ]/g, "a");
+    text = text.replace(/[īĪ]/g, "ee");
+    text = text.replace(/[ūŪ]/g, "oo");
+    text = text.replace(/[ḥḤ]/g, "h");
+    text = text.replace(/[ṣṢ]/g, "s");
+    text = text.replace(/[ḍḌ]/g, "d");
+    text = text.replace(/[ṭṬ]/g, "t");
+    text = text.replace(/[ẓẒ]/g, "z");
+    text = text.replace(/[ʿʾ`']/g, "");
+
+    // Strip quotes and duplicate commas
+    text = text.replace(/["“”«»]/g, " ");
+    text = text.replace(/,\s*,+/g, ", ");
+    text = text.replace(/\s+/g, " ");
+    return text.trim();
+  }
+
+  function splitIntoNaturalSentences(text) {
+    let cleaned = cleanTextForNaturalSpeech(text);
+    if (!cleaned) return [];
+    // Protect abbreviations so they are not broken mid-sentence
+    cleaned = cleaned.replace(/\b(e\.g|i\.e|vs|etc|dr|mr|mrs)\./gi, "$1@DOT@");
+    const matches = cleaned.match(/[^.!?]+[.!?]+|\S[^.!?]*$/g) || [cleaned];
+    return matches
+      .map((s) => s.replace(/@DOT@/g, ".").trim())
+      .filter((s) => s.length > 0);
+  }
+
+  function stopEnglishSpeech() {
+    speechActive = false;
+    speechSentences = [];
+    speechSentenceIndex = 0;
+    if (speechTimer) {
+      clearTimeout(speechTimer);
+      speechTimer = null;
+    }
+    if (speechProgressTimer) {
+      clearInterval(speechProgressTimer);
+      speechProgressTimer = null;
+    }
+    if ("speechSynthesis" in window) {
+      try {
+        window.speechSynthesis.cancel();
+      } catch (_) {}
+    }
+    activeUtterance = null;
+    window.__quranUtterance = null;
+  }
+
+  function speakNaturalText(text, onComplete) {
+    stopEnglishSpeech();
+    englishAudio.pause();
+
+    const sentences = splitIntoNaturalSentences(text);
+    if (!sentences.length) {
+      if (onComplete) onComplete();
+      return;
+    }
+
+    if (!("speechSynthesis" in window)) {
+      console.warn("SpeechSynthesis not available in browser");
+      if (onComplete) onComplete();
+      return;
+    }
+
+    if (!bestEnglishVoice) {
+      bestEnglishVoice = pickBestEnglishVoice();
+    }
+
+    speechSentences = sentences;
+    speechSentenceIndex = 0;
+    speechActive = true;
+    speechStartTime = Date.now();
+
+    // Estimate duration: ~135 words per minute at 0.92x rate ≈ 2.25 words/sec
+    const totalWords = text.trim().split(/\s+/).length;
+    speechEstimatedDuration = Math.max(2, totalWords / (2.25 * playbackRate));
+
+    if (speechProgressTimer) clearInterval(speechProgressTimer);
+    speechProgressTimer = setInterval(() => {
+      if (!speechActive || !isPlaying) return;
+      const elapsed = (Date.now() - speechStartTime) / 1000;
+      const progress = document.getElementById("qap-progress");
+      const curTime = document.getElementById("qap-current-time");
+      const durTime = document.getElementById("qap-duration");
+      if (progress && speechEstimatedDuration > 0) {
+        progress.value = Math.min(100, (elapsed / speechEstimatedDuration) * 100);
+      }
+      if (curTime) curTime.textContent = formatTime(elapsed);
+      if (durTime) durTime.textContent = formatTime(speechEstimatedDuration);
+      updateMediaSessionPosition();
+    }, 250);
+
+    function speakNext() {
+      if (!speechActive || !isPlaying) return;
+      if (speechSentenceIndex >= speechSentences.length) {
+        speechActive = false;
+        if (speechProgressTimer) {
+          clearInterval(speechProgressTimer);
+          speechProgressTimer = null;
+        }
+        if (onComplete) onComplete();
+        return;
+      }
+
+      const sentence = speechSentences[speechSentenceIndex];
+      speechSentenceIndex++;
+
+      const u = new SpeechSynthesisUtterance(sentence);
+      if (bestEnglishVoice) u.voice = bestEnglishVoice;
+      u.rate = Math.max(0.75, Math.min(1.3, playbackRate * 0.92));
+      u.pitch = 0.97;
+      u.volume = 1.0;
+      u.lang = bestEnglishVoice?.lang || "en-GB";
+
+      activeUtterance = u;
+      window.__quranUtterance = u;
+
+      let finished = false;
+      const finish = () => {
+        if (finished) return;
+        finished = true;
+        activeUtterance = null;
+        window.__quranUtterance = null;
+        speechTimer = setTimeout(() => {
+          speakNext();
+        }, 180);
+      };
+
+      u.onend = finish;
+      u.onerror = (e) => {
+        if (e && (e.error === "interrupted" || e.error === "canceled")) {
+          finished = true;
+          return;
+        }
+        console.warn("Utterance error or interrupt", e);
+        finish();
+      };
+
+      try {
+        if (window.speechSynthesis.paused) {
+          window.speechSynthesis.resume();
+        }
+        window.speechSynthesis.speak(u);
+      } catch (err) {
+        console.warn("SpeechSynthesis speak failed", err);
+        finish();
+      }
+    }
+
+    speakNext();
+  }
+
+  function getDisplayedEnglishContent(surahId, ayahNum) {
+    const sId = surahId || currentSurahId || (window.currentSurah ? window.currentSurah.id : 1);
+    const aNum = ayahNum || currentAyahNum || 1;
+    const s = (window.currentSurah && window.currentSurah.id === sId) ? window.currentSurah : null;
+    const ayahObj = s?.ayahs?.find((a) => a.ayah === aNum);
+    const merged = (typeof window.mergeLocalEdits === "function" && ayahObj)
+      ? window.mergeLocalEdits(ayahObj, sId)
+      : ayahObj;
+
+    const layout = window.prefs?.layoutMode || "verse";
+    const readMode = window.prefs?.readMode || "translation";
+    const bookContent = window.prefs?.bookContent || {};
+    const studyShow = window.prefs?.studyShow || {};
+
+    // 1. Passage Tafsir: if active and displayed for this chunk / ayah
+    const isPassageTafsir = (layout === "book" && bookContent.passageTafsir) || studyShow.passageTafsir;
+    if (isPassageTafsir) {
+      if (typeof window.passageFor === "function") {
+        const p = window.passageFor(sId, aNum);
+        if (p && p.tafsir) {
+          return { text: p.tafsir, type: "tafsir", useStudio: false };
+        }
+      }
+      if (layout === "book") {
+        const chunkInfo = findChunkForAyah(sId, aNum);
+        const start = chunkInfo ? chunkInfo.chunk[0].ayah : aNum;
+        const chunkEl = document.querySelector(`.book-chunk[data-start="${start}"]`);
+        const tafsirBlock = chunkEl?.querySelector(".book-tafsir-section, .ax-tafsir-body");
+        if (tafsirBlock) {
+          const text = tafsirBlock.textContent.trim();
+          if (text) return { text, type: "tafsir", useStudio: false };
+        }
+      } else {
+        const tafsirBlock = document.querySelector(`#ayah-${sId}-${aNum} .ax-passage .ax-tafsir-body, #ayah-${sId}-${aNum} .ayah-tafsir-body, #ayah-${sId}-${aNum} .tafsir-summary-body`);
+        if (tafsirBlock) {
+          const text = tafsirBlock.textContent.trim();
+          if (text) return { text, type: "tafsir", useStudio: false };
+        }
+      }
+      if (merged?.tafsir_summary) {
+        return { text: merged.tafsir_summary, type: "tafsir", useStudio: false };
+      }
+    }
+
+    // 2. AI Translation: if active in readMode or in Book view content toggles
+    const isAiTranslation = (layout === "book" && bookContent.aiTranslation) || readMode === "ai";
+    if (isAiTranslation && merged?.ai_translation) {
+      return { text: merged.ai_translation, type: "ai_translation", useStudio: false };
+    }
+
+    // 3. Check what is actually rendered in the DOM
+    let renderedText = "";
+    if (layout === "book") {
+      const seg = document.querySelector(`.book-trans-seg[data-ayah="${aNum}"]`);
+      if (seg) renderedText = seg.textContent.replace(/^\s*\d+\s*/, "").trim();
+    } else {
+      const transBlock = document.querySelector(`#ayah-${sId}-${aNum} .translation-block, #ayah-${sId}-${aNum} .wbw-fulltrans`);
+      if (transBlock) renderedText = transBlock.textContent.trim();
+    }
+
+    if (renderedText) {
+      if (merged?.ai_translation && renderedText.includes(merged.ai_translation.slice(0, 25))) {
+        return { text: renderedText, type: "ai_translation", useStudio: false };
+      }
+      const origTrans = (ayahObj?.translation || ayahObj?.qf_translation || "").trim();
+      if (renderedText !== origTrans && origTrans.length > 0) {
+        return { text: renderedText, type: "custom", useStudio: false };
+      }
+    }
+
+    // 4. If readMode is "ai"
+    if (readMode === "ai" && merged?.ai_translation) {
+      return { text: merged.ai_translation, type: "ai_translation", useStudio: false };
+    }
+
+    // 5. Standard Translation (Saheeh International)
+    const standardText = merged?.translation || merged?.qf_translation || ayahObj?.translation || "";
+    return { text: standardText, type: "studio", useStudio: true };
   }
 
   function formatTime(seconds) {
@@ -261,11 +593,22 @@ const QuranAudio = (() => {
 
     const isPara = isParagraphMode();
     if (isPara && currentChunk) {
-      // In Book view: highlight chunk's translation section & active ayah segment
+      // In Book view: highlight chunk's translation section & active ayah segment, or tafsir
       const start = currentChunk[0].ayah;
       const chunkEl = document.querySelector(`.book-chunk[data-start="${start}"]`)
         || document.getElementById(`ayah-${currentSurahId}-${start}`)?.closest(".book-chunk");
       if (chunkEl) {
+        if (activeSpeechType === "tafsir") {
+          const tafsirSec = chunkEl.querySelector(".book-tafsir-section, .ax-passage, .ax-tafsir-body");
+          if (tafsirSec) {
+            tafsirSec.classList.add("translation-speaking");
+            const rect = tafsirSec.getBoundingClientRect();
+            if (rect.top < 80 || rect.bottom > (window.innerHeight - 90)) {
+              tafsirSec.scrollIntoView({ behavior: "smooth", block: "center" });
+            }
+            return;
+          }
+        }
         const transSec = chunkEl.querySelector(".book-translation-section");
         if (transSec) {
           transSec.classList.add("translation-speaking");
@@ -280,9 +623,20 @@ const QuranAudio = (() => {
         }
       }
     } else {
-      // In Verse / WBW view: highlight translation block of active ayah
+      // In Verse / WBW view: highlight translation block or tafsir block of active ayah
       const block = document.getElementById(`ayah-${currentSurahId}-${ayahNum}`);
       if (block) {
+        if (activeSpeechType === "tafsir") {
+          const tafsirSec = block.querySelector(".ax-passage, .ayah-tafsir-body, .tafsir-summary-body");
+          if (tafsirSec) {
+            tafsirSec.classList.add("translation-speaking");
+            const rect = tafsirSec.getBoundingClientRect();
+            if (rect.top < 80 || rect.bottom > (window.innerHeight - 90)) {
+              tafsirSec.scrollIntoView({ behavior: "smooth", block: "center" });
+            }
+            return;
+          }
+        }
         const trans = block.querySelector(".translation-block, .wbw-fulltrans");
         if (trans) {
           trans.classList.add("translation-speaking");
@@ -314,13 +668,23 @@ const QuranAudio = (() => {
     let artist = "Mishary Rashid Alafasy";
 
     if (playPhase === "english") {
-      artist = "Ibrahim Walk (English)";
+      if (activeSpeechType === "ai_translation") {
+        artist = "English AI Translation (Natural Voice)";
+      } else if (activeSpeechType === "tafsir") {
+        artist = "AI Tafsir (Natural Voice)";
+      } else if (activeSpeechType === "custom") {
+        artist = "Custom Translation (Natural Voice)";
+      } else {
+        artist = "Ibrahim Walk (Studio English)";
+      }
+
+      const typeLabel = activeSpeechType === "tafsir" ? " [AI Tafsir]" : activeSpeechType === "ai_translation" ? " [AI Translation]" : " [English]";
       if (isPara && currentChunk) {
         const s = currentChunk[0].ayah;
         const e = currentChunk[currentChunk.length - 1].ayah;
-        title = `${sName} · ${currentSurahId}:${s}–${e} (Ayah ${currentAyahNum}) [English]`;
+        title = `${sName} · ${currentSurahId}:${s}–${e} (Ayah ${currentAyahNum})${typeLabel}`;
       } else {
-        title = `${sName} · ${currentSurahId}:${currentAyahNum} [English]`;
+        title = `${sName} · ${currentSurahId}:${currentAyahNum}${typeLabel}`;
       }
     } else if (isPara && currentChunk) {
       const s = currentChunk[0].ayah;
@@ -349,7 +713,14 @@ const QuranAudio = (() => {
       navigator.mediaSession.setActionHandler("seekbackward", (details) => {
         const skip = details.seekOffset || 10;
         const activeAudio = playPhase === "arabic" ? arabicAudio : englishAudio;
-        activeAudio.currentTime = Math.max(0, activeAudio.currentTime - skip);
+        if (playPhase === "english" && activeSpeechType !== "studio") {
+          if (speechSentences.length > 0) {
+            speechSentenceIndex = Math.max(0, speechSentenceIndex - 2);
+            speakNaturalText(speechSentences.slice(speechSentenceIndex).join(" "), handleEnglishEnded);
+          }
+        } else {
+          activeAudio.currentTime = Math.max(0, activeAudio.currentTime - skip);
+        }
         updateMediaSessionPosition();
       });
     } catch (_) {}
@@ -358,10 +729,15 @@ const QuranAudio = (() => {
       navigator.mediaSession.setActionHandler("seekforward", (details) => {
         const skip = details.seekOffset || 10;
         const activeAudio = playPhase === "arabic" ? arabicAudio : englishAudio;
-        if (activeAudio.duration) {
+        if (playPhase === "english" && activeSpeechType !== "studio") {
+          if (speechSentences.length > 0) {
+            speechSentenceIndex = Math.min(speechSentences.length - 1, speechSentenceIndex + 1);
+            speakNaturalText(speechSentences.slice(speechSentenceIndex).join(" "), handleEnglishEnded);
+          }
+        } else if (activeAudio.duration) {
           activeAudio.currentTime = Math.min(activeAudio.duration, activeAudio.currentTime + skip);
-          updateMediaSessionPosition();
         }
+        updateMediaSessionPosition();
       });
     } catch (_) {}
 
@@ -380,6 +756,19 @@ const QuranAudio = (() => {
 
   function updateMediaSessionPosition() {
     if (!("mediaSession" in navigator) || !("setPositionState" in navigator.mediaSession)) return;
+    if (playPhase === "english" && activeSpeechType !== "studio") {
+      if (speechEstimatedDuration > 0) {
+        const elapsed = (Date.now() - speechStartTime) / 1000;
+        try {
+          navigator.mediaSession.setPositionState({
+            duration: speechEstimatedDuration,
+            playbackRate: playbackRate,
+            position: Math.min(Math.max(0, elapsed), speechEstimatedDuration),
+          });
+        } catch (_) {}
+      }
+      return;
+    }
     const activeAudio = playPhase === "arabic" ? arabicAudio : englishAudio;
     if (activeAudio.duration && isFinite(activeAudio.duration) && activeAudio.duration > 0) {
       try {
@@ -598,8 +987,19 @@ const QuranAudio = (() => {
 
     if (reciterEl) {
       if (playPhase === "english") {
-        reciterEl.textContent = "Ibrahim Walk (English)";
-        reciterEl.classList.add("speaking-english");
+        if (activeSpeechType === "ai_translation") {
+          reciterEl.textContent = "English AI Translation (Natural Voice)";
+          reciterEl.classList.add("speaking-english");
+        } else if (activeSpeechType === "tafsir") {
+          reciterEl.textContent = "AI Tafsir (Natural Voice)";
+          reciterEl.classList.add("speaking-english");
+        } else if (activeSpeechType === "custom") {
+          reciterEl.textContent = "My Translation (Natural Voice)";
+          reciterEl.classList.add("speaking-english");
+        } else {
+          reciterEl.textContent = "Ibrahim Walk (Studio English)";
+          reciterEl.classList.add("speaking-english");
+        }
       } else {
         reciterEl.textContent = "Mishary Rashid Alafasy";
         reciterEl.classList.remove("speaking-english");
@@ -610,10 +1010,12 @@ const QuranAudio = (() => {
       if (isPara && currentChunk) {
         const start = currentChunk[0].ayah;
         const end = currentChunk[currentChunk.length - 1].ayah;
-        const phaseSuffix = playPhase === "english" ? " [English]" : "";
+        const typeLabel = activeSpeechType === "tafsir" ? " [AI Tafsir]" : activeSpeechType === "ai_translation" ? " [AI Trans]" : " [English]";
+        const phaseSuffix = playPhase === "english" ? typeLabel : "";
         trackEl.textContent = `${sName} · ${currentSurahId}:${start}–${end} (Ayah ${currentAyahNum})${phaseSuffix}`;
       } else {
-        const phaseSuffix = playPhase === "english" ? " [English]" : "";
+        const typeLabel = activeSpeechType === "tafsir" ? " [AI Tafsir]" : activeSpeechType === "ai_translation" ? " [AI Trans]" : " [English]";
+        const phaseSuffix = playPhase === "english" ? typeLabel : "";
         trackEl.textContent = `${sName} · ${currentSurahId}:${currentAyahNum}${phaseSuffix}`;
       }
     }
@@ -634,10 +1036,22 @@ const QuranAudio = (() => {
 
     if (engBtn) {
       engBtn.classList.toggle("active", includeEnglish);
-      engBtn.textContent = includeEnglish ? "🌐 Eng: ON" : "🌐 Eng: OFF";
-      engBtn.title = includeEnglish
-        ? "Real human voice English translation enabled (Ibrahim Walk)"
-        : "English translation audio disabled";
+      if (!includeEnglish) {
+        engBtn.textContent = "🌐 Eng: OFF";
+        engBtn.title = "English audio disabled. Click to enable.";
+      } else {
+        const content = getDisplayedEnglishContent(currentSurahId, currentAyahNum);
+        if (content.type === "ai_translation") {
+          engBtn.textContent = "🌐 AI Trans";
+          engBtn.title = "English: AI Translation (Natural Voice). Click to toggle.";
+        } else if (content.type === "tafsir") {
+          engBtn.textContent = "🌐 AI Tafsir";
+          engBtn.title = "English: AI Tafsir (Natural Voice). Click to toggle.";
+        } else {
+          engBtn.textContent = "🌐 Studio Eng";
+          engBtn.title = "English: Ibrahim Walk Studio Recitation. Click to toggle.";
+        }
+      }
     }
 
     if (fmtBtn) {
@@ -667,6 +1081,7 @@ const QuranAudio = (() => {
 
   function playArabicAyah(surahId, ayahNum, { autoScroll = true } = {}) {
     englishAudio.pause();
+    stopEnglishSpeech();
     currentSurahId = +surahId;
     currentAyahNum = +ayahNum;
     playPhase = "arabic";
@@ -684,10 +1099,13 @@ const QuranAudio = (() => {
     arabicAudio.src = url;
     arabicAudio.playbackRate = playbackRate;
 
-    // Preload English audio for this ayah so transition is immediate
+    // Preload English audio for this ayah if studio audio will be used
     if (includeEnglish) {
-      englishAudio.src = getEnglishAudioUrl(currentSurahId, currentAyahNum, false);
-      englishAudio.load();
+      const content = getDisplayedEnglishContent(currentSurahId, currentAyahNum);
+      if (content.useStudio) {
+        englishAudio.src = getEnglishAudioUrl(currentSurahId, currentAyahNum, false);
+        englishAudio.load();
+      }
     }
 
     arabicAudio
@@ -718,10 +1136,15 @@ const QuranAudio = (() => {
 
   function playEnglishAyah(surahId, ayahNum, { autoScroll = true } = {}) {
     arabicAudio.pause();
+    stopEnglishSpeech();
     playPhase = "english";
     currentSurahId = +surahId;
     currentAyahNum = +ayahNum;
     usingEnglishFallback = false;
+
+    // Detect what content is currently displayed
+    const content = getDisplayedEnglishContent(currentSurahId, currentAyahNum);
+    activeSpeechType = content.type;
 
     isPlaying = true;
     clearArabicHighlights();
@@ -729,32 +1152,37 @@ const QuranAudio = (() => {
     updatePlayerBar();
     updateMediaSession();
 
-    const url = getEnglishAudioUrl(currentSurahId, currentAyahNum, false);
-    englishAudio.src = url;
-    englishAudio.playbackRate = playbackRate;
+    if (content.useStudio) {
+      const url = getEnglishAudioUrl(currentSurahId, currentAyahNum, false);
+      englishAudio.src = url;
+      englishAudio.playbackRate = playbackRate;
 
-    englishAudio
-      .play()
-      .then(() => {
-        isPlaying = true;
-        updatePlayerBar();
-      })
-      .catch((err) => {
-        console.warn("Primary English audio failed, trying fallback", err);
-        usingEnglishFallback = true;
-        englishAudio.src = getEnglishAudioUrl(currentSurahId, currentAyahNum, true);
-        englishAudio.playbackRate = playbackRate;
-        englishAudio
-          .play()
-          .then(() => {
-            isPlaying = true;
-            updatePlayerBar();
-          })
-          .catch((e) => {
-            console.warn("Fallback English audio failed", e);
-            handleEnglishEnded();
-          });
-      });
+      englishAudio
+        .play()
+        .then(() => {
+          isPlaying = true;
+          updatePlayerBar();
+        })
+        .catch((err) => {
+          console.warn("Primary English audio failed, trying fallback", err);
+          usingEnglishFallback = true;
+          englishAudio.src = getEnglishAudioUrl(currentSurahId, currentAyahNum, true);
+          englishAudio.playbackRate = playbackRate;
+          englishAudio
+            .play()
+            .then(() => {
+              isPlaying = true;
+              updatePlayerBar();
+            })
+            .catch((e) => {
+              console.warn("Fallback English audio failed", e);
+              handleEnglishEnded();
+            });
+        });
+    } else {
+      // Natural speech synthesis for AI translation, AI tafsir, or custom edits
+      speakNaturalText(content.text, handleEnglishEnded);
+    }
   }
 
   function playAyah(surahId, ayahNum, { autoScroll = true } = {}) {
@@ -799,6 +1227,35 @@ const QuranAudio = (() => {
     const transSec = chunkEl?.querySelector(".book-translation-section");
     if (transSec) {
       transSec.scrollIntoView({ behavior: "smooth", block: "center" });
+    }
+
+    // Check if Passage Tafsir is active for this chunk in Book mode
+    const isBook = window.prefs?.layoutMode === "book";
+    const bookContent = window.prefs?.bookContent || {};
+    const studyShow = window.prefs?.studyShow || {};
+    const isPassageTafsir = (isBook && bookContent.passageTafsir) || studyShow.passageTafsir;
+
+    if (isPassageTafsir) {
+      const content = getDisplayedEnglishContent(currentSurahId, chunk[0].ayah);
+      if (content.type === "tafsir" && content.text) {
+        stopEnglishSpeech();
+        englishAudio.pause();
+        activeSpeechType = "tafsir";
+        currentAyahNum = chunk[0].ayah;
+        isPlaying = true;
+        highlightEnglishSegment(currentAyahNum);
+        updatePlayerBar();
+        updateMediaSession();
+        speakNaturalText(content.text, () => {
+          clearEnglishHighlights();
+          if (continuous) {
+            advanceAfterChunk(chunk);
+          } else {
+            pause();
+          }
+        });
+        return;
+      }
     }
 
     const firstEnglishAyah = chunk[currentChunkEnglishIndex].ayah;
@@ -904,6 +1361,11 @@ const QuranAudio = (() => {
   function pause() {
     arabicAudio.pause();
     englishAudio.pause();
+    if (speechActive && "speechSynthesis" in window) {
+      try {
+        window.speechSynthesis.cancel();
+      } catch (_) {}
+    }
     isPlaying = false;
     if ("mediaSession" in navigator) {
       navigator.mediaSession.playbackState = "paused";
@@ -925,7 +1387,17 @@ const QuranAudio = (() => {
       navigator.mediaSession.playbackState = "playing";
     }
     if (playPhase === "english") {
-      englishAudio.play().catch((e) => console.warn("English resume failed", e));
+      if (activeSpeechType !== "studio") {
+        if (speechSentences.length > 0) {
+          const resumeIdx = Math.max(0, speechSentenceIndex > 0 ? speechSentenceIndex - 1 : 0);
+          const remaining = speechSentences.slice(resumeIdx).join(" ");
+          speakNaturalText(remaining, handleEnglishEnded);
+        } else {
+          playEnglishAyah(currentSurahId, currentAyahNum);
+        }
+      } else {
+        englishAudio.play().catch((e) => console.warn("English resume failed", e));
+      }
       highlightEnglishSegment(currentAyahNum);
     } else {
       arabicAudio.play().catch((e) => console.warn("Arabic resume failed", e));
@@ -959,6 +1431,7 @@ const QuranAudio = (() => {
     if (!currentSurahId || !currentAyahNum) return;
     arabicAudio.pause();
     englishAudio.pause();
+    stopEnglishSpeech();
 
     const isPara = isParagraphMode();
     if (isPara) {
@@ -975,6 +1448,7 @@ const QuranAudio = (() => {
     if (!currentSurahId || !currentAyahNum) return;
     arabicAudio.pause();
     englishAudio.pause();
+    stopEnglishSpeech();
 
     const isPara = isParagraphMode();
     if (isPara) {
@@ -1047,6 +1521,7 @@ const QuranAudio = (() => {
 
     if (!includeEnglish && playPhase === "english") {
       englishAudio.pause();
+      stopEnglishSpeech();
       clearEnglishHighlights();
       if (continuous) {
         if (isParagraphMode() && currentChunk) {
@@ -1087,6 +1562,7 @@ const QuranAudio = (() => {
   function closePlayer() {
     arabicAudio.pause();
     englishAudio.pause();
+    stopEnglishSpeech();
     pause();
     currentSurahId = null;
     currentAyahNum = null;
@@ -1151,16 +1627,35 @@ const QuranAudio = (() => {
     if (progressEl) {
       progressEl.addEventListener("input", () => {
         seeking = true;
-        const activeAudio = playPhase === "arabic" ? arabicAudio : englishAudio;
         const curTime = document.getElementById("qap-current-time");
-        if (curTime && activeAudio.duration) {
-          curTime.textContent = formatTime((progressEl.value / 100) * activeAudio.duration);
+        if (playPhase === "english" && activeSpeechType !== "studio") {
+          if (curTime && speechEstimatedDuration > 0) {
+            curTime.textContent = formatTime((progressEl.value / 100) * speechEstimatedDuration);
+          }
+        } else {
+          const activeAudio = playPhase === "arabic" ? arabicAudio : englishAudio;
+          if (curTime && activeAudio.duration) {
+            curTime.textContent = formatTime((progressEl.value / 100) * activeAudio.duration);
+          }
         }
       });
       progressEl.addEventListener("change", () => {
-        const activeAudio = playPhase === "arabic" ? arabicAudio : englishAudio;
-        if (activeAudio.duration) {
-          activeAudio.currentTime = (progressEl.value / 100) * activeAudio.duration;
+        if (playPhase === "english" && activeSpeechType !== "studio") {
+          if (speechSentences.length > 0 && speechEstimatedDuration > 0) {
+            const pct = progressEl.value / 100;
+            const targetIdx = Math.min(
+              speechSentences.length - 1,
+              Math.max(0, Math.floor(pct * speechSentences.length))
+            );
+            speechSentenceIndex = targetIdx;
+            const remaining = speechSentences.slice(speechSentenceIndex).join(" ");
+            speakNaturalText(remaining, handleEnglishEnded);
+          }
+        } else {
+          const activeAudio = playPhase === "arabic" ? arabicAudio : englishAudio;
+          if (activeAudio.duration) {
+            activeAudio.currentTime = (progressEl.value / 100) * activeAudio.duration;
+          }
         }
         seeking = false;
         updateMediaSessionPosition();
