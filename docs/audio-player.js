@@ -177,6 +177,31 @@ const QuranAudio = (() => {
     const lang = (v.lang || "").toLowerCase();
     if (!lang.startsWith("en")) return -10000;
 
+    // Disqualify / heavily penalize female voices — enforce deep, dignified British male voice
+    if (
+      name.includes("female") ||
+      name.includes("woman") ||
+      name.includes("girl") ||
+      name.includes("sonia") ||
+      name.includes("libby") ||
+      name.includes("martha") ||
+      name.includes("serena") ||
+      name.includes("jenny") ||
+      name.includes("aria") ||
+      name.includes("samantha") ||
+      name.includes("victoria") ||
+      name.includes("zira") ||
+      name.includes("hazel") ||
+      name.includes("stephanie") ||
+      name.includes("mia") ||
+      name.includes("susan") ||
+      name.includes("karen") ||
+      name.includes("catherine") ||
+      name.includes("linda")
+    ) {
+      return -5000;
+    }
+
     let score = 0;
     // Massive bonus for online/natural neural voices
     if (name.includes("natural") || name.includes("neural") || name.includes("online")) score += 500;
@@ -188,31 +213,29 @@ const QuranAudio = (() => {
     if (name.includes("-local") || name.includes("local")) score -= 250;
 
     // British English preferred for Quran recitation/translation dignity
-    if (lang.startsWith("en-gb")) score += 80;
-    else if (lang.startsWith("en-us")) score += 50;
-    else score += 20;
+    if (lang.startsWith("en-gb")) score += 150;
+    else if (lang.startsWith("en-us")) score += 30;
+    else score += 10;
 
-    // Google Cloud / Neural voices on Chrome & Android
-    if (name.includes("google")) {
-      score += 350;
-      if (lang.startsWith("en-gb")) score += 200; // Google UK English Male/Female
+    // Gold standard: Microsoft Ryan Online Natural (same British male voice across both sites)
+    if (name.includes("ryan")) score += 1500;
+
+    // Google UK English Male on Chrome & Android
+    if (name.includes("google") && lang.startsWith("en-gb")) {
+      if (name.includes("male") && !name.includes("female")) score += 1200;
+      else score += 100;
     }
 
-    // Specific well-tuned human/natural voices
-    if (name.includes("ryan")) score += 300;      // Microsoft Ryan Online Natural (gold standard)
-    if (name.includes("sonia")) score += 220;     // Microsoft Sonia
-    if (name.includes("libby")) score += 200;     // Microsoft Libby
-    if (name.includes("guy")) score += 190;       // Microsoft Guy
-    if (name.includes("oliver") || name.includes("arthur")) score += 190; // Siri
-    if (name.includes("martha") || name.includes("serena")) score += 180;
-    if (name.includes("daniel")) score += 170;    // Daniel UK
-    if (name.includes("george")) score += 150;    // OneCore George
-    if (name.includes("jenny") || name.includes("aria")) score += 140;
-    if (name.includes("samantha")) score += 120;
+    // Specific well-tuned human/natural British male voices
+    if (name.includes("oliver") || name.includes("arthur")) score += 800; // Siri British male
+    if (name.includes("daniel")) score += 750;    // Daniel UK male
+    if (name.includes("george")) score += 700;    // OneCore George male
+    if (name.includes("guy")) score += 650;       // Guy
+    if (name.includes("brian") || name.includes("william")) score += 600;
 
-    // Penalize legacy robotic SAPI desktop voices
+    // Heavily penalize legacy robotic SAPI desktop voices
     if (name.includes("desktop") || name.includes("david") || name.includes("zira") || name.includes("mark")) {
-      score -= 400;
+      score -= 800;
     }
     return score;
   }
@@ -387,11 +410,11 @@ const QuranAudio = (() => {
         voiceName.includes("network") ||
         voiceName.includes("online");
 
-      // Pitch shifting causes metallic DSP artifacts on neural synthesis; keep 1.0
-      u.pitch = 1.0;
+      // Calm, dignified unhurried pacing; slightly deeper pitch on local synthesis
+      u.pitch = isNeuralOrGoogle ? 1.0 : 0.95;
       u.rate = isNeuralOrGoogle
-        ? Math.max(0.75, Math.min(1.3, playbackRate * 0.98))
-        : Math.max(0.75, Math.min(1.3, playbackRate * 0.94));
+        ? Math.max(0.75, Math.min(1.2, playbackRate * 0.96))
+        : Math.max(0.75, Math.min(1.2, playbackRate * 0.92));
       u.volume = 1.0;
       u.lang = bestEnglishVoice?.lang || "en-GB";
 
@@ -497,8 +520,7 @@ const QuranAudio = (() => {
       if (merged?.ai_translation && renderedText.includes(merged.ai_translation.slice(0, 25))) {
         return { text: renderedText, type: "ai_translation", useStudio: false };
       }
-      const origTrans = (ayahObj?.translation || ayahObj?.qf_translation || "").trim();
-      if (renderedText !== origTrans && origTrans.length > 0) {
+      if (ayahObj && merged && merged.isEdited && merged.translation && merged.translation !== (ayahObj.translation || ayahObj.qf_translation)) {
         return { text: renderedText, type: "custom", useStudio: false };
       }
     }
