@@ -1,14 +1,15 @@
 /**
- * Quran Audio Player — Complete recitation by Mishary Rashid Alafasy + English Translation Audio
+ * Quran Audio Player — Complete recitation by Mishary Rashid Alafasy + Real Human English Voice (Ibrahim Walk)
  *
  * Supports:
  * - Mishary Rashid Alafasy complete Arabic recitation (EveryAyah 128kbps stereo + verses.quran.com fallback)
- * - Hands-free English translation audio (prioritizing AI translation)
+ * - Real human voice English translation audio (Ibrahim Walk - Saheeh International 192kbps studio recordings)
+ *   with Islamic Network CDN fallback (https://cdn.islamic.network/quran/audio/192/en.walk/)
  * - Automatic synchronization with active display format:
- *   * Book view (Paragraph mode): recites Arabic chunk -> speaks English AI translation paragraph -> advances to next paragraph
- *   * Verse/WBW view (Sentence mode): recites Arabic ayah -> speaks English AI translation of that ayah -> advances to next ayah
- * - Manual format toggle (Auto follows display, Paragraph forced, Sentence forced)
- * - High-fidelity English speech synthesis with neural/natural UK & US voice selection and Chrome GC protection
+ *   * Book view (Paragraph mode): recites Arabic chunk -> recites English human audio for each ayah in paragraph -> advances
+ *   * Verse/WBW view (Sentence mode): recites Arabic ayah -> recites English human audio of that ayah -> advances
+ * - Format toggle (Auto follows display, Paragraph forced, Sentence forced)
+ * - Preloads upcoming audio for zero-latency transitions
  * - Word-by-word human audio clips
  * - Playback rate control (1x, 0.75x slow, 1.25x)
  * - Floating responsive player bar with scrubber, time display, and keyboard shortcuts (Space, J, K)
@@ -20,9 +21,28 @@ const QuranAudio = (() => {
   const STORAGE_ENG = "quran-audio-english";
   const STORAGE_FORMAT = "quran-audio-format";
 
-  const PRIMARY_BASE = "https://everyayah.com/data/Alafasy_128kbps/";
-  const FALLBACK_BASE = "https://verses.quran.com/Alafasy/mp3/";
+  // Audio CDNs
+  const ARABIC_PRIMARY_BASE = "https://everyayah.com/data/Alafasy_128kbps/";
+  const ARABIC_FALLBACK_BASE = "https://verses.quran.com/Alafasy/mp3/";
+  const ENGLISH_PRIMARY_BASE = "https://everyayah.com/data/English/Sahih_Intnl_Ibrahim_Walk_192kbps/";
+  const ENGLISH_FALLBACK_BASE = "https://cdn.islamic.network/quran/audio/192/en.walk/";
   const WBW_BASE = "https://audio.qurancdn.com/wbw/";
+
+  // Total verses per surah for calculating global ayah numbers (1..6236)
+  const SURAH_VERSE_COUNTS = [
+    7, 286, 200, 176, 120, 165, 206, 75, 129, 109,
+    123, 111, 43, 52, 99, 128, 111, 110, 98, 135,
+    112, 78, 118, 64, 77, 227, 93, 88, 69, 60,
+    34, 30, 73, 54, 45, 83, 182, 88, 75, 85,
+    54, 53, 89, 59, 37, 35, 38, 29, 18, 45,
+    60, 49, 62, 55, 78, 96, 29, 22, 24, 13,
+    14, 11, 11, 18, 12, 12, 30, 52, 52, 44,
+    28, 28, 20, 56, 40, 31, 50, 40, 46, 42,
+    29, 19, 36, 25, 22, 17, 19, 26, 30, 20,
+    15, 21, 11, 8, 8, 19, 5, 8, 8, 11,
+    11, 8, 3, 9, 5, 4, 7, 3, 6, 3,
+    5, 4, 5, 6
+  ];
 
   let currentSurahId = null;
   let currentAyahNum = null;
@@ -32,30 +52,50 @@ const QuranAudio = (() => {
   let includeEnglish = localStorage.getItem(STORAGE_ENG) !== "false";
   let playbackFormat = localStorage.getItem(STORAGE_FORMAT) || "auto"; // "auto" | "paragraph" | "sentence"
   let playbackRate = parseFloat(localStorage.getItem(STORAGE_RATE)) || 1.0;
-  let usingFallback = false;
   let seeking = false;
 
   // Active chunk tracking for Paragraph mode
   let currentChunk = null; // array of ayah objects in active chunk
   let chunkStartAyah = null; // ayah number where playback of the chunk started
-  let activeUtterance = null;
-  let bestEnglishVoice = null;
-  let speechActive = false;
-  let speechSequence = [];
-  let speechSequenceIndex = 0;
-  let speechCompleteCallback = null;
+  let currentChunkEnglishIndex = 0; // index within chunk being spoken in English
 
-  const audio = new Audio();
+  // Dedicated HTML audio elements
+  const arabicAudio = new Audio();
+  const englishAudio = new Audio();
   const wordAudio = new Audio();
+
+  arabicAudio.preload = "auto";
+  englishAudio.preload = "auto";
+
+  let usingArabicFallback = false;
+  let usingEnglishFallback = false;
 
   function pad(n, len = 3) {
     return String(n).padStart(len, "0");
   }
 
-  function getAyahAudioUrl(surah, ayah, fallback = false) {
+  function getGlobalAyahNumber(surah, ayah) {
+    let count = 0;
+    for (let s = 1; s < surah; s++) {
+      count += SURAH_VERSE_COUNTS[s - 1] || 0;
+    }
+    return count + ayah;
+  }
+
+  function getArabicAudioUrl(surah, ayah, fallback = false) {
     const s = pad(surah, 3);
     const a = pad(ayah, 3);
-    return fallback ? `${FALLBACK_BASE}${s}${a}.mp3` : `${PRIMARY_BASE}${s}${a}.mp3`;
+    return fallback ? `${ARABIC_FALLBACK_BASE}${s}${a}.mp3` : `${ARABIC_PRIMARY_BASE}${s}${a}.mp3`;
+  }
+
+  function getEnglishAudioUrl(surah, ayah, fallback = false) {
+    if (fallback) {
+      const globalNum = getGlobalAyahNumber(surah, ayah);
+      return `${ENGLISH_FALLBACK_BASE}${globalNum}.mp3`;
+    }
+    const s = pad(surah, 3);
+    const a = pad(ayah, 3);
+    return `${ENGLISH_PRIMARY_BASE}${s}${a}.mp3`;
   }
 
   function getWordAudioUrl(surah, ayah, word) {
@@ -85,7 +125,7 @@ const QuranAudio = (() => {
     if (window.currentSurah && window.currentSurah.id === surahId) {
       return window.currentSurah.verses_count || window.currentSurah.ayahs?.length || 7;
     }
-    return 286;
+    return SURAH_VERSE_COUNTS[surahId - 1] || 286;
   }
 
   function isParagraphMode() {
@@ -126,173 +166,6 @@ const QuranAudio = (() => {
       }
     }
     return null;
-  }
-
-  function getAyahTranslationText(ayah, surahId) {
-    if (!ayah) return "";
-    const merged = (typeof window.mergeLocalEdits === "function")
-      ? window.mergeLocalEdits(ayah, surahId)
-      : ayah;
-    // Reza's priority: AI translation first, then standard translation
-    if (merged.ai_translation && merged.ai_translation.trim()) {
-      return merged.ai_translation.trim();
-    }
-    if (merged.translation && merged.translation.trim()) {
-      return merged.translation.trim();
-    }
-    if (merged.qf_translation && merged.qf_translation.trim()) {
-      return merged.qf_translation.trim();
-    }
-    return "";
-  }
-
-  function cleanEnglishText(text) {
-    if (!text) return "";
-    return text
-      .replace(/<[^>]+>/g, " ") // strip HTML tags
-      .replace(/\[\d+\]|\(\d+\)/g, " ") // strip footnote numbers like [1]
-      .replace(/[—–]/g, ", ") // convert em/en dashes to gentle comma pauses
-      .replace(/\s+/g, " ") // normalize spacing
-      .trim();
-  }
-
-  // Voice Selection for SpeechSynthesis
-  function pickBestEnglishVoice() {
-    if (!("speechSynthesis" in window)) return null;
-    const voices = window.speechSynthesis.getVoices() || [];
-    if (!voices.length) return null;
-
-    const scoreVoice = (v) => {
-      const name = (v.name || "").toLowerCase();
-      const lang = (v.lang || "").toLowerCase();
-      if (!lang.startsWith("en")) return -1000;
-      let score = 0;
-      if (lang.startsWith("en-gb")) score += 40;
-      else if (lang.startsWith("en-us")) score += 30;
-      else score += 10;
-
-      if (name.includes("natural")) score += 60;
-      if (name.includes("neural")) score += 60;
-      if (name.includes("ryan")) score += 45;
-      if (name.includes("daniel")) score += 40;
-      if (name.includes("george") || name.includes("oliver")) score += 35;
-      if (name.includes("serena") || name.includes("sonia")) score += 35;
-      if (name.includes("google")) score += 30;
-      if (name.includes("online")) score += 25;
-      if (name.includes("samantha")) score += 20;
-      return score;
-    };
-
-    const enVoices = voices.filter((v) => (v.lang || "").toLowerCase().startsWith("en"));
-    if (!enVoices.length) return voices[0];
-    enVoices.sort((a, b) => scoreVoice(b) - scoreVoice(a));
-    return enVoices[0];
-  }
-
-  if ("speechSynthesis" in window) {
-    window.speechSynthesis.onvoiceschanged = () => {
-      bestEnglishVoice = pickBestEnglishVoice();
-    };
-  }
-
-  function stopEnglishSpeech() {
-    speechActive = false;
-    speechSequence = [];
-    speechSequenceIndex = 0;
-    speechCompleteCallback = null;
-    if ("speechSynthesis" in window) {
-      try {
-        window.speechSynthesis.cancel();
-      } catch (_) {}
-    }
-    activeUtterance = null;
-    window.__quranActiveUtterance = null;
-    clearEnglishHighlights();
-  }
-
-  function speakSequence(items, onComplete) {
-    stopEnglishSpeech();
-    if (!items || !items.length) {
-      if (onComplete) onComplete();
-      return;
-    }
-    if (!("speechSynthesis" in window)) {
-      console.warn("SpeechSynthesis not available in browser");
-      if (onComplete) onComplete();
-      return;
-    }
-
-    speechSequence = items;
-    speechSequenceIndex = 0;
-    speechCompleteCallback = onComplete;
-    speechActive = true;
-
-    if (!bestEnglishVoice) {
-      bestEnglishVoice = pickBestEnglishVoice();
-    }
-
-    playSequenceStep();
-  }
-
-  function playSequenceStep() {
-    if (!isPlaying || !speechActive) return;
-    if (speechSequenceIndex >= speechSequence.length) {
-      speechActive = false;
-      clearEnglishHighlights();
-      const cb = speechCompleteCallback;
-      speechCompleteCallback = null;
-      if (cb) cb();
-      return;
-    }
-
-    const item = speechSequence[speechSequenceIndex];
-    const cleaned = cleanEnglishText(item.text);
-    if (!cleaned) {
-      speechSequenceIndex++;
-      playSequenceStep();
-      return;
-    }
-
-    highlightEnglishSegment(item.ayah);
-    updatePlayerBar();
-    updateMediaSession();
-
-    const utterance = new SpeechSynthesisUtterance(cleaned);
-    if (bestEnglishVoice) utterance.voice = bestEnglishVoice;
-    utterance.rate = Math.max(0.7, Math.min(1.4, playbackRate));
-    utterance.lang = bestEnglishVoice?.lang || "en-GB";
-
-    // Keep reference on window to prevent Chrome garbage-collection bug
-    activeUtterance = utterance;
-    window.__quranActiveUtterance = utterance;
-
-    let ended = false;
-    const onDone = () => {
-      if (ended) return;
-      ended = true;
-      activeUtterance = null;
-      window.__quranActiveUtterance = null;
-      speechSequenceIndex++;
-      // Natural 200ms cadence between segments
-      setTimeout(() => {
-        if (isPlaying && speechActive && playPhase === "english") {
-          playSequenceStep();
-        }
-      }, 200);
-    };
-
-    utterance.onend = onDone;
-    utterance.onerror = (err) => {
-      console.warn("Speech synthesis error", err);
-      onDone();
-    };
-
-    try {
-      window.speechSynthesis.speak(utterance);
-    } catch (e) {
-      console.warn("SpeechSynthesis.speak failed", e);
-      onDone();
-    }
   }
 
   function clearArabicHighlights() {
@@ -401,7 +274,7 @@ const QuranAudio = (() => {
     let artist = "Mishary Rashid Alafasy";
 
     if (playPhase === "english") {
-      artist = "English AI Translation";
+      artist = "Ibrahim Walk (English)";
       if (isPara && currentChunk) {
         const s = currentChunk[0].ayah;
         const e = currentChunk[currentChunk.length - 1].ayah;
@@ -431,8 +304,9 @@ const QuranAudio = (() => {
     navigator.mediaSession.setActionHandler("nexttrack", () => nextAyah());
     try {
       navigator.mediaSession.setActionHandler("seekto", (details) => {
-        if (details.seekTime !== undefined && audio.duration && playPhase === "arabic") {
-          audio.currentTime = details.seekTime;
+        if (details.seekTime !== undefined) {
+          const activeAudio = playPhase === "arabic" ? arabicAudio : englishAudio;
+          if (activeAudio.duration) activeAudio.currentTime = details.seekTime;
         }
       });
     } catch (_) {}
@@ -462,7 +336,7 @@ const QuranAudio = (() => {
 
     if (reciterEl) {
       if (playPhase === "english") {
-        reciterEl.textContent = "English Translation (AI)";
+        reciterEl.textContent = "Ibrahim Walk (English)";
         reciterEl.classList.add("speaking-english");
       } else {
         reciterEl.textContent = "Mishary Rashid Alafasy";
@@ -500,8 +374,8 @@ const QuranAudio = (() => {
       engBtn.classList.toggle("active", includeEnglish);
       engBtn.textContent = includeEnglish ? "🌐 Eng: ON" : "🌐 Eng: OFF";
       engBtn.title = includeEnglish
-        ? "English translation audio enabled (Click to turn off)"
-        : "English translation audio disabled (Click to turn on)";
+        ? "Real human voice English translation enabled (Ibrahim Walk)"
+        : "English translation audio disabled";
     }
 
     if (fmtBtn) {
@@ -530,35 +404,42 @@ const QuranAudio = (() => {
   }
 
   function playArabicAyah(surahId, ayahNum, { autoScroll = true } = {}) {
-    stopEnglishSpeech();
+    englishAudio.pause();
     currentSurahId = +surahId;
     currentAyahNum = +ayahNum;
     playPhase = "arabic";
-    usingFallback = false;
+    usingArabicFallback = false;
 
-    // Immediate visual feedback on click
+    // Instant UI reaction
     isPlaying = true;
     highlightArabicAyah(currentSurahId, currentAyahNum);
+    clearEnglishHighlights();
     updatePlayerBar();
     updateMediaSession();
     if (autoScroll) scrollToAyah(currentSurahId, currentAyahNum);
 
-    const url = getAyahAudioUrl(currentSurahId, currentAyahNum, false);
-    audio.src = url;
-    audio.playbackRate = playbackRate;
+    const url = getArabicAudioUrl(currentSurahId, currentAyahNum, false);
+    arabicAudio.src = url;
+    arabicAudio.playbackRate = playbackRate;
 
-    audio
+    // Preload English audio for this ayah so transition is immediate
+    if (includeEnglish) {
+      englishAudio.src = getEnglishAudioUrl(currentSurahId, currentAyahNum, false);
+      englishAudio.load();
+    }
+
+    arabicAudio
       .play()
       .then(() => {
         isPlaying = true;
         updatePlayerBar();
       })
       .catch((err) => {
-        console.warn("Primary audio play failed, trying fallback", err);
-        usingFallback = true;
-        audio.src = getAyahAudioUrl(currentSurahId, currentAyahNum, true);
-        audio.playbackRate = playbackRate;
-        audio
+        console.warn("Primary Arabic audio failed, trying fallback", err);
+        usingArabicFallback = true;
+        arabicAudio.src = getArabicAudioUrl(currentSurahId, currentAyahNum, true);
+        arabicAudio.playbackRate = playbackRate;
+        arabicAudio
           .play()
           .then(() => {
             isPlaying = true;
@@ -573,11 +454,51 @@ const QuranAudio = (() => {
       });
   }
 
-  function playAyah(surahId, ayahNum, { autoScroll = true } = {}) {
-    stopEnglishSpeech();
+  function playEnglishAyah(surahId, ayahNum, { autoScroll = true } = {}) {
+    arabicAudio.pause();
+    playPhase = "english";
     currentSurahId = +surahId;
     currentAyahNum = +ayahNum;
-    chunkStartAyah = +ayahNum;
+    usingEnglishFallback = false;
+
+    isPlaying = true;
+    clearArabicHighlights();
+    highlightEnglishSegment(currentAyahNum);
+    updatePlayerBar();
+    updateMediaSession();
+
+    const url = getEnglishAudioUrl(currentSurahId, currentAyahNum, false);
+    englishAudio.src = url;
+    englishAudio.playbackRate = playbackRate;
+
+    englishAudio
+      .play()
+      .then(() => {
+        isPlaying = true;
+        updatePlayerBar();
+      })
+      .catch((err) => {
+        console.warn("Primary English audio failed, trying fallback", err);
+        usingEnglishFallback = true;
+        englishAudio.src = getEnglishAudioUrl(currentSurahId, currentAyahNum, true);
+        englishAudio.playbackRate = playbackRate;
+        englishAudio
+          .play()
+          .then(() => {
+            isPlaying = true;
+            updatePlayerBar();
+          })
+          .catch((e) => {
+            console.warn("Fallback English audio failed", e);
+            handleEnglishEnded();
+          });
+      });
+  }
+
+  function playAyah(surahId, ayahNum, { autoScroll = true } = {}) {
+    currentSurahId = +(surahId || (window.currentSurah ? window.currentSurah.id : 1));
+    currentAyahNum = +(ayahNum || 1);
+    chunkStartAyah = currentAyahNum;
 
     const isPara = isParagraphMode();
     if (isPara) {
@@ -592,56 +513,23 @@ const QuranAudio = (() => {
     playArabicAyah(currentSurahId, currentAyahNum, { autoScroll });
   }
 
-  function startEnglishPhaseForAyah(surahId, ayahNum) {
-    playPhase = "english";
-    clearArabicHighlights();
-    updatePlayerBar();
-
-    const surah = window.currentSurah && window.currentSurah.id === surahId
-      ? window.currentSurah
-      : null;
-    const ayahObj = surah?.ayahs?.find((a) => a.ayah === ayahNum);
-    const text = getAyahTranslationText(ayahObj, surahId);
-
-    if (!text) {
-      advanceAfterSentence();
-      return;
-    }
-
-    const items = [{ ayah: ayahNum, text }];
-    speakSequence(items, () => {
-      if (continuous) {
-        advanceAfterSentence();
-      } else {
-        pause();
-      }
-    });
-  }
-
   function startEnglishPhaseForChunk(chunk) {
     playPhase = "english";
     clearArabicHighlights();
     currentChunk = chunk;
     updatePlayerBar();
 
-    // Determine which ayahs in the chunk to speak:
-    // From chunkStartAyah up to chunk end
     const startAt = (chunkStartAyah && chunk.some((a) => a.ayah === chunkStartAyah))
       ? chunkStartAyah
       : chunk[0].ayah;
 
     const speakAyahs = chunk.filter((a) => a.ayah >= startAt);
-    const items = speakAyahs
-      .map((a) => ({
-        ayah: a.ayah,
-        text: getAyahTranslationText(a, currentSurahId),
-      }))
-      .filter((item) => !!item.text.trim());
-
-    if (!items.length) {
+    if (!speakAyahs.length) {
       advanceAfterChunk(chunk);
       return;
     }
+
+    currentChunkEnglishIndex = chunk.findIndex((a) => a.ayah === speakAyahs[0].ayah);
 
     // Scroll chunk's translation section into view
     const chunkEl = document.querySelector(`.book-chunk[data-start="${chunk[0].ayah}"]`)
@@ -651,13 +539,73 @@ const QuranAudio = (() => {
       transSec.scrollIntoView({ behavior: "smooth", block: "center" });
     }
 
-    speakSequence(items, () => {
+    const firstEnglishAyah = chunk[currentChunkEnglishIndex].ayah;
+    playEnglishAyah(currentSurahId, firstEnglishAyah);
+  }
+
+  function handleArabicEnded() {
+    if (!isPlaying || playPhase !== "arabic") return;
+
+    const isPara = isParagraphMode();
+    if (isPara) {
+      const chunkInfo = findChunkForAyah(currentSurahId, currentAyahNum);
+      if (!chunkInfo) {
+        advanceAfterSentence();
+        return;
+      }
+
+      currentChunk = chunkInfo.chunk;
+      const lastAyahInChunk = currentChunk[currentChunk.length - 1].ayah;
+
+      if (currentAyahNum < lastAyahInChunk) {
+        // More Arabic ayahs remain in this paragraph
+        playArabicAyah(currentSurahId, currentAyahNum + 1);
+      } else {
+        // Reached end of the Arabic paragraph
+        if (includeEnglish) {
+          startEnglishPhaseForChunk(currentChunk);
+        } else {
+          advanceAfterChunk(currentChunk);
+        }
+      }
+    } else {
+      // Sentence mode
+      if (includeEnglish) {
+        playEnglishAyah(currentSurahId, currentAyahNum);
+      } else {
+        advanceAfterSentence();
+      }
+    }
+  }
+
+  function handleEnglishEnded() {
+    if (!isPlaying || playPhase !== "english") return;
+
+    const isPara = isParagraphMode();
+    if (isPara && currentChunk) {
+      currentChunkEnglishIndex++;
+      if (currentChunkEnglishIndex < currentChunk.length) {
+        // Play next ayah in the chunk
+        const nextAyahInChunk = currentChunk[currentChunkEnglishIndex].ayah;
+        playEnglishAyah(currentSurahId, nextAyahInChunk);
+      } else {
+        // Reached end of English paragraph
+        clearEnglishHighlights();
+        if (continuous) {
+          advanceAfterChunk(currentChunk);
+        } else {
+          pause();
+        }
+      }
+    } else {
+      // Sentence mode
+      clearEnglishHighlights();
       if (continuous) {
-        advanceAfterChunk(chunk);
+        advanceAfterSentence();
       } else {
         pause();
       }
-    });
+    }
   }
 
   function advanceAfterSentence() {
@@ -691,51 +639,12 @@ const QuranAudio = (() => {
     }
   }
 
-  function handleArabicEnded() {
-    if (!isPlaying || playPhase !== "arabic") return;
-
-    const isPara = isParagraphMode();
-    if (isPara) {
-      const chunkInfo = findChunkForAyah(currentSurahId, currentAyahNum);
-      if (!chunkInfo) {
-        advanceAfterSentence();
-        return;
-      }
-
-      currentChunk = chunkInfo.chunk;
-      const lastAyahInChunk = currentChunk[currentChunk.length - 1].ayah;
-
-      if (currentAyahNum < lastAyahInChunk) {
-        // More Arabic ayahs remain in this paragraph
-        playArabicAyah(currentSurahId, currentAyahNum + 1);
-      } else {
-        // Reached end of the Arabic paragraph
-        if (includeEnglish) {
-          startEnglishPhaseForChunk(currentChunk);
-        } else {
-          advanceAfterChunk(currentChunk);
-        }
-      }
-    } else {
-      // Sentence mode
-      if (includeEnglish) {
-        startEnglishPhaseForAyah(currentSurahId, currentAyahNum);
-      } else {
-        advanceAfterSentence();
-      }
-    }
-  }
-
   function pause() {
-    audio.pause();
-    if (playPhase === "english") {
-      speechActive = false;
-      if ("speechSynthesis" in window) {
-        try { window.speechSynthesis.cancel(); } catch (_) {}
-      }
-    }
+    arabicAudio.pause();
+    englishAudio.pause();
     isPlaying = false;
     clearArabicHighlights();
+    clearEnglishHighlights();
     updatePlayerBar();
   }
 
@@ -748,10 +657,10 @@ const QuranAudio = (() => {
 
     isPlaying = true;
     if (playPhase === "english") {
-      speechActive = true;
-      playSequenceStep();
+      englishAudio.play().catch((e) => console.warn("English resume failed", e));
+      highlightEnglishSegment(currentAyahNum);
     } else {
-      audio.play().catch((e) => console.warn("Audio resume failed", e));
+      arabicAudio.play().catch((e) => console.warn("Arabic resume failed", e));
       highlightArabicAyah(currentSurahId, currentAyahNum);
     }
     updatePlayerBar();
@@ -779,7 +688,8 @@ const QuranAudio = (() => {
 
   function nextAyah() {
     if (!currentSurahId || !currentAyahNum) return;
-    stopEnglishSpeech();
+    arabicAudio.pause();
+    englishAudio.pause();
 
     const isPara = isParagraphMode();
     if (isPara) {
@@ -794,18 +704,17 @@ const QuranAudio = (() => {
 
   function prevAyah() {
     if (!currentSurahId || !currentAyahNum) return;
-    stopEnglishSpeech();
+    arabicAudio.pause();
+    englishAudio.pause();
 
     const isPara = isParagraphMode();
     if (isPara) {
       const chunkInfo = findChunkForAyah(currentSurahId, currentAyahNum);
       if (chunkInfo) {
-        // If we are past the start of the chunk, jump back to start of chunk
         if (currentAyahNum > chunkInfo.chunk[0].ayah || playPhase === "english") {
           playAyah(currentSurahId, chunkInfo.chunk[0].ayah);
           return;
         }
-        // If at start of chunk, jump to previous chunk
         if (chunkInfo.index > 0) {
           const allChunks = getChunksForSurah(currentSurahId);
           const prevChunk = allChunks[chunkInfo.index - 1];
@@ -815,9 +724,9 @@ const QuranAudio = (() => {
       }
     }
 
-    // Sentence mode
-    if (audio.currentTime > 2.5 && playPhase === "arabic") {
-      audio.currentTime = 0;
+    const activeAudio = playPhase === "arabic" ? arabicAudio : englishAudio;
+    if (activeAudio.currentTime > 2.5) {
+      activeAudio.currentTime = 0;
       resume();
       return;
     }
@@ -868,7 +777,8 @@ const QuranAudio = (() => {
     } catch (_) {}
 
     if (!includeEnglish && playPhase === "english") {
-      stopEnglishSpeech();
+      englishAudio.pause();
+      clearEnglishHighlights();
       if (continuous) {
         if (isParagraphMode() && currentChunk) {
           advanceAfterChunk(currentChunk);
@@ -896,7 +806,8 @@ const QuranAudio = (() => {
     const rates = [1.0, 0.75, 1.25];
     const idx = rates.indexOf(playbackRate);
     playbackRate = rates[(idx + 1) % rates.length];
-    audio.playbackRate = playbackRate;
+    arabicAudio.playbackRate = playbackRate;
+    englishAudio.playbackRate = playbackRate;
     wordAudio.playbackRate = playbackRate;
     try {
       localStorage.setItem(STORAGE_RATE, String(playbackRate));
@@ -905,7 +816,8 @@ const QuranAudio = (() => {
   }
 
   function closePlayer() {
-    stopEnglishSpeech();
+    arabicAudio.pause();
+    englishAudio.pause();
     pause();
     currentSurahId = null;
     currentAyahNum = null;
@@ -913,30 +825,54 @@ const QuranAudio = (() => {
     clearArabicHighlights();
     clearEnglishHighlights();
     updatePlayerBar();
+    const toolbarBtn = document.getElementById("toolbar-play-surah");
+    if (toolbarBtn) {
+      toolbarBtn.textContent = "▶ Listen";
+      toolbarBtn.classList.remove("playing");
+    }
   }
 
   function bindAudioEvents() {
-    audio.addEventListener("timeupdate", () => {
-      if (seeking || playPhase !== "arabic") return;
+    const onTimeUpdate = (activeAudio) => {
+      if (seeking) return;
       const progress = document.getElementById("qap-progress");
       const curTime = document.getElementById("qap-current-time");
       const durTime = document.getElementById("qap-duration");
-      if (progress && audio.duration) {
-        progress.value = (audio.currentTime / audio.duration) * 100;
+      if (progress && activeAudio.duration) {
+        progress.value = (activeAudio.currentTime / activeAudio.duration) * 100;
       }
-      if (curTime) curTime.textContent = formatTime(audio.currentTime);
-      if (durTime && audio.duration) durTime.textContent = formatTime(audio.duration);
+      if (curTime) curTime.textContent = formatTime(activeAudio.currentTime);
+      if (durTime && activeAudio.duration) durTime.textContent = formatTime(activeAudio.duration);
+    };
+
+    arabicAudio.addEventListener("timeupdate", () => {
+      if (playPhase === "arabic") onTimeUpdate(arabicAudio);
     });
 
-    audio.addEventListener("ended", handleArabicEnded);
+    englishAudio.addEventListener("timeupdate", () => {
+      if (playPhase === "english") onTimeUpdate(englishAudio);
+    });
 
-    audio.addEventListener("error", () => {
-      if (!usingFallback && currentSurahId && currentAyahNum) {
-        usingFallback = true;
-        audio.src = getAyahAudioUrl(currentSurahId, currentAyahNum, true);
-        audio.play().catch(() => pause());
+    arabicAudio.addEventListener("ended", handleArabicEnded);
+    englishAudio.addEventListener("ended", handleEnglishEnded);
+
+    arabicAudio.addEventListener("error", () => {
+      if (!usingArabicFallback && currentSurahId && currentAyahNum) {
+        usingArabicFallback = true;
+        arabicAudio.src = getArabicAudioUrl(currentSurahId, currentAyahNum, true);
+        arabicAudio.play().catch(() => pause());
       } else {
         pause();
+      }
+    });
+
+    englishAudio.addEventListener("error", () => {
+      if (!usingEnglishFallback && currentSurahId && currentAyahNum) {
+        usingEnglishFallback = true;
+        englishAudio.src = getEnglishAudioUrl(currentSurahId, currentAyahNum, true);
+        englishAudio.play().catch(() => handleEnglishEnded());
+      } else {
+        handleEnglishEnded();
       }
     });
 
@@ -944,17 +880,17 @@ const QuranAudio = (() => {
     const progressEl = document.getElementById("qap-progress");
     if (progressEl) {
       progressEl.addEventListener("input", () => {
-        if (playPhase !== "arabic") return;
         seeking = true;
+        const activeAudio = playPhase === "arabic" ? arabicAudio : englishAudio;
         const curTime = document.getElementById("qap-current-time");
-        if (curTime && audio.duration) {
-          curTime.textContent = formatTime((progressEl.value / 100) * audio.duration);
+        if (curTime && activeAudio.duration) {
+          curTime.textContent = formatTime((progressEl.value / 100) * activeAudio.duration);
         }
       });
       progressEl.addEventListener("change", () => {
-        if (playPhase !== "arabic") return;
-        if (audio.duration) {
-          audio.currentTime = (progressEl.value / 100) * audio.duration;
+        const activeAudio = playPhase === "arabic" ? arabicAudio : englishAudio;
+        if (activeAudio.duration) {
+          activeAudio.currentTime = (progressEl.value / 100) * activeAudio.duration;
         }
         seeking = false;
       });
@@ -1021,7 +957,7 @@ const QuranAudio = (() => {
     updatePlayerBar();
   }
 
-  return {
+  const api = {
     init,
     playAyah,
     toggleAyah,
@@ -1039,6 +975,8 @@ const QuranAudio = (() => {
     updateHighlights: () => {
       if (playPhase === "arabic") {
         highlightArabicAyah(currentSurahId, currentAyahNum);
+      } else {
+        highlightEnglishSegment(currentAyahNum);
       }
     },
     isPlayingAyah: (s, a) => isPlaying && currentSurahId === +s && currentAyahNum === +a,
@@ -1046,6 +984,8 @@ const QuranAudio = (() => {
     onSurahRendered: () => {
       if (playPhase === "arabic") {
         highlightArabicAyah(currentSurahId, currentAyahNum);
+      } else {
+        highlightEnglishSegment(currentAyahNum);
       }
       updatePlayerBar();
     },
@@ -1053,6 +993,7 @@ const QuranAudio = (() => {
       updatePlayerBar();
     },
   };
+
   window.QuranAudio = api;
   return api;
 })();
