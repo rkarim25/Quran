@@ -27,10 +27,17 @@ before any non-trivial work.**
   overwrites it. But `docs/data/ai_wbw/*`, `passage_tafsir/*`, `duas.json`,
   `asbab_nuzul.json`, `hadith_*.json`, `people_*.json`, `timeline.json`,
   `mushaf/*` are **static** and edited directly.
+- **Audio recitation invariants:**
+  * Arabic strictly **Mishary Rashid Alafasy** (EveryAyah 128kbps stereo + Verses fallback).
+  * English strictly authentic human studio recording by **Ibrahim Walk** (192kbps MP3 + Islamic Network fallback). Zero mechanical TTS.
+  * Audio synchronizes with display mode: Book View plays paragraph blocks; Verse View plays ayah by ayah.
+- **Hovering Note System & AI Requests:**
+  * Draggable floating button (`#tadabbur-fab`) on all reader views offers "Personal Reflection" vs "Addressed to AI".
+  * Notes flagged for AI (`forAi: true`, `#ai`) can be copied as a prompt via "📋 Copy AI Notes" or assessed via the `check-quran-site` skill.
 - **Every data change** bumps `DATA_VERSION` in `docs/reader.js` AND `VERSION` in
   `docs/sw.js`, then is verified on the **live URL with a cache-bust**
   (`?cb=<random>`), not localhost.
-- **Validators are hard gates.** `python scripts/tafsir_passages.py validate
+- **Validators are hard gates.** `node scripts/check-site.js` must exit 0. `python scripts/tafsir_passages.py validate
   --surah N` must exit 0 before publishing tafsir. Word-by-word changes require
   the full 114-surah `validate_wbw.py` loop — a per-file stub scan misses absent
   positions.
@@ -46,11 +53,13 @@ before any non-trivial work.**
 ## Where to start
 
 ```bash
+node scripts/check-site.js                 # full automated health & audio & notes audit
 python scripts/tafsir_passages.py status   # tafsir state, derived from disk
 python scripts/build_site.py --surah N     # rebuild one surah
 python scripts/serve.py                    # local server with markdown write-back
 ```
 
-Operating runbooks: `.claude/skills/resume-ai-tafsir/SKILL.md` (tafsir),
+Operating runbooks: `.claude/skills/check-quran-site/SKILL.md` (site audit & notes),
+`.claude/skills/resume-ai-tafsir/SKILL.md` (tafsir),
 `scripts/WBW_RUNBOOK.md` (word-by-word). Live state and known issues:
 ARCHITECTURE.md §8.

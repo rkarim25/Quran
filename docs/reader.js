@@ -3047,8 +3047,8 @@ function ensureTadabburFab() {
   if (tadabburFabEl) return;
   const b = document.createElement("button");
   b.type = "button"; b.id = "tadabbur-fab"; b.className = "tadabbur-fab";
-  b.setAttribute("aria-label", "Write a tadabbur reflection");
-  b.title = "Tadabbur — write a reflection · drag to move";
+  b.setAttribute("aria-label", "Write a tadabbur reflection or note for AI");
+  b.title = "Tadabbur & AI Notes — write a reflection or note for AI · drag to move";
   b.innerHTML = '<span aria-hidden="true">✎</span>';
   document.body.appendChild(b);
   tadabburFabEl = b;
@@ -3082,13 +3082,14 @@ function openTadabburEditor(opts = {}) {
   const startFrom = tdbClamp(note ? note.from : (opts.from || visibleAyah || 1), 1, vc);
   const startTo = tdbClamp(note ? note.to : (opts.to || startFrom), startFrom, vc);
   let tags = note ? [...(note.tags || [])] : [];
+  let isAi = !!(opts.forAi || (note && (note.forAi || note.target === "ai" || (note.tags || []).includes("ai"))));
 
   const el = document.createElement("div");
   el.className = "tdb-backdrop";
   el.innerHTML = `
-    <div class="tdb-panel" role="dialog" aria-modal="true" aria-label="Tadabbur reflection">
+    <div class="tdb-panel" role="dialog" aria-modal="true" aria-label="Tadabbur reflection and AI notes">
       <div class="tdb-top">
-        <span class="tdb-brand" aria-hidden="true">✎</span>
+        <span class="tdb-brand" aria-hidden="true">${isAi ? "🤖" : "✎"}</span>
         <span class="tdb-rng">
           <span class="tdb-rng-s">${esc(surahName)}</span>
           <span class="tdb-grp" data-role="from"><button type="button" class="tdb-mini" data-d="-1" aria-label="from minus">−</button><b class="tdb-val">${startFrom}</b><button type="button" class="tdb-mini" data-d="1" aria-label="from plus">+</button></span>
@@ -3097,7 +3098,27 @@ function openTadabburEditor(opts = {}) {
         </span>
         <button type="button" class="tdb-x" data-close aria-label="Close">✕</button>
       </div>
-      <textarea class="tdb-in" placeholder="Write your reflection…">${esc(note ? note.text : "")}</textarea>
+      <div class="tdb-mode-selector">
+        <button type="button" class="tdb-mode-btn ${!isAi ? "active" : ""}" data-mode="personal">
+          <span class="tdb-mode-icon">✎</span> Personal Reflection
+        </button>
+        <button type="button" class="tdb-mode-btn ${isAi ? "active" : ""}" data-mode="ai">
+          <span class="tdb-mode-icon">🤖</span> Addressed to AI
+        </button>
+      </div>
+      <div class="tdb-ai-prompt-bar" id="tdb-ai-bar" ${isAi ? "" : "hidden"}>
+        <div class="tdb-ai-prompt-head">
+          <span class="tdb-ai-hint-badge">🤖 Addressed to AI</span>
+          <span class="tdb-ai-hint-text">Evaluated by <code>check quran site</code> skill</span>
+        </div>
+        <div class="tdb-ai-quicktags">
+          <button type="button" class="tdb-quicktag-btn" data-tag="translation">📝 Translation</button>
+          <button type="button" class="tdb-quicktag-btn" data-tag="transliteration">🔤 Transliteration</button>
+          <button type="button" class="tdb-quicktag-btn" data-tag="tafsir">📖 Tafsir</button>
+          <button type="button" class="tdb-quicktag-btn" data-tag="bug">🐞 Site / Bug</button>
+        </div>
+      </div>
+      <textarea class="tdb-in" placeholder="${isAi ? "Note for AI — report a translation nuance, transliteration typo, tafsir depth request, or site issue…" : "Write your reflection…"}">${esc(note ? note.text : "")}</textarea>
       <div class="tdb-bottom">
         <div class="tdb-tagfield"><input type="text" class="tdb-taginput" placeholder="+ tag" autocomplete="off" aria-label="Add a tag"><div class="tdb-tagmenu" hidden></div></div>
         ${note ? `<button type="button" class="tdb-del" data-del aria-label="Delete reflection">\u{1F5D1}</button>` : ""}
@@ -3109,6 +3130,41 @@ function openTadabburEditor(opts = {}) {
   document.addEventListener("keydown", tdbEditorEsc);
   el.addEventListener("mousedown", (e) => { if (e.target === el) closeTadabburEditor(); });
   el.querySelector("[data-close]").addEventListener("click", closeTadabburEditor);
+
+  const brandEl = el.querySelector(".tdb-brand");
+  const aiBar = el.querySelector("#tdb-ai-bar");
+  const ta = el.querySelector(".tdb-in");
+  const modeBtns = el.querySelectorAll(".tdb-mode-btn");
+
+  modeBtns.forEach((btn) => {
+    btn.addEventListener("click", () => {
+      const mode = btn.dataset.mode;
+      isAi = (mode === "ai");
+      modeBtns.forEach((b) => b.classList.toggle("active", b.dataset.mode === mode));
+      if (aiBar) aiBar.hidden = !isAi;
+      if (brandEl) brandEl.textContent = isAi ? "🤖" : "✎";
+      if (ta) {
+        ta.placeholder = isAi
+          ? "Note for AI — report a translation nuance, transliteration typo, tafsir depth request, or site issue…"
+          : "Write your reflection…";
+      }
+      if (isAi && !tags.includes("ai")) {
+        tags.push("ai");
+        chips();
+      }
+    });
+  });
+
+  el.querySelectorAll(".tdb-quicktag-btn").forEach((btn) => {
+    btn.addEventListener("click", () => {
+      const t = btn.dataset.tag;
+      if (t && !tags.includes(t)) {
+        tags.push(t);
+        chips();
+      }
+      if (ta) ta.focus();
+    });
+  });
 
   const fromV = el.querySelector("[data-role=from] .tdb-val"), toV = el.querySelector("[data-role=to] .tdb-val");
   el.querySelectorAll(".tdb-grp").forEach((g) => { const v = g.querySelector(".tdb-val"); g.querySelectorAll(".tdb-mini").forEach((btn) => btn.addEventListener("click", () => { v.textContent = tdbClamp(+v.textContent + (+btn.dataset.d), 1, vc); const a = +fromV.textContent, c = +toV.textContent; if (v === fromV && a > c) toV.textContent = a; if (v === toV && c < a) fromV.textContent = c; })); });
@@ -3129,16 +3185,59 @@ function openTadabburEditor(opts = {}) {
     const text = el.querySelector(".tdb-in").value.trim();
     const a = tdbClamp(+fromV.textContent, 1, vc), b = tdbClamp(+toV.textContent, 1, vc);
     if (!text && !tags.length) { closeTadabburEditor(); return; }
+    if (isAi && !tags.includes("ai")) tags.push("ai");
     const now = Date.now();
     const saved = note
-      ? { ...note, from: a, to: b, text, tags: [...tags], updated: now }
-      : { id: tdbNewId(), surah, surahName, from: a, to: b, text, tags: [...tags], created: now, updated: now };
+      ? {
+          ...note,
+          from: a,
+          to: b,
+          text,
+          tags: [...tags],
+          forAi: isAi,
+          target: isAi ? "ai" : "personal",
+          status: note.status || (isAi ? "open" : undefined),
+          updated: now,
+        }
+      : {
+          id: tdbNewId(),
+          surah,
+          surahName,
+          from: a,
+          to: b,
+          text,
+          tags: [...tags],
+          forAi: isAi,
+          target: isAi ? "ai" : "personal",
+          status: isAi ? "open" : undefined,
+          created: now,
+          updated: now,
+        };
     upsertTadabburNote(saved);
     closeTadabburEditor();
-    tdbToast("Reflection saved");
+    tdbToast(isAi ? "Note saved for AI review" : "Reflection saved");
     if (route().view === "tadabbur") renderTadabbur();
   });
   setTimeout(() => { const ta = el.querySelector(".tdb-in"); if (ta) ta.focus(); }, 50);
+}
+
+function formatAiNotesMarkdown(notes) {
+  const aiNotes = (notes || []).filter((n) => n.forAi || n.target === "ai" || (n.tags || []).includes("ai"));
+  if (!aiNotes.length) return "No open notes addressed to AI found on this device.";
+  let md = `# Quran Site — Notes Addressed to AI (${aiNotes.length} notes)\n\n`;
+  aiNotes.forEach((n, idx) => {
+    const range = n.from === n.to ? `Ayah ${n.from}` : `Ayahs ${n.from}–${n.to}`;
+    const status = n.status || "open";
+    const tags = (n.tags || []).join(", ") || "ai";
+    md += `### ${idx + 1}. ${n.surahName || "Surah " + n.surah} · ${range}\n`;
+    md += `- **Surah ID:** ${n.surah}\n`;
+    md += `- **Ayah Range:** ${n.from}–${n.to}\n`;
+    md += `- **Status:** ${status}\n`;
+    md += `- **Tags:** ${tags}\n`;
+    md += `- **Created / Updated:** ${new Date(n.updated || n.created || Date.now()).toISOString()}\n`;
+    md += `- **Request / Note:**\n  > ${n.text.replace(/\n/g, "\n  > ")}\n\n`;
+  });
+  return md;
 }
 
 let tadabburFilterTag = "";
@@ -3148,40 +3247,109 @@ function renderTadabbur() {
   setBreadcrumb(`<a href="#/">Home</a> › Tadabbur`);
   const app = document.getElementById("app");
   const notes = getTadabburNotes();
+  const aiNotes = notes.filter((n) => n.forAi || n.target === "ai" || (n.tags || []).includes("ai"));
+  const aiOpenCount = aiNotes.filter((n) => (n.status || "open") !== "resolved").length;
   const legacy = Object.values(getMyWork()).filter((e) => e.tadabbur).sort((a, b) => (b.at || 0) - (a.at || 0));
   const tags = allTadabburTags();
-  if (tadabburFilterTag && !tags.includes(tadabburFilterTag)) tadabburFilterTag = "";
+  if (tadabburFilterTag && tadabburFilterTag !== "__ai__" && !tags.includes(tadabburFilterTag)) tadabburFilterTag = "";
   const legacyRows = legacy.map((e) => `<a href="#/${e.surah}/${e.ayah}/study" class="bookmark-row my-work-row"><span class="bookmark-ref">${esc(e.surahName || ("Surah " + e.surah))} · Ayah ${e.ayah}</span><span class="bookmark-snippet">${esc(e.tadabburSnippet || "")}</span></a>`).join("");
   app.innerHTML = `
-    <div class="hero compact"><h1 class="hero-title-sm">My Tadabbur</h1>${ornament()}
-      <p class="hero-subtitle">${notes.length ? `${notes.length} reflection${notes.length === 1 ? "" : "s"} you’ve written` : "Your saved reflections appear here."}</p></div>
-    ${notes.length ? `<div class="tdb-searchwrap"><span class="tdb-search-ic" aria-hidden="true">⌕</span><input type="search" id="tdb-search" class="tdb-search" placeholder="Search your reflections…" aria-label="Search reflections" value="${esc(tadabburSearchQ)}"></div>` : ""}
+    <div class="hero compact"><h1 class="hero-title-sm">My Tadabbur & AI Notes</h1>${ornament()}
+      <p class="hero-subtitle">${notes.length ? `${notes.length} saved reflection${notes.length === 1 ? "" : "s"}${aiNotes.length ? ` · <strong>${aiNotes.length} for AI</strong> (${aiOpenCount} open)` : ""}` : "Your saved reflections and AI notes appear here."}</p>
+    </div>
+    ${aiNotes.length ? `
+      <div class="tdb-actions-row">
+        <button type="button" class="tdb-action-btn primary" id="tdb-copy-ai-notes" title="Copy all AI notes formatted as a prompt to clipboard">
+          📋 Copy AI Notes (${aiOpenCount} open)
+        </button>
+        <button type="button" class="tdb-action-btn" id="tdb-export-ai-notes" title="Export all reflections and AI notes to JSON">
+          ⬇ Export Notes JSON
+        </button>
+      </div>
+    ` : ""}
+    ${notes.length ? `<div class="tdb-searchwrap"><span class="tdb-search-ic" aria-hidden="true">⌕</span><input type="search" id="tdb-search" class="tdb-search" placeholder="Search your reflections and AI notes…" aria-label="Search reflections" value="${esc(tadabburSearchQ)}"></div>` : ""}
     <div id="tdb-filter"></div>
     <div id="tdb-results"></div>
     ${legacy.length ? `<div class="tdb-legacy"><div class="tdb-legacy-lab">Notes on individual ayahs</div><div class="bookmark-list">${legacyRows}</div></div>` : ""}`;
+
+  const copyBtn = document.getElementById("tdb-copy-ai-notes");
+  if (copyBtn) {
+    copyBtn.addEventListener("click", () => {
+      const md = formatAiNotesMarkdown(notes);
+      navigator.clipboard.writeText(md).then(() => {
+        tdbToast(`Copied ${aiNotes.length} AI notes to clipboard!`);
+      }).catch(() => {
+        tdbToast("Could not copy to clipboard");
+      });
+    });
+  }
+
+  const exportBtn = document.getElementById("tdb-export-ai-notes");
+  if (exportBtn) {
+    exportBtn.addEventListener("click", () => {
+      const blob = new Blob([JSON.stringify(notes, null, 2)], { type: "application/json" });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement("a");
+      a.href = url;
+      a.download = `quran-notes-${new Date().toISOString().slice(0, 10)}.json`;
+      a.click();
+      URL.revokeObjectURL(url);
+      tdbToast("Exported notes to file");
+    });
+  }
+
   function drawFilter() {
     const el = document.getElementById("tdb-filter");
-    if (!tags.length) { el.innerHTML = ""; return; }
-    el.innerHTML = `<div class="tdb-filter"><button type="button" class="tdb-fchip ${!tadabburFilterTag ? "active" : ""}" data-tag="">All</button>${tags.map((t) => `<button type="button" class="tdb-fchip ${tadabburFilterTag === t ? "active" : ""}" data-tag="${esc(t)}">${esc(t)}</button>`).join("")}</div>`;
+    if (!tags.length && !aiNotes.length) { el.innerHTML = ""; return; }
+    let h = `<div class="tdb-filter"><button type="button" class="tdb-fchip ${!tadabburFilterTag ? "active" : ""}" data-tag="">All</button>`;
+    if (aiNotes.length) {
+      h += `<button type="button" class="tdb-fchip ${tadabburFilterTag === "__ai__" ? "active" : ""}" data-tag="__ai__">🤖 For AI (${aiNotes.length})</button>`;
+    }
+    tags.forEach((t) => {
+      if (t === "ai") return; // Covered by __ai__ chip
+      h += `<button type="button" class="tdb-fchip ${tadabburFilterTag === t ? "active" : ""}" data-tag="${esc(t)}">${esc(t)}</button>`;
+    });
+    h += `</div>`;
+    el.innerHTML = h;
     el.querySelectorAll(".tdb-fchip").forEach((b) => b.addEventListener("click", () => { tadabburFilterTag = b.dataset.tag; drawFilter(); drawResults(); }));
   }
+
   function drawResults() {
     const q = tadabburSearchQ.trim().toLowerCase();
     const filtered = notes.filter((n) => {
-      const okT = !tadabburFilterTag || (n.tags || []).includes(tadabburFilterTag);
+      const isThisAi = n.forAi || n.target === "ai" || (n.tags || []).includes("ai");
+      if (tadabburFilterTag === "__ai__" && !isThisAi) return false;
+      if (tadabburFilterTag && tadabburFilterTag !== "__ai__" && !(n.tags || []).includes(tadabburFilterTag)) return false;
       const okQ = !q || (n.text || "").toLowerCase().includes(q) || (n.surahName || "").toLowerCase().includes(q) || (n.tags || []).join(" ").toLowerCase().includes(q);
-      return okT && okQ;
+      return okQ;
     }).sort((a, b) => (b.updated || b.created || 0) - (a.updated || a.created || 0));
+
     const el = document.getElementById("tdb-results");
-    if (!filtered.length) { el.innerHTML = `<p class="empty-note center">${notes.length ? "No reflections match." : "Open a sūrah and tap the ✎ circle to write your first reflection."}</p>`; return; }
-    el.innerHTML = `<div class="tdb-list">${filtered.map((n) => `<button type="button" class="tdb-note" data-id="${esc(n.id)}"><div class="tdb-note-head"><span class="tdb-note-ref">${esc(n.surahName || ("Surah " + n.surah))} · ${tadabburRangeLabel(n)}</span><span class="tdb-note-date">${esc(tdbRelTime(n.updated || n.created))}</span></div>${n.text ? `<div class="tdb-note-text">${esc(n.text.slice(0, 220))}${n.text.length > 220 ? "…" : ""}</div>` : ""}${(n.tags && n.tags.length) ? `<div class="tdb-note-tags">${n.tags.map((t) => `<span class="tdb-pill">${esc(t)}</span>`).join("")}</div>` : ""}</button>`).join("")}</div>`;
+    if (!filtered.length) { el.innerHTML = `<p class="empty-note center">${notes.length ? "No reflections match." : "Open a sūrah and tap the ✎ circle to write your first reflection or note for AI."}</p>`; return; }
+    el.innerHTML = `<div class="tdb-list">${filtered.map((n) => {
+      const isThisAi = n.forAi || n.target === "ai" || (n.tags || []).includes("ai");
+      const status = n.status || (isThisAi ? "open" : "");
+      return `<button type="button" class="tdb-note ${isThisAi ? "is-ai" : ""}" data-id="${esc(n.id)}">
+        ${isThisAi ? `<div class="tdb-note-badge-row"><span class="tdb-badge-ai">🤖 For AI</span>${status ? `<span class="tdb-badge-status ${status}">${esc(status)}</span>` : ""}</div>` : ""}
+        <div class="tdb-note-head"><span class="tdb-note-ref">${esc(n.surahName || ("Surah " + n.surah))} · ${tadabburRangeLabel(n)}</span><span class="tdb-note-date">${esc(tdbRelTime(n.updated || n.created))}</span></div>
+        ${n.text ? `<div class="tdb-note-text">${esc(n.text.slice(0, 220))}${n.text.length > 220 ? "…" : ""}</div>` : ""}
+        ${(n.tags && n.tags.length) ? `<div class="tdb-note-tags">${n.tags.map((t) => `<span class="tdb-pill">${esc(t)}</span>`).join("")}</div>` : ""}
+      </button>`;
+    }).join("")}</div>`;
     el.querySelectorAll(".tdb-note").forEach((b) => b.addEventListener("click", () => openTadabburEditor({ noteId: b.dataset.id })));
   }
+
   const search = document.getElementById("tdb-search");
   if (search) search.addEventListener("input", () => { tadabburSearchQ = search.value; drawResults(); });
   drawFilter();
   drawResults();
 }
+
+window.getQuranAiNotes = () => getTadabburNotes().filter((n) => n.forAi || n.target === "ai" || (n.tags || []).includes("ai"));
+window.copyQuranAiNotes = () => {
+  const md = formatAiNotesMarkdown(getTadabburNotes());
+  return navigator.clipboard.writeText(md).then(() => md);
+};
 
 function renderEdits() {
   setBreadcrumb(`<a href="#/">Home</a> › Edits`);

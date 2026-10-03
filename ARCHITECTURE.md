@@ -418,16 +418,57 @@ generating anything.
 
 ---
 
+## 11. Audio Engine, Hovering AI Notes & Multi-AI Skills
+
+### Audio Recitation & Narration Engine (`docs/audio-player.js`)
+- **Arabic Recitation:** Strictly **Mishary Rashid Alafasy**:
+  * Primary EveryAyah: `https://everyayah.com/data/Alafasy_128kbps/{SSS}{AAA}.mp3`
+  * Fallback Verses: `https://verses.quran.com/Alafasy/mp3/{SSS}{AAA}.mp3`
+- **English Studio Narration:** Strictly authentic human recording by **Ibrahim Walk** (Saheeh International, 192kbps stereo MP3):
+  * Primary EveryAyah: `https://everyayah.com/data/English/Sahih_Intnl_Ibrahim_Walk_192kbps/{SSS}{AAA}.mp3`
+  * Fallback Islamic Network: `https://cdn.islamic.network/quran/audio/192/en.walk/{globalAyahNum}.mp3`
+  * Zero mechanical TTS — browser speech synthesis is never used for recitation.
+- **Display Synchronization:**
+  * **Book View (Paragraph Mode):** Recites all Arabic ayahs in the active chunk $\to$ recites Ibrahim Walk English narration for each ayah in that chunk $\to$ advances to next chunk.
+  * **Verse View (Sentence Mode):** Recites Arabic ayah $\to$ recites Ibrahim Walk English narration $\to$ advances.
+- **Service Worker Invariant:** Streaming audio hosts (`everyayah.com`, `verses.quran.com`, `audio.qurancdn.com`, `cdn.islamic.network`) are hardcoded in `NETWORK_ONLY_HOSTS` in `docs/sw.js` and never cached into IndexedDB or SW cache.
+
+### Hovering Note System & AI Requests (`docs/reader.js`, `docs/reader.css`)
+- **Floating Pen FAB (`#tadabbur-fab` ✎):** Draggable button present on all reading views.
+- **Dual Mode:**
+  * `✎ Personal Reflection`: Learner's personal tadabbur reflections.
+  * `🤖 Addressed to AI`: Flagged for AI review (`forAi: true`, `target: "ai"`, `status: "open"`).
+  * Quick Category Tags: `[📝 Translation]`, `[🔤 Transliteration]`, `[📖 Tafsir]`, `[🐞 Site / Bug]`.
+- **Tadabbur Management (`#/tadabbur`):**
+  * Displays distinct `🤖 For AI` badge and status badge on cards.
+  * Filter chip `[🤖 For AI (N)]` to view only notes addressed to AI.
+  * `📋 Copy AI Notes` button generates a ready-to-paste markdown prompt with all pending AI notes for external AI tutors.
+  * Export notes button downloads full JSON bundle.
+  * Synced across devices via Firebase / Firestore and GitHub sync.
+
+### Automated Health Audit & `check-quran-site` Skill
+- Automated telemetry script: `node scripts/check-site.js` (and `python scripts/check_quran_site.py`).
+- Verifies JS syntax, `__BUILD_ID__` invariant (exactly 2 in `index.html`), SW audio host bypasses, EveryAyah and Islamic Network CDN HTTP status, AI translation completeness (6,236 / 6,236), and scans pending AI notes.
+- Skill files maintained for all AI platforms:
+  * Google Antigravity: `C:\Users\Reza Karim\.gemini\config\skills\check-quran-site\SKILL.md`
+  * Agents Standard: `.agents/skills/check-quran-site/SKILL.md`
+  * Claude Code: `.claude/skills/check-quran-site/SKILL.md`
+
+---
+
 ## Where the other docs fit
 
 | Doc | What it is | Trust |
 |---|---|---|
 | **ARCHITECTURE.md** (this file) | How the system works | Current |
-| `PROJECT_STATUS.md` | Standing roadmap + task board, with detailed diagnosis notes on past bugs | Current for history; §8 here is the live state |
+| `AGENTS.md` | Durable guidelines, non-negotiables & multi-AI operating rules | Current |
+| `CLAUDE.md` | Claude Code quickstart and invariants | Current |
+| `PROJECT_STATUS.md` | Standing roadmap + task board, with detailed diagnosis notes on past bugs | Current |
 | `HANDOVER.md` | "What to do next" for the following session only | Rewritten each handover |
 | `TAFSIR_PLAN.md` | Why passage tafsir is designed as it is | Current design rationale |
+| `.agents/skills/check-quran-site/SKILL.md` | Site health, audio integrity & AI notes assessment skill | Canonical |
+| `.claude/skills/check-quran-site/SKILL.md` | Claude Code skill for site health & notes | Canonical |
 | `.claude/skills/resume-ai-tafsir/SKILL.md` | The tafsir operating loop | Canonical, git-backed |
 | `scripts/WBW_RUNBOOK.md` | The word-by-word loop | Canonical |
-| `README.md` | Short public-facing overview | Current, deliberately shallow |
+| `README.md` | Public-facing overview | Current |
 | `docs/SYNC_SETUP.md` | Firebase sync setup | As written |
-| `scripts/LAYERED_TAFSIR_RUNBOOK.md` | **Legacy — discarded design** | Do not follow |

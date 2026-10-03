@@ -5,16 +5,16 @@ system works, its invariants and its traps. [PROJECT_STATUS.md](PROJECT_STATUS.m
 is the standing roadmap and task history. This file carries only the "what to do
 next" for the immediately following session.
 
-Timestamp: 2026-08-27 · supersedes the 2026-08-02 handover (whose open task —
-generating passage tafsir surah by surah — is now complete for all 114 surahs).
+Timestamp: 2026-10-03 · supersedes earlier handovers.
 
 ## State as of this handover
 
-- **Passage tafsir: COMPLETE, 114/114**, all validate clean. The priority list is
-  exhausted; there is no next surah to generate.
-- **AI word-by-word: COMPLETE, 114/114**, all pass `validate_wbw.py`.
-- Whole corpus re-validated clean at commit `da781099`.
-- Working tree clean, `main` in sync with `origin/main`.
+- **Full Audio Recitation & Studio Narration:** Complete recitation by **Mishary Rashid Alafasy** (Arabic) and authentic human studio narration by **Ibrahim Walk** (English, 192kbps MP3). Synchronized across Book view (paragraph chunks) and Verse view (sentence by sentence). Zero robotic TTS.
+- **Hovering Note System & AI Requests:** The draggable hovering note button (`✎`) supports dual modes: "Personal Reflection" vs "Addressed to AI" (`forAi: true`, `target: "ai"`). In `#/tadabbur`, AI notes are filterable via `[🤖 For AI]`, and a 1-click **"📋 Copy AI Notes"** button generates a complete markdown prompt for AI models.
+- **Skill & Telemetry (`check-quran-site`):** Dedicated cross-AI skill implemented in `.agents/skills/check-quran-site/`, `.claude/skills/check-quran-site/`, and global Antigravity config. Backed by `node scripts/check-site.js` and `python scripts/check_quran_site.py` (17/17 automated health checks passing).
+- **All documentation updated:** `AGENTS.md` (root guidelines for all AI agents), `CLAUDE.md`, `ARCHITECTURE.md`, `README.md`, `HANDOVER.md`.
+- **Passage tafsir:** COMPLETE, 114/114.
+- **AI word-by-word:** COMPLETE, 114/114.
 
 ## Everything is landed and live
 

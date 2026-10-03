@@ -10,6 +10,14 @@ system works, its data flow, pipelines, and the invariants that must not be brok
 ## Features
 
 - **Continuous scroll** — read an entire surah by scrolling, like quran.com
+- **Authentic Studio Recitation & Narration:**
+  - Arabic: Complete recitation by **Mishary Rashid Alafasy**.
+  - English: 100% human studio narration by **Ibrahim Walk** (Saheeh International, 192kbps). Zero robotic TTS.
+  - Display Synchronized: Plays paragraph chunks in Book View, verse by verse in Verse View.
+  - Word audio: Single tap human audio clips for every word.
+- **Hovering Note System & AI Requests:**
+  - Floating pen button (`✎`) on every page for personal reflection or notes addressed to AI.
+  - Filter and review AI notes in `#/tadabbur` or copy as prompt for AI tutors.
 - **Word hover** — hover any Arabic word for transliteration and meaning
 - **Translation toggle** — show/hide English below each ayah
 - **Continue reading** — your last ayah is remembered automatically
@@ -17,23 +25,24 @@ system works, its data flow, pipelines, and the invariants that must not be brok
 - **Study drawer** — reflection, revelation context, and tafsir per ayah
 - **Edit meanings** — click a word → Edit → saves back to your markdown files
 - **Light theme** — warm, calm reading experience
-- **Local sync** — edits on the website update `Quran-obs/*.md` automatically
+- **Local & Cloud sync** — Google sign-in and Firestore cross-device synchronization
 
 ## Run locally with sync
 
 ```bash
+node scripts/check-site.js    # Comprehensive site health, audio CDNs & AI notes audit
 python scripts/build_site.py
 python scripts/serve.py
 ```
 
 Open [http://127.0.0.1:8080](http://127.0.0.1:8080). The badge shows **Sync on** when edits save to markdown.
 
-On GitHub Pages the site is read-only; run `serve.py` locally to sync edits.
-
 ## Scripts
 
 | Script | Purpose |
 |--------|---------|
+| `scripts/check-site.js` | Full health, audio CDNs, translation coverage & user AI notes audit |
+| `scripts/check_quran_site.py` | Python diagnostic tool for CI and AI agents |
 | `scripts/build_site.py` | Build JSON data from markdown into `docs/data/` |
 | `scripts/serve.py` | Local server with markdown sync API |
 | `scripts/cleanup_context.py` | Remove generic context; keep ayah-specific only |
@@ -42,9 +51,11 @@ On GitHub Pages the site is read-only; run `serve.py` locally to sync edits.
 ## Project structure
 
 ```
-Quran-obs/     Source ayah notes (Obsidian vault)
-docs/          GitHub Pages website
-scripts/       Build, serve, and enrichment tools
+Quran-obs/     Source ayah notes (Obsidian vault, source of truth)
+docs/          GitHub Pages website & vanilla JS frontend
+scripts/       Build, serve, audit, and enrichment tools
+.claude/       Claude Code skills (check-quran-site, resume-ai-tafsir)
+.agents/       Agents standard skills (check-quran-site)
 ```
 
 ## Data sources
