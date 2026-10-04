@@ -24,6 +24,7 @@ const QuranAudio = (() => {
   const STORAGE_REPEAT_START = "quran-audio-repeat-start";
   const STORAGE_REPEAT_END = "quran-audio-repeat-end";
   const STORAGE_REPEAT_LIMIT = "quran-audio-repeat-limit";
+const STORAGE_FOLLOW = "quran-audio-follow";
 
   // Audio CDNs
   const ARABIC_PRIMARY_BASE = "https://everyayah.com/data/Alafasy_128kbps/";
@@ -95,6 +96,7 @@ const QuranAudio = (() => {
   let repeatCurrentIteration = 1;
   let continuous = repeatMode === "cont";
   let includeEnglish = localStorage.getItem(STORAGE_ENG) !== "false";
+  let followAlong = localStorage.getItem(STORAGE_FOLLOW) !== "false"; // snap display to the line being played
   let playbackFormat = localStorage.getItem(STORAGE_FORMAT) || "auto"; // "auto" | "paragraph" | "sentence"
   let playbackRate = parseFloat(localStorage.getItem(STORAGE_RATE)) || 1.0;
   let seeking = false;
@@ -664,10 +666,7 @@ const QuranAudio = (() => {
           const tafsirSec = chunkEl.querySelector(".book-tafsir-section, .ax-passage, .ax-tafsir-body");
           if (tafsirSec) {
             tafsirSec.classList.add("translation-speaking");
-            const rect = tafsirSec.getBoundingClientRect();
-            if (rect.top < 80 || rect.bottom > (window.innerHeight - 90)) {
-              tafsirSec.scrollIntoView({ behavior: "smooth", block: "center" });
-            }
+            snapElementIntoView(tafsirSec);
             return;
           }
         }
@@ -678,10 +677,7 @@ const QuranAudio = (() => {
         const seg = chunkEl.querySelector(`.book-trans-seg[data-ayah="${ayahNum}"]`);
         if (seg) {
           seg.classList.add("segment-speaking");
-          const rect = seg.getBoundingClientRect();
-          if (rect.top < 80 || rect.bottom > (window.innerHeight - 90)) {
-            seg.scrollIntoView({ behavior: "smooth", block: "center" });
-          }
+          snapElementIntoView(seg);
         }
       }
     } else {
@@ -692,32 +688,76 @@ const QuranAudio = (() => {
           const tafsirSec = block.querySelector(".ax-passage, .ayah-tafsir-body, .tafsir-summary-body");
           if (tafsirSec) {
             tafsirSec.classList.add("translation-speaking");
-            const rect = tafsirSec.getBoundingClientRect();
-            if (rect.top < 80 || rect.bottom > (window.innerHeight - 90)) {
-              tafsirSec.scrollIntoView({ behavior: "smooth", block: "center" });
-            }
+            snapElementIntoView(tafsirSec);
             return;
           }
         }
         const trans = block.querySelector(".translation-block, .wbw-fulltrans");
         if (trans) {
           trans.classList.add("translation-speaking");
-          const rect = trans.getBoundingClientRect();
-          if (rect.top < 80 || rect.bottom > (window.innerHeight - 90)) {
-            trans.scrollIntoView({ behavior: "smooth", block: "center" });
-          }
+          snapElementIntoView(trans);
         }
       }
     }
   }
 
+  // ---- Follow-along ("snap to line") ------------------------------------
+  // When enabled, the element currently being recited/narrated is kept in a
+  // readable band: just below the sticky header and above the player bar.
+  // Scrolls are only issued when the element has left that band, so the page
+  // never jitters while a line is playing.
+  function getReadableBand() {
+    const header = document.querySelector(".site-header, header");
+    const player = document.getElementById("quran-audio-player");
+    const top = (header && header.offsetHeight ? header.offsetHeight : 62) + 12;
+    const playerH = player && !player.hidden ? player.offsetHeight : 0;
+    const bottom = window.innerHeight - playerH - 12;
+    return { top, bottom };
+  }
+
+  function snapElementIntoView(el, { force = false } = {}) {
+    if (!el) return;
+    const rect = el.getBoundingClientRect();
+    if (!followAlong) {
+      // Legacy behaviour: only pull the element back if it has gone offscreen.
+      if (rect.top < 80 || rect.bottom > (window.innerHeight - 90)) {
+        el.scrollIntoView({ behavior: "smooth", block: "center" });
+      }
+      return;
+    }
+    const { top, bottom } = getReadableBand();
+    const fits = rect.height <= (bottom - top);
+    const inBand = rect.top >= top && rect.bottom <= bottom;
+    if (inBand && !force) return;
+    // Anchor the element roughly a third of the way down the readable band
+    // (so the eye lands on it naturally and the next line has room below).
+    const targetTop = fits ? top + (bottom - top - rect.height) / 3 : top;
+    const delta = rect.top - targetTop;
+    if (Math.abs(delta) < 4) return;
+    window.scrollBy({ top: delta, behavior: "smooth" });
+  }
+
   function scrollToAyah(surahId, ayahNum) {
     const el = document.getElementById(`ayah-${surahId}-${ayahNum}`);
     if (!el) return;
-    const rect = el.getBoundingClientRect();
-    const isVisible = rect.top >= 80 && rect.bottom <= (window.innerHeight - 90);
-    if (!isVisible) {
-      el.scrollIntoView({ behavior: "smooth", block: "center" });
+    if (!followAlong) {
+      const rect = el.getBoundingClientRect();
+      const isVisible = rect.top >= 80 && rect.bottom <= (window.innerHeight - 90);
+      if (!isVisible) el.scrollIntoView({ behavior: "smooth", block: "center" });
+      return;
+    }
+    snapElementIntoView(el);
+  }
+
+  function toggleFollowAlong() {
+    followAlong = !followAlong;
+    try {
+      localStorage.setItem(STORAGE_FOLLOW, String(followAlong));
+    } catch (_) {}
+    updatePlayerBar();
+    if (followAlong && currentSurahId && currentAyahNum) {
+      if (playPhase === "english") highlightEnglishSegment(currentAyahNum);
+      else scrollToAyah(currentSurahId, currentAyahNum);
     }
   }
 
@@ -736,9 +776,7 @@ const QuranAudio = (() => {
 
     if (playPhase === "english") {
       if (activeSpeechType === "ai_translation") {
-        artist = (!speechActive && englishAudio.src && !aiAudioFallbackTriggered)
-          ? "English AI Translation (Studio Neural)"
-          : "English AI Translation (Natural Voice)";
+        artist = "English AI Translation (Studio Neural)";
       } else if (activeSpeechType === "tafsir") {
         artist = "AI Tafsir (Natural Voice)";
       } else if (activeSpeechType === "custom") {
@@ -1357,7 +1395,10 @@ const QuranAudio = (() => {
     if (!bar) return;
 
     if (!currentSurahId || !currentAyahNum) {
-      if (!chooserOpen) bar.hidden = true;
+      if (!chooserOpen) {
+        bar.hidden = true;
+        document.body.classList.remove("qap-open");
+      }
       const headerAudioBtn = document.getElementById("header-audio-btn");
       if (headerAudioBtn) {
         headerAudioBtn.classList.toggle("active", !!chooserOpen);
@@ -1404,9 +1445,7 @@ const QuranAudio = (() => {
     if (reciterEl) {
       if (playPhase === "english") {
         if (activeSpeechType === "ai_translation") {
-          reciterEl.textContent = (!speechActive && englishAudio.src && !aiAudioFallbackTriggered)
-            ? "English AI Translation (Studio Neural)"
-            : "English AI Translation (Natural Voice)";
+          reciterEl.textContent = "English AI Translation (Studio Neural)";
           reciterEl.classList.add("speaking-english");
         } else if (activeSpeechType === "tafsir") {
           reciterEl.textContent = "AI Tafsir (Natural Voice)";
@@ -1518,6 +1557,20 @@ const QuranAudio = (() => {
       speedBtn.textContent = `${playbackRate}x`;
     }
 
+    const followBtn = document.getElementById("qap-follow");
+    if (followBtn) {
+      followBtn.classList.toggle("active", followAlong);
+      followBtn.textContent = followAlong ? "🎯 Follow" : "🎯 Free";
+      followBtn.title = followAlong
+        ? "Follow-along ON: the page snaps to the line being played. Click to scroll freely."
+        : "Follow-along OFF: scroll freely. Click to snap the page to the line being played.";
+    }
+
+    bar.classList.toggle("is-english", playPhase === "english");
+    document.body.classList.add("qap-open");
+    const barH = bar.offsetHeight;
+    if (barH) document.documentElement.style.setProperty("--qap-h", `${barH}px`);
+
     const toolbarBtn = document.getElementById("toolbar-play-surah");
     if (toolbarBtn) {
       toolbarBtn.textContent = isPlaying ? "⏸ Pause Sūrah" : "▶ Play Sūrah";
@@ -1556,11 +1609,15 @@ const QuranAudio = (() => {
     arabicAudio.src = url;
     arabicAudio.playbackRate = playbackRate;
 
-    // Preload English audio for this ayah if studio audio will be used
+    // Prefetch the English audio for this ayah during recitation so the
+    // English phase starts without a network gap (studio or neural AI MP3)
     if (includeEnglish) {
       const content = getDisplayedEnglishContent(currentSurahId, currentAyahNum);
       if (content.useStudio) {
         englishAudio.src = getEnglishAudioUrl(currentSurahId, currentAyahNum, false);
+        englishAudio.load();
+      } else if (content.type === "ai_translation") {
+        englishAudio.src = getAiTranslationAudioUrl(currentSurahId, currentAyahNum);
         englishAudio.load();
       }
     }
@@ -1591,16 +1648,29 @@ const QuranAudio = (() => {
       });
   }
 
+  // If the pre-generated neural AI-translation MP3 is unavailable, fall back to the
+  // Ibrahim Walk studio recording (always available, works on mobile) rather than
+  // browser speech synthesis, which is robotic and is blocked on iOS/Android when
+  // not triggered directly by a user gesture.
   function fallbackToAiSpeech() {
     if (aiAudioFallbackTriggered) return;
     aiAudioFallbackTriggered = true;
     try {
       englishAudio.pause();
     } catch (_) {}
-    const content = getDisplayedEnglishContent(currentSurahId, currentAyahNum);
+    activeSpeechType = "studio";
+    usingEnglishFallback = false;
     updatePlayerBar();
     updateMediaSession();
-    speakNaturalText(content.text, handleEnglishEnded);
+    englishAudio.src = getEnglishAudioUrl(currentSurahId, currentAyahNum, false);
+    englishAudio.playbackRate = playbackRate;
+    englishAudio.play().catch((err) => {
+      console.warn("Studio English fallback failed, trying secondary CDN", err);
+      usingEnglishFallback = true;
+      englishAudio.src = getEnglishAudioUrl(currentSurahId, currentAyahNum, true);
+      englishAudio.playbackRate = playbackRate;
+      englishAudio.play().catch(() => handleEnglishEnded());
+    });
   }
 
   function playEnglishAyah(surahId, ayahNum, { autoScroll = true } = {}) {
@@ -2333,19 +2403,36 @@ const QuranAudio = (() => {
   }
 
   function bindAudioEvents() {
+    // Throttled, change-only progress painting. `timeupdate` can fire up to
+    // 60x/s on mobile; repainting the gradient + value on every tick made the
+    // bar flicker during English playback. We coalesce to one paint per frame
+    // and skip when nothing visible has changed.
+    let progressRaf = 0;
+    let lastPct = -1;
+    let lastCur = "";
+    let lastDur = "";
     const onTimeUpdate = (activeAudio) => {
-      if (seeking) return;
-      const progress = document.getElementById("qap-progress");
-      const curTime = document.getElementById("qap-current-time");
-      const durTime = document.getElementById("qap-duration");
-      if (progress && activeAudio.duration) {
-        const pct = (activeAudio.currentTime / activeAudio.duration) * 100;
-        progress.value = pct;
-        progress.style.setProperty("--seek-pct", `${pct}%`);
-      }
-      if (curTime) curTime.textContent = formatTime(activeAudio.currentTime);
-      if (durTime && activeAudio.duration) durTime.textContent = formatTime(activeAudio.duration);
-      updateMediaSessionPosition();
+      if (seeking || progressRaf) return;
+      progressRaf = requestAnimationFrame(() => {
+        progressRaf = 0;
+        if (seeking) return;
+        const dur = activeAudio.duration;
+        if (!dur || !isFinite(dur)) return; // metadata not ready: leave bar as-is (no 0% jump)
+        const progress = document.getElementById("qap-progress");
+        const curTime = document.getElementById("qap-current-time");
+        const durTime = document.getElementById("qap-duration");
+        const pct = Math.round((activeAudio.currentTime / dur) * 1000) / 10;
+        if (progress && pct !== lastPct) {
+          lastPct = pct;
+          progress.value = pct;
+          progress.style.setProperty("--seek-pct", `${pct}%`);
+        }
+        const curTxt = formatTime(activeAudio.currentTime);
+        if (curTime && curTxt !== lastCur) { lastCur = curTxt; curTime.textContent = curTxt; }
+        const durTxt = formatTime(dur);
+        if (durTime && durTxt !== lastDur) { lastDur = durTxt; durTime.textContent = durTxt; }
+        updateMediaSessionPosition();
+      });
     };
 
     arabicAudio.addEventListener("timeupdate", () => {
@@ -2458,6 +2545,7 @@ const QuranAudio = (() => {
     document.getElementById("qap-english")?.addEventListener("click", toggleEnglish);
     document.getElementById("qap-format")?.addEventListener("click", cycleFormat);
     document.getElementById("qap-speed")?.addEventListener("click", cycleSpeed);
+    document.getElementById("qap-follow")?.addEventListener("click", toggleFollowAlong);
     document.getElementById("qap-close")?.addEventListener("click", closePlayer);
     document.getElementById("qap-note")?.addEventListener("click", openQuickNote);
     document.getElementById("qap-track-btn")?.addEventListener("click", (e) => {

@@ -3819,6 +3819,11 @@ html[data-theme="night"] .tdb-action-badge { color: #ffd679; }
 .quran-audio-player[hidden] {
   display: none;
 }
+/* Reserve room beneath the content so the line being played can be snapped
+   into view above the fixed player instead of hiding under it. */
+body.qap-open .app {
+  padding-bottom: calc(var(--qap-h, 140px) + 2rem);
+}
 .qap-inner {
   max-width: var(--page-max-width);
   width: 100%;
@@ -4556,61 +4561,103 @@ html[data-theme="night"] .qap-pill.repeat-range {
 
 /* Mobile & Touch Layout Optimization */
 @media (max-width: 768px) {
+  /* Compact mobile player: a thin scrubber row + one control row. Secondary
+     pills live in a horizontally-scrollable strip so the bar never wraps to
+     multiple lines and never eats half the screen. */
   .quran-audio-player {
-    padding: 0.5rem 0.75rem calc(0.55rem + env(safe-area-inset-bottom, 0px));
+    padding: 0.3rem 0.6rem calc(0.35rem + env(safe-area-inset-bottom, 0px));
+    backdrop-filter: none;
+    -webkit-backdrop-filter: none;
   }
   .qap-inner {
     flex-direction: column;
     align-items: stretch;
-    gap: 0.35rem;
+    gap: 0.2rem;
   }
   .qap-scrub {
     width: 100%;
     max-width: 100%;
-    gap: 0.45rem;
+    gap: 0.4rem;
+  }
+  .qap-time {
+    font-size: 0.68rem;
+  }
+  .qap-progress {
+    height: 5px;
+    transition: none;
+  }
+  .qap-progress:hover {
+    height: 5px;
   }
   .qap-main-row {
     width: 100%;
     display: flex;
+    flex-wrap: wrap;
     align-items: center;
-    justify-content: space-between;
-    gap: 0.4rem;
+    justify-content: flex-start;
+    gap: 0.2rem 0.35rem;
+    position: relative;
   }
   .qap-meta {
     min-width: 0;
-    max-width: 130px;
-    flex: 1;
+    flex: 1 1 auto;
+    order: 1;
   }
   .qap-reciter {
-    font-size: 0.65rem;
+    font-size: 0.6rem;
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
   }
+  .qap-track-btn {
+    max-width: 100%;
+  }
   .qap-track {
-    font-size: 0.85rem;
+    font-size: 0.8rem;
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
   }
   .qap-controls {
-    gap: 0.25rem;
+    gap: 0.1rem;
+    order: 2;
+    flex: 0 0 auto;
   }
   .qap-btn {
-    padding: 0.35rem;
-    font-size: 0.95rem;
+    padding: 0.3rem;
+    font-size: 0.9rem;
   }
   .qap-play-btn {
-    width: 2.2rem;
-    height: 2.2rem;
-    font-size: 0.95rem;
+    width: 2.1rem;
+    height: 2.1rem;
+    font-size: 0.9rem;
   }
   .qap-actions {
+    order: 3;
+    flex: 1 1 100%;
+    display: flex;
+    flex-wrap: nowrap;
     gap: 0.25rem;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+    padding-bottom: 1px;
+  }
+  .qap-actions::-webkit-scrollbar {
+    display: none;
   }
   .qap-pill {
-    padding: 0.22rem 0.45rem;
-    font-size: 0.68rem;
+    flex: 0 0 auto;
+    padding: 0.18rem 0.45rem;
+    font-size: 0.66rem;
+    white-space: nowrap;
+  }
+  .qap-close {
+    position: absolute;
+    top: -0.1rem;
+    right: 0.35rem;
+    padding: 0.2rem 0.4rem;
+    font-size: 0.95rem;
   }
   .qap-chooser-drawer {
     position: fixed;
