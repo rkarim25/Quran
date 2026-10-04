@@ -753,7 +753,7 @@ function translationBlockHtml(ayah, { inline = false } = {}) {
     if (ot && ot !== transText) origNote = `<p class="translation-orig"><span class="orig-label">Original</span> ${esc(ot)}</p>`;
   }
   const sId = currentSurah?.id || 1;
-  const hasAsbab = !!(ayah.has_context || (cache.asbabNuzul && cache.asbabNuzul[`${sId}:${ayah.ayah}`]?.has_occasion));
+  const hasAsbab = !!(cache.asbabNuzul && cache.asbabNuzul[`${sId}:${ayah.ayah}`]?.has_occasion && cache.asbabNuzul[`${sId}:${ayah.ayah}`]?.occasion);
   const bulbBtn = (!inline && hasAsbab)
     ? `<button type="button" class="asbab-bulb-btn" data-action="toggle-asbab" data-s="${sId}" data-a="${ayah.ayah}" title="Occasion of Revelation (Asbāb al-Nuzūl) — Click to view historical context" aria-label="Occasion of Revelation">💡 Background</button>`
     : "";
@@ -816,7 +816,7 @@ function wbwAyahBlock(data, ayah, surahId) {
         </span>`).join("")
     : `<p class="arabic-text">${esc(cleanArabic(a.arabic))}</p>`;
   const { text: transText } = displayTranslation(a);
-  const hasAsbab = !!(a.has_context || (cache.asbabNuzul && cache.asbabNuzul[`${surahId}:${ayah.ayah}`]?.has_occasion));
+  const hasAsbab = !!(cache.asbabNuzul && cache.asbabNuzul[`${surahId}:${ayah.ayah}`]?.has_occasion && cache.asbabNuzul[`${surahId}:${ayah.ayah}`]?.occasion);
   const bulbBtn = hasAsbab
     ? `<button type="button" class="asbab-bulb-btn wbw-asbab-bulb" data-action="toggle-asbab" data-s="${surahId}" data-a="${ayah.ayah}" title="Occasion of Revelation (Asbāb al-Nuzūl) — Click to view historical context" aria-label="Occasion of Revelation">💡 Background</button>`
     : "";
@@ -884,7 +884,7 @@ function bookSectionsFor(ayahs, surahId, c) {
       const m = mergeLocalEdits(a, surahId);
       const t = m.translation || m.qf_translation || "";
       if (!t) return "";
-      const hasAsbab = !!(m.has_context || (cache.asbabNuzul && cache.asbabNuzul[`${surahId}:${a.ayah}`]?.has_occasion));
+      const hasAsbab = !!(cache.asbabNuzul && cache.asbabNuzul[`${surahId}:${a.ayah}`]?.has_occasion && cache.asbabNuzul[`${surahId}:${a.ayah}`]?.occasion);
       const bulb = hasAsbab
         ? `<button type="button" class="asbab-bulb-btn book-asbab-bulb" data-action="toggle-asbab" data-s="${surahId}" data-a="${a.ayah}" title="Occasion of Revelation (Asbāb al-Nuzūl) — Click to view historical context" aria-label="Occasion of Revelation">💡</button>`
         : "";
@@ -897,7 +897,7 @@ function bookSectionsFor(ayahs, surahId, c) {
       const m = mergeLocalEdits(a, surahId);
       const t = m.ai_translation || "";
       if (!t) return "";
-      const hasAsbab = !!(m.has_context || (cache.asbabNuzul && cache.asbabNuzul[`${surahId}:${a.ayah}`]?.has_occasion));
+      const hasAsbab = !!(cache.asbabNuzul && cache.asbabNuzul[`${surahId}:${a.ayah}`]?.has_occasion && cache.asbabNuzul[`${surahId}:${a.ayah}`]?.occasion);
       const bulb = hasAsbab
         ? `<button type="button" class="asbab-bulb-btn book-asbab-bulb" data-action="toggle-asbab" data-s="${surahId}" data-a="${a.ayah}" title="Occasion of Revelation (Asbāb al-Nuzūl) — Click to view historical context" aria-label="Occasion of Revelation">💡</button>`
         : "";
@@ -1465,8 +1465,7 @@ async function toggleAsbabCard(surahId, ayahNum, triggerBtn) {
 
   const key = `${surahId}:${ayahNum}`;
   const entry = cache.asbabNuzul ? cache.asbabNuzul[key] : null;
-  const ayahObj = (currentSurah && currentSurah.id === surahId ? currentSurah : cache.surahs[surahId])?.ayahs?.find((a) => a.ayah === ayahNum);
-  const rawText = entry?.occasion || ayahObj?.context || "";
+  const rawText = entry?.occasion || "";
   const source = entry?.source || "Ibn Kathir, Tafsir al-Qur'an al-Adhim";
 
   if (!rawText) return;
@@ -3809,8 +3808,7 @@ document.addEventListener("click", async (e) => {
     if (cache.asbabNuzul === null) await loadAsbabNuzul();
     const key = `${s}:${a}`;
     const entry = cache.asbabNuzul ? cache.asbabNuzul[key] : null;
-    const ayahObj = (currentSurah && currentSurah.id === s ? currentSurah : cache.surahs[s])?.ayahs?.find((x) => x.ayah === a);
-    const fullText = entry?.occasion || ayahObj?.context || "";
+    const fullText = entry?.occasion || "";
     const textEl = document.getElementById(`asbab-text-${s}-${a}`);
     if (textEl && fullText) {
       textEl.textContent = fullText;
