@@ -1,4 +1,39 @@
 {
+  "2:199": {
+    "occasion": "Quraysh and their allies stayed at Muzdalifah while other pilgrims stood at Arafat, claiming special status as custodians of the sanctuary. Aishah explains that this command required them to stand at Arafat with everyone else, ending that distinction.",
+    "source": "Ibn Kathir on 2:199; Al-Bukhari, report of Aishah",
+    "has_occasion": true
+  },
+  "2:220": {
+    "occasion": "Fearing the warnings against consuming orphan property, guardians separated the orphans' meals from their own; leftovers sometimes spoiled. Ibn Abbas reports that this verse permitted sharing food and drink, replacing burdensome separation with responsibility for the orphans' welfare.",
+    "source": "Ibn Kathir on 2:220; Ibn Jarir, Abu Dawud and An-Nasa'i, report of Ibn 'Abbas",
+    "has_occasion": true
+  },
+  "5:101": {
+    "occasion": "Ibn Kathir cites repeated questions about whether Hajj was required every year. The Prophet ﷺ answered that saying yes would have made it obligatory. This illustrates how pressing for additional rulings during revelation could impose burdens not originally required.",
+    "source": "Ibn Kathir on 5:101; Imam Ahmad, At-Tirmidhi and Ibn Majah, report of 'Ali",
+    "has_occasion": true
+  },
+  "2:143": {
+    "occasion": "After the prayer direction changed, Muslims worried about those who had died praying toward Jerusalem. ‘Allah would never waste your faith’ reassures them that those earlier prayers remained valid—not that the new direction invalidated past obedience.",
+    "source": "Ibn Kathir on 2:143; Al-Bukhari and Muslim",
+    "has_occasion": true
+  },
+  "2:187": {
+    "occasion": "Early in Ramadan fasting, falling asleep ended the night's permission to eat, even before a meal. Qays bin Sirmah slept while awaiting food and collapsed the next day. This verse lifted that restriction, allowing eating and drinking until dawn.",
+    "source": "Ibn Kathir on 2:187, report of Al-Bara' bin 'Azib",
+    "has_occasion": true
+  },
+  "4:19": {
+    "occasion": "A dead man's male relatives once claimed control over his widow: they could marry her, marry her to someone else, or prevent her remarriage. ‘Inherit women’ prohibits this control over a person, not merely taking her property.",
+    "source": "Ibn Kathir on 4:19; Al-Bukhari, report of Ibn 'Abbas",
+    "has_occasion": true
+  },
+  "62:11": {
+    "occasion": "A trading caravan arrived in Madinah during the Friday sermon. People left to meet it, leaving only twelve men with the Prophet ﷺ. ‘Standing’ describes him still delivering the sermon—not an ordinary gathering interrupted by shopping.",
+    "source": "Ibn Kathir on 62:11; Imam Ahmad and the Two Sahihs, report of Jabir",
+    "has_occasion": true
+  },
   "__setting_1": {
     "label": "Early Makkah · ~610 CE",
     "context": "Revealed in the earliest years of the Prophetic mission in Makkah (~610–612 CE), when the community of believers was small and largely from among the weak and marginalized. The Quraysh had begun to mock and ostracize the Muslims, but open persecution had not yet begun."
@@ -456,7 +491,7 @@
     "context": "Revealed during the middle Makkan period (~613–617 CE), as the message spread publicly and persecution intensified. Weaker companions were tortured, the economic boycott of Banu Hashim was imposed, and the Prophet's wife Khadijah and uncle Abu Talib passed away in the Year of Grief."
   },
   "2:158": {
-    "occasion": "The Ansar, who in the time of Jahiliyyah used to enter the state of Ihram for the idol Manat at Mushallal, felt hesitant about going (performing Sa'i) between As-Safa and Al-Marwah after Islam. They asked the Messenger of Allah about this, and the verse was revealed affirming that As-Safa and Al-Marwah are among the symbols of Allah.",
+    "occasion": "Some Ansar hesitated to walk between Safa and Marwah because of their former worship of Manat. Aishah explained that ‘no sin’ removes that hesitation; it does not mean the rite may be omitted.",
     "source": "As cited by Ibn Kathir, Tafsir al-Qur'an al-Adhim",
     "has_occasion": true
   },
