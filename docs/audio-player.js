@@ -868,6 +868,8 @@ const QuranAudio = (() => {
   }
 
   function openChooser(tab = null) {
+    const bar = document.getElementById("quran-audio-player");
+    if (bar) bar.hidden = false;
     const drawer = document.getElementById("qap-chooser-drawer");
     if (!drawer) return;
     chooserOpen = true;
@@ -881,11 +883,15 @@ const QuranAudio = (() => {
     if (!drawer) return;
     chooserOpen = false;
     drawer.hidden = true;
+    if (!currentSurahId && !isPlaying && (!arabicAudio.src || arabicAudio.paused)) {
+      const bar = document.getElementById("quran-audio-player");
+      if (bar) bar.hidden = true;
+    }
   }
 
-  function toggleChooser() {
+  function toggleChooser(tab = null) {
     if (chooserOpen) closeChooser();
-    else openChooser();
+    else openChooser(tab);
   }
 
   function switchChooserTab(tab) {
@@ -969,6 +975,45 @@ const QuranAudio = (() => {
 
     if (label) {
       label.textContent = `${verseChooserSurahId}. ${sName} (${total} verses)`;
+    }
+
+    // Quick action bar above verse pills
+    let quickBar = document.getElementById("qap-verse-quick-row");
+    if (!quickBar && grid && grid.parentElement) {
+      quickBar = document.createElement("div");
+      quickBar.id = "qap-verse-quick-row";
+      quickBar.className = "qap-verse-quick-row";
+      grid.parentElement.insertBefore(quickBar, grid);
+    }
+    const curVisAyah = (typeof window.visibleAyah !== "undefined" && window.visibleAyah) ? window.visibleAyah : (currentAyahNum || 1);
+    const isCurrentlyPlayingThis = isPlaying && currentSurahId === verseChooserSurahId;
+    if (quickBar) {
+      quickBar.innerHTML = `
+        ${isCurrentlyPlayingThis ? `<button type="button" class="qap-quick-play-btn qap-quick-pause" data-quick-action="pause">⏸ Pause</button>` : ""}
+        <button type="button" class="qap-quick-play-btn" data-quick-action="start">▶ Play from Start (Ayah 1)</button>
+        ${curVisAyah > 1 ? `<button type="button" class="qap-quick-play-btn" data-quick-action="current">▶ Play from Current View (Ayah ${curVisAyah})</button>` : ""}
+      `;
+      quickBar.querySelectorAll(".qap-quick-play-btn").forEach((btn) => {
+        btn.addEventListener("click", () => {
+          const act = btn.dataset.quickAction;
+          if (act === "pause") {
+            pause();
+            closeChooser();
+          } else if (act === "start") {
+            if (verseChooserSurahId !== currentSurahId && window.location.hash !== `#/${verseChooserSurahId}`) {
+              window.location.hash = `#/${verseChooserSurahId}`;
+            }
+            playAyah(verseChooserSurahId, 1);
+            closeChooser();
+          } else if (act === "current") {
+            if (verseChooserSurahId !== currentSurahId && window.location.hash !== `#/${verseChooserSurahId}`) {
+              window.location.hash = `#/${verseChooserSurahId}`;
+            }
+            playAyah(verseChooserSurahId, curVisAyah);
+            closeChooser();
+          }
+        });
+      });
     }
 
     if (grid) {
@@ -1441,7 +1486,7 @@ const QuranAudio = (() => {
 
     const toolbarBtn = document.getElementById("toolbar-play-surah");
     if (toolbarBtn) {
-      toolbarBtn.textContent = isPlaying ? "⏸ Pause" : "▶ Listen";
+      toolbarBtn.textContent = isPlaying ? "⏸ Pause Sūrah" : "▶ Play Sūrah";
       toolbarBtn.classList.toggle("playing", isPlaying);
     }
   }
@@ -2248,7 +2293,7 @@ const QuranAudio = (() => {
     updatePlayerBar();
     const toolbarBtn = document.getElementById("toolbar-play-surah");
     if (toolbarBtn) {
-      toolbarBtn.textContent = "▶ Listen";
+      toolbarBtn.textContent = "▶ Play Sūrah";
       toolbarBtn.classList.remove("playing");
     }
   }
@@ -2411,11 +2456,11 @@ const QuranAudio = (() => {
     });
 
     document.getElementById("header-audio-btn")?.addEventListener("click", () => {
-      const bar = document.getElementById("quran-audio-player");
-      if (bar && !bar.hidden && isPlaying) {
-        pause();
+      if (chooserOpen) {
+        closeChooser();
       } else {
-        resume();
+        const sId = currentSurahId || (window.currentSurah ? window.currentSurah.id : (window.location.hash.match(/^#\/(\d+)/) ? +window.location.hash.match(/^#\/(\d+)/)[1] : null));
+        openChooser(sId ? "verse" : "surah");
       }
     });
 
@@ -2450,8 +2495,17 @@ const QuranAudio = (() => {
       }
     });
 
-    // Delegate clicks on word audio buttons
+    // Delegate clicks on word audio buttons and start-listen from ayah buttons
     document.addEventListener("click", (e) => {
+      const playAyahBtn = e.target.closest("[data-play-from-ayah]");
+      if (playAyahBtn) {
+        e.stopPropagation();
+        const parts = playAyahBtn.dataset.playFromAyah.split("-");
+        if (parts.length >= 2) {
+          playAyah(+parts[0], +parts[1]);
+        }
+        return;
+      }
       const playWordBtn = e.target.closest("[data-play-word]");
       if (playWordBtn) {
         e.stopPropagation();

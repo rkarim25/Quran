@@ -4215,6 +4215,45 @@ html[data-theme="night"] .qap-note-btn {
   font-weight: 600;
   color: var(--ink);
 }
+.qap-verse-quick-row {
+  display: flex;
+  gap: 6px;
+  margin-bottom: 0.65rem;
+  flex-wrap: wrap;
+}
+.qap-quick-play-btn {
+  flex: 1;
+  min-width: 130px;
+  border: 1px solid var(--green);
+  background: var(--green-light);
+  color: var(--green);
+  padding: 6px 10px;
+  border-radius: 8px;
+  font-family: var(--font-ui);
+  font-size: 11.5px;
+  font-weight: 600;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+  transition: all 0.15s ease;
+  white-space: nowrap;
+}
+.qap-quick-play-btn:hover {
+  background: var(--green);
+  color: #fff;
+  transform: translateY(-1px);
+}
+.qap-quick-play-btn.qap-quick-pause {
+  border-color: #d97706;
+  background: #fef3c7;
+  color: #92400e;
+}
+.qap-quick-play-btn.qap-quick-pause:hover {
+  background: #d97706;
+  color: #fff;
+}
 .qap-verse-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(42px, 1fr));
@@ -4725,19 +4764,66 @@ html[data-theme="sepia"] .book-trans-seg.segment-speaking {
   justify-content: space-between;
   gap: 0.5rem;
 }
+.wt-audio-group {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  flex-shrink: 0;
+}
 .wt-audio-btn {
-  border: none;
+  border: 1px solid var(--border);
   background: var(--parchment-deep);
   cursor: pointer;
-  font-size: 0.95rem;
-  padding: 0.2rem 0.45rem;
+  font-size: 0.78rem;
+  font-family: var(--font-ui);
+  font-weight: 500;
+  color: var(--ink);
+  padding: 0.22rem 0.45rem;
   border-radius: 6px;
-  line-height: 1;
-  transition: all 0.15s;
+  line-height: 1.1;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.2rem;
+  transition: all 0.15s ease;
 }
 .wt-audio-btn:hover {
   background: var(--green-light);
-  transform: scale(1.15);
+  color: var(--green);
+  border-color: var(--green);
+  transform: translateY(-1px);
+}
+.wt-play-ayah-btn {
+  border: 1px solid var(--green);
+  background: var(--green);
+  color: #fff !important;
+  cursor: pointer;
+  font-size: 0.76rem;
+  font-family: var(--font-ui);
+  font-weight: 600;
+  padding: 0.22rem 0.55rem;
+  border-radius: 6px;
+  line-height: 1.1;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  transition: all 0.15s ease;
+  white-space: nowrap;
+}
+.wt-play-ayah-btn:hover {
+  background: var(--green-mid);
+  border-color: var(--green-mid);
+  transform: translateY(-1px);
+  box-shadow: 0 2px 6px rgba(31, 107, 82, 0.25);
+}
+.word-tooltip .wt-actions .wt-play-ayah-action {
+  background: var(--green-light);
+  border-color: var(--green);
+  color: var(--green);
+  font-weight: 600;
+}
+.word-tooltip .wt-actions .wt-play-ayah-action:hover {
+  background: var(--green);
+  color: #fff;
 }
 .q-word.word-audio-playing {
   background: rgba(212, 175, 55, 0.32) !important;

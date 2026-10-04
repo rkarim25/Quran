@@ -157,6 +157,7 @@ function recordReading(surah, ayah, at = Date.now()) {
 
 function scheduleRecordReading(surah, ayah) {
   visibleAyah = ayah;
+  window.visibleAyah = ayah;
   pendingRecord = { surah, ayah };
   clearTimeout(recordTimer);
   recordTimer = setTimeout(flushRecordReading, RECORD_DEBOUNCE_MS);
@@ -1035,7 +1036,7 @@ function toolbarHtml(data, ayah, surahs = []) {
             <option value="book" ${prefs.layoutMode === "book" ? "selected" : ""}>Book</option>
             ${mushafAvailable(data.id) ? `<option value="mushaf" ${prefs.layoutMode === "mushaf" ? "selected" : ""}>Mushaf</option>` : ""}
           </select>
-          <button type="button" class="btn play-surah-btn" id="toolbar-play-surah" data-action="play-surah" title="Listen to this sūrah (Mishary Rashid Alafasy)">▶ Listen</button>
+          <button type="button" class="btn play-surah-btn" id="toolbar-play-surah" data-action="play-surah" title="Play current sūrah from Ayah ${ayah || 1} (Mishary Rashid Alafasy)">▶ Play Sūrah</button>
           ${contentMenuHtml(data)}
           <button type="button" class="btn ${prefs.wordMode === "ai" ? "active" : ""}" id="toggle-wordmode" title="Hover any word for an AI grammar &amp; meaning breakdown">Word AI</button>
           <span class="font-group"><span class="fg-label" dir="rtl">ع</span><button type="button" class="btn icon-only" id="font-smaller" title="Smaller Arabic">A−</button><button type="button" class="btn icon-only" id="font-larger" title="Larger Arabic">A+</button></span>
@@ -2151,26 +2152,27 @@ function showWordTooltip(el, opts = {}) {
   tooltip.hidden = false;
   tooltip.classList.toggle("ai", !!ai);
 
-  const wordAudioBtn = `<button type="button" class="wt-audio-btn" data-play-word="${surahId}-${ayahNum}-${key}" title="Listen to word" aria-label="Listen to word">🔊</button>`;
+  const wordAudioGroup = `<div class="wt-audio-group"><button type="button" class="wt-audio-btn" data-play-word="${surahId}-${ayahNum}-${key}" title="Pronounce this word (${esc(word.arabic)})" aria-label="Listen to word">🔊 Word</button><button type="button" class="wt-play-ayah-btn" data-play-from-ayah="${surahId}-${ayahNum}" title="Start continuous recitation from Ayah ${ayahNum}" aria-label="Start recitation from Ayah ${ayahNum}">▶ Start listen</button></div>`;
 
   if (editing) {
-    tooltip.innerHTML = `<div class="wt-ar-header"><div class="wt-ar">${esc(word.arabic)}</div>${wordAudioBtn}</div><div class="wt-tr">${esc(word.transliteration || "")}</div>
+    tooltip.innerHTML = `<div class="wt-ar-header"><div class="wt-ar">${esc(word.arabic)}</div>${wordAudioGroup}</div><div class="wt-tr">${esc(word.transliteration || "")}</div>
        <label class="wt-label">Meaning</label><input id="wt-meaning" />
        <div class="wt-actions"><button type="button" id="wt-cancel">Cancel</button><button type="button" class="primary" id="wt-save">Save</button></div>`;
   } else if (ai) {
-    tooltip.innerHTML = `<div class="wt-ar-header"><div class="wt-ar">${esc(word.arabic)}</div>${wordAudioBtn}</div>
+    tooltip.innerHTML = `<div class="wt-ar-header"><div class="wt-ar">${esc(word.arabic)}</div>${wordAudioGroup}</div>
        <div class="wt-tr">${esc(word.transliteration || "")}</div>
        <div class="wt-ai-meaning">${esc(ai.meaning || word.translation || "")}</div>
        ${ai.parts && ai.parts.length ? `<div class="wt-ai-parts">${ai.parts.map((p) => `<span class="wt-seg"><span class="wt-seg-ar" dir="rtl" lang="ar">${esc(p.ar || "")}</span><span class="wt-seg-en">${p.tr ? `<em>${esc(p.tr)}</em> — ` : ""}${esc(p.en || "")}</span></span>`).join("")}</div>` : ""}
        ${ai.grammar ? `<div class="wt-ai-grammar">${esc(ai.grammar)}</div>` : ""}
-       ${ai.root ? `<div class="wt-ai-root">${esc(ai.root)}</div>` : ""}${symbolHtml}`;
+       ${ai.root ? `<div class="wt-ai-root">${esc(ai.root)}</div>` : ""}${symbolHtml}
+       <div class="wt-actions"><button type="button" class="btn wt-play-ayah-action" data-play-from-ayah="${surahId}-${ayahNum}" title="Start continuous recitation from Ayah ${ayahNum}">▶ Listen from Ayah ${ayahNum}</button></div>`;
   } else {
-    tooltip.innerHTML = `<div class="wt-ar-header"><div class="wt-ar">${esc(word.arabic)}</div>${wordAudioBtn}</div><div class="wt-tr">${esc(word.transliteration || "")}</div>
+    tooltip.innerHTML = `<div class="wt-ar-header"><div class="wt-ar">${esc(word.arabic)}</div>${wordAudioGroup}</div><div class="wt-tr">${esc(word.transliteration || "")}</div>
        <div class="wt-en">${esc(word.translation || "")}</div>
        ${origMeaning}
        ${prefs.wordMode === "ai" ? `<div class="wt-ai-pending">Detailed AI word analysis for this sūrah is being prepared.</div>` : ""}
        ${symbolHtml}
-       <div class="wt-actions"><button type="button" class="primary" id="wt-edit">Edit meaning</button></div>`;
+       <div class="wt-actions"><button type="button" class="btn wt-play-ayah-action" data-play-from-ayah="${surahId}-${ayahNum}" title="Start continuous recitation from Ayah ${ayahNum}">▶ Listen from Ayah ${ayahNum}</button><button type="button" class="primary" id="wt-edit">Edit meaning</button></div>`;
   }
 
   tooltip.classList.toggle("pinned", pin);
@@ -3757,6 +3759,22 @@ async function renderSurah(data, targetAyah, openStudy = false) {
 }
 
 document.addEventListener("click", (e) => {
+  const playFromAyahBtn = e.target.closest && e.target.closest("[data-play-from-ayah]");
+  if (playFromAyahBtn) {
+    e.preventDefault();
+    e.stopPropagation();
+    const parts = playFromAyahBtn.dataset.playFromAyah.split("-");
+    if (parts.length >= 2) {
+      const sId = +parts[0];
+      const aNum = +parts[1];
+      const player = window.QuranAudio || (typeof QuranAudio !== "undefined" ? QuranAudio : null);
+      if (player) {
+        player.playAyah(sId, aNum);
+      }
+      hideTooltip();
+    }
+    return;
+  }
   const playSurahBtn = e.target.closest && e.target.closest("#toolbar-play-surah, [data-action='play-surah']");
   if (playSurahBtn) {
     e.preventDefault();
