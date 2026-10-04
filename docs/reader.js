@@ -3914,6 +3914,7 @@ async function renderSurah(data, targetAyah, openStudy = false) {
   if (!targetAyah && lastForSurah) targetAyah = lastForSurah.ayah;
   const ayah = targetAyah || 1;
   visibleAyah = ayah;
+  window.visibleAyah = ayah;
   const surahList = (await loadIndex()).surahs;
 
   setBreadcrumb(`<a href="#/">Home</a> › ${esc(data.translated_name)}`);

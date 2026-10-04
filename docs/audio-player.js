@@ -874,8 +874,11 @@ const QuranAudio = (() => {
     if (!drawer) return;
     chooserOpen = true;
     drawer.hidden = false;
-    verseChooserSurahId = currentSurahId || (window.currentSurah ? window.currentSurah.id : 1);
+    const hashMatch = window.location.hash.match(/^#\/(\d+)/);
+    verseChooserSurahId = currentSurahId || (window.currentSurah ? window.currentSurah.id : (hashMatch ? +hashMatch[1] : 1));
     switchChooserTab(tab || activeChooserTab || "surah");
+    const headerBtn = document.getElementById("header-audio-btn");
+    if (headerBtn) headerBtn.classList.add("active");
   }
 
   function closeChooser() {
@@ -883,6 +886,10 @@ const QuranAudio = (() => {
     if (!drawer) return;
     chooserOpen = false;
     drawer.hidden = true;
+    const headerBtn = document.getElementById("header-audio-btn");
+    if (headerBtn) {
+      headerBtn.classList.toggle("active", isPlaying);
+    }
     if (!currentSurahId && !isPlaying && (!arabicAudio.src || arabicAudio.paused)) {
       const bar = document.getElementById("quran-audio-player");
       if (bar) bar.hidden = true;
@@ -1350,11 +1357,38 @@ const QuranAudio = (() => {
     if (!bar) return;
 
     if (!currentSurahId || !currentAyahNum) {
-      bar.hidden = true;
+      if (!chooserOpen) bar.hidden = true;
+      const headerAudioBtn = document.getElementById("header-audio-btn");
+      if (headerAudioBtn) {
+        headerAudioBtn.classList.toggle("active", !!chooserOpen);
+        headerAudioBtn.classList.remove("playing");
+        const navIcon = headerAudioBtn.querySelector(".nav-icon");
+        if (navIcon) navIcon.textContent = "🔊";
+        const navLabel = headerAudioBtn.querySelector(".nav-label");
+        if (navLabel) navLabel.textContent = "Listen";
+        headerAudioBtn.title = "Listen to Qur'an — Choose Surah, Verse, or Juz";
+      }
       return;
     }
 
     bar.hidden = false;
+
+    const headerAudioBtn = document.getElementById("header-audio-btn");
+    if (headerAudioBtn) {
+      headerAudioBtn.classList.toggle("active", !!chooserOpen || isPlaying);
+      headerAudioBtn.classList.toggle("playing", isPlaying);
+      const navIcon = headerAudioBtn.querySelector(".nav-icon");
+      if (navIcon) {
+        navIcon.textContent = isPlaying ? "⏸" : "🔊";
+      }
+      const navLabel = headerAudioBtn.querySelector(".nav-label");
+      if (navLabel) {
+        navLabel.textContent = isPlaying ? "Playing" : "Listen";
+      }
+      headerAudioBtn.title = isPlaying
+        ? `Reciting Ayah ${currentAyahNum} — Click to choose where to listen or pause`
+        : "Listen to Qur'an — Choose Surah, Verse, or Juz";
+    }
 
     const reciterEl = document.getElementById("qap-reciter");
     const trackEl = document.getElementById("qap-track");
@@ -2449,17 +2483,26 @@ const QuranAudio = (() => {
       if (chooserOpen) {
         const drawer = document.getElementById("qap-chooser-drawer");
         const trackBtn = document.getElementById("qap-track-btn");
-        if (drawer && !drawer.contains(e.target) && (!trackBtn || !trackBtn.contains(e.target))) {
+        const headerBtn = document.getElementById("header-audio-btn");
+        if (
+          drawer &&
+          !drawer.contains(e.target) &&
+          (!trackBtn || !trackBtn.contains(e.target)) &&
+          (!headerBtn || !headerBtn.contains(e.target))
+        ) {
           closeChooser();
         }
       }
     });
 
-    document.getElementById("header-audio-btn")?.addEventListener("click", () => {
+    document.getElementById("header-audio-btn")?.addEventListener("click", (e) => {
+      e.preventDefault();
+      e.stopPropagation();
       if (chooserOpen) {
         closeChooser();
       } else {
-        const sId = currentSurahId || (window.currentSurah ? window.currentSurah.id : (window.location.hash.match(/^#\/(\d+)/) ? +window.location.hash.match(/^#\/(\d+)/)[1] : null));
+        const hashMatch = window.location.hash.match(/^#\/(\d+)/);
+        const sId = currentSurahId || (window.currentSurah ? window.currentSurah.id : (hashMatch ? +hashMatch[1] : null));
         openChooser(sId ? "verse" : "surah");
       }
     });
