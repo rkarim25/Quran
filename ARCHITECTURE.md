@@ -59,7 +59,7 @@ data that `build_site.py` does not rebuild**. Edits to these deploy directly and
 | Rebuilt from markdown | Static — edit directly |
 |---|---|
 | `surah_N.json`, `index.json` | `ai_wbw/*`, `passage_tafsir/*` |
-| `search-index.json` (gitignored, built in CI) | `duas.json`, `asbab_nuzul.json` |
+| `search-index.json` (gitignored, built in CI) | `duas.json`, `asbab-nuzul.json` |
 | `build.json` (gitignored, built in CI) | `hadith_index.json`, `hadith_map.json` |
 | | `people_index.json`, `people_hadith.json` |
 | | `timeline.json`, `juz.json`, `pages.json`, `mushaf/*` |
@@ -351,10 +351,12 @@ three of four flags were false positives of exactly this kind.
 
 - **Passage tafsir:** 114/114 published and validated.
 - **AI word-by-word:** 114/114, all pass `validate_wbw.py`.
-- **Occasions of revelation** (`asbab_nuzul.json`): 1,186 ayah-level entries
-  spanning 85 surahs, plus one `__setting_*` context group per surah (114).
+- **Occasions of revelation** (`asbab-nuzul.json`): 1,186 ayah-level entries spanning 85 surahs, plus one `__setting_*` context group per surah (114). Integrated with in-place `💡 Background` light bulb micro-cards.
+- **User reflection indicators (`✎ Note`):** Emerald pen indicator badges automatically render on ayahs with personal reflections across Verse, WBW, and Book views for 1-click viewing and editing.
+- **Synchronized cross-language highlighting:** Bi-directional verse highlighting in sync across Arabic, English, AI translation, transliteration, WBW, and Book views, persisted in `quran-highlights` and synced to cloud.
+- **Audio engine & pinpoint start-listen:** Mishary Alafasy Arabic recitation + Ibrahim Walk authentic human English narration (192kbps). Word tooltips provide `▶ Start Listen` to begin continuous recitation from that exact ayah.
 - **Isnad chains:** 690/690 hadith in `hadith_index.json` carry an isnad.
-- **Whole corpus validates clean** as of commit `da781099`.
+- **Whole corpus validates clean** (17/17 checks in `check-site.js`).
 
 ### Known issues
 
@@ -407,7 +409,7 @@ Worked example — surfacing a new per-ayah field in the reader:
    `docs/data/surah_N.json`.
 4. **Render it.** `docs/reader.js` — find the analogous render function
    (`renderAyahStreamHtml`, `renderContextPanel`, ...) and follow its shape.
-5. **Bump** `DATA_VERSION` in `reader.js` and `VERSION` in `sw.js`.
+5. **Bump** `reader.js?v=XX`, `reader.css?v=YY` in `docs/index.html` and `VERSION` in `sw.js`.
 6. **Validate**, build the affected surahs, commit, push.
 7. **Verify on the live URL with a cache-bust** — not localhost.
 
@@ -418,9 +420,9 @@ generating anything.
 
 ---
 
-## 11. Audio Engine, Hovering AI Notes & Multi-AI Skills
+## 11. Reading Features, Audio Engine & Multi-AI Skills
 
-### Audio Recitation & Narration Engine (`docs/audio-player.js`)
+### A. Audio Recitation & Narration Engine (`docs/audio-player.js`)
 - **Arabic Recitation:** Strictly **Mishary Rashid Alafasy**:
   * Primary EveryAyah: `https://everyayah.com/data/Alafasy_128kbps/{SSS}{AAA}.mp3`
   * Fallback Verses: `https://verses.quran.com/Alafasy/mp3/{SSS}{AAA}.mp3`
@@ -431,28 +433,40 @@ generating anything.
 - **Display Synchronization:**
   * **Book View (Paragraph Mode):** Recites all Arabic ayahs in the active chunk $\to$ recites Ibrahim Walk English narration for each ayah in that chunk $\to$ advances to next chunk.
   * **Verse View (Sentence Mode):** Recites Arabic ayah $\to$ recites Ibrahim Walk English narration $\to$ advances.
+- **Word Tooltip Pinpoint Start-Listen:** Hovering/clicking any word in WBW or Verse mode includes a **`▶ Start Listen`** button that starts continuous recitation from that exact ayah.
 - **Service Worker Invariant:** Streaming audio hosts (`everyayah.com`, `verses.quran.com`, `audio.qurancdn.com`, `cdn.islamic.network`) are hardcoded in `NETWORK_ONLY_HOSTS` in `docs/sw.js` and never cached into IndexedDB or SW cache.
 
-### Hovering Note System & AI Requests (`docs/reader.js`, `docs/reader.css`)
-- **Floating Pen FAB (`#tadabbur-fab` ✎):** Draggable button present on all reading views.
-- **Dual Mode:**
+### B. Asbāb al-Nuzūl (Occasions of Revelation) Light Bulb (`docs/data/asbab-nuzul.json`)
+- **Light Bulb Button (`💡 Background`):** Positioned beside verse translations for ayahs with authentic revelation context.
+- **Interactive Micro-Card:** Expands in-place with historical context, authentic classical sources (Al-Wahidi, Ibn Kathir, Bukhari, Muslim), and study drawer link.
+- **Quality Standard:** Must provide essential context that reading the translation alone cannot convey; never duplicate or paraphrase the translation.
+
+### C. User Reflections & Note Pen Badges (`docs/reader.js`, `docs/reader.css`)
+- **Emerald Pen Button (`✎ Note`):** Renders beside translations on any verse where the user has recorded a note, allowing instant 1-click viewing and editing.
+- **Floating Pen FAB (`#tadabbur-fab` ✎):** Draggable button present on all reading views with dual mode:
   * `✎ Personal Reflection`: Learner's personal tadabbur reflections.
-  * `🤖 Addressed to AI`: Flagged for AI review (`forAi: true`, `target: "ai"`, `status: "open"`).
+  * `🤖 Addressed to AI`: Flagged for AI review (`forAi: true`, `target: "ai"`).
   * Quick Category Tags: `[📝 Translation]`, `[🔤 Transliteration]`, `[📖 Tafsir]`, `[🐞 Site / Bug]`.
 - **Tadabbur Management (`#/tadabbur`):**
   * Displays distinct `🤖 For AI` badge and status badge on cards.
   * Filter chip `[🤖 For AI (N)]` to view only notes addressed to AI.
   * `📋 Copy AI Notes` button generates a ready-to-paste markdown prompt with all pending AI notes for external AI tutors.
-  * Export notes button downloads full JSON bundle.
   * Synced across devices via Firebase / Firestore and GitHub sync.
 
-### Automated Health Audit & `check-quran-site` Skill
+### D. Synchronized Cross-Language Verse Highlighting
+- **Bi-Directional Highlighting:** Highlighting an Arabic verse automatically highlights its English & AI translation counterparts and transliteration in sync (and vice-versa).
+- **Multi-Mode Support:** Works across Verse View, WBW View, and Book View.
+- **Persistent Storage:** Highlights persist in `localStorage` under `quran-highlights` and sync to Firestore.
+- **Floating Action Pill:** Selecting text in an ayah displays `[🖍 Highlight]`, `[✎ Note]`, `[▶ Listen]`.
+
+### E. Automated Health Audit & `check-quran-site` Skill
 - Automated telemetry script: `node scripts/check-site.js` (and `python scripts/check_quran_site.py`).
-- Verifies JS syntax, `__BUILD_ID__` invariant (exactly 2 in `index.html`), SW audio host bypasses, EveryAyah and Islamic Network CDN HTTP status, AI translation completeness (6,236 / 6,236), and scans pending AI notes.
+- Verifies JS syntax, `__BUILD_ID__` invariant (exactly 2 in `index.html`), SW audio host bypasses, EveryAyah and Islamic Network CDN HTTP status, AI translation completeness (6,236 / 6,236), and scans pending AI notes (17/17 tests passing).
 - Skill files maintained for all AI platforms:
   * Google Antigravity: `C:\Users\Reza Karim\.gemini\config\skills\check-quran-site\SKILL.md`
   * Agents Standard: `.agents/skills/check-quran-site/SKILL.md`
   * Claude Code: `.claude/skills/check-quran-site/SKILL.md`
+  * Arabic Workspace: `C:\Users\Reza Karim\OneDrive\Arabic\Self learn\.agents\skills\check-quran-site\SKILL.md`
 
 ---
 
@@ -472,3 +486,4 @@ generating anything.
 | `scripts/WBW_RUNBOOK.md` | The word-by-word loop | Canonical |
 | `README.md` | Public-facing overview | Current |
 | `docs/SYNC_SETUP.md` | Firebase sync setup | As written |
+

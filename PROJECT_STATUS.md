@@ -95,6 +95,21 @@ the operational loop. Design + rationale: `TAFSIR_PLAN.md`.
 - Verification gate: `python scripts/tafsir_passages.py validate --surah N`
   must exit 0 (coverage + hadith grounding + creed/style checks).
 
+### 6. Asbāb al-Nuzūl (Occasions of Revelation) Light Bulb System — DONE (2026-10-03)
+Integrated in-place `💡 Background` light bulb pills on verses with authentic historical context (`docs/data/asbab-nuzul.json`). Sourced from Al-Wahidi, Ibn Kathir, Sahih al-Bukhari, and Sahih Muslim. Micro-card popup explains revelation context without duplicating translation text, and links directly to study panel.
+
+### 7. User Reflections & Note Pen Badges (`✎ Note`) — DONE (2026-10-04)
+Emerald pen indicator badges automatically render beside the translation across Verse, WBW, and Book views on any ayah where the user has written a note. Allows instant 1-click viewing and editing in Tadabbur drawer. Backed by reactive DOM updates when notes are added, edited, or deleted.
+
+### 8. Synchronized Cross-Language Verse Highlighting — DONE (2026-10-04)
+Bi-directional, neat, and non-interruptive highlighting. Highlighting an Arabic verse automatically highlights its English and AI translations (and vice versa) across all reading modes. Persisted in `localStorage` under `quran-highlights` and synced to cloud. Includes floating selection action pill (`[🖍 Highlight]`, `[✎ Note]`, `[▶ Listen]`).
+
+### 9. Authentic Studio Recitation & Narration Engine — DONE (2026-10-03)
+Complete Arabic recitation by Mishary Rashid Alafasy and 100% authentic human studio English narration by Ibrahim Walk (Saheeh International, 192kbps MP3). Synchronized across Book view (paragraph blocks) and Verse view (sentence by sentence). Word tooltips provide `▶ Start Listen` to begin continuous recitation from that exact ayah. Zero mechanical TTS.
+
+### 10. Multi-AI Health Audit Suite & `check-quran-site` Skill — DONE (2026-10-04)
+Comprehensive automated telemetry script `node scripts/check-site.js` (17/17 checks passing: syntax, CDN health, data integrity, AI notes). Canonical skill `check-quran-site` implemented across Antigravity, Claude Code, Agents standard, and Arabic learning workspace.
+
 <details><summary>Original request (2026-07-31) — kept for context</summary>
 User wants the layered AI tafsir redone **all together** (not the slow scheduled
 trickle). Current state: layered-v1 format complete only through **surah 3:132**
