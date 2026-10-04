@@ -1481,7 +1481,7 @@ async function toggleAsbabCard(surahId, ayahNum, triggerBtn) {
         <button type="button" class="asbab-card-close" data-action="close-asbab" title="Close" aria-label="Close">×</button>
       </div>
       <div class="asbab-card-body">
-        <p class="asbab-card-text" id="asbab-text-${surahId}-${ayahNum}" data-full="${esc(rawText)}">${esc(shortText)}</p>
+        <p class="asbab-card-text" id="asbab-text-${surahId}-${ayahNum}">${esc(shortText)}</p>
         ${isLong ? `<button type="button" class="asbab-expand-btn" data-action="expand-asbab" data-s="${surahId}" data-a="${ayahNum}">Read full background ▾</button>` : ""}
       </div>
       <div class="asbab-card-footer">
@@ -3804,11 +3804,16 @@ document.addEventListener("click", async (e) => {
   if (expandBtn) {
     e.preventDefault();
     e.stopPropagation();
-    const s = expandBtn.dataset.s;
-    const a = expandBtn.dataset.a;
+    const s = +expandBtn.dataset.s;
+    const a = +expandBtn.dataset.a;
+    if (cache.asbabNuzul === null) await loadAsbabNuzul();
+    const key = `${s}:${a}`;
+    const entry = cache.asbabNuzul ? cache.asbabNuzul[key] : null;
+    const ayahObj = (currentSurah && currentSurah.id === s ? currentSurah : cache.surahs[s])?.ayahs?.find((x) => x.ayah === a);
+    const fullText = entry?.occasion || ayahObj?.context || "";
     const textEl = document.getElementById(`asbab-text-${s}-${a}`);
-    if (textEl && textEl.dataset.full) {
-      textEl.textContent = textEl.dataset.full;
+    if (textEl && fullText) {
+      textEl.textContent = fullText;
       expandBtn.remove();
     }
     return;

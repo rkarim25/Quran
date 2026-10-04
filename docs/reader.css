@@ -4875,6 +4875,10 @@ html[data-theme="night"] .asbab-card-text {
   color: #e5e7eb;
 }
 
+html[data-theme="night"] .asbab-expand-btn {
+  color: #fcd34d;
+}
+
 .asbab-card-header {
   display: flex;
   align-items: center;
@@ -4914,8 +4918,9 @@ html[data-theme="night"] .asbab-card-badge,
 }
 
 .asbab-card-text {
-  font-size: 0.92rem;
-  line-height: 1.6;
+  font-family: var(--font-body);
+  font-size: 1.05rem;
+  line-height: 1.75;
   color: var(--ink, #1f2937);
   margin: 0;
   white-space: pre-line;
@@ -4925,11 +4930,11 @@ html[data-theme="night"] .asbab-card-badge,
   background: none;
   border: none;
   color: #b45309;
-  font-size: 0.78rem;
+  font-size: 0.88rem;
   font-weight: 600;
   cursor: pointer;
-  padding: 0.2rem 0;
-  margin-top: 0.2rem;
+  padding: 0.3rem 0;
+  margin-top: 0.35rem;
   display: inline-block;
 }
 
