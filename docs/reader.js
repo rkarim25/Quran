@@ -7,6 +7,7 @@ const LS = {
   myWork: "quran-my-work",
   tadabburNotes: "quran-tadabbur-notes",
   tadabburFab: "quran-tadabbur-fab",
+  highlights: "quran-highlights",
   ayahEdits: (s, a) => `quran-${s}-${a}`,
 };
 
@@ -188,6 +189,80 @@ function toggleBookmark(surah, ayah, surahName, snippet) {
   localStorage.setItem(LS.bookmarks, JSON.stringify(list));
   QuranFirebaseSync?.schedulePush();
   return i < 0;
+}
+
+function getHighlights() {
+  try {
+    return JSON.parse(localStorage.getItem(LS.highlights) || "[]");
+  } catch {
+    return [];
+  }
+}
+
+function isAyahHighlighted(surah, ayah) {
+  return getHighlights().some((h) => h.surah === +surah && h.ayah === +ayah);
+}
+
+function toggleHighlight(surah, ayah, { color = "gold" } = {}) {
+  let list = getHighlights();
+  const s = +surah;
+  const a = +ayah;
+  const i = list.findIndex((h) => h.surah === s && h.ayah === a);
+  const willHighlight = i < 0;
+  if (!willHighlight) {
+    list.splice(i, 1);
+  } else {
+    list.unshift({ surah: s, ayah: a, color, at: Date.now() });
+  }
+  localStorage.setItem(LS.highlights, JSON.stringify(list));
+  QuranFirebaseSync?.schedulePush?.();
+  applyAyahHighlightDom(s, a, willHighlight);
+  return willHighlight;
+}
+
+function applyAyahHighlightDom(surah, ayah, isHighlighted) {
+  const s = +surah;
+  const a = +ayah;
+
+  const ayahArticles = document.querySelectorAll(`article[data-ayah="${a}"]`);
+  ayahArticles.forEach((art) => {
+    art.classList.toggle("verse-highlighted", isHighlighted);
+    art.querySelector(".arabic-block")?.classList.toggle("verse-highlighted", isHighlighted);
+    art.querySelector(".translation-block")?.classList.toggle("verse-highlighted", isHighlighted);
+    art.querySelector(".wbw-grid")?.classList.toggle("verse-highlighted", isHighlighted);
+    art.querySelector(".wbw-trans-wrapper")?.classList.toggle("verse-highlighted", isHighlighted);
+    art.querySelector(".wbw-fulltrans")?.classList.toggle("verse-highlighted", isHighlighted);
+    const hlBtn = art.querySelector('.ayah-dot[data-action="highlight"]');
+    if (hlBtn) {
+      hlBtn.classList.toggle("active", isHighlighted);
+      hlBtn.title = isHighlighted ? "Remove highlight" : "Highlight verse";
+    }
+  });
+
+  document.querySelectorAll(`.book-ayah[data-ayah="${a}"]`).forEach((el) => el.classList.toggle("verse-highlighted", isHighlighted));
+  document.querySelectorAll(`.book-trans-seg[data-ayah="${a}"]`).forEach((el) => el.classList.toggle("verse-highlighted", isHighlighted));
+  document.querySelectorAll(`.book-translit-seg[data-ayah="${a}"]`).forEach((el) => el.classList.toggle("verse-highlighted", isHighlighted));
+}
+
+function getAyahNoteInfo(surahId, ayahNum) {
+  const s = +surahId;
+  const a = +ayahNum;
+  const notes = getTadabburNotes();
+  const tNote = notes.find((n) => n.surah === s && n.from <= a && n.to >= a && n.text && n.text.trim());
+  if (tNote) return { hasNote: true, type: "tadabbur", note: tNote, text: tNote.text };
+
+  const ay = getOriginalAyah(s, a);
+  const m = ay ? mergeLocalEdits(ay, s) : null;
+  if (m?.personal_reflections && m.personal_reflections.trim()) {
+    return { hasNote: true, type: "reflection", text: m.personal_reflections };
+  }
+
+  const w = getMyWork()[`${s}:${a}`];
+  if (w?.tadabbur) {
+    return { hasNote: true, type: "mywork", text: w.tadabburSnippet || "Reflection" };
+  }
+
+  return { hasNote: false };
 }
 
 function isLocalDev() {
@@ -745,22 +820,28 @@ function transliterationHtml(ayah) {
 function translationBlockHtml(ayah, { inline = false } = {}) {
   const { text: transText, mode: transMode } = displayTranslation(ayah);
   if (prefs.readMode === "arabic" || !transText) return "";
+  const sId = currentSurah?.id || 1;
+  const highlighted = isAyahHighlighted(sId, ayah.ayah);
+  const hlCls = highlighted ? " verse-highlighted" : "";
   const tag = inline ? "span" : "div";
-  const cls = inline ? "book-trans-seg" : `translation-block ${transMode === "ai" ? "ai-mode" : ""}`;
+  const cls = inline ? `book-trans-seg${hlCls}` : `translation-block ${transMode === "ai" ? "ai-mode" : ""}${hlCls}`;
   let origNote = "";
   if (!inline && prefs.editView === "both" && transMode === "standard" && currentSurah) {
     const orig = getOriginalAyah(currentSurah.id, ayah.ayah);
     const ot = orig && (orig.translation || orig.qf_translation || "");
     if (ot && ot !== transText) origNote = `<p class="translation-orig"><span class="orig-label">Original</span> ${esc(ot)}</p>`;
   }
-  const sId = currentSurah?.id || 1;
   const hasAsbab = !!(cache.asbabNuzul && cache.asbabNuzul[`${sId}:${ayah.ayah}`]?.has_occasion && cache.asbabNuzul[`${sId}:${ayah.ayah}`]?.occasion);
   const bulbBtn = (!inline && hasAsbab)
     ? `<button type="button" class="asbab-bulb-btn" data-action="toggle-asbab" data-s="${sId}" data-a="${ayah.ayah}" title="Occasion of Revelation (Asbāb al-Nuzūl) — Click to view historical context" aria-label="Occasion of Revelation">💡 Background</button>`
     : "";
+  const noteInfo = getAyahNoteInfo(sId, ayah.ayah);
+  const penBtn = (!inline && noteInfo.hasNote)
+    ? `<button type="button" class="note-pen-btn" data-action="toggle-note" data-s="${sId}" data-a="${ayah.ayah}" title="My Note / Reflection for this verse — Click to view" aria-label="View Note">✎ Note</button>`
+    : "";
 
-  return `<${tag} class="${cls}">
-        ${(transMode === "ai" || bulbBtn) ? `<div class="translation-header-row">${transMode === "ai" ? `<span class="translation-badge">AI Translation</span>` : ""}${bulbBtn}</div>` : ""}
+  return `<${tag} class="${cls}" data-ayah="${ayah.ayah}">
+        ${(transMode === "ai" || bulbBtn || penBtn) ? `<div class="translation-header-row">${transMode === "ai" ? `<span class="translation-badge">AI Translation</span>` : ""}${bulbBtn}${penBtn}</div>` : ""}
         <p class="translation-text">${esc(transText)}</p>
         ${origNote}
         ${!inline && transMode === "standard" ? `<button type="button" class="translation-edit-btn" data-action="edit-translation" title="Edit translation" aria-label="Edit translation">✎</button>` : ""}
@@ -773,7 +854,8 @@ function toArabicNum(n) {
 
 function ayahRailHtml(a, ayahNum, surahId) {
   const bookmarked = isBookmarked(surahId, ayahNum);
-  const hasReflection = !!(a.personal_reflections && a.personal_reflections.trim());
+  const noteInfo = getAyahNoteInfo(surahId, ayahNum);
+  const highlighted = isAyahHighlighted(surahId, ayahNum);
   const isPlaying = window.QuranAudio?.isPlayingAyah?.(surahId, ayahNum);
   return `
       <div class="ayah-rail">
@@ -783,17 +865,20 @@ function ayahRailHtml(a, ayahNum, surahId) {
         </button>
         <button type="button" class="ayah-dot play-btn ${isPlaying ? "playing" : ""}" data-action="play-ayah" aria-label="${isPlaying ? "Pause recitation" : "Play recitation"}" title="${isPlaying ? "Pause" : "Play recitation (Mishary Alafasy)"}"><span class="icon-play">${isPlaying ? "⏸" : "▶"}</span></button>
         <button type="button" class="ayah-dot bookmark-btn ${bookmarked ? "active" : ""}" data-action="bookmark" aria-label="${bookmarked ? "Remove bookmark" : "Bookmark"}" title="${bookmarked ? "Remove bookmark" : "Bookmark"}"><span class="icon-star">${bookmarked ? "✦" : "✧"}</span></button>
-        <button type="button" class="ayah-dot study-btn ${hasReflection ? "has-note" : ""}" data-action="study" aria-label="Study and reflect" title="Tadabbur · Tafsir"><span class="icon-study">${hasReflection ? "✎" : "☰"}</span></button>
+        <button type="button" class="ayah-dot highlight-btn ${highlighted ? "active" : ""}" data-action="highlight" aria-label="${highlighted ? "Remove highlight" : "Highlight verse"}" title="${highlighted ? "Remove highlight" : "Highlight verse"}"><span class="icon-highlight">🖍</span></button>
+        <button type="button" class="ayah-dot study-btn ${noteInfo.hasNote ? "has-note" : ""}" data-action="study" aria-label="Study and reflect" title="Tadabbur · Tafsir"><span class="icon-study">${noteInfo.hasNote ? "✎" : "☰"}</span></button>
       </div>`;
 }
 
 function ayahBlock(data, ayah, surahId) {
   const a = mergeLocalEdits(ayah, surahId);
+  const highlighted = isAyahHighlighted(surahId, ayah.ayah);
+  const hlCls = highlighted ? " verse-highlighted" : "";
   return `
-    <article class="ayah-block" id="ayah-${surahId}-${ayah.ayah}" data-surah="${surahId}" data-ayah="${ayah.ayah}">
+    <article class="ayah-block${hlCls}" id="ayah-${surahId}-${ayah.ayah}" data-surah="${surahId}" data-ayah="${ayah.ayah}">
       ${ayahRailHtml(a, ayah.ayah, surahId)}
       <div class="ayah-body">
-        <div class="arabic-block">
+        <div class="arabic-block${hlCls}">
           <p class="arabic-text">${renderArabicWords(a, surahId)}</p>
           ${transliterationHtml(a)}
         </div>
@@ -807,6 +892,8 @@ function ayahBlock(data, ayah, surahId) {
 // Word-by-word study layout: each word shown as a card (Arabic + transliteration + meaning).
 function wbwAyahBlock(data, ayah, surahId) {
   const a = mergeLocalEdits(ayah, surahId);
+  const highlighted = isAyahHighlighted(surahId, ayah.ayah);
+  const hlCls = highlighted ? " verse-highlighted" : "";
   const words = orderedWords(a.word_by_word);
   const grid = words.length
     ? words.map((w) => `<span class="wbw-word" data-s="${surahId}" data-a="${ayah.ayah}" data-w="${w.key}">
@@ -821,12 +908,16 @@ function wbwAyahBlock(data, ayah, surahId) {
   const bulbBtn = hasAsbab
     ? `<button type="button" class="asbab-bulb-btn wbw-asbab-bulb" data-action="toggle-asbab" data-s="${surahId}" data-a="${ayah.ayah}" title="Occasion of Revelation (Asbāb al-Nuzūl) — Click to view historical context" aria-label="Occasion of Revelation">💡 Background</button>`
     : "";
+  const noteInfo = getAyahNoteInfo(surahId, ayah.ayah);
+  const penBtn = noteInfo.hasNote
+    ? `<button type="button" class="note-pen-btn wbw-note-pen" data-action="toggle-note" data-s="${surahId}" data-a="${ayah.ayah}" title="My Note / Reflection for this verse — Click to view" aria-label="View Note">✎ Note</button>`
+    : "";
   return `
-    <article class="ayah-block wbw-ayah" id="ayah-${surahId}-${ayah.ayah}" data-surah="${surahId}" data-ayah="${ayah.ayah}">
+    <article class="ayah-block wbw-ayah${hlCls}" id="ayah-${surahId}-${ayah.ayah}" data-surah="${surahId}" data-ayah="${ayah.ayah}">
       ${ayahRailHtml(a, ayah.ayah, surahId)}
       <div class="ayah-body">
-        <div class="wbw-grid" dir="rtl">${grid}</div>
-        ${transText && prefs.readMode !== "arabic" ? `<div class="wbw-trans-wrapper">${bulbBtn}<p class="wbw-fulltrans">${esc(transText)}</p></div>` : ""}
+        <div class="wbw-grid${hlCls}" dir="rtl">${grid}</div>
+        ${transText && prefs.readMode !== "arabic" ? `<div class="wbw-trans-wrapper${hlCls}">${bulbBtn}${penBtn}<p class="wbw-fulltrans">${esc(transText)}</p></div>` : ""}
         ${sajdahBannerHtml(surahId, ayah.ayah)}
         ${ayahExtrasHtml(a, surahId, ayah.ayah)}
       </div>
@@ -839,7 +930,9 @@ function wbwViewHtml(data, surahId) {
 
 function bookAyahSpan(ayah, surahId) {
   const a = mergeLocalEdits(ayah, surahId);
-  return `<span class="book-ayah" id="ayah-${surahId}-${ayah.ayah}" data-surah="${surahId}" data-ayah="${ayah.ayah}" title="Ayah ${ayah.ayah} — click for tafsir">
+  const highlighted = isAyahHighlighted(surahId, ayah.ayah);
+  const hlCls = highlighted ? " verse-highlighted" : "";
+  return `<span class="book-ayah${hlCls}" id="ayah-${surahId}-${ayah.ayah}" data-surah="${surahId}" data-ayah="${ayah.ayah}" title="Ayah ${ayah.ayah} — click for tafsir">
       ${renderArabicWords(a, surahId)}${ayahMarkerHtml(ayah.ayah, { end: true })}${sajdahInlineHtml(surahId, ayah.ayah)}
     </span>`;
 }
@@ -877,7 +970,12 @@ function bookSectionsFor(ayahs, surahId, c) {
     sec.push(`<section class="book-section book-arabic-section" aria-label="Arabic text"><p class="book-flow arabic-flow" dir="rtl">${arabicFlow}</p></section>`);
   }
   if (c.translit) {
-    const f = ayahs.map((a) => { const t = renderAyahTransliteration(mergeLocalEdits(a, surahId)); return t ? `<span class="book-translit-seg" data-ayah="${a.ayah}">${esc(t)}${sajdahInlineHtml(surahId, a.ayah)}</span>` : ""; }).filter(Boolean).join(" ");
+    const f = ayahs.map((a) => {
+      const t = renderAyahTransliteration(mergeLocalEdits(a, surahId));
+      const highlighted = isAyahHighlighted(surahId, a.ayah);
+      const hlCls = highlighted ? " verse-highlighted" : "";
+      return t ? `<span class="book-translit-seg${hlCls}" data-ayah="${a.ayah}">${esc(t)}${sajdahInlineHtml(surahId, a.ayah)}</span>` : "";
+    }).filter(Boolean).join(" ");
     if (f) sec.push(`<section class="book-section book-translit-section" aria-label="Transliteration"><p class="book-flow translit-flow" dir="ltr">${f}</p></section>`);
   }
   if (c.translation) {
@@ -885,11 +983,17 @@ function bookSectionsFor(ayahs, surahId, c) {
       const m = mergeLocalEdits(a, surahId);
       const t = m.translation || m.qf_translation || "";
       if (!t) return "";
+      const highlighted = isAyahHighlighted(surahId, a.ayah);
+      const hlCls = highlighted ? " verse-highlighted" : "";
       const hasAsbab = !!(cache.asbabNuzul && cache.asbabNuzul[`${surahId}:${a.ayah}`]?.has_occasion && cache.asbabNuzul[`${surahId}:${a.ayah}`]?.occasion);
       const bulb = hasAsbab
         ? `<button type="button" class="asbab-bulb-btn book-asbab-bulb" data-action="toggle-asbab" data-s="${surahId}" data-a="${a.ayah}" title="Occasion of Revelation (Asbāb al-Nuzūl) — Click to view historical context" aria-label="Occasion of Revelation">💡</button>`
         : "";
-      return `<span class="book-trans-seg" data-ayah="${a.ayah}">${ayahMarkerHtml(a.ayah, { inline: true })} ${bulb}${esc(t)}${sajdahInlineHtml(surahId, a.ayah)}</span>`;
+      const noteInfo = getAyahNoteInfo(surahId, a.ayah);
+      const pen = noteInfo.hasNote
+        ? `<button type="button" class="note-pen-btn book-note-pen" data-action="toggle-note" data-s="${surahId}" data-a="${a.ayah}" title="My Note / Reflection for Ayah ${a.ayah}" aria-label="View Note">✎</button>`
+        : "";
+      return `<span class="book-trans-seg${hlCls}" data-ayah="${a.ayah}">${ayahMarkerHtml(a.ayah, { inline: true })} ${bulb}${pen}${esc(t)}${sajdahInlineHtml(surahId, a.ayah)}</span>`;
     }).filter(Boolean).join(" ");
     if (f) sec.push(`<section class="book-section book-translation-section" aria-label="Translation"><p class="book-flow translation-flow">${f}</p></section>`);
   }
@@ -898,11 +1002,17 @@ function bookSectionsFor(ayahs, surahId, c) {
       const m = mergeLocalEdits(a, surahId);
       const t = m.ai_translation || "";
       if (!t) return "";
+      const highlighted = isAyahHighlighted(surahId, a.ayah);
+      const hlCls = highlighted ? " verse-highlighted" : "";
       const hasAsbab = !!(cache.asbabNuzul && cache.asbabNuzul[`${surahId}:${a.ayah}`]?.has_occasion && cache.asbabNuzul[`${surahId}:${a.ayah}`]?.occasion);
       const bulb = hasAsbab
         ? `<button type="button" class="asbab-bulb-btn book-asbab-bulb" data-action="toggle-asbab" data-s="${surahId}" data-a="${a.ayah}" title="Occasion of Revelation (Asbāb al-Nuzūl) — Click to view historical context" aria-label="Occasion of Revelation">💡</button>`
         : "";
-      return `<span class="book-trans-seg" data-ayah="${a.ayah}">${ayahMarkerHtml(a.ayah, { inline: true })} ${bulb}${esc(t)}${sajdahInlineHtml(surahId, a.ayah)}</span>`;
+      const noteInfo = getAyahNoteInfo(surahId, a.ayah);
+      const pen = noteInfo.hasNote
+        ? `<button type="button" class="note-pen-btn book-note-pen" data-action="toggle-note" data-s="${surahId}" data-a="${a.ayah}" title="My Note / Reflection for Ayah ${a.ayah}" aria-label="View Note">✎</button>`
+        : "";
+      return `<span class="book-trans-seg${hlCls}" data-ayah="${a.ayah}">${ayahMarkerHtml(a.ayah, { inline: true })} ${bulb}${pen}${esc(t)}${sajdahInlineHtml(surahId, a.ayah)}</span>`;
     }).filter(Boolean).join(" ");
     if (f) sec.push(`<section class="book-section book-translation-section ai-mode" aria-label="AI translation"><p class="book-flow translation-flow">${f}</p></section>`);
   }
@@ -3109,6 +3219,7 @@ function getTadabburNotes() {
 function saveTadabburNotes(list) {
   localStorage.setItem(LS.tadabburNotes, JSON.stringify(list));
   QuranFirebaseSync?.schedulePush?.();
+  updateNoteBadgesInDom();
 }
 function upsertTadabburNote(note) {
   const list = getTadabburNotes();
@@ -3116,7 +3227,100 @@ function upsertTadabburNote(note) {
   if (i >= 0) list[i] = note; else list.unshift(note);
   saveTadabburNotes(list);
 }
-function deleteTadabburNote(id) { saveTadabburNotes(getTadabburNotes().filter((n) => n.id !== id)); }
+function deleteTadabburNote(id) {
+  saveTadabburNotes(getTadabburNotes().filter((n) => n.id !== id));
+}
+
+function updateNoteBadgesInDom() {
+  if (!currentSurah) return;
+  const sId = currentSurah.id;
+
+  document.querySelectorAll("article[data-ayah]").forEach((art) => {
+    const a = +art.dataset.ayah;
+    const noteInfo = getAyahNoteInfo(sId, a);
+
+    const studyBtn = art.querySelector('.ayah-dot[data-action="study"]');
+    if (studyBtn) {
+      studyBtn.classList.toggle("has-note", noteInfo.hasNote);
+      studyBtn.innerHTML = `<span class="icon-study">${noteInfo.hasNote ? "✎" : "☰"}</span>`;
+    }
+
+    const headerRow = art.querySelector(".translation-header-row");
+    if (headerRow) {
+      let penBtn = headerRow.querySelector(".note-pen-btn");
+      if (noteInfo.hasNote && !penBtn) {
+        penBtn = document.createElement("button");
+        penBtn.type = "button";
+        penBtn.className = "note-pen-btn";
+        penBtn.dataset.action = "toggle-note";
+        penBtn.dataset.s = sId;
+        penBtn.dataset.a = a;
+        penBtn.title = "My Note / Reflection for this verse — Click to view";
+        penBtn.setAttribute("aria-label", "View Note");
+        penBtn.textContent = "✎ Note";
+        headerRow.appendChild(penBtn);
+      } else if (!noteInfo.hasNote && penBtn) {
+        penBtn.remove();
+      }
+    } else if (noteInfo.hasNote) {
+      const transBlock = art.querySelector(".translation-block");
+      if (transBlock) {
+        const row = document.createElement("div");
+        row.className = "translation-header-row";
+        const penBtn = document.createElement("button");
+        penBtn.type = "button";
+        penBtn.className = "note-pen-btn";
+        penBtn.dataset.action = "toggle-note";
+        penBtn.dataset.s = sId;
+        penBtn.dataset.a = a;
+        penBtn.title = "My Note / Reflection for this verse — Click to view";
+        penBtn.setAttribute("aria-label", "View Note");
+        penBtn.textContent = "✎ Note";
+        row.appendChild(penBtn);
+        transBlock.insertBefore(row, transBlock.firstChild);
+      }
+    }
+
+    const wbwWrap = art.querySelector(".wbw-trans-wrapper");
+    if (wbwWrap) {
+      let penBtn = wbwWrap.querySelector(".note-pen-btn");
+      if (noteInfo.hasNote && !penBtn) {
+        penBtn = document.createElement("button");
+        penBtn.type = "button";
+        penBtn.className = "note-pen-btn wbw-note-pen";
+        penBtn.dataset.action = "toggle-note";
+        penBtn.dataset.s = sId;
+        penBtn.dataset.a = a;
+        penBtn.title = "My Note / Reflection for this verse — Click to view";
+        penBtn.setAttribute("aria-label", "View Note");
+        penBtn.textContent = "✎ Note";
+        wbwWrap.insertBefore(penBtn, wbwWrap.firstChild);
+      } else if (!noteInfo.hasNote && penBtn) {
+        penBtn.remove();
+      }
+    }
+  });
+
+  document.querySelectorAll(".book-trans-seg[data-ayah]").forEach((seg) => {
+    const a = +seg.dataset.ayah;
+    const noteInfo = getAyahNoteInfo(sId, a);
+    let pen = seg.querySelector(".note-pen-btn");
+    if (noteInfo.hasNote && !pen) {
+      pen = document.createElement("button");
+      pen.type = "button";
+      pen.className = "note-pen-btn book-note-pen";
+      pen.dataset.action = "toggle-note";
+      pen.dataset.s = sId;
+      pen.dataset.a = a;
+      pen.title = `My Note / Reflection for Ayah ${a}`;
+      pen.setAttribute("aria-label", "View Note");
+      pen.textContent = "✎";
+      seg.insertBefore(pen, seg.childNodes[1] || seg.firstChild);
+    } else if (!noteInfo.hasNote && pen) {
+      pen.remove();
+    }
+  });
+}
 function allTadabburTags() { const s = new Set(); getTadabburNotes().forEach((n) => (n.tags || []).forEach((t) => s.add(t))); return [...s].sort(); }
 function tdbClamp(n, lo, hi) { n = +n || 0; return Math.max(lo, Math.min(n, hi)); }
 function tdbNewId() { return "t" + Date.now().toString(36) + Math.random().toString(36).slice(2, 6); }
@@ -3758,7 +3962,7 @@ async function renderSurah(data, targetAyah, openStudy = false) {
   });
 }
 
-document.addEventListener("click", (e) => {
+document.addEventListener("click", async (e) => {
   const playFromAyahBtn = e.target.closest && e.target.closest("[data-play-from-ayah]");
   if (playFromAyahBtn) {
     e.preventDefault();
@@ -3789,10 +3993,34 @@ document.addEventListener("click", (e) => {
   if (tooltip && !tooltip.hidden) {
     if (!tooltip.contains(e.target) && !e.target.classList.contains("q-word")) hideTooltip();
   }
-});
 
-// Delegated click handling for Asbab al-Nuzul light bulbs and micro-cards
-document.addEventListener("click", async (e) => {
+  const hlBtn = e.target.closest && e.target.closest('[data-action="highlight"]');
+  if (hlBtn) {
+    e.preventDefault();
+    e.stopPropagation();
+    const ayahEl = hlBtn.closest("[data-ayah]");
+    const sId = currentSurah?.id || +(ayahEl?.dataset.surah || 1);
+    const aNum = +(ayahEl?.dataset.ayah || 1);
+    const willHl = toggleHighlight(sId, aNum);
+    tdbToast(willHl ? `Ayah ${aNum} highlighted` : `Ayah ${aNum} highlight removed`);
+    return;
+  }
+
+  const noteBtn = e.target.closest && e.target.closest('[data-action="toggle-note"]');
+  if (noteBtn) {
+    e.preventDefault();
+    e.stopPropagation();
+    const sId = +noteBtn.dataset.s;
+    const aNum = +noteBtn.dataset.a;
+    const noteInfo = getAyahNoteInfo(sId, aNum);
+    if (noteInfo.note) {
+      openTadabburEditor({ noteId: noteInfo.note.id });
+    } else {
+      openTadabburEditor({ surah: sId, from: aNum, to: aNum });
+    }
+    return;
+  }
+
   const bulbBtn = e.target.closest && e.target.closest('[data-action="toggle-asbab"]');
   if (bulbBtn) {
     e.preventDefault();
@@ -3868,6 +4096,135 @@ document.addEventListener("click", async (e) => {
       }
     }
     return;
+  }
+});
+
+/* ===================== Floating Verse Action Popup ===================== */
+let verseActionPopupEl = null;
+
+function getVerseActionPopup() {
+  if (!verseActionPopupEl) {
+    verseActionPopupEl = document.createElement("div");
+    verseActionPopupEl.id = "verse-action-popup";
+    verseActionPopupEl.className = "verse-action-popup";
+    verseActionPopupEl.hidden = true;
+    document.body.appendChild(verseActionPopupEl);
+  }
+  return verseActionPopupEl;
+}
+
+function showVerseActionPopup(surahId, ayahNum, rect) {
+  const pop = getVerseActionPopup();
+  const isHl = isAyahHighlighted(surahId, ayahNum);
+  pop.innerHTML = `
+    <button type="button" class="vap-btn vap-hl ${isHl ? "active" : ""}" data-vap="highlight" data-s="${surahId}" data-a="${ayahNum}" title="${isHl ? "Remove highlight" : "Highlight verse"}">
+      <span class="vap-ic">🖍</span> <span class="vap-txt">${isHl ? "Unhighlight" : "Highlight"}</span>
+    </button>
+    <button type="button" class="vap-btn vap-note" data-vap="note" data-s="${surahId}" data-a="${ayahNum}" title="Write or view note for Ayah ${ayahNum}">
+      <span class="vap-ic">✎</span> <span class="vap-txt">Note</span>
+    </button>
+    <button type="button" class="vap-btn vap-listen" data-vap="listen" data-s="${surahId}" data-a="${ayahNum}" title="Start continuous recitation from Ayah ${ayahNum}">
+      <span class="vap-ic">▶</span> <span class="vap-txt">Listen</span>
+    </button>
+  `;
+  pop.hidden = false;
+
+  const popW = 220;
+  const popH = 36;
+  const margin = 8;
+  let left = rect.left + rect.width / 2 - popW / 2;
+  left = Math.max(margin, Math.min(window.innerWidth - popW - margin, left));
+  let top = rect.top - popH - margin;
+  if (top < margin) {
+    top = rect.bottom + margin;
+  }
+  pop.style.left = `${Math.round(left)}px`;
+  pop.style.top = `${Math.round(top)}px`;
+
+  pop.querySelector('[data-vap="highlight"]')?.addEventListener("click", (e) => {
+    e.preventDefault();
+    e.stopPropagation();
+    const willHl = toggleHighlight(surahId, ayahNum);
+    tdbToast(willHl ? `Ayah ${ayahNum} highlighted` : `Ayah ${ayahNum} highlight removed`);
+    hideVerseActionPopup();
+    window.getSelection()?.removeAllRanges();
+  });
+
+  pop.querySelector('[data-vap="note"]')?.addEventListener("click", (e) => {
+    e.preventDefault();
+    e.stopPropagation();
+    hideVerseActionPopup();
+    const noteInfo = getAyahNoteInfo(surahId, ayahNum);
+    if (noteInfo.note) {
+      openTadabburEditor({ noteId: noteInfo.note.id });
+    } else {
+      openTadabburEditor({ surah: surahId, from: ayahNum, to: ayahNum });
+    }
+    window.getSelection()?.removeAllRanges();
+  });
+
+  pop.querySelector('[data-vap="listen"]')?.addEventListener("click", (e) => {
+    e.preventDefault();
+    e.stopPropagation();
+    hideVerseActionPopup();
+    const player = window.QuranAudio || (typeof QuranAudio !== "undefined" ? QuranAudio : null);
+    player?.playAyah(surahId, ayahNum);
+    window.getSelection()?.removeAllRanges();
+  });
+}
+
+function hideVerseActionPopup() {
+  if (verseActionPopupEl && !verseActionPopupEl.hidden) {
+    verseActionPopupEl.hidden = true;
+  }
+}
+
+function handleTextSelection(e) {
+  const sel = window.getSelection();
+  if (!sel || sel.isCollapsed || !sel.toString().trim()) {
+    hideVerseActionPopup();
+    return;
+  }
+  const activeTag = document.activeElement?.tagName;
+  if (activeTag === "INPUT" || activeTag === "TEXTAREA") {
+    hideVerseActionPopup();
+    return;
+  }
+  let node = sel.anchorNode;
+  if (node && node.nodeType === Node.TEXT_NODE) node = node.parentElement;
+  const ayahEl = node?.closest("[data-ayah], .ayah-block, .book-ayah, .book-trans-seg, .book-translit-seg");
+  if (!ayahEl) {
+    hideVerseActionPopup();
+    return;
+  }
+  const sId = currentSurah?.id || +(ayahEl.dataset.surah || ayahEl.closest("[data-surah]")?.dataset.surah || 1);
+  const aNum = +(ayahEl.dataset.ayah || ayahEl.dataset.a || ayahEl.closest("[data-ayah]")?.dataset.ayah);
+  if (!aNum) {
+    hideVerseActionPopup();
+    return;
+  }
+
+  if (sel.rangeCount === 0) return;
+  const range = sel.getRangeAt(0);
+  const rect = range.getBoundingClientRect();
+  if (!rect || rect.width === 0) return;
+
+  showVerseActionPopup(sId, aNum, rect);
+}
+
+document.addEventListener("mouseup", (e) => {
+  if (e.target.closest("#verse-action-popup")) return;
+  setTimeout(() => handleTextSelection(e), 20);
+});
+
+document.addEventListener("touchend", (e) => {
+  if (e.target.closest("#verse-action-popup")) return;
+  setTimeout(() => handleTextSelection(e), 80);
+});
+
+document.addEventListener("mousedown", (e) => {
+  if (verseActionPopupEl && !verseActionPopupEl.contains(e.target)) {
+    hideVerseActionPopup();
   }
 });
 

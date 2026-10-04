@@ -5062,3 +5062,290 @@ html[data-theme="night"] .asbab-card-badge,
   color: #fff;
 }
 
+/* ==========================================================================
+   User Note Pen Indicator (Tadabbur & Reflection Badges)
+   ========================================================================== */
+.note-pen-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  background: rgba(31, 107, 82, 0.12);
+  color: #1f6b52;
+  border: 1px solid rgba(31, 107, 82, 0.35);
+  border-radius: 999px;
+  padding: 0.12rem 0.52rem;
+  font-size: 0.76rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  vertical-align: middle;
+  margin-inline-end: 0.4rem;
+  line-height: 1.3;
+}
+
+.note-pen-btn:hover {
+  background: rgba(31, 107, 82, 0.22);
+  border-color: rgba(31, 107, 82, 0.6);
+  box-shadow: 0 0 10px rgba(31, 107, 82, 0.25);
+  transform: translateY(-1px);
+}
+
+.note-pen-btn.active,
+.note-pen-btn:focus-visible {
+  background: #1f6b52;
+  color: #fff;
+  border-color: #154d3b;
+  box-shadow: 0 0 12px rgba(31, 107, 82, 0.35);
+}
+
+.book-note-pen {
+  padding: 0.05rem 0.35rem;
+  font-size: 0.72rem;
+  margin: 0 0.25rem 0 0.1rem;
+  border-radius: 6px;
+}
+
+.wbw-trans-wrapper .note-pen-btn {
+  margin-bottom: 0.35rem;
+}
+
+html[data-theme="night"] .note-pen-btn,
+[data-theme="dark"] .note-pen-btn {
+  background: rgba(45, 134, 89, 0.2);
+  color: #6ee7b7;
+  border-color: rgba(110, 231, 183, 0.4);
+}
+
+html[data-theme="night"] .note-pen-btn:hover,
+[data-theme="dark"] .note-pen-btn:hover {
+  background: rgba(45, 134, 89, 0.32);
+  border-color: rgba(110, 231, 183, 0.65);
+  box-shadow: 0 0 10px rgba(110, 231, 183, 0.25);
+}
+
+html[data-theme="sepia"] .note-pen-btn {
+  background: rgba(45, 105, 75, 0.14);
+  color: #1a563f;
+  border-color: rgba(45, 105, 75, 0.38);
+}
+
+/* ==========================================================================
+   Cross-Language Verse Highlighting (Arabic, English, Transliteration, WBW)
+   ========================================================================== */
+.arabic-block.verse-highlighted,
+.translation-block.verse-highlighted,
+.translit-block.verse-highlighted,
+.wbw-ayah-block.verse-highlighted {
+  background-color: rgba(254, 240, 138, 0.36) !important;
+  border-radius: var(--radius-sm, 6px);
+  box-shadow: inset 3px 0 0 #f59e0b;
+  transition: background-color 0.25s ease, box-shadow 0.25s ease;
+}
+
+.wbw-grid.verse-highlighted,
+.wbw-trans-wrapper.verse-highlighted {
+  background-color: rgba(254, 240, 138, 0.3) !important;
+  border-radius: var(--radius-sm, 6px);
+}
+
+.book-ayah.verse-highlighted,
+.book-trans-seg.verse-highlighted,
+.book-translit-seg.verse-highlighted {
+  background-color: rgba(254, 240, 138, 0.45) !important;
+  border-radius: 4px;
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+  padding: 0.1rem 0.28rem;
+  box-shadow: 0 0 0 1px rgba(245, 158, 11, 0.25);
+  transition: background-color 0.25s ease;
+}
+
+/* Sepia theme highlight overrides */
+html[data-theme="sepia"] .arabic-block.verse-highlighted,
+html[data-theme="sepia"] .translation-block.verse-highlighted,
+html[data-theme="sepia"] .translit-block.verse-highlighted,
+html[data-theme="sepia"] .wbw-ayah-block.verse-highlighted {
+  background-color: rgba(245, 158, 11, 0.2) !important;
+  box-shadow: inset 3px 0 0 #d97706;
+}
+
+html[data-theme="sepia"] .book-ayah.verse-highlighted,
+html[data-theme="sepia"] .book-trans-seg.verse-highlighted,
+html[data-theme="sepia"] .book-translit-seg.verse-highlighted {
+  background-color: rgba(245, 158, 11, 0.25) !important;
+  box-shadow: 0 0 0 1px rgba(217, 119, 6, 0.3);
+}
+
+/* Night / Dark theme highlight overrides */
+html[data-theme="night"] .arabic-block.verse-highlighted,
+html[data-theme="night"] .translation-block.verse-highlighted,
+html[data-theme="night"] .translit-block.verse-highlighted,
+html[data-theme="night"] .wbw-ayah-block.verse-highlighted,
+[data-theme="dark"] .arabic-block.verse-highlighted,
+[data-theme="dark"] .translation-block.verse-highlighted,
+[data-theme="dark"] .translit-block.verse-highlighted,
+[data-theme="dark"] .wbw-ayah-block.verse-highlighted {
+  background-color: rgba(234, 179, 8, 0.16) !important;
+  box-shadow: inset 3px 0 0 #facc15;
+}
+
+html[data-theme="night"] .book-ayah.verse-highlighted,
+html[data-theme="night"] .book-trans-seg.verse-highlighted,
+html[data-theme="night"] .book-translit-seg.verse-highlighted,
+[data-theme="dark"] .book-ayah.verse-highlighted,
+[data-theme="dark"] .book-trans-seg.verse-highlighted,
+[data-theme="dark"] .book-translit-seg.verse-highlighted {
+  background-color: rgba(234, 179, 8, 0.22) !important;
+  box-shadow: 0 0 0 1px rgba(250, 204, 21, 0.32);
+}
+
+/* Ayah Rail Highlight Dot Button */
+.ayah-dot.highlight-btn {
+  color: var(--muted);
+  transition: all 0.2s ease;
+}
+
+.ayah-dot.highlight-btn:hover {
+  color: #f59e0b;
+  background: rgba(245, 158, 11, 0.15);
+}
+
+.ayah-dot.highlight-btn.active {
+  color: #d97706;
+  background: rgba(245, 158, 11, 0.22);
+  border-color: rgba(245, 158, 11, 0.45);
+}
+
+html[data-theme="night"] .ayah-dot.highlight-btn.active,
+[data-theme="dark"] .ayah-dot.highlight-btn.active {
+  color: #facc15;
+  background: rgba(250, 204, 21, 0.22);
+}
+
+/* ==========================================================================
+   Floating Verse Action Popup (Highlight, Note, Listen)
+   ========================================================================== */
+.verse-action-popup {
+  position: fixed;
+  z-index: 9999;
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+  padding: 0.25rem 0.35rem;
+  background: var(--paper, #fffcf7);
+  border: 1px solid var(--border, rgba(31, 107, 82, 0.25));
+  border-radius: 999px;
+  box-shadow: 0 8px 24px rgba(26, 36, 32, 0.18), 0 2px 6px rgba(26, 36, 32, 0.08);
+  animation: vapFadeIn 0.15s cubic-bezier(0.16, 1, 0.3, 1);
+  user-select: none;
+  -webkit-user-select: none;
+  pointer-events: auto;
+}
+
+.verse-action-popup[hidden] {
+  display: none !important;
+}
+
+@keyframes vapFadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(6px) scale(0.96);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+.vap-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0.35rem 0.65rem;
+  border: none;
+  border-radius: 999px;
+  background: transparent;
+  color: var(--ink, #1a2420);
+  font-family: var(--font-ui, sans-serif);
+  font-size: 0.78rem;
+  font-weight: 600;
+  cursor: pointer;
+  line-height: 1.2;
+  white-space: nowrap;
+  transition: all 0.15s ease;
+}
+
+.vap-btn:hover {
+  background: rgba(31, 107, 82, 0.1);
+  color: var(--green, #1f6b52);
+}
+
+.vap-btn.vap-hl:hover {
+  background: rgba(245, 158, 11, 0.15);
+  color: #b45309;
+}
+
+.vap-btn.vap-hl.active {
+  background: rgba(245, 158, 11, 0.22);
+  color: #b45309;
+}
+
+.vap-btn.vap-note:hover {
+  background: rgba(31, 107, 82, 0.15);
+  color: #1f6b52;
+}
+
+.vap-btn.vap-listen:hover {
+  background: rgba(59, 130, 246, 0.15);
+  color: #2563eb;
+}
+
+.vap-ic {
+  font-size: 0.92rem;
+  line-height: 1;
+}
+
+.vap-txt {
+  font-size: 0.78rem;
+  font-weight: 600;
+}
+
+/* Theme overrides for floating popup */
+html[data-theme="night"] .verse-action-popup,
+[data-theme="dark"] .verse-action-popup {
+  background: #1f2924;
+  border-color: rgba(255, 255, 255, 0.15);
+  box-shadow: 0 8px 28px rgba(0, 0, 0, 0.55), 0 2px 8px rgba(0, 0, 0, 0.3);
+}
+
+html[data-theme="night"] .vap-btn,
+[data-theme="dark"] .vap-btn {
+  color: #e5e7eb;
+}
+
+html[data-theme="night"] .vap-btn:hover,
+[data-theme="dark"] .vap-btn:hover {
+  background: rgba(255, 255, 255, 0.1);
+  color: #fff;
+}
+
+html[data-theme="night"] .vap-btn.vap-hl.active,
+[data-theme="dark"] .vap-btn.vap-hl.active {
+  background: rgba(250, 204, 21, 0.22);
+  color: #fde047;
+}
+
+html[data-theme="sepia"] .verse-action-popup {
+  background: #f4ece1;
+  border-color: rgba(140, 100, 30, 0.25);
+  box-shadow: 0 8px 24px rgba(60, 40, 10, 0.15);
+}
+
+@media (max-width: 600px) {
+  .vap-btn {
+    padding: 0.4rem 0.55rem;
+    font-size: 0.74rem;
+  }
+}
+
