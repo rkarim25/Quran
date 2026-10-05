@@ -78,6 +78,24 @@ not added.
 
 ## Remaining work
 
+### Memory-nominated, locally verified additions
+
+Memory was used only to nominate candidates; wording and collection names were
+checked against each ayah's own Ibn Kathir section and its displayed AI translation.
+No independent authentication or grading is claimed.
+
+| Ayah | Additional understanding |
+|---|---|
+| 2:197 | Yemeni pilgrims' claim of reliance explains the practical command to carry supplies. |
+| 2:272 | Hesitation to help polytheist relatives explains the connection between guidance and charity. |
+| 3:188 | Concealing an answer while claiming credit explains the praise condemned here. |
+| 3:195 | Umm Salamah's question about migration explains the explicit inclusion of women's deeds. |
+
+Already covered and not duplicated: 8:1, 9:118, 18:23, 24:22, 58:1, 80:1.
+5:67 was considered but deferred: avoid adding a protection claim without carefully
+distinguishing preservation of the mission from immunity to every physical injury.
+These additions do not complete the outstanding review of pre-existing bulbs.
+
 - Complete human-readable, source-by-source review of every existing bulb.
 - Evaluate further candidates without treating keyword matches as verification.
 - Check repeated bulbs within a single story and reports presented more

@@ -19,6 +19,10 @@ bulbs = json.loads(
     object_pairs_hook=unique_object,
 )
 evidence = {
+    "2:197": ["without taking enough supplies", "reliance on Allah"],
+    "2:272": ["Disliked giving charity to their polytheist relatives", "allowed to give it"],
+    "3:188": ["giving him an incorrect answer", "hid the correct news"],
+    "3:195": ["family of Umm Salamah", "Migration"],
     "2:199": ["Al-Hums", "stand at 'Arafat"],
     "2:220": ["get spoiled", "joined their food and drink"],
     "5:101": ["Is it required every year?", "it would have become obligated"],
