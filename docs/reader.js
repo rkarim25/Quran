@@ -3124,21 +3124,25 @@ function renderHome(surahs) {
       <header class="home-intro">
         <p class="home-bismillah" dir="rtl">بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ</p>
       </header>
+      <div class="search-wrap home-search">
+        <span class="search-icon" aria-hidden="true">⌕</span>
+        <input type="search" id="surah-search" class="search-input" placeholder="Search a sūrah, ayah (2:255), word, or رحم…" autocomplete="off" spellcheck="false" enterkeyhint="go" />
+        <div id="search-dropdown" class="search-dropdown" hidden role="listbox"></div>
+      </div>
       ${recentReads.length ? `
       <section class="home-section resume-section">
-        <h2 class="section-title">Continue your reading</h2>
+        <h2 class="section-title">Continue reading</h2>
         <div class="resume-list">${recentReads
+          .slice(0, 4)
           .map((entry) => resumeCardHtml(entry, surahs))
           .join("")}</div>
       </section>` : ""}
-      <div class="search-wrap home-search">
-        <span class="search-icon" aria-hidden="true">⌕</span>
-        <input type="search" id="surah-search" class="search-input" placeholder="mercy · رحم · 2:255 · Al-Baqarah…" autocomplete="off" spellcheck="false" enterkeyhint="go" />
-        <div id="search-dropdown" class="search-dropdown" hidden role="listbox"></div>
-      </div>
-      <div class="view-toggle" role="group" aria-label="Surah or Juz view">
-        <button class="vt-btn${byJuz ? "" : " active"}" data-view="surah">By Surah</button>
-        <button class="vt-btn${byJuz ? " active" : ""}" data-view="juz">By Juz</button>
+      <div class="home-grid-head">
+        <h2 class="section-title">The 114 Sūrahs</h2>
+        <div class="view-toggle" role="group" aria-label="Surah or Juz view">
+          <button class="vt-btn${byJuz ? "" : " active"}" data-view="surah">By Sūrah</button>
+          <button class="vt-btn${byJuz ? " active" : ""}" data-view="juz">By Juz</button>
+        </div>
       </div>
       <div id="surah-grid" class="surah-grid"${byJuz ? " hidden" : ""}>${surahs.map((s) => surahCard(s)).join("")}</div>
       <div id="juz-grid"${byJuz ? "" : " hidden"}>${juzGridHtml(surahs)}</div>
@@ -3175,9 +3179,12 @@ function surahCard(s) {
     <a href="#/${s.id}" class="surah-card" data-search="${s.id} ${s.name_simple.toLowerCase()} ${s.translated_name.toLowerCase()} ${s.name_arabic}">
       <div class="surah-card-inner">
         <span class="surah-num">${s.id}</span>
+        <span class="surah-names">
+          <span class="surah-name">${esc(s.name_simple)}</span>
+          <span class="surah-en">${esc(s.translated_name)}</span>
+          <span class="surah-meta"><span class="place-tag ${s.revelation_place}">${place}</span> · ${s.verses_count} ayahs · Juz ${SURAH_JUZ[s.id] || ''}</span>
+        </span>
         <span class="surah-ar" dir="rtl">${esc(s.name_arabic)}</span>
-        <span class="surah-en">${esc(s.translated_name)}</span>
-        <span class="surah-meta"><span class="place-tag ${s.revelation_place}">${place}</span> · ${s.verses_count}v · Juz ${SURAH_JUZ[s.id] || ''}</span>
       </div>
     </a>`;
 }
