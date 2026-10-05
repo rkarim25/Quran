@@ -39,6 +39,43 @@ was not added because that ayah already has a bulb and this batch avoids
 overloading it. The 83:1 trading context was not selected: its explanatory
 gain over the passage's explicit condemnation of short measure was weaker.
 
+## Batch 2 ? whole-Quran occasion scan (15 additions)
+
+Scanned the `## Tafsir Ibn Kathir` section of every ayah file lacking a bulb
+(6,065 files) for revelation-occasion markers; 835 matched, 321 strongly.
+Each strong candidate was read against its translation and a bulb written only
+where a concrete report changes how the verse is understood. Entries are under
+45 words and cite only what the covered ayah's own source section says.
+
+| Ayah | Explanatory gain |
+|---|---|
+| 2:115 | Answers the Jews' objection to the qiblah change; not a licence to pray in any direction. |
+| 2:144 | Why the Prophet ? was looking to the sky: longing for Ibrahim's qiblah while commanded to face Jerusalem. |
+| 2:204 | Al-Akhnas bin Shariq: the eloquent professing hypocrite behind the description. |
+| 2:219 | First of three stages of wine prohibition, prompted by Umar's prayer for a clear ruling. |
+| 2:256 | Ansar children raised among Banu An-Nadir; forbids forced conversion even of one's own children. |
+| 2:284 | Companions' distress at accountability for inner thoughts; relief followed in 2:286. |
+| 5:33 | The Ukl/Uraynah murder of the shepherd: the penalty targets treacherous banditry. |
+| 5:43 | Jews had replaced stoning with flogging and sought a lenient verdict only. |
+| 9:80 | "Seventy" is hyperbole; the Prophet ? had prayed over Ibn Ubayy and given his shirt. |
+| 20:114 | The Prophet ? repeating with Jibril out of eagerness; Allah guarantees preservation. |
+| 24:61 | Social embarrassment about eating with the disabled, which the verse removes. |
+| 33:53 | Umar's request to screen the Prophet's wives confirmed by the Verse of Hijab. |
+| 47:20 | Believers asked for a fighting surah; sick hearts recoiled when it came. |
+| 63:8 | Ibn Ubayy's "fattened dog" remark reported by Zayd bin Arqam. |
+| 66:1 | The honey and Maghafir episode behind the Prophet's oath. |
+
+Rejected after reading: 5:90 (its Sa'd/wine quarrel is already implied by 5:91
+and 2:219 covers the staged prohibition), 36:12 (Banu Salimah footsteps report
+is a virtue narration, not an occasion), 18:9, 25:27, 58:20, 9:73, 54:47-55
+(general commentary or already-covered neighbours), and 93:3, 108:2 (duplicates
+of existing bulbs on 93:1 and 108:1). 186 ayah-specific bulbs after this batch.
+
+This completes the systematic occasion screen of the whole Quran. Remaining
+marker matches are general exegesis, repeated stories already covered, or
+reports Ibn Kathir himself presents as weak or disputed; they were deliberately
+not added.
+
 ## Remaining work
 
 - Complete human-readable, source-by-source review of every existing bulb.

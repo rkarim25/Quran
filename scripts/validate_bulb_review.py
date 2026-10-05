@@ -27,6 +27,21 @@ evidence = {
     "2:187": ["Qays bin Sirmah", "lost consciousness"],
     "4:19": ["his male relatives", "prevent her from marriage"],
     "62:11": ["caravan", "only twelve men remained"],
+    "5:43": ["two Jews who committed adultery", "stoning"],
+    "24:61": ["too embarrassed to eat with the blind", "best morsels"],
+    "33:53": ["why do you not screen them", "Ayah of Hijab"],
+    "66:1": ["drink honey", "Maghafir"],
+    "2:204": ["Al-Akhnas bin Shariq", "most quarrelsome"],
+    "2:284": ["we cannot bear it", "We hear and we obey"],
+    "2:115": ["The Jews were disturbed", "east and the west"],
+    "2:144": ["face Bayt Al-Maqdis", "turn your faces"],
+    "63:8": ["Zayd bin Arqam", "Feed your dog"],
+    "9:80": ["gave him his shirt as a shroud", "exaggerate"],
+    "5:33": ["'Ukl", "killed the shepherd"],
+    "2:256": ["raise him as a Jew", "Banu An-Nadir"],
+    "2:219": ["Give us a clear ruling regarding Al-Khamr", "4:43"],
+    "20:114": ["move his tongue", "eagerness to memorize"],
+    "47:20": ["hoping that Jihad would be legislated", "many of the people turned back"],
 }
 for key, entry in bulbs.items():
     if key.startswith("__"):

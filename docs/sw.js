@@ -1,15 +1,15 @@
-/* Service worker — offline support for the Qur'an reader.
+﻿/* Service worker â€” offline support for the Qur'an reader.
    Strategy:
    - Navigations: network-first, fall back to the cached SPA shell (index.html).
    - Same-origin assets + data + fonts (and the cross-origin font/SDK files):
-     stale-while-revalidate — serve from cache instantly, refresh in the
+     stale-while-revalidate â€” serve from cache instantly, refresh in the
      background. After one online visit the whole app + any surahs you opened
      work with no connection.
    - Firebase Auth/Firestore endpoints and build.json are never intercepted, so
      sign-in, cross-device sync, and the auto-update check still need (and use)
      the live network.
    Bump VERSION on any change here to roll caches over. */
-const VERSION = "2026-10-05a";
+const VERSION = "2026-10-05b";
 const CORE = `quran-core-${VERSION}`;
 const RUNTIME = `quran-runtime-${VERSION}`;
 
