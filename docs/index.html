@@ -38,7 +38,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Amiri+Quran&family=Amiri:ital,wght@0,400;0,700;1,400&family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
   <link rel="preload" href="https://verses.quran.foundation/fonts/quran/hafs/uthmanic_hafs/UthmanicHafs1Ver18.woff2" as="font" type="font/woff2" crossorigin>
-  <link rel="stylesheet" href="reader.css?v=83">
+  <link rel="stylesheet" href="reader.css?v=84">
 </head>
 <body>
   <div class="ambient-pattern" aria-hidden="true"></div>
@@ -251,12 +251,15 @@
           <button type="button" class="qap-btn" id="qap-next" title="Next (K)" aria-label="Next">⏭</button>
         </div>
         <div class="qap-actions">
-          <button type="button" class="qap-pill qap-note-btn" id="qap-note" title="Write reflection or AI note for this verse">✎ Note</button>
-          <button type="button" class="qap-pill" id="qap-continuous" title="Toggle continuous playback">🔁 Cont.</button>
           <button type="button" class="qap-pill active" id="qap-english" title="Toggle English translation audio">🌐 Eng: ON</button>
-          <button type="button" class="qap-pill" id="qap-format" title="Playback format (Paragraph / Verse)">📄 Para</button>
-          <button type="button" class="qap-pill" id="qap-speed" title="Playback speed">1x</button>
+          <button type="button" class="qap-pill qap-more-btn" id="qap-more" title="More playback options (Continuous, Format, Speed, Follow, Note)" aria-label="More options">⚙</button>
+          <div class="qap-secondary-actions" id="qap-secondary-actions">
+            <button type="button" class="qap-pill qap-note-btn" id="qap-note" title="Write reflection or AI note for this verse">✎ Note</button>
+            <button type="button" class="qap-pill" id="qap-continuous" title="Toggle continuous playback">🔁 Cont.</button>
+            <button type="button" class="qap-pill" id="qap-format" title="Playback format (Paragraph / Verse)">📄 Para</button>
+            <button type="button" class="qap-pill" id="qap-speed" title="Playback speed">1x</button>
             <button type="button" class="qap-pill active" id="qap-follow" title="Snap the page to the line being played">🎯 Follow</button>
+          </div>
           <button type="button" class="qap-btn qap-close" id="qap-close" title="Close player" aria-label="Close">×</button>
         </div>
       </div>
@@ -305,7 +308,7 @@
   <script src="https://www.gstatic.com/firebasejs/10.12.0/firebase-firestore-compat.js"></script>
   <script src="github-sync.js?v=27"></script>
   <script src="firebase-sync.js?v=30"></script>
-  <script src="audio-player.js?v=15"></script>
+  <script src="audio-player.js?v=16"></script>
   <script src="reader.js?v=80"></script>
   <script src="print.js?v=11"></script>
   <script>

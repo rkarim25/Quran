@@ -1,4 +1,4 @@
-﻿/* Service worker â€” offline support for the Qur'an reader.
+/* Service worker â€” offline support for the Qur'an reader.
    Strategy:
    - Navigations: network-first, fall back to the cached SPA shell (index.html).
    - Same-origin assets + data + fonts (and the cross-origin font/SDK files):
@@ -9,7 +9,7 @@
      sign-in, cross-device sync, and the auto-update check still need (and use)
      the live network.
    Bump VERSION on any change here to roll caches over. */
-const VERSION = "2026-10-05c";
+const VERSION = "2026-10-07a";
 const CORE = `quran-core-${VERSION}`;
 const RUNTIME = `quran-runtime-${VERSION}`;
 

@@ -907,7 +907,12 @@ const STORAGE_FOLLOW = "quran-audio-follow";
 
   function openChooser(tab = null) {
     const bar = document.getElementById("quran-audio-player");
-    if (bar) bar.hidden = false;
+    if (bar) {
+      bar.hidden = false;
+      bar.classList.remove("qap-more-open");
+    }
+    const moreBtn = document.getElementById("qap-more");
+    if (moreBtn) moreBtn.classList.remove("active");
     const drawer = document.getElementById("qap-chooser-drawer");
     if (!drawer) return;
     chooserOpen = true;
@@ -2394,6 +2399,10 @@ const STORAGE_FOLLOW = "quran-audio-follow";
       progressEl.value = 0;
       progressEl.style.setProperty("--seek-pct", "0%");
     }
+    const bar = document.getElementById("quran-audio-player");
+    if (bar) bar.classList.remove("qap-more-open");
+    const moreBtn = document.getElementById("qap-more");
+    if (moreBtn) moreBtn.classList.remove("active");
     updatePlayerBar();
     const toolbarBtn = document.getElementById("toolbar-play-surah");
     if (toolbarBtn) {
@@ -2548,6 +2557,19 @@ const STORAGE_FOLLOW = "quran-audio-follow";
     document.getElementById("qap-follow")?.addEventListener("click", toggleFollowAlong);
     document.getElementById("qap-close")?.addEventListener("click", closePlayer);
     document.getElementById("qap-note")?.addEventListener("click", openQuickNote);
+    const moreBtn = document.getElementById("qap-more");
+    if (moreBtn) {
+      moreBtn.addEventListener("click", (e) => {
+        e.stopPropagation();
+        const bar = document.getElementById("quran-audio-player");
+        if (bar) {
+          bar.classList.toggle("qap-more-open");
+          moreBtn.classList.toggle("active", bar.classList.contains("qap-more-open"));
+          const barH = bar.offsetHeight;
+          if (barH) document.documentElement.style.setProperty("--qap-h", `${barH}px`);
+        }
+      });
+    }
     document.getElementById("qap-track-btn")?.addEventListener("click", (e) => {
       e.stopPropagation();
       toggleChooser();
@@ -2566,7 +2588,7 @@ const STORAGE_FOLLOW = "quran-audio-follow";
       if (verseChooserSurahId < 114) renderVerseChooser(verseChooserSurahId + 1);
     });
 
-    // Click outside to close chooser
+    // Click outside to close chooser or more-options bubble
     document.addEventListener("click", (e) => {
       if (chooserOpen) {
         const drawer = document.getElementById("qap-chooser-drawer");
@@ -2580,6 +2602,28 @@ const STORAGE_FOLLOW = "quran-audio-follow";
         ) {
           closeChooser();
         }
+      }
+      const bar = document.getElementById("quran-audio-player");
+      if (bar && bar.classList.contains("qap-more-open")) {
+        const moreBtnEl = document.getElementById("qap-more");
+        const secActions = document.getElementById("qap-secondary-actions");
+        if (
+          (!moreBtnEl || !moreBtnEl.contains(e.target)) &&
+          (!secActions || !secActions.contains(e.target))
+        ) {
+          bar.classList.remove("qap-more-open");
+          if (moreBtnEl) moreBtnEl.classList.remove("active");
+          const barH = bar.offsetHeight;
+          if (barH) document.documentElement.style.setProperty("--qap-h", `${barH}px`);
+        }
+      }
+    });
+
+    window.addEventListener("resize", () => {
+      const bar = document.getElementById("quran-audio-player");
+      if (bar && !bar.hidden) {
+        const barH = bar.offsetHeight;
+        if (barH) document.documentElement.style.setProperty("--qap-h", `${barH}px`);
       }
     });
 

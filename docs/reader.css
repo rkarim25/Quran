@@ -4068,6 +4068,12 @@ body.qap-open .app {
   align-items: center;
   gap: 0.45rem;
 }
+.qap-secondary-actions {
+  display: contents;
+}
+.qap-more-btn {
+  display: none;
+}
 .qap-pill {
   padding: 0.25rem 0.6rem;
   font-size: 0.75rem;
@@ -4634,69 +4640,99 @@ html[data-theme="night"] .qap-pill.repeat-range {
   color: var(--green);
 }
 
-/* Mobile & Touch Layout Optimization */
+/* Mobile & Touch Layout Optimization — Compact Single-Row Audio Player */
 @media (max-width: 768px) {
-  /* Compact mobile player: a thin scrubber row + one control row. Secondary
-     pills live in a horizontally-scrollable strip so the bar never wraps to
-     multiple lines and never eats half the screen. */
+  /* Neat small panel: a slim scrubber row + a clean single row with track,
+     playback controls, and primary toggles. Secondary settings float in an
+     expandable options bubble via ⚙ so the player never dominates or covers the page. */
   .quran-audio-player {
-    padding: 0.3rem 0.6rem calc(0.35rem + env(safe-area-inset-bottom, 0px));
-    backdrop-filter: none;
-    -webkit-backdrop-filter: none;
+    padding: 0.35rem 0.65rem calc(0.35rem + env(safe-area-inset-bottom, 0px));
+    border-top: 1px solid var(--border);
+    box-shadow: 0 -3px 16px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(14px);
+    -webkit-backdrop-filter: blur(14px);
+  }
+  body.qap-open .app {
+    padding-bottom: calc(var(--qap-h, 62px) + 0.6rem);
   }
   .qap-inner {
     flex-direction: column;
     align-items: stretch;
     gap: 0.2rem;
+    position: relative;
   }
   .qap-scrub {
     width: 100%;
     max-width: 100%;
-    gap: 0.4rem;
+    display: flex;
+    align-items: center;
+    gap: 0.35rem;
+    margin: 0;
+    padding: 0;
   }
   .qap-time {
-    font-size: 0.68rem;
+    font-size: 0.65rem;
+    font-weight: 600;
+    color: var(--ink-soft);
+    font-variant-numeric: tabular-nums;
   }
   .qap-progress {
-    height: 5px;
+    height: 4px;
+    margin: 0;
+    flex: 1;
     transition: none;
   }
   .qap-progress:hover {
-    height: 5px;
+    height: 4px;
+  }
+  .qap-progress::-webkit-slider-thumb {
+    width: 13px;
+    height: 13px;
+  }
+  .qap-progress::-moz-range-thumb {
+    width: 13px;
+    height: 13px;
   }
   .qap-main-row {
     width: 100%;
     display: flex;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
     align-items: center;
-    justify-content: flex-start;
-    gap: 0.2rem 0.35rem;
+    justify-content: space-between;
+    gap: 0.3rem;
     position: relative;
   }
   .qap-meta {
     min-width: 0;
     flex: 1 1 auto;
-    order: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    overflow: hidden;
   }
   .qap-reciter {
-    font-size: 0.6rem;
+    font-size: 0.58rem;
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
+    line-height: 1.2;
   }
   .qap-track-btn {
     max-width: 100%;
+    overflow: hidden;
   }
   .qap-track {
-    font-size: 0.8rem;
+    font-size: 0.82rem;
+    font-weight: 600;
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
   }
   .qap-controls {
-    gap: 0.1rem;
-    order: 2;
     flex: 0 0 auto;
+    display: flex;
+    align-items: center;
+    gap: 0.15rem;
   }
   .qap-btn {
     padding: 0.3rem;
@@ -4708,31 +4744,70 @@ html[data-theme="night"] .qap-pill.repeat-range {
     font-size: 0.9rem;
   }
   .qap-actions {
-    order: 3;
-    flex: 1 1 100%;
+    flex: 0 0 auto;
     display: flex;
-    flex-wrap: nowrap;
+    align-items: center;
     gap: 0.25rem;
+  }
+  .qap-pill {
+    padding: 0.2rem 0.45rem;
+    font-size: 0.68rem;
+    white-space: nowrap;
+  }
+  .qap-more-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 26px;
+    height: 26px;
+    padding: 0;
+    font-size: 0.82rem;
+    border-radius: 50%;
+  }
+  .qap-more-btn.active {
+    background: var(--gold-soft);
+    color: var(--ink);
+    border-color: var(--gold);
+  }
+  .qap-secondary-actions {
+    display: none;
+  }
+  .quran-audio-player.qap-more-open .qap-secondary-actions {
+    display: flex;
+    position: absolute;
+    bottom: calc(100% + 6px);
+    left: 8px;
+    right: 8px;
+    background: var(--paper);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    box-shadow: 0 -4px 18px rgba(0, 0, 0, 0.16);
+    padding: 7px 10px;
+    gap: 6px;
     overflow-x: auto;
     -webkit-overflow-scrolling: touch;
     scrollbar-width: none;
-    padding-bottom: 1px;
+    z-index: 280;
+    align-items: center;
+    justify-content: flex-start;
+    animation: qapPopUp 0.18s ease-out;
   }
-  .qap-actions::-webkit-scrollbar {
+  .quran-audio-player.qap-more-open .qap-secondary-actions::-webkit-scrollbar {
     display: none;
   }
-  .qap-pill {
-    flex: 0 0 auto;
-    padding: 0.18rem 0.45rem;
-    font-size: 0.66rem;
-    white-space: nowrap;
+  @keyframes qapPopUp {
+    from { opacity: 0; transform: translateY(6px); }
+    to { opacity: 1; transform: translateY(0); }
   }
   .qap-close {
-    position: absolute;
-    top: -0.1rem;
-    right: 0.35rem;
-    padding: 0.2rem 0.4rem;
-    font-size: 0.95rem;
+    position: static;
+    padding: 0.2rem;
+    font-size: 1.05rem;
+    width: 24px;
+    height: 24px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
   }
   .qap-chooser-drawer {
     position: fixed;
@@ -4954,43 +5029,6 @@ html[data-theme="sepia"] .book-trans-seg.segment-speaking {
   transition: all 0.15s ease;
 }
 
-/* Mobile responsive player */
-@media (max-width: 640px) {
-  .quran-audio-player {
-    padding: 0.45rem 0.65rem 0.6rem;
-  }
-  .qap-inner {
-    flex-wrap: wrap;
-    gap: 0.35rem;
-  }
-  .qap-meta {
-    flex: 1 1 100%;
-    min-width: 0;
-  }
-  .qap-track {
-    font-size: 0.85rem;
-    overflow: hidden;
-    text-overflow: ellipsis;
-  }
-  .qap-controls {
-    order: 1;
-  }
-  .qap-actions {
-    order: 2;
-    gap: 0.25rem;
-    flex-wrap: wrap;
-  }
-  .qap-pill {
-    padding: 0.2rem 0.45rem;
-    font-size: 0.72rem;
-  }
-  .qap-scrub {
-    order: 3;
-    width: 100%;
-    max-width: 100%;
-    margin-top: 0.1rem;
-  }
-}
 
 /* ==========================================================================
    Asbab al-Nuzul (Occasion of Revelation) Light Bulb & Micro Card
